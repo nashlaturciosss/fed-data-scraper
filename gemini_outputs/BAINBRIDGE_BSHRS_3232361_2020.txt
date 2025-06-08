@@ -1,0 +1,26 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2020","William R. Cox,"Sr."","n/a","102807","10.816%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2020","Winston Brock","n/a","70541","7.421%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2020","Greg Calhoun","n/a","56875","5.984%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2020","Terril Scott","n/a","56250","5.918%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bainbridge Bancshares,"Inc."","Director,"Chairman & Treasurer"","Charles Whittaker","Director & Chairman","Dowdy & Whittaker CPA,"Southern Fidelity Holding","LLC","Southern Fidelity Managing Agency","LLC.","SFPC Holding","LLC","Southwind Pest & Termite","LLC"","2020"
+"Bainbridge Bancshares,"Inc."","Director & Secretary","Roger Mills","Director","Roger L. Mills DMD","2020"
+"Bainbridge Bancshares,"Inc."","Director","Winston Brock,"Jr"","Director","Rx Drugs,"Inc"","2020"
+"Bainbridge Bancshares,"Inc."","Director","Edgar M. Robinson","Director","Peoples Loan Service,"Inc."","2020"
+"Bainbridge Bancshares,"Inc."","Director","Richard F. Ivey","Director","Meredian Holding Group,"Ivey Funeral Home","Inc."","2020"
+"Bainbridge Bancshares,"Inc."","Director & Asst. Secretary","Roy Adams","Director","Adams Const.,"Adams Bros Farm"","2020"
+"Bainbridge Bancshares,"Inc."","Director","Butch Yarbrough","Director","Yarbrough Farms","2020"
+"Bainbridge Bancshares,"Inc."","Director","Landin Marzolf","Director","L & K Chiropractic Services LLC,"SAGL Medical Group"","2020"
+"Bainbridge Bancshares,"Inc."","Director","Greg Calhoun","Director","Circle C Farms,"GC Sprayer Ser. Inc.","GC Housing","Inc.","GC Peanut Co. LLC","American Peanut Growers","Miller Co Gin","MHG","Inc."","2020"
+"Bainbridge Bancshares,"Inc."","Director","Donald Barber","Director","Barber Fertilizer Supply,"SOWEGA Cotton Hospital Authority"","2020"
+"Bainbridge Bancshares,"Inc."","CFO & Secretary","Donna Kelley","CFO,"Secretary & Senior Vice President"","n/a","2020"
+"Bainbridge Bancshares,"Inc."","CEO/President & Director","Brad E. Barber","CEO/President & Director","n/a","2020"
+"Bainbridge Bancshares,"Inc."","None","William R. Cox,"Sr."","Director","Southern Fidelity Holding LLC,"Southern Fidelity Managing Agency","LLC.","WRC Enterprises","LLC.","Richmond Hill Funeral Home Inc.","Jake A Futch Funeral Home Inc.","Vining Ivy Hill Chapel","Inc."","2020"
+```

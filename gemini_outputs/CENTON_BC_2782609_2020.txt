@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Centon Bancorp,"Inc."","Richton","2020","William E Bowen","Common Stock","255.964","7.24%"
+"Centon Bancorp,"Inc."","Hattiesburg","2020","William S Granberry,"Jr"","Common Stock","1978.90","55.96%"
+"Centon Bancorp,"Inc."","Hattiesburg","2020","Allison Lee Granberry Trust*","Common Stock","916.28","25.91%"
+"Centon Bancorp,"Inc."","Nashville","2020","Kathryn McCaskill Rankin","Common Stock","197.82","5.59%"
+"Centon Bancorp,"Inc."","Palo Alto","2020","Mallory McCaskill Graffeo","Common Stock","197.82","5.59%"
+"Centon Bancorp,"Inc."","Richton","2020","Linda Bowen McCaskill or William K McCaskill","Common Stock","354.40","10.02%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Centon Bancorp,"Inc."","Chairman of the Board/Director","William S Granberry,"Jr"","Chairman of the Board/Director","n/a","2020"
+"Centon Bancorp,"Inc."","Director","William K McCaskill","Director","n/a","2020"
+"Centon Bancorp,"Inc."","n/a","Mallory M Graffeo","n/a","None","2020"
+"Centon Bancorp,"Inc."","n/a","Kathryn M Rankin","n/a","Social Worker","2020"
+"Centon Bancorp,"Inc."","n/a","Allison Lee Granberry Trust","n/a","n/a","2020"
+"Centon Bancorp,"Inc."","n/a","Allison Lee Granberry","n/a","n/a","2020"
+"Centon Bancorp,"Inc."","President Director","Ralph $ Olier","President Director","n/a","2020"
+```

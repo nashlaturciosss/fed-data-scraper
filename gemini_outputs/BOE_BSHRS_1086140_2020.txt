@@ -1,0 +1,25 @@
+"Here are the requested CSV tables","following the strict extraction rules:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOE BANCSHARES,"INC."","Edison","2020","D. Conner & Charlotte Collins","Common stock","5752","20.64%"
+"BOE BANCSHARES,"INC."","Edison","2020","Claud C. Lowe","Common stock","1978","7.01%"
+"BOE BANCSHARES,"INC."","Sylva","2020","Leslie L. Lowe","Common stock","2318","8.22%"
+"BOE BANCSHARES,"INC."","Edison","2020","Robert (deceased) & Carla Toal","Common stock","2846","10.09%"
+"BOE BANCSHARES,"INC."","Quitman","2020","Curtis Pickels","Common stock","2352","8.34%"
+"BOE BANCSHARES,"INC."","Edison","2020","Helen M. Lowe,"(deceased)"","Common stock","1592","5.65%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOE BANCSHARES,"INC."","Director,"Chairman"","D. Conner Collins","Director,"Chairman"","Owner--Little Pachitla Farm","2020"
+"BOE BANCSHARES,"INC."","n/a","Charlotte L. Collins","n/a","n/a","2020"
+"BOE BANCSHARES,"INC."","Director","Benjamin Dismukes","Director","n/a","2020"
+"BOE BANCSHARES,"INC."","Director","Willis A. Duvall","Director","n/a","2020"
+"BOE BANCSHARES,"INC."","Director","Dan W. Hammack,"Jr."","Director","Owner--Hammack Farm","2020"
+"BOE BANCSHARES,"INC."","Director","Thomas A. Jackson","Director","Owner-Thomas Jackson Farm","2020"
+"BOE BANCSHARES,"INC."","President,"Director"","Claud C. Lowe","President,"Director"","n/a","2020"
+"BOE BANCSHARES,"INC."","Director","Richard West","Director","n/a","2020"
+"BOE BANCSHARES,"INC."","Director","Jason Knox","Director","Managing Partner","2020"
+"BOE BANCSHARES,"INC."","Director","Martha A. Corrigan","Director","n/a","2020"
+```

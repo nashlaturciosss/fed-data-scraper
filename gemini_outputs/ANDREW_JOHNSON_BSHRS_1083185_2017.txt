@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Andrew Johnson Bancshares","Greeneville","2017","Brandon Hull","n/a","106832","28.21%"
+"Andrew Johnson Bancshares","Knoxville","2017","Leslie Hull","n/a","55524","14.66%"
+"Andrew Johnson Bancshares","Greeneville","2017","SW Marsh","n/a","21898","5.78%"
+"Andrew Johnson Bancshares","Rudledge","2017","Frances Burchette","n/a","20663","5.46%"
+"Andrew Johnson Bancshares","Greeneville","2017","William P Isbell Trust","n/a","20066","5.30%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Andrew Johnson Bancshares","Director","Sharon L. Folk","Director","President/CEO-Andrew Johnson Golf Club","2016"
+"Andrew Johnson Bancshares","Director","Joel Hice","Director","n/a","2016"
+"Andrew Johnson Bancshares","Director","James W. Hickerson,"Sr."","President/CEO & Director","n/a","2016"
+"Andrew Johnson Bancshares","Director","Paige Hull","Director","Partner-Caroline Grace,"LLC"","2016"
+"Andrew Johnson Bancshares","Director","Willaim P Isbell","Director","Partner-B.I.B.,"Inc."","2016"
+"Andrew Johnson Bancshares","Director","Christopher Marsh","Director","President-Marsh LP Gas Co.","2016"
+"Andrew Johnson Bancshares","Director","Mark R. Williams","Director","Broker-Century 21","2016"
+"Andrew Johnson Bancshares","Principal shareholder","Leslie Hull","None","Owner Greeneville Office Building","2016"
+"Andrew Johnson Bancshares","Principal shareholder","Brandon Hull","None","President-Greeneville Federal Bank","2016"
+"Andrew Johnson Bancshares","Director","Denise Terry","Director","Partner The Terry Law Firm","2016"
+```

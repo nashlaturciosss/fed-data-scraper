@@ -1,0 +1,25 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","Douglas T. Luce,"Jr."","Common Stock","30602","28.44%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","DTL,"Jr. Limited Partnership"","Common Stock","9316","8.66%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","CMB,"Limited Partnership"","Common Stock","8933","8.30%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","Charles F. Brown,"III"","Common Stock","9955","9.24%"
+"Bancorp of Lucedale,"Inc."","Mobile","2022","JRL Family Limited Partnership","Common Stock","16665","15.47%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","DTL Sr.,"Limited Partnership"","Common Stock","9404","8.73%"
+"Bancorp of Lucedale,"Inc."","Mobile","2022","Jex R. Luce,"Jr."","Common Stock","16705","15.51%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","Laurie Lee VanLingen","Common Stock","6407","5.95%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2022","Luce Insurance,"Inc."","Common Stock","7511","6.97%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bancorp of Lucedale,"Inc."","Director","Peter D Vanlingen,"II"","President & CEO","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Director/Chairman of the Board","Douglas T. Luce,"Jr."","Director/Chairman of the Board","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Director","Charlie F. Brown,"IV"","Century Investments","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President","Century Bank","2022"
+"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director","Century Bank","2022"
+```

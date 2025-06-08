@@ -1,0 +1,31 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital Bank Financial Corp.","New York","2014","Crestview Partners II,"GP","L.P."","Common Stock","2883760","9.55%"
+"Capital Bank Financial Corp.","Baltimore","2014","T. Rowe Price","Common Stock","2437460","8.1%"
+"Capital Bank Financial Corp.","Charlotte","2014","R. Eugene Taylor","Common Stock","2222165","7.37%"
+"Capital Bank Financial Corp.","Los Angeles","2014","NMQ Investment Management Company,"LLC"","Common Stock","1925636","6.42%"
+"Capital Bank Financial Corp.","Houston","2014","Vaughan Nelson Investment Management,"L.P."","Common Stock","1956006","6.5%"
+"Capital Bank Financial Corp.","Valley Forge","2014","Vanguard Group Inc.","Common Stock","1741520","5.36%"
+"Capital Bank Financial Corp.","Boston","2014","Wellington Management Co. LLP","n/a","n/a","7.80%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital Bank Financial Corp.","Chairman,"Chief Executive Officer","Director"","R. Eugene Taylor","Chairman,"President","Chief Executive Officer","Capital Bank"","n/a","2014"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief Financial Officer"","Christopher G. Marshall","Director,"Exec. Vice President","Chief Financial Officer","Capital Bank"","n/a","2014"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief Credit Officer"","R. Bruce Singletary","Director,"Executive Vice President","Chief Credit Officer","Capital Bank"","n/a","2014"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief of Strategic Planning and Investment Relations"","Kenneth A. Posner","Director,"Executive Vice President","Chief of Strategic Planning and Investment Relations","Capital Bank"","Table Rock Management LLC and Shawangunk Adventures,"LLC"","2014"
+"Capital Bank Financial Corp.","Executive Vice President,"General Counsel & Corporate Secretary"","Vincent M. Lichtenberger","Executive Vice President,"General Counsel & Corporate Secretary"","n/a","2014"
+"Capital Bank Financial Corp.","Sr. Vice President","Maria Justo","Enterprise Risk Executive","n/a","2014"
+"Capital Bank Financial Corp.","Executive Vice President","Kenneth Kavanaugh","Consumer Banking and Private Wealth Management Executive","n/a","2014"
+"Capital Bank Financial Corp.","Director","Richard M. DeMartini","Investment Advisor","Crestview Advisors,"LLC; Crestview","L.L.C.; Elm Rock Partners LLC. Member of DeMartini Investors L.L.C.","DeMartini Investors","L.P.",","2014"
+"Capital Bank Financial Corp.","Director","Peter N. Foss","Leader of General Electric Co./ NFL Brain Research program","Trustee,"First Tee of Charlotte Trustee","World War II Museum"","n/a","2014"
+"Capital Bank Financial Corp.","Director","William A. Hodges","Residential Developer and Homebuilder","President and Owner LKW Aviation,"LLC; LKW Properties LLC"","n/a","2014"
+"Capital Bank Financial Corp.","Director","Marc D. Oken","Private Equity Investor","Managing Partner- Falfurrias Capital Partners,"LP and Falfurrias Management Partners","LLC. General Partner American Safety Council and North American Transmission & Distribution Group Director Marsh & McLennan Companies; Director Sonoco Products Company"","n/a","2014"
+"Capital Bank Financial Corp.","Director","Martha M. Bachman","Financial Consultant","Trustee - Laughlin Health Care Foundation","n/a","2014"
+"Capital Bank Financial Corp.","Director","Oscar A. Keller,"III"","CEO,"Earthtec of NC","Inc."","Earthtec Of NC,"Inc.; Chairman of the Sanford Lee County Regional Airport Authority; VP of Lee County Economic Development Corp.; Member-Manager of Amos Properties","LLC; Apex Investors","LLC; B & L of NC","LLC; Carolina Independent Properties","LLC","Coventry House Inn","LLC; Earthtec Investors","LLC; Farrell Street Investors","LLC; Granville Health Investors","LLC;"","2014"
+"Capital Bank Financial Corp.","Director","William G. Ward,"Sr."","Physician","Administrative Committee,"Incentive MicroAngel Fund-IMAF Triad. President","Innovative Cognition LLC. Chief of Musculoskeletal Service Line for Novant Health and Lead Physician for Novant Health Orthopedics and Sports Medicine."","2014"
+"Capital Bank Financial Corp.","N/A","All executive officers and directors as a group","N/A","N/A","2014"
+```

@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BCI Financial Group,"Inc"","Santiago","2021","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BCI Financial Group,"Inc"","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2021"
+"BCI Financial Group,"Inc"","Director & General Manager","Jorge Gonzalez","Director","ICA Miami","2021"
+"BCI Financial Group,"Inc"","Director & General Manager","Jorge Gonzalez","Director","United Way of Miami Dade","2021"
+"BCI Financial Group,"Inc"","Director & General Manager","Jorge Gonzalez","Director","Nicklaus Children's Hospital","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","Director","City National Bank of Florida","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Juan Yarur S.P.A","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","President","Servicios Financieros y Administracion de Creditos Comerciales S.A.","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Maria Grisel Vega","Treasurer","Bishop Enrique San Pedro Foundation,"Inc."","2021"
+"BCI Financial Group,"Inc"","Director/General Manager","Maria Grisel Vega","Director","Florida International Banker's Association (FIBA)","2021"
+"BCI Financial Group,"Inc"","Secretary/General Manager","McHenry Kane","President/Director","CNB Housing Foundation Inc.","2021"
+"BCI Financial Group,"Inc"","Treasurer","Jose Marina","Director","Bci Capital. Inc.,"wholly owned operating subsidiary of City National Bank of Florida"","2021"
+```

@@ -1,0 +1,21 @@
+"Here are the requested CSV tables","based on your instructions."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Jo Anne Phillips Ard","Common Stock","13","7.26%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Marcella P. Cochran","Common Stock","13","7.26%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Anne Phillips Davis","Common Stock","17","9.50%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Leo L. Phillips,"III"","Common Stock","17","9.50%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Kathryn P. Collier","Common Stock","13","7.26%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","John R. Phillips","Common Stock","35","19.55%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Randi M. Phillips","Common Stock","23","12.85%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Sydney Alexandra Phillips","Common Stock","17","9.50%"
+"CENTRAL GEORGIA BANKING COMPANY","Cochran","2022","Leo L. Phillips,"Jr."","Common Stock","23","12.85%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Chairman","John R. Phillips","Director/Chairman","Cochran Oil Mill & Ginnery","2022"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Vice-Chairman","Leo L. Phillips,"III"","Director/Vice-Chairman","State Bank of Cochran","2022"
+"CENTRAL GEORGIA BANKING COMPANY","President","Jackie L. Bowen","President","State Bank of Cochran","2022"
+```

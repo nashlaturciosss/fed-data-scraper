@@ -1,0 +1,22 @@
+Here are the two requested CSV tables based on the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"1st Jackson Bancshares,"Inc."","Hollywood","2016","Jimmy D. Blevins","n/a","16285","14.51%"
+"1st Jackson Bancshares,"Inc."","Stevenson","2016","Shelby Carr","n/a","7548","6.73%"
+"1st Jackson Bancshares,"Inc."","Bridgeport","2016","Charles Robert Holder","n/a","11681","10.41%"
+"1st Jackson Bancshares,"Inc."","Scottsboro","2016","James S. McGinty","n/a","9637","8.59%"
+"1st Jackson Bancshares,"Inc."","Monteagle","2016","Jim Myers","n/a","11891","10.59%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"1st Jackson Bancshares,"Inc."","Chairman/Pres Director","Jimmy D. Blevins","President Director Chairman","n/a","2016"
+"1st Jackson Bancshares,"Inc."","Director","Shelby Carr","Director","Owner-Carr Farm","2016"
+"1st Jackson Bancshares,"Inc."","Director","Billy Duck","Director","n/a","2016"
+"1st Jackson Bancshares,"Inc."","None","James S. McGinty","None","Attorney with Dawson,"McGinty & Parker firm"","2016"
+"1st Jackson Bancshares,"Inc."","Director/Secretary","Pam M. Parker","Director/Secretary","Attorney with Dawson,"McGinty & Parker firm"","2016"
+"1st Jackson Bancshares,"Inc."","None","J. D. Shrader,"Jr."","None","n/a","2016"
+"1st Jackson Bancshares,"Inc."","None","Charles R. Holder","None","n/a","2016"
+"1st Jackson Bancshares,"Inc."","None","Jeremy Washburn","None","n/a","2016"
+```

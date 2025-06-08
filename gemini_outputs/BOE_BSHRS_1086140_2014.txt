@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOE BANCSHARES","Edison","2014","D. Connor & Charlotte Collins","Common stock","5000","17.73%"
+"BOE BANCSHARES","Edison","2014","Claud C. Lowe","Common stock","1978","7.01%"
+"BOE BANCSHARES","Stone Mountain","2014","Leslie L. Lowe","Common stock","2318","8.22%"
+"BOE BANCSHARES","Edison","2014","Robert & Carla Toal","Common stock","2142","7.60%"
+"BOE BANCSHARES","Tallahassee","2014","George S. Reynolds III","Common stock","2094","7.43%"
+"BOE BANCSHARES","Quitman","2014","Curtis Pickels","Common stock","2352","8.34%"
+"BOE BANCSHARES","Edison","2014","Helen M. Lowe,"(deceased)"","Common stock","1592","5.65%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOE BANCSHARES","Director,"Chairman"","D. Conner Collins","Director,"Chairman"","Owner--Little Pitchitla Farm Pres.--Conner Collins,"Inc."","2014"
+"BOE BANCSHARES","n/a","Charlotte L. Collins","n/a","n/a","2014"
+"BOE BANCSHARES","Director","Willis A. Duvall","Director","Attorney","2014"
+"BOE BANCSHARES","Director","Dan W. Hammack,"Jr."","Director","Owner--Hammack Farm","2014"
+"BOE BANCSHARES","President,"Director"","Claud C. Lowe","President,"Director"","n/a","2014"
+"BOE BANCSHARES","Director","Martha A. Corrigan","Executive Vice-President","n/a","2014"
+"BOE BANCSHARES","Director","Robert Toal","n/a","n/a","2014"
+"BOE BANCSHARES","Director","Richard West","n/a","n/a","2014"
+"BOE BANCSHARES","Director","Thomas A. Jackson","n/a","Owner-Thomas Jackson Farm","2014"
+"BOE BANCSHARES","Director","Benjamin Dismukes","n/a","n/a","2014"
+```

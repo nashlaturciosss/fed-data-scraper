@@ -1,0 +1,21 @@
+Here are the two tables in CSV format based on your requirements:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Charter Financial Corporation","West Point","2016","CharterBank ESOP","Common Stock","1093391","7.3%"
+"Charter Financial Corporation","Naples","2016","Private Capital Management","Common Stock","1053480","7.0%"
+"Charter Financial Corporation","New York","2016","Renaissance Technologies Co.","Common Stock","910159","6.1%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Charter Financial Corporation","CEO,"Chairman"","Robert L. Johnson","CEO & Chairman,"CharterBank"","See attached","2016"
+"Charter Financial Corporation","Director","Jane W. Darden","Director,"CharterBank"","See attached","2016"
+"Charter Financial Corporation","Director","David L. Strobel","Director,"CharterBank"","See attached","2016"
+"Charter Financial Corporation","Director","Thomas M. Lane","Director,"CharterBank"","VP Finance EAMC Lanier Hospital","2016"
+"Charter Financial Corporation","Director","David Z. Cauble,"III"","Director,"CharterBank"","See attached","2016"
+"Charter Financial Corporation","Director","Curti M. Johnson","SVP,"GC","Director CharterBank"","See attached","2016"
+"Charter Financial Corporation","Director","Edward D. Smith","Director,"CharterBank"","Owner,"Hutchinson-Traylor Insurance"","2016"
+"Charter Financial Corporation","Sr VP & CFO","Curtis R. Kollar","Sr VP & CFO,"CharterBank"","See attached","2016"
+"Charter Financial Corporation","n/a","Lee Washam","President,"CharterBank"","See attached","2016"
+```

@@ -1,0 +1,27 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Avenue Financial Holdings,"Inc."","Philadelphia,"PA"","2015","Patriot Financial Partners","Common Stock","848500","8.23%"
+"Avenue Financial Holdings,"Inc."","Nashville,"TN"","2015","David Ingram","Common Stock","529845","5.14%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Avenue Financial Holdings,"Inc."","Chairman & Chief Executive Officer","Ronald L. Samuels","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","President & Chief Operating Officer","G. Kent Cleaver","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Chief Financial Officer","Barbara J. Zipperian","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Chief Credit Officer","Edwin Moats","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Director,"Mortgage Lending"","Jim McCann","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Director,"Commercial Banking"","Peter Wooten","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Director","David Anderson","Treasurer","Hospital Corporation of America","2015"
+"Avenue Financial Holdings,"Inc."","Director","Pat Emery","President","Spectrum Properties/Emery,"Inc."","2015"
+"Avenue Financial Holdings,"Inc."","Director","David Ingram","Chairman","DBI Beverage,"Inc."","2015"
+"Avenue Financial Holdings,"Inc."","Director","Ken Robold","n/a","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Director","Agenia Clark","CEO","Girl Scouts of Middle TN","2015"
+"Avenue Financial Holdings,"Inc."","Director","Marty Dickens","Retired","n/a","2015"
+"Avenue Financial Holdings,"Inc."","Director","Joe Galante","Former Chairman","Sony Music Nashville","2015"
+"Avenue Financial Holdings,"Inc."","Director","Steve Moore","EVP,"AEG Live! Human Resources"","Moore Entertainment Group,"LLC"","2015"
+"Avenue Financial Holdings,"Inc."","Director","Karen Saul","Management","Arthur J. Gallagher & Co.","2015"
+"Avenue Financial Holdings,"Inc."","Director","Jim Deutsch","n/a","Patriot Financial Partners II,"LP"","2015"
+```

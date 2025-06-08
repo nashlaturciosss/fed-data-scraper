@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankFlorida Bancorp,"Inc."","Fort Lauderdale","2022","KENNETH R. LEHMAN","Common Stock","335000","10.5%"
+"BankFlorida Bancorp,"Inc."","Lake Mary","2022","JOHN AND ULTIMA MORGAN","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Boca Raton","2022","C&BL INITIATIVE,"LLC"","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Dade City","2022","DALE MAGGARD AND ANN MAGGARD","Common Stock","167498","5.27%"
+"BankFlorida Bancorp,"Inc."","Zephyrhills","2022","MICHAEL ALAN DOERR,"CHRISTOPHER A. POE","JTWROS"","Common Stock","100000","3.144%"
+"BankFlorida Bancorp,"Inc."","Zephyrhills","2022","MICHAEL ALAN DOERR,"WILLIAM C. POE","JTWROS"","Common Stock","100000","3.144%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Partner Bancorp-42%","2022"
+"BankFlorida Bancorp,"Inc."","Director","DALE MAGGARD","Director","Sonny's Discount Appliances","2022"
+"BankFlorida Bancorp,"Inc."","Director","DAN KNOWLTON","Director","Bowlaholics Owner","2022"
+"BankFlorida Bancorp,"Inc."","Director","ALLEN ALTMAN","Director","n/a","2022"
+"BankFlorida Bancorp,"Inc."","Director & CEO/President","JAMES S. STALNAKER,"JR."","Director,"Chairman & CEO/President"","Covington Farms","2022"
+```

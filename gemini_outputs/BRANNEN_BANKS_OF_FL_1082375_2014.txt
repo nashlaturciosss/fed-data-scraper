@@ -1,0 +1,18 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Brannen Banks of Florida,"Inc."","Inverness","2014","George H. Brannen,"II"","Common Stock","3405.33","34.1%"
+"Brannen Banks of Florida,"Inc."","Inverness","2014","Joseph S. Brannen","Common Stock","3350.76","33.5%"
+"Brannen Banks of Florida,"Inc."","Inverness","2014","Margaret Brannen Hagar","Common Stock","3243.91","32.4%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Brannen Banks of Florida,"Inc."","Dir./Chairman and President","George H. Brannen,"II"","Dir./Chairman,"Brannen Bank"","Brannen Properties,"Inc."","2014"
+"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman and General Counsel","Joseph S. Brannen","Dir./Vice Chairman,"Brannen Bank"","Brannen Properties,"Inc."","2014"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director,"Brannen Bank"","n/a","2014"
+"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","Dir./President,"Brannen Bank"","Brannen Properties,"Inc."","2014"
+"Brannen Banks of Florida,"Inc."","Senior Vice President/Secretary & Treas.","Josephine A. Murphy","Secretary,"Brannen Properties"","n/a","2014"
+"Brannen Banks of Florida,"Inc."","Chief Financial Officer","Michael T. Fitzpatrick,"CPA"","Exe. Vice President/CFO,"Brannen Bank"","n/a","2014"
+```

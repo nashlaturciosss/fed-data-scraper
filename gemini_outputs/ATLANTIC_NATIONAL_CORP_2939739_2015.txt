@@ -1,0 +1,24 @@
+Here are the extracted CSV tables from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic National Corporation","St. Simons Island","2015","John J.Rogers","Common Stock","83375","6.42%"
+"Atlantic National Corporation","Brunswick","2015","Robert G.Boone","Common Stock","83246","6.41%"
+"Atlantic National Corporation","Charlotte","2015","W.W.Walker,"Jr."","Common Stock","68075","5.24%"
+"Atlantic National Corporation","St. Simons Island","2015","J.Dewey Benefield","Common Stock","65363","5.03%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic National Corporation","Director","James F. Barger","Director","Coastal CPA's","2015"
+"Atlantic National Corporation","Director & Chairman","J. Dewey Benefield","Director & Chairman","n/a","2015"
+"Atlantic National Corporation","Director","Robert G. Boone","Director","Boone/Richardson & Associates,"Inc."","2015"
+"Atlantic National Corporation","Director","James H. Gash","Director","n/a","2015"
+"Atlantic National Corporation","Director","C.H.Leavy,"IV"","Director","The Brunswick News","2015"
+"Atlantic National Corporation","Director","T.Gillis,"II Morgan"","Director","Tidewater Equipment Company","2015"
+"Atlantic National Corporation","Director","Patrick B. Parker","Director","J.H.Parker Company,"Inc."","2015"
+"Atlantic National Corporation","Director & President","John J. Rogers","Director & President","n/a","2015"
+"Atlantic National Corporation","Director","Gordon T. Strother","Director","J.C. Strother Company","2015"
+"Atlantic National Corporation","Director","Lisa Lane Torbett","Director","Lisa Torbett Interiors,"Inc."","2015"
+"Atlantic National Corporation","n/a","Robert B. Sams","n/a","n/a","2015"
+```

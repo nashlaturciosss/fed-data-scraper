@@ -1,0 +1,28 @@
+Here are the two tables extracted from the document as per your instructions:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BBVA USA Bancshares,"Inc."","SPAIN","2019","Banco Bilbao Vizcaya Argentaria,"S.A."","Common Stock","222963891","100.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BBVA USA Bancshares,"Inc."","Director,"President and Chief Executive Officer"","Javier Rodriguez Soler","Director,"President and Chief Executive Officer"","BBVA USA","2019"
+"BBVA USA Bancshares,"Inc."","Non-Executive Chairman of the Board","J. Tery Strange","n/a","S&S Partners","2019"
+"BBVA USA Bancshares,"Inc."","Vice Chairman of the Board","William Helms","n/a","BBVA USA","2019"
+"BBVA USA Bancshares,"Inc."","Director","Onur Genç","CEO,"BBVA Group"","BBVA Group","2019"
+"BBVA USA Bancshares,"Inc."","Director","Eduardo Aguirre,"Jr."","Chairman and CEO","Atlantic Partners Group,"LLC"","2019"
+"BBVA USA Bancshares,"Inc."","Director","Juan Asua Madariaga","n/a","Pensil de Pomares,"S.L."","2019"
+"BBVA USA Bancshares,"Inc."","Director","Shelaghmichael Brown","n/a","Weingarten Realty","2019"
+"BBVA USA Bancshares,"Inc."","Director","Charles E. McMahen","Rancher","2S Ranch - Sole Proprietorship","2019"
+"BBVA USA Bancshares,"Inc."","Director","Jorge Saenz-Azcunaga","Executive Officer - Country Monitoring","BBVA Group","2019"
+"BBVA USA Bancshares,"Inc."","Director","Mario Max Yzaguirre","Business Executive","The Yzaguirre Group,"LLC"","2019"
+"BBVA USA Bancshares,"Inc."","Director","Guillermo F. Trevino","President","Southern Distributing Co.","2019"
+"BBVA USA Bancshares,"Inc."","Director","Lee Vardaman","Retired","n/a","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"Chief Operating Officer"","Rafael Bustillo","n/a","n/a","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"General Counsel and Secretary"","B. Shane Clanton","n/a","PCB Coridos,"LLC"","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"Chief Risk Officer"","Ignacio Carnicero","n/a","n/a","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"Chief Talent & Culture Executive"","Rosilyn Houston","n/a","n/a","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"Chief Financial Officer"","Kirk Pressley","LLC Member","Barrett Automotive,"LLC"","2019"
+"BBVA USA Bancshares,"Inc."","Senior Executive Vice President,"Head of Business Development"","Jose Olalla Hevia","n/a","n/a","2019"
+```

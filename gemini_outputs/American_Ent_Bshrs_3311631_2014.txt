@@ -1,0 +1,24 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","adhering to all specified rules and formatting:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Enterprise Bankshares,"Inc."","Jacksonville","2014","Frank Sutton McGehee,"Jr. Trust","ADM Family Ltd.","JAM Family Investment","MRM Family Ltd."","Common Stock","210000","6.87%"
+"American Enterprise Bankshares,"Inc."","Jacksonville","2014","Vernon A. LaFaye,"Mary LaFaye","Donna LaFaye","Vernon LaFaye Living Trust"","Common Stock","234133","7.66%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Enterprise Bankshares,"Inc."","Director,"and President"","Bennett Brown","Director & President","None","2014"
+"American Enterprise Bankshares,"Inc."","n/a","Vernon A. LaFaye","VP & Director","Bold City Investments,"Inc."","2014"
+"American Enterprise Bankshares,"Inc."","Director","Richard Martin","Director & Sr. VP","None","2014"
+"American Enterprise Bankshares,"Inc."","Director,"and Chairman"","F. Sutton McGehee,"Jr."","Chairman and CEO","Mac Papers,"Inc."","2014"
+"American Enterprise Bankshares,"Inc."","Director","Emil Clayton Lyons","Director","Lyons and Lyons,"CPA"","2014"
+"American Enterprise Bankshares,"Inc."","Director","Jim Linn","Director","Anne S. Melton,"INC. DBA ERA Davis and Linn Realty"","2014"
+"American Enterprise Bankshares,"Inc."","Director","Jim England","Director","England Lang Group","2014"
+"American Enterprise Bankshares,"Inc."","Director","Steven Bacalis","Director","Tom Nehl Truck Company","2014"
+"American Enterprise Bankshares,"Inc."","Director","David E. Kight","Director","Simba Partners,"LLC"","2014"
+"American Enterprise Bankshares,"Inc."","Director","Jeff Bogan","Director","None","2014"
+"American Enterprise Bankshares,"Inc."","CFO,"Secretary","Treasurer"","T. Edwin Stinson,"Jr."","CFO,"Secretary","Treasurer","American Enterprise Bank"","None","2014"
+"American Enterprise Bankshares,"Inc."","Director","Joel C. Chamberlain","Director","Chamberlain & Assoc. PA","2014"
+"American Enterprise Bankshares,"Inc."","Director","V. Hawley Smith,"Jr."","Director","Owner,"H. Smith","Inc."","2014"
+```

@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Charter Financial","Naples","2015","Private Capital Management","Common Stock","875602","5.5%"
+"Charter Financial","New York","2015","Reniassance Technologies Co.","Common Stock","864459","5.4%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Charter Financial","CEO,"Chairman"","Robert L. Johnson","CEO & Chairman,"CharterBank"","Guinea Branch Properties (33.3%)","2015"
+"Charter Financial","Director","Jane W. Darden","Director,"CharterBank"","Grady Webb Jr. Marital Deduction Trust (25%); Edith K. Webb Trust (25%); Webb Family Properties,"LLC (33.3%); Webb Family Properties II","LLC (33.3%); Sneakers Group","Inc. (50%)"","2015"
+"Charter Financial","Director","David L. Strobel","Director,"CharterBank"","Mihada,"Inc. (33.3%); Shannon","Strobel & Weaver (33.3%); Ozark Assoc SC (33.3%); Andalusia Assoc SC (33.3%); Land Locators","Inc. (33.3%); Manchester Assoc","LLC (33.3%); Etran","LLC (33.3%): Richmond Road Apart","LP (25%); Richmond Road Apart II","LLC (25%); MHD Partners","LLC (33.3%)"","2015"
+"Charter Financial","Director","Thomas M. Lane","Director,"CharterBank"","n/a","2015"
+"Charter Financial","Director","David Z. Cauble,"III"","Director,"CharterBank"","n/a","2015"
+"Charter Financial","Director","Curti M. Johnson","SVP,"CharterBank"","Guinea Branch Properties (33.3%)","2015"
+"Charter Financial","Owner,"Insurance Agency"","Michael H. Smith","Director,"CharterBank"","Hutchinson Traylor Insurance Agency (50%); Hutchinson-Traylor Properties (25%); Another Road (50%)","2015"
+"Charter Financial","CRO","Curt Kollar","CFO,"CharterBank"","n/a","2015"
+"Charter Financial","Financial Services Executive","Lori Washam","President,"CharterBank"","Marge,"LLC (50%)"","2015"
+```

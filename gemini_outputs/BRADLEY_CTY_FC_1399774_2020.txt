@@ -1,0 +1,19 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bradley County Financial Corp.","Cleveland","2020","R. Scott Taylor","n/a","95474","33.90%"
+"Bradley County Financial Corp.","Cleveland","2020","Terry Buckner","n/a","15000","5.25%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bradley County Financial Corp.","Chairman","R. Scott Taylor","Chairman","None","2020"
+"Bradley County Financial Corp.","Director","Gerald Burns","Director","Burns Ornamental Iron & Fabricating,"Inc."","2020"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","Director","Williamson & Trewhitt CPA's PC","2020"
+"Bradley County Financial Corp.","Director","Steve Robinson","Director","Cleveland Plywood Company","2020"
+"Bradley County Financial Corp.","Director","Steve Lambert","Director","Bradley Concrete,"Inc."","2020"
+"Bradley County Financial Corp.","Treasurer","S. Julian Sullivan III","Director","None","2020"
+"Bradley County Financial Corp.","Director","Terry J. Buckner","Director","None","2020"
+"Bradley County Financial Corp.","Director","Clint R. Taylor","None","None","2020"
+```

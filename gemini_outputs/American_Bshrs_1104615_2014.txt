@@ -1,0 +1,28 @@
+Here are the requested extractions in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares,"Inc."","Covington","2014","Karen Smith Riecke","Common Stock","581240","25.23%"
+"American Bancshares,"Inc."","Covington","2014","Julian J,"Rodrigue","Jr."","Common Stock","770000","33.43%"
+"American Bancshares,"Inc."","Covington","2014","Edward T. Riecke","Common Stock","60544","2.63%"
+"American Bancshares,"Inc."","Covington","2014","Riecke and Associates","Common Stock","223877","9.72%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares,"Inc."","Chairman of the Bd","Edward T. Riecke","Owner or Partial Owner","Castine Pointe,"LLC; Abita River","LLC; Cypress Group","LLC; Dalrymple Development","LLC; East Point Invest","LLC; They Got Me Working LLC; Madison Place Development","LLC; Manchac Equities","LLC; ETR","LLC; Jefferson Apts; Riecke Mississippi Holdings","LLC; Tammany Mali","LLC"","2014"
+"American Bancshares,"Inc."","Presdient/CEO","Stanley M. Dameron","Director","n/a","2014"
+"American Bancshares,"Inc."","Director","Leslie F. Gray","Exec VP","n/a","2014"
+"American Bancshares,"Inc."","Director","William R. Jones","n/a","n/a","2014"
+"American Bancshares,"Inc."","Director","Raymond R. Riecke","Owner or Partial Owner","3368 LLC; Abita River,"LLC; G.H.F","LLC; Cypress Group; GDH Intl; Dalrymple Development","LLC; East Point Invest","LLC; HRF Inc.; Madison Place Development","LLC; Manchac Equities","LLC; Healthcare Rentals II. LLC; Iron Construction LLC; Instruments & Holdings; Riecke Mississippi Holdings","LLC; R4Holdings","LLC; JD2 Industries; Palm Plaza","LLC; Riecke & assoc","LLC; Prancing Horse Holdings; Riecke Development and Construction","LLC; Tangipahoa Equities","LLC; IIIR Properties; Rothchild Center; Jefferson Place Apts; Riecke Land Development"","2014"
+"American Bancshares,"Inc."","Director","Donald D. Durr","n/a","n/a","2014"
+"American Bancshares,"Inc."","Director","Darrell Smith","Owner","Darrell Smith ManagemenCompany","2014"
+"American Bancshares,"Inc."","Director","Dan Robin","self-employed","n/a","2014"
+"American Bancshares,"Inc."","Director","Franklin Kyle","Partial Owner","Kyle and Associates","2014"
+"American Bancshares,"Inc."","n/a","Karen S Riecke","n/a","Kyle Holdings","2014"
+"American Bancshares,"Inc."","Exec VP,"CFO"","Thomas A. Volz","n/a","n/a","2014"
+"American Bancshares,"Inc."","Sr VP,"Chief Lending Officer'"","Steven Latino","n/a","n/a","2014"
+"American Bancshares,"Inc."","Sr VP,"COO"","Ellen S. Olivier","n/a","n/a","2014"
+"American Bancshares,"Inc."","n/a","Julian J. Rodrique,"Jr"","Trustee: Karen S Riecke Inter Vivos Trust","n/a","2014"
+"American Bancshares,"Inc."","n/a","• Riecke and Associates Construction and Development","n/a","n/a","2014"
+```

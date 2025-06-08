@@ -1,0 +1,28 @@
+Here are the two tables you requested in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares","Covington","2019","Julian J,"Rodrigue","Jr."","Other","770000","25.5805%"
+"American Bancshares","Covington","2019","Karen Smith Riecke","Other","581240","19.3096%"
+"American Bancshares","Covington","2019","Riecke and Associates","Other","319115","10.6014%"
+"American Bancshares","Hammond","2019","Darryl Smith","Other","283505","9.4184%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares","Chairman of the Bd","Edward T. Riecke","Banker,"Developer"","Owner or Partial Owner as identified in Column Castine Pointe,"LLC 50%"","2019"
+"American Bancshares","Director","Paul J Mayronne","Attorney","Paul J. Mayronne,"LLC 100%"","2019"
+"American Bancshares","Director","Daniel H Edwards Sr","Sheriff","n/a","2019"
+"American Bancshares","Director","Raymond R. Riecke","Retired Businessman","n/a","2019"
+"American Bancshares","Director","Jared Caruso Riecke","Developer/ Utility Co Exec","Owner or Partial Owner as identified in Column 3368 LLC 100%","2019"
+"American Bancshares","Director","Donald D. Durr","Retired Military","n/a","2019"
+"American Bancshares","Director","Darryl Smith","Developer","Darrell Smith ManagemenCompany - 100%","2019"
+"American Bancshares","Director","Casey Robin","Insurance","n/a","2019"
+"American Bancshares","Director","Franklin Kyle","Engineer,"Business Owner"","Kyle and Associates 52%","2019"
+"American Bancshares","Director","Arthur Renaudin","Developer","n/a","2019"
+"American Bancshares","Director","Theodore Lee","Business Owner","n/a","2019"
+"American Bancshares","Director","Anthony P. Marullo,"III"","Business Owner","n/a","2019"
+"American Bancshares","n/a","Karen S Riecke","Housewife","n/a","2019"
+"American Bancshares","n/a","Julian J. Rodrique,"Jr"","Attorney","Trustee: Karen S Riecke Inter Vivos Trust","2019"
+"American Bancshares","n/a","Riecke and Associates","Construction and Development","n/a","2019"
+```

@@ -1,0 +1,18 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CARVER FINANCIAL CORPORATION","Savannah","2017","Robert E. James","Common Stock","285231.7650","48%"
+"CARVER FINANCIAL CORPORATION","Cleveland","2017","Karlene E. Farabee","Common Stock","57665.0250","9.70%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2017"
+"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2017"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Carver State Bank","2017"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Carver State Bank","2017"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Director","Carver State Bank","2017"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","Carver State Bank","2017"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","Carver State Bank","2017"
+```

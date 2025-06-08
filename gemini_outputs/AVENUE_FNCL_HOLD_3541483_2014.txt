@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Avenue Financial Holdings,"Inc."","New York","2014","Goldman Sachs Investment Partners Master Fund,"L.P."","Common Stock","830000","9.61%"
+"Avenue Financial Holdings,"Inc."","New York","2014","Endicott Opportunity Partners","Common Stock","830000","9.61%"
+"Avenue Financial Holdings,"Inc."","New York","2014","Keefe,"Bruyette & Woods","Inc."","Common Stock","761033","8.81%"
+"Avenue Financial Holdings,"Inc."","Bala Cynwyd","2014","Context BH Equity Fund,"LP"","Common Stock","587500","6.80%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Avenue Financial Holdings,"Inc."","Chairman & Chief Executive Officer","Ronald L. Samuels","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","President & Chief Operating Officer","G. Kent Cleaver","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Chief Financial Officer","Barbara J. Zipperian","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Chief Credit Officer","Edwin Moats","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director,"Mortgage Lending"","Jim McCann","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director,"Commercial Banking"","Peter Wooten","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director","David Anderson","n/a","Treasurer,"Hospital Corporation of America"","2014"
+"Avenue Financial Holdings,"Inc."","Director","Pat Emery","President","Spectrum Properties/Emery,"Inc."","2014"
+"Avenue Financial Holdings,"Inc."","Director","David Ingram","Chairman","DBI Beverage,"Inc."","2014"
+"Avenue Financial Holdings,"Inc."","Director","Ken Robold","n/a","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director","Agenia Clark","CEO,"Girl Scouts of Middle TN"","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director","Marty Dickens","Retired","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director","Joe Galante","Former Chairman,"Sony Music Nashville"","n/a","2014"
+"Avenue Financial Holdings,"Inc."","Director","Steve Moore","EVP,"AEG Live!"","Moore Entertainment Group,"LLC"","2014"
+"Avenue Financial Holdings,"Inc."","Director","Karen Saul","Human Resources Management,"Arthur J. Gallagher & Co."","n/a","2014"
+```

@@ -1,0 +1,32 @@
+"Okay","here are the two CSV tables extracted from the document","adhering to your specifications:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOJ BANCSHARES,"INC."","Jackson","2014","ROBERT A. CONNELL","Common Stock","5973.72","18.56%"
+"BOJ BANCSHARES,"INC."","Jackson","2014","THE HIGHLANDS BANK SAVINGS AND RETIREMENT PLAN","Common Stock","6069.65","18.85%"
+"BOJ BANCSHARES,"INC."","Jackson","2014","GAYLE GILLUM MACDIARMID","Common Stock","4714","14.64%"
+"BOJ BANCSHARES,"INC."","Jackson","2014","M. LEROY HARVEY,"JR."","Common Stock","4415","13.71%"
+"BOJ BANCSHARES,"INC."","Jackson","2014","MICHAEL L. CREED","Common Stock","2285.87","7.10%"
+"BOJ BANCSHARES,"INC."","Jackson","2014","MICHAEL L. CREED","Options","1500","4.66%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOJ BANCSHARES,"INC."","Director/Chairman","M. Leroy Harvey,"Jr."","Director/Chairman","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Director","Robert A. Connell","Attorney","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Director","Robert A. Connell","Trustee","BOJ Banchares Statutory Trust I","2014"
+"BOJ BANCSHARES,"INC."","Director","Robert A. Connell","Director/Secty. Treasurer","Bacon Corp.","2014"
+"BOJ BANCSHARES,"INC."","Director","Charlie L. Massey","Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Director","Henry I. Rogillio","Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Director","Scott Harrington","Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Pres/CEO/Director","Michael L. Creed","Pres/CEO/Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Pres/CEO/Director","Michael L. Creed","Pres/Director","Bacon Corp.","2014"
+"BOJ BANCSHARES,"INC."","Pres/CEO/Director","Michael L. Creed","Trustee","BOJ Bancshares Statutory Trust I","2014"
+"BOJ BANCSHARES,"INC."","Pres/CEO/Director","Michael L. Creed","Pres/CEO","Highlands Insurance Agency","2014"
+"BOJ BANCSHARES,"INC."","Director","Shelton Watts","Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","Director","M. Kevin Tomb","Director","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","CFO","Heather Spillman","Sr. VP/CFO","The Highlands Bank","2014"
+"BOJ BANCSHARES,"INC."","CFO","Heather Spillman","CFO","Highlands Insurance Agency","2014"
+"BOJ BANCSHARES,"INC."","n/a","Gayle Gillum Macdiarmid","None","None","2014"
+"BOJ BANCSHARES,"INC."","n/a","The Highlands Bank Savings and Retirement Plan","n/a","n/a","2014"
+```

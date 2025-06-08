@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOE BANCSHARES,"INC."","Edison","2023","D. Conner & Charlotte Collins Revocable Living Trust","Common stock","6398","20.66%"
+"BOE BANCSHARES,"INC."","Edison","2023","Claud C. Lowe","Common stock","1978","6.39%"
+"BOE BANCSHARES,"INC."","Sylva","2023","Leslie L. Lowe","Common stock","2318","7.48%"
+"BOE BANCSHARES,"INC."","Edison","2023","Carla Toal","Common stock","2876","9.29%"
+"BOE BANCSHARES,"INC."","Quitman","2023","Curtis Pickels","Common stock","2352","7.59%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOE BANCSHARES,"INC."","Director,"Chairman"","D. Conner Collins","Director,"Chairman"","Owner--Little Pachitla Farm","2023"
+"BOE BANCSHARES,"INC."","n/a","Charlotte L. Collins","n/a","n/a","2023"
+"BOE BANCSHARES,"INC."","Director,"Vice-President","I.T."","Benjamin Dismukes","Director,"Vice-President","I.T."","n/a","2023"
+"BOE BANCSHARES,"INC."","Director","Willis A. Duvall","Director","Attorney","2023"
+"BOE BANCSHARES,"INC."","President,"Director"","Claud C. Lowe","President,"Director"","n/a","2023"
+"BOE BANCSHARES,"INC."","Director","Jason Knox","Director","Managing Partner","2023"
+"BOE BANCSHARES,"INC."","Director","Martha A. Corrigan","Director","n/a","2023"
+"BOE BANCSHARES,"INC."","Director","Clarence H. Jester","Director","Owner--Cornerstone Insurance Group","2023"
+"BOE BANCSHARES,"INC."","Director","Robert Cole Barfield","Director","Owner--Barfield Law Firm,"Inc."","2023"
+"BOE BANCSHARES,"INC."","Director","James A. Arnold,"II"","Director","Owner--Plowboy S&S,"Inc."","2023"
+```

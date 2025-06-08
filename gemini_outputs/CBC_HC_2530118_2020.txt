@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBC Holding Company","Fitzgerald","2020","Sidney S. Anderson,"Jr."","n/a","113968","19.68%"
+"CBC Holding Company","Fitzgerald","2020","A. B. C. Dorminy,"III"","n/a","40006","6.91%"
+"CBC Holding Company","Fitzgerald","2020","Cede & Co.","n/a","33998","5.87%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBC Holding Company","Chief Executive Officer and President","J Corey Gibbs","President/CEO","None","2020"
+"CBC Holding Company","Chairman of the Board","John T. Croley,"Jr."","Chairman of the Board","Attorney,"sole practitioner"","2020"
+"CBC Holding Company","Director Emeritus","Sidney S. Anderson,"Jr."","Director Emeritus","Dixie Peanut Company","2020"
+"CBC Holding Company","Director","Lee Phillip Liles","Director","Retired","2020"
+"CBC Holding Company","Director","Hulin Reeves,"Jr."","Director","None","2020"
+"CBC Holding Company","Treasurer","James Thomas Casper,"III"","Treasurer","Worthington,"Casper","Stone And Conger","PC"","2020"
+"CBC Holding Company","Vice Chairman","A.B.C. Dorminy,"III"","Vice Chairman","ABCD Farms,"Inc."","2020"
+"CBC Holding Company","Director","Wyndall L. Walters","Director","Irwin County Motors","2020"
+"CBC Holding Company","Director","Steven L. Mitchell","Director","Irwin Timber Co.","2020"
+"CBC Holding Company","Secretary","John Edward Smith,"III"","Secretary","Jay,"Sherrell","Smith and Braddy"","2020"
+"CBC Holding Company","Director","Jack Paulk","Director","Haile's Bldg","2020"
+"CBC Holding Company","Director","Art Anderson","Director","None","2020"
+"CBC Holding Company","Director","Larry E. Stevenson","Sr. Executive VP and Chief Credit Officer","None","2020"
+"CBC Holding Company","Director","Louis E,"Harper","Jr."","Director","L E. Harper Construction Co","2020"
+"CBC Holding Company","Director","Howard A. Wiley","Director","None","2020"
+"CBC Holding Company","Director","Eric H. Stone","Director","Worthington,"Casper","Stone","and Conger","PC"","2020"
+```

@@ -1,0 +1,18 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Commerce Bancshares,"Inc."","Northbrook","2015","Bixby Bridge Financial Trust,"u/t/a"","Common Stock","4271335","99.981%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Commerce Bancshares,"Inc."","Director and President","Larry R. Mathews","President and Director","Summit,"LLC 51%"","2015"
+"American Commerce Bancshares,"Inc."","Chairman. Director","David D. Colburn","Chairman,"Director"","Bixby Bridge Capital,"LLC (25%)"","2015"
+"American Commerce Bancshares,"Inc."","Director","Charles M. Jones,"III"","Director","Consolidated Loan Co. of Albany (100%)","2015"
+"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","Director and Marketing Coordinator","n/a","2015"
+"American Commerce Bancshares,"Inc."","Director,"Executive V.P."","David A. Tate","Director,"EVP Sr. Credit Officer"","n/a","2015"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Exec. Director,"Fla. Osteopathic Medical Assoc."","Stephen R. Winn Realty Corp. (51%)","2015"
+"American Commerce Bancshares,"Inc."","Director","John Steele","n/a","n/a","2015"
+"American Commerce Bancshares,"Inc."","Chief Financial Officer","Steven J. Hack","Chief Financial Officer","n/a","2015"
+```

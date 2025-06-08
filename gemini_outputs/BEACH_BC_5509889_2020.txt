@@ -1,0 +1,30 @@
+Here are the extracted CSV tables from the provided FR Y-6 document:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Beach Bancorp,"Inc."","Chicago","2020","Banc Fund IX L.P.","Common stock","900000","6.1%"
+"Beach Bancorp,"Inc."","Chicago","2020","Financial Hybrid Opportunity Fund LLC","Common stock","1455535","9.9%"
+"Beach Bancorp,"Inc."","McLean","2020","EJF Sidecar Fund,"Series LLC-Small Financial Equities Series"","Common stock","1455535","9.9%"
+"Beach Bancorp,"Inc."","Greenwich","2020","Endeavour Capital Private Investments I,"LP"","Common stock","1455535","9.9%"
+"Beach Bancorp,"Inc."","Cleveland","2020","Strategic Value Private Investors,"LP"","Common stock","1422591","9.7%"
+"Beach Bancorp,"Inc."","Paramus","2020","Thomas M. Wells,"Trustee David F. Bolger 2018 Irrevocable Stock Trust"","Common stock","1455535","9.9%"
+"Beach Bancorp,"Inc."","Chicago","2020","Mendon Capital Master Fund LTD","Common stock","1455535","9.9%"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Beach Bancorp,"Inc."","Director & Chairman","Carl J. Chaney","Director & Chairman","MS Power Co.","2020"
+"Beach Bancorp,"Inc."","Director,"President & CEO"","Charles N. ("Chip") Reeves","Director,"President and CEO"","N/A","2020"
+"Beach Bancorp,"Inc."","Director","Joseph W. Henderson","Director","Warren Averett","2020"
+"Beach Bancorp,"Inc."","Director","Derek J. Ferber","Director","FJ Capital Management,"LLC"","2020"
+"Beach Bancorp,"Inc."","Director","Thomas M. Wells,"Esq."","Director","Wells,"Jaworski & Liebman"","2020"
+"Beach Bancorp,"Inc."","Director","James C. Cherry","Director","The Cherry Group","2020"
+"Beach Bancorp,"Inc."","Director","Jonathon A. Levy","Director","Redstone Investments","2020"
+"Beach Bancorp,"Inc."","Director","Jonathan C. Lorenz","Director","Pacific Western Bank","2020"
+"Beach Bancorp,"Inc."","Director","Terri Roberts","Director","Liza Jackson Preparatory School","2020"
+"Beach Bancorp,"Inc."","Director","J. Daniel Speight","Director","Planters First Bancorp","2020"
+"Beach Bancorp,"Inc."","Director","C. LeDon Anchors","Director","Anchors,"Smith & Grimsley"","2020"
+"Beach Bancorp,"Inc."","Director","Brian Murphy","Director","ReliaQuest","2020"
+"Beach Bancorp,"Inc."","EVP,"CFO","Scty"","Richard A. Mocsari","EVP,"CFO","Beach Bank"","N/A","2020"
+"Beach Bancorp,"Inc."","EVP,"CCO","Beach Bank"","Andrew G. Peterson","N/A","N/A","2020"
+```

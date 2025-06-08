@@ -1,0 +1,30 @@
+Here are the two tables you requested:
+### SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS BANC-CORP.","Russellville","2019","Cecil Batchelor","n/a","1180","1.97%"
+"CBS BANC-CORP.","Russellville","2019","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","26.45%"
+"CBS BANC-CORP.","Russellville","2019","John Gregory Batchelor","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2019","John Gregory Batchelor,"Trustee"","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2019","Olivia Batchelor","n/a","422","0.70%"
+"CBS BANC-CORP.","Russellville","2019","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","27.32%"
+"CBS BANC-CORP.","Russellville","2019","Rebecca Batchelor Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2019","Rebecca Batchelor Reeves,"Trustee"","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2019","John Bradley Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Birmingham","2019","Donald M. James*","n/a","2679","4.47%"
+"CBS BANC-CORP.","Russellville","2019","Sarah Graves*","n/a","2174","3.62%"
+"CBS BANC-CORP.","Tuscumbia","2019","Olivia J. Wages*","n/a","2126","3.54%"
+```
+### INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS BANC-CORP.","Chairman Board of Directors","Mr. Cecil Batchelor","Chairman Emeritus Board of Directors","CB&S Bank,"Inc."","2019"
+"CBS BANC-CORP.","Shareholder","Cecil & Olivia Batchelor Family Limited Partnership","n/a","n/a","2019"
+"CBS BANC-CORP.","Shareholder","Olivia & Cecil Batchelor Family Limited Partnership","n/a","n/a","2019"
+"CBS BANC-CORP.","President & CEO","Mr. Michael Ross","President & CEO","CB&S Bank,"Inc."","2019"
+"CBS BANC-CORP.","Vice Chairman and Chairman Elect Board of Directors","Mr. Greg Batchelor","Chairman Board of Directors","CB&S Bank Inc.","2019"
+"CBS BANC-CORP.","Member Board of Directors","Mr. Brad Reeves","Member Board of Directors","CB&S Bank,"Inc."","2019"
+"CBS BANC-CORP.","Vice Chairman Elect Board of Directors","Mrs. Rebecca Reeves","Vice-Chairman and Chairman Elect Board of Directors","CB&S Bank","2019"
+"CBS BANC-CORP.","Member Board of Directors","Mr. John Bradley Reeves","Member Board of Directors","CB&S Bank,"Inc."","2019"
+"CBS BANC-CORP.","Secretary","Mr. John Aldridge","Executive Vice-President","CB&S Bank,"Inc."","2019"
+```

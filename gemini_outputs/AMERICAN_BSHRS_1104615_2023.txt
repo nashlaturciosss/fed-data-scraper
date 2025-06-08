@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares,"Inc."","Covington","2023","Julian J,"Rodrigue","Jr."","n/a","770000","25.4132%"
+"American Bancshares,"Inc."","Covington","2023","Karen Smith Riecke","n/a","581240","19.1834%"
+"American Bancshares,"Inc."","Covington","2023","Riecke and Associates","n/a","338925","11.1859%"
+"American Bancshares,"Inc."","Ferriday","2023","Brett Oubre","n/a","152181","5.0226%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares,"Inc."","Chairman of the Board","Jared Caruso Riecke","Chairman of the Board","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director,"President"","Alton K McRee","President & CEO","n/a","2023"
+"American Bancshares,"Inc."","Director","Paul J Mayronne","Attorney","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Daniel H Edwards Sr","Sheriff","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Raymond R. Riecke","Retired Businessman","n/a","2023"
+"American Bancshares,"Inc."","Director","Edward T. Riecke","Bank Officer","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Casey Robin","Insurance Producer","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Franklin Kyle","Engineer,"Business Owner"","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Arthur Renaudin","Developer","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Theodore Lee","Business Owner","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Brett K. Oubre","Business Owner","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","Director","Robert J. Bergeron","Attorney,"Business Owner"","Owner or Partial Owner as identified in Column (4)c","2023"
+"American Bancshares,"Inc."","n/a","Karen S Riecke","Housewife","n/a","2023"
+"American Bancshares,"Inc."","n/a","Julian J. Rodrique,"Jr"","Attorney","n/a","2023"
+"American Bancshares,"Inc."","n/a","Riecke and Associates","Construction and Development","n/a","2023"
+"American Bancshares,"Inc."","Secretary,"COO"","Andrew Burns","Secretary,"Chief Operating Officer"","n/a","2023"
+"American Bancshares,"Inc."","Treasurer,"CFO"","Todd Rauch","Treasurer,"Chief Financial Officer"","n/a","2023"
+```

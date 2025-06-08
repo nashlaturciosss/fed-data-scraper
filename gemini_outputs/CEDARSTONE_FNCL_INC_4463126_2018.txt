@@ -1,0 +1,20 @@
+"Here are the two CSV tables extracted from the document","following your exact specifications:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CedarStone Financial,"Inc."","Lebanon","2018","Jacqueline W. Cowden","n/a","n/a","6.2%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CedarStone Financial,"Inc."","Director/Chairman","Kevin D. Bay","President","Bay's Southern Bread","2018"
+"CedarStone Financial,"Inc."","Director","Jacqueline W. Cowden","Partner","WestChase Partners,"LLC"","2018"
+"CedarStone Financial,"Inc."","Director/President/CEO","Robert L. McDonald Sr.","n/a","n/a","2018"
+"CedarStone Financial,"Inc."","Director","Donald E. Moser","n/a","n/a","2018"
+"CedarStone Financial,"Inc."","Director","Bancroft O'Quinn,"Jr."","Owner","Bancroft O'Quinn,"MD"","2018"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Dempsey,"Vantrease & Follis","PLLC"","2018"
+"CedarStone Financial,"Inc."","Director","Victor K. Nixon","President/Owner","Savik,"LLC"","2018"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Member","615 Warehousing,"LLC"","2018"
+"CedarStone Financial,"Inc."","EVP & CFO","Kenneth K. Mattox","n/a","n/a","2018"
+"CedarStone Financial,"Inc."","EVP & Operations Manager","Tina M. Winfree","n/a","n/a","2018"
+```

@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"ABB Financial Group,"Inc."","Arlington","2017","Kenneth R. Lehman","Common","2571250","46.87%"
+"ABB Financial Group,"Inc."","Atlanta","2017","Serguei Kouzmine","Preferred","5891","100.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"ABB Financial Group,"Inc."","Director/CEO","Edward J. Cooney","President/Director","MEMM,"LLC"","2017"
+"ABB Financial Group,"Inc."","Director","Leeman Bennett","Director","n/a","2017"
+"ABB Financial Group,"Inc."","n/a","Frank A. Clayton,"DDS."","Director","Clayton Dental,"PC"","2017"
+"ABB Financial Group,"Inc."","CFO","Brandi Pajot","SVP/CFO","n/a","2017"
+"ABB Financial Group,"Inc."","Director","Jeffrey R. Lake","Director","Dixie Electric Company","2017"
+"ABB Financial Group,"Inc."","Chairman","Robert C. McMahan","Chairman","n/a","2017"
+"ABB Financial Group,"Inc."","Director","Wayne V. Mitsch","Director","n/a","2017"
+"ABB Financial Group,"Inc."","n/a","Clark N. Nelson,"Jr"","EVP/CCO","n/a","2017"
+```

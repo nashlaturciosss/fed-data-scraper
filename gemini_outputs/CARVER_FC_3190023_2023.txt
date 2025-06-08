@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Carver Financial Corporation","Savannah","2023","Robert E. James","Common Stock","286243.7650","48.80%"
+"Alamerica BancCorp","Savannah","2023","Carver Financial Corporation","common","954306","99.96%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Carver Financial Corporation","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2023"
+"Carver Financial Corporation","Director","E. Bruce Adams","Lead Director","Carver State Bank","2023"
+"Carver Financial Corporation","Director","Cathy P. Hill","Director","Carver State Bank","2023"
+"Carver Financial Corporation","Director & President","Robert E. James,"II"","Director & Executive Vice President","Carver State Bank","2023"
+"Carver Financial Corporation","Director","Edward G. Miller","Director","Carver State Bank","2023"
+"Carver Financial Corporation","Director","Da'Henri R. Thurmond","Director","Carver State Bank","2023"
+"Carver Financial Corporation","Bank CEO","Jason A. Eppenger","n/a","Eppenger,"LLC"","2023"
+"Carver Financial Corporation","Bank Chief Operating Officer & Senior Vice President","John L. Turner","Chief Operating Officer Senior Vice President","Carver State Bank","2023"
+"Carver Financial Corporation","Consultant","Kenneth J. Rance","Chief Operating Officer","The Rance Group","2023"
+"Alamerica BancCorp","Director","Jacqueline Anderson-Smith","Director","Alamerica Bank","2023"
+"Alamerica BancCorp","Director","Jason A. Eppenger","Director","Alamerica Bank","2023"
+"Alamerica BancCorp","Director","Michael D. Miles","Director","Alamerica Bank","2023"
+"Alamerica BancCorp","Vice Chair","Robert E. James","Director","Alamerica Bank","2023"
+"Alamerica BancCorp","n/a","Robert E. James,"II"","Director","Alamerica Bank","2023"
+"Alamerica BancCorp","n/a","Kent McGriff","n/a","Alamerica Bank","2023"
+```

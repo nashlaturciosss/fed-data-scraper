@@ -1,0 +1,21 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOE BANCSHARES,"INC."","Edison","2022","D. Conner & Charlotte Collins","Common Stock","6398","21.43%"
+"BOE BANCSHARES,"INC."","Edison","2022","Claud C. Lowe","Common Stock","1978","6.62%"
+"BOE BANCSHARES,"INC."","Sylva","2022","Leslie L. Lowe","Common Stock","2318","7.76%"
+"BOE BANCSHARES,"INC."","Edison","2022","Carla Toal","Common Stock","2876","9.63%"
+"BOE BANCSHARES,"INC."","Quitman","2022","Curtis Pickels","Common Stock","2352","7.88%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOE BANCSHARES,"INC."","Director,"Chairman"","D. Conner Collins","Director,"Chairman"","Owner--Little Pachitla Farm","2022"
+"BOE BANCSHARES,"INC."","n/a","Charlotte L Collins","n/a","n/a","2022"
+"BOE BANCSHARES,"INC."","Director,"Vice-President","I.T."","Benjamin Dismukes","Director,"Vice-President","I.T."","n/a","2022"
+"BOE BANCSHARES,"INC."","Director","Willis A. Duvall","Director","Attorney","2022"
+"BOE BANCSHARES,"INC."","President,"Director"","Claud C Lowe","President,"Director"","n/a","2022"
+"BOE BANCSHARES,"INC."","Director","Jason Knox","Director","Managing Partner","2022"
+"BOE BANCSHARES,"INC."","Director","Martha A. Corrigan","Director","n/a","2022"
+```

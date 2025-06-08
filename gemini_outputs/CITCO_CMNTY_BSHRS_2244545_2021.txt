@@ -1,0 +1,32 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Sam LaPorte","Common Stock","2020.00","24.94%"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Sam LaPorte","Other","103550.67","22.25%"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Sam LaPorte","Other","10671.20","2.29%"
+"Citco Community Bancshares,"Inc."","Houston","2021","Chris LaPorte","Common Stock","2020.00","24.94%"
+"Citco Community Bancshares,"Inc."","Houston","2021","Chris LaPorte","Other","114221.87","24.54%"
+"Citco Community Bancshares,"Inc."","Houston","2021","Steve LaPorte","Common Stock","2020.00","24.94%"
+"Citco Community Bancshares,"Inc."","Houston","2021","Steve LaPorte","Other","89746.15","19.28%"
+"Citco Community Bancshares,"Inc."","Houston","2021","Steve LaPorte","Other","24475.72","5.26%"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Joe LaPorte III","Common Stock","2040.00","25.19%"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Joe LaPorte III","Other","84885.01","18.24%"
+"Citco Community Bancshares,"Inc."","Elizabethton","2021","Joe LaPorte III","Other","30316.86","6.51%"
+"Citco Community Bancshares,"Inc."","n/a","2021","Citco Community Bancshares","Treasury Stock","7540.52","n/a"
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Director/Chairman/CEO/Trust Officer","Citizens Bank","2021"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Director/Chairman/CEO/President","Citco Title Co,"Inc."","2021"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Director/Chairman/CEO/President","Tri Cities Finance Company Inc.","2021"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Director/Chairman/CEO/President","Citizens Investments Services,"Inc."","2021"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Director/Chairman/CEO/President","Magnolia Investments","2021"
+"Citizens Bank","Chairman of the Board and CEO","Joe LaPorte,"III"","Chairman","Acclivity Financial,"LLC"","2021"
+"Citizens Bank","n/a","Sam J. LaPorte","n/a","n/a","2021"
+"Citizens Bank","Director/Secretary","Sam J. LaPorte","Director/Secretary","Citizens Bank Tri Cities Foundation,"LTD (non-profit)"","2021"
+"Citizens Bank","n/a","Christopher L. LaPorte","n/a","n/a","2021"
+"Citizens Bank","n/a","Christopher L. LaPorte","Director/President","GSC Group,"Inc."","2021"
+"Citizens Bank","n/a","Christopher L. LaPorte","Director","Citizens Bank Tri Cities Foundation,"LTD (non-profit)"","2021"
+"Citizens Bank","n/a","Stephen J. LaPorte","n/a","n/a","2021"
+"Citizens Bank","Director/Vice President","Stephen J. LaPorte","Director","Citizens Bank Tri Cities Foundation,"LTD (non-profit)"","2021"

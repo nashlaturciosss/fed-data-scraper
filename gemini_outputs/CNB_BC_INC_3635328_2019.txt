@@ -1,0 +1,15 @@
+"Here are the two tables in valid CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CNB Bancorp,"Inc."","Birmingham,"AL"","2019","Patrick Cooper","Common Stock","249574","54.5%"
+"CNB Bancorp,"Inc."","Mobile,"AL"","2019","Gary Cooper","Common Stock","59503","13%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CNB Bancorp,"Inc."","Chairman","J. Gary Cooper","n/a","n/a","2019"
+"CNB Bancorp,"Inc."","Director","Jacquitta Green","n/a","Northside Check Exchange","2019"
+"CNB Bancorp,"Inc."","Director","Scott Hunter","n/a","Raymond James Financial Services","2019"
+"CNB Bancorp,"Inc."","Attorney","Patrick Cooper","Chairman","n/a","2019"
+```

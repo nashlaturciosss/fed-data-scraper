@@ -1,0 +1,31 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2014","Estate of Robert H. Smith","Common Stock","3053181","17.52%"
+"Capital City Bank Group,"Inc."","Tallahassee","2014","William G. Smith,"Jr."","Common Stock","3776490","21.68%"
+"Capital City Bank Group,"Inc."","Tallahassee","2014","2S Partnerhip","Common Stock","1049361","6.02%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman"","2 S Partnership","2014"
+"Capital City Bank Group,"Inc."","n/a","Estate of Robert H. Smith","n/a","n/a","2014"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Anna T. Barron Trust","2014"
+"Capital City Bank Group,"Inc."","President","Frederick Carroll III","President","Carroll and Company,"Certified Public Accountants"","2014"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Trustee","AGRI Trust Self Insured Workers Comp Fund","2014"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President","Capital City Bank","2014"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc"","2014"
+"Capital City Bank Group,"Inc."","Director","John K. Humphress","Vice President","Wadsworth Humphress Hollar & Konrad,"PA"","2014"
+"Capital City Bank Group,"Inc."","Director","Lina Knox","Trustee","Smith Interests General Partnership","2014"
+"Capital City Bank Group,"Inc."","Director,"Vice Chairman"","Henry Lewis III","Provost/Vice President","American University of Health Sciences","2014"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","President/CEO","Bense Enterprises,"Inc."","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Beth Corum","Executive Vice President","Capital City Bank","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Mitch Englert","Executive Vice President","Capital City Bank","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Brooke Hallock","Executive Vice President Chief Brand Officer","Capital City Bank","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","William L. Moor,"Jr."","President","Capital City Banc Investments","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of","Edward G. Canup","Executive Vice President","Adiron,"LLC"","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Thomas Allen","Executive Vice President","Diamond at Monroe,"LLC"","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Dale A. Thompson","Executive Vice President","Capital City Bank","2014"
+"Capital City Bank Group,"Inc."","Designated an Executive Officer by virtue of position with Capital City Bank","Edwin West,"Jr."","Executive Vice President","Capital City Bank","2014"
+```

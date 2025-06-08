@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic Capital Bancshares,"Inc."","Baltimore","2021","T. Rowe Price Associates,"Inc."","Common Stock","2668681","13.1%"
+"Atlantic Capital Bancshares,"Inc."","New York","2021","BlackRock Institutional Trust Company,"N.Α."","Common Stock","1316551","6.5%"
+"Atlantic Capital Bancshares,"Inc."","Austin","2021","Dimensional Fund Advisors,"L.P."","Common Stock","1057732","5.2%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic Capital Bancshares,"Inc."","Director,"President & Chief Executive Officer"","Douglas L. Williams","Director,"President & Chief Executive Officer"","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","Chief Financial Officer","Patrick T. Oakes","Chief Financial Officer","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","Director & Chairman","Richard A. Oglesby,"Jr."","Executive Vice President - General Banking Division","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","Director & Chairman","Walter M. Deriso,"Jr."","n/a","n/a","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Henchy R. Enden","Equity Analyst","MFP Investors","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","James H. Graves","Managing Director & Partner","Erwin,"Graves & Associates","LP"","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Douglas J. Hertz","President & Chief Executive Officer","United Distributors,"Inc."","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Lizanne Thomas","Partner-in-Charge of the Southeastern Region","Jones Day","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Mariette Edmunds Zakas","Executive Vice President & Chief Financial Officer","Mueller Water Products,"Inc."","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Shantella E Cooper","Executive Director","Atlanta Committee for Progress","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","Thomas M. Holder","Chief Executive Officer & Chairman","Holder Construction Company","2021"
+"Atlantic Capital Bancshares,"Inc."","Director","David H. Eidson","President & Chief Executive Officer","Coxe Curry & Associates","2021"
+"Atlantic Capital Bancshares,"Inc."","Executive Vice President & Chief Credit Officer","Robert Bugbee","Executive Vice President & Chief Credit Officer","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","President","Kurt Shreiner","Executive Vice President - Corporate Financial Services Division","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","Executive Vice President & Chief Risk Officer","Gray Fleming","Executive Vice President & Chief Risk Officer","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","Executive Vice President & Chief Human Resources Officer","Annette Rollins","Executive Vice President & Chief Human Resources Officer","Atlantic Capital Bank","2021"
+"Atlantic Capital Bancshares,"Inc."","n/a","T. Rowe Price Associates,"Inc."","n/a","n/a","2021"
+```

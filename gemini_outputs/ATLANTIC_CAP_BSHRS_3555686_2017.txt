@@ -1,0 +1,31 @@
+"Okay","here are the two CSV tables extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic Capital Bancshares,"Inc."","Baltimore","2017","T. Rowe Price Associates,"Inc."","Common Stock","3654376","14%"
+"Atlantic Capital Bancshares,"Inc."","Chicago","2017","RMB Capital Holdings,"LLC"","Common Stock","2501660","10%"
+"Atlantic Capital Bancshares,"Inc."","New York","2017","The Bank of New York Mellon Corporation","Common Stock","1392698","5%"
+"Atlantic Capital Bancshares,"Inc."","Greenwich","2017","Trident IV,"L.P."","Common Stock","3109127","12%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic Capital Bancshares,"Inc."","Director & Chlef Executive Officer","Douglas L,"Willams"","Director & Chief Executive Officer","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","Patrick T. Oakes","Chief Financial Officer","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Richard A. Oglesby,"Jr."","Executive Vice President- General Banking Division","Porter Springs Ltd","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Walter M. Derisa,"Jr."","n/a","n/a","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Henchy R. Enden","Equity Analyst","n/a","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","James H. Graves","Managing Director & Partner","Erwin,"Graves & Jones","LP"","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Douglas J. Hertz","President & Chief Executive Officer","United Distributors,"Inc."","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Adam G. Hurwich","Portfolio Manager","Ulysses Management,"LLC"","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Larry D. Mauldin","Chief Executive Officer","Mauldin Properties,"LLC"","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","R. Charles Shufeldt","Senior Advisor","Brown Brothers Harriman & Company","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Lizanne Thomas","Partner-in-Charge of the Southern Region","Jones Day","2017"
+"Atlantic Capital Bancshares,"Inc."","Director","Mariette Edmunds Zakas","SVP of Strategy,"Corporate Development","and Communications and Human Resources"","Mueller Water Products,"Inc."","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","Robert Bugbee","Executive Vice President & Chief Credit Officer","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","Kurt Shreiner","Executive Vice President- Corporate Financial Services Division","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","Gary Fleming","Executive Vice President & Chlef Risk Officer","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","Annette Rollins","Executive Vice President & Chief Human Resources Officer","Atlantic Capital Bank","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","T. Rowe Price Associates,"Inc",","n/a","n/a","2017"
+"Atlantic Capital Bancshares,"Inc."","n/a","RMB Capital Holdings,"LLC"","n/a","n/a","2017"
+```

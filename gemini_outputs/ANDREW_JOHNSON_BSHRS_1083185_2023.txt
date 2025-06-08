@@ -1,0 +1,20 @@
+Here are the two tables in valid CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Andrew Johnson Bancshares,"Inc."","Greeneville","2023","Brandon Hull","n/a","124372","33.57%"
+"Andrew Johnson Bancshares,"Inc."","Knoxville","2023","Leslie Hull","n/a","55524","14.98%"
+"Andrew Johnson Bancshares,"Inc."","Greeneville","2023","Christopher Marsh","n/a","37896","10.23%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Andrew Johnson Bancshares,"Inc."","Director","James W. Hickerson,"Sr."","Business Development-Greene Cty","None","2023"
+"Andrew Johnson Bancshares,"Inc."","President/CEO & Director","Paige Hull","President/CEO & Director","Partner Caroline Grace,"LLC"","2023"
+"Andrew Johnson Bancshares,"Inc."","Director","Christopher Marsh","Director","President - Interstate Petroleum Company","2023"
+"Andrew Johnson Bancshares,"Inc."","Director","Mark R. Williams","Director","Broker-Century 21","2023"
+"Andrew Johnson Bancshares,"Inc."","Director","Leslie Hull","Director","None","2023"
+"Andrew Johnson Bancshares,"Inc."","Principal shareholder","Brandon Hull","None","President - Greeneville Federal Bank","2023"
+"Andrew Johnson Bancshares,"Inc."","Director","Denise Terry","Director","President - The Terry Law Firm","2023"
+"Andrew Johnson Bancshares,"Inc."","EVP/CFO","Randy J. Sizemore","EVP/CFO","None","2023"
+```

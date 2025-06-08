@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2018","William G. Smith,"Jr."","Common Stock","3034885","18.12%"
+"Capital City Bank Group,"Inc."","Tallahassee","2018","Douglas W. Smith","Common Stock","1560807","9.32%"
+"Capital City Bank Group,"Inc."","Tallahassee","2018","Drew Mitchell","Common Stock","1557500","9.30%"
+"Capital City Bank Group,"Inc."","New York","2018","BlackRock Instituitional Trust Company,"N.A."","Common Stock","878100","5.15%"
+"Capital City Bank Group,"Inc."","Austin","2018","Dimensional Fund Advisors,"L.P."","Common Stock","903151","5.29%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","Smith Interests General Partnership","2018"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Partner","GS2 Partnership","2018"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Beneficiary","The William Godfrey Smith Trust","2018"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Elizabeth D. Barron","2018"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Rebecca M. Barron","2018"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Anne T. Barron","2018"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","n/a","n/a","2018"
+"Capital City Bank Group,"Inc."","Director","Frederick Carroll III","Partner","Lane Smith & Frederick Carroil,"ill"","2018"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2018"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2018"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","Chairman/President/CEO","Bense Enterprises Inc.","2018"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2018"
+"Capital City Bank Group,"Inc."","Director","Stanley Connally,"Jr."","Chairman/President/CEO","Gulf Power Company","2018"
+"Capital City Bank Group,"Inc."","Director","Eric Grant","President","Municipal Code Corporation","2018"
+"Capital City Bank Group,"Inc."","Director","Laura Johnson","President","Cotton Colors Express,"LLC."","2018"
+"Capital City Bank Group,"Inc."","Director","Marshall Criser III","Chancellor","State University System of Florida/Florida Board of Governors","2018"
+```

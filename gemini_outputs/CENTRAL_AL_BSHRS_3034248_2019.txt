@@ -1,0 +1,23 @@
+Here are the tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"n/a","n/a","2019","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Alabama Bancshares,"Inc."","Director","Earl Ryser","Contractor","n/a","2019"
+"Central Alabama Bancshares,"Inc."","Director","Spencer J. Coleman,"Sr. MD"","Physician","n/a","2019"
+"Central Alabama Bancshares,"Inc."","Director","Sheila Spiers","Retired Banker","n/a","2019"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","Finance","KeyFinance Co. Inc. (>5%)
+ALMA LLC (>5%)
+Striplin Family LLC (>5%)
+"Twatt LLC (>5%)"","2019"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","Banker","Trico Financial Services LLC (30%)","2019"
+"Central Alabama Bancshares,"Inc."","President and CEO","Michael R. Morgan","Banker","n/a","2019"
+"Central Alabama Bancshares,"Inc."","Director","John R. Williams","Mortgage Lender","Mortgage Corporation of the South (100%)","2019"
+"Central Alabama Bancshares,"Inc."","Director","Johnny M. Carothers,"Jr."","Forester","Baseline Forest Services (25%)","2019"
+"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","Banker","n/a","2019"
+"Central Alabama Bancshares,"Inc."","Director","Brian Barrett","Dentist","Brian E. Barrett DMD PC","2019"
+```

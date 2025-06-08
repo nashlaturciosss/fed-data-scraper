@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankUnited,"Inc."","New York","2023","BlackRock Inc.","n/a","10802312","14.5%"
+"BankUnited,"Inc."","Malvern","2023","The Vanguard Group","n/a","9202637","12.4%"
+"BankUnited,"Inc."","Malvern","2023","T. Rowe Price Associates,"Inc."","n/a","7423083","10.0%"
+"BankUnited,"Inc."","Boston","2023","State Street","n/a","4592209","6.2%"
+"BankUnited,"Inc."","Austin","2023","Dimensional Fund Advisors","n/a","4756263","6.4%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankunited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","None","n/a","2023"
+"Bankunited,"Inc."","Director","Leslie N. Lunak","Chief Financial Officer,"BankUnited","N.A."","n/a","2023"
+"Bankunited,"Inc."","Chief Financial Officer","Thomas M. Cornish","Director and Treasurer: Pinnacle Public Finance,"Inc."","Bridge Funding Group,"Inc"","2023"
+"Bankunited,"Inc."","Director","Tere Blanca","Chairman and CEO,"Blanca Commercial Real Estate"","n/a","2023"
+"Bankunited,"Inc."","Director","John N. DiGiacomo","Owner,"Placid Times Photography","LLC"","n/a","2023"
+"Bankunited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee Northwell Health"","n/a","2023"
+"Bankunited,"Inc."","Director","Douglas J. Pauls","Director,"Essent Group"","n/a","2023"
+"Bankunited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","Director,"The Global Atlantic Financial Group","LLC"","n/a","2023"
+"Bankunited,"Inc."","Director","William S. Rubenstein,"Esq."","None","n/a","2023"
+"Bankunited,"Inc."","Director","Germaine Smith Baugh","President & CEO,"the Urban League of Broward County","FL"","n/a","2023"
+"Bankunited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","Director,","n/a","2023"
+"Bankunited,"Inc."","Director","Lynne Wines","None","n/a","2023"
+```

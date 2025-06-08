@@ -1,0 +1,11 @@
+"Okay","I will follow your instructions precisely and generate the two CSV tables as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Century Bancshares of Florida,"Inc"","Tampa","2022","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Century Bancshares of Florida,"Inc"","Chairman,"President & CEO"","Jose Vivero","n/a","n/a","2022"
+```

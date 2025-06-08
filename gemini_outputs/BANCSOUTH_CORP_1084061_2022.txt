@@ -1,0 +1,11 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancSouth Corporation","n/a","2022","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","Director","BancSouth Corporation","2022"
+```

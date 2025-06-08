@@ -1,0 +1,17 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CARVER FINANCIAL CORPORATION","Savannah","2019","Robert E. James","Common Stock","286,"243.7650"","52.37%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","See Attachment A","2019"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Adams Funeral Services","2019"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Director","The Plummer-Hill Group LLC","2019"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Century Investors,"Ltd."","2019"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","See Attachment B","2019"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","n/a","2019"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","St. Paul C.M.E. Church","2019"
+```

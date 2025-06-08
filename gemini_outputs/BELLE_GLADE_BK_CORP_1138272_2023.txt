@@ -1,0 +1,29 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bank of Belle Glade","Belle Glade","2023","Stephen M. Prielozny","n/a","0","0.0%"
+"Bank of Belle Glade","Belle Glade","2023","James M. Herring,"Jr."","n/a","166","1.0%"
+"Bank of Belle Glade","Belle Glade","2023","Paul R. Orsenigo","n/a","626","3.9%"
+"Bank of Belle Glade","Pahokee","2023","William R. Kennedy","n/a","460.5","2.9%"
+"Bank of Belle Glade","Wellington","2023","Dennis G. Wedgworth","n/a","522","3.3%"
+"Bank of Belle Glade","Belle Glade","2023","Amie L. Pitts","n/a","0","0.0%"
+"Bank of Belle Glade","Royal Palm Beach","2023","Yusimy D. Silva","n/a","0","0.0%"
+"Bank of Belle Glade","Loxahatchee","2023","James E. Springer","n/a","0","0.0%"
+"Bank of Belle Glade","Belle Glade","2023","Frances R. Hand Revocable Trust","n/a","3059","19.1%"
+"Bank of Belle Glade","Belle Glade","2023","Mary J. Royal Revocable Trust","n/a","2614","16.3%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Belle Glade Bank Corporation","President/Director","Stephen M. Prielozny","Director","Glades ARC","2023"
+"Belle Glade Bank Corporation","Director","James M. Herring,"Jr."","President","Herring Farms,"Inc."","2023"
+"Belle Glade Bank Corporation","Director","Paul R. Orsenigo","President","Orsenigo Farm,"Inc."","2023"
+"Belle Glade Bank Corporation","Director","William R. Kennedy","President","William Kennedy Farm Inc.","2023"
+"Belle Glade Bank Corporation","Director","Dennis G. Wedgworth","Director/Treasurer","Sugar Cane Growers Coop of FL","2023"
+"Belle Glade Bank Corporation","Director","Amie L. Pitts","Head of School","Glades Day School","2023"
+"Belle Glade Bank Corporation","Secretary","Yusimy D. Silva","n/a","n/a","2023"
+"Belle Glade Bank Corporation","Officer","James E. Springer","President","Families First of PBC","2023"
+"Belle Glade Bank Corporation","Principal Shareholder","Frances R. Hand Revocable Trust","Trustee","Hand Properties","2023"
+"Belle Glade Bank Corporation","Principal Shareholder","Mary J. Royal Revocable Trust","n/a","n/a","2023"
+```

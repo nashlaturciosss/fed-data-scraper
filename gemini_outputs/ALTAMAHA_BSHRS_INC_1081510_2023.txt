@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altamaha Bancshares,"Inc."","Uvalda","2023","Betty Morris or Randall Morris & Austin Morris Family Trust","Common Stock","18675","13.88%"
+"Altamaha Bancshares,"Inc."","Uvalda","2023","Frank,"John","Tracey Morris"","Common Stock","8400","6.25%"
+"Altamaha Bancshares,"Inc."","Vidalia","2023","Betty Salter","Common Stock","15075","11.20%"
+"Altamaha Bancshares,"Inc."","Mt. Vernon","2023","Linda Sammons","Common Stock","11903","8.85%"
+"Altamaha Bancshares,"Inc."","Uvalda","2023","Grace Manning","Common Stock","7309","5.43%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altamaha Bancshares,"Inc."","Director","Wayne Hartley","President","Robin Builders,"Inc."","2023"
+"Altamaha Bancshares,"Inc."","Director","Lloyd Mason","Director","Southern Eyecare Co-Owner","2023"
+"Altamaha Bancshares,"Inc."","Director/Randall","Randall Morris or Betty Morris & Austin Morris Family Trust","Director/Randall","Morris Enterprises","2023"
+"Altamaha Bancshares,"Inc."","Director/Susan","Susan Salter Shook","Owner/Susan","Susan Shook,"PC"","2023"
+"Altamaha Bancshares,"Inc."","President/CEO/Director","R. Brent Sammons","President/CEO/Director","n/a","2023"
+"Altamaha Bancshares,"Inc."","Director/Thomas","S. Thomas Moore","President","S Thomas Moore & Associates","2023"
+"Altamaha Bancshares,"Inc."","Director","Tommy A. Rollins","Director","Tar Land & Timber","2023"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Manager","TAR Investments,"LLC"","2023"
+```

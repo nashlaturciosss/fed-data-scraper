@@ -1,0 +1,17 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Financial Holdings,"Inc."","n/a","2023","Thomas R. Beard","Common Stock","14167","n/a"
+"Central Financial Holdings,"Inc."","n/a","2023","Charles B. Murphy III","Common Stock","14167","n/a"
+"Central Financial Holdings,"Inc."","n/a","2023","Christopher K. Williams","Common Stock","14167","n/a"
+"Central Financial Holdings,"Inc."","n/a","2023","Paul M. Wilking","Common Stock","14167","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Financial Holdings,"Inc."","","","Director","Central Bank of Tampa Bay","2023"
+"Central Financial Holdings,"Inc."","","","Director","Central Bank of Tampa Bay","2023"
+"Central Financial Holdings,"Inc."","","","Director","Central Bank of Tampa Bay","2023"
+"Central Financial Holdings,"Inc."","","","Director","Central Bank of Tampa Bay","2023"
+```

@@ -1,0 +1,16 @@
+Here are the two tables extracted from the document in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCB Bancshares,"Inc."","Chairman of the Board","Starling H. Waldron","Chairman,"Executive Officer","CFO of Citizens Community Bank"","Lone Oak LLLP general partner 33.133%","2023"
+"CCB Bancshares,"Inc."","President","Glenn L. Copeland","Director,"Executive Officer","CEO/President of Citizens Community Bank"","n/a","2023"
+"CCB Bancshares,"Inc."","n/a","David K Hollis Hollis","n/a","n/a","2023"
+"CCB Bancshares,"Inc."","n/a","JR FBO Miller Waldron","n/a","Lone Oak LLLP limited partner less than 1%","2023"
+"CCB Bancshares,"Inc."","n/a","S Hollis TR Mason","Director,"Secretary"","n/a","2023"
+"CCB Bancshares,"Inc."","n/a","David K. Hollis,"III"","Director,"VP of Citizens Community Bank"","Lone Oak LLLP general partner 33.133%","2023"
+```

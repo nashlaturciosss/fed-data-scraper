@@ -1,0 +1,15 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","following your instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Century Bancorp,"Inc."","Milledgeville","2020","Patricia B Thompson","Common Stock","83781","12.89%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Century Bancorp,"Inc."","Director","Victor D. Bayne","Director","Bayne's Army Store","2020"
+"Century Bancorp,"Inc."","Chairman","T. Chris Boyd","Director","American Tank Maintenance,"LLC"","2020"
+"Century Bancorp,"Inc."","Director","Leigh C. Chambers","Director","n/a","2020"
+"Century Bancorp,"Inc."","Director","William M. Dyer","Director","n/a","2020"
+"Century Bancorp,"Inc."","Director","W. Kendrick Farr","Director","n/a","2020"
+"Century Bancorp,"Inc."","Director","Larry R. Garrett","Chairman","G&S Gas Service Inc","2020"
+"Century Bancorp,"Inc."","Director","Cheryl P. Pounds","Director","n/a","2020"
+```

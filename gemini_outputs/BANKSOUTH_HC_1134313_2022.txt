@@ -1,0 +1,18 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankSouth Holding Company","Greensboro","2022","Marguerite McInteer","n/a","2749","16.39%"
+"BankSouth Holding Company","Greensboro","2022","Harold Reynolds","n/a","5141","30.66%"
+"BankSouth Holding Company","Greensboro","2022","James Reynolds IV","n/a","2669","15.92%"
+"BankSouth Holding Company","Greensboro","2022","Frances Strickland","n/a","2978","17.76%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankSouth Holding Company","Chairman","Marguerite McInteer","Jackson Quarter - Partner","BankSouth-Board","2022"
+"BankSouth Holding Company","Director/President & CEO","Harold Reynolds","44 Holdings-Chairman","44 Holdings","2022"
+"BankSouth Holding Company","n/a","James Reynolds IV","Managing Partner-Avenir Growth Mgt.,"LLC"","n/a","2022"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Jackson Quarter - Partner","BankSouth-Board","2022"
+"BankSouth Holding Company","Director and VP","James Reynolds III","Road to Nowhere,"LLC"","BankSouth-Board","2022"
+```

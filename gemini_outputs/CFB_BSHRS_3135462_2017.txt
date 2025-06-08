@@ -1,0 +1,21 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CFB Bancshares,"Inc."","Oak Ridge","2017","James Wilson","Common Stock","22412","6%"
+"CFB Bancshares,"Inc."","n/a","2017","NONE","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CFB Bancshares,"Inc."","Director","Mitchell Dyer","Director","M&G Precision Machinery","2017"
+"CFB Bancshares,"Inc."","Director","David Goodman","Director","Goodman Farms","2017"
+"CFB Bancshares,"Inc."","Director","Joe Cross","Director","n/a","2017"
+"CFB Bancshares,"Inc."","Director","Vander Murray","Director","VJ's Exxon","2017"
+"CFB Bancshares,"Inc."","Director","Steve Smith","Director","Nevin Enterprises LLC","2017"
+"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Dir. & Chair.","Wilson & Brooks,"P.C."","2017"
+"CFB Bancshares,"Inc."","Director & President","Billy Rice","Director & CEO","HLR Investors","2017"
+"CFB Bancshares,"Inc."","President & CFO","Wendell Langley","Director & CFO","HLR Investors","2017"
+"CFB Bancshares,"Inc."","Director","Larry D Williams","Director","Tubby's Construction","2017"
+"CFB Bancshares,"Inc."","Secretary","LuAnn Hileman","Secretary","n/a","2017"
+```

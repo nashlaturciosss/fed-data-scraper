@@ -1,0 +1,13 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"AXIOM BANCSHARES,"INC"","Atlanta","2018","Frank Hanna,"Jr."","Common Stock","2000.000","100.00%"
+"AXIOM BANCSHARES,"INC"","n/a","2018","None","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"AXIOM BANCSHARES,"INC"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2018"
+"AXIOM BANCSHARES,"INC"","Director","Daniel Davis","CEO","Axiom Bank,"N.A."","2018"
+"AXIOM BANCSHARES,"INC"","Director","David Hanna","n/a","n/a","2018"
+```

@@ -1,0 +1,20 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","following all specified instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Andrew Johnson Bancshares","Greeneville","2019","Brandon Hull","Common Stock","106832","28.26%"
+"Andrew Johnson Bancshares","Knoxville","2019","Leslie Hull","Common Stock","55524","14.69%"
+"Andrew Johnson Bancshares","Greeneville","2019","SW Marsh","Common Stock","21898","5.79%"
+"Andrew Johnson Bancshares","Rudledge","2019","Frances Burchette","Common Stock","20663","5.47%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Andrew Johnson Bancshares","Director","Sharon L. Folk","Golf course owner","Andrew Johnson Golf Club,"Inc. - 100%"","2019"
+"Andrew Johnson Bancshares","Director","Joel Hice","n/a","None","2019"
+"Andrew Johnson Bancshares","Director","James W. Hickerson,"Sr."","Director","Business Development","2019"
+"Andrew Johnson Bancshares","President/CEO & Director","Paige Hull","President/CEO & Director","Partner-Caroline Grace,"LLC"","2019"
+"Andrew Johnson Bancshares","Director","Christopher Marsh","Director","President-Marsh LP Gas Co.","2019"
+"Andrew Johnson Bancshares","Director","Mark R. Williams","Broker-Century 21 Owner","Mark Williams Rentals","2019"
+"Andrew Johnson Bancshares","Principal shareholder","Leslie Hull","Owner","Greeneville Office Building","2019"
+"Andrew Johnson Bancshares","Principal shareholder","Brandon Hull","President-Greeneville Federal Bank","Caroline Grace,"LLC"","2019"
+"Andrew Johnson Bancshares","Director","Denise Terry","Attorney","Greeneville Office Building","2019"
+```

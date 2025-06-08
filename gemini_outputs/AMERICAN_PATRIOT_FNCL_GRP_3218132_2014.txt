@@ -1,0 +1,15 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Patriot Financial Group,"Inc."","Greeneville","2014","William Smead","Common Stock","135166","5.66%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Patriot Financial Group,"Inc."","Director Chairman","Wendy Warner","Director Chairman","American Patriot Bank","2014"
+"American Patriot Financial Group,"Inc."","n/a","William Smead","Director","American Patriot Bank","2014"
+"American Patriot Financial Group,"Inc."","n/a","T. Don Waddell","CFO and SVP Secretary","American Patriot Bank","2014"
+"American Patriot Financial Group,"Inc."","n/a","Melissa Cobble","CFO and Senior Vice President Secretary","American Patriot Bank","2014"
+"American Patriot Financial Group,"Inc."","n/a","Roger Woolsey","Director","American Patriot Bank","2014"
+"American Patriot Financial Group,"Inc."","n/a","James Randal Hall","Director,"CEO and President"","American Patriot Bank","2014"
+```

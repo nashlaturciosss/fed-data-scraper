@@ -1,0 +1,26 @@
+"Okay","here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Citizens Bancorp,"Inc."","Knoxville","2016","Russell Family","Common Stock","20797","9.987%"
+"Citizens Bancorp,"Inc."","Knoxville","2016","Newkirk Family","Common Stock","20778","9.978%"
+"Citizens Bancorp,"Inc."","Tazewell","2016","Ball Family","Common Stock","18617","8.941%"
+"Citizens Bancorp,"Inc."","Amelia Island","2016","Russell Family","Common Stock","13333","6.403%"
+"Citizens Bancorp,"Inc."","New Tazewell","2016","Lewis Family","Common Stock","12999","6.243%"
+"Citizens Bancorp,"Inc."","Sneedville","2016","Harrison Family","Common Stock","12143","5.831%"
+"Citizens Bancorp,"Inc."","Strawberry Plains","2016","Rudder Family","Common Stock","10666","5.122%"
+"Citizens Bancorp,"Inc."","Tazewell","2016","Ramblen Rose,"LLC"","Common Stock","10500","5.042%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","Owner/Pres","Ball Realty & Auction,"Inc."","2016"
+"Citizens Bancorp,"Inc."","President Treasurer","Kenneth V. Jones","CEO & President","Citizens Bank","2016"
+"Citizens Bancorp,"Inc."","Secretary","Frances Hensley","Executive Assistant","Citizens Bank","2016"
+"Citizens Bancorp,"Inc."","Director","Thomas J. Harrison","Manager","Sneedville Elect. & Furniture Co.","2016"
+"Citizens Bancorp,"Inc."","Director","C. Larry Lamb","Partner","Lamb Family Limited Partnership","2016"
+"Citizens Bancorp,"Inc."","Director","Nancy Large","None","None","2016"
+"Citizens Bancorp,"Inc."","Director","Nan S. Cole","n/a","n/a","2016"
+"Citizens Bancorp,"Inc."","Director","William M. Russell","Managing Gen. Partner","Russell Brothers.","2016"
+"Citizens Bancorp,"Inc."","N/A","Rudder Family","N/A","N/A","2016"
+```

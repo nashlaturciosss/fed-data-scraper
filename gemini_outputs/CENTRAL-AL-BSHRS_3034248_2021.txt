@@ -1,0 +1,19 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Alabama Bancshares,"Inc."","Physician","Spencer J. Coleman,"Sr. MD"","Director","n/a","2021"
+"Central Alabama Bancshares,"Inc."","Retired Banker","Sheila Spiers","Director","n/a","2021"
+"Central Alabama Bancshares,"Inc."","Finance","Albert Striplin","Director","Twatt LLC (>5%)","2021"
+"Central Alabama Bancshares,"Inc."","Banker","Travis Cosby,"III"","Chairman/Director","KeyFinance Co. Inc. (>5%)","2021"
+"Central Alabama Bancshares,"Inc."","Banker","Michael R. Morgan","CEO Director","n/a","2021"
+"Central Alabama Bancshares,"Inc."","Mortgage Lender","John R. Williams","Director","Mortgage Corporation of the South","2021"
+"Central Alabama Bancshares,"Inc."","Forester","Johnny M. Carothers,"Jr."","Director","Baseline Forest Services,"Inc."","2021"
+"Central Alabama Bancshares,"Inc."","Banker","Rana S. Futral","President/CFO/Director","n/a","2021"
+"Central Alabama Bancshares,"Inc."","Dentist","Brian Barrett","Director","n/a","2021"
+"Central Alabama Bancshares,"Inc."","Business owner","David Gray","Director","Owner of Gray's Tire","2021"
+```

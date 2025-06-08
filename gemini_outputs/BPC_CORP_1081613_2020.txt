@@ -1,0 +1,25 @@
+Here are the tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BPC Corporation","Monterey","2020","2006 Jack P. Ray","Common Stock","1147021","55.8248%"
+"BPC Corporation","Monterey","2020","W.T. Ray,"Jr. - Estate"","Common Stock","907632","44.1739%"
+"BPC Corporation","Cookeville","2020","Elizabeth Ann Ray Fournet","Common Stock","0","0.0000%"
+"BPC Corporation","Cookeville","2020","Elizabeth Ann Ray Fournet","Common Stock","27","0.0013%"
+"BPC Corporation","Monterey","2020","Jack P Ray","Common Stock","0","0.0000%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BPC Corporation","Director","Elizabeth Ray Fournet","n/a","n/a","2020"
+"BPC Corporation","Director","Ammon Hitchcock","n/a","n/a","2020"
+"BPC Corporation","Director","David Kinchler","n/a","n/a","2020"
+"BPC Corporation","Executive Vice President","Gary Medley","EVP & Chief Financial Officer","n/a","2020"
+"BPC Corporation","Director","David Williamson","n/a","n/a","2020"
+"BPC Corporation","Director","Gerry Whitehead","n/a","n/a","2020"
+"BPC Corporation","Director","Norman Copeland","n/a","n/a","2020"
+"BPC Corporation","Director","Randy Bond","n/a","n/a","2020"
+"BPC Corporation","Director","Randy York","n/a","n/a","2020"
+"BPC Corporation","Director","Thomas Jones","n/a","n/a","2020"
+"BPC Corporation","Director","Brenda Allred","n/a","n/a","2020"
+```

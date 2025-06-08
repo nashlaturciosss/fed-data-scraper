@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankUnited,"Inc."","Columbus","2018","Diamond Hill Capital Management","n/a","6838595","6.9%"
+"BankUnited,"Inc."","Malvern","2018","The Vanguard Group","n/a","9994095","10.1%"
+"BankUnited,"Inc."","Baltimore","2018","T. Rowe Price Associates,"Inc."","n/a","7179328","7.2%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankunited,"Inc."","Chairman","John A. Kanas","Director","n/a","2018"
+"Bankunited,"Inc."","Chief Financial Officer","Leslie N. Lunak","Chief Financial Officer,","LTL Properties Tampa 1 LLC","2018"
+"Bankunited,"Inc."","President and CEO","Rajinder P. Singh","President and CEO","n/a","2018"
+"Bankunited,"Inc."","Chief Operating Officer","Thomas M. Cornish","Chief Operating Officer","Pachuca Enterprises LLC","2018"
+"Bankunited,"Inc."","Director","Tere Blanca","Chairman and CEO","Blanca Commercial Real Estate","2018"
+"Bankunited,"Inc."","Director","Eugene F. DeMark","Director","1-800-Flowers","2018"
+"Bankunited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee"","Northwell Health","2018"
+"Bankunited,"Inc."","Director","Douglas J. Pauls","Director","Essent Group","2018"
+"Bankunited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","Dean,"Hofstra Univ School of Law Director"","n/a","2018"
+"Bankunited,"Inc."","Director","William S. Rubenstein,"Esq."","Retired Partner,"Skadden Arps"","n/a","2018"
+"Bankunited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","Former Investment Banker","Janak Services Corp.","2018"
+"Bankunited,"Inc."","Director","Lynne Wines","Retired Bank President & CEO","n/a","2018"
+```

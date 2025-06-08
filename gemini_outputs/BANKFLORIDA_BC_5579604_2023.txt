@@ -1,0 +1,23 @@
+"Here are the two requested CSV tables","extracted from the document."
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankFlorida Bancorp,"Inc."","Fort Lauderdale","2023","KENNETH R. LEHMAN","Common Stock","365000","11.37%"
+"BankFlorida Bancorp,"Inc."","Lake Mary","2023","JOHN AND ULTIMA MORGAN","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Boca Raton","2023","C&BL INITIATIVE,"LLC"","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Dade City","2023","DALE MAGGARD AND ANN MAGGARD","Common Stock","197498","6.15%"
+"BankFlorida Bancorp,"Inc."","Dade City","2023","DAN KNOWLTON","Common Stock","180000","5.61%"
+"BankFlorida Bancorp,"Inc."","Zephyrhills","2023","MICHAEL ALAN DOERR,"CHRISTOPHER A. POE","JTWROS"","Common Stock","100000","3.144%"
+"BankFlorida Bancorp,"Inc."","Zephyrhills","2023","MICHAEL ALAN DOERR,"WILLIAM C. POE","JTWROS"","Common Stock","100000","3.144%"
+"BankFlorida Bancorp,"Inc."","Zephyrhills","2023","TOTAL MICHAEL ALAN DOERR","Common Stock","200000","6.289"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Partner Bancorp-42%","Marine Bancorp of Florida","Inc.-40%"","Village Bank & Trust Financial-52%"","Affinity Bancshares-11%"","BVC Capital","LLC-100%"","2023"
+"BankFlorida Bancorp,"Inc."","Director","DALE MAGGARD","Director","Sonny's Discount Appliances Secretary/Treasurer","Sonny's Discount Appliances-50%","2023"
+"BankFlorida Bancorp,"Inc."","Director","DAN KNOWLTON","Director","Bowlaholics Owner","Bowlaholics-100%","2023"
+"BankFlorida Bancorp,"Inc."","Director","ALLEN ALTMAN","Director","n/a","n/a","2023"
+"BankFlorida Bancorp,"Inc."","Director","WILTON SIMPSON","Director","Simpson Farms,"LLC"","Simpson Farms","Inc.","WES FL","LLC","37925 Church Avenue","LLC"","2023"
+"BankFlorida Bancorp,"Inc."","Director & CEO/President","JAMES S. STALNAKER,"JR."","Director,"Chairman & CEO/President"","n/a","n/a","2023"
+```

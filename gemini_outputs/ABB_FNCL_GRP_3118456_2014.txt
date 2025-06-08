@@ -1,0 +1,20 @@
+Here are the requested extractions in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"ABB Financial Group,"Inc."","Atlanta","2014","Serguei Kouzmine","Common Stock","170000","9.03%"
+"ABB Financial Group,"Inc."","Atlanta","2014","James R. Henderson","Common Stock","125000","6.64%"
+"ABB Financial Group,"Inc."","Atlanta","2014","Serguei Kouzmine","Preferred","3000","100.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Affinity Bank","President/Director","Edward J. Cooney","President/Director","MEMM,"LLC"","2014"
+"Affinity Bank","Director","Leeman Bennett","Director","Chick-fil-A Peach Bowl","2014"
+"Affinity Bank","n/a","Frank A. Clayton,"DDS."","Director","Clayton Dental,"PC"","2014"
+"Affinity Bank","SVP/CFO","Brandi Pajot","SVPICFO","n/a","2014"
+"Affinity Bank","Director","Jeffrey R. Lake","Director","Dixie Electric Company","2014"
+"Affinity Bank","Chairman","Robert C. McMahan","Chairman","n/a","2014"
+"Affinity Bank","Director","Wayne V. Mitsch","Director","Kaiser,"Mitsch & Associates"","2014"
+"Affinity Bank","n/a","Clark N. Nelson,"Jr"","EVPICCO","n/a","2014"
+```

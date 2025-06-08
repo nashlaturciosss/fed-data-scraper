@@ -1,0 +1,24 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2015","Estate of Robert H. Smith","Common Stock","3053181","17.80%"
+"Capital City Bank Group,"Inc."","Tallahassee","2015","William G. Smith,"Jr."","Common Stock","3776490","21.95%"
+"Capital City Bank Group,"Inc."","Tallahassee","2015","2S Partnerhip","Common Stock","1049361","6.12%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","2 S Partnership","2015"
+"Capital City Bank Group,"Inc."","n/a","Estate of Robert H. Smith","n/a","n/a","2015"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Director,"President"","Anna T. Barron Trust","2015"
+"Capital City Bank Group,"Inc."","Director","Frederick Carroll III","President","Carroll and Company,"Certified Public Accountants"","2015"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2015"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President Chief Financial Officer","n/a","2015"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2015"
+"Capital City Bank Group,"Inc."","Vice President","John K. Humphress","Partner","Wadsworth,"Humphress & Hollar","P.A."","2015"
+"Capital City Bank Group,"Inc."","Director","Henry Lewis III","n/a","Smith Interests General Partnership","2015"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","President/CEO","Bense Enterprises,"Inc."","2015"
+"Capital City Bank Group,"Inc."","Executive Vice President","Beth Corum","Executive Vice President","1118,"LLC"","2015"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Brand Officer","Brooke Hallock","Executive Vice President Chief Brand Officer","n/a","2015"
+"Capital City Bank Group,"Inc."","President,"Capital City Banc Investments","President Capital City Trust Company","both are wholly owned subisidiaries"","William L. Moor,"Jr."","n/a","Moor Family Partnership,"LLP"","2015"
+"Capital City Bank Group,"Inc."","Executive Vice President","Edward G. Canup","Executive Vice President","Adiron,"LLC"","2015"
+"Capital City Bank Group,"Inc."","Executive Vice President","Dale A. Thompson","Executive Vice President","n/a","2015"
+```

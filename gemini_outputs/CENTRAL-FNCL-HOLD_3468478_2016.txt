@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Financial Holdings,"Inc."","Tampa","2016","Vijay M. Patel and Tejal V. Patel","n/a","100000","5.42%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Financial Holdings,"Inc."","Bank Officer","John Thompson","Executive Vice President","President/CEO (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Arvind C. Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Jayesh K. Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director/Vice Chairman/Secretary & CFO","Nileshkumar C. Patel","Director/Vice Chairman/Secretary/SVP-Risk Manager/ISO","(Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Jayesh D. Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Dinubhai Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Jiten Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Mahendra Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director/Chairman/President & CEO","Rajeshkumar C. Patel","Director/Chairman","(Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Dr. Vijay Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","Director","Shilen Patel","Director","Director (Central Bank)","2016"
+"Central Financial Holdings,"Inc."","n/a","Scott Kohler","N/A","SVP/Senior Lending Officer","2016"
+"Central Financial Holdings,"Inc."","SVP/Controller","Russ Andersen","n/a","SVP/Chief Financial Officer/NA","2016"
+```

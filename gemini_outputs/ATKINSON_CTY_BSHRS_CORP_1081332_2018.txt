@@ -1,0 +1,17 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atkinson County Bankshares Corporation","Willacoochee","2018","Charlie W. Bray,"III"","Common Stock","7200","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atkinson County Bankshares Corporation","President & Director","CHARLIE W. BRAY,"III"","President,"Chief Executive Officer","& Director"","n/a","2018"
+"Atkinson County Bankshares Corporation","Director","CELESTE L. BRAY","Loan Clerk & Director","n/a","2018"
+"Atkinson County Bankshares Corporation","Director","CURTIS J. CROSBY,"JR."","DIRECTOR OF THE PEOPLES BANK","PINENEEDLE,"LLC"","2018"
+"Atkinson County Bankshares Corporation","Director","CYNTHIA S. MATHEWS","Branch Manager & Director","ECJ TREE SERVICE INC","2018"
+"Atkinson County Bankshares Corporation","Director","MICHAEL K. PAULK","IT Officer & Director","n/a","2018"
+"Atkinson County Bankshares Corporation","Director","TRACY J. TAYLOR","Customer Service Director","n/a","2018"
+"Atkinson County Bankshares Corporation","Director","SANDRA H. URSREY","Loan Clerk & Director","n/a","2018"
+```

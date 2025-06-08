@@ -1,0 +1,23 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central State Bancorporation","Calera","2023","Stephanie Cowart Iffland","n/a","624","9.9%"
+"Central State Bancorporation","Calera","2023","William M. Schroeder,"Sr."","n/a","635","10.1%"
+"Central State Bancorporation","Calera","2023","William M. Schroeder,"Jr."","n/a","1577","25.0%"
+"Central State Bancorporation","Calera","2023","Shane D. Schroeder","n/a","755","12.0%"
+"Central State Bancorporation","Hoover","2023","Shanda S. Watts","n/a","890","14.1%"
+"Central State Bancorporation","Calera","2023","Downs Family Trust FBO Dustin Downs","n/a","348.5","5.50%"
+"Central State Bancorporation","Calera","2023","Downs Family Trust FBO Dallas Downs","n/a","348.5","5.50%"
+"Central State Bancorporation","Calera","2023","Dustin Downs","n/a","304","4.8%"
+"Central State Bancorporation","Calera","2023","Dallas Downs","n/a","358","5.7%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central State Bancorporation","Director & Chairman","William M. Schroeder,"Sr."","Chairman","Central State Bank","2023"
+"Central State Bancorporation","Director","Shane D. Schroeder","President","Central State Bank","2023"
+"Central State Bancorporation","Director","Shanda S. Watts","Sr. Vice President","Central State Bank","2023"
+"Central State Bancorporation","Director","William M. Schroeder,"Jr."","CEO","Central State Bank","2023"
+"Central State Bancorporation","Director","William Phillip Lawler,"Sr."","President","Lawler Specialties","2023"
+```

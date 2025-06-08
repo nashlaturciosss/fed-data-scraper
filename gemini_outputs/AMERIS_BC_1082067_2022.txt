@@ -1,0 +1,34 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Ameris Bancorp","New York","2022","BlackRock,"Inc"","Common Stock","10164637","14.65%"
+"Ameris Bancorp","Malvern","2022","The Vanguard Group","Common Stock","7418038","10.69%"
+"Ameris Bancorp","Boston","2022","Wellington Management Group LLP","Common Stock","6102333","8.80%"
+"Ameris Bancorp","Austin","2022","Dimensional Fund Advisors LP","Common Stock","3845042","5.54%"
+"Ameris Bancorp","Boston","2022","State Street Global Advisors","Common Stock","3897720","5.61%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Ameris Bancorp","Chairman","James B. Miller Jr.","n/a","American Software Inc.","2022"
+"Ameris Bancorp","Lead Independent Director","Leo J. Hill","n/a","Advisor Network Solutions,"LLC"","2022"
+"Ameris Bancorp","Director","Daniel B. Jeter","n/a","Standard Discount Corporation","2022"
+"Ameris Bancorp","Director","William I. Bowen,"Jr."","n/a","Bowen Donaldson Home for Funerals","2022"
+"Ameris Bancorp","Director","Wm. Millard Choate","n/a","Choate Construction Company","2022"
+"Ameris Bancorp","Director","R. Dale Ezzell","n/a","Wisecards Printing and Mailing","2022"
+"Ameris Bancorp","Director","Robert P. Lynch","n/a","Lynch Management Company","2022"
+"Ameris Bancorp","Director","Elizabeth A. McCague","n/a","McCague & Company,"LLC"","2022"
+"Ameris Bancorp","Director","Gloria A. O'Neal","n/a","n/a","2022"
+"Ameris Bancorp","Director","William H. Stern","n/a","Stern Development","2022"
+"Ameris Bancorp","Director","Jimmy D. Veal","n/a","Beachview Tent Rentals,"Inc."","2022"
+"Ameris Bancorp","Director and Chief Executive Officer","H. Palmer Procter,"Jr."","n/a","Brevard Holdings,"LLC"","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Banking Officer","Lawton E. Bassett,"III"","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Innovation Officer","Ross L. Creasy","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Credit Officer","Jon S. Edwards","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Strategy Officer","James A. LaHaise","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Risk Officer","William D. McKendry","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Governance Officer,"Corporate Secretary"","Michael T. Pierson","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Legal Officer","Jody L. Spencer","n/a","n/a","2022"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Financial Officer","Nicole S. Stokes","n/a","n/a","2022"
+```

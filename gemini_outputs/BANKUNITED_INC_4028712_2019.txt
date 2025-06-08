@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankUnited,"Inc."","Malvern","2019","The Vanguard Group","n/a","8836082","9.3%"
+"BankUnited,"Inc."","Malvern","2019","T. Rowe Price Associates,"Inc."","n/a","7335762","7.7%"
+"BankUnited,"Inc."","New York","2019","BlackRock,"Inc."","n/a","4940450","5.2%"
+"BankUnited,"Inc."","Columbus","2019","Diamond Hill Capital Management","n/a","6166164","6.5%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankunited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","None","n/a","2019"
+"Bankunited,"Inc."","Chief Financial Officer","Leslie N. Lunak","Chief Financial Officer","Pachuca Enterprises LLC","2019"
+"Bankunited,"Inc."","Chief Operating Officer","Thomas M. Cornish","Chief Operating Officer","Pachuca Enterprises LLC","2019"
+"Bankunited,"Inc."","Director","Tere Blanca","Director","Blanca Commercial Real Estate","2019"
+"Bankunited,"Inc."","Director","John N. DiGiacomo","Director","Placid Times Photography,"LLC"","2019"
+"Bankunited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee"","Northwell Health","2019"
+"Bankunited,"Inc."","Director","Douglas J. Pauls","Director","Essent Group","2019"
+"Bankunited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","n/a","n/a","2019"
+"Bankunited,"Inc."","Director","William S. Rubenstein,"Esq."","n/a","n/a","2019"
+"Bankunited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","Director","Janak Services Corp.","2019"
+"Bankunited,"Inc."","Director","Lynne Wines","n/a","n/a","2019"
+```

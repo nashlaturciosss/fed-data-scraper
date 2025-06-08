@@ -1,0 +1,39 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Brand Group Holdings,"Inc"","Washington,"DC"","2014","Carlyle Financial Services Harbor,"L.P."","n/a","72209.8","23.322%"
+"Brand Group Holdings,"Inc"","Little Rock,"AK"","2014","SG-BBC,"LLC"","n/a","68298.8","22.059%"
+"Brand Group Holdings,"Inc"","Atlanta,"GA"","2014","Nonami Investments","n/a","32222.2","10.407%"
+"Brand Group Holdings,"Inc"","Lawrenceville,"GA"","2014","Bartow Morgan,"Jr."","n/a","18067.2","5.835%"
+"Brand Group Holdings,"Inc"","Tampa,"FL"","2014","Patricia MacLaurin Morgan Farrior","n/a","12078.5","3.901%"
+"Brand Group Holdings,"Inc"","Atlanta,"GA"","2014","Richard Brand Morgan","n/a","5307.4","1.714%"
+"Brand Group Holdings,"Inc"","Atlanta,"GA"","2014","The Arden Trust","n/a","155","0.050%"
+"Brand Group Holdings,"Inc"","Lawrenceville,"GA"","2014","Paul Mangum Morgan","n/a","8691.7","2.807%"
+"Brand Group Holdings,"Inc"","Atlanta,"GA"","2014","Patricia Morgan Thomas","n/a","2491.5","0.805%"
+"Brand Group Holdings,"Inc"","Atlanta,"GA"","2014","The Morgan Family Trust","n/a","410.8","0.133%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Brand Group Holdings,"Inc"","CEO","Bartow Morgan,"Jr."","CEO","The Brand Banking Copany","2014"
+"Brand Group Holdings,"Inc"","Director of Commercial Real Estate Lending","Christopher A. Smith","Director of Commercial Real Estate Lending","The Brand Banking Company","2014"
+"Brand Group Holdings,"Inc"","Director","J. T. King","Member Manager","Morgan Insurance Partnership","2014"
+"Brand Group Holdings,"Inc"","Director","J. Littleton Glover,"Jr."","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","R. Lee Tucker,"Jr."","Partner","Mahaffey Pickens Tucker,"LLP"","2014"
+"Brand Group Holdings,"Inc"","Director","Sunny Park","President","General Building Maintenance,"Inc."","2014"
+"Brand Group Holdings,"Inc"","Director","Homer Stark","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","A. Harold Craig","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","Patricia Morgan Thomas","Trustee","Mack L. Meeks Revocable Trust","2014"
+"Brand Group Holdings,"Inc"","Director","Mack Meeks","Partner","Meeks Land Co.. LLLP","2014"
+"Brand Group Holdings,"Inc"","Director","James Henderson","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","Jon D. Birts","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Chairman","David R. Bowen","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","David Panton","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","President","Richard Fairey","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","CFO","Robert Cochran","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Chief Credit Officer","Ray K. Williams","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","Keith Taylor","n/a","N/A","2014"
+"Brand Group Holdings,"Inc"","Director","Michael Coles","Executive Chairman","Carlyle Financial Services Harbor,"L.P."","2014"
+"Brand Group Holdings,"Inc"","Director","John McKinley","n/a","N/A","2014"
+```

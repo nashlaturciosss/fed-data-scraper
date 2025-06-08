@@ -1,0 +1,27 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Gateway Bank","Huntington","2014","Marshall T. Reynolds","Common Stock","36694","16.84%"
+"American Gateway Bank","Port Allen","2014","Anna & William Wilkinson","Other","16057","7.37%"
+"American Gateway Bank","Amite","2014","Smith & Hood Investments LLC","n/a","15108","6.93%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Gateway Bank","Director","John A. Berthelot","Director","St Elizabeth Hospital","2014"
+"American Gateway Bank","Secretary & Director","Timothy W. Hardy","Secretary & Director","State Representative - District 88","2014"
+"American Gateway Bank","Director","Jeffrey A. Kleinpeter","Director","Kleinpeter Farms Dairy,"LLC"","2014"
+"American Gateway Bank","Chairman & Director","David L. Laxton III","Chairman & Director","n/a","2014"
+"American Gateway Bank","Director","Donna M. Mayeux","Director","Mayeux & Associates","2014"
+"American Gateway Bank","Director","Mark Murrell","Director","Murrell Trading Company","2014"
+"American Gateway Bank","Director","N. LaRon Phillips","Director","n/a","2014"
+"American Gateway Bank","Director","G. Randolph Rice","Director","Pennington Biomedical Research Foundation","2014"
+"American Gateway Bank","Director","Ruth Ann Wilkinson","Director","Poplar Grove Planting & Refining Co.,"Inc."","2014"
+"American Gateway Bank","Vice-Chairman & Director","Don W. Ayres","Vice-Chairman & Director","n/a","2014"
+"American Gateway Bank","President & Chief Executive Officer","Terre L. Bidwell","President & Chief Executive Officer","n/a","2014"
+"American Gateway Bank","Chief Financial Officer/Cashier & Executive Vice President","Ricky J. Sparks","Chief Financial Officer/Cashier & Executive Vice President","n/a","2014"
+"American Gateway Bank","Chief Administrative Officer & Executive Vice President","Craig Livingston","Chief Administrative Officer & Executive Vice President","n/a","2014"
+"American Gateway Bank","Chief Lending Officer & Senior Vice President","n/a","Chief Lending Officer & Senior Vice President","n/a","2014"
+"American Gateway Bank","Principal Shareholder","Marshall T Reynolds","N/A","Champion Industries","2014"
+```

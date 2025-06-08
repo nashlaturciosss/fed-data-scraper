@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankUnited,"Inc."","Malvern","2020","The Vanguard Group","n/a","9711463","10.4%"
+"BankUnited,"Inc."","Malvern","2020","T. Rowe Price Associates,"Inc."","n/a","9946734","10.7%"
+"BankUnited,"Inc."","New York","2020","BlackRock,"Inc."","n/a","13623949","14.6%"
+"BankUnited,"Inc."","New York","2020","Alliance Bernstein","n/a","4627524","5.0%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankUnited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","Director","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Director","Leslie N. Lunak","Chief Financial Officer","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","n/a","Thomas M. Cornish","Chief Operating Officer","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Director","Tere Blanca","Commercial Real Estate","Blanca Commercial Real Estate","2020"
+"BankUnited,"Inc."","Director","John N. DiGiacomo","Director","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee"","Northwell Health","2020"
+"BankUnited,"Inc."","Director","Douglas J. Pauls","Director","Essent Group","2020"
+"BankUnited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","n/a","n/a","2020"
+"BankUnited,"Inc."","Director","William S. Rubenstein,"Esq."","Director","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","Director","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Director","Lynne Wines","Director","BankUnited,"N.A."","2020"
+"BankUnited,"Inc."","Investor","BlackRock,"Inc."","Asset Manager","n/a","2020"
+"BankUnited,"Inc."","Investor","T.Rowe Price Associates","Investment Manager","n/a","2020"
+"BankUnited,"Inc."","Investor","The Vanguard Group","Investment Advisor","n/a","2020"
+```

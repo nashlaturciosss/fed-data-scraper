@@ -1,0 +1,26 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic Coast Financial","McLean","2016","FJ Capital Management LLC","n/a","1517200","9.75%"
+"Atlantic Coast Financial","London","2016","Bhanu Choudhrie","n/a","1409077","9.06%"
+"Atlantic Coast Financial","Chicago","2016","RMB Capital Holdings LLC","n/a","1374455","8.84%"
+"Atlantic Coast Financial","Sydney","2016","The Albury Investment Partnership","n/a","1328666","8.54%"
+"Atlantic Coast Financial","New York","2016","TFO USA Limited","n/a","1012238","6.51%"
+"Atlantic Coast Financial","Naperville","2016","PL Capital LLC","n/a","1000000","6.43%"
+"Atlantic Coast Financial","Arlington","2016","EFJ Capital LLC","n/a","904707","5.82%"
+"Atlantic Coast Financial","Boston","2016","Wellington Management Group LLP","n/a","1062389","6.85"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic Coast Financial","n/a","Bhanu Choudhrie","Executive Director","C&C Alpha Group Ltd","2016"
+"Atlantic Coast Financial","n/a","W. Eric Palmer","Operations Manager","Mayo Clinic (FL)","2016"
+"Atlantic Coast Financial","n/a","Jay S. Sidhu","CEO,"Board Member"","Customers Bancorp Inc","2016"
+"Atlantic Coast Financial","Chief Credit Officer","Philip S. Buddenbohm","Chief Credit Officer","n/a","2016"
+"Atlantic Coast Financial","Chief Executive Officer; Board Member","John K. Stephens,"Jr."","Chief Executive Officer; Board Member","n/a","2016"
+"Atlantic Coast Financial","n/a","Devinder P.S. Bhasin","Chief Executive Officer","D.B. Concepts,"Inc."","2016"
+"Atlantic Coast Financial","n/a","John J. Dolan","Retired","n/a","2016"
+"Atlantic Coast Financial","n/a","James D. Hogan","Retired","n/a","2016"
+"Atlantic Coast Financial","Chief Financial Officer","Tracy L. Keegan","Chief Financial Officer","n/a","2016"
+```

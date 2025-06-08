@@ -1,0 +1,21 @@
+"Here are the two tables extracted in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancorp,"Inc."","Opelousas","2016","The Diesi Family Trusts (1)","Common Stock","16000","20.51%"
+"American Bancorp,"Inc."","Opelousas","2016","Ronald J. Lashute","Common Stock","17821","22.84%"
+"American Bancorp,"Inc."","Clearwater","2016","Diane F Brown,"Family Trust"","Common Stock","4069","5.22%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director & Chairman of the Board","American Bank & Trust Company","2016"
+"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2016"
+"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2016"
+"American Bancorp,"Inc."","None","The Diesi Family Trust","None","n/a","2016"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2016"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc.","Haynes Family Funerals","Inc. and COB Williams Progressive Life Insurance Company"","2016"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2016"
+"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2016"
+"American Bancorp,"Inc."","Vice President & CFO,"Secretary & Treasurer"","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2016"
+```

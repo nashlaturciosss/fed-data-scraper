@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancTenn Corp","Johnson City","2023","Greene Investment Company LLC","n/a","n/a","100%"
+"BancTenn Corp","Johnson City","2023","Holston Highlands LLC","n/a","n/a","100%"
+"BancTenn Corp","Johnson City","2023","Huntington Hills","n/a","n/a","51%"
+"BancTenn Corp","Johnson City","2023","WBG Aviation,"LLC"","n/a","n/a","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","Director,"Secretary and Treasurer of the Company"","Tanasi Oil & Gas,"Inc."","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","Director,"Secretary and Treasurer of the Company"","Strategic Resources Group,"Inc."","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","Director,"Secretary and Treasurer of the Company"","Aviation Strategies Group,"Inc."","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","Director of Bank of Tennessee","Bank of Tennessee","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","President and Director of Strategic Resources Group,"Inc."","Strategic Resources Group,"Inc."","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","President and Director of Aviation Strategies Group,"Inc."","Aviation Strategies Group,"Inc."","2023"
+"BancTenn Corp","Secretary / Director","John E. Seward,"Jr."","President and Director of Tanasi Oil & Gas,"Inc."","Tanasi Oil & Gas,"Inc."","2023"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Director of Bank of Tennessee","Bank of Tennessee","2023"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","President of Huntington Hills","Huntington Hills","2023"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","President of WBG Aviation,"LLC"","WBG Aviation,"LLC"","2023"
+"BancTenn Corp","Director of the Company","William R. Barrett","President & CEO and Director of Bank of Tennessee","Bank of Tennessee","2023"
+"BancTenn Corp","Director of the Company","William R. Barrett","Director Appalachian Highlands Economic Development Partnership","Appalachian Highlands Economic Development Partnership","2023"
+```

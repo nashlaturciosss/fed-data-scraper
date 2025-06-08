@@ -1,0 +1,29 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","following all specified instructions and constraints."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Gary and Betty Blackmon","Common Stock","7731","7"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Carroll A. Green","Common Stock","18072","29"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Marjorie W. Green","Common Stock","10660","n/a"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Brant A. Green","Common Stock","1136","n/a"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Mandy G. Green","Common Stock","1000","n/a"
+"Beauregard Bancshares,"Inc"","Phippsburg","2018","Eleanor Lynn Kay","Common Stock","6551","6"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Stuart S. Kay,"Jr."","Common Stock","6654","18"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Judith S. Kay","Common Stock","3910","n/a"
+"Beauregard Bancshares,"Inc"","Dallas","2018","David Shepard Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc"","Austin","2018","Geoffrey Scot Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc"","DeRidder","2018","Millard E. Morris","Common Stock","5323","5"
+"Beauregard Bancshares,"Inc"","None","2018","None","Common Stock","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Beauregard Bancshares,"Inc"","Director","Bailey Living Trust of 1996","Director","n/a","2018"
+"Beauregard Bancshares,"Inc"","Director,"Chairman","President"","Carroll A. Green","Director,"Chairman","President"","Green Chevrolet,"Inc."","2018"
+"Beauregard Bancshares,"Inc"","Director,"Principal Shareholder"","Judy S. Kay","Director,"Principal Shareholder"","None","2018"
+"Beauregard Bancshares,"Inc"","Director","Gary Blackmon","Director","CBG,"Inc."","2018"
+"Beauregard Bancshares,"Inc"","Director","James David Cain","Director","None","2018"
+"Beauregard Bancshares,"Inc"","Director","Brant Green","Director","BG Cattle","2018"
+"Beauregard Bancshares,"Inc"","Director","Rafeal Webb Stark","Director Executive,"V.P."","n/a","2018"
+```

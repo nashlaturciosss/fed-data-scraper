@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CARVER FINANCIAL CORPORATION","Savannah","2022","Robert E. James","Common Stock","286243.7650","48.80%"
+"Alamerica BancCorp,"Inc."","Savannah","2022","Carver Financial Corporation","Common Stock","954206","99.96%"
+"Alamerica BancCorp,"Inc."","Birmingham","2022","Donald V. Watkins","Common Stock","473089","47.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2022","Clarissa B. Harms","Common Stock","115735","11.57%"
+"Alamerica BancCorp,"Inc."","Birmingham","2022","Daryl E Harms Irrevocable Trust for Hannah K. Harms","Common Stock","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2022","Daryl E Harms Irrevocable Trust for Emma E. Harms","Common Stock","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2022","Lawrence R. Tate","Common Stock","179078","17.91%"
+"Alamerica BancCorp,"Inc."","Montgomery","2022","Kenneth L. Thomas","Common Stock","120496","12.05%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Lead Director","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Director","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James,"II"","Director & Executive Vice President","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Senior Vice President","John L. Turner","Chief Operating Officer","Carver State Bank","2022"
+"CARVER FINANCIAL CORPORATION","Vice President","Kenneth J. Rance","Chief Operating Officer","n/a","2022"
+"Alamerica BancCorp,"Inc."","Director","Jacqueline Anderson-Smith","Alamerica Bank Board Chair","Jefferson County Board Chair","2022"
+"Alamerica BancCorp,"Inc."","Director","Michael D. Miles","Alamerica Bank Director","Jefferson County Sheriff's Dept","2022"
+"Alamerica BancCorp,"Inc."","Director","Robert E. James","Alamerica Bank Director","Carver State Bank","2022"
+"Alamerica BancCorp,"Inc."","Director","Robert E. James,"II"","Alamerica Bank Director","Carver Financial Corp","2022"
+"Alamerica BancCorp,"Inc."","Secretary/Treasurer","Kent McGriff","Alamerica Bank Senior VP/CFO","n/a","2022"
+```

@@ -1,0 +1,28 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","G. Matthew Brannen","Common Stock","721275","64.37%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","Michael T. Fitzpatrick","Common Stock","119580","10.67%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","W. Carter Hunt,"Jr."","Common Stock","32375","2.89%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","G. Stephen Brannen","Common Stock","31536","2.81%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","Brannen Properties of Inverness,"Inc."","Common Stock","26938","2.40%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","Brannen Properties of Citrus County,"Inc."","Common Stock","26938","2.40%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","Jane S. Brannen","Common Stock","22500","2.01%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","FBT Investments,"LLC"","Common Stock","13381","1.19%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","John R. Swartsel","Common Stock","13250","1.18%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","Charles A. Stone","Common Stock","11750","1.05%"
+"Brannen Banks of Florida,"Inc."","Inverness","2023","David S. McMillin","Common Stock","11750","1.05%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Brannen Banks of Florida,"Inc."","Director & EVP","G. Matthew Brannen","Director","Brannen Bank","2023"
+"Brannen Banks of Florida,"Inc."","EVP / CFO","Michael T. Fitzpatrick","EVP / CFO","Brannen Bank","2023"
+"Brannen Banks of Florida,"Inc."","Director","Jane S. Brannen","n/a","n/a","2023"
+"Brannen Banks of Florida,"Inc."","Director","W. Carter Hunt,"Jr."","n/a","n/a","2023"
+"Brannen Banks of Florida,"Inc."","Director","Charles A. Stone","n/a","n/a","2023"
+"Brannen Banks of Florida,"Inc."","Director","David S. McMillin","n/a","n/a","2023"
+"Brannen Banks of Florida,"Inc."","Director","G. Stephen Brannen","n/a","n/a","2023"
+"Brannen Banks of Florida,"Inc."","n/a","John R. Swartsel","Director","Brannen Bank","2023"
+```

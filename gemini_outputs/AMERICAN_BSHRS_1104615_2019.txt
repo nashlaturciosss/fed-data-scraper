@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares,"Inc."","Covington","2019","Julian J,"Rodrigue","Jr."","n/a","770000","27.3085%"
+"American Bancshares,"Inc."","Covington","2019","Karen Smith Riecke","n/a","581240","20.6140%"
+"American Bancshares,"Inc."","Covington","2019","Riecke and Associates","n/a","223877","7.9399%"
+"American Bancshares,"Inc."","Hammond","2019","Darryl Smith","n/a","253530","8.9916%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"AMERICAN BANCSHARES,"INC."","Chairman of the Bd","Edward T. Riecke","Director","Castine Pointe,"LLC"","2019"
+"AMERICAN BANCSHARES,"INC."","n/a","Stanley M. Dameron","Owner or Partial Owner","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Paul J Mayronne","n/a","Paul J. Mayronne,"LLC"","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Daniel H Edwards Sr","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Raymond R. Riecke","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Jared Caruso Riecke","Owner or Partial Owner","3368 LLC","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Donald D. Durr","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Darryl Smith","Owner","Darrell Smith ManagemenCompany","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Casey Robin","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Franklin Kyle","Partial Owner","Kyle and Associates","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Arthur Renaudin","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","Director","Theodore Lee","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","n/a","Karen S Riecke","n/a","n/a","2019"
+"AMERICAN BANCSHARES,"INC."","n/a","Julian J. Rodrique,"Jr"","n/a","Trustee: Karen S Riecke Inter Vivos Trust","2019"
+"AMERICAN BANCSHARES,"INC."","n/a","Riecke and Associates","n/a","n/a","2019"
+```

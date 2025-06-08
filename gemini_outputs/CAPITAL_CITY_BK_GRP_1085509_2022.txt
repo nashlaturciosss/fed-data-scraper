@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2022","William G. Smith,"Jr."","Common Stock","2905885","17.11%"
+"Capital City Bank Group,"Inc."","San Francisco","2022","BlackRock Institutional Trust Company,"N.A."","Common Stock","1421869","8.36%"
+"Capital City Bank Group,"Inc."","Austin","2022","Dimensional Fund Advisors,"L.P."","Common Stock","856412","5.03%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","Capital City Bank","2022"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President","Capital City Bank","2022"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Director,"President"","Capital City Bank","2022"
+"Capital City Bank Group,"Inc."","President","J. Everitt Drew","President/Director","SouthGroup Equities,"Inc"","2022"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2022"
+"Capital City Bank Group,"Inc."","Director","Stanley Connally,"Jr."","EVP - Operations","Southern Company,"Inc."","2022"
+"Capital City Bank Group,"Inc."","Director","Eric Grant","Vice President","Municipal Code Corporation","2022"
+"Capital City Bank Group,"Inc."","Director","Laura Johnson","President","Coton Colors Company,"LLC"","2022"
+"Capital City Bank Group,"Inc."","Director","Marshall Criser III","President","Piedmont University","2022"
+"Capital City Bank Group,"Inc."","Director","Robert Antoine","Managing Member/President","Glades Townhomes at Chair 9,"LLC"","2022"
+"Capital City Bank Group,"Inc."","Retired Partner","William Butler","n/a","Deloitte & Touche","2022"
+```

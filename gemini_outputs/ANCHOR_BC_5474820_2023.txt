@@ -1,0 +1,20 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Anchor Bancorp,"Inc."","La Paz","2023","Guido Hinojosa","Common Stock","4512478","92.15%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Anchor Bancorp Inc.","Director","Dan Arriola","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","Ana Maria Camacho","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","George G. Gentile","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Chairman of the Board CEO & President","Nelson Hinojosa","Chairman of the Board CEO & President","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","Philippe C. Jeck","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","Randy Nobles","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Vice Chairman","Peter L.A. Pantages","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Director","Carlton Wade","Director","Anchor Bank","2023"
+"Anchor Bancorp Inc.","Principal Shareholder","Guido Hinojosa Cardoso","n/a","None","2023"
+```

@@ -1,0 +1,31 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCF Holding Company","Virginia","2017","Ken Lehman","Common Stock","11428502","54.43%"
+"CCF Holding Company","Virginia","2017","Ken Lehman","Warrants","0","54.43%"
+"CCF Holding Company","Fayetteville","2017","Scarbrough,"et al"","Common Stock","1106250","5.27%"
+"CCF Holding Company","Fayetteville","2017","Scarbrough,"et al"","Warrants","2500000","15.35%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCF Holding Company","Director","Stephen E. Boswell","Director","Stephen E. Boswell PC","2017"
+"CCF Holding Company","Director","John C. Bowdoin","Director","n/a","2017"
+"CCF Holding Company","Director","Michael Burt","Director","Life & Money Matters (non-profit)","2017"
+"CCF Holding Company","n/a","Dick Florin","Director","n/a","2017"
+"CCF Holding Company","n/a","Dennis Gilmer","Director","n/a","2017"
+"CCF Holding Company","Director & Secretary","Roy V. Hall","Director,"Chairman of Audit Committee"","RV Hall,"Inc."","2017"
+"CCF Holding Company","Director & Secretary","Edwin S. Kemp,"Jr."","Attorney","Edwin S. Kemp,"Jr. Attorney"","2017"
+"CCF Holding Company","Director","Ken Lehman","Director","n/a","2017"
+"CCF Holding Company","Director","John T. Mitchell","Director","Adams-Mitchell Realty,"Inc."","2017"
+"CCF Holding Company","President & CEO-Director","Leonard A. Moreland","CEO","n/a","2017"
+"CCF Holding Company","n/a","C. T. ""Tommy"" Segers","Director","n/a","2017"
+"CCF Holding Company","Director","David B. Turner","Chairman of the Board","n/a","2017"
+"CCF Holding Company","Sr. VP","Shirley Etheridge","Sr. VP","n/a","2017"
+"CCF Holding Company","EVP & CFO","Mary Jo Jester","EVP & CFO","Jester Rentals,"Inc."","2017"
+"CCF Holding Company","Sr. VP","Howard B. ""Rocky"" Lipham,"III"","President","n/a","2017"
+"CCF Holding Company","Sr. VP","Edith W. Stevens","Sr. VP","n/a","2017"
+"CCF Holding Company","Sr. VP","John Westervelt","EVP","Clayton County Water Authority","2017"
+"CCF Holding Company","Sr. VP","Kathy Zovlonsky","Sr. VP","n/a","2017"
+```

@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Basile Bancshares,"Inc."","Eunice","2014","Burson,"I Jackson Jr"","Common Stock","164","18.2832%"
+"Basile Bancshares,"Inc."","Basile","2014","Johnson,"John W"","Common Stock","170","18.9521%"
+"Basile Bancshares,"Inc."","Eunice","2014","Johnson,"William J"","Common Stock","90","10.0335%"
+"Basile Bancshares,"Inc."","Eunice","2014","Stagg,"Samuel J Jr"","Common Stock","75","8.3612%"
+"Basile Bancshares,"Inc."","Eunice","2014","Vigee,"Shelva"","Common Stock","133","14.8272%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Basile Bancshares,"Inc."","Chairman of the Board & Director","Burson,"I Jackson Jr"","Chairman of the Board & Director","I Jackson Burson,"APLC"","2014"
+"Basile Bancshares,"Inc."","Director,"Secretary"","Johnson,"John W"","Director","Clanton & Johnson","2014"
+"Basile Bancshares,"Inc."","Director","Johnson,"William J"","President,"CEO"","Basile State Bank","2014"
+"Basile Bancshares,"Inc."","n/a","Stagg,"Samuel J Jr"","Director","n/a","2014"
+"Basile Bancshares,"Inc."","n/a","Vigee,"Shelva"","n/a","n/a","2014"
+```

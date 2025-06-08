@@ -1,0 +1,26 @@
+Here are the two CSV tables you requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancIndependent,"Incorporated"","Leighton","2020","CLAUDE EDWARD FELTON","n/a","11400","6.54%"
+"BancIndependent,"Incorporated"","Sheffield","2020","MPEFM II LIMITED PARTNERSHIP","n/a","71805","41.17%"
+"BancIndependent,"Incorporated"","Florence","2020","LEONARD PREUIT MAULDIN","n/a","14500","8.31%"
+"BancIndependent,"Incorporated"","Florence","2020","MACKE BUCHANAN MAULDIN","n/a","9810","5.62%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancIndependent,"Incorporated"","CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","n/a","MPEFM II,"LP"","2020"
+"BancIndependent,"Incorporated"","CEO OF BANCINDEPENDENT,"INC /PRESIDENT & DIRECTOR"","MACKE B. MAULDIN","GENERAL PARTNER & 18% OWNER","MPEFM II,"LP"","2020"
+"BancIndependent,"Incorporated"","*DIRECTOR","RONNIE FLIPPO","PRESIDENT","R.G. FLIPPO & ASSOCIATES","2020"
+"BancIndependent,"Incorporated"","*EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","GENERAL PARTNER &. 17% OWNER. OF","MPEFM II LP","2020"
+"BancIndependent,"Incorporated"","n/a","MPEFMII LIMITED PARTNERSHIP","NONE","n/a","2020"
+"BancIndependent,"Incorporated"","*CEO OF BANK INDEPENDENT CFO/DIRECTOR","RICHARD WARDLAW","NONE","n/a","2020"
+"BancIndependent,"Incorporated"","*DIRECTOR","DON MILLER","NONE","n/a","2020"
+"BancIndependent,"Incorporated"","DIRECTOR","JOANNE BECK","NONE","n/a","2020"
+"BancIndependent,"Incorporated"","*DIRECTOR","ALLAN NEILL","PRESIDENT & 100% OWNER","BIG RIVER TOWERS,"INC."","2020"
+"BancIndependent,"Incorporated"","DIRECTOR","PAUL WALLACE","n/a","PLWI,"LLC"","2020"
+"BancIndependent,"Incorporated"","DIRECTOR","VANESSA MORSE","n/a","SAGE DEVELOPMENT FUND","2020"
+"BancIndependent,"Incorporated"","DIRECTOR","LUCY TROUSDALE","n/a","HONEYSUCKLE HILL FARM,"LP"","2020"
+"BancIndependent,"Incorporated"","*EXECUTIVE VICE PRESIDENT","PENNY CAMP","NONE","n/a","2020"
+```

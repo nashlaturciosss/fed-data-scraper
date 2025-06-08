@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capstone","Tuscaloosa","2016","n/a","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capstone Bancshares,"Inc."","Chairman of the Board Director","Brackin,"Julian B."","Director Capstone Bank","Brackin,"McGriff & Johnson","P.C."","2016"
+"Capstone Bancshares,"Inc."","Co Chair of the Board Director","Fitts,"Lewis F."","Director Capstone Bank","Compliant Systems and Design","2016"
+"Capstone Bancshares,"Inc."","Secretary & Director","Kuhn,"Robert W.","Jr."","President,"CEO & Director Capstone Bank"","n/a","2016"
+"Capstone Bancshares,"Inc."","Director","Bumpers,"Carol"","Director Capstone Bank","Bumpers Oil Co.,"LLC"","2016"
+"Capstone Bancshares,"Inc."","Director","Campbell,"Joe"","Director Capstone Bank.","Allstate Insurance","2016"
+"Capstone Bancshares,"Inc."","Director","Corder,"Brock"","Director Capstone Bank","The Builders Group","2016"
+"Capstone Bancshares,"Inc."","Director","Ellis,"Richard","Jr."","Director Capstone Bank","Ellis Holding,"LLC"","2016"
+"Capstone Bancshares,"Inc."","Director","Moody,"William D."","Director Capstone Bank","Alpha Development Group,"Inc."","2016"
+"Capstone Bancshares,"Inc."","n/a","Murdock,"John"","Director Capstone Bank","Greek Resource Services,"Inc."","2016"
+"Capstone Bancshares,"Inc."","Director","Reilly,"Brent"","Director Capstone Bank","Randall-Reilly","2016"
+"Capstone Bancshares,"Inc."","Director","Robertson,"Sue"","Director Capstone Bank","L&S Mini Storage,"LLC"","2016"
+"Capstone Bancshares,"Inc."","Director","Saban,"Terry L."","Director Capstone Bank","TLS,"LLC"","2016"
+"Capstone Bancshares,"Inc."","Director","Tucker,"Steven B."","Director Capstone Bank","Barnett Transportation,"Inc."","2016"
+"Capstone Bancshares,"Inc."","Director","Tutt,"Walter V."","Director Capstone Bank","LD Land LLC","2016"
+"Capstone Bancshares,"Inc."","Director","Wicks,"J. Beau"","Secretary,"Bank Capstone Bank"","Southeast Logistics,"Inc."","2016"
+"Capstone Bancshares,"Inc."","Director","Prince,"Dena"","Director Capstone Bank","Prince,"Glover & Hayes Law"","2016"
+"Capstone Bancshares,"Inc."","n/a","Glover,"Matt"","Director Capstone Bank","n/a","2016"
+```

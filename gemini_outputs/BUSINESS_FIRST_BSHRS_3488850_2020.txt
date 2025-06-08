@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Business First Bancshares,"Inc."","New York","2020","The Deposit Trust Company","Common Stock","11581238","55.21%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Business First Bancshares,"Inc."","Director","James J. Buquet,"III"","Director","Buquet Distributing Company Inc (33%)","2020"
+"Business First Bancshares,"Inc."","Director","Carol M. Calkins","Director","Retired","2020"
+"Business First Bancshares,"Inc."","Director","Ricky D. Day","Director","Southland Group LLC (27.64%)","2020"
+"Business First Bancshares,"Inc."","Director","Mark Folse","Director","None","2020"
+"Business First Bancshares,"Inc."","Director","John Graves","Director","Evans-Graves Engineers,"Inc (100%)"","2020"
+"Business First Bancshares,"Inc."","Director","Robert Greer","Director","None","2020"
+"Business First Bancshares,"Inc."","Director","J. Vernon Johnson","Director","None","2020"
+"Business First Bancshares,"Inc."","Director","Rolfe H. McCollister,"Jr"","Director","Louisiana Business,"Inc. (55.74%)"","2020"
+"Business First Bancshares,"Inc."","Director","Andrew D. McLindon","Director","Mainspring Companies,"LLC (100%)"","2020"
+"Business First Bancshares,"Inc."","President and Chief Executive Officer and Director","David Melville,"III"","President,"Chief Executive Officer and Director"","Rosemound Holdings (100%)","2020"
+"Business First Bancshares,"Inc."","Director","Patrick E. Mockler","Director","Mockler Family,"LLC (50%)"","2020"
+"Business First Bancshares,"Inc."","Director","David Montgomery","Director","Brothers Ventures,"LLC (50%)"","2020"
+"Business First Bancshares,"Inc."","Director","Arthur Price","Director","KIT Exploration,"Inc. (100%)"","2020"
+"Business First Bancshares,"Inc."","Chief Financial Officer,"Treasurer and Principal Financial Officer"","Gregory Robertson","Executive Vice President and Chief Financial Officer","None","2020"
+"Business First Bancshares,"Inc."","Secretary","Heather Roemer","Director of Corporate Governance","None","2020"
+"Business First Bancshares,"Inc."","Director","Kenneth Smith","Director","T. Baker Smith,"LLC (100%)"","2020"
+"Business First Bancshares,"Inc."","Director","Keith Tillage","Director","CSRS/Tillage (25%)","2020"
+"Business First Bancshares,"Inc."","Director","Steve White","Director","ROBCO Fossil Fuels (34%)","2020"
+```

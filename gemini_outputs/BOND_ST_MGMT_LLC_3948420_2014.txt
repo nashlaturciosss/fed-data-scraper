@@ -1,0 +1,34 @@
+"Okay","here are the two CSV tables extracted from the document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"FCB Financial Holdings,"Inc."","Short Hills","2014","Franklin Mutual Advisers,"LLC"","Common Stock","2619595","7.5326%"
+"FCB Financial Holdings,"Inc."","New York","2014","Elliott Associates","Common Stock","2578661","7.4149%"
+"FCB Financial Holdings,"Inc."","Weston","2014","Bond Street Investors LLC","Common Stock","1772843","5.0978%"
+"FCB Financial Holdings,"Inc."","n/a","2014","Cohen & Steers","Common Stock","1887074","5.4263%"
+"FCB Financial Holdings,"Inc."","New York","2014","Leslie J. Lieberman¹","Common Stock","379180","1.0903%"
+"FCB Financial Holdings,"Inc."","New York","2014","Leslie J. Lieberman¹","Warrants","295418","n/a"
+"FCB Financial Holdings,"Inc."","New York","2014","Leslie J. Lieberman¹","Options","396667","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bond Street Management,"LLC"","Manager","Daniel Healy","Director","Hiscox Ltd","2014"
+"Bond Street Management,"LLC"","Manager","Leslie J. Lieberman","Director and Executive Vice Chairman","SEI Capital,"LLC"","2014"
+"Bond Street Management,"LLC"","Manager","Vincent Tese","Partner","PRM/ALP Partnership","2014"
+"Bond Street Investors LLC","Manager of the Managing Member","Daniel Healy","Director","Hiscox Ltd","2014"
+"Bond Street Investors LLC","Manager of the Managing Member","Leslie J. Lieberman","Director and Executive Vice Chairman","SEI Capital,"LLC"","2014"
+"Bond Street Investors LLC","Manager of the Managing Member","Vincent Tese","Director","Cablevision Systems Corp.,"InterContinental Exchange","Inc.","Mack-Cali Realty Corp.","and Madison Square Garden"","2014"
+"FCB Financial Holdings,"Inc."","Director","Daniel Healy","Director","Hiscox Ltd","2014"
+"FCB Financial Holdings,"Inc."","Director and Executive Vice Chairman","Leslie J. Lieberman","Managing Member","SEI Capital,"LLC"","2014"
+"FCB Financial Holdings,"Inc."","Director and Executive","Vincent Tese","Director","Cablevision Systems Corp.,","2014"
+"FCB Financial Holdings,"Inc."","Chairman","Stuart I. Oran","Director","GGCP,"Inc.","InterContinental Exchange","Inc.","Mack-Cali Realty Corp.","and Madison Square Garden"","2014"
+"FCB Financial Holdings,"Inc."","Director,"President and Chief Executive Officer"","Kent S. Ellert","n/a","n/a","2014"
+"FCB Financial Holdings,"Inc."","Executive Vice President and Chief Financial Officer","Paul D. Burner","n/a","n/a","2014"
+"FCB Financial Holdings,"Inc."","Director","Alan Bernikow","n/a","Revlon,"Inc.","Mack-Cali Realty Corp.","Destination XL Group","Inc.","and UBS Global Asset Management (US)","Inc."","2014"
+"FCB Financial Holdings,"Inc."","Director","Gerald Luterman","Director","Harbinger Group,"Inc."","2014"
+"FCB Financial Holdings,"Inc."","Director","Thomas E. Constance","Partner","Kramer Levin Naftalis & Frankel LLP","2014"
+"FCB Financial Holdings,"Inc."","Director","Howard Curd","Chairman/CEO","Uniroyal Engineered Products,"LLC"","2014"
+"FCB Financial Holdings,"Inc."","Director","Frederic V. Salerno","Director","Akamai Tech,"CBS","Intercontinental Exchange","and Viacom Inc."","2014"
+"FCB Financial Holdings,"Inc."","Director","William L. Mack","Founder and Chairman","Mack Real Estate Group)","2014"
+```

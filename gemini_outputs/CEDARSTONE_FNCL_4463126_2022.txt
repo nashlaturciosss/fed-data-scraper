@@ -1,0 +1,42 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CedarStone Financial,"Inc."","Lebanon","2022","Kevin D. Bay","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Lebanon","2022","Jacqueline W. Cowden","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Old Hickory","2022","Robert L. McDonald Sr.","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Murfreesboro","2022","Donald E. Moser","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Lebanon","2022","Bancroft O'Quinn,"Jr."","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Lebanon","2022","Paul B. Vantrease,"Jr."","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Lebanon","2022","Victor K. Nixon","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Lebanon","2022","Michael A. Moscardelli","n/a","n/a","n/a"
+"CedarStone Financial,"Inc."","Mt. Juliet","2022","Kenneth K. Mattox","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CedarStone Financial,"Inc."","Director/Chairman","Kevin D. Bay","President","Bay's Southern Bread","2022"
+"CedarStone Financial,"Inc."","Director/Chairman","Kevin D. Bay","Chief Manager","Specialty Breads LLC","2022"
+"CedarStone Financial,"Inc."","Director","Jacqueline W. Cowden","Partner","Chana,"LLC"","2022"
+"CedarStone Financial,"Inc."","Director","Jacqueline W. Cowden","Partner","Tristar of W.C.","2022"
+"CedarStone Financial,"Inc."","Director/President/CEO","Robert L. McDonald Sr.","n/a","N/A","2022"
+"CedarStone Financial,"Inc."","Director","Donald E. Moser","n/a","N/A","2022"
+"CedarStone Financial,"Inc."","Director","Bancroft O'Quinn,"Jr."","Owner","Bancroft O'Quinn,"MD"","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Dempsey,"Vantrease & Follis","PLLC"","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Church Street Enterprises","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Church Street II","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","West Main Street Properties","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","United Investors","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Plain Grove Investors","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Pinnacle Partners","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","Partner","Progressive Properties","2022"
+"CedarStone Financial,"Inc."","Director","Paul B. Vantrease,"Jr."","IWS Logistics Inc - Shareholder","2022"
+"CedarStone Financial,"Inc."","Director","Victor K. Nixon","President/Owner","Savik,"LLC"","2022"
+"CedarStone Financial,"Inc."","Director","Victor K. Nixon","Partner","C & H Properties","2022"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Partner","615 Real Property,"LP"","2022"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Member","Quincy-Hart,"LLC"","2022"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Partner","FRAM","2022"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Member","Small Fly,"LLC"","2022"
+"CedarStone Financial,"Inc."","Director","Michael A. Moscardelli","Partner","Filtered Investments","2022"
+"CedarStone Financial,"Inc."","EVP & CFO","Kenneth K. Mattox","n/a","N/A","2022"
+```

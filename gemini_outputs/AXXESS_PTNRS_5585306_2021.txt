@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Currency Bank","Baton Rouge","2021","Heston Loren Capital Partners","Common Stock","218750","10.31%"
+"Currency Bank","Baton Rouge","2021","Todd Graves","Warrants","75000","10.31%"
+"Currency Bank","Baton Rouge","2021","Barry Hugghins","Common Stock","36250","5.93%"
+"Currency Bank","Baton Rouge","2021","Dr Stepanie Shah","Common Stock","10000","5.93%"
+"Currency Bank","Baton Rouge","2021","BOT1 Ltd","Warrants","71250","5.93%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","President","Daigrepont & Brian APAC 80%","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","Mex1Tres,"LLC 45%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","AP Investors,"LLC 43%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","SP Investors,"LLC 25%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","Sp[rings Investors,"LLC 50%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","910 South Acadian,"LLC 85%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Member","Front Door Enterprises,"LLC 25%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","Stately Oaks,"LLC 51%"","2021"
+"Currency Bank","Chairman of the Board,"Director"","Robert Daigrepont,"Jr."","Manager","Steady Returns,"LLC 67%"","2021"
+"Currency Bank","Director","Charles Chiasson","President/CEO","Currency Bank","2021"
+"Currency Bank","Director","Flynn Foster","Executive","Guaranty Corporation 11%","2021"
+"Currency Bank","Director","Barry Hugghins","Chemical Engineer","Reliant Technologies,"Inc 99%"","2021"
+"Currency Bank","Director","Barry Hugghins","Chemical Engineer","R-Tech USA,"Inc. 100%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Supreme Construction,"LLC 100%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Xsum,"LLC 30%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Vikram Hospitality,"LLC 50%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Jayden Hospitality,"LLC 50%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Surat Hospitality,"LLC 50%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","Cloud Nine Holdings,"LLC 50%"","2021"
+"Currency Bank","Director","Ravi Patel","Commercial Contractor","outfitters Drive Gonzales 35%","2021"
+"Currency Bank","Secretary,"Director"","Scott Gaudin","EVP/Chief Lending Officer","Currency Bank","2021"
+"Currency Bank","Director","Heston Loren Capital Partners","Shareholder","n/a","2021"
+```

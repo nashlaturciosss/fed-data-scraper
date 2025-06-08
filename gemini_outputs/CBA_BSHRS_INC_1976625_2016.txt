@@ -1,0 +1,26 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBA Bankshares,"Inc."","Americus","2016","James R. Buchanan,"Jr."","Common Stock","21740","6.46%"
+"CBA Bankshares,"Inc."","Cordele","2016","Jennifer P. Buford","Common Stock","39254","11.67%"
+"CBA Bankshares,"Inc."","Atlanta","2016","Ben F. Easterlin,"IV"","Common Stock","76600","22.78%"
+"CBA Bankshares,"Inc."","Americus","2016","Louis Riccardi","Common Stock","16600","5.00%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBA Bankshares,"Inc."","Director","Jefferson C. Alexander","President","Georgia Forest Products,"Inc."","2016"
+"CBA Bankshares,"Inc."","Director and Chairman","James R. Buchanan,"Jr."","Vice President,"Secretary & Treasurer"","Buchanan Farms,"Inc."","2016"
+"CBA Bankshares,"Inc."","Director","Ben F. Easterlin IV","Partner","King and Spalding","2016"
+"CBA Bankshares,"Inc."","n/a","Tommye B Easterlin","n/a","n/a","2016"
+"CBA Bankshares,"Inc."","Director","M. Ronald Greer and Gladys M. Greer,"JT"","Owner","Americus Realty Inc.","2016"
+"CBA Bankshares,"Inc."","Director","J. Wade Halstead","n/a","n/a","2016"
+"CBA Bankshares,"Inc."","Director and Secretary","Robert Joseph Hooks","n/a","Hooks Brothers Farm,"LLC"","2016"
+"CBA Bankshares,"Inc."","Director","George M. Peagler,"Jr."","n/a","n/a","2016"
+"CBA Bankshares,"Inc."","n/a","David P. Perry","n/a","Perry Bros. Logistics","2016"
+"CBA Bankshares,"Inc."","Director","William S. Perry,"Jr."","n/a","Perry Bros. Logistics","2016"
+"CBA Bankshares,"Inc."","Director","Louis A. Riccardi","President","Louis A. Riccardi DDS PC","2016"
+"CBA Bankshares,"Inc."","Director","Russell Thomas,"Jr."","President","Thomas Farms,"Inc."","2016"
+"CBA Bankshares,"Inc."","Director and President","Richard A. Whaley","President and CEO","n/a","2016"
+```

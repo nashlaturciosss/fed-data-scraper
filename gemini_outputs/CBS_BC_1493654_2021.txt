@@ -1,0 +1,37 @@
+Here are the two tables extracted from the document in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS BANC-CORP","Russellville","2021","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","27.99%"
+"CBS BANC-CORP","Russellville","2021","John Gregory Batchelor","n/a","n/a","49.6850%"
+"CBS BANC-CORP","Russellville","2021","John Gregory Batchelor","n/a","n/a","0.6302%"
+"CBS BANC-CORP","Russellville","2021","John Gregory Batchelor,"Trustee"","n/a","n/a","18.9048%"
+"CBS BANC-CORP","Russellville","2021","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","28.91%"
+"CBS BANC-CORP","Russellville","2021","Rebecca Batchelor Reeves","n/a","n/a","50.0673%"
+"CBS BANC-CORP","Russellville","2021","Rebecca Batchelor Reeves","n/a","n/a","0.6100%"
+"CBS BANC-CORP","Russellville","2021","John Bradley Reeves","n/a","n/a","48.1027%"
+"CBS BANC-CORP","Russellville","2021","John Gregory Batchelor","Russellville","Common Stock","185","0.33%"
+"CBS BANC-CORP","Russellville","2021","John Gregory Batchelor custodian","Russellville","Common Stock","176","0.31%"
+"CBS BANC-CORP","Russellville","2021","Ray Bradley Reeves","Russellville","Common Stock","985","1.74%"
+"CBS BANC-CORP","Russellville","2021","Rebecca Batchelor Reeves","Russellville","Common Stock","100","0.18%"
+"CBS BANC-CORP","Russellville","2021","John Bradley Batchelor Reeves","Russellville","Common Stock","931","1.64%"
+"CBS BANC-CORP","Russellville","2021","Donna Batchelor","Russellville","Common Stock","45","0.08%"
+"CBS BANC-CORP","Russellville","2021","John Gregory M Batchelor","Russellville","Common Stock","810","1.43%"
+"CBS BANC-CORP","Birmingham","2021","Donald M. James","Russellville","Common Stock","2679","4.73%"
+"CBS BANC-CORP","Russellville","2021","Sarah Graves","Russellville","Common Stock","2174","3.83%"
+"CBS BANC-CORP","Tuscumbia","2021","Olivia J. Wages","Russellville","Common Stock","2126","3.75%"
+"CBS BANC-CORP","Russellville","2021","Cecil Batchelor","Russellville","Common Stock","20","0.04%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS BANC-CORP","Shareholder","Cecil & Olivia Batchelor Family Limited Partnership","n/a","n/a","2021"
+"CBS BANC-CORP","Shareholder","Olivia & Cecil Batchelor Family Limited Partnership","n/a","n/a","2021"
+"CBS BANC-CORP","President & CEO","Mr. Michael Ross","President & CEO","CB&S Bank,"Inc."","2021"
+"CBS BANC-CORP","Member","Mr. Michael Ross","Member","CB&S Bank,"Inc."","2021"
+"CBS BANC-CORP","Chairman","Mr. Greg Batchelor","President","Dependable True Value Hardware","2021"
+"CBS BANC-CORP","Member","Mr. Brad Reeves","Vice-President","Dependable True Value Hardware","2021"
+"CBS BANC-CORP","Vice Chairman","Mrs. Rebecca Reeves","Vice-Chairman and Chairman Elect","CB&S Bank","2021"
+"CBS BANC-CORP","Member","Mr. John Bradley Reeves","Member","CB&S Bank,"Inc."","2021"
+"CBS BANC-CORP","Secretary","Mr. John Aldridge","Executive Vice-President","CB&S Bank,"Inc."","2021"
+```

@@ -1,0 +1,18 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bankshares Corporation Of Niceville","Niceville","2017","James W. Powell","n/a","34962","32.41%"
+"Bankshares Corporation Of Niceville","Niceville","2017","Deborah P. Dye","n/a","34993","32.44%"
+"Bankshares Corporation Of Niceville","Niceville","2017","Michael R. Floyd","n/a","8307","7.70%"
+"Bankshares Corporation Of Niceville","Crestview","2017","Sibyl G. Moore","n/a","7360","6.82%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","n/a","Peoples Building Partnership,"W. H. Powell Rentals","LLC"","2017"
+"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","n/a","Peoples Building Partnership","2017"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","n/a","Peoples Building Partnership,"FEMM Enterprises","LLC"","2017"
+"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","EVP/COO","Peoples Nat'l Bank","2017"
+"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","Peoples Nat'l Bank","2017"
+```

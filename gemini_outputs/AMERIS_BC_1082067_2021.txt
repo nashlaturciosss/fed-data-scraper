@@ -1,0 +1,32 @@
+Here are the requested CSV tables extracted from the provided document.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Ameris Bancorp","New York","2021","BlackRock,"Inc"","Common Stock","10251564","14.73%"
+"Ameris Bancorp","Malvern","2021","The Vanguard Group","Common Stock","7166213","10.29%"
+"Ameris Bancorp","Boston","2021","Wellington Management Group LLP","Common Stock","4842551","6.96%"
+"Ameris Bancorp","Boston","2021","State Street Global Advisors","Common Stock","4115179","5.90%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Ameris Bancorp","Executive Chairman","James B. Miller Jr.","Executive Chairman","American Software Inc.,"Trinity Apex LLC","Trinity Finance LLC","Prescott Capital LLC","Hegemon Holdings","LLC","Berlin American Company","BAC II","BAC Properties Partnership LLP","Karina L. Miller Trust UW","Prescott Miller Foundation"","2021"
+"Ameris Bancorp","Director","Gloria A. O'Neal","Director","n/a","2021"
+"Ameris Bancorp","Director","William H. Stern","Director","Stern & Stern and Associates","2021"
+"Ameris Bancorp","Director","Jimmy D. Veal","Director","Beachview Tent Rentals,"Inc."","2021"
+"Ameris Bancorp","Director and Chief Executive Officer","H. Palmer Procter,"Jr."","Director and Chief Executive Officer","Brevard Holdings,"LLC","Rushing Brook Properties","NIKNUD","LLC","The Brooks County Irrevocable Trust","Brown and Brown","Inc.","Allied Financial","Choate Construction Company"","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Banking Officer","Lawton E. Bassett,"III"","Executive Vice President and Chief Banking Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Innovation Officer","Ross L. Creasy","Executive Vice President and Chief Innovation Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Credit Officer","Jon S. Edwards","Executive Vice President and Chief Credit Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Strategy Officer","James A. LaHaise","Executive Vice President and Chief Strategy Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Risk Officer","William D. McKendry","Executive Vice President and Chief Risk Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Governance Officer","Michael T. Pierson","Executive Vice President and Chief Governance Officer","Ameris Bank Foundation Inc.","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Specialty Banking Officer","R. Todd Shutley","Executive Vice President and Chief Specialty Banking Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Legal Officer","Jody L. Spencer","Executive Vice President and Chief Legal Officer","n/a","2021"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Financial Officer","Nicole S. Stokes","Executive Vice President and Chief Financial Officer","n/a","2021"
+"Ameris Bancorp","Director","R. Dale Ezzell","Director","Wisecards Printing and Mailing","2021"
+"Ameris Bancorp","Lead Independent Director","Leo J. Hill","Director","Advisor Network Solutions,"LLC"","2021"
+"Ameris Bancorp","Director","Daniel B. Jeter","Director","Standard Discount Corporation","2021"
+"Ameris Bancorp","Director","Robert P. Lynch","n/a","Lynch Management Company","2021"
+"Ameris Bancorp","Director","Elizabeth A. McCague","n/a","McCague & Company,"LLC"","2021"
+```

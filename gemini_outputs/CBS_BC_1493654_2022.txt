@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS BANC-CORP.","Russellville","2022","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","27.99%"
+"CBS BANC-CORP.","Russellville","2022","John Gregory Batchelor","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2022","John Gregory Batchelor,"Trustee"","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2022","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","28.92%"
+"CBS BANC-CORP.","Russellville","2022","Rebecca Batchelor Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2022","John Bradley Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2022","John Gregory Batchelor","n/a","195","0.34%"
+"CBS BANC-CORP.","Russellville","2022","John Gregory Batchelor custodian","n/a","176","0.31%"
+"CBS BANC-CORP.","Russellville","2022","Ray Bradley Reeves","n/a","1075","1.90%"
+"CBS BANC-CORP.","Russellville","2022","Rebecca Batchelor Reeves","n/a","20","0.04%"
+"CBS BANC-CORP.","Russellville","2022","John Bradley Batchelor Reeves","n/a","931","1.64%"
+"CBS BANC-CORP.","Russellville","2022","Donna Batchelor","n/a","45","0.08%"
+"CBS BANC-CORP.","Russellville","2022","John Gregory M Batchelor","n/a","810","1.43%"
+"CBS BANC-CORP.","Birmingham","2022","Donald M. James*","n/a","2679","4.73%"
+"CBS BANC-CORP.","Russellville","2022","Sarah Graves*","n/a","2174","3.83%"
+"CBS BANC-CORP.","Tuscumbia","2022","Olivia J. Wages*","n/a","2126","3.75%"
+"CBS BANC-CORP.","Russellville","2022","Cecil Batchelor","n/a","20","0.04%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS BANC-CORP.","Shareholder","Mr. Michael Ross","President & CEO","CB&S Bank,"Inc."","2022"
+"CBS BANC-CORP.","Shareholder","Mr. Greg Batchelor","Chairman","Dependable True Value Hardware","2022"
+"CBS BANC-CORP.","Investor","Mr. Brad Reeves","Vice-President","Dependable True Value Hardware","2022"
+"CBS BANC-CORP.","Vice Chairman","Mrs. Rebecca Reeves","Vice-Chairman and Chairman Elect","CB&S Bank","2022"
+"CBS BANC-CORP.","Member","Mr. John Bradley Reeves","Member","CB&S Bank,"Inc."","2022"
+"CBS BANC-CORP.","Secretary","Mr. John Aldridge","Executive Vice-President","CB&S Bank,"Inc."","2022"
+```

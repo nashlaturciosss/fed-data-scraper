@@ -1,0 +1,26 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"ANB","Fort Lauderdale","2021","Annelle Ingham Carney,"Revocable Trust"","n/a","218426","15.14%"
+"ANB","Fort Lauderdale","2021","Hilary I. Hickman,"Revocable Trust"","n/a","218227","15.12%"
+"ANB","Fort Lauderdale","2021","Sharon I. Horal,"Revocable Trust"","n/a","218426","15.14%"
+"ANB","Fort Lauderdale","2021","Frederick H. Ingham,"Revocable Trust"","n/a","231427","16.04%"
+"ANB","Fort Lauderdale","2021","Timothy C. Ingham,"Revocable Trust"","n/a","219227","15.19%"
+"ANB","Fort Lauderdale","2021","Richard S. Ingham,"Revocable Trust"","n/a","119227","8.26%"
+"ANB","Fort Lauderdale","2021","The 2020 Sky Ingham Descendants Trust","n/a","100000","6.93%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"ANB","Director","Jay B. Deuschle","Director","D & B Ventures","2021"
+"ANB","Director","Richard S. Ingham,"Jr."","Vice President & Treasury","Asterisk,"Inc."","2021"
+"ANB","Director & Secretary","Frederick H. Ingham","President","Asterisk,"Inc."","2021"
+"ANB","Director & Chairman","Timothy C. Ingham","Vice President & Secretary","Asterisk,"Inc."","2021"
+"ANB","Director","Gary J. Faysash","President","GJF Consulting,"LLC"","2021"
+"ANB","Director & President","Virginia L. Martin","n/a","n/a","2021"
+"ANB","Director","Julie Pabst","n/a","n/a","2021"
+"ANB","n/a","Annelle Ingham Carney Revocable Trust","n/a","n/a","2021"
+"ANB","n/a","Hilary Ingham Hickman Revocable Trust","n/a","n/a","2021"
+"ANB","n/a","Sharon I Horal Revocable Trust","n/a","n/a","2021"
+```

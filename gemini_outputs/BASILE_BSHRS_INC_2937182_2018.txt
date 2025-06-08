@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Basile Bancshares,"Inc."","Eunice","2018","Burson,"I Jackson Jr"","Common Stock","164","18.51%"
+"Basile Bancshares,"Inc."","Eunice","2018","Johnson,"Dave T"","Common Stock","78","8.80%"
+"Basile Bancshares,"Inc."","Basile","2018","Johnson,"John W"","Common Stock","146","16.48%"
+"Basile Bancshares,"Inc."","Eunice","2018","Johnson,"William J"","Common Stock","127","14.33%"
+"Basile Bancshares,"Inc."","Baton Rouge","2018","Kimberly Denise Vigee","Common Stock","49","5.53%"
+"Basile Bancshares,"Inc."","Eunice","2018","Vigee,"Randall"","Common Stock","50","5.64%"
+"Basile Bancshares,"Inc."","Eunice","2018","Vigee,"Timothy"","Common Stock","49","5.53%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Basile Bancshares,"Inc."","Chairman of the Board & Director","Burson,"I Jackson Jr"","Chairman of the Board & Director","n/a","2018"
+"Basile Bancshares,"Inc."","Director,"President"","Johnson,"John W"","Director","Clanton & Johnson","2018"
+"Basile Bancshares,"Inc."","n/a","Johnson,"William J"","Director","n/a","2018"
+"Basile Bancshares,"Inc."","n/a","Johnson,"Dave T"","Director","Johnson Law Firm","2018"
+```

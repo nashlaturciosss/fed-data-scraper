@@ -1,0 +1,35 @@
+"Okay","I will follow your instructions precisely and produce the two CSV tables."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Auburn National Bancorporation,"Inc."","Auburn","2016","E.L. Spencer,"Jr."","n/a","729516","20.02%"
+"Auburn National Bancorporation,"Inc."","Auburn","2016","Emil F. Wright,"Jr."","n/a","397878","10.92%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Auburn National Bancorporation,"Inc."","Vice Chairman","Robert Dumas","President,"CEO & Director of AuburnBank"","East Alabama Medical Center","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Terrell Bishop","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","David Hedges","EVP & CFO of Auburnbank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Kris W. Blackmon","VP & Chief Investment Officer AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Gene Dulaney","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","W. Thomas Johnson","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Marla L. Kickliter","SVP of Compliance/Internal Audit AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Shannon S. O'Donnell","SVP of Credit Administration AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Jerome B. Siegel","SVP & Chief Technology Officer AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","President,"CEO & Chairman"","E.L. Spencer,"Jr."","Chairman,"Director of AuburnBank"","Spencer Heating & Air","2016"
+"Auburn National Bancorporation,"Inc."","n/a","C. Eddie Smith","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","Robert Smith","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","James Walker","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","n/a","S. Mark Bridges","SVP of AuburnBank","None","2016"
+"Auburn National Bancorporation,"Inc."","Director","William F. Ham,"Jr."","Director of AuburnBank","Varsity Enterprises","2016"
+"Auburn National Bancorporation,"Inc."","Director","Edward L. Spencer,"III"","Director of AuburnBank","Spencer,"LLC"","2016"
+"Auburn National Bancorporation,"Inc."","Secretary and Treasurer","C. Wayne Alderman","Director of AuburnBank","IntraMicron,"Inc."","2016"
+"Auburn National Bancorporation,"Inc."","Director","J. Tutt Barrett","Director of AuburnBank","Barrett,"Satterwhite","and Hood","LLC"","2016"
+"Auburn National Bancorporation,"Inc."","Director","Anne May","Director of AuburnBank","Machen & McChesney,"LLP"","2016"
+"Auburn National Bancorporation,"Inc."","Director","Terry W. Andrus","Director of AuburnBank","East AL Medical Center","2016"
+"Auburn National Bancorporation,"Inc."","Director","David E. Housel","Director of AuburnBank","Auburn Univ. Athletics Emeritus","2016"
+"Auburn National Bancorporation,"Inc."","Director","Amy B. Murphy","Director of AuburnBank","Murphy Cotton Co,"Inc."","2016"
+"Auburn National Bancorporation,"Inc."","Director","Dr. Patricia Wade","Director of AuburnBank","CHF Clinc,"Auburn Cardiovascular P.C."","2016"
+"Auburn National Bancorporation,"Inc."","retired","Emil F. Wright","n/a","n/a","2016"
+```

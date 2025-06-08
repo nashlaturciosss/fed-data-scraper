@@ -1,0 +1,29 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Business First Bancshares,"Inc."","New York","2021","The Deposit Trust Company","Common Stock","13434719","64.74%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Business First Bancshares,"Inc."","Director","Drew C. Brees","Director","Brees Company,"Inc."","2021"
+"Business First Bancshares,"Inc."","Director","James J. Buquet,"III"","Director","Buquet Distributing Company Inc","2021"
+"Business First Bancshares,"Inc."","Director","Carol M. Calkins","Director","n/a","2021"
+"Business First Bancshares,"Inc."","Director","Ricky D. Day","Director","W D Chips,"LLC"","2021"
+"Business First Bancshares,"Inc."","Director","John Ducrest","Director","TL Ducrest Building,"LLC"","2021"
+"Business First Bancshares,"Inc."","Director","Mark Folse","Executive Vice President and Director","n/a","2021"
+"Business First Bancshares,"Inc."","Director (Chairman)","Robert Greer","Director","n/a","2021"
+"Business First Bancshares,"Inc."","Director","J. Vernon Johnson","n/a","n/a","2021"
+"Business First Bancshares,"Inc."","Director","Rolfe H. McCollister,"Jr"","Director","McCollister & Associates","2021"
+"Business First Bancshares,"Inc."","Director","Andrew D. McLindon","Director","Mainspring Companies,"LLC"","2021"
+"Business First Bancshares,"Inc."","President,"Chief Executive Officer and Director"","David Melville,"III"","President,"Chief Executive Officer and Director"","Rosemound Holdings","2021"
+"Business First Bancshares,"Inc."","Director","Patrick E. Mockler","President","Southern Eagle Sales and Service,"LLC"","2021"
+"Business First Bancshares,"Inc."","Director","David Montgomery","Partner","Brothers Ventures,"LLC"","2021"
+"Business First Bancshares,"Inc."","Director","Arthur Price","President / Owner / Manager","KIT Exploration,"Inc."","2021"
+"Business First Bancshares,"Inc."","Chief Financial Officer,"Treasurer and Principal Financial Officer"","Gregory Robertson","n/a","n/a","2021"
+"Business First Bancshares,"Inc."","Director","Kenneth Smith","CEO/Owner","T. Baker Smith,"LLC"","2021"
+"Business First Bancshares,"Inc."","Executive Vice President and General Counsel","Saundra Strong","n/a","n/a","2021"
+"Business First Bancshares,"Inc."","Director","Keith Tillage","Principal","CSRS/Tillage","2021"
+"Business First Bancshares,"Inc."","Director","Steve White","Business Manager","ROBCO Fossil Fuels","2021"
+```

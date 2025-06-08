@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBA Bankshares,"Inc."","Americus","2014","James R. Buchanan,"Jr."","Common Stock","20980","6.32%"
+"CBA Bankshares,"Inc."","Atlanta","2014","Ben F. Easterlin,"IV"","Common Stock","76600","23.07%"
+"CBA Bankshares,"Inc."","Americus","2014","Perry Brothers,"LLC"","Common Stock","32968","9.93%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBA Bankshares,"Inc."","Director and Chairman","James R. Buchanan,"Jr."","n/a","Buchanan Farms,"Inc."","2014"
+"CBA Bankshares,"Inc."","Director","Ben F. Easterlin","n/a","King and Spalding","2014"
+"CBA Bankshares,"Inc."","n/a","Tommye B Easterlin","n/a","n/a","2014"
+"CBA Bankshares,"Inc."","Director","Edward D. Jones & Co. FBO: James G. Herron","n/a","n/a","2014"
+"CBA Bankshares,"Inc."","Director","M. Ronald Greer and Gladys M. Greer,"JT"","n/a","Americus Realty,"Inc."","2014"
+"CBA Bankshares,"Inc."","Director","J. Wade Halstead and Carol J. Halstead,"JT"","n/a","n/a","2014"
+"CBA Bankshares,"Inc."","Director and Secretary","Robert Joseph Hooks","n/a","Hooks Brothers Farm,"LLC"","2014"
+"CBA Bankshares,"Inc."","Director","George M. Peagler,"Jr. Living Trust"","n/a","n/a","2014"
+"CBA Bankshares,"Inc."","n/a","Perry Brothers,"LLC"","n/a","Perry Bros. Oil Co. Inc.","2014"
+"CBA Bankshares,"Inc."","n/a","David P. Perry","n/a","Perry Bros. Logistics","2014"
+"CBA Bankshares,"Inc."","Director","William S. Perry,"Jr."","n/a","Perry Bros. Logistics","2014"
+"CBA Bankshares,"Inc."","n/a","Jennifer P. Buford","n/a","n/a","2014"
+"CBA Bankshares,"Inc."","Director","Louis A. Riccardi","President","Louis A. Riccardi DDS PC","2014"
+"CBA Bankshares,"Inc."","Director","Burton A. Thomas","Managing Member","Grant Stepp,"LLC"","2014"
+"CBA Bankshares,"Inc."","Director","Russell Thomas,"Jr."","President","Thomas Farms,"Inc."","2014"
+"CBA Bankshares,"Inc."","Director and President","Richard A. Whaley","President and CEO","Citizens Bank of Americus","2014"
+```

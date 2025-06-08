@@ -1,0 +1,22 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Auburn National Bancorporation,"Inc."","Auburn","2022","E.L. Spencer,"Jr."","n/a","740191","21.13%"
+"Auburn National Bancorporation,"Inc."","Auburn","2022","Emil F. Wright,"Jr."","n/a","392484","11.20%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Auburn National Bancorporation,"Inc."","Chairman,"President","CEO"","Robert Dumas","Chairman,"President","CEO of AuburnBank"","East Alabama Medical Center","2022"
+"Auburn National Bancorporation,"Inc."","EVP & CFO","David Hedges","EVP & CFO of Auburnbank","n/a","2022"
+"Auburn National Bancorporation,"Inc."","SVP & CAO","James Walker","SVP & Chief Accounting Officer of AuburnBank","n/a","2022"
+"Auburn National Bancorporation,"Inc."","Director","William F. Ham,"Jr."","Director of AuburnBank","Varsity Enterprises","2022"
+"Auburn National Bancorporation,"Inc."","Director","Edward L Spencer,"III"","Director of AuburnBank","Spencer,"LLC"","2022"
+"Auburn National Bancorporation,"Inc."","Secretary and Treasurer","C. Wayne Alderman","Director of AuburnBank","IntraMicron,"Inc."","2022"
+"Auburn National Bancorporation,"Inc."","Director","J. Tutt Barrett","Director of AuburnBank","Barrett,"Satterwhite","and Hood","LLC"","2022"
+"Auburn National Bancorporation,"Inc."","Assistant Secretary and Assistant Treasurer","Anne May","Director of AuburnBank","n/a","2022"
+"Auburn National Bancorporation,"Inc."","Director","Terry W. Andrus","Director of AuburnBank","n/a","2022"
+"Auburn National Bancorporation,"Inc."","Director","David E. Housel","Director of AuburnBank","Back Booth LLC","2022"
+"Auburn National Bancorporation,"Inc."","Director","Lauretta Cooper","Director of AuburnBank","n/a","2022"
+```

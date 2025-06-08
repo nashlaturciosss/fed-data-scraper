@@ -1,0 +1,26 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOA Financial Corporation","Baton Rouge","2023","Paula B. Siegel","Common Stock","1323","24.54%"
+"BOA Financial Corporation","Lafayette","2023","Michael P. Broussard,"Jr."","Common Stock","1515","28.10%"
+"BOA Financial Corporation","Abbeville","2023","Michael P. Broussard","Common Stock","321","5.95%"
+"BOA Financial Corporation","Maurice","2023","Julie B. Guillot","Common Stock","778","14.43%"
+"BOA Financial Corporation","Abbeville","2023","Andree B. Freeland","Common Stock","778","14.43%"
+"BOA Financial Corporation","Lafayette","2023","Alexis Cecile Broussard","Common Stock","100","1.85%"
+"BOA Financial Corporation","Lafayette","2023","Lauren Estelle Broussard","Common Stock","100","1.85%"
+"BOA Financial Corporation","Abbeville","2023","Anna-Marie Freeland","Common Stock","30","0.56%"
+"BOA Financial Corporation","Abbeville","2023","Whitney Renee Freeland","Common Stock","30","0.56%"
+"BOA Financial Corporation","Maurice","2023","Reme P. Guillot","Common Stock","30","0.56%"
+"BOA Financial Corporation","Maurice","2023","Corinne Claire Guillot","Common Stock","30","0.56%"
+"BOA Financial Corporation","Baton Rouge","2023","Amber Marie Osborne","Common Stock","30","0.56%"
+"BOA Financial Corporation","Baton Rouge","2023","Cole Louis Osborne","Common Stock","30","0.56%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOA Financial Corporation","n/a","Paula B. Siegel","n/a","N/A","2023"
+"BOA Financial Corporation","President","Michael P. Broussard,"Jr."","President and Chief Executive Officer","Confidential","2023"
+"BOA Financial Corporation","n/a","Julie B. Guillot","Assistant Vice President Senior Loan Processor","Section","2023"
+"BOA Financial Corporation","n/a","Andree B. Freeland","Assistant Vice President","n/a","2023"
+```

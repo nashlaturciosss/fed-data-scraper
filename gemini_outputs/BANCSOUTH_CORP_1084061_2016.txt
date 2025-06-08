@@ -1,0 +1,34 @@
+"Here are the two tables in CSV format","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancSouth Corporation","Dothan","2016","Noel M Dowling Family Trust
+"f/b/o N. Mitchell Dowling","Jr."
+"N. Mitchell Dowling","Jr. and Shirley D. McCrary","Co-Trustees"
+"N. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2016","Noel M Dowling Family Trust
+f/b/o Shirley D. McCrary
+"N. Mitchell Dowling","Jr. and Shirley D. McCrary","Co-Trustees"
+"N. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2016","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%"
+"BancSouth Corporation","Mooresville","2016","George Laurence McCrary,"III"","n/a","2700","8.05%"
+"BancSouth Corporation","Mooresville","2016","Margaret Ann McCrary Crumlish","n/a","1700","5.07%"
+"BancSouth Corporation","n/a","2016","12 other shareholders
+"owning 5% or less each"","n/a","1700","5.06%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","27,"450"","n/a","2016"
+"BancSouth Corporation","Cashier,"Chairman and Director"","N. Mitchell Dowling,"Jr."","None","n/a","2016"
+"BancSouth Corporation","None","N. Mitchell Dowling,"Jr."","None","n/a","2016"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","20","n/a","2016"
+"BancSouth Corporation","Executive Vice President,"Chief Financial Officer","Director"","Kevin R. Kirkland","None","n/a","2016"
+"BancSouth Corporation","None","Kevin R. Kirkland","None","n/a","2016"
+"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","20","n/a","2016"
+"BancSouth Corporation","Executive Vice President,"Chief Executive Officer","Director"","Robert W. Bass,"Jr."","None","n/a","2016"
+"BancSouth Corporation","None","Robert W. Bass,"Jr."","None","n/a","2016"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","2,"700"","n/a","2016"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","None","n/a","2016"
+"BancSouth Corporation","None","George Laurence McCrary,"III"","None","n/a","2016"
+```

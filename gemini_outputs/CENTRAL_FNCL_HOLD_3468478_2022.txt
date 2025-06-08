@@ -1,0 +1,11 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","following all the specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Financial Holdings,"Inc."","Tampa","2022","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Financial Holdings,"Inc."","Vice Chairman and Secretary","Nileshkumar C. Patel","n/a","n/a","2022"
+```

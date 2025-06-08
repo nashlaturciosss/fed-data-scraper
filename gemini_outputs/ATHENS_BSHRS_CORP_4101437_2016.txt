@@ -1,0 +1,31 @@
+"Okay","here are the two CSV tables extracted from the provided document","formatted as requested:"
+### SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Athens Federal Community Bank","Athens","2016","Athens Federal Community Bank,"N.A. Employee Stock Ownership Plan"","Common Stock","215623","12.1%"
+"Athens Federal Community Bank","Athens","2016","Athens Federal Community Bank,"N.A. 401(k) Plan"","Common Stock","292295","16.4%"
+"Athens Federal Community Bank","Glendale","2016","Havner Family Trust","Common Stock","150000","8.4%"
+"Athens Federal Community Bank","Athens","2016","Jeffrey L. Cunningham","Options","107952","5.87%"
+"Athens Federal Community Bank","Athens","2016","Michael R. Hutsell","Options","108829","5.92%"
+"Athens Federal Community Bank","Athens","2016","Jay Leggett,"Jr."","Options","103539","5.74%"
+"Athens Federal Community Bank","n/a","2016","None","n/a","n/a","n/a"
+```
+### INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Athens Federal Community Bank","n/a","Athens Federal Community Bank Employee Stock Ownership Plan","n/a","n/a","2016"
+"Athens Federal Community Bank","n/a","Athens Federal Community Bank 401(k) Plan","n/a","n/a","2016"
+"Athens Federal Community Bank","Director","Elaine M. Cathcart","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","Director,"CEO","and President"","Jeffrey L. Cunningham","Director,"CEO","and President"","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Raymond A. Grant","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","G. Scott Hannah","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","G. Timothy Howard","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Michael R. Hutsell","Treasurer and CFO","Athens Federal Community Bank,"N. A."","2016"
+"Athens Federal Community Bank","n/a","Myra NanDora Jenne","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Jay Leggett,"Jr."","Cleveland City President","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Ross A. Millsaps","VP and Chief Credit Officer","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","M. Darrell Murray","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Stephen S. Sewell","VP and Chief Lending Officer","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Lyn B. Thompson","Director","Athens Federal Community Bank,"N.A."","2016"
+"Athens Federal Community Bank","n/a","Larry D. Wallace","Chairman and Director","Athens Federal Community Bank,"N.A."","2016"
+```

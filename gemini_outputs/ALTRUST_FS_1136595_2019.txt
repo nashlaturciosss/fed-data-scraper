@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc."","Baileyton","2019","Terry Neal & Tressa Walker","Common Stock","303006","6.24%"
+"Altrust Financial Services,"Inc."","Cullman","2019","Cecil Alan & Amy Walker","Common Stock","369468","7.61%"
+"Altrust Financial Services,"Inc."","Baileyton","2019","Timothy Dudley Walker","Common Stock","271412","5.59%"
+"Altrust Financial Services,"Inc."","Cullman","2019","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1200648","24.72%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc."","Director,"Vice Chairman CEO"","Robin Cummings","Director,"CEO"","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","Director","George Whit Drake","Director","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","Director","Noel Jasper Estes","Director","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","Director,"Chairman"","Cecil Alan Walker","Director,"Partner"","Peoples Bank,"Walker Bros. LTD"","2019"
+"Altrust Financial Services,"Inc."","Director,"Secretary"","Terry Neal Walker","Director,"Secretary","Partner"","Peoples Bank,"Walker Bros. LTD"","2019"
+"Altrust Financial Services,"Inc."","Director","Timothy Dudley Walker","Director,"Partner"","Peoples Bank,"Walker Bros. LTD"","2019"
+"Altrust Financial Services,"Inc."","Director","Brian Clarke Witcher","Director","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","Director,"EVP"","Candace Nail Hooten","Director","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","Craig Estes","Director","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","Debra Goble","EVP","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","Timothy Williams","Director,"President"","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","Charles Herndon","EVP","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","William Kinney","EVP","Peoples Bank","2019"
+"Altrust Financial Services,"Inc."","n/a","David Patterson","EVP/CFO","n/a","2019"
+"Altrust Financial Services,"Inc."","None","Altrust Financial Services,"Inc."","None","None","2019"
+```

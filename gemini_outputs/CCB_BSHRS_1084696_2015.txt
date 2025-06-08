@@ -1,0 +1,16 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCB Bancshares,"Inc."","Hahira","2015","D.K. Hollis,"Jr."","n/a","3558","70.18%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCB Bancshares,"Inc."","Chairman & President","D.K. Hollis,"Jr."","n/a","Lone Oak LLLP,"general partner less than 1%"","2015"
+"CCB Bancshares,"Inc."","n/a","Glenn L. Copeland","Executive Officer,"CEO of Citizens Community Bank"","n/a","2015"
+"CCB Bancshares,"Inc."","Director & Vice President","Starling H. Waldron","Executive Officer,"CFO of Citizens Community Bank"","Lone Oak LLLP limited partner","2015"
+"CCB Bancshares,"Inc."","Secretary & Treasurer","Archie Waldron","President of Remerton Community Agency,"Inc"","n/a","2015"
+"CCB Bancshares,"Inc."","n/a","Tim S Jones","President of Citizens Community Bank","n/a","2015"
+"CCB Bancshares,"Inc."","Director","David Hollis,"III"","Director,"Vice President of Citizens Community Bank"","Lone Oak LLLP limited partner","2015"
+```

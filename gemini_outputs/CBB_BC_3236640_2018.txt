@@ -1,0 +1,22 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBB Bancorp","White","2018","Dwain Montgomery","Common Stock","44050","5.77%"
+"CBB Bancorp","Cartersville","2018","Larry Pogue","Common Stock","47700","6.25%"
+"CBB Bancorp","Cartersville","2018","Eric Strickland as Custodian Thomas Andrew Strickland","Common Stock","3000",".37%"
+"CBB Bancorp","Cartersville","2018","Eric Strickland as Custodian Ethan Strickland","Common Stock","1000",".12%"
+"CBB Bancorp","Cartersville","2018","Georgia Investment Fund 100 LLC Thomas Strickland,"Member Eric Strickland","Member"","Common Stock","37450","4.67%"
+"CBB Bancorp","n/a","2018","Total of Strickland Family","Common Stock","41450","5.17%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBB Bancorp","Director","David Caswell","Director and President/COO","Century Bank of Georgia","2018"
+"CBB Bancorp","Director","Richard E. Drews,"Jr."","Director and CEO","Century Bank of Georgia","2018"
+"CBB Bancorp","President","Danny Gilreath","Director","Gilreath Carpet,"Inc."","2018"
+"CBB Bancorp","Director","Thomas Lewis","Director","Century Bank of Georgia","2018"
+"CBB Bancorp","Retired","Dwain Montgomery White","Director","Century Bank of Georgia","2018"
+"CBB Bancorp","Director","Larry Pogue","Director","Century Bank of Georgia","2018"
+"CBB Bancorp","Surgeon","Ted Perry","Director","Century Bank of Georgia","2018"
+```

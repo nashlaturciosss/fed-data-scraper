@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancTenn Corp","Elizabethton","2019","William B. Greene,"Jr."","Common Stock","1801987","70.96"
+"BancTenn Corp","Kingsport","2019","Valerie G. Ketron","Common Stock","213687","8.42"
+"BancTenn Corp","Elizabethton","2019","Rebecca Greene","Common Stock","277906","10.94"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Chairman of the Bank of Tennessee Board of Directors","Huntington Hills","2019"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Chairman of the Bank of Tennessee Board of Directors","WBG Aviation,"LLC"","2019"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Strategic Resources Group,"Inc."","2019"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Aviation Strategies Group,"Inc."","2019"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Tanasi Oil & Gas,"Inc."","2019"
+"BancTenn Corp","Director","Kenneth H. Maness","Director of Bank of Tennessee","n/a","2019"
+"BancTenn Corp","Director","James W. Holmes","Director of Bank of Tennessee","n/a","2019"
+"BancTenn Corp","Director","William R. Barrett","Director and COO of Bank of Tennessee","n/a","2019"
+"BancTenn Corp","Director","Raymond Dale Fair","Director,"President and CEO of Bank of Tennessee"","n/a","2019"
+"BancTenn Corp","Director","Nell King Bieger","Director of Bank of Tennessee","Jones,"King","Downs & Peel","P.C."","2019"
+"BancTenn Corp","CFO of the Company","Darla M. Scott","EVP and CFO of Bank of Tennessee","n/a","2019"
+"BancTenn Corp","Assistant Secretary of the Company","Jennifer A. Blakley","Secretary to the Board of Bank of Tennessee","n/a","2019"
+```

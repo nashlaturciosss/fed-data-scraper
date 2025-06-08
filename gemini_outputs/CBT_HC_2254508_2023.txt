@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CB&T Holding Corporation","Owner","Gary N. Solomon,"Sr."","Director & Chairman","Director/Chairman Crescent Bank","2023"
+"CB&T Holding Corporation","Entrepreneur","Martha Newman Solomon","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","Trust","Sam M. and Gloria S. Newman Grandchildren's Irrevocable Class Trust #1","Shareholder","None","2023"
+"CB&T Holding Corporation","Subsidiary of Public Holding Company","Boston Omaha Investments,"LLC"","Shareholder","None","2023"
+"CB&T Holding Corporation","Trust","2020 Martha Newman Solomon Family Trust","Shareholder","None","2023"
+"CB&T Holding Corporation","Trust","2020 Gary N. Solomon,"Sr. Family Trust"","Shareholder","None","2023"
+"CB&T Holding Corporation","Limited Liability Corporation","SMS Capital,"LLC"","Shareholder","None","2023"
+"CB&T Holding Corporation","Deceased","Robert Redfearn","Deceased","Deceased","2023"
+"CB&T Holding Corporation","Manager","Brian C. Gibbs","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","President/Vice Chairman","Fred B. Morgan,"III"","Director/President/Vice Chairman","Director/President/Vice Chairman Crescent Bank","2023"
+"CB&T Holding Corporation","President","Gary N. Solomon,"Jr."","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","President/Owner","Sam M. Solomon","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","Investor","Conway S. Solomon","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","Retired","Thomas A. Weslocky","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","CEO/Chairman","Adam K. Peterson","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","VP,"1st Franklin Financial Corporation"","Richard J. Brandt","Director","Director Crescent Bank","2023"
+"CB&T Holding Corporation","Chief Executive Officer","Brian R. Donohue","Chief Executive Officer","Chief Executive Officer/ Crescent Bank","2023"
+"CB&T Holding Corporation","Chief Financial Officer","Melissa M. English","Chief Financial Officer/ Treasurer","Chief Financial Officer/ Crescent Bank","2023"
+```

@@ -1,0 +1,23 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Century Bancorp,"Inc."","Milledgeville","2014","Jean G. Allen","Common Stock","41027","5.09%"
+"Century Bancorp,"Inc."","Bogart","2014","Estelle Brown","Common Stock","47735","5.92%"
+"Century Bancorp,"Inc."","Milledgeville","2014","Patricia B Thompson","Common Stock","83781","10.40%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Century Bancorp,"Inc."","Director","Victor D. Bayne","Director","Bayne's Army Store","2014"
+"Century Bancorp,"Inc."","Director","T. Chris Boyd","Director","American Tank Maintenance,"LLC"","2014"
+"Century Bancorp,"Inc."","Director/President/CEO","Chatfield S. Daniel","Director/President/CEO","n/a","2014"
+"Century Bancorp,"Inc."","Director","Larry R. Garrett","Chairman","G&S Gas Service Inc","2014"
+"Century Bancorp,"Inc."","Director/EVP (retired 12/31/14)","James R. Ivey,"Jr."","Director/EVP (retired 12/31/14)","n/a","2014"
+"Century Bancorp,"Inc."","Director","Harold D. Mason","Director","Mason Sales Co.","2014"
+"Century Bancorp,"Inc."","Director","C. Steve McQuaig","Director","Family Eye Care Associates","2014"
+"Century Bancorp,"Inc."","Director/SrVP","Cheryl P. Pounds","Director/SrVP","n/a","2014"
+"Century Bancorp,"Inc."","Chairman","Dudley C. Rowe","Director","n/a","2014"
+"Century Bancorp,"Inc."","Director","Patricia B. Thompson","Director","n/a","2014"
+"Century Bancorp,"Inc."","Director","Carole M. Walker","Director","n/a","2014"
+```

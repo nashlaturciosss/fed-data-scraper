@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancTenn Corp","Elizabethton","2018","William B. Greene,"Jr."","Common Stock","1795267","70.80"
+"BancTenn Corp","Kingsport","2018","Roy L. Harmon,"Jr."","Common Stock","165066","6.51"
+"BancTenn Corp","Kingsport","2018","Valerie G. Ketron","Common Stock","213687","8.43"
+"BancTenn Corp","Elizabethton","2018","Rebecca Greene","Common Stock","277906","10.96"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Director of Bank of Tennessee","Huntington Hills","2018"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Strategic Resources Group,"Inc."","2018"
+"BancTenn Corp","Executive Vice-President and Director of the Company","Roy L. Harmon,"Jr."","Chairman of the Board and CEO of Bank of Tennessee","n/a","2018"
+"BancTenn Corp","Director of the Company","Kenneth H. Maness","Director of Bank of Tennessee","n/a","2018"
+"BancTenn Corp","Director of the Company","James W. Holmes","Director of Bank of Tennessee","n/a","2018"
+"BancTenn Corp","Director","William R. Barrett","Market President,"Bank of Tennessee"","n/a","2018"
+"BancTenn Corp","Director","Nell King Bieger","Director","Jones,"King","Downs & Peel","P.C."","2018"
+"BancTenn Corp","CFO of the Company","Darla M. Scott","EVP and CFO of Bank of Tennessee","n/a","2018"
+"BancTenn Corp","Assistant Secretary of the Company","Jennifer A. Blakley","Secretary to the Board of Bank of Tennessee","n/a","2018"
+```

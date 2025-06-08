@@ -1,0 +1,28 @@
+Here are the two tables extracted from the document in CSV format:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital Bank Financial Corp.","New York","2015","Crestview Partners II,"GP","L.P."","Common Stock","2908760","10.77%"
+"Capital Bank Financial Corp.","Baltimore","2015","T. Rowe Price","Common Stock","2480290","9.1%"
+"Capital Bank Financial Corp.","Charlotte","2015","R. Eugene Taylor","Common Stock","2018948","7.59%"
+"Capital Bank Financial Corp.","Los Angeles","2015","NMQ Investment Management Company,"LLC"","Common Stock","2460488","9.04%"
+"Capital Bank Financial Corp.","Valley Forge","2015","Vanguard Group Inc.","Common Stock","1860384","6.83%"
+"Capital Bank Financial Corp.","Houston","2015","Vaughan Nelson Investment Management,"L.P."","n/a","1500475","6.5%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital Bank Financial Corp.","n/a","Crestview Partners II,"GP","L.P."","None","Cumulus Media Inc.; CWGS Enterprises,"LLC; NEP Group","Inc.; SES Holdings","LLC; Silver Creek Oil & Gas","LLC; Synergy Energy Holdings","LLC; Victory Capital Holdings","Inc."","2015"
+"Capital Bank Financial Corp.","Chairman,"Chief Executive Officer","Director"","R. Eugene Taylor","Chairman,"President","Chief Executive Officer","Capital Bank Corporation"","Director,"Sonic Automotive"","2015"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief Financial Officer"","Christopher G. Marshall","Director,"Exec. Vice President","Chief Financial Officer","Capital Bank Corporation"","n/a","2015"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief Credit Officer"","R. Bruce Singletary","Director,"Executive Vice President","Chief Credit Officer","Capital Bank Corporation"","n/a","2015"
+"Capital Bank Financial Corp.","Executive Vice President,"Chief of Strategic Planning and Investment Relations"","Kenneth A. Posner","Director,"Executive Vice President","Chief of Strategic Planning and Investment Relations","Capital Bank Corporation"","Managing Member of Table Rock Management LLC and President of Shawangunk Adventures,"LLC"","2015"
+"Capital Bank Financial Corp.","Executive Vice President,"General Counsel & Corporate Secretary"","Vincent M. Lichtenberger","Executive Vice President,"General Counsel & Corporate Secretary","Capital Bank Corporation"","n/a","2015"
+"Capital Bank Financial Corp.","Sr. Vice President","Maria Justo","Executive Vice President,"Enterprise Risk Executive","Capital Bank Corporation"","n/a","2015"
+"Capital Bank Financial Corp.","n/a","Kenneth Kavanagh","Executive Vice President","Consumer Banking and Private Wealth Management Executive,"Capital Bank Corporation"","2015"
+"Capital Bank Financial Corp.","Investment Advisor","Richard M. DeMartini","Director","Officer of Crestview Advisors,"LLC; Crestview","L.L.C.; Elm Rock Partners LLC."","2015"
+"Capital Bank Financial Corp.","n/a","Peter N. Foss","Director","Director,"First Tee of Charlotte"","2015"
+"Capital Bank Financial Corp.","Residential Developer and Homebuilder","William A. Hodges","Director","Manager,"LKW Properties LLC"","2015"
+"Capital Bank Financial Corp.","Private Equity Investor","Marc D. Oken","Director","Managing Partner- Falfurrias Capital Partners,"LP; Falfurrias Capital Partners II and Falfurrias Management Partners","LLC."","2015"
+"Capital Bank Financial Corp.","Financial Consultant","Martha M. Bachman","Director","Secretary / Treasurer,"Wheels Real Estate","LLC"","2015"
+"Capital Bank Financial Corp.","CEO,"Earthtec of NC","Inc."","Oscar A. Keller,"III"","Director","CEO,"Earthtec Of NC","Inc."","2015"
+"Capital Bank Financial Corp.","Physician","William G. Ward,"Sr."","Director","Administrative Committee,"Incentive MicroAngel Fund-IMAF Triad."","2015"
+```

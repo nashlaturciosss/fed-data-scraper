@@ -1,0 +1,21 @@
+Here are the tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Alamerica BancCorp,"Inc."","Birmingham","2020","Donald V. Watkins","common","473089","47.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2020","Clarissa B. Harms","common","115735","11.57%"
+"Alamerica BancCorp,"Inc."","Birmingham","2020","Daryl E Harms Irrevocable Trust for Hannah K. Harms","common","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2020","Daryl E Harms Irrevocable Trust for Emma E. Harms","common","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2020","Lawrence R. Tate","common","179078","17.91%"
+"Alamerica BancCorp,"Inc."","Montgomery","2020","Kenneth L. Thomas","common","120496","12.05%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Alamerica BancCorp,"Inc."","Shareholder","Donald V. Watkins","None","n/a","2020"
+"Alamerica BancCorp,"Inc."","Shareholder","Lawrence R. Tate","Director","Alamerica Bank","2020"
+"Alamerica BancCorp,"Inc."","Shareholder","Clarissa B. Harms","None","n/a","2020"
+"Alamerica BancCorp,"Inc."","Shareholder","Kenneth L. Thomas","None","n/a","2020"
+"Alamerica BancCorp,"Inc."","Director","Jacqueline Anderson Smith","Board Chair","Alamerica Bank","2020"
+"Alamerica BancCorp,"Inc."","Secretary/Treasurer","Kent McGriff","Senior VP/CFO","Alamerica Bank","2020"
+```

@@ -1,0 +1,31 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Business First Bancshares,"Inc."","New York","2018","The Deposit Trust Company","Common Stock","7646214","57.9%"
+"Business First Bancshares,"Inc."","n/a","2018","EJF Sidecar Fund Series,"LLC"","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Business First Bank","Director","Lloyd Alford","Director","Benny's Car Wash","2018"
+"Business First Bank","Director","Jack Byrd,"Jr."","Partner","B&S Farms","2018"
+"Business First Bank","Director","John Graves","Director","Webster Services,"Inc."","2018"
+"Business First Bank","Director (Chairman)","Robert Greer","Director","n/a","2018"
+"Business First Bank","Director","David L. Laxton,"III"","Director","n/a","2018"
+"Business First Bank","Director","Rolfe H. McCollister,"Jr"","Publisher / Chairman & Founder","Louisiana Business,"Inc."","2018"
+"Business First Bank","Director","Andrew D. McLindon","President","Mainspring Companies,"LLC"","2018"
+"Business First Bank","President,"CEO and Director"","David Melville,"III"","n/a","n/a","2018"
+"Business First Bank","Director","Patrick E. Mockler","President","Mockler Family,"LLC"","2018"
+"Business First Bank","Director","David Montgomery","Partner","Brothers Ventures,"LLC"","2018"
+"Business First Bank","Director","Arthur Price","President/ Owner/Manager","KIT Exploration,"Inc."","2018"
+"Business First Bank","Chief Financial Officer,"Treasurer and Principal Financial Officer"","Gregory Robertson","EVP,"Chief Financial Officer"","n/a","2018"
+"Business First Bank","Secretary","Heather Roemer","SVP,"Director of Human Resources and Talent Development"","n/a","2018"
+"Business First Bank","Director","Fayez K. Shamieh,"MD"","President","Fayez K. Shamieh Medical Corporation","2018"
+"Business First Bank","Director","C. Stewart Slack","Partner","JSW Group","2018"
+"Business First Bank","Director","Kenneth Smith","President / CEO/Owner","T. Baker Smith. LLC","2018"
+"Business First Bank","Director","Thomas Everett Stewart","Director","n/a","2018"
+"Business First Bank","Director","N. Jerome Vascocu","Director,"Chariman - Northeast Louisiana"","n/a","2018"
+"Business First Bank","Director","Steve White","Business Manager","ROBCO Fossil Fuels","2018"
+"Business First Bank","Director","Robert Yarborough","CEO","Manda Packing Co.,"LLC"","2018"
+```

@@ -1,0 +1,24 @@
+"Okay","here are the two CSV tables extracted from the document","adhering to all specified rules:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Bank","Tampa","2019","Vijay M. Patel and Tejal V. Patel","n/a","100000","5.42%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Bank","Executive Vice President","John Thompson","President/CEO","Central Bank","2019"
+"Central Bank","Director","Arvind C. Patel","Director","Central Bank","2019"
+"Central Bank","Director","Jayesh K. Patel","Director","Central Bank","2019"
+"Central Bank","Chairman/Secretary & CFO","Nileshkumar C. Patel","Director/Vice Chairman/Secretary/EVP-Risk Manager/ISO","Central Bank","2019"
+"Central Bank","Director","Jayesh D. Patel","Director","Central Bank","2019"
+"Central Bank","Director","Dinubhai Patel","Director","Central Bank","2019"
+"Central Bank","Director","Jiten Patel","Director","Central Bank","2019"
+"Central Bank","Director","Mahendra Patel","Director","Central Bank","2019"
+"Central Bank","Director","Rajeshkumar C. Patel","Director/Chairman/President & CEO","Central Bank","2019"
+"Central Bank","Director","Dr. Vijay Patel","Director","Central Bank","2019"
+"Central Bank","Director","Shilen Patel","Director","Central Bank","2019"
+"Central Bank","n/a","Scott Kohler","EVP/Senior Lending Officer","n/a","2019"
+"Central Bank","SVP/Controller","Russ Andersen","EVP/Chief Financial Officer/NA","n/a","2019"
+"Central Bank","n/a","Anand Sabapathy","EVP/Mortgage Banking Manager","n/a","2019"
+```

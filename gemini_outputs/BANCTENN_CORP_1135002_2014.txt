@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancTenn Corp","Elizabethton","2014","William B. Greene,"Jr."","Common Stock","1794967","71.35"
+"BancTenn Corp","Kingsport","2014","Roy L. Harmon,"Jr."","Common Stock","169766","6.75"
+"BancTenn Corp","Kingsport","2014","Valerie G. Ketron","Common Stock","213687","8.49"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Director of Bank of Tennessee","Bank of Tennessee","2014"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Strategic Resources Group,"Inc."","2014"
+"BancTenn Corp","Executive Vice-President of the Company","Roy L. Harmon,"Jr."","Chairman of the Board and CEO of Bank of Tennessee","Paragon Commercial Corp.","2014"
+"BancTenn Corp","Director of the Company","Kenneth H. Maness","Director of Bank of Tennessee","n/a","2014"
+"BancTenn Corp","Director of the Company","James W. Holmes","Director of Bank of Tennessee","Matsonian Apartments,"Johnson City","TN"","2014"
+"BancTenn Corp","CFO of the Company","Darla M. Scott","EVP and CFO of Bank of Tennessee","n/a","2014"
+"BancTenn Corp","Assistant Secretary of the Company","Jennifer Blakley","Secretary to the Board of Bank of Tennessee","n/a","2014"
+```

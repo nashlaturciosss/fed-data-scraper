@@ -1,0 +1,22 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"The Bancshares,"Inc."","Jennings","2023","Phoebe S. Miller","Common Stock","113393","14.48%"
+"The Bancshares,"Inc."","Jennings","2023","Logan L. Nichols","Common Stock","43200","5.5%"
+"The Bancshares,"Inc."","Jennings","2023","Logan L. Nichols","Common Stock","5000","0.62%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"The Bancshares,"Inc."","Director/CEO/Director","Jeff L Boudreaux","Director/CEO of The Bank","Member-Petit Peu De Ciel,"LLC; Member-Le Whitetail Hunters","LLC"","2023"
+"The Bancshares,"Inc."","Director","Blaine Boudreaux","/President of The Bank","Member-Petit Peu De Ciel,"LLC; /President of The Member-Le Whitetail Hunters","LLC"","2023"
+"The Bancshares,"Inc."","Director","Chris Thibodeaux","Director of The Bank","Thibodeaux,"Albro & Touchet Therapy Group","LLC"","2023"
+"The Bancshares,"Inc."","N/A","Phoebe S. Miller,","Principal Securities Holder","Retired Former Business Owner","2023"
+"The Bancshares,"Inc."","Vice Chairman/ Director","Charles E. Ray,"M.D."","Director of The Bank","Vice-President of Jeff Davis Diagnostics","2023"
+"The Bancshares,"Inc."","Director","Kenneth W. Young,"Sr."","Director of The Bank","Retired Former Business Owner","2023"
+"The Bancshares,"Inc."","Director","Pat Hanley","Director of The Bank","Member-Pat's Electrical Service,"LLC"","2023"
+"The Bancshares,"Inc."","Director","Robert Miller","Director of The Bank","Owner-Point to Point Directional Drilling,"Inc."","2023"
+"The Bancshares,"Inc."","Director","Audie Hanks","Director of The Bank","Owner-H&H Electrical Service","2023"
+"The Bancshares,"Inc."","Secretary/ CFO","Deborah Murrell","EVP/CFO/ Cashier","n/a","2023"
+```

@@ -1,0 +1,17 @@
+Here are the two tables extracted from the document in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Anchor Bancorp,"Inc."","La Paz","2022","Guido Hinojosa","Common Stock","4512478","96.74%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Anchor Bank","Director","George Gentile","Director","Anchor Bank","2022"
+"Anchor Bank","Chairman of the Board CEO & President","Nelson Hinojosa","Chairman of the Board CEO & President","Anchor Bank","2022"
+"Anchor Bank","Director","Philippe C. Jeck","Director","Anchor Bank","2022"
+"Anchor Bank","Director","Randy Nobles","Director","Anchor Bank","2022"
+"Anchor Bank","Vice Chairman","Peter Pantages","Director","Anchor Bank","2022"
+"Anchor Bank","Director","Alejandro Zegarra","Director","Anchor Bank","2022"
+"Anchor Bank","Principal Shareholder","Guido Hinojosa Cardoso","None","n/a","2022"
+```

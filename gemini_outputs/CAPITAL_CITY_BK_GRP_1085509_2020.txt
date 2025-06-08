@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2020","William G. Smith,"Jr."","Common Stock","2876803","17.13%"
+"Capital City Bank Group,"Inc."","New York","2020","BlackRock Instituitional Trust Company,"N.A."","Common Stock","1222602","7.26%"
+"Capital City Bank Group,"Inc."","Austin","2020","Dimensional Fund Advisors,"L.P."","Common Stock","885748","5.26%"
+"Capital City Bank Group,"Inc."","Tallahassee","2020","Douglas W. Smith","Common Stock","1581740","9.42%"
+"Capital City Bank Group,"Inc."","Tallahassee","2020","Drew Mitchell","Common Stock","1578133","9.40%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman"","Smith Interests General Partnership","2020"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Director,"President"","First National Bankers Bank","2020"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President Chief Financial Officer","n/a","2020"
+"Capital City Bank Group,"Inc."","Director","Frederick Carroll III","Partner","Lane Smith & Frederick Carroll,"ill"","2020"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2020"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2020"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","Chairman/President/CEO","Bense Enterprises Inc.","2020"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2020"
+"Capital City Bank Group,"Inc."","Director","Stanley Connally,"Jr."","Director","Electric Power Research Institute,"Inc."","2020"
+"Capital City Bank Group,"Inc."","Director","Eric Grant","President","Municipal Code Corporation","2020"
+"Capital City Bank Group,"Inc."","Director","Laura Johnson","President","Coton Colors Company,"LLC"","2020"
+"Capital City Bank Group,"Inc."","Director","Marshall Criser III","Chancellor","State University System of Florida/Florida Board of Governors","2020"
+"Capital City Bank Group,"Inc."","Director","Robert Antoine","Retired Partner","Deloitte & Touche","2020"
+```

@@ -1,0 +1,33 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CB&T Holding Corporation","New Orleans","2022","Gary N. Solomon,"Sr."","Common Stock","31204","18.20%"
+"CB&T Holding Corporation","New Orleans","2022","Martha Newman Solomon","Common Stock","31203","18.20%"
+"CB&T Holding Corporation","New Orleans","2022","Sam Μ. and Gloria S. Newman","Common Stock","29410","17.15%"
+"CB&T Holding Corporation","Omaha","2022","Boston Omaha Investments,"LLC"","Common Stock","26748","15.60%"
+"CB&T Holding Corporation","New Orleans","2022","2020 Martha Newman Solomon Family Trust","Common Stock","16658","9.71%"
+"CB&T Holding Corporation","New Orleans","2022","2020 Gary N. Solomon,"Sr. Family Trust"","Common Stock","16658","9.71%"
+"CB&T Holding Corporation","New Orleans","2022","SMS Capital,"LLC"","Common Stock","14705","8.58%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CB&T Holding Corporation","Owner","Gary N. Solomon,"Sr."","Director & Chairman","Crescent Bank","2022"
+"CB&T Holding Corporation","Entrepreneur","Martha Newman Solomon","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","Trust","Sam M. and Gloria S. Newman","Shareholder","n/a","2022"
+"CB&T Holding Corporation","Subsidiary of Public Holding Company","Boston Omaha Investments,"LLC"","Shareholder","n/a","2022"
+"CB&T Holding Corporation","Trust","2020 Martha Newman Solomon Family Trust","Shareholder","n/a","2022"
+"CB&T Holding Corporation","Trust","2020 Gary N. Solomon,"Sr. Family Trust"","Shareholder","n/a","2022"
+"CB&T Holding Corporation","Limited Liability Corporation","SMS Capital,"LLC"","Shareholder","n/a","2022"
+"CB&T Holding Corporation","Attorney","Robert Redfearn","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","Manager","Brian C. Gibbs","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","President/Vice Chairman","Fred B. Morgan,"III"","Director/President/Vice Chairman","Crescent Bank","2022"
+"CB&T Holding Corporation","President","Gary N. Solomon,"Jr."","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","President/Owner","Sam M. Solomon","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","Investor","Conway S. Solomon","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","Retired","Thomas A. Weslocky","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","CEO/Chairman","Adam K. Peterson","Director","Crescent Bank","2022"
+"CB&T Holding Corporation","Chief Executive Officer","Brian R. Donohue","Chief Executive Officer","Crescent Bank","2022"
+"CB&T Holding Corporation","Chief Financial Officer","Stephen M. Notarianni","Chief Financial Officer/ Treasurer","Crescent Bank","2022"
+```

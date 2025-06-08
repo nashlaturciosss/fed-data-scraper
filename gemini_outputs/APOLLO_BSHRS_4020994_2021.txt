@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Apollo Bancshares,"Inc."","Panama City","2021","Carlos and Alberto Motta","Common Stock","290910","7.72%"
+"Apollo Bancshares,"Inc."","Miami","2021","Eduardo Arriola and Family","Common Stock","209455","7.68%"
+"Apollo Bancshares,"Inc."","Miami","2021","Eduardo Arriola and Family","Options","77650","7.68%"
+"Apollo Bancshares,"Inc."","Miami","2021","Eduardo Arriola and Family","Warrants","9000","7.68%"
+"Apollo Bancshares,"Inc."","Boca Raton","2021","Nicholas Di Tempora","Common Stock","219000","6.15%"
+"Apollo Bancshares,"Inc."","Boca Raton","2021","Nicholas Di Tempora","Options","13649","6.15%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Apollo Bancshares,"Inc."","Director & Chairman","Eduardo Arriola","Chairman & CEO","Inktel Direct Corporation","2021"
+"Apollo Bancshares,"Inc."","Director & Secretary","Richard Dailey","Partner","Dade Systems,"LLP"","2021"
+"Apollo Bancshares,"Inc."","Director","Matthew Adler","Director","AREP Manager,"LLC"","2021"
+"Apollo Bancshares,"Inc."","Director","Robert Elias","Managing Member","The Elias Law Firm,"PLLC"","2021"
+"Apollo Bancshares,"Inc."","Director","William Heffernan","Owner","Culver Road LLC","2021"
+"Apollo Bancshares,"Inc."","Director","Luis Hernandez","Founder & Managing Director","Linq Financial Group","2021"
+"Apollo Bancshares,"Inc."","Director","Leslie Alan Rozencwaig","Managing Partner","Rozencwaig & Nadel,"LLP"","2021"
+"Apollo Bancshares,"Inc."","Director","Carlos Herrera,"Jr."","President","Fenix Contractors,"Inc."","2021"
+"Apollo Bancshares,"Inc."","Vice President","Jeffrey Scheck","Vice President","Scheck Group","2021"
+"Apollo Bancshares,"Inc."","Chairman of the Board","Nicholas Di Tempora","Owner","Yoni Investment","2021"
+"Apollo Bancshares,"Inc."","CFO","Carlos Modia","Member","Darca LLC","2021"
+"Apollo Bancshares,"Inc."","President","Ramon Rodriguez","Director/Manager","Intrepid 43,"LLC"","2021"
+```

@@ -1,0 +1,19 @@
+Here are the extracted CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Charter Financial","Boston","2014","Wellington Management Company,"L.L.C."","Common Stock","2092129","11.46%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Charter Financial","CEO,"Chairman"","Robert L. Johnson","CEO & Chairman,"CharterBank"","n/a","2014"
+"Charter Financial","Director","Jane W. Darden","Director,"CharterBank"","n/a","2014"
+"Charter Financial","Director","David L. Strobel","Director,"CharterBank"","Shannon,"Strobel & Weaver"","2014"
+"Charter Financial","Director","Thomas M. Lane","Director,"CharterBank"","n/a","2014"
+"Charter Financial","Director","David Z. Cauble,"III"","Director,"CharterBank"","n/a","2014"
+"Charter Financial","Director","Curti M. Johnson","SVP,"CFO","CharterBank"","n/a","2014"
+"Charter Financial","Director","Edward D. Smith","Director,"CharterBank"","Hutchinson-Traylor Insurance","2014"
+"Charter Financial","CFO","Curtis R. Kollar","CFO,"CharterBank"","n/a","2014"
+"Charter Financial","n/a","Lee Washam","President,"CharterBank"","n/a","2014"
+```

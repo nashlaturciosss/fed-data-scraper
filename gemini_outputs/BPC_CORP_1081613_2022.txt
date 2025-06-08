@@ -1,0 +1,39 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BPC Corporation","Monterey","2022","2006 Jack P. Ray (b) (c)
+"Irrevocable Succession Trust"","n/a","0","57.2607%"
+"BPC Corporation","Monterey","2022","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","100848","42.7380%"
+"BPC Corporation","Cookeville","2022","Elizabeth Ann Ray Fournet (b) (c)","n/a","100850","0.0000%"
+"BPC Corporation","Cookeville","2022","Elizabeth Ann Ray Fournet","n/a","0","0.0013%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BPC Corporation","Director
+Chairman of the
+"Board"","Elizabeth Ray Fournet","Director
+Chairman of the
+"Board"","One Bank of Tennessee","2022"
+"BPC Corporation","Director
+Vice Chairman of
+"the Board"","Ammon Hitchcock","Vice Chairman of
+"the Board"","One Bank of Tennessee","2022"
+"BPC Corporation","Director
+"President/CEO"","David Kinchler","President / CEO","One Bank of Tennessee","2022"
+"BPC Corporation","Director
+"EVP/CFO"","Gary Medley","EVP/CFO","One Bank of Tennessee","2022"
+"BPC Corporation","Director
+"EVP/CCO Emeritus"","Gerry Whitehead","EVP/CCO Emeritus","One Bank of Tennessee","2022"
+"BPC Corporation","EVP/COO","Jonathan Medley","EVP/COO","One Bank of Tennessee","2022"
+"BPC Corporation","Director","Norman Copeland","Director","Old Baker Coal Co","2022"
+"BPC Corporation","Director","Randy Bond","Director","n/a","2022"
+"BPC Corporation","Director","William T. Hitchcock","Director","Gearhiser,"Peters","Elliott &"
+"Cannon","PLLC"","2022"
+"BPC Corporation","Director","Randy York","n/a","Moorer,"Rader","Fitzpatrick","& York","PC"","2022"
+"BPC Corporation","Director","Thomas Jones","n/a","Research Electronics Int'l,""
+"LLC"","2022"
+"BPC Corporation","Director","Brenda Allred","n/a","Buckeye Quality Home
+"Health Agency Inc"","2022"
+```

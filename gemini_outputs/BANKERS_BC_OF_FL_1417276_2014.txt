@@ -1,0 +1,20 @@
+"Here are the two CSV tables extracted from the provided document","adhering to the specified formatting and instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bankers' Bancorporation of Florida,"Inc."","n/a","2014","N/A","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankers' Bancorporation of Florida,"Inc."","Director","Gregory W. Bryant","Director","Bay Cities Bank","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director","F. Wilson Carraway,"III"","Director","Farmers and Merchants Bank","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director","Bruce Keir","Director","Community Bank of Broward","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director\nVice Chairman","John M. Reich","Director\nVice Chairman","FDIC","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director","Kennard L. Page","Director","n/a","2014"
+"Bankers' Bancorporation of Florida,"Inc."","n/a","Charles Murphy","Bank Director","The Bank of Commerce","2014"
+"Bankers' Bancorporation of Florida,"Inc."","President & CEO\nDirector","James H. McKillop III","President & CEO\nDirector","Select\nSource","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director\nChairman","John E. Tranter","Director\nChairman","Gulfstream Business Bank","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Director","Thomas H. Dargan","Director","Floridian Bank","2014"
+"Bankers' Bancorporation of Florida,"Inc."","Secretary","Diane Blangsted","S.V.P. Secretary","Independent Bankers' Bank\nof Florida","2014"
+```

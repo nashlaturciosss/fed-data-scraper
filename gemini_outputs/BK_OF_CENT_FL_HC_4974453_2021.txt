@@ -1,0 +1,25 @@
+Here are the two tables extracted from the document as requested in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bank of Central Florida Holding Company","Lakeland","2021","Wesley L. Beck","Common Stock","228742","8.35%"
+"Bank of Central Florida Holding Company","Lakeland","2021","Paul J. Noris","Common Stock","273355","9.46%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank of Central Florida Holding Company","Director","Howard D. Bayless","Director","Marcobay Construction,"Inc."","2021"
+"Bank of Central Florida Holding Company","Director","Wesley L. Beck","Director","BecKryger Capital Partners","2021"
+"Bank of Central Florida Holding Company","Director","Virginia C. Harris","Director","Virginia C Harris,"P.A."","2021"
+"Bank of Central Florida Holding Company","Director","M. Clayton Hollis,"Jr."","Executive Director","Hollis Family Partnership","2021"
+"Bank of Central Florida Holding Company","Director","Steven T. Moore","Director","UBS Properties","2021"
+"Bank of Central Florida Holding Company","Chairman,"President & CEO"","Paul J. Noris","Chairman,"President & CEO"","n/a","2021"
+"Bank of Central Florida Holding Company","Director","J. Greg Ruthven","Director","Ruthven Family Limited Partnership II","2021"
+"Bank of Central Florida Holding Company","Director","Carl Strang,"III"","CEO","Six/Ten,"LLC"","2021"
+"Bank of Central Florida Holding Company","Director","Tracy A. Wilson","Director","Marriott International","2021"
+"Bank of Central Florida Holding Company","Executive Vice President","James V. Dugger","Executive Vice President","n/a","2021"
+"Bank of Central Florida Holding Company","Executive Vice President","Joseph Furnari","Executive Vice President","n/a","2021"
+"Bank of Central Florida Holding Company","Executive Vice President","Michelle R Netwal","Executive Vice President","n/a","2021"
+"Bank of Central Florida Holding Company","Executive Vice President","Robert R. Wedlock","Executive Vice President","n/a","2021"
+"Bank of Central Florida Holding Company","President","David Moore","President","n/a","2021"
+```

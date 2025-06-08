@@ -1,0 +1,18 @@
+Here are the two tables in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Commerce Bancshares,"Inc."","Northbrook","2017","Bixby Bridge Financial Trust,","Common Stock","4271335","99.98%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Commerce Bancshares,"Inc."","Director and CEO","David A. Tate","Director and CEO","American Commerce Bank N. A.","2017"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","Chairman,"Director"","American Commerce Bank N. A.","2017"
+"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","Director","n/a","2017"
+"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","Director and Marketing Coordinator","American Commerce Bank N. A.","2017"
+"American Commerce Bancshares,"Inc."","Director","J. William Richardson","Director","n/a","2017"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Director","n/a","2017"
+"American Commerce Bancshares,"Inc."","Director","John Steele","Director","n/a","2017"
+"American Commerce Bancshares,"Inc."","Treasurer","Robert Koncerak","Chief Financial Officer,"Chief Risk Officer"","American Commerce Bank N. A.","2017"
+```

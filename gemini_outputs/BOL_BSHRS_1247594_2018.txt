@@ -1,0 +1,14 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOL BANCSHARES,"INC"","Slidell","2018","G. Harrison Scott","Common Stock","117480","65.58%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOL BANCSHARES,"INC"","Director,"Chairman &"","G. Harrison Scott","Director,"Chairman & President"","Bank of Louisiana","2018"
+"BOL BANCSHARES,"INC"","Director","Johnny C. Crow","Director","Bank of Louisiana","2018"
+"BOL BANCSHARES,"INC"","Director","Sharry R. Scott","Director","Bank of Louisiana","2018"
+"BOL BANCSHARES,"INC"","Director & President,"CEO"","A. Glenn Geddis","Director & President","Bank of Louisiana","2018"
+```

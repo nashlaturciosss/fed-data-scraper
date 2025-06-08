@@ -1,0 +1,11 @@
+Here are the two requested tables in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Georgia Banking Company","Cochran","2023","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Georgia Banking Company","President","Jackie Bowen","n/a","n/a","2023"
+```

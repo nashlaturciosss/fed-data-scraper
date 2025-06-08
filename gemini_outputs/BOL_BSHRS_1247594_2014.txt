@@ -1,0 +1,14 @@
+Here are the two tables extracted from the document as requested.
+### SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOL Bancshares,"Inc"","Slidell","2014","G. Harrison Scott","Common Stock","112703","62.91%"
+```
+### INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOL Bancshares,"Inc"","n/a","G. Harrison Scott","Director,"Chairman & President"","Bank of Louisiana","2014"
+"BOL Bancshares,"Inc"","Insurance Agent","Johnny C. Crow","Director","Bank of Lousiana","2014"
+"BOL Bancshares,"Inc"","Assistant Attorney General","Sharry R. Scott","Director","Bank of Louisiana","2014"
+"BOL Bancshares,"Inc"","n/a","Carlos J. Savona","Director","Bank of Louisiana","2014"
+```

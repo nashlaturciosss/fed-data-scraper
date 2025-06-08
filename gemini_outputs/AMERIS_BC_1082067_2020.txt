@@ -1,0 +1,34 @@
+"Here are the two requested CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Ameris Bancorp","New York","2020","BlackRock,"Inc"","Common Stock","10239597","14.72%"
+"Ameris Bancorp","Malvern","2020","The Vanguard Group","Common Stock","6916059","9.95%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Ameris Bancorp","Director","William I. Bowen,"Jr."","Director of Ameris Bank","Bowen Donaldson Home for Funerals","2020"
+"Ameris Bancorp","Director","Rodney D. Bullard","Director of Ameris Bank","Chick-fil-A,"Inc."","2020"
+"Ameris Bancorp","Director","Wm. Millard Choate","Director of Ameris Bank","Choate Construction Company","2020"
+"Ameris Bancorp","Director","R. Dale Ezzell","Director of Ameris Bank","Wisecards Printing and Mailing","2020"
+"Ameris Bancorp","Lead Independent Director","Leo J. Hill","Director of Ameris Bank","Advisor Network Solutions,"LLC"","2020"
+"Ameris Bancorp","Director","Daniel B. Jeter","Director of Ameris Bank","Standard Discount Corporation","2020"
+"Ameris Bancorp","Director","Robert P. Lynch","Director of Ameris Bank","Lynch Management Company","2020"
+"Ameris Bancorp","Director","Elizabeth A. McCague","Director of Ameris Bank","McCague & Company,"LLC"","2020"
+"Ameris Bancorp","Executive Chairman","James B. Miller Jr.","Executive Chairman of Ameris Bank","Interface Inc.","2020"
+"Ameris Bancorp","Director","Gloria A. O'Neal","Director of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Director","William H. Stern","Director of Ameris Bank","Stern & Stern and Associates","2020"
+"Ameris Bancorp","Director","Jimmy D. Veal","Director of Ameris Bank","Beachview Tent Rentals,"Inc."","2020"
+"Ameris Bancorp","Director and Chief Executive Officer","H. Palmer Procter,"Jr."","Director and Chief Executive Officer of Ameris Bank","Brevard Holdings,"LLC"","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Banking Officer","Lawton E. Bassett,"III"","Executive Vice President and Chief Banking Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Innovation Officer","Ross L. Creasy","Executive Vice President and Chief Innovation Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Credit Officer","Jon S. Edwards","Executive Vice President and Chief Credit Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Strategy Officer","James A. LaHaise","Executive Vice President and Chief Strategy Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President,"Chief Administrative Officer","and Corporate Secretary."","Cindi H. Lewis","Executive Vice President,"Chief Administrative Officer","and Corporate Secretary of Ameris Bank"","Ameris Sub Holding Co.,"Inc."","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Risk Officer","William D. McKendry","Executive Vice President and Chief Risk Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Governance Officer","Michael T. Pierson","Executive Vice President and Chief Governance Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Specialty Banking Officer","R. Todd Shutley","Executive Vice President and Chief Specialty Banking Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Legal Officer","Jody L. Spencer","Executive Vice President and Chief Legal Officer of Ameris Bank","n/a","2020"
+"Ameris Bancorp","Corp. Executive Vice President and Chief Financial Officer","Nicole S. Stokes","Executive Vice President and Chief Financial Officer of Ameris Bank","Ameris Sub Holding Co.,"Inc."","2020"
+```

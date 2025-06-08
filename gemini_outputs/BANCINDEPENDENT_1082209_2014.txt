@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancIndependent,"Incorporated"","Leighton","2014","CLAUDE EDWARD FELTON","n/a","11400","6.34%"
+"BancIndependent,"Incorporated"","n/a","2014","MPEFM II LIMITED PARTNERSHIP","n/a","71655","39.82%"
+"BancIndependent,"Incorporated"","Sheffield","2014","EDWARD FENNEL MAULDIN,"JR","LEONARD PREUIT MAULDIN AND/OR MACKE MAULDIN"","n/a","n/a","n/a"
+"BancIndependent,"Incorporated"","Florence","2014","LEONARD PREUIT MAULDIN","n/a","15752","8.75%"
+"BancIndependent,"Incorporated"","Florence","2014","MACKE BUCHANAN MAULDIN","n/a","12938","7.19%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancIndependent,"Incorporated"","CEO/CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","n/a","MPEFM II,"LP"","2014"
+"BancIndependent,"Incorporated"","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","ROY S. STEVENS","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","RONNIE FLIPPO","n/a","R.G. FLIPPO & ASSOCIATES","2014"
+"BancIndependent,"Incorporated"","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","JOSEPH F. COBB","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","CHARLES SASSER","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","n/a","MPEFMII LIMITED PARTNERSHIP","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","EXECUTIVE VICE PRESIDENT AND CFO","RICHARD WARDLAW","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","EXECUTIVE VICE PRESIDENT","DON MILLER","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","JOANN BECK","n/a","n/a","2014"
+"BancIndependent,"Incorporated"","DIRECTOR","ALLAN NEILL","n/a","EVP-SERVICE PARTNERS,"LLC"","2014"
+```

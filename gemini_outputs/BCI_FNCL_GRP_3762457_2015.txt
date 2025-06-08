@@ -1,0 +1,15 @@
+Here are the tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BCI FINANCIAL GROUP,"INC."","Santiago","2015","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+"BCI FINANCIAL GROUP,"INC."","Madrid","2015","Bankia Inversiones Financieras S.A.U.","Common Stock","927345444","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","n/a","City National Bank","2015"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Eugenio Von Chrismar","n/a","City National Bank","2015"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Maria Grisel Vega","n/a","City National Bank","2015"
+"BCI FINANCIAL GROUP,"INC."","Secretary","S. Marshall Martin","n/a","Ridgemark Holdings LLC","2015"
+```

@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BASILE BANCSHARES,"INC."","Basile","2022","Thomas C. Arceneaux","Common Stock","16531","14.73%"
+"BASILE BANCSHARES,"INC."","Basile","2022","Paul J. Baquet","Common Stock","16370","14.58%"
+"BASILE BANCSHARES,"INC."","Basile","2022","William J. Johnson","Common Stock","18874","16.80%"
+"BASILE BANCSHARES,"INC."","Basile","2022","Todd Marcantel","Common Stock","15889","14.16%"
+"BASILE BANCSHARES,"INC."","Basile","2022","Brian P. Launey","Common Stock","16032","14.29%"
+"BASILE BANCSHARES,"INC."","Basile","2022","Kevin C. Latiolais","Common Stock","16032","14.29%"
+"BASILE BANCSHARES,"INC."","Basile","2022","Richard C. Fontenot","Common Stock","13800","12.30%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BASILE BANCSHARES,"INC."","Director/CEO","William J. Johnson","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Thomas C. Arceneaux","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Paul J. Baquet","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Todd Marcantel","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Brian P. Launey","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Kevin C. Latiolais","n/a","n/a","2022"
+"BASILE BANCSHARES,"INC."","Director","Richard C. Fontenot","n/a","n/a","2022"
+```

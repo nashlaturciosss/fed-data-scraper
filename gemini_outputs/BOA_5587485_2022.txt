@@ -1,0 +1,20 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","following all your instructions precisely:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOA Financial Corporation","Baton Rouge","2022","Paula B. Siegel","n/a","n/a","24.54%"
+"BOA Financial Corporation","Lafayette","2022","Michael P. Broussard,"Jr."","n/a","n/a","24.39%"
+"BOA Financial Corporation","Abbeville","2022","Michael P. Broussard","Chairman of the Board","Confidential","17.08%","Confidential"
+"BOA Financial Corporation","Maurice","2022","Julie B. Guillot","n/a","n/a","11.28%"
+"BOA Financial Corporation","Abbeville","2022","Andree B. Freeland","n/a","n/a","10.72%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOA Financial Corporation","President","Michael P. Broussard,"Jr."","President and Chief Executive Officer","See","2022"
+"BOA Financial Corporation","Chairman of the Board","Michael P. Broussard","Chairman of the Board","Confidential","2022"
+"BOA Financial Corporation","n/a","Julie B. Guillot","Assistant Vice President Senior Loan Processor","Section","2022"
+"BOA Financial Corporation","n/a","Andree B. Freeland","Assistant Vice President","None - Bank of Abbeville","2022"
+```

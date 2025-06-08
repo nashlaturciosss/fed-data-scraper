@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2017","Estate of Robert H. Smith","Common Stock","2630242","15.48%"
+"Capital City Bank Group,"Inc."","Tallahassee","2017","William G. Smith,"Jr."","Common Stock","3547248","20.88%"
+"Capital City Bank Group,"Inc."","Tallahassee","2017","2S Partnerhip","Common Stock","1049361","6.18%"
+"Capital City Bank Group,"Inc."","New York","2017","BlackRock Instituitional Trust Company,"N.A."","Common Stock","860854","5.08%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Partner","2 S Partnership","2017"
+"Capital City Bank Group,"Inc."","n/a","Estate of Robert H. Smith","Trustee","Elizabeth D. Barron","2017"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Elizabeth D. Barron","2017"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","I. Kimbrough Davis","Trustee","CCBG 401K Retirement Plan & Defined Benefit Pension Plan","2017"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2017"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2017"
+"Capital City Bank Group,"Inc."","Vice President","John K. Humphress","Partner","Wadsworth,"Humphress & Hollar","P.A."","2017"
+"Capital City Bank Group,"Inc."","President","Henry Lewis III","President","Tuskegee Homes,"LLC"","2017"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","President/CEO","Bense Enterprises,"Inc."","2017"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2017"
+"Capital City Bank Group,"Inc."","n/a","Stanley Connally,"Jr."","Chairman/President/CEO","Gulf Power Company","2017"
+"Capital City Bank Group,"Inc."","Director","Eric Grant","President","Municipal Code Corporation","2017"
+"Capital City Bank Group,"Inc."","Director","Laura Johnson","President","Cotton Colors Express,"LLC."","2017"
+```

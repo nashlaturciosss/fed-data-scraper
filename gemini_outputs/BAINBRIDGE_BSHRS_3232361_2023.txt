@@ -1,0 +1,25 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","following all the specified instructions and formatting guidelines:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2023","William R. Cox,"Sr."","n/a","123824","12.456%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2023","Winston Brock","n/a","70541","7.096%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2023","Greg Calhoun","n/a","56875","5.721%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2023","Terril Scott","n/a","56250","5.658%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"First National Bank","Director,"Chairman","& Treasurer"","Charles Whittaker","Director & Chairman","Dowdy & Whittaker,"CPA"","2023"
+"First National Bank","Director & Secretary","Roger Mills","Director of First National Bank","Roger L. Mills,"DMD"","2023"
+"First National Bank","Director","Winston Brock Jr.","Director of First National Bank","RX Drugs,"Inc."","2023"
+"First National Bank","Director","Edgar M. Robinson","Director of First National Bank","Peoples Loan Service,"Inc."","2023"
+"First National Bank","Director","Landin Marzolf","Director of First National Bank","L&K Chiropractic Services,"LLC"","2023"
+"First National Bank","Director","Greg Calhoun","Director of First National Bank","Circle C Farms","2023"
+"First National Bank","Director","Glennie Bench","Director of First National Bank","Total Petroleum,"LLC"","2023"
+"First National Bank","Director","Donald Barber","Director of First National Bank","Barber Fertilizer Supply","2023"
+"First National Bank","CFO & Secretary","Donna Kelley","Director of First National Bank","n/a","2023"
+"First National Bank","CEO/President & Director","Brad E. Barber","CEO/President & Director","n/a","2023"
+"First National Bank","None","William R. Cox Sr.","None","WRC Enterprises,"LLC"","2023"
+"First National Bank","Director","Tim Smith","None","Tim Smith & Associates,"Inc."","2023"
+```

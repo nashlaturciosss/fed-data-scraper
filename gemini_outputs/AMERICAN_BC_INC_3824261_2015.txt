@@ -1,0 +1,19 @@
+"Okay","I can do that. Here are the two CSV tables extracted from the provided document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancorp,"Inc."","Macon","2015","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancorp,"Inc."","Director & President","John Hall","Director,"President & CEO"","American Pride Bank","2015"
+"American Bancorp,"Inc."","Director & Chairman","Dilipkumar Patel","Director & Chairman","American Pride Bank","2015"
+"American Bancorp,"Inc."","Vice Chairman","Michael Gilstrap","Director & Vice-Chairman","American Pride Bank","2015"
+"American Bancorp,"Inc."","Director","Ajitkumar Patel","Director","n/a","2015"
+"American Bancorp,"Inc."","Director","Bhagu Patel","Director","n/a","2015"
+"American Bancorp,"Inc."","Director","Dipesh Patel","Director","n/a","2015"
+"American Bancorp,"Inc."","Director","Maneklal Patel","Director","n/a","2015"
+"American Bancorp,"Inc."","Director","Rasikbhai Patel","Director","n/a","2015"
+"American Bancorp,"Inc."","Treasurer","Brian Hawkins","EVP & CFO","American Pride Bank","2015"
+```

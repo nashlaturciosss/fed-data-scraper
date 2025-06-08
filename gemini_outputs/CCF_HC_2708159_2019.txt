@@ -1,0 +1,26 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Heritage Southeast Bancorporation","Fort Lauderdale","2019","Kenneth R. Lehman","Common Stock","3069241","42.12%"
+"Heritage Southeast Bancorporation","Fayetteville","2019","Brent Scarbrough,"etal"","Common Stock","404045","5.55%"
+"Heritage Southeast Bancorporation","Burr Ridge","2019","Philip J. Timyan","Common Stock","278892","8.79%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Heritage Southeast Bancorporation","Non-Executive Chairman","Kenneth R. Lehman","Non-Executive Chairman","See Attached Exhibit ""A""","2019"
+"Heritage Southeast Bancorporation","Director","Jeffery L. Arnold","Director","Jeffery L. Arnold PC (100%)","2019"
+"Heritage Southeast Bancorporation","Director","Roy V. Hall","Director","RV Hall,"Inc. (100%)"","2019"
+"Heritage Southeast Bancorporation","Director","John E. Mansour","Director","Hydrolive Holdings,"LLC (100%)"","2019"
+"Heritage Southeast Bancorporation","CEO,"Director"","Leonard R Moreland","CEO,"Director"","n/a","2019"
+"Heritage Southeast Bancorporation","Director","John M. Presley","Director","n/a","2019"
+"Heritage Southeast Bancorporation","Director","David H. Rupp","Director","Movement Bank","2019"
+"Heritage Southeast Bancorporation","President","Brian L. Smith","President","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Bradley P. Serff","n/a","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Melissa A. Deal","n/a","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Paul R. Hoerig","n/a","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Howard B. Lipham,"III"","n/a","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Philip F. Resch","n/a","n/a","2019"
+"Heritage Southeast Bancorporation","n/a","Katherine S. Zovlonsky","n/a","n/a","2019"
+```

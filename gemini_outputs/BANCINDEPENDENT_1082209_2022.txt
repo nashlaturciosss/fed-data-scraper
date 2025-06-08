@@ -1,0 +1,27 @@
+Here are the two tables in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bancindependent,"Incorporated"","Leighton","2022","CLAUDE EDWARD FELTON","n/a","11400","6.53%"
+"Bancindependent,"Incorporated"","Sheffield","2022","MPEFM II LIMITED PARTNERSHIP","n/a","71805","41.16%"
+"Bancindependent,"Incorporated"","Florence","2022","LEONARD PREUIT MAULDIN","n/a","14500","8.31%"
+"Bancindependent,"Incorporated"","Florence","2022","MACKE BUCHANAN MAULDIN","n/a","9810","5.62%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bancindependent,"Incorporated"","CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","n/a","MPEFM II,"LP"","2022"
+"Bancindependent,"Incorporated"","CEO OF BANCINDEPENDENT,"INC /PRESIDENT & DIRECTOR"","MACKE B. MAULDIN","n/a","MPEFM II,"LP"","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","RONNIE FLIPPO","PRESIDENT-R.G. FLIPPO & ASSOCIATES","R.G. FLIPPO & ASSOCIATES","2022"
+"Bancindependent,"Incorporated"","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","n/a","MPEFM II LP","2022"
+"Bancindependent,"Incorporated"","n/a","MPEFMII LIMITED PARTNERSHIP","n/a","NONE","2022"
+"Bancindependent,"Incorporated"","n/a","MAULDIN DYNASTY TRUST","n/a","NONE","2022"
+"Bancindependent,"Incorporated"","CEO OF BANK INDEPENDENT CFO/DIRECTOR","RICHARD WARDLAW","n/a","NONE","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","DON MILLER","n/a","NONE","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","STEPHEN RABY","PRESIDENT & 100% OWNER-HUNTSVILLE DIRECT COMMUNICATIONS","HUNTSVILLE DIRECT COMMUNICATIONS","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","ALLAN NEILL","PRESIDENT & 100% OWNER-BIG RIVER TOWERS,"INC.F"","BIG RIVER TOWERS,"INC.F"","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","PAUL WALLACE","PLWI,"LLC 75% OWNER"","SHOALS","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","VANESSA MORSE","SAGE DEVELOPMENT FUND,"50% OWNER"","SAGE DEVELOPMENT FUND","2022"
+"Bancindependent,"Incorporated"","DIRECTOR","LUCY TROUSDALE","50% OWNER HONEYSUCKLE HILL FARM,"LP"","HONEYSUCKLE HILL FARM,"LP"","2022"
+"Bancindependent,"Incorporated"","EXECUTIVE VICE PRESIDENT","PENNY CAMP","NONE","NONE","2022"
+```

@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Brantley Bancorp,"Inc."","Brentwood","2016","Abbie Lou Bryan","Common Stock","2729","16.88%"
+"Brantley Bancorp,"Inc."","Brantley","2016","James H. Hollis,"Jr."","Common Stock","2270","14.05%"
+"Brantley Bancorp,"Inc."","Brantley","2016","J.H. Hollis,"Sr.GST for James H. Hollis","Jr."","Common Stock","800","4.95%"
+"Brantley Bancorp,"Inc."","Brentwood","2016","J.H. Hollis,"Sr. GST for Abbie Lou Bryan"","Common Stock","800","4.95%"
+"Brantley Bancorp,"Inc."","Brantley","2016","Hollis Family Trust #1","Common Stock","153",".95%"
+"Brantley Bancorp,"Inc."","Brantley","2016","Hollis Family Trust #2","Common Stock","77",".48%"
+"Brantley Bancorp,"Inc."","Brentwood","2016","Trust FBO James Bryan","shares","445","2.75%"
+"Brantley Bancorp,"Inc."","Brentwood","2016","Trust FBO Joseph Bryan,"Jr."","shares","446","2.76%"
+"Brantley Bancorp,"Inc."","Brentwood","2016","J.H.Hollis,"Sr. GST for Abbie Lou Bryan"","Common Stock","800","4.95%"
+"Brantley Bancorp,"Inc."","Mobile","2016","Helen Weed Inge","Common Stock","839","5.19%"
+"Brantley Bancorp,"Inc."","Mobile","2016","Marie Camille Inge USA","Common Stock","41",".25%"
+"Brantley Bancorp,"Inc."","Alpharetta","2016","Mary Jane Norris","Common Stock","838","5.19%"
+"Brantley Bancorp,"Inc."","Brantley","2016","Margaret S. Hollis","Common Stock","2100","13%"
+"Brantley Bancorp,"Inc."","Birmingham","2016","Margaret H. Hayslip","Common Stock","1090","7.36%"
+"Brantley Bancorp,"Inc."","Birmingham","2016","Margaret Loraine Hayslip","Common Stock","100",".62%"
+"Brantley Bancorp,"Inc."","Marietta","2016","Elizabeth H. Walker","Common Stock","890","5.51%"
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Brantley Bancorp,"Inc."","Chairman","James H. Hollis,"Jr."","Director & CEO","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Stuart R. Mash","Director","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Hinton M. Walden","Director","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Stuart R. Mash,"Jr."","Vice President & Cashier","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Mary Jane Norris","Director","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Margaret S. Hollis","Director","Brantley Bank & Trust Co.","2016"
+"Brantley Bancorp,"Inc."","n/a","Abbie Lou Bryan","Stockholder","Brantley Bancorp,"Inc."","2016"
+"Brantley Bancorp,"Inc."","n/a","Douglas Turman","Secretary & President","Brantley Bank & Trust","2016"
+```

@@ -1,0 +1,20 @@
+"Here are the two tables","extracted from the document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CFB Bancshares,"Inc."","Oak Ridge","2015","James Wilson","Common Stock","23718","6%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Citizens First Bank","Director","Mitchell Dyer","Owner","M&G Precision Machinery","2015"
+"Citizens First Bank","Director","David Goodman","Sole Proprietor","Goodman Farms","2015"
+"Citizens First Bank","Director","Joe Cross","n/a","n/a","2015"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","VJ's Exxon","2015"
+"Citizens First Bank","Director","Steve Smith","Pres. & Director","Smith & Smith,"P.C."","2015"
+"Citizens First Bank","Director & Chairman","James F. Wilson","Pres. & Chair.","Wilson & Brooks,"P.C."","2015"
+"Citizens First Bank","Director & President","Billy Rice","General Partner","HLR Investors","2015"
+"Citizens First Bank","Director & CFO","Wendell Langley","General Partner","HLR Investors","2015"
+"Citizens First Bank","Director","Larry D Williams","Sole Proprietor","Tubby's Construction","2015"
+"Citizens First Bank","Secretary","Elizabeth Maden","n/a","n/a","2015"
+```

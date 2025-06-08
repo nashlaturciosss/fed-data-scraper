@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankSouth Holding Company","Greensboro","2016","Marguerite Mclnteer","n/a","3959","23.60%"
+"BankSouth Holding Company","Greensboro","2016","Harold Reynolds","n/a","5423","32.34%"
+"BankSouth Holding Company","Greensboro","2016","James Reynolds IV","n/a","2669","15.92%"
+"BankSouth Holding Company","Greensboro","2016","Frances Strickland","n/a","2978","17.76%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankSouth Holding Company","Chairman","Marguerite McInteer","n/a","Jackson Quarter - Partner","2016"
+"BankSouth Holding Company","n/a","Harold Reynolds","Director","44 Holdings-Chairman","2016"
+"BankSouth Holding Company","n/a","Harold Reynolds","Director","Reynolds Development Company-President","2016"
+"BankSouth Holding Company","n/a","Harold Reynolds","Director","Timber Ridge Properties,"Inc.-Director"","2016"
+"BankSouth Holding Company","n/a","Harold Reynolds","Director","44 Assurance - Chair & Treas.","2016"
+"BankSouth Holding Company","n/a","James Reynolds IV","Director","Jackson Quarter - Partner","2016"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","n/a","Jackson Quarter - Partner","2016"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","n/a","Ward Place - Partner","2016"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","n/a","Timber Ridge - Partner","2016"
+"BankSouth Holding Company","Vice President","James Reynolds III","n/a","Bent Tree,"LLC-Single Member"","2016"
+"BankSouth Holding Company","Vice President","James Reynolds III","n/a","Rooty Creek,"LLC (Bent Tree","LLC"","2016"
+```

@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCF Holding Company","Forsyth","2016","David B. Turner","Common Stock","270451","5.21%"
+"CCF Holding Company","Forsyth","2016","David B. Turner","Options","409089","7.31%"
+"CCF Holding Company","Jonesboro","2016","John T. Mitchell","Common Stock","257517","4.96%"
+"CCF Holding Company","Jonesboro","2016","John T. Mitchell","Options","368870","6.63%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCF Holding Company","Director","Stephen E. Boswell","Director","Stephen E. Boswell PC","2016"
+"CCF Holding Company","Director","John C. Bowdoin","Director","n/a","2016"
+"CCF Holding Company","Director","Michael Burt","Director","Life & Money Matters (non-profit)","2016"
+"CCF Holding Company","n/a","Dick Florin","Director","n/a","2016"
+"CCF Holding Company","n/a","Dennis Gilmer","Director","n/a","2016"
+"CCF Holding Company","Director & Secretary","Roy V. Hall","Director","Macedonian Call Foundation,"Inc."","2016"
+"CCF Holding Company","Director & Chairman","Edwin S. Kemp,"Jr."","Attorney","Edwin S. Kemp,"Jr. Attorney"","2016"
+"CCF Holding Company","Director","John T. Mitchell","Director","Adams-Mitchell Realty,"Inc."","2016"
+"CCF Holding Company","President & CEO - Director","Leonard A. Moreland","CEO; Director","n/a","2016"
+"CCF Holding Company","n/a","C. T. ""Tommy"" Segers","Director","n/a","2016"
+"CCF Holding Company","Director","David B. Turner","Chairman of the Board","n/a","2016"
+"CCF Holding Company","Sr. VP","Shirley Etheridge","Sr. VP","n/a","2016"
+"CCF Holding Company","Sr. VP & CFO","Mary Jo Jester","EVP & CFO","Jester Rentals,"Inc."","2016"
+"CCF Holding Company","Sr. VP","Howard B. ""Rocky"" Lipham,"III"","President","n/a","2016"
+"CCF Holding Company","Sr. VP","Edith W. Stevens","Sr. VP","n/a","2016"
+"CCF Holding Company","Sr. VP","John Westervelt","EVP","Clayton County Water Authority","2016"
+"CCF Holding Company","Sr. VP","Kathy Zovlonsky","Sr. VP","n/a","2016"
+```

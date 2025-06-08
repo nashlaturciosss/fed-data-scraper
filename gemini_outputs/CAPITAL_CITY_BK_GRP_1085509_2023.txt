@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2023","William G. Smith,"Jr."","Common Stock","2915258","17.2%"
+"Capital City Bank Group,"Inc."","New York","2023","Black Rock,"Inc."","Common Stock","1787882","10.6%"
+"Capital City Bank Group,"Inc."","Austin","2023","Dimensional Fund Advisors,"L.P."","Common Stock","850987","5.0%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","Smith Interests General Partnership","2023"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","Jeptha E. Larkin","Executive Vice President Chief Financial Officer","n/a","2023"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Trustee","Ellen Metler Moose Head Ranch Trust","2023"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2023"
+"Capital City Bank Group,"Inc."","Director","Stanley Connally,"Jr."","EVP-Operations","Southern Company,"Inc."","2023"
+"Capital City Bank Group,"Inc."","President","Eric Grant","Director","Civic Plus","2023"
+"Capital City Bank Group,"Inc."","President","Laura Johnson","President","Coton Colors Company,"LLC"","2023"
+"Capital City Bank Group,"Inc."","President","Marshall Criser III","President","Piedmont University","2023"
+"Capital City Bank Group,"Inc."","Director","Robert Antoine","Retired Partner","Deloitte & Touche","2023"
+"Capital City Bank Group,"Inc."","Director","William Butler","Managing Member/President","Real Estate Insync. LLC","2023"
+"Capital City Bank Group,"Inc."","Director","Kimberly Crowell","Principal","Kalo Companies","2023"
+"Capital City Bank Group,"Inc."","Director","Ash Williams","Vice Chairman,"Asset Management","Managing Director"","JP Morgan Chase","2023"
+"Capital City Bank Group,"Inc."","Director","Bonnie Davenport","President/Founding Principal","BKJ,"Inc."","2023"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Operating Officer","Beth Corum","Executive Vice President Chief Operating Officer","Tallahassee Memorial Healthcare","2023"
+```

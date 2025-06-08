@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BPC Corporation","Monterey","2014","Jack P. Ray,"Sr."","Common Stock","100847","49.9990%"
+"BPC Corporation","Monterey","2014","Jack P. Ray,"Sr."","Common Stock","0","0.0000%"
+"BPC Corporation","Monterey","2014","2006 Jack P. Ray Irrevocable Succession Trust","Common Stock","0","0.0000%"
+"BPC Corporation","Monterey","2014","2006 Jack P. Ray Irrevocable Succession Trust","Common Stock","907623","49.9990%"
+"BPC Corporation","Monterey","2014","W.T. Ray,"Jr."","Common Stock","100848","49.9995%"
+"BPC Corporation","Monterey","2014","W.T. Ray,"Jr."","Common Stock","907632","49.9995%"
+"BPC Corporation","Cookeville","2014","Elizabeth Ann Ray Fournet 2007 Investment Services Trust","Common Stock","3","0.0015%"
+"BPC Corporation","Cookeville","2014","Elizabeth Ann Ray Fournet 2007 Investment Services Trust","Common Stock","0","0.0000%"
+"BPC Corporation","Cookeville","2014","Elizabeth Ann Ray Fournet","Common Stock","0","0.0000%"
+"BPC Corporation","Cookeville","2014","Elizabeth Ann Ray Fournet","Common Stock","27","0.0015%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BPC Corporation","Director & Chairman of Board","Jack P. Ray,"Sr"","Director","Bank of Putnam County","2014"
+"BPC Corporation","Director","W.T. Ray,"Jr"","Director & Vice President","Bank of Putnam County","2014"
+"BPC Corporation","Director","Elizabeth Ray Fournet","Director of Community Relations","Bank of Putnam County","2014"
+"BPC Corporation","EVP & Chief Financial Officer","GaryL Medley","EVP & Chief Financial Officer","Bank of Putnam County","2014"
+"BPC Corporation","n/a","David Williamson","President & CEO","Bank of Putnam County","2014"
+"BPC Corporation","Director","Doug Parkey","Director","Bank of Putnam County","2014"
+"BPC Corporation","n/a","Norman Copeland","Director","Bank of Putnam County","2014"
+"BPC Corporation","n/a","Randy Bond","Director","Cumberland County Bank","2014"
+"BPC Corporation","n/a","n/a","n/a","n/a","2014"
+```

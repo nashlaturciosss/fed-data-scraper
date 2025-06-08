@@ -1,0 +1,19 @@
+"Okay","here are the two CSV tables extracted from the document","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bank of Erath","Alpine","2017","Charles B. Caldwell II,"Trustee"","n/a","n/a","n/a"
+"Bank of Erath","Thibodaux","2017","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a"
+"Bank of Erath","Abbeville","2017","Paul G. Moresi,"Jr. &"","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank of Erath","Director & Chairman","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2017"
+"Bank of Erath","Director & Executive Vice President","Beth 8. Melebeck","Director,"Executive Vice President"","Treasurer","2017"
+"Bank of Erath","Director","James M. Segura III","Director","Secretary","2017"
+"Bank of Erath","Director","Dr. Howard Alleman","Director","n/a","2017"
+"Bank of Erath","Director","Vernon L. Caldwell III","Director","n/a","2017"
+"Bank of Erath","Director","Paul G. Moresi,"III"","Director","Attorney","2017"
+"Bank of Erath","Director","Charley S. Steen,"III"","Director","Business","2017"
+```

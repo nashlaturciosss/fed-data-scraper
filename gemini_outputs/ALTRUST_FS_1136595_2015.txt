@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc."","Baileyton","2015","Terry Neal & Tressa Walker","Common Stock","300237","6.32%"
+"Altrust Financial Services,"Inc."","Cullman","2015","Robin Cummings","Common Stock","249123","5.24%"
+"Altrust Financial Services,"Inc."","Cullman","2015","Cecil Alan & Amy Walker","Common Stock","281729","5.93%"
+"Altrust Financial Services,"Inc."","Baileyton","2015","Timothy Dudley Walker","Common Stock","257860","5.43%"
+"Altrust Financial Services,"Inc."","n/a","2015","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1145511","24.11%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc."","Director
+Vice Chairman
+"CEO"","Robin Cummings","Director
+"CEO"","Peoples Bank","2015"
+"Altrust Financial Services,"Inc."","Director","George Whit Drake","Director","Attorney-own name","2015"
+"Altrust Financial Services,"Inc."","Director","Noel Jasper Estes","Director","Peoples Bank","2015"
+"Altrust Financial Services,"Inc."","Director
+"Chairman"","Cecil Alan Walker","Director","Walker Brother LTD","2015"
+"Altrust Financial Services,"Inc."","Director
+"Secretary"","Terry Neal Walker","Director
+"Secretary"","Walker Bros. LTD","2015"
+"Altrust Financial Services,"Inc."","Director","Timothy Dudley Walker","Director","Walker Bros. LTD","2015"
+"Altrust Financial Services,"Inc."","Director","Brian Clarke Witcher","Director","South Park Auto Sales","2015"
+"Altrust Financial Services,"Inc."","Director","Candace Nail Hooten","Director","n/a","2015"
+"Altrust Financial Services,"Inc."","CFO","Tomas P. Wilbourne","CFO","Peoples Bank","2015"
+"Altrust Financial Services,"Inc."","n/a","Timothy Williams","Director
+"President"","n/a","2015"
+"Altrust Financial Services,"Inc."","n/a","Clayton R Lee,"II"","Director
+"EVP"","n/a","2015"
+"Altrust Financial Services,"Inc."","n/a","William Kinney","EVP","n/a","2015"
+"Altrust Financial Services,"Inc."","None","Altrust Financial Services,"Inc."","None","None","2015"
+```

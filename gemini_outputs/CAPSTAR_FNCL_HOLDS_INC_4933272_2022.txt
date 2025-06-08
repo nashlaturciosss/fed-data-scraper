@@ -1,0 +1,27 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CapStar Financial Holdings,"Inc"","Nashville","2022","Gaylon M. Lawrence,"Jr."","Common Stock","1156675","5.4%"
+"CapStar Financial Holdings,"Inc"","New York","2022","BlackRock,"Inc."","Common Stock","1682041","7.8%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CapStar Financial Holdings,"Inc"","Director","Toby S. Wilt","Director","Confidential Information","2022"
+"CapStar Financial Holdings,"Inc"","Director","James S. Turner,"Jr."","Director","Confidential Information","2022"
+"CapStar Financial Holdings,"Inc"","Director","L. Earl Bentz","Director","Confidential Information","2022"
+"CapStar Financial Holdings,"Inc"","Director","Thomas Flynn","Director","Flynn Enterprises,"LLC"","2022"
+"CapStar Financial Holdings,"Inc"","Director","Louis A. Green,"III"","Director","Green & Little","2022"
+"CapStar Financial Holdings,"Inc"","Director","Myra Nan Dora Jenne","Director - CapStar Bank","Confidential Information","2022"
+"CapStar Financial Holdings,"Inc"","n/a","Christopher G. Tietz","Chief Credit Officer - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","Director; President and Chief Executive Officer","Timothy K. Schools","Director; President and Chief Executive Officer - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","Director","Stephen B. Smith","Director- CapStar Bank","Haury & Smith Contractors,"Inc."","2022"
+"CapStar Financial Holdings,"Inc"","Director","Sam B. DeVane","Director - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","Director","Valora S. Gurganious","Director - CapStar Bank","Doctors Management,"LLC"","2022"
+"CapStar Financial Holdings,"Inc"","Director","Joelle J. Phillips","Director - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","n/a","Michael J. Fowler","Chief Financial Officer - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","n/a","Kevin L. Lambert","Chief Credit Officer - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","n/a","Jennie O'Bryan","Chief Administrative Officer - CapStar Bank","n/a","2022"
+"CapStar Financial Holdings,"Inc"","n/a","Kenneth E. Webb","Interim Chief Operations and Technology Officer- CapStar Bank","n/a","2022"
+```

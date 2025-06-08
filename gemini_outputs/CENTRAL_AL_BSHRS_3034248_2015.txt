@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Alabama Bancshares,"Inc."","n/a","2015","None","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Alabama Bancshares,"Inc."","n/a","Earl Ryser","Contractor","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Robert M. Barrett","Retired","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Spencer J. Coleman,"Sr. MD"","Physician","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Sheila Spiers","Banker","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Albert Striplin","Finance","KeyFinance Co. Inc. (>5%)ALMA LLC (>5%)Striplin Family LLC (>5%)Twatt LLC (>5%)","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Travis Cosby,"III"","Banker","Trico Financial Services LLC (30%)","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Michael R. Morgan","Banker","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","John R. Williams","Mortgage Lender","Mortgage Corporation of the South","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Johnny M. Carothers,"Jr."","Forester","Baseline Forest Services,"Inc."","2015"
+"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","Banker","n/a","2015"
+"Central Alabama Bancshares,"Inc."","n/a","Brian Barrett","Dentist","n/a","2015"
+```

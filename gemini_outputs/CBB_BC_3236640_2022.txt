@@ -1,0 +1,19 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBB Bancorp","White","2022","Dwain Montgomery","Common Stock","44597","6.46%"
+"CBB Bancorp","Cartersville","2022","Larry Pogue","Common Stock","48247","6.99%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBB Bancorp","Director","David Caswell","Director and President/COO","Century Bank of Georgia","2022"
+"CBB Bancorp","Director","Richard E. Drews,"Jr."","Director and CEO","Century Bank of Georgia","2022"
+"CBB Bancorp","Director","Danny Gilreath","Director","Gilreath Carpet,"Inc."","2022"
+"CBB Bancorp","Director","Thomas Lewis","Director","Century Bank of Georgia","2022"
+"CBB Bancorp","Director","Dwain Montgomery","Director","Century Bank of Georgia","2022"
+"CBB Bancorp","Director","Larry Pogue","Director","Century Bank of Georgia","2022"
+"CBB Bancorp","Director","Ted Perry","Director","Century Bank of Georgia","2022"
+"CBB Bancorp","CFO","William P. Taylor","SVP/CFO","Century Bank of Georgia","2022"
+```

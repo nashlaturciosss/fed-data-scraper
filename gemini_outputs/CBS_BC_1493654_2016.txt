@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS BANC-CORP.","Russellville","2016","Cecil Batchelor","n/a","1200","2.00%"
+"CBS BANC-CORP.","Russellville","2016","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","26.45%"
+"CBS BANC-CORP.","Russellville","2016","John Gregory Batchelor","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2016","John Gregory Batchelor,"Trustee"","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2016","Olivia Batchelor","n/a","422","0.70%"
+"CBS BANC-CORP.","Russellville","2016","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","27.32%"
+"CBS BANC-CORP.","Russellville","2016","Rebecca Batchelor Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2016","Rebecca Batchelor Reeves,"Trustee"","n/a","n/a","n/a"
+"CBS BANC-CORP.","Russellville","2016","John Bradley Reeves","n/a","n/a","n/a"
+"CBS BANC-CORP.","Birmingham","2016","Donald M. James*","n/a","2679","4.47%"
+"CBS BANC-CORP.","Russellville","2016","Sarah Graves*","n/a","2174","3.62%"
+"CBS BANC-CORP.","Tuscumbia","2016","Olivia J. Wages*","n/a","2126","3.54%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS BANC-CORP.","Chairman Emeritus Board of Directors","Mr. Cecil Batchelor","Chairman Emeritus Board of Directors","Cecil Batchelor and Claude Sparks,"Partnership (50%)"","2016"
+"CBS BANC-CORP.","Shareholder","Cecil & Olivia Batchelor Family Limited Partnership","n/a","n/a","2016"
+"CBS BANC-CORP.","Shareholder","Olivia & Cecil Batchelor Family Limited Partnership","n/a","n/a","2016"
+"CBS BANC-CORP.","President & CEO","Mr. Dennis Upchurch","President & CEO","n/a","2016"
+"CBS BANC-CORP.","Investor","Mr. Greg Batchelor","Chairman","Batchelor & Company,"Inc. (50%)"","2016"
+"CBS BANC-CORP.","Investor","Mr. Brad Reeves","Member","Dependable True Value Hardware,"Inc. (50%)"","2016"
+"CBS BANC-CORP.","Vice-Chairman and Chairman Elect","Mrs. Rebecca Reeves","Vice-Chairman and Chairman Elect","Dependable True Value Hardware,"Inc. (50%)"","2016"
+"CBS BANC-CORP.","Member","Mr. John Bradley Reeves","Member","JBBR,"Inc. (40%)"","2016"
+"CBS BANC-CORP.","Secretary","Mr. John Aldridge","Executive Vice-President","n/a","2016"
+```

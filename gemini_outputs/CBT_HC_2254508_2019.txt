@@ -1,0 +1,33 @@
+"Here are the two tables in valid CSV format","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CB&T Holding Corporation","New Orleans","2019","Gary N. Solomon,"Sr."","Common Stock","47862","26.84%"
+"CB&T Holding Corporation","New Orleans","2019","Martha N. Solomon","Common Stock","47861","26.84%"
+"CB&T Holding Corporation","New Orleans","2019","Sam M. and Gloria S. Newman Grandchildren's Irrevocable Class Trust #1","Common Stock","29410","16.49%"
+"CB&T Holding Corporation","Omaha","2019","Boston Omaha Investments,"LLC"","Common Stock","26748","15.00%"
+"CB&T Holding Corporation","New Orleans","2019","SMS Capital,"LLC"","Common Stock","14705","8.25%"
+"CB&T Holding Corporation","n/a","2019","None","n/a","n/a","n/a"
+"CB&T Holding Corporation","n/a","2019","None","n/a","n/a","n/a"
+"CB&T Holding Corporation","n/a","2019","None","n/a","n/a","n/a"
+"CB&T Holding Corporation","n/a","2019","None","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CB&T Holding Corporation","Director & Chairman","Gary N. Solomon,"Sr."","Director/Chairman /CEO","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director & Secretary","Martha N. Solomon","Director/Secretary","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Shareholder","Sam M. and Gloria S. Newman Grandchildren's Irrevocable Class Trust #1","None","None","2019"
+"CB&T Holding Corporation","Shareholder","Boston Omaha Investments,"LLC"","None","None","2019"
+"CB&T Holding Corporation","Shareholder","SMS Capital,"LLC"","None","None","2019"
+"CB&T Holding Corporation","Director","John Meltzer","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Robert Redfearn","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Daniel Buckman","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","President/Vice Chairman","Fred B. Morgan,"III"","Director/President/Vice Chairman","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Ronald Briggs","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Gary N. Solomon,"Jr."","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Sam M. Solomon","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Conway S. Solomon","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Director","Brian C. Gibbs","Director","Crescent Bank & Trust","2019"
+"CB&T Holding Corporation","Chief Financial Officer","Stephen M. Notarianni","Chief Financial Officer/Executive Vice President","Crescent Bank & Trust","2019"
+```

@@ -1,0 +1,22 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altamaha Bancshares,"Inc."","Uvalda","2014","Mae Jones","Common Stock","30602","22.8%"
+"Altamaha Bancshares,"Inc."","Uvalda","2014","Betty Morris or Randall Morris & Austin Morris Family Trust","Common Stock","10305","7.7%"
+"Altamaha Bancshares,"Inc."","Uvalda","2014","Frank,"John","Tracey Morris"","Common Stock","8400","6.2%"
+"Altamaha Bancshares,"Inc."","Vidalia","2014","Betty Salter","Common Stock","12255","9.1%"
+"Altamaha Bancshares,"Inc."","Mt. Vernon","2014","W Colon Sammons","Common Stock","8835","6.4%"
+"Altamaha Bancshares,"Inc."","Marietta","2014","Sarah Smith & Smith Trust FBO Sarah Smith","Common Stock","7650","5.7%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altamaha Bancshares,"Inc."","Director","Mae Jones","President","Jones Farms","2014"
+"Altamaha Bancshares,"Inc."","Director/Randall","Betty Morris or Randall Morris & Austin Morris Family Trust","Part owner Director/Randall","Morris Enterprises","2014"
+"Altamaha Bancshares,"Inc."","Director","Susan Shook","Director Owner","Susan Shook,"PC"","2014"
+"Altamaha Bancshares,"Inc."","President /CEO/Director","R. Brent Sammons","President/CEO/Director","none","2014"
+"Altamaha Bancshares,"Inc."","Director/ Chairman","W Colon Sammons","Director/ Chairman","None","2014"
+"Altamaha Bancshares,"Inc."","Director","S. Thomas Moore","President","S Thomas Morre & Associates","2014"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Director Officer","Ga Pine Straw","2014"
+```

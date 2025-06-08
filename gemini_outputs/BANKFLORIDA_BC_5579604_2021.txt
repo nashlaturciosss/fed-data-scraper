@@ -1,0 +1,18 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankFlorida Bancorp,"Inc."","Fort Lauderdale","2021","KENNETH R. LEHMAN","Common Stock","335000","10.5%"
+"BankFlorida Bancorp,"Inc."","Lake Mary","2021","JOHN AND ULTIMA MORGAN,"TEN ENT"","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Boca Raton","2021","C&BL INITIATIVE,"LLC"","Common Stock","200000","6.29%"
+"BankFlorida Bancorp,"Inc."","Dade City","2021","DALE MAGGARD AND ANN MAGGARD,"JTWROS"","Common Stock","167498","5.27%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Heritage S.E. Bancorp-42.4%","2021"
+"BankFlorida Bancorp,"Inc."","Director","DALE MAGGARD","Director","Sonny's Discount Appliances","2021"
+"BankFlorida Bancorp,"Inc."","Director","DAN KNOWLTON","Director","K&K Glass","2021"
+"BankFlorida Bancorp,"Inc."","Director","ALLEN ALTMAN","Director","n/a","2021"
+"BankFlorida Bancorp,"Inc."","Director & CEO/President","JAMES S. STALNAKER,"JR."","Director,"Chairman & CEO/President"","Covington Farms","2021"
+```

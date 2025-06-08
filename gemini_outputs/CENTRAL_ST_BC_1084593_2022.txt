@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central State Bancorporation","n/a","2022","Sisters of the Poor of St. Francis,"Inc."","Common Stock","60886","n/a"
+"Central State Bancorporation","n/a","2022","Kenneth P. Walker,"as Trustee for the Kenneth P. Walker Revocable Living Trust dated 2/17/09"","Common Stock","48910","n/a"
+"Central State Bancorporation","n/a","2022","William M. Schroeder,"Jr."","Common Stock","45000","n/a"
+"Central State Bancorporation","n/a","2022","William J. Koenigseder","Common Stock","13010","n/a"
+"Central State Bancorporation","n/a","2022","George W. Thompson","Common Stock","12207","n/a"
+"Central State Bancorporation","n/a","2022","James M. Walker","Common Stock","11792","n/a"
+"Central State Bancorporation","n/a","2022","Jerry D. Pow","Common Stock","11622","n/a"
+"Central State Bancorporation","n/a","2022","William S. Killion","Common Stock","10906","n/a"
+"Central State Bancorporation","n/a","2022","Gene Holder","Common Stock","9100","n/a"
+"Central State Bancorporation","n/a","2022","J. Michael Acton","Common Stock","8376","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central State Bancorporation","CEO & Director","William M Schroeder Jr.","n/a","n/a","2022"
+"Central State Bancorporation","CFO","Gene Holder","n/a","n/a","2022"
+```

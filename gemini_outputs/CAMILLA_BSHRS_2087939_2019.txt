@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Camilla Bancshares,"Inc."","Camilla","2019","Willene O'Neal Muggridge Asset Management Trust","n/a","8484","69.3"
+"Camilla Bancshares,"Inc."","Camilla","2019","William H. Butler Marital Trust B","n/a","1068","8.7"
+"Camilla Bancshares,"Inc."","Camilla","2019","Janet Butler Stallings","Camilla","n/a","800","6.5"
+"Camilla Bancshares,"Inc."","Thomaston","2019","David E. Wright","n/a","760","6.2"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Chairman","Camilla Builders Supply Inc","2019"
+"Bank of Camilla","President","Ray T. Muggridge,"III"","President","RTM Associates Inc","2019"
+"Bank of Camilla","Director","Ray T. Muggridge,"III"","Director","First Camilla Corp","2019"
+"Bank of Camilla","n/a","E. Butler McDonald","Director","Bank of Camilla","2019"
+"Bank of Camilla","n/a","E. Butler McDonald","Director","First Camilla Corp","2019"
+"Bank of Camilla","Director","Donald E. Shirah","n/a","Bank of Camilla","2019"
+"Bank of Camilla","Director","Donald E. Shirah","n/a","First Camilla Corp","2019"
+"Bank of Camilla","Director","Melanie M. Kemp","Director","Bank of Camilla","2019"
+"Bank of Camilla","Director","Melanie M. Kemp","Director","First Camilla Corp","2019"
+"Bank of Camilla","Director","Janet B. Stallings","Director","Bank of Camilla","2019"
+"Bank of Camilla","Director","Janet B. Stallings","Director","First Camilla Corp","2019"
+"Bank of Camilla","Vice Chairman","David E. Wright","Director","Bank of Camilla","2019"
+"Bank of Camilla","Director","David E. Wright","Secretary","First Camilla Corp","2019"
+"Bank of Camilla","Director","Lanair Worsham","Partner","Lanair & Engra Worsham LLC","2019"
+"Bank of Camilla","Director","James L Joiner IV","Director","Bank of Camilla","2019"
+"Bank of Camilla","Director","James L Joiner IV","Director","First Camilla Corp","2019"
+"Bank of Camilla","Principal Shareholder","Willene O'Neal Muggridge Asset Management Trust","n/a","Pelham Oil & Fertilizer","2019"
+```

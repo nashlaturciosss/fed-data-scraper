@@ -1,0 +1,25 @@
+Here are the two tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","Douglas T. Luce,"Jr."","Common Stock","18819","17.48%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","DTL,"Jr. Limited Partnership"","Common Stock","9315","8.65%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","CMB,"Limited Partnership"","Common Stock","8933","8.29%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","Charles F. Brown,"III"","Common Stock","9955","9.24%"
+"Bancorp of Lucedale,"Inc."","Mobile","2019","JRL Family Limited Partnership","Common Stock","16665","15.47%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","DTL Sr.,"Limited Partnership"","Common Stock","9404","8.73%"
+"Bancorp of Lucedale,"Inc."","Mobile","2019","Jex R. Luce,"Jr."","Common Stock","16705","15.51%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","Laurie Lee VanLingen","Common Stock","6407","5.95%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2019","Luce Insurance,"Inc."","Common Stock","7511","6.97%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bancorp of Lucedale,"Inc."","Director","Peter D Vanlingen,"II"","President & CEO","n/a","2019"
+"Bancorp of Lucedale,"Inc."","Director","Douglas T. Luce,"Jr."","Director/Chairman of the Board","Senior Property Management,"Inc. (100%)"","2019"
+"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director","Hawkins-Israel III Interiors (51%)","2019"
+"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director","n/a","2019"
+"Bancorp of Lucedale,"Inc."","n/a","JRL Family Limited Partnership Mobile,"AL","USA"","n/a","n/a","2019"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President","n/a","2019"
+"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director","n/a","2019"
+```

@@ -1,0 +1,23 @@
+"Okay","here are the two requested CSV tables","extracted from the provided FR Y-6 form","following all instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCF Holding Company","Jonesboro","2014","David B. Turner","Common Stock","261045","7.24%"
+"CCF Holding Company","Jonesboro","2014","Heritage Bank 401(k) Plan","Common Stock","243708","6.76%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCF Holding Company","Director","John B. Lee,"Jr"","Director","n/a","2014"
+"CCF Holding Company","Director & Secretary","Edwin S. Kemp Ir","President","Edwin S. Kemp. Jr. Attorney","2014"
+"CCF Holding Company","Director","John T. Mitchell","Director","Adams-Mitchell Realty,"Inc."","2014"
+"CCF Holding Company","President & CEO - Director","David B. Tumer","Chairman of the Board","n/a","2014"
+"CCF Holding Company","Executive Vice President Director","Leonard A. Moreland","President & CEO: Director","n/a","2014"
+"CCF Holding Company","Director","Roy V. Hall","Director","Macedonian Call Foundation. Inc.","2014"
+"CCF Holding Company","Director","Stephen E. Boswell","Director","Stephen E. Boswell PC","2014"
+"CCF Holding Company","Sr. VP","John Westervelt","EVP","n/a","2014"
+"CCF Holding Company","Sr. VP","John C. Bowdoin","EVP","n/a","2014"
+"CCF Holding Company","Sr. VP","C. T. ""Tommy Segers","EVP","n/a","2014"
+"CCF Holding Company","Sr. VP","Edith W Stevens","Sr VP","n/a","2014"
+"CCF Holding Company","Sr. VP & CFO","Mary Jo Jester","Sr. VP & CFO","n/a","2014"
+"CCF Holding Company","n/a","Shirley Etheridge","Group VP","n/a","2014"
+"CCF Holding Company","n/a","Kathy Zovlonsky","Sr VP","n/a","2014"
+```

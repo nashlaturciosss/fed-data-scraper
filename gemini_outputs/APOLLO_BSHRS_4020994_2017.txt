@@ -1,0 +1,26 @@
+Here are the requested extractions in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"APOLLO BANCSHARES,"INC."","Panama","2017","Carlos and Alberto Motta","Common Stock","290910","7.17%"
+"APOLLO BANCSHARES,"INC."","Miami","2017","Eduardo Arriola and Family","Common Stock","195318","6.95%"
+"APOLLO BANCSHARES,"INC."","Miami","2017","Eduardo Arriola and Family","Options","77650","6.95%"
+"APOLLO BANCSHARES,"INC."","Miami","2017","Eduardo Arriola and Family","Warrants","9000","6.95%"
+"APOLLO BANCSHARES,"INC."","Boca Raton","2017","Nicholas Di Tempora","Common Stock","202500","5.33%"
+"APOLLO BANCSHARES,"INC."","Boca Raton","2017","Nicholas Di Tempora","Options","13649","5.33%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"APOLLO BANCSHARES,"INC."","Director & Chairman","Eduardo Arriola","Chairman & CEO","Inktel Direct Corporation","2017"
+"APOLLO BANCSHARES,"INC."","Director & Secretary","Richard Dailey","President","Dade Systems,"LLP"","2017"
+"APOLLO BANCSHARES,"INC."","Director","Matthew Adler","Director","AKREA Manager,"LLC"","2017"
+"APOLLO BANCSHARES,"INC."","Director","Robert Elias","Director","The Elias Law Firm,"PLLC"","2017"
+"APOLLO BANCSHARES,"INC."","Director","William Heffernan","Director","Culver Road LLC","2017"
+"APOLLO BANCSHARES,"INC."","Director","Luis Hernandez","Director","Linq Financial Group","2017"
+"APOLLO BANCSHARES,"INC."","Director","Carlos Herrera,"Jr."","Director","Fenix Contractors,"Inc."","2017"
+"APOLLO BANCSHARES,"INC."","Director","Leslie Alan Rozencwaig","Director","Rozencwaig & Nadel,"LLP"","2017"
+"APOLLO BANCSHARES,"INC."","Director","Jeffrey Scheck","Director","Scheck Alpha LP","2017"
+"APOLLO BANCSHARES,"INC."","Director","Nicholas Di Tempora","Director","MGRM","2017"
+"APOLLO BANCSHARES,"INC."","Director","Andres Vega,"Dr."","Director","Andres Vega MD PA","2017"
+```

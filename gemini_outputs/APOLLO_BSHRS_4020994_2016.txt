@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Apollo Bancshares,"Inc."","Panama City","2016","Carlos and Alberto Motta","Shares","290910","7.14%"
+"Apollo Bancshares,"Inc."","Miami","2016","Eduardo Arriola and Family","Shares","195318","6.92%"
+"Apollo Bancshares,"Inc."","Miami","2016","Eduardo Arriola and Family","Options","77650","6.92%"
+"Apollo Bancshares,"Inc."","Miami","2016","Eduardo Arriola and Family","Warrants","9000","6.92%"
+"Apollo Bancshares,"Inc."","Hillsborough Beach","2016","Nicholas Di Tempora","Shares","202500","5.31%"
+"Apollo Bancshares,"Inc."","Hillsborough Beach","2016","Nicholas Di Tempora","Options","13649","5.31%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Apollo Bancshares,"Inc."","Director & Chairman","Eduardo Arriola","Chairman & CEO","Inktel Direct Corporation","2016"
+"Apollo Bancshares,"Inc."","Director & Secretary","Richard Dailey","President","UCB Solutions,"LLC"","2016"
+"Apollo Bancshares,"Inc."","Director","Matthew Adler","Partner/Director","Dade Systems,"LLP"","2016"
+"Apollo Bancshares,"Inc."","Director","Robert Elias","Managing Member","The Elias Law Firm,"PLLC"","2016"
+"Apollo Bancshares,"Inc."","Director","Luis Hernandez","Founder & Managing Director of Linq Financial Group","RTD Real Estate Holdings","2016"
+"Apollo Bancshares,"Inc."","Director","Carlos Herrera,"Jr."","President","Batter's Box USA Inc.","2016"
+"Apollo Bancshares,"Inc."","Director","Leslie Alan Rozencwaig","Managing Partner","Rozencwaig & Nadel,"LLP"","2016"
+"Apollo Bancshares,"Inc."","Director","Jeffrey Scheck","Vice President,"Scheck Group"","Hanalei LLC","2016"
+"Apollo Bancshares,"Inc."","Director","Nicholas Di Tempora","MGRM","Jems of Miami,"Inc."","2016"
+"Apollo Bancshares,"Inc."","Director","Andres Vega,"Dr."","President","Andres Vega MD PA","2016"
+"Apollo Bancshares,"Inc."","N/A","William Heffernan","Director","Culver Road LLC","2016"
+```

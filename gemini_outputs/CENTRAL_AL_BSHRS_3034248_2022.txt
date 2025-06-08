@@ -1,0 +1,40 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Cental Alabama Bancshares Inc ESOP","Common Stock","231526","11.18%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","David B Thomas","Common Stock","16753","8.09%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","James A Thomas","Common Stock","16531","7.98%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Rana S Futral","Common Stock","15813","7.64%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Michael D Smith","Common Stock","15478","7.48%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","J Heath Jenkins","Common Stock","14919","7.20%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Alan E Verner","Common Stock","13955","6.74%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","William R Reynolds III","Common Stock","13671","6.61%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Fred W Tippett","Common Stock","13135","6.34%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Cynthia M Smith","Common Stock","13133","6.34%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Joe H Smith","Common Stock","13085","6.32%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Kimm K Sanford","Common Stock","13007","6.28%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Larry D Thornton","Common Stock","12525","6.05%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","John C Wilson","Common Stock","12328","5.95%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","Joseph C Wilson","Common Stock","12328","5.95%"
+"Cental Alabama Bancshares Inc","Wetumpka","2022","James P Garrett","Common Stock","12116","5.85%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Cental Alabama Bancshares Inc","President & CFO","Rana S. Futral","Director","Cental Alabama Bancshares Inc","2022"
+"Cental Alabama Bancshares Inc","Director","David B. Thomas","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","James A. Thomas","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Michael D. Smith","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","J. Heath Jenkins","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Alan E. Verner","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","William R. Reynolds III","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Fred W. Tippett","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Cynthia M. Smith","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Joe H. Smith","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Controller","Kimm K. Sanford","n/a","n/a","2022"
+"Cental Alabama Bancshares Inc","Director","Larry D. Thornton","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","John C. Wilson","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","Joseph C. Wilson","Director","First Community Bank","2022"
+"Cental Alabama Bancshares Inc","Director","James P. Garrett","Director","First Community Bank","2022"
+```

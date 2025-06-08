@@ -1,0 +1,16 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CNB Bancorp,"Inc."","Birmingham,"AL"","2021","Patrick Cooper","Common Stock","431482","62.1%"
+"CNB Bancorp,"Inc."","Mobile,"AL"","2021","Gary Cooper","Common Stock","59503","8.6%"
+"CNB Bancorp,"Inc."","Washington DC","2021","Casey Cooper","Common Stock","36183","5.2%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CNB Bancorp,"Inc."","Chairman","J. Gary Cooper","n/a","n/a","2021"
+"CNB Bancorp,"Inc."","Director","Jacquitta Green","n/a","Northside Check Exchange","2021"
+"CNB Bancorp,"Inc."","Director","Scott Hunter","Vice President","Raymond James Financial Services","2021"
+"CNB Bancorp,"Inc."","Chairman","Patrick Cooper","Attorney","n/a","2021"
+```

@@ -1,0 +1,15 @@
+Here are the requested CSV tables.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BCI FINANCIAL GROUP INC.","Santiago","2019","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BCI FINANCIAL GROUP INC.","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2019"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","Director","City National Bank of Florida","2019"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2019"
+"BCI FINANCIAL GROUP INC.","Secretary/General Manager","S. Marshall Martin","General Counsel","City National Bank of Florida","2019"
+"BCI FINANCIAL GROUP INC.","Treasurer","Daniel Kushner","Chief Strategic Advisor","City National Bank of Florida","2019"
+```

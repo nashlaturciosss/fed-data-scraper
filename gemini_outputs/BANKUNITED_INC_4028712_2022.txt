@@ -1,0 +1,26 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankUnited,"Inc."","New York","2022","BlackRock Inc.","n/a","11500337","15.2%"
+"BankUnited,"Inc."","Malvern","2022","The Vanguard Group","n/a","9235979","12.2%"
+"BankUnited,"Inc."","Malvern","2022","T. Rowe Price Associates,"Inc."","n/a","6828561","9.0%"
+"BankUnited,"Inc."","Austin","2022","Dimensional Fund Advisors","n/a","4754800","6.3%"
+"BankUnited,"Inc."","Boston","2022","State Street","n/a","4379012","5.8%"
+"BankUnited,"Inc."","Nashville","2022","Alliance Bernstein","n/a","3878655","5.0%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankUnited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","None","BankUnited,"N.A."","2022"
+"BankUnited,"Inc."","Director","Leslie N. Lunak","Chief Financial Officer","BankUnited,"N.Α."","2022"
+"BankUnited,"Inc."","Chief Operating Officer","Thomas M. Cornish","Chief Operating Officer","BankUnited,"N.A."","2022"
+"BankUnited,"Inc."","Director","Tere Blanca","Chairman and CEO","Blanca Commercial Real Estate","2022"
+"BankUnited,"Inc."","Director","John N. DiGiacomo","Owner","Placid Times Photography,"LLC"","2022"
+"BankUnited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee"","Northwell Health","2022"
+"BankUnited,"Inc."","Director","Douglas J. Pauls","Director","Essent Group","2022"
+"BankUnited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","Director","The Global Atlantic Financial Group,"LLC"","2022"
+"BankUnited,"Inc."","Director","William S. Rubenstein,"Esq."","None","n/a","2022"
+"BankUnited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","None","n/a","2022"
+"BankUnited,"Inc."","Director","Lynne Wines","None","n/a","2022"
+```

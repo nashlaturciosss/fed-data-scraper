@@ -1,0 +1,29 @@
+"Here are the two tables extracted from the document","formatted as CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Business First Bancshares,"Inc."","New York","2023","The Deposit Trust Company","Common Stock","18275314","71.11%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Business First Bancshares,"Inc."","Director","James J. Buquet,"III"","Director","Buquet Investments","2023"
+"Business First Bancshares,"Inc."","Director","Carol M. Calkins","Director","n/a","2023"
+"Business First Bancshares,"Inc."","Director","Ricky D. Day","Manager - W D Chips,"LLC"","Southland Group LLC","2023"
+"Business First Bancshares,"Inc."","Director","John Ducrest","Owner - T.L. Ducrest Building,"LLC"","TL Ducrest Building,"LLC"","2023"
+"Business First Bancshares,"Inc."","Director","Mark Folse","Director","n/a","2023"
+"Business First Bancshares,"Inc."","Director (Chairman)","Robert Greer","Director","n/a","2023"
+"Business First Bancshares,"Inc."","Director","J. Vernon Johnson","n/a","n/a","2023"
+"Business First Bancshares,"Inc."","Director","Rolfe H. McCollister,"Jr"","CEO-Louisiana Bancshares,"Inc."","Louisiana Bancshares,"Inc."","2023"
+"Business First Bancshares,"Inc."","Director","Andrew D. McLindon","President - Mainspring Companies,"LLC"","Mainspring Companies,"LLC"","2023"
+"Business First Bancshares,"Inc."","President,"Chief Executive Officer and Director"","David Melville. III","None","n/a","2023"
+"Business First Bancshares,"Inc."","Director","Patrick E. Mockler","President - Southern Eagle Sales and Service,"ALP"","Mockler Family,"LLC"","2023"
+"Business First Bancshares,"Inc."","Director","David Montgomery","Partner - Brothers Ventures,"LLC"","Brothers Ventures,"LLC"","2023"
+"Business First Bancshares,"Inc."","Director","Arthur Price","President / CFO of Oil Company","KIT Exploration,"Inc."","2023"
+"Business First Bancshares,"Inc."","Director","Aimee Quirk","CEO/Owner - T. Baker Smith,"LLC"","T. Baker Smith,"LLC"","2023"
+"Business First Bancshares,"Inc."","Chief Financial Officer,"Treasurer and Principal Financial Officer"","Gregory Robertson","None","n/a","2023"
+"Business First Bancshares,"Inc."","Director","Kenneth Smith","Manager - Four C's of Houma,"LLC"","n/a","2023"
+"Business First Bancshares,"Inc."","Corporate Secretary","Saundra Strong","None","CSRS/Tillage","2023"
+"Business First Bancshares,"Inc."","Director","Keith Tillage","Principal - CSRS/Tillage","n/a","2023"
+"Business First Bancshares,"Inc."","Director","Steve White","Business Manager - William A. Robinson Trust","n/a","2023"
+```

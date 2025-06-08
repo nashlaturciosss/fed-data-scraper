@@ -1,0 +1,14 @@
+Here are the tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2023"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","Director","City National Bank of Florida","2023"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2023"
+"BCI FINANCIAL GROUP,"INC."","Secretary/General Manager","McHenry Kane","General Counsel","City National Bank of Florida","2023"
+"BCI FINANCIAL GROUP,"INC."","Treasurer","Jose Marina","Chief Financial Officer","City National Bank of Florida","2023"
+```

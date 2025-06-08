@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","Douglas T. Luce,"Jr."","Common Stock","30602","28.53%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","DTL,"Jr. Limited Partnership"","Common Stock","9316","8.69%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","CMB,"Limited Partnership"","Common Stock","8933","8.33%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","Charles F. Brown,"III"","Common Stock","9955","9.28%"
+"Bancorp of Lucedale,"Inc."","Mobile","2023","JRL Family Limited Partnership","Common Stock","16665","15.54%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","DTL Sr.,"Limited Partnership"","n/a","9404","8.77%"
+"Bancorp of Lucedale,"Inc."","Mobile","2023","Jex R. Luce,"Jr."","Common Stock","16705","15.54%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","Laurie Lee VanLingen","Common Stock","6407","5.97%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2023","Luce Insurance,"Inc."","Common Stock","7511","7.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bancorp of Lucedale,"Inc."","Director","Peter D Vanlingen,"II"","President & CEO (Century Bank)","See Attached List","2023"
+"Bancorp of Lucedale,"Inc."","Director/Chairman of the Board","Douglas T. Luce,"Jr."","Director/Chairman of the Board (Century Bank)","See Attached List","2023"
+"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director (Century Bank)","See Attached List","2023"
+"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director (Century Bank)","N/A","2023"
+"Bancorp of Lucedale,"Inc."","Director","Charlie F. Brown,"IV"","Century Investments (Century Bank)","Secretary of CMB LP","2023"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President (Century Bank)","N/A","2023"
+"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director (Century Bank)","See Attached List","2023"
+```

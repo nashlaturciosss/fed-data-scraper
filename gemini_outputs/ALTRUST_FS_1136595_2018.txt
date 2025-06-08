@@ -1,0 +1,28 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc."","Baileyton","2018","Terry Neal & Tressa Walker","Common Stock","303006","6.27%"
+"Altrust Financial Services,"Inc."","Cullman","2018","Cecil Alan & Amy Walker","Common Stock","288247","5.97%"
+"Altrust Financial Services,"Inc."","Baileyton","2018","Timothy Dudley Walker","Common Stock","269079","5.57%"
+"Altrust Financial Services,"Inc."","Cullman","2018","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1200648","24.85%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc."","Director Vice Chairman CEO","Robin Cummings","Director CEO","n/a","2018"
+"Altrust Financial Services,"Inc."","Director","George Whit Drake","Director","Attorney-own name","2018"
+"Altrust Financial Services,"Inc."","Director","Noel Jasper Estes","Director","n/a","2018"
+"Altrust Financial Services,"Inc."","Director Chairman","Cecil Alan Walker","Director","Partner-Walker Bros,"LTD"","2018"
+"Altrust Financial Services,"Inc."","Director Secretary","Terry Neal Walker","Director Secretary","Partner-Walker Bros. LTD","2018"
+"Altrust Financial Services,"Inc."","Director","Timothy Dudley Walker","Director","Partner-Walker Bros. LTD","2018"
+"Altrust Financial Services,"Inc."","Director","Brian Clarke Witcher","Director","South Park Auto Sales","2018"
+"Altrust Financial Services,"Inc."","Director","Candace Nail Hooten","Director EVP","n/a","2018"
+"Altrust Financial Services,"Inc."","n/a","Craig Estes","Director","Manufacturing Engineer","2018"
+"Altrust Financial Services,"Inc."","n/a","Debra Goble","EVP","n/a","2018"
+"Altrust Financial Services,"Inc."","n/a","Timothy Williams","Director President","n/a","2018"
+"Altrust Financial Services,"Inc."","n/a","Charles Herndon","EVP","n/a","2018"
+"Altrust Financial Services,"Inc."","n/a","William Kinney","EVP","n/a","2018"
+"Altrust Financial Services,"Inc."","None","Altrust Financial Services,"Inc."","None","None","2018"
+"Altrust Financial Services,"Inc."","None","Peoples Bank of Alabama,"Trustee Sheila Sizemore","Trust Officer"","None","None","2018"
+```

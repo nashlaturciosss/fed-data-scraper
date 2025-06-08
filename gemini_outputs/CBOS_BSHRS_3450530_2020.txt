@@ -1,0 +1,24 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","William T. Taylor","Common Stock","37963","6.81%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","William T. Taylor","Other","1333","0.24%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","William T. Taylor","Other","1333","0.24%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","William T. Taylor","Other","1334","0.24%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","William T. Taylor","Common Stock","42726","7.66%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","CBOS Bankshares,"Inc"","Common Stock","62653","11.23%"
+"CBOS Bankshares,"Inc."","Merritt Island","2020","Maheshchandra R. Shah and Rashmi M. Shah","Common Stock","58832","10.55%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBOS Bankshares,"Inc."","Director & CEO","William T. Taylor","n/a","n/a","2020"
+"CBOS Bankshares,"Inc."","Director","Harold T. Bistline","President","Harold T. Bistline,"PA"","2020"
+"CBOS Bankshares,"Inc."","Director","Stephen D. Crisafulli","Owner","Crisafulli Enterprises","2020"
+"CBOS Bankshares,"Inc."","Director","Maxwell King","n/a","n/a","2020"
+"CBOS Bankshares,"Inc."","Director","Kevin Markey","President","Kevin P. Markey,"P.L."","2020"
+"CBOS Bankshares,"Inc."","Director","Kevin Steele","President","Bob Steele Chevrolet","2020"
+"CBOS Bankshares,"Inc."","Director","Dr. Carlos Woodward","n/a","n/a","2020"
+"CBOS Bankshares,"Inc."","Shareholder","Maheshchandra R. Shah and Rashmi M. Shah","President","Southeast Petro Distributors","2020"
+```

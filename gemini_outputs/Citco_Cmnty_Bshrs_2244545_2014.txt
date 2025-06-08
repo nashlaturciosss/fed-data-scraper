@@ -1,0 +1,39 @@
+Here are the two requested tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","JOE LAPORTE III","Common Stock","2040","25.19%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","JOE LAPORTE III","Other","84885","18.24%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","JOE LAPORTE III","Other","10105.62","2.17%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","JOSEPH LAPORTE,"III"","Other","10105.62","2.17%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","JOSEPH LAPORTE,"III"","Other","10105.62","2.17%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","SAM LAPORTE","Common Stock","2020","24.94%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","SAM LAPORTE","Other","103550.67","22.25%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","SAM LAPORTE,"TRUSTEE"","Other","5335.60","1.15%"
+"Citco Community Bancshares,"Inc."","ELIZABETHTON","2014","SAM LAPORTE,"TRUSTEE"","Other","5335.60","1.15%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","STEPHEN LAPORTE","Common Stock","2020","24.94%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","STEVE LAPORTE","Other","89746.15","19.28%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","STEPHEN LAPORTE,"TRUSTEE"","Other","12237.86","2.63%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","STEPHEN LAPORTE,"TRUSTEE"","Other","12237.86","2.63%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","CHRIS LAPORTE","Common Stock","2020","24.94%"
+"Citco Community Bancshares,"Inc."","HOUSTON","2014","CHRIS LAPORTE","Other","114221.87","24.54%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/Assitant Trust Officer","Citizens Bank","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/President","Citco Life Insurance Company,"Inc."","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/President","Citizens Investments Services,"Inc."","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/President","Tri Cities Finance Company Inc.","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director","Magnolia Investments","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director","Small Business Resources,"Inc."","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Chief Manager","LAP,"LLC"","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/President","Citco Title Co,"Inc."","2014"
+"Citco Community Bancshares,"Inc."","CEO/President","Joe LaPorte,"III"","Director/Chief Manager","Citco Admin LLC","2014"
+"Citco Community Bancshares,"Inc."","Director/Secretary","Sam J. LaPorte","Director/Trust Officer","Citizens Bank","2014"
+"Citco Community Bancshares,"Inc."","Director/Secretary","Sam J. LaPorte","Secretary","Tri Cities Finance","2014"
+"Citco Community Bancshares,"Inc."","Director/Secretary","Sam J. LaPorte","Secretary","Magnolia Investments","2014"
+"Citco Community Bancshares,"Inc."","Director","Christopher L. LaPorte","n/a","Small Business Resources,"Inc."","2014"
+"Citco Community Bancshares,"Inc."","Director/Vice President","Stephen J. LaPorte","n/a","Citizens Bank","2014"
+"Citco Community Bancshares,"Inc."","Director","Stephen J. LaPorte","n/a","Small Business Resources,"Inc."","2014"
+```

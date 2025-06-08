@@ -1,0 +1,20 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","following all the specified rules:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic National Corporation","St. Simons Island","2016","John J. Rogers","Common Stock","83375","6.42%"
+"Atlantic National Corporation","Charlotte","2016","W.W.Walker,"Jr."","Common Stock","68075","5.24%"
+"Atlantic National Corporation","Brunswick","2016","Morgan,"T.Gillis","III"","Common Stock","67971","5.23%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic National Corporation","Director","Barger,"James F."","Director","Coastal CPA's","2016"
+"Atlantic National Corporation","Director & Chairman","Benefield,"J.Dewey"","Director & Chairman","Sea Island Company","2016"
+"Atlantic National Corporation","Director","Gash,"James H."","Director","n/a","2016"
+"Atlantic National Corporation","Director","C.H.Leavy,"IV"","President","The Brunswick News","2016"
+"Atlantic National Corporation","Director","Morgan,"T. Gillis","III"","Director","n/a","2016"
+"Atlantic National Corporation","Director","Parker,"Patrick B."","Director","J.H.Parker Company,"Inc."","2016"
+"Atlantic National Corporation","Director & President","Rogers,"John J."","Director & President","n/a","2016"
+"Atlantic National Corporation","Director","Strother,"Gordon T."","Director","J.C. Strother Company","2016"
+"Atlantic National Corporation","Director","Torbett,"Lisa Lane"","Director","Lisa Torbett Interiors,"Inc."","2016"
+"Atlantic National Corporation","Sr.V.P. CFO","Sams,"Robert B."","Sr.V.P. CFO","n/a","2016"
+```

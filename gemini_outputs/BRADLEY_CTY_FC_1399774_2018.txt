@@ -1,0 +1,18 @@
+Here are the tables requested in CSV format:
+SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bradley County Financial Corp.","Cleveland","2018","R. Scott Taylor","n/a","92650","34.60%"
+```
+INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bradley County Financial Corp.","Chairman CEO","R. Scott Taylor","None","None","2018"
+"Bradley County Financial Corp.","Director","Gerald Burns","Owner,"Burns Ornamental Iron & Fabricating","Inc."","Burns Ornamental Iron & Fabricating Inc.","2018"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","Director","Williamsoon & Trewhitt CPA's PC","2018"
+"Bradley County Financial Corp.","Director","Steve Robinson","Owner,"Cleveland Plywood Company"","Cleveland Plywood Company","2018"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner,"Bradley Concrete Inc."","Bradley Concrete,"Inc."","2018"
+"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","None","None","2018"
+"Bradley County Financial Corp.","Director","Terry J. Buckner","None","None","2018"
+"Bradley County Financial Corp.","Director","Clint R. Taylor","Owner,"Crescent Builders","LLC"","Crescent Builders,"LLC"","2018"
+```

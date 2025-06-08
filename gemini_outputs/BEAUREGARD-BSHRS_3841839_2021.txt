@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Gary and Betty Blackmon","Common Stock","7731","7"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Marjorie W. Green","Common Stock","10660","10"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Brant A. Green","Common Stock","10172","10"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Mandy G. Green","Common Stock","10036","9"
+"Beauregard Bancshares,"Inc."","Phippsburg","2021","Eleanor Lynn Kay","Common Stock","6551","6"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Stuart S. Kay,"Jr."","Common Stock","6654","18"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Judith S. Kay","Common Stock","3910","n/a"
+"Beauregard Bancshares,"Inc."","Dallas","2021","David Shepard Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc."","Austin","2021","Geoffrey Scot Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Millard E. Morris","Common Stock","5323","5"
+"Beauregard Bancshares,"Inc."","DeRidder","2021","Carroll A. Green","Common Stock","18072","29%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Beauregard Bancshares,"Inc"","Principal Shareholder","Bailey Livings Trust of 1996","Principal Shareholder","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director","Judy S. Kay","Director","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director","Stuart S. Kay,"Jr."","Principal Shareholder","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director","Gary Blackmon","Director","CBG,"Inc."","2021"
+"Beauregard Bancshares,"Inc"","Director","James David Cain","Director","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director","Brant Green","Director","BG Cattle","2021"
+"Beauregard Bancshares,"Inc"","Principal Shareholder","Marjorie W. Green","Principal Shareholder","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director President","Rafeal Webb Stark","Director President & CEO","n/a","2021"
+"Beauregard Bancshares,"Inc"","Director","Charles Lestage","Director","LA Land & Title,"LLC"","2021"
+```

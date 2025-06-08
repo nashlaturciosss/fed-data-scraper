@@ -1,0 +1,18 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancSouth Corporation","Dothan","2020","Noel M Dowling Family Trust","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2020","Noel M Dowling Family Trust","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2020","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%"
+"BancSouth Corporation","Mooresville","2020","George Laurence McCrary,"III"","n/a","2700","8.05%"
+"BancSouth Corporation","Mooresville","2020","Margaret Ann McCrary Crumlish","n/a","1700","5.07%"
+"BancSouth Corporation","n/a","2020","12 other shareholders","n/a","1700","5.06%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","Cashier,"Chairman and Director"","BankSouth","2020"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","Executive Vice President,"Chief Financial Officer","Director"","BankSouth","2020"
+"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","Executive Vice President,"Chief Executive Officer","Director"","BankSouth","2020"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","Director","BankSouth","2020"
+```

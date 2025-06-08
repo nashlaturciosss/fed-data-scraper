@@ -1,0 +1,41 @@
+Here are the two tables extracted from the document in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BankSouth Holding Company","Greensboro","2019","Marguerite McInteer","n/a","2771","16.52%"
+"BankSouth Holding Company","Greensboro","2019","Harold Reynolds","n/a","5119","30.53%"
+"BankSouth Holding Company","Greensboro","2019","James Reynolds IV","n/a","2669","15.92%"
+"BankSouth Holding Company","Greensboro","2019","Frances Strickland","n/a","2978","17.76%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BankSouth Holding Company","Chairman","Marguerite Mclnteer","Partner","Jackson Quarter ","2020"
+"BankSouth Holding Company","Chairman","Marguerite Mclnteer","Partner","Ward Place ","2020"
+"BankSouth Holding Company","Chairman","Marguerite Mclnteer","Partner","Timber Ridge","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Chairman","44 Holdings","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Chair","BankSouth Land","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Chair","44 Assurance","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","President","Reynolds Development Company","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Director","Timber Ridge Properties,"Inc."","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Managing Member","Ward Place Partners,"LLC"","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Managing Member","Linger Longer Road Investors,"LLC"","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Member","Vintage Land,"LLC"","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Chair","44 Resources","2020"
+"BankSouth Holding Company","Director","Harold Reynolds","Managing Member","Soldiers Crossing,"LLC"","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","Chair","BankSouth Insurance","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","Chair","BankSouth","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","Managing Member","Atkinson Development","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","Managing Member","ReMur Properties,"LLC"","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","n/a","Shareholder Reserve,"LLC"","2020"
+"BankSouth Holding Company","N/A","James Reynolds IV","n/a","Managing Partner-Avenir Growth Mgt.,"LLC"","2020"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","n/a","BankSouth Board","2020"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Jackson Quarter","2020"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Ward Place ","2020"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Timber Ridge","2020"
+"BankSouth Holding Company","Director and VP","James Reynolds III","n/a","BankSouth Board","2019"
+"BankSouth Holding Company","Director and VP","James Reynolds III","n/a","Road to Nowhere,"LLC"","2019"
+"BankSouth Holding Company","Director and VP","James Reynolds III","n/a","Cedar Ridge Properties,"LLC"","2019"
+"BankSouth Holding Company","Director and VP","James Reynolds III","n/a","Flatrock Management,"LLC"","2019"
+"BankSouth Holding Company","Director and VP","James Reynolds III","n/a","Ironwood Family Holdings,"LLC"","2019"
+```

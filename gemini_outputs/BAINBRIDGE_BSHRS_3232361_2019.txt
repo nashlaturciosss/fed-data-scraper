@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2019","William R. Cox,"Sr."","n/a","100393","10.562%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2019","Winston Brock","n/a","70541","7.421%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2019","Greg Calhoun","n/a","56875","5.984%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2019","Terril Scott","n/a","56250","5.918%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2019","E. Dewey Robinson","n/a","79372","8.350%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bainbridge Bancshares,"Inc."","Director,"Chairman & Treasurer"","Charles Whittaker","Director & Chairman of First National Bank","Dowdy & Whittaker,"CPA"","2019"
+"Bainbridge Bancshares,"Inc."","Director & Secretary","Roger Mills","Director of First National Bank","Roger L. Mills DMD","2019"
+"Bainbridge Bancshares,"Inc."","Director","Winston Brock,"Jr"","Director of First National Bank","Rx Drugs,"Inc"","2019"
+"Bainbridge Bancshares,"Inc."","Director","Edgar M. Robinson","Director of First National Bank","Peoples Loan Service,"Inc."","2019"
+"Bainbridge Bancshares,"Inc."","Director","Richard F. Ivey","Director of First National Bank","Meredian Holding Group","2019"
+"Bainbridge Bancshares,"Inc."","Director & Asst. Secretary","Roy Adams","Director of First National Bank","Adams Const.,","2019"
+"Bainbridge Bancshares,"Inc."","Director","Butch Yarbrough","Director of First National Bank","Yarbrough Farms","2019"
+"Bainbridge Bancshares,"Inc."","Director","Landin Marzolf","Director of First National Bank","L & K Chiropractic Services LLC","2019"
+"Bainbridge Bancshares,"Inc."","Director","Greg Calhoun","Director of First National Bank","Circle C Farms,","2019"
+"Bainbridge Bancshares,"Inc."","Director","Donald Barber","Director of First National Bank","Barber Fertilizer Supply.","2019"
+"Bainbridge Bancshares,"Inc."","CFO & Secretary","Donna Kelley","CFO,"Secretary & Senior Vice President of First National Bank"","n/a","2019"
+"Bainbridge Bancshares,"Inc."","CEO/President & Director","Brad E. Barber","CEO/President & Director of First National Bank","n/a","2019"
+"Bainbridge Bancshares,"Inc."","None","William R. Cox,"Sr."","None","Southern Fidelity Holding LLC.","2019"
+```

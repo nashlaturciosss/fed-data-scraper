@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Alapaha Holding Company","Director","Luther L Duke,"III"","Director - Bank of Alapaha","Adel Ice Company,"Inc. CEO; Hopeful Ice of South Georgia","Inc. CEO"","2023"
+"Alapaha Holding Company","President","Kenneth E Hughes","President and CEO","n/a","2023"
+"Alapaha Holding Company","Director","Tommy Lee","Director - Bank of Alapaha","Lee Farm Supply,"LLC-Managing Member"","2023"
+"Alapaha Holding Company","Director","Steve McMillan","Director - Bank of Alapaha","Berrien Peanut Co-CEO; Southern Grace Farms,"Inc. CEO; Middle Branch","LLP CEO"","2023"
+"Alapaha Holding Company","Director","C Dane Perkins","Director - Bank of Alapaha","Troutdale Corporation CEO Perkins Warehouse Inc. CEO","2023"
+"Alapaha Holding Company","Director","Sylvia L Roberts","Director Bank of Alapaha","Alapaha Station Celebration Inc CEO","2023"
+"Alapaha Holding Company","Director","Daniel L Studstill","Director - Bank of Alapaha","Daniel L Studstill,"PC CEO"","2023"
+"Alapaha Holding Company","CFO","Erin B Watson","CFO-Bank of Alapaha","n/a","2023"
+"Alapaha Holding Company","Director","Brian E Stone","Director - Bank of Alapaha","Adel Properties,"LLC CEO Stone's Development CEO Water's Edge Construction LLC Stone Ridge Rental","LLC Brian Stone Construction Inc"","2023"
+"Alapaha Holding Company","Secretary","Ellen Brogdon","Vice President- Bank of Alapaha","Dorothy P Ingram Trust,"Trustee"","2023"
+"Alapaha Holding Company","n/a","Angela McMillan","Vice President- Bank of Alapaha","Barry's Deli","2023"
+"Alapaha Holding Company","n/a","Belinda Holbrook","Vice President - Bank of Alapaha","n/a","2023"
+"Alapaha Holding Company","n/a","Jay Funderburke","Chief Compliance Officer","n/a","2023"
+"Alapaha Holding Company","Director","Rudoiph Smith","Director - Bank of Alapaha","Consultant - City of Nashville","2023"
+```

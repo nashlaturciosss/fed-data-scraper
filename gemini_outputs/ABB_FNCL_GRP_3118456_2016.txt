@@ -1,0 +1,20 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"ABB FINANCIAL GROUP,"INC."","Atlanta","2016","Serguei Kouzmine","Common Stock","170000","7.47%"
+"ABB FINANCIAL GROUP,"INC."","Atlanta","2016","James R. Henderson","Common Stock","125000","5.49%"
+"ABB FINANCIAL GROUP,"INC."","Atlanta","2016","Serguei Kouzmine","Preferred","5891","100.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"ABB FINANCIAL GROUP,"INC."","President/Director","Edward J. Cooney","President/Director","Affinity Bank","2016"
+"ABB FINANCIAL GROUP,"INC."","n/a","Leeman Bennett","Director","Affinity Bank","2016"
+"ABB FINANCIAL GROUP,"INC."","Owner","Frank A. Clayton,"DDS."","Director","Clayton Dental,"PC"","2016"
+"ABB FINANCIAL GROUP,"INC."","SVP/CFO","Brandi Pajot","SVP/CFO","Affinity Bank","2016"
+"ABB FINANCIAL GROUP,"INC."","n/a","Jeffrey R. Lake","Director","Dixie Electric Company","2016"
+"ABB FINANCIAL GROUP,"INC."","n/a","Robert C. McMahan","Chairman","Affinity Bank","2016"
+"ABB FINANCIAL GROUP,"INC."","n/a","Wayne V. Mitsch","Director","Affinity Bank","2016"
+"ABB FINANCIAL GROUP,"INC."","n/a","Clark N. Nelson,"Jr"","EVP/CCO","Affinity Bank","2016"
+```

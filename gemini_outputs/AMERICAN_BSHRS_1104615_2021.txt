@@ -1,0 +1,28 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares,"Inc."","Covington","2021","Julian J,"Rodrigue","Jr."","n/a","770000","25.4132%"
+"American Bancshares,"Inc."","Covington","2021","Karen Smith Riecke","n/a","581240","19.1834%"
+"American Bancshares,"Inc."","Covington","2021","Riecke and Associates","n/a","338925","11.1859%"
+"American Bancshares,"Inc."","Hammond","2021","Darryl Smith","n/a","283505","9.3569%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares,"Inc."","n/a","Jared Caruso Riecke","Chairman of the Board","3368 LLC 100%; Castine Pointe,"LLC 50%; Global Disaster Housing 25%"","2021"
+"American Bancshares,"Inc."","n/a","Alton K McRee","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Paul J Mayronne","Director","Paul J. Mayronne,"LLC 100%"","2021"
+"American Bancshares,"Inc."","n/a","Daniel H Edwards Sr","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Raymond R. Riecke","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Edward T. Riecke","Director","Castine Pointe,"LLC 50%"","2021"
+"American Bancshares,"Inc."","n/a","Donald D. Durr","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Casey Robin","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Franklin Kyle","Director","Kyle and Associates 52%","2021"
+"American Bancshares,"Inc."","n/a","Arthur Renaudin","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Theodore Lee","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Anthony P. Marullo,"III"","Director","n/a","2021"
+"American Bancshares,"Inc."","n/a","Karen S Riecke","n/a","n/a","2021"
+"American Bancshares,"Inc."","n/a","Julian J. Rodrique,"Jr"","n/a","n/a","2021"
+"American Bancshares,"Inc."","n/a","Riecke and Associates","n/a","n/a","2021"
+```

@@ -1,0 +1,29 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form data","following all the given rules."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CapStar Financial Holdings,"Inc"","Nashville","2020","Gaylon M. Lawrence,"Jr."","Common Stock","1156675","5.3%"
+"CapStar Financial Holdings,"Inc"","New York","2020","BlackRock,"Inc."","Common Stock","1269816","5.8%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CapStar Financial Holdings,"Inc"","Director","Toby S. Wilt","Vice Chair of the Board","TSW Investments","2020"
+"CapStar Financial Holdings,"Inc"","Director","Jeffrey L. Cunningham","Director-","n/a","2020"
+"CapStar Financial Holdings,"Inc"","Chairman of the Board","Dennis C. Bottorff","Chairman of the Board-","Council Capital Management","2020"
+"CapStar Financial Holdings,"Inc"","Director","James S. Turner,"Jr."","Director-","Marketstreet Equities Company","2020"
+"CapStar Financial Holdings,"Inc"","Director","L. Earl Bentz","Director-","Triton Boats","2020"
+"CapStar Financial Holdings,"Inc"","Director","Thomas Flynn","Director-","Flynn Enterprises,"LLC"","2020"
+"CapStar Financial Holdings,"Inc"","Director","Louis A. Green,"III"","Director-","Green & Little","2020"
+"CapStar Financial Holdings,"Inc"","Director","Myra Nan Dora Jenne","Director - CapStar Bank","The Jenne Law Firm","2020"
+"CapStar Financial Holdings,"Inc"","n/a","Christopher G. Tietz","Chief Credit Officer - CapStar Bank","n/a","2020"
+"CapStar Financial Holdings,"Inc"","Director; President and Chief Executive Officer","Timothy K. Schools","Director; President and Chief Executive Officer - CapStar Bank","n/a","2020"
+"CapStar Financial Holdings,"Inc"","Director","Stephen B. Smith","Director-","Haury & Smith Contractors,"Inc."","2020"
+"CapStar Financial Holdings,"Inc"","Vice Chair of the Board","Dale W. Polley","Vice Chair of the Board-","n/a","2020"
+"CapStar Financial Holdings,"Inc"","n/a","Denis J. Duncan","Chief Financial Officer - CapStar Bank","n/a","2020"
+"CapStar Financial Holdings,"Inc"","n/a","Steven E. Groom","Chief Risk Officer - CapStar Bank","n/a","2020"
+"CapStar Financial Holdings,"Inc"","n/a","John A. Davis","Chief Operations Officer - CapStar Bank","n/a","2020"
+"CapStar Financial Holdings,"Inc"","Director","Sam B. DeVane","Director -","n/a","2020"
+"CapStar Financial Holdings,"Inc"","Director","Valora S. Gurganious","Director -","Doctors Management,"LLC"","2020"
+"CapStar Financial Holdings,"Inc"","Director","Joelle J. Phillips","Director -","AT&T Tennessee","2020"
+```

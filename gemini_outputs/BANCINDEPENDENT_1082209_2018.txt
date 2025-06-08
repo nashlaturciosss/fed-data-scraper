@@ -1,0 +1,30 @@
+"Okay","here are the two CSV tables extracted from the document","following all instructions and constraints:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancIndependent,"Incorporated"","Leighton","2018","CLAUDE EDWARD FELTON","n/a","11400","6.51%"
+"BancIndependent,"Incorporated"","Sheffield","2018","MPEFM II LIMITED PARTNERSHIP","n/a","71705","40.97%"
+"BancIndependent,"Incorporated"","Sheffield","2018","EDWARD FENNEL MAULDIN,"JR","LEONARD PREUIT MAULDIN AND/OR MACKE MAULDIN"","n/a","n/a","n/a"
+"BancIndependent,"Incorporated"","Florence","2018","LEONARD PREUIT MAULDIN","n/a","14040","8.02%"
+"BancIndependent,"Incorporated"","Florence","2018","MACKE BUCHANAN MAULDIN","n/a","9918","5.66%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancIndependent,"Incorporated"","CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","n/a","22% OWNER & GENERAL PARTNER OF MPEFM II,"LP 11.2% OWNER MPEFM","LP 16.7% OWNER MPEFM","INC. 16.7% OWNER MPEFM II","INC."","2018"
+"BancIndependent,"Incorporated"","CEO OF BANCINDEPENDENT,"INC /PRESIDENT & DIRECTOR"","MACKE B. MAULDIN","n/a","GENERAL PARTNER & 18% OWNER OF MPEFM II,"LP","11.2% OWNER MPEFM","LP 16.7% OWNER MPEFM","INC. 16.7% OWNER MPEFM II","INC."","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","ROY S. STEVENS","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","RONNIE FLIPPO","n/a","PRESIDENT-R.G. FLIPPO & ASSOCIATES OWNS 100%","2018"
+"BancIndependent,"Incorporated"","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","n/a","GENERAL PARTNER & 17% OWNER OF MPEFM II LP 11.2% OWNER MPEFM,"LP 16.7% OWNER MPEFM","INC. 16.7% OWNER MPEFM II","INC."","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","JOSEPH F. COBB","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","CHARLES SASSER","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","n/a","MPEFMII LIMITED PARTNERSHIP","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","CEO OF BANK INDEPENDENT CFO/DIRECTOR","RICHARD WARDLAW","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","DON MILLER","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","JOANNE BECK","n/a","NONE","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","ALLAN NEILL","EVP-SERVICE PARTNERS,"LLC; PRESIDENT-JOHNSON PRODUCTS","LLC; PRESIDENT & 100% OWNER-BIG RIVER TOWERS","INC.; PRESIDENT & 100% OWNER-ALLAN NEILL PROPERTIES","INC.; PRESIDENT & 50% OWNER-A&H AIRCRAFT SALES","INC.; GENERAL PARTNER & 1% OWNER-NEILL LIMITED PARTNERSHIP; SECRETARY & 50% OWNER-A&D HOLDINGS","INC.; PRESIDENT & 50% OWNER-N&P PROPERTIES","LLC"","n/a","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","PAUL WALLACE","n/a","PLW1,"LLC 82.5% OWNER SHOALS PLW2","LLC 90% OWNER WALLACE HOLDINGS","LLC 50% OWNER WALCAR","LLC 50% OWNER THE WOODLANDS APARTMENT TOWNHOMES","LLC 50% OWNER"","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","VANESSA MORSE","n/a","SAGE DEVELOPMENT FUND,"50% OWNER FALL CREEK INVESTMENT FUND","50% OWNER RENOVATION BRANDS","LLC - CORPORATE SECTRETARY"","2018"
+"BancIndependent,"Incorporated"","DIRECTOR","LUCY TROUSDALE","n/a","50% OWNER HONEYSUCKLE HILL FARM,"LP"","2018"
+"BancIndependent,"Incorporated"","EXECUTIVE VICE PRESIDENT","PENNY CAMP","n/a","NONE","2018"
+```

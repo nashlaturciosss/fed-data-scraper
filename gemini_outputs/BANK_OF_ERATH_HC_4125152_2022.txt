@@ -1,0 +1,16 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BANK OF ERATH HOLDING COMPANY","Director Secretary","James M. Segura III","Director Secretary","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Director","Dr. Howard Alleman","Director","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Director","Vernon L. Caldwell III","Director","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Chairman of the Board Director","Paul G. Moresi,"III"","Director","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Director","Charley S. Steen,"III"","Director","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Director","Robert B. Johnson","Director","n/a","2022"
+"BANK OF ERATH HOLDING COMPANY","Director","Michael P. Broussard","Director","n/a","2022"
+```

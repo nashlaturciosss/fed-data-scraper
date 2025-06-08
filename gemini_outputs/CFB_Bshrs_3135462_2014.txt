@@ -1,0 +1,20 @@
+Here are the two tables extracted in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CFB Bancshares,"Inc."","Oak Ridge","2014","James Wilson","Common Stock","23388","6%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CFB Bancshares,"Inc."","Director","Clyde Darnell","Director Citizens First Bank","Four Star Properties","2014"
+"CFB Bancshares,"Inc."","Director","David Goodman","Director Citizens First Bank","Goodman Farms","2014"
+"CFB Bancshares,"Inc."","Director","Joe Cross","Director Citizens First Bank","n/a","2014"
+"CFB Bancshares,"Inc."","Director","Vander Murray","Director Citizens First Bank","VJ's Exxon","2014"
+"CFB Bancshares,"Inc."","Director","Steve Smith","Director Citizens First Bank","Smith & Smith,"P.C."","2014"
+"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Dir. & Chair. Citizens First Bank","Wilson & Brooks,"P.C."","2014"
+"CFB Bancshares,"Inc."","Director & President","Billy Rice","Director & CEO Citizens First Bank","HLR Investors","2014"
+"CFB Bancshares,"Inc."","Director & CFO","Wendell Langley","Director Citizens First Bank","HLR Investors","2014"
+"CFB Bancshares,"Inc."","Director","Larry D Williams","Director Citizens First Bank","Tubby's Construction","2014"
+"CFB Bancshares,"Inc."","Secretary","Elizabeth Maden","Secretary CFB Financial Services","n/a","2014"
+```

@@ -1,0 +1,24 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 document","following all of your instructions."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOLC Corp.","Fayetteville","2019","Hue Counts","Common Stock","25625","5.42%"
+"BOLC Corp.","Fayetteville","2019","Charles E. Gleghorn Living Trust","Common Stock","59440","12.57%"
+"BOLC Corp.","Fayetteville","2019","Joyce Groce","Common Stock","26625","5.63%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOLC Corp.","Director & Chairman","Charles E. Gleghorn","Director & Chairman","WCS Corporation","2019"
+"BOLC Corp.","Director","Hue Counts","Director","n/a","2019"
+"BOLC Corp.","Director","Kristie Brannon","Director","Elora Gin & Warehouse","2019"
+"BOLC Corp.","Director","Tony Groce","Director","Lincoln Paving,"LLC"","2019"
+"BOLC Corp.","Director","Charles Wayne Damron","Director","Twin Oaks","2019"
+"BOLC Corp.","Director","Tom S. Bigham,"III"","Director","n/a","2019"
+"BOLC Corp.","Director","Charles Higgins","Director","Twin Oaks","2019"
+"BOLC Corp.","Director","Billy Joe Evans","Director","n/a","2019"
+"BOLC Corp.","Director","William L. Thomas","Director","Your Extended Attic,"GP"","2019"
+"BOLC Corp.","Director President","Dale Gleghorn","Director","n/a","2019"
+"BOLC Corp.","Director CEO","Gay Gleghorn Dempsey","Director","n/a","2019"
+"BOLC Corp.","Director","Lee Lasater","n/a","n/a","2019"
+```

@@ -1,0 +1,33 @@
+Here are the extracted CSV tables from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Camilla Bancshares,"Inc."","Camilla","2020","Willene O'Neal Muggridge Asset Management Trust","n/a","8484","69.3"
+"Camilla Bancshares,"Inc."","Camilla","2020","William H. Butler Marital Trust B","n/a","1068","8.7"
+"Camilla Bancshares,"Inc."","Camilla","2020","Janet Butler Stallings","n/a","800","6.5"
+"Camilla Bancshares,"Inc."","Thomaston","2020","David E. Wright","n/a","760","6.2"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","President","Camilla Builders Supply Inc","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Chairman","RTM Associates Inc","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","President","RMBC Inc","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","CEO","RMBC Enterprises LLC","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Partner","RMBC Enterprises","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Partner,"Secretary"","Muggridge & Wimberly Limited LLC","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Secretary","Pelham Oil & Fertilizer Inc","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Partner","Muggridge & Kemp","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Co-Trustee","Willene O'Neal Muggridge Asset Management Trust","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","CEO","619 Mountain Drive,"LLC"","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Manager","R.M.B.C. Real Estate Management,"LLC"","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Co-Trustee","R.M.B.C. Real Estate Trust","2020"
+"Bank of Camilla","Chairman","Ray T. Muggridge,"III"","Co-Trustee","Willene O'Neal Muggridge Life Insurance Trust","2020"
+"Bank of Camilla","Director","E. Butler McDonald","Director","First Camilla Corp","2020"
+"Bank of Camilla","Director","Donald E. Shirah","CEO","Red Hill Farm Enterprise Inc","2020"
+"Bank of Camilla","Director","Donald E. Shirah","Director","First Camilla Corp","2020"
+"Bank of Camilla","Director","Donald E. Shirah","CFO","Pinecliff Planters Gin","2020"
+"Bank of Camilla","Director","Melanie M. Kemp","Director","First Camilla Corp","2020"
+"Bank of Camilla","Director","Janet B. Stallings","Trustee","E. L. Butler Farms Inc","2020"
+"Bank of Camilla","Vice Chairman","David E. Wright","n/a","E. L. Butler Farms Inc","2020"
+```

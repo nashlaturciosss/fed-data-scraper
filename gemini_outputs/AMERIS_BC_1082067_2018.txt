@@ -1,0 +1,26 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Ameris Bancorp","New York","2018","BlackRock,"Inc"","Common Stock","6039221","12.71%"
+"Ameris Bancorp","Malvern","2018","The Vanguard Group","Common Stock","4291348","9.03%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Ameris Bancorp","Director","William I. Bowen,"Jr."","Director of Ameris Bank","Bowen Donaldson Home for Funerals","2018"
+"Ameris Bancorp","Director","R. Dale Ezzell","Director of Ameris Bank","Wisecards Printing","2018"
+"Ameris Bancorp","Director","Leo J. Hill","Director of Ameris Bank","Advisor Network Solutions,"LLC"","2018"
+"Ameris Bancorp","Director and Chairman of Ameris Bancorp","Daniel B. Jeter","Director and Chairman of Ameris Bank","Standard Discount Corporation","2018"
+"Ameris Bancorp","Director","Robert P. Lynch","Director of Ameris Bank","Lynch Management Company","2018"
+"Ameris Bancorp","Director","Elizabeth A. McCague","Director of Ameris Bank","McCague & Company,"LLC"","2018"
+"Ameris Bancorp","Director","William H. Stern","Director of Ameris Bank","Stern & Stern and Associates","2018"
+"Ameris Bancorp","Director","Jimmy D. Veal","Director of Ameris Bank","Beachview Tent Rentals,"Inc."","2018"
+"Ameris Bancorp","Director,"President","and Chief Executive Officer"","Dennis J. Zember Jr.","Director and Chief Executive Officer of Ameris Bank","n/a","2018"
+"Ameris Bancorp","Executive Vice President and Banking Group President","Lawton E. Bassett,"III"","President of Ameris Bank","n/a","2018"
+"Ameris Bancorp","Executive Vice President and Chief Credit Officer","Jon S. Edwards","Executive Vice President and Chief Credit Officer of Ameris Bank","n/a","2018"
+"Ameris Bancorp","Executive Vice President and Chief Strategy Officer","James A. LaHaise","Executive Vice President and Chief Strategy Officer of Ameris Bank","n/a","2018"
+"Ameris Bancorp","Executive Vice President,"Chief Administrative Officer","and Corporate Secretary."","Cindi H. Lewis","Executive Vice President,"Chief Administrative Officer","and Corporate Secretary of Ameris Bank"","n/a","2018"
+"Ameris Bancorp","Executive Vice President and Chief Risk Officer","William D. McKendry","Executive Vice President and Chief Risk Officer of Ameris Bank","n/a","2018"
+"Ameris Bancorp","Executive Vice President and Chief Financial Officer","Nicole S. Stokes","Executive Vice President and Chief Financial Officer of Ameris Bank","n/a","2018"
+```

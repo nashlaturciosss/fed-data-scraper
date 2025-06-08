@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+### SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"THE BANCSHARES,"INC."","Jennings","2018","Clarence L Miller Estate","Common Stock","114933","14.71%"
+"THE BANCSHARES,"INC."","Jennings","2018","Logan L. Nichols","Common Stock","51816","6.60%"
+```
+### INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"THE BANCSHARES,"INC."","Chairman/CEO","Jeff L Boudreaux","Director/CEO of The Bank","Member-Petit Peu De Ciel,"LLC"","2018"
+"THE BANCSHARES,"INC."","Director/President","Blaine Boudreaux","Director/President of The Bank","Member-Petit Peu De Ciel,"LLC"","2018"
+"THE BANCSHARES,"INC."","Director/Treasurer","Chris Thibodeaux","n/a","Grace Ranch,"Inc."","2018"
+"THE BANCSHARES,"INC."","Principal Securities Holder","Clarence L. Miller Estate","n/a","n/a","2018"
+"THE BANCSHARES,"INC."","Vice Chairman/Director","Charles E. Ray,"M.D."","Vice-President of Jeff Davis Diagnostics","n/a","2018"
+"THE BANCSHARES,"INC."","Director","Kenneth W. Young,"Sr."","n/a","Young's Appliance Repair","2018"
+"THE BANCSHARES,"INC."","Director/Secretary","Pat Hanley","n/a","Pat's Electrical Service,"LLC"","2018"
+"THE BANCSHARES,"INC."","Director","Robert Miller","n/a","Point to Point Directional Drilling,"Inc."","2018"
+"THE BANCSHARES,"INC."","Director","Audie Hanks","n/a","H&H Electrical Service","2018"
+```

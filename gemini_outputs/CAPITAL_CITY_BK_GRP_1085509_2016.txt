@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2016","Estate of Robert H. Smith","Common Stock","2630242","15.53%"
+"Capital City Bank Group,"Inc."","Tallahassee","2016","William G. Smith,"Jr."","Common Stock","3765096","22.23%"
+"Capital City Bank Group,"Inc."","Tallahassee","2016","2S Partnerhip","Common Stock","1049361","6.19%"
+"Capital City Bank Group,"Inc."","San Francisco","2016","BlackRock Instituitional Trust Company,"N.Α."","Common Stock","869641","5.13%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","2 S Partnership","2016"
+"Capital City Bank Group,"Inc."","n/a","Estate of Robert H. Smith","n/a","n/a","2016"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A,"Barron"","n/a","Elizabeth D. Barron","2016"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President Chief Financial Officer","n/a","2016"
+"Capital City Bank Group,"Inc."","Director","Frederick Carro || III","President","Carroll & Company,"СРА"","2016"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2016"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2016"
+"Capital City Bank Group,"Inc."","Director","John K. Humphress","Vice President","Wadsworth Humphress & Hollar,"P.A."","2016"
+"Capital City Bank Group,"Inc."","Director","Lina Knox","Community Volunteer","n/a","2016"
+"Capital City Bank Group,"Inc."","Director","Henry Lewis III","Interim Provost and VP for Academic Affairs","n/a","n/a","2016"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","President,"CEO"","Bense Enterprises Inc.","2016"
+"Capital City Bank Group,"Inc."","Director","John Sample","Senior Vice President/CFO","Atlantic American Corporation","2016"
+```

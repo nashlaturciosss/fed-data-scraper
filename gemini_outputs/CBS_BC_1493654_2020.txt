@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS BANC-CORP.","Russellville","2020","Cecil Batchelor","n/a","20","0.04%"
+"CBS BANC-CORP.","Russellville","2020","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","27.99%"
+"CBS BANC-CORP.","Russellville","2020","John Gregory Batchelor","n/a","n/a","49.6881%"
+"CBS BANC-CORP.","Russellville","2020","John Gregory Batchelor,"Trustee"","n/a","n/a","18.9048%"
+"CBS BANC-CORP.","Russellville","2020","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","28.91%"
+"CBS BANC-CORP.","Russellville","2020","Rebecca Batchelor Reeves","n/a","n/a","50.0671%"
+"CBS BANC-CORP.","Russellville","2020","Rebecca Batchelor Reeves,"Trustee"","n/a","n/a","15.8614%"
+"CBS BANC-CORP.","Russellville","2020","John Bradley Reeves","n/a","n/a","32.2413%"
+"CBS BANC-CORP.","Birmingham","2020","Donald M. James*","n/a","2679","4.73%"
+"CBS BANC-CORP.","Russellville","2020","Sarah Graves*","n/a","2174","3.83%"
+"CBS BANC-CORP.","Tuscumbia","2020","Olivia J. Wages*","n/a","2126","3.75%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS BANC-CORP.","Chairman Board of Directors","Mr. Cecil Batchelor","Chairman Emeritus Board of Directors CB&S Bank,"Inc."","Cecil Batchelor and Claude Sparks,"Partnership (50%)"","2020"
+"CBS BANC-CORP.","n/a","Cecil & Olivia Batchelor Family Limited Partnership","n/a","Shareholder","2020"
+"CBS BANC-CORP.","n/a","Olivia & Cecil Batchelor Family Limited Partnership","n/a","Shareholder","2020"
+"CBS BANC-CORP.","President & CEO","Mr. Michael Ross","President & CEO CB&S Bank,"Inc."","n/a","2020"
+"CBS BANC-CORP.","Vice Chairman and Chairman Elect Board of Directors","Mr. Greg Batchelor","Chairman Board of Directors CB&S Bank,"Inc."","Dependable True Value Hardware","2020"
+"CBS BANC-CORP.","Member Board of Directors","Mr. Brad Reeves","Member Board of Directors CB&S Bank,"Inc."","Vice-President Dependable True Value Hardware","2020"
+"CBS BANC-CORP.","Vice Chairman Elect Board of Directors","Mrs. Rebecca Reeves","Vice-Chairman and Chairman Elect Board of Directors CB&S Bank","n/a","2020"
+"CBS BANC-CORP.","Member Board of Directors","Mr. John Bradley Reeves","Member Board of Directors CB&S Bank,"Inc."","n/a","2020"
+"CBS BANC-CORP.","Secretary","Mr. John Aldridge","Executive Vice-President CB&S Bank,"Inc."","n/a","2020"
+```

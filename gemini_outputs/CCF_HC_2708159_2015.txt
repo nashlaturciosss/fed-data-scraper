@@ -1,0 +1,22 @@
+"Here are the two tables you requested","formatted as CSV text and extracted from the provided FR Y-6 document:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCF HOLDING COMPANY","Jonesboro","2015","David B. Turner","Common Stock","263850","6.46%"
+"CCF HOLDING COMPANY","Jonesboro","2015","John Mitchell","Common Stock","251517","6.16%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCF HOLDING COMPANY","Sr. VP","C. T. ""Tommy"" Segers","EVP-Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Sr. VP","Edith W. Stevens","Sr. VP-Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Sr. VP & CFO","Mary Jo Jester","EVP & CFO-Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Sr. VP","Shirley Etheridge","None","None","2015"
+"CCF HOLDING COMPANY","Sr. VP","Kathy Zovlonsky","None","None","2015"
+"CCF HOLDING COMPANY","Director & Acting Chairman","Edwin S. Kemp,"Jr."","Attorney; Director & Secretary - Heritage Bank","President,"Edwin S. Kemp","Jr. Attorney"","2015"
+"CCF HOLDING COMPANY","Director","John T. Mitchell","Director- Heritage Bank","50% owner & President of Adams-Mitchell Realty,"Inc."","2015"
+"CCF HOLDING COMPANY","President & CEO - Director","David B. Turner","Chairman of the Board Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Executive Vice President - Director","Leonard A. Moreland","President & CEO; Director - Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Director","Roy V. Hall","Director; Chairman of Audit Committee Heritage Bank","Director - Macedonian Call Foundation,"Inc."","2015"
+"CCF HOLDING COMPANY","Director","Stephen E. Boswell","Director- Heritage Bank","Stephen E. Boswell PC; 100% Owner","2015"
+"CCF HOLDING COMPANY","Sr. VP","John Westervelt","EVP-Heritage Bank","None","2015"
+"CCF HOLDING COMPANY","Sr. VP","John C. Bowdoin","EVP-Heritage Bank","None","2015"
+```

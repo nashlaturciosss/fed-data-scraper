@@ -1,0 +1,22 @@
+Here are the CSV extractions:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Biscayne Bancshares,"Inc."","n/a","2014","Responsive data are contained in the Conficennal Volume. These data contain the names and holdings of persons whose percentage ownership of the Reporter exceed the threshold","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Biscayne Bancshares,"Inc"","Director","Joel S Lawson,"IV"","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director & Chairman","Thomas D Lumpkin","Director & Chairman","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Sheldon B Paley","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","GM Schwerzer","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Steve Simon","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Jonathan Perlman","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Rocer: Gullenn","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Jeffrey Levey","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director","Prip J. Shechter","Director","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","Director & CEO","Lorie Yarchin","Director & CEO","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","EVP","Ana L Dominguez","Chief Lending Officer","Biscayne Bank","2014"
+"Biscayne Bancshares,"Inc"","CFO","Jean-Marie Florestai","CFO","Biscayne Bank","2014"
+```

@@ -1,0 +1,17 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Catoosa Bancshares,"Inc."","Lookout Mtn.","2016","Joseph M. Haskins,"M.D."","n/a","7","100.00%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
+"Catoosa Bancshares,"Inc."","Vice Chairman,"Vice Pres. Director"","A. Russell Friberg,"Jr."","Vice Chairman,"Director"","Heritage Funeral Home,"LP Consultant"","2016"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
+```

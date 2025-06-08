@@ -1,0 +1,15 @@
+Here are the two requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Barwick Bancorp Inc.","Director & Chairman","Kenneth Kresge","Director & Chairman","See Attached List","2022"
+"Barwick Bancorp Inc.","Director","Robert McLeod","Director","See Attached List","2022"
+"Barwick Bancorp Inc.","Director","Preston Sloan","Director","See Attached List","2022"
+"Barwick Bancorp Inc.","Director & CEO","James Bange","Vice Chairman","Barwick Banking Company","2022"
+"Barwick Bancorp Inc.","Director & President","Chad Bowling","CEO & President and Director","Barwick Banking Company","2022"
+"Barwick Bancorp Inc.","CFO","John Hodas","CFO","Barwick Banking Company","2022"
+```

@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc"","Baileyton","2017","Terry Neal & Tressa Walker","Common Stock","301737","6.26%"
+"Altrust Financial Services,"Inc"","Cullman","2017","Cecil Alan & Amy Walker","Common Stock","284729","5.90%"
+"Altrust Financial Services,"Inc"","Baileyton","2017","Timothy Dudley Walker","Common Stock","260860","5.41%"
+"Altrust Financial Services,"Inc"","Cullman","2017","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1200648","24.89%"
+"Altrust Financial Services,"Inc"","n/a","2017","None","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc"","Director Vice Chairman CEO","Robin Cummings","Director CEO","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director","George Whit Drake","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director","Noel Jasper Estes","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director Chairman","Cecil Alan Walker","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director Secretary","Terry Neal Walker","Director Secretary","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director","Brian Clarke Witcher","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","Director","Candace Nail Hooten","EVP","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","n/a","Craig Estes","Director","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","CFO","Lionel Powell","CFO","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","n/a","Timothy Williams","Director President","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","n/a","Charles Herndon","EVP","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","n/a","William Kinney","EVP","Peoples Bank","2017"
+"Altrust Financial Services,"Inc"","n/a","Altrust Financial Services,"Inc."","n/a","None","2017"
+```

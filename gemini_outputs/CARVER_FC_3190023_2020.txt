@@ -1,0 +1,18 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CARVER FINANCIAL CORPORATION","Savannah","2020","Robert E. James","Common Stock","286243.7650","49.81%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","See Attachment A","2020"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Funeral Home Director & Owner","2020"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Director","President - The Plummer-Hill Group LLC","2020"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","General Partner - Century Investors,"Ltd."","2020"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","See Attachment B","2020"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","n/a","2020"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","Senior Pastor- St. Paul C.M.Ε. Church","2020"
+"CARVER FINANCIAL CORPORATION","Senior Vice President","John L. Turner","Chief Operating Officer Senior Vice President","JLS & Associates","2020"
+```

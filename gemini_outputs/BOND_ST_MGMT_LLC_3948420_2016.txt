@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"FCB FINANCIAL HOLDINGS,"INC."","USA","2016","Black Rock Fund Advisors","Other","2219137","5.249%"
+"FCB FINANCIAL HOLDINGS,"INC."","USA","2016","Franklin Mutual Advisers LLC","Other","2638409","6.241%"
+"FCB FINANCIAL HOLDINGS,"INC."","USA","2016","The Vanguard Group","Other","2725341","6.447%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOND STREET MANAGEMENT,"LLC"","Manager","Leslie J. Lieberman","Director and Executive Vice Chairman","SEI Capital,"LLC"","2016"
+"BOND STREET MANAGEMENT,"LLC"","Manager","Vincent Tese","Director","PRM/ALP Partnership","2016"
+"BOND STREET INVESTORS LLC","Manager of the Managing Member","Leslie J. Lieberman","Director and Executive Vice Chairman","SEI Capital,"LLC"","2016"
+"BOND STREET INVESTORS LLC","Manager of the Managing Member","Vincent Tese","Director","Children's Cancer & Blood Foundation","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director and Executive Vice Chairman","Leslie J. Lieberman","Director and Executive Vice Chairman","SEI Capital,"LLC"","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director and Executive Chairman","Vincent Tese","Director and Executive Chairman","Cablevision Systems Corp.","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director","Stuart I. Oran","Director","Roxbury Capital Group","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director,"President and Chief Executive Officer"","Kent S. Ellert","Director,"President and Chief Executive Officer"","Tiburon Place LLC","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director","Alan Bernikow","Director","Alan S. Bernikow and Associates","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Director/Trustee","Gerald Luterman","Director","Harbinger Group,"Inc."","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Attorney","Thomas E. Constance","Director","Kramer Levin Naftalis & Frankel LLP","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Executive,"Manufacturing and Engineering"","Howard Curd","Director","Uniroyal Global Engineered Products,"LLC"","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Retired","Frederic V. Salerno","Director","Akamai Tech","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Executive,"Real Estate"","William L. Mack","Director","Mack Real Estate Group","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Executive,"Oil & Gas Companies"","Paul A. Novelly","Director","World Point Terminals Inc.","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Executive Vice President and Chief Credit Officer","James E. Baiter","Executive Vice President and Chief Credit Officer","Bito Holdings,"LLC"","2016"
+"FCB FINANCIAL HOLDINGS,"INC."","Chief Financial Officer","Jennifer L. Simons","Chief Financial Officer","n/a","2016"
+```

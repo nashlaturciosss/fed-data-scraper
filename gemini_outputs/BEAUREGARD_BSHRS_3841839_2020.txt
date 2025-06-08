@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Gary and Betty Blackmon","Common Stock","7731","7"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Carroll A. Green","Common Stock","18072","29"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Marjorie W. Green","Common Stock","10660","n/a"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Brant A. Green","Common Stock","1136","n/a"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Mandy G. Green","Common Stock","1000","n/a"
+"Beauregard Bancshares,"Inc."","Phippsburg","2020","Eleanor Lynn Kay","Common Stock","6551","6"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Stuart S. Kay,"Jr."","Common Stock","6654","18"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Judith S. Kay","Common Stock","3910","n/a"
+"Beauregard Bancshares,"Inc."","Dallas","2020","David Shepard Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc."","Austin","2020","Geoffrey Scot Kay","Common Stock","4680","n/a"
+"Beauregard Bancshares,"Inc."","DeRidder","2020","Millard E. Morris","Common Stock","5323","5"
+"Beauregard Bancshares,"Inc."","None","2020","None","Common Stock","None","None"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Beauregard Bancshares,"Inc"","n/a","Bailey Living Trust of 1996","Director","n/a","2020"
+"Beauregard Bancshares,"Inc"","Director,"CFO"","Carroll A. Green","Director,"Chairman of the Board"","Green Chevrolet,"Inc."","2020"
+"Beauregard Bancshares,"Inc"","n/a","Judy S. Kay","Director","n/a","2020"
+"Beauregard Bancshares,"Inc"","n/a","Stuart S. Kay,"Jr."","Director","n/a","2020"
+"Beauregard Bancshares,"Inc"","n/a","Gary Blackmon","Director","CBG,"Inc."","2020"
+"Beauregard Bancshares,"Inc"","n/a","James David Cain","Director","n/a","2020"
+"Beauregard Bancshares,"Inc"","n/a","Brant Green","Director","BG Cattle","2020"
+"Beauregard Bancshares,"Inc"","n/a","Rafeal Webb Stark","Director","n/a","2020"
+"Beauregard Bancshares,"Inc"","n/a","Charles Lestage","Director","LA Land & Title,"LLC"","2020"
+```

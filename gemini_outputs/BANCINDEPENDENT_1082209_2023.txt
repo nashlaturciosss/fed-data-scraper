@@ -1,0 +1,26 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancIndependent","Sheffield","2023","MPEFM II LIMITED PARTNERSHIP","n/a","71805","41.16"
+"BancIndependent","Florence","2023","LEONARD PREUIT MAULDIN","n/a","14450","8.31"
+"BancIndependent","Florence","2023","MACKE BUCHANAN MAULDIN","n/a","9810","5.62"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancIndependent","CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","BANKER","MPEFM II,"LE"","2023"
+"BancIndependent","CEO OF BANCINDEPENDENT,"INC /PRESIDENT & DIRECTOR"","MACKE B. MAULDIN","BANKER","MPEFM II,"LP"","2023"
+"BancIndependent","DIRECTOR","RONNIE FLIPPO","RETIRED CONSULTANT","R.G. FLIPPO & ASSOCIATES","2023"
+"BancIndependent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","MPEEM II LP","2023"
+"BancIndependent","n/a","MAULDIN DYNASTY TRUST","TRUST","n/a","2023"
+"BancIndependent","CEO OF BANK INDEPENDENT CFO/DIRECTOR","RICHARD WARDLAW","BANKER","n/a","2023"
+"BancIndependent","DIRECTOR","DON MILLER","BANKER","n/a","2023"
+"BancIndependent","DIRECTOR","STEPHEN RABY","BUSINESSMAN","HUNTSVILLE DIRECT COMMUNICATIONS","2023"
+"BancIndependent","DIRECTOR","ALLAN NEILL","BUSINESSMAN","BIG RIVER TOWERS,"INC."","2023"
+"BancIndependent","DIRECTOR","PAUL WALLACE","BUSINESSMAN","PLWI,"LLC"","2023"
+"BancIndependent","DIRECTOR","VANESSA MORSE","BUSINESSWOMAN","SAGE DEVELOPMENT FUND","2023"
+"BancIndependent","DIRECTOR","LUCY TROUSDALE","BUSINESSWOMAN","HONEYSUCKLE HILL FARM,"LP"","2023"
+"BancIndependent","EXECUTIVE VICE PRESIDENT","PENNY CAMP","BANKER","n/a","2023"
+"BancIndependent","EXECUTIVE VICE PRESIDENT","STACY SUGGS","BANKER","SAFEPLACE,"INC"","2023"
+```

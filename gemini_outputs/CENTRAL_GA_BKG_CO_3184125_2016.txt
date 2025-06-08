@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Georgia Banking Company","Cochran","2016","Jo Anne Phillips Ard","Common Stock","13","7.03%"
+"Central Georgia Banking Company","Cochran","2016","Marcella P. Cochran","Common Stock","13","7.03%"
+"Central Georgia Banking Company","Cochran","2016","Anne Phillips Davis","Common Stock","17","9.19%"
+"Central Georgia Banking Company","Cochran","2016","Randi M. Phillips","Common Stock","17","9.19%"
+"Central Georgia Banking Company","Cochran","2016","Leo L. Phillips,"III"","Common Stock","17","9.19%"
+"Central Georgia Banking Company","Cochran","2016","Kathryn P. Collier","Common Stock","13","7.03%"
+"Central Georgia Banking Company","Cochran","2016","Leo L. Phillips,"Jr."","Common Stock","23","12.43%"
+"Central Georgia Banking Company","Cochran","2016","John R. Phillips","Common Stock","35","18.92%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Georgia Banking Company","Director/Chairman","John R. Phillips","State Bank of Cochran Director/Chairman","Cochran Oil Mill & Ginnery - Director/Chairman","2016"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","State Bank of Cochran Director","Cochran Oil Mill & Ginnery - President","2016"
+"Central Georgia Banking Company","President","Jackie L. Bowen","State Bank of Cochran President","n/a","2016"
+```

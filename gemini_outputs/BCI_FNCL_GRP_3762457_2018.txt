@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BCI Financial Group","Santiago","2018","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","President & CEO","City National Capital Finance,"LLC."","2018"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2018"
+"BCI Miami Branch","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2018"
+"City National Bank of Florida","Secretary/General Manager","S. Marshall Martin","General Counsel","CNB Housing Foundation,"Inc."","2018"
+"City National Bank of Florida","Treasurer","Daniel S. Kushner,"Jr."","Chief Financial Officer","BCICapital,"Inc."","2018"
+```

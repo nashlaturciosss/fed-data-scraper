@@ -1,0 +1,17 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BANK OF ERATH HOLDING COMPANY","Alpine","2018","Charles B. Caldwell II,"Trustee"","n/a","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Thibodaux","2018","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Abbeville","2018","Paul G. Moresi,"Jr. &"","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BANK OF ERATH HOLDING COMPANY","Director & Chairman","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director & President","Beth B. Melebeck","Director,"President Treasurer"","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director","James M. Segura III","Director Secretary","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director","Dr. Howard Alleman","Director","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director","Vernon L. Caldwell III","Director","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director","Paul G. Moresi,"III"","Director","n/a","2018"
+"BANK OF ERATH HOLDING COMPANY","Director","Charley S. Steen,"III"","Director","n/a","2018"
+```

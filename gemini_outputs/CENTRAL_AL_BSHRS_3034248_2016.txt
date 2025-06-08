@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Earl Ryser","n/a","n/a","0.86%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Spencer J. Coleman,"Sr. MD"","n/a","n/a","2.30%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Sheila Spiers","n/a","n/a","2.00%"
+"Central Alabama Bancshares,"Inc."","Prattville","2016","Albert Striplin","n/a","n/a","1.10%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Travis Cosby,"III"","n/a","n/a","2.30%"
+"Central Alabama Bancshares,"Inc."","Deatsville","2016","Michael R. Morgan","n/a","n/a","1.40%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","John R. Williams","n/a","n/a","1.80%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Johnny M. Carothers,"Jr."","n/a","n/a","1.20%"
+"Central Alabama Bancshares,"Inc."","Eclectic","2016","Rana S. Futral","n/a","n/a","1.20%"
+"Central Alabama Bancshares,"Inc."","Wetumpka","2016","Brian Barrett","n/a","n/a","0.002%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Alabama Bancshares,"Inc."","Director","Earl Ryser","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","Spencer J. Coleman,"Sr. MD"","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","Sheila Spiers","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","Michael R. Morgan","President and CEO","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","John R. Williams","President","Mortgage Corporation of the South","2016"
+"Central Alabama Bancshares,"Inc."","Director","Johnny M. Carothers,"Jr."","President","Baseline Forest Services,"Inc."","2016"
+"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","n/a","None","2016"
+"Central Alabama Bancshares,"Inc."","Director","Brian Barrett","n/a","None","2016"
+```

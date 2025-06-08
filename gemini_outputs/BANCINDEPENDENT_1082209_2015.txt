@@ -1,0 +1,39 @@
+Here are the extracted tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancIndependent,"Incorporated"","Leighton","2015","CLAUDE EDWARD FELTON","n/a","11400","6.40%"
+"BancIndependent,"Incorporated"","n/a","2015","MPEFM II LIMITED PARTNERSHIP","n/a","71690","40.23%"
+"BancIndependent,"Incorporated"","Sheffield","2015","EDWARD FENNEL MAULDIN,"JR"","n/a","n/a","n/a"
+"BancIndependent,"Incorporated"","Sheffield","2015","LEONARD PREUIT MAULDIN","n/a","n/a","n/a"
+"BancIndependent,"Incorporated"","Sheffield","2015","MACKE MAULDIN","n/a","n/a","n/a"
+"BancIndependent,"Incorporated"","Florence","2015","LEONARD PREUIT MAULDIN","n/a","14983","8.41%"
+"BancIndependent,"Incorporated"","Florence","2015","MACKE BUCHANAN MAULDIN","n/a","12014","6.74%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank Independent","CEO/CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","BANKER","MPEFM II,"LP"","2015"
+"Bank Independent","CEO/CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","BANKER","MPEFM,"LP"","2015"
+"Bank Independent","CEO/CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","BANKER","MPEFM II,"INC."","2015"
+"Bank Independent","CEO/CHAIRMAN AND DIRECTOR","EDWARD FENNEL MAULDIN,"JR"","BANKER","SEAWATCH","2015"
+"Bank Independent","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","BANKER","MPEFM II,"LP"","2015"
+"Bank Independent","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","BANKER","MPEFM,"LP"","2015"
+"Bank Independent","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","BANKER","MPEFM,"INC."","2015"
+"Bank Independent","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","BANKER","MPEFM II,"INC."","2015"
+"Bank Independent","PRESIDENT & DIRECTOR","MACKE B. MAULDIN","BANKER","SEAWATCH","2015"
+"Bank Independent","DIRECTOR","ROY S. STEVENS","RETIRED EDUCATOR","n/a","2015"
+"Bank Independent","DIRECTOR","RONNIE FLIPPO","RETIRED CONSULTANT","R.G. FLIPPO & ASSOCIATES","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","MPEFM II LP","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","MPEFM,"LP"","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","MPEFM,"INC."","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","MPEFM II,"INC."","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT & DIRECTOR","LEONARD PREUIT MAULDIN","BANKER","SEAWATCH","2015"
+"Bank Independent","DIRECTOR","JOSEPH F. COBB","RETIRED BANKER","n/a","2015"
+"Bank Independent","DIRECTOR","CHARLES SASSER","RETIRED BANKER","n/a","2015"
+"Bank Independent","n/a","MPEFMII LIMITED PARTNERSHIP","LIMITED PARTNERSHIP","n/a","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT AND CFO","RICHARD WARDLAW","BANKER","n/a","2015"
+"Bank Independent","EXECUTIVE VICE PRESIDENT","DON MILLER","BANKER","n/a","2015"
+"Bank Independent","DIRECTOR","JOANNE BECK","RETIRED BANKER","n/a","2015"
+"Bank Independent","DIRECTOR","ALLAN NEILL","BUSINESSMAN","SERVICE PARTNERS,"LLC"","2015"
+```

@@ -1,0 +1,18 @@
+Here are the requested extractions in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Anchor Bancorp,"Inc"","La Paz","2021","Guido Hinojosa","Common Stock","4512478","84.85%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Anchor Bancorp Inc.","Director","George Gentile","Director","Environmental Consultant Land Development","2021"
+"Anchor Bancorp Inc.","Chairman of the Board CEO & President","Nelson Hinojosa","Chairman of the Board CEO & President","Anchor Bank","2021"
+"Anchor Bancorp Inc.","Director","Philippe C. Jeck","Director","Jeck,"Harris","Raynor & Jones","P.A."","2021"
+"Anchor Bancorp Inc.","Director","Thomas J Keys","Director","n/a","2021"
+"Anchor Bancorp Inc.","Director","Randy Nobles","Director","n/a","2021"
+"Anchor Bancorp Inc.","Vice Chairman","Peter Pantages","Director","Anchor Commercial Bank","2021"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","Director","Banco Fortaleza S.A.","2021"
+"Anchor Bancorp Inc.","Principal Shareholder","Guido Hinojosa Cardoso","None","Grupo Financiero Fortaleza S.A","2021"
+```

@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBC Holding Company","Fitzgerald","2019","Sidney S. Anderson,"Jr."","n/a","113968","19.68%"
+"CBC Holding Company","Fitzgerald","2019","A. B. C. Dorminy,"III"","n/a","35006","6.05%"
+"CBC Holding Company","Fitzgerald","2019","Cede & Co.","n/a","33998","5.87%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBC Holding Company","Chief Executive Officer and President","J Corey Gibbs","President/CEO","Community Banking Co. of Fitzgerald","2019"
+"CBC Holding Company","Chairman of the Board","John T. Croley,"Jr."","Chairman of the Board","Community Banking Co. of Fitzgerald","2019"
+"CBC Holding Company","Director Emeritus","Sidney S. Anderson,"Jr."","Director Emeritus","Dixie Peanut Company","2019"
+"CBC Holding Company","Director","Lee Phillip Liles","Director","Community Banking Co. of Fitzgerald","2019"
+"CBC Holding Company","Director","Hulin Reeves,"Jr."","Director","Community Banking Co. of Fitzgerald","2019"
+"CBC Holding Company","Treasurer","James Thomas Casper,"III"","Treasurer","Community Banking Co. of Fitzgerald","2019"
+"CBC Holding Company","Vice Chairman","A.B.C. Dorminy,"III"","Vice Chairman","ABCD Farms,"Inc."","2019"
+"CBC Holding Company","Director","Wyndall L. Walters","Director","Irwin County Motors","2019"
+"CBC Holding Company","Director","Steven L. Mitchell","Director","Irwin Timber Co.","2019"
+"CBC Holding Company","Secretary","John Edward Smith,"III"","Secretary","Jay,"Sherrell","Smith and Braddy"","2019"
+"CBC Holding Company","Director","Jack Paulk","Director","Haile's Bldg","2019"
+"CBC Holding Company","Director","Art Anderson","Director","n/a","2019"
+"CBC Holding Company","Director","Larry E. Stevenson","Sr. Executive VP and Chief Credit Officer","n/a","2019"
+"CBC Holding Company","Director","Louis E,"Harper","Jr."","Director","LE Harper Construction Co","2019"
+"CBC Holding Company","Director","Howard A. Wiley","Director","n/a","2019"
+"CBC Holding Company","Director","Eric H. Stone","Director","n/a","2019"
+```

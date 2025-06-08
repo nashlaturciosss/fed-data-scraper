@@ -1,0 +1,31 @@
+"Okay","here are the two CSV tables extracted from the document","following all instructions and formatting rules:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"AMERANT FLORIDA BANCORP INC.","Coral Gables","2021","Amerant Bancorp Inc.","Common Stock","125769788","100%"
+"AMERANT BANCORP INC.","Caracas","2021","Vollmer Family aggregate","n/a","2933946","9.04%"
+"AMERANT BANCORP INC.","Caracas","2021","Gustavo J. Vollmer A.","n/a","1604913","4.94%"
+"AMERANT BANCORP INC.","Caracas","2021","Capriles Family aggregate","n/a","2997905","9.24%"
+"AMERANT BANCORP INC.","Caracas","2021","ALTAMIS B.V.","n/a","409580","1.26%"
+"AMERANT BANCORP INC.","Caracas","2021","Miguel A. Capriles L","n/a","1430622","4.40%"
+"AMERANT BANCORP INC.","Caracas","2021","Marturet Family aggregate","n/a","2997726","9.23%"
+"AMERANT BANCORP INC.","Caracas","2021","Maturet Medina Family aggregate","n/a","1901577","5.86%"
+"AMERANT BANCORP INC.","Caracas","2021","Diana Medina de Marturet","n/a","1669823","5.14%"
+"AMERANT BANCORP INC.","Radnor","2021","PATRIOT FINANCIAL PARTNERS,"L.P."","n/a","2084197","6.42%"
+"AMERANT BANCORP INC.","New York","2021","BLACKROCK,"INC."","n/a","1633698","5.12%"
+"AMERANT BANCORP INC.","Boston","2021","WELLINGTON MANAGEMENT GROUP LLP","n/a","2325008","7.16%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"AMERANT FLORIDA BANCORP,"INC."","Director","Guillermo Villar","Director","Amerant Bank,"N.A."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director","Millar Wilson","Director","Amerant Bank,"N.A."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director & Chairman of the Board","Frederick C. Copeland Jr","Director and Chairman of the Board","Amerant Bank,"N.A."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director","Pamella J. Dana","Owner and Managing Member","Sure Lure Charter Company","2021"
+"AMERANT FLORIDA BANCORP,"INC."","n/a","Alberto Manuel Capriles Santander","n/a","None","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Executive Vice President & Chief Risk Officer","Miguel Palacios","n/a","Amerant Investments,"Inc."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Executive Vice President and CFO","Carlos Iafigliola","n/a","Amerant Investments,"Inc."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director","Gustavo A. Marturet Medina","n/a","Inversiones Marturet","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director,"Vice-Chair","President & CEO"","M Gerald Paul Plush","Director,"Vice Chair","President and CEO"","Amerant Florida Bancorp,"Inc."","2021"
+"AMERANT FLORIDA BANCORP,"INC."","Director","John W. Quill","n/a","None","2021"
+```

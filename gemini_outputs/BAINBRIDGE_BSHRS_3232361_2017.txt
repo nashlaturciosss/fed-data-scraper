@@ -1,0 +1,28 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2017","William R. Cox,"Sr."","n/a","100393","10.562%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2017","E. Dewey Robinson","n/a","79372","8.350%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2017","Winston Brock","n/a","70541","7.421%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2017","Greg Calhoun","n/a","56875","5.984%"
+"Bainbridge Bancshares,"Inc."","Bainbridge","2017","Terril Scott","n/a","56250","5.918%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bainbridge Bancshares,"Inc."","Director,"Chairman & Treasurer"","Charles Whittaker","Director,"Chairman of First National Bank of Decatur County"","Dowdy & Whittaker CPA","2017"
+"Bainbridge Bancshares,"Inc."","Director & Secretary","Roger Mills","Director of First National Bank of Decatur County","Roger L. Mills DMD","2017"
+"Bainbridge Bancshares,"Inc."","Director","Edgar Robinson","Director of First National Bank of Decatur County","Peoples Loan Service,"Inc."","2017"
+"Bainbridge Bancshares,"Inc."","Director","Richard F. Ivey","Director of First National Bank of Decatur County","Meredian Holding Group","2017"
+"Bainbridge Bancshares,"Inc."","Director & Asst. Secretary & Chair of ALCO Committee","Roy Adams","Director of First National Bank of Decatur County","Adams Const.","2017"
+"Bainbridge Bancshares,"Inc."","Director","Butch Yarbrough","Director of First National Bank of Decatur County","Yarbrough Farms","2017"
+"Bainbridge Bancshares,"Inc."","Director","Landin Marzolf","First National Bank of Decatur County","L & K Chiropractic Services LLC","2017"
+"Bainbridge Bancshares,"Inc."","Director","Carroll Middleton","N/A","Construction CGM","2017"
+"Bainbridge Bancshares,"Inc."","Director","Donald Barber","Director of First National Bank of Decatur County","Barber Fertilizer Co.","2017"
+"Bainbridge Bancshares,"Inc."","Director","Tim Smith","Director of First National Bank of Decatur County,","Tim Smith & Associates,"Inc."","2017"
+"Bainbridge Bancshares,"Inc."","None","Williams R. Cox,"Sr."","None","Southern Fidelity,","2017"
+"Bainbridge Bancshares,"Inc."","Director","E. Terril Scott","N/A","L&W Farms","2017"
+"Bainbridge Bancshares,"Inc."","CFO & Asst. Secretary","Donna H. Kelley","CFO,"Secretary & Vice President of First National Bank of Decatur County"","n/a","2017"
+"Bainbridge Bancshares,"Inc."","CEO & Director","Brad E. Barber","CEO & Director of First National Bank of Decatur County","n/a","2017"
+```

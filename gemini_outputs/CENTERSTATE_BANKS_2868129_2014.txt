@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Centerstate Banks,"Inc."","Boston","2014","Wellington Management Co.,"LLP"","Common Stock","3757570","8.29%"
+"Centerstate Banks,"Inc."","New York","2014","Black Rock,"Inc."","Common Stock","2800859","6.17%"
+"Centerstate Banks,"Inc."","Little Rick","2014","Forest Hill Capital,"LLC"","Common Stock","3036384","6.69%"
+"Centerstate Banks,"Inc."","New York","2014","Basswood Capital Management,"LLC"","Common Stock","4203240","9.26%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Centerstate Banks,"Inc."","Charman,"Director","President and CEO"","Ernest S. Pinner","Director and Chairman","CenterState Bank of Florida","2014"
+"Centerstate Banks,"Inc."","Director","G. Robert Blanchard,"Ir"","Director","WRB Enterprises","2014"
+"Centerstate Banks,"Inc."","Director","James H. Bingham","Director of","Bingham Realty,"Inc"","2014"
+"Centerstate Banks,"Inc."","Director","C. Dennis Carlton","Director of","Mid-State Realty Co.,"Inc."","2014"
+"Centerstate Banks,"Inc."","Director","William Knox Pou,"Jr."","Director of","W.S. Badcock Home Furnishings and More","2014"
+"Centerstate Banks,"Inc."","Director","Joshua A Snively","Director of","Florida Chemical Company,"Inc."","2014"
+"Centerstate Banks,"Inc."","Senior Vice Pres CFO","James J. Antal","n/a","NA","2014"
+"Centerstate Banks,"Inc."","Director","Griffin A. Greene","Director of","Greene's Citrus Management,"Inc"","2014"
+"Centerstate Banks,"Inc."","Director","Charles W. McPherson","Director of","n/a","2014"
+"Centerstate Banks,"Inc."","Executive Vice President,"and Director"","John Corbett","President,"CEO and Director of"","n/a","2014"
+"Centerstate Banks,"Inc."","Director","Thomas E. Oakley","Director of","Oakley Groves","2014"
+"Centerstate Banks,"Inc."","Director","G. Tierso Nunez II","Director of","GT Nunez & Associates,"PA."","2014"
+"Centerstate Banks,"Inc."","Treasurer","Stephen D Young","Executive Vice President and Chief Operating Officer of","n/a","2014"
+"Centerstate Banks,"Inc."","Chief Risk Officer","Daniel E. Bockhorst","Executive Vice President and Chief Risk Officer of","n/a","2014"
+"Centerstate Banks,"Inc."","Director","Michael F. Ciferri","Director of","President,"multiple family businesses"","2014"
+"Centerstate Banks,"Inc."","Director","Daniel R. Richey","Director of","Riverfront Packing Co","2014"
+```

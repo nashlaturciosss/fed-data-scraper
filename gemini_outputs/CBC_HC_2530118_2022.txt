@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBC Holding Company","President","J. Corey Gibbs","President/CEO","Community Banking Co. of Fitzgerald","2022"
+"CBC Holding Company","Chairman of the Board","John T. Croley,"Jr."","Chairman of the Board","Community Banking Co. of Fitzgerald","2022"
+"CBC Holding Company","Director Emeritus","Sidney S. Anderson,"Jr."","Director Emeritus","Dixie Peanut Company","2022"
+"CBC Holding Company","Director","Lee Phillip Liles","Director","Community Banking Co. of Fitzgerald","2022"
+"CBC Holding Company","Director","Hulin Reeves,"Jr."","n/a","Community Banking Co. of Fitzgerald","2022"
+"CBC Holding Company","Treasurer","James Thomas Casper,"III"","Treasurer","Community Banking Co. of Fitzgerald","2022"
+"CBC Holding Company","Vice Chairman","A.B.C. Dorminy,"III"","President","ABCD Farms,"Inc."","2022"
+"CBC Holding Company","Director","Wyndall L. Walters","Owner","Irwin County Motors d/b/a Fitzgerald Ford Lincoln Mercury","2022"
+"CBC Holding Company","Director","Steven L. Mitchell","Co-Owner","Irwin Timber Co.","2022"
+"CBC Holding Company","Secretary","John Edward Smith,"III"","Secretary","Jay,"Sherrell","Smith","Braddy","& Cook"","2022"
+"CBC Holding Company","Director","Jack Paulk","Partner","Haile's Bldg (51%)","2022"
+"CBC Holding Company","Director","Art Anderson","n/a","n/a","2022"
+"CBC Holding Company","Sr. Executive VP and Chief Credit Officer","Larry E. Stevenson","Sr. Executive VP and Chief Credit Officer","n/a","2022"
+"CBC Holding Company","President","Louis E,"Harper","Jr."","President","L E. Harper Construction Co","2022"
+"CBC Holding Company","Director","Howard A. Wiley","Director","n/a","2022"
+"CBC Holding Company","Director","Eric H. Stone","Partner","Worthington,"Casper","Stone","and Conger","PC"","2022"
+"CBC Holding Company","Director","Jason L. Holt","Owner","n/a","2022"
+"CBC Holding Company","Director","Kyle Cook","Partner","n/a","2022"
+```

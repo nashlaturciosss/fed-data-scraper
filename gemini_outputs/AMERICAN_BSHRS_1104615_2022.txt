@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares,"Inc."","Covington","2022","Julian J,"Rodrigue","Jr."","n/a","770000","25.4132%"
+"American Bancshares,"Inc."","Covington","2022","Karen Smith Riecke","n/a","581240","19.1834%"
+"American Bancshares,"Inc."","Covington","2022","Riecke and Associates","n/a","338925","11.1859%"
+"American Bancshares,"Inc."","Hammond","2022","Darryl Smith","n/a","283505","9.3569%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares,"Inc."","Chairman of the Board","Jared Caruso Riecke","Chairman of the Board","3368 LLC","2022"
+"American Bancshares,"Inc."","Director","Alton K McRee","President & CEO","n/a","2022"
+"American Bancshares,"Inc."","Director","Paul J Mayronne","Attorney","Paul J. Mayronne,"LLC"","2022"
+"American Bancshares,"Inc."","Director","Daniel H Edwards Sr","Sheriff","n/a","2022"
+"American Bancshares,"Inc."","Director","Raymond R. Riecke","Retired Businessman","n/a","2022"
+"American Bancshares,"Inc."","Director","Edward T. Riecke","Banker,"Developer"","Castine Pointe,"LLC"","2022"
+"American Bancshares,"Inc."","Director","Casey Robin","Insurance","n/a","2022"
+"American Bancshares,"Inc."","Director","Franklin Kyle","Engineer,"Business Owner"","Kyle and Associates","2022"
+"American Bancshares,"Inc."","Director","Arthur Renaudin","Developer","n/a","2022"
+"American Bancshares,"Inc."","Director","Theodore Lee","Business Owner","n/a","2022"
+"American Bancshares,"Inc."","Director","Anthony P. Marullo,"III"","Business Owner","n/a","2022"
+"American Bancshares,"Inc."","CFO","Todd M. Rauch","Banker","n/a","2022"
+"American Bancshares,"Inc."","COO","Andrew S. Burns","Banker","n/a","2022"
+"American Bancshares,"Inc."","n/a","Karen S Riecke","Housewife","n/a","2022"
+"American Bancshares,"Inc."","n/a","Julian J. Rodrique,"Jr"","Attorney","Trustee: Karen S Riecke Inter Vivos Trust","2022"
+"American Bancshares,"Inc."","n/a","Riecke and Associates","Construction and Development","n/a","2022"
+```

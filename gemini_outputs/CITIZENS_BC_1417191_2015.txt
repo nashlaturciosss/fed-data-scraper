@@ -1,0 +1,16 @@
+"Here are the two CSV tables extracted from the document","according to your specifications:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CITIZENS BANCORPORATION,"INC."","USA","2015","E. N. Jones,"III"","Common Stock","328","32.8%"
+"CITIZENS BANCORPORATION,"INC."","USA","2015","Thomas A. Jones,"Jr."","Common Stock","305","30.5%"
+"CITIZENS BANCORPORATION,"INC."","USA","2015","G. Gordon Jones","Common Stock","304","30.4%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CITIZENS BANCORPORATION,"INC."","Director & Chairman","E. N. Jones,"III"","Director & President","The Citizens Bank","2015"
+"CITIZENS BANCORPORATION,"INC."","Director","Deborah L. Padgett","Director & V. P. & Cashier","The Citizens Bank","2015"
+"CITIZENS BANCORPORATION,"INC."","Director & President","G. Gordon Jones","Director,"Chairman & CEO"","The Citizens Bank","2015"
+"CITIZENS BANCORPORATION,"INC."","n/a","Thomas A. Jones,"Jr."","n/a","n/a","2015"
+```

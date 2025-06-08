@@ -1,0 +1,23 @@
+"Here are the two tables in valid CSV format","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Affinity Bancshares,"Inc."","Ft. Lauderdale","2023","Kenneth R. Lehman","Common Stock","817332","12.74%"
+"Affinity Bancshares,"Inc."","Quincy","2023","Affinity Bank Employee Stock Ownership Plan Trust","Common Stock","551483","8.59%"
+"Affinity Bancshares,"Inc."","Nashville","2023","Alliance Bernstein L.P.","Common Stock","479936","7.48%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Affinity Bancshares,"Inc."","Director & CEO","Edward J. Cooney","CEO","Affinity Bank","2023"
+"Affinity Bancshares,"Inc."","Director & Chairman","William D. Fortson,"Jr."","Owner","Ginn Motor Company","2023"
+"Affinity Bancshares,"Inc."","Director","Marshall L. Ginn","Associate Broker","RE/MAX Agents Realty","2023"
+"Affinity Bancshares,"Inc."","Director","Bob W. Richardson","Pharmacist (Retired)/Owner","People's Drug Store & Taziki's Mediterranean Café","2023"
+"Affinity Bancshares,"Inc."","Director","Robin Reich","President","Reich Dental Center","2023"
+"Affinity Bancshares,"Inc."","Director","Howard G. Roberts","President(Retired)","FNB Bank Covington,"GA"","2023"
+"Affinity Bancshares,"Inc."","Director","Mark Ross,","Owner","Right at Home Healthcare","2023"
+"Affinity Bancshares,"Inc."","Director","Edward P. Stone","President/Chief Executive Officer","Longleaf Hospice","2023"
+"Affinity Bancshares,"Inc."","Senior Vice President Chief Financial Officer","Brandi Pajot","Senior Vice President","Affinity Bank","2023"
+"Affinity Bancshares,"Inc."","Shareholder","Kenneth R. Lehman","n/a","n/a","2023"
+"Affinity Bancshares,"Inc."","Shareholder","Alliance Bernstein L.C.","n/a","n/a","2023"
+```

@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Atlantic Coast Financial Corporation","McLean","2015","FJ Capital Management LLC","n/a","1517200","9.79%"
+"Atlantic Coast Financial Corporation","London","2015","Bhanu Choudhrie","n/a","1409077","9.09%"
+"Atlantic Coast Financial Corporation","Sydney","2015","The Albury Investment Partnership","n/a","1328666","8.57%"
+"Atlantic Coast Financial Corporation","Boston","2015","Wellington Management Group LLP","n/a","1062389","6.85%"
+"Atlantic Coast Financial Corporation","New York","2015","TFO USA Limited","n/a","1034138","6.67%"
+"Atlantic Coast Financial Corporation","Naperville","2015","PL Capital LLC","n/a","1000000","6.45%"
+"Atlantic Coast Financial Corporation","Chicago","2015","RMB Capital Holdings LLC","n/a","813199","5.24%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Atlantic Coast Bank","Board Member","Bhanu Choudhrie","Executive Director,"C&C Alpha Group Ltd"","C&C Alpha Group Ltd","2015"
+"Atlantic Coast Bank","Board Member","W. Eric Palmer","Operations Manager,"Mayo Clinic (FL)"","Mayo Clinic (FL)","2015"
+"Atlantic Coast Bank","Board Member","Jay S. Sidhu","CEO,"Customers Bancorp Inc"","Customers Bancorp Inc","2015"
+"Atlantic Coast Bank","Chief Credit Officer","Philip S. Buddenbohm","Chief Credit Officer","n/a","2015"
+"Atlantic Coast Bank","Chief Executive Officer; Board Member","John K. Stephens,"Jr."","Chief Executive Officer; Board Member","n/a","2015"
+"Atlantic Coast Bank","Board Member","Devinder P.S. Bhasin","Chief Executive Officer,"D.B. Concepts","Inc."","D.B. Concepts,"Inc."","2015"
+"Atlantic Coast Bank","Board Member","Kevin G. Champagne","Retired","n/a","2015"
+"Atlantic Coast Bank","Board Member","John J. Dolan","Retired","n/a","2015"
+"Atlantic Coast Bank","Board Member","James D. Hogan","Retired","n/a","2015"
+"Atlantic Coast Bank","Chief Financial Officer","Tracy Keegan","Chief Financial Officer","n/a","2015"
+```

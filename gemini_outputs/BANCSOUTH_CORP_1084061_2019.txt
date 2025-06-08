@@ -1,0 +1,38 @@
+"Okay","here are the two requested CSV tables extracted from the provided FR Y-6 document","adhering to your strict specifications:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BancSouth Corporation","Dothan","2019","Noel M Dowling Family Trust
+"f/b/o N. Mitchell Dowling","Jr."
+"N. Mitchell Dowling","Jr. and Shirley D. McCrary","Co-Trustees"
+"N. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2019","Noel M Dowling Family Trust
+f/b/o Shirley D. McCrary
+"N. Mitchell Dowling","Jr. and Shirley D. McCrary","Co-Trustees"
+"N. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
+"BancSouth Corporation","Dothan","2019","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%"
+"BancSouth Corporation","Mooresville","2019","George Laurence McCrary,"III"","n/a","2700","8.05%"
+"BancSouth Corporation","Mooresville","2019","Margaret Ann McCrary Crumlish","n/a","1700","5.07%"
+"BancSouth Corporation","n/a","2019","12 other shareholders
+"owning 5% or less each"","n/a","1700","5.06%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BancSouth Corporation","n/a","N. Mitchell Dowling,"Jr."","n/a","n/a","2019"
+"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","n/a","BancSouth Corporation","2019"
+"BancSouth Corporation","Cashier,"Chairman and Director"","N. Mitchell Dowling,"Jr."","n/a","BankSouth","2019"
+"BancSouth Corporation","n/a","N. Mitchell Dowling,"Jr."","n/a","None","2019"
+"BancSouth Corporation","n/a","Kevin R. Kirkland","n/a","n/a","2019"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","n/a","BancSouth Corporation","2019"
+"BancSouth Corporation","Executive Vice President,"Chief Financial Officer","Director"","Kevin R. Kirkland","n/a","BankSouth","2019"
+"BancSouth Corporation","n/a","Kevin R. Kirkland","n/a","None","2019"
+"BancSouth Corporation","n/a","Robert W. Bass,"Jr."","n/a","n/a","2019"
+"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","n/a","BancSouth Corporation","2019"
+"BancSouth Corporation","Executive Vice President,"Chief Executive Officer","Director"","Robert W. Bass,"Jr."","n/a","BankSouth","2019"
+"BancSouth Corporation","n/a","Robert W. Bass,"Jr."","n/a","None","2019"
+"BancSouth Corporation","n/a","George Laurence McCrary,"III"","n/a","n/a","2019"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","n/a","BancSouth Corporation","2019"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","n/a","BankSouth","2019"
+"BancSouth Corporation","n/a","George Laurence McCrary,"III"","n/a","None","2019"
+```

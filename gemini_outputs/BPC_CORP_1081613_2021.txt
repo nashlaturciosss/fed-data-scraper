@@ -1,0 +1,25 @@
+"Okay","here are the two tables extracted from the document","formatted as requested in CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"B.P.C. Corporation","Monterey","2021","2006 Jack P. Ray (b) (c)","Common Stock","1216051","57.2607%"
+"B.P.C. Corporation","Monterey","2021","W.T. Ray,"Jr. - Estate (a) (b) (c)"","Common Stock","907632","42.7380%"
+"B.P.C. Corporation","Cookeville","2021","Elizabeth Ann Ray Fournet (b) (c)","Common Stock","0","0.0000%"
+"B.P.C. Corporation","Cookeville","2021","Elizabeth Ann Ray Fournet","Common Stock","27","0.0013%"
+"B.P.C. Corporation","Monterey","2021","W.T. Ray,"Jr. - Estate (a) (b) (c)"","Common Stock","100848","49.9995%"
+"B.P.C. Corporation","Cookeville","2021","Elizabeth Ann Ray Fournet (b) (c)","Common Stock","100850","50.0005%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"One Bank of Tennessee","Director","Elizabeth Ray Fournet","n/a","n/a","2021"
+"One Bank of Tennessee","Vice Chairman of Board","Ammon Hitchcock","n/a","n/a","2021"
+"One Bank of Tennessee","Director","David Kinchler","n/a","n/a","2021"
+"One Bank of Tennessee","EVP & Chief Financial Officer","Gary Medley","n/a","n/a","2021"
+"One Bank of Tennessee","Director","Gerry Whitehead","n/a","n/a","2021"
+"One Bank of Tennessee","Director","Norman Copeland","n/a","n/a","2021"
+"One Bank of Tennessee","Director","Randy Bond","n/a","n/a","2021"
+"One Bank of Tennessee","Director","Randy York","n/a","n/a","2021"
+"One Bank of Tennessee","Director","Thomas Jones","n/a","n/a","2021"
+"One Bank of Tennessee","EVP & Chief Financial Officer","Brenda Allred","n/a","n/a","2021"
+```

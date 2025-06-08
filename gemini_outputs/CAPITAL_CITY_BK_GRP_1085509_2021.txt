@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Capital City Bank Group,"Inc."","Tallahassee","2021","William G. Smith,"Jr."","Common Stock","2896472","17.15%"
+"Capital City Bank Group,"Inc."","San Francisco","2021","BlackRock Institutional Trust Company,"N.A."","Common Stock","1448127","8.55%"
+"Capital City Bank Group,"Inc."","Tallahassee","2021","Douglas W. Smith","Common Stock","1582041","9.37%"
+"Capital City Bank Group,"Inc."","Tallahassee","2021","Drew Mitchell","Common Stock","1578134","9.34%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Capital City Bank Group,"Inc."","Director,"Chairman of the Board","President","Chief Executive Officer"","William G. Smith Jr.","Director,"Chairman of the Board"","Capital City Bank","2021"
+"Capital City Bank Group,"Inc."","Executive Vice President Chief Financial Officer","J. Kimbrough Davis","Executive Vice President Chief Financial Officer","Capital City Bank","2021"
+"Capital City Bank Group,"Inc."","Director,"Executive Officer","Treasurer"","Thomas A. Barron","Director,"President"","Capital City Bank","2021"
+"Capital City Bank Group,"Inc."","Director","Cader B. Cox,"III"","Chairman/Director","Riverview Plantation,"Inc."","2021"
+"Capital City Bank Group,"Inc."","Director","J. Everitt Drew","President","Georgetown Properties,"Inc."","2021"
+"Capital City Bank Group,"Inc."","Director","Allan Bense","Chairman/President/CEO","Bense Enterprises,"Inc."","2021"
+"Capital City Bank Group,"Inc."","Director","John Sample","Director","1st Franklin Financial Corporation","2021"
+"Capital City Bank Group,"Inc."","Director","Stanley Connally,"Jr."","EVP - Operations","Southern Company,"Inc."","2021"
+"Capital City Bank Group,"Inc."","Director","Eric Grant","President","Civic Plus","2021"
+"Capital City Bank Group,"Inc."","Director","Laura Johnson","President","Coton Colors Company,"LLC"","2021"
+"Capital City Bank Group,"Inc."","Director","Marshall Criser III","Chancellor","State University System of Florida/Florida Board of Governors","2021"
+"Capital City Bank Group,"Inc."","Director","Robert Antoine","Retired Partner","Deloitte & Touche","2021"
+```

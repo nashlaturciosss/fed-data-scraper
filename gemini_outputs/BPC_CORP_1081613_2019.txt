@@ -1,0 +1,44 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"B.P.C. Corporation","Monterey","2019","Jack P. Ray,"Sr."","Common Stock","100847","49.9990%"
+"B.P.C. Corporation","Monterey","2019","2006 Jack P. Ray
+"Irrevocable Succession Trust"","Common Stock","0","0.0000%"
+"B.P.C. Corporation","Monterey","2019","W.T. Ray,"Jr."","Common Stock","100848","49.9995%"
+"B.P.C. Corporation","Cookeville","2019","Elizabeth Ann Ray Fournet
+"2007 Investment Services Trust"","Common Stock","3","0.0015%"
+"B.P.C. Corporation","Cookeville","2019","Elizabeth Ann Ray Fournet","Common Stock","0","0.0000%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"B.P.C. Corporation","Director &
+"Chairman of Board"","Jack P. Ray,"Sr."","Director","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Chairman of the Board","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Member of Executive Committee","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Director","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Chairman of the Board","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Director","OTHER BUSINESSES","2019"
+"B.P.C. Corporation","n/a","Jack P. Ray,"Sr."","Partner","Builders Supply","2019"
+"B.P.C. Corporation","Director &
+"Vice President"","W.T. Ray,"Jr."","Director","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","W.T. Ray,"Jr."","Vice Chairman of the Board","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","W.T. Ray,"Jr."","Member of Executive Committee","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","W.T. Ray,"Jr."","Director","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","n/a","W.T. Ray,"Jr."","Vice President","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","n/a","W.T. Ray,"Jr."","Director","OTHER BUSINESSES","2019"
+"B.P.C. Corporation","Director","Elizabeth Ray Fournet","Director","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","EVP & Chief Financial Officer","Gary Medley","Secretary/Treasurer","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","Gary Medley","Secretary/Treasurer","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","Director &
+"President & CEO"","David Williamson","Director","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","David Williamson","President & CEO","BPC INSURANCE SERVICES","2019"
+"B.P.C. Corporation","n/a","David Williamson","Director","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","n/a","David Williamson","President & CEO","BPC Real Estate Services Inc","2019"
+"B.P.C. Corporation","Director","Norman Copeland","n/a","n/a","2019"
+"B.P.C. Corporation","Director","Gerry Whitehead","n/a","n/a","2019"
+"B.P.C. Corporation","Director","Randy Bond","n/a","n/a","2019"
+"B.P.C. Corporation","Director","Randy York","n/a","n/a","2019"
+"B.P.C. Corporation","Director","Thomas Jones","n/a","n/a","2019"
+"B.P.C. Corporation","Director","Brenda Allred","n/a","n/a","2019"
+```

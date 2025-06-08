@@ -1,0 +1,22 @@
+"Here are the two extracted tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOE BANCSHARES,"INC."","Edison","2021","D. Conner & Charlotte Collins","Common stock","6398","21.48%"
+"BOE BANCSHARES,"INC."","Edison","2021","Claud C. Lowe","Common stock","1978","6.64%"
+"BOE BANCSHARES,"INC."","Sylva","2021","Leslie L. Lowe","Common stock","2318","7.78%"
+"BOE BANCSHARES,"INC."","Edison","2021","Robert (deceased) & Carla Toal","Common stock","2876","9.65%"
+"BOE BANCSHARES,"INC."","Quitman","2021","Curtis Pickels","Common stock","2352","7.90%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOE BANCSHARES,"INC."","Director,"Chairman"","D. Conner Collins","Director,"Chairman"","Owner--Little Pachitla Farm","2021"
+"BOE BANCSHARES,"INC."","n/a","Charlotte L. Collins","n/a","n/a","2021"
+"BOE BANCSHARES,"INC."","Director","Benjamin Dismukes","Director","n/a","2021"
+"BOE BANCSHARES,"INC."","Director","Willis A. Duvall","Director","Attorney","2021"
+"BOE BANCSHARES,"INC."","Director","Thomas A. Jackson","Director","Owner-Thomas Jackson Farm","2021"
+"BOE BANCSHARES,"INC."","President,"Director"","Claud C. Lowe","President,"Director"","n/a","2021"
+"BOE BANCSHARES,"INC."","Director","Jason Knox","Director","Managing Partner","2021"
+"BOE BANCSHARES,"INC."","Director","Martha A. Corrigan","Director","n/a","2021"
+```

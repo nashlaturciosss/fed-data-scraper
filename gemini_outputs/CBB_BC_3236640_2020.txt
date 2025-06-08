@@ -1,0 +1,18 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBB Bancorp","White","2020","Dwain Montgomery","Common Stock","44207","6.23%"
+"CBB Bancorp","Cartersville","2020","Larry Pogue","Common Stock","47857","6.75%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBB Bancorp","Director","David Caswell","n/a","n/a","2020"
+"CBB Bancorp","Director","Richard E. Drews,"Jr."","n/a","n/a","2020"
+"CBB Bancorp","Director","Danny Gilreath","Director","Gilreath Carpet,"Inc."","2020"
+"CBB Bancorp","Director","Thomas Lewis","Vice President","Harris-Georgia Corporation","2020"
+"CBB Bancorp","Director","Dwain Montgomery","n/a","None - Retired","2020"
+"CBB Bancorp","Director","Larry Pogue","President","Dynaflux,"Inc."","2020"
+"CBB Bancorp","Director","Ted Perry","Member","Preferred Vascular Services,"LLC"","2020"
+```

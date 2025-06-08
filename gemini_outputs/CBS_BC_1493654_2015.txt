@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CBS Banc-Corp","Russellville","2015","Cecil Batchelor","n/a","1200","2.00%"
+"CBS Banc-Corp","Russellville","2015","Cecil & Olivia Batchelor Family Limited Partnership","n/a","15869","26.45%"
+"CBS Banc-Corp","Russellville","2015","John Gregory Batchelor","n/a","n/a","n/a"
+"CBS Banc-Corp","Russellville","2015","John Gregory Batchelor,"Trustee"","n/a","n/a","n/a"
+"CBS Banc-Corp","Russellville","2015","Olivia Batchelor","n/a","422","0.70%"
+"CBS Banc-Corp","Russellville","2015","Olivia & Cecil Batchelor Family Limited Partnership","n/a","16392","27.32%"
+"CBS Banc-Corp","Russellville","2015","Rebecca Batchelor Reeves","n/a","n/a","n/a"
+"CBS Banc-Corp","Russellville","2015","Rebecca Batchelor Reeves,"Trustee"","n/a","n/a","n/a"
+"CBS Banc-Corp","Russellville","2015","John Bradley Reeves","n/a","n/a","n/a"
+"CBS Banc-Corp","Birmingham","2015","Donald M. James*","n/a","2679","4.47%"
+"CBS Banc-Corp","Russellville","2015","Sarah Graves*","n/a","2174","3.62%"
+"CBS Banc-Corp","Tuscumbia","2015","Olivia J. Wages*","n/a","2126","3.54%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CBS Banc-Corp","Chairman","Mr. Cecil Batchelor","Chairman","CB&S Bank","2015"
+"CBS Banc-Corp","Shareholder","Cecil & Olivia Batchelor Family Limited Partnership","n/a","n/a","2015"
+"CBS Banc-Corp","Shareholder","Olivia & Cecil Batchelor Family Limited Partnership","n/a","n/a","2015"
+"CBS Banc-Corp","President & CEO","Mr. Dennis Upchurch","President & CEO","CB&S Bank","2015"
+"CBS Banc-Corp","Investor","Mr. Greg Batchelor","President","Dependable True Value Hardware","2015"
+"CBS Banc-Corp","Investor","Mr. Brad Reeves","Member","Dependable True Value Hardware","2015"
+"CBS Banc-Corp","n/a","Mrs. Rebecca Reeves","Member","n/a","2015"
+"CBS Banc-Corp","Member","Mr. John Bradley Reeves","Member","CB&S Bank","2015"
+"CBS Banc-Corp","Secretary","Mr. John Aldridge","Executive Vice-President","CB&S Bank","2015"
+```

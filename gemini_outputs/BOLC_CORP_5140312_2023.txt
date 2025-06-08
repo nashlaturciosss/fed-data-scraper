@@ -1,0 +1,24 @@
+"Okay","I will extract the data from the document and format it into two CSV tables","as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOLC,"Corp."","Fayetteville","2023","Hue & Karen Counts Living Trust","Common Stock","25625","5.50%"
+"BOLC,"Corp."","Fayetteville","2023","Charles E. Gleghorn Living Trust","Common Stock","54000","11.60%"
+"BOLC,"Corp."","Fayetteville","2023","Joyce Groce","Common Stock","26625","5.72%"
+"BOLC,"Corp."","","2023","Damron Tn Community Property Trust","Common Stock","23625","5.07%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOLC,"Corp."","Director & Chairman","Charles E. Gleghorn","Director & Chairman","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Kristie Brannon","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Tony Groce","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Charles Wayne Damron","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Tom S. Bigham,"II"","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Charles Higgins","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Billy Joe Evans","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","William L. Thomas","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director President","Dale Gleghorn","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director CEO","Gay Gleghorn Dempsey","Director","Bank of Lincoln County","2023"
+"BOLC,"Corp."","Director","Lee Lasater","n/a","n/a","2023"
+```

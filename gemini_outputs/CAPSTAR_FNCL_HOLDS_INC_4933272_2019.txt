@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CapStar Financial Holdings,"Inc"","Nashville","2019","Gaylon M. Lawrence,"Jr."","Common Stock","1156675","6.30%"
+"CapStar Financial Holdings,"Inc"","New York","2019","Corsair Capital LLC","Common Stock","532752","2.90%"
+"CapStar Financial Holdings,"Inc"","New York","2019","Corsair Capital LLC","Other","878048","4.53%"
+"CapStar Financial Holdings,"Inc"","New York","2019","Corsair Capital LLC","Common Stock","132561","0.69%"
+"CapStar Financial Holdings,"Inc"","New York","2019","BlackRock,"Inc."","Common Stock","1115968","6.08%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CapStar Financial Holdings,"Inc"","Director","Toby S. Wilt","Director","TSW Investments","2019"
+"CapStar Financial Holdings,"Inc"","Director","Jeffrey L. Cunningham","Director","n/a","2019"
+"CapStar Financial Holdings,"Inc"","Chairman of the Board","Dennis C. Bottorff","Chairman of the Board","Council Capital Management","2019"
+"CapStar Financial Holdings,"Inc"","Director","James S. Turner,"Jr."","Director","Marketstreet Equities Company","2019"
+"CapStar Financial Holdings,"Inc"","Director","L. Earl Bentz","Director","Triton Boats","2019"
+"CapStar Financial Holdings,"Inc"","Vice Chair of the Board","Julie D. Frist","Vice Chair of the Board","n/a","2019"
+"CapStar Financial Holdings,"Inc"","Director","Thomas Flynn","Director","Flynn Enterprises,"LLC"","2019"
+"CapStar Financial Holdings,"Inc"","Chief Financial Officer","Robert B. Anderson","Chief Adminstrative Officer","n/a","2019"
+"CapStar Financial Holdings,"Inc"","Director","Louis A. Green,"III"","Director","Green & Little","2019"
+"CapStar Financial Holdings,"Inc"","Director; President and Chief Executive Officer","Timothy K. Schools","Director; President and Chief Executive Officer","n/a","2019"
+"CapStar Financial Holdings,"Inc"","Director","Myra NanDora Jenne","Director","The Jenne Law Firm","2019"
+"CapStar Financial Holdings,"Inc"","Director","Christopher G. Tietz","Chief Credit Officer","n/a","2019"
+"CapStar Financial Holdings,"Inc"","Director","Stephen B. Smith","Chairman","Haury & Smith Contractors,"Inc."","2019"
+"CapStar Financial Holdings,"Inc"","Vice Chair of the Board","Dale W. Polley","Director","Healthstream,"Inc."","2019"
+```

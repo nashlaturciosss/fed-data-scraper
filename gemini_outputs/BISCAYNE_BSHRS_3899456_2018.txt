@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Biscayne","n/a","2018","Confidential Volume","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Biscayne Bancshares,"Inc."","Director","Joel S. Lawson,"IV"","n/a","n/a","2018"
+"Biscayne Bancshares,"Inc."","Director & Chairman","Thomas D. Lumpkin,"II"","Director & Chairman","The Lumpkin Law Firm P.A.","2018"
+"Biscayne Bancshares,"Inc."","Director","Sheldon B. Palley","Director","Slip 57 LLC","2018"
+"Biscayne Bancshares,"Inc."","Director","G. M. Schweitzer","Director","American Investment Services","2018"
+"Biscayne Bancshares,"Inc."","Director","Steve Simon","Director","Steven Simon Law PLLC","2018"
+"Biscayne Bancshares,"Inc."","Director","Jonathan Perlman","Director","n/a","2018"
+"Biscayne Bancshares,"Inc."","Director","Robert Gutlohn","Director","Spectrum Mortgage Group","2018"
+"Biscayne Bancshares,"Inc."","Director","Jeffrey Levey","Director","Jeffrey E. Levey,"P.A."","2018"
+"Biscayne Bancshares,"Inc."","Director","Philip J. Shechter","Director","Ospina Everett & Shechter LLP","2018"
+"Biscayne Bancshares,"Inc."","Director & CEO","Lorie Yarchin","Director & CEO","n/a","2018"
+"Biscayne Bancshares,"Inc."","EVP","Ana L. Dominguez","Chief Lending Officer","Casa 654 LLC","2018"
+"Biscayne Bancshares,"Inc."","CFO","Jean-Marie Florestal","CFO","n/a","2018"
+```

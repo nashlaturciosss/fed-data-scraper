@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Alamerica BancCorp,"Inc."","Birmingham","2015","Donald V. Watkins","Common Stock","473089","47.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2015","Clarissa B. Harms","Common Stock","115735","11.57%"
+"Alamerica BancCorp,"Inc."","Birmingham","2015","Daryl E Harms Irrevocable Trust for Hannah K. Harms","Common Stock","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2015","Daryl E Harms Irrevocable Trust for Emma E. Harms","Common Stock","33079","3.31%"
+"Alamerica BancCorp,"Inc."","Birmingham","2015","Lawrence R. Tate","Common Stock","179078","17.91%"
+"Alamerica BancCorp,"Inc."","Montgomery","2015","Kenneth L. Thomas","Common Stock","120596","12.06%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Alamerica BancCorp,"Inc."","Chairman of the Board of Directors","Donald V. Watkins","None","Donald V. Watkins,"PC 100%"","2015"
+"Alamerica BancCorp,"Inc."","Director & President/CEO","Lawrence R. Tate","Director","n/a","2015"
+"Alamerica BancCorp,"Inc."","n/a","Lawrence R. Tate","President/CEO","n/a","2015"
+"Alamerica BancCorp,"Inc."","n/a","Lawrence R. Tate","Chairman of the Board","n/a","2015"
+"Alamerica BancCorp,"Inc."","Shareholder","Clarissa B. Harms","None","n/a","2015"
+"Alamerica BancCorp,"Inc."","Director","Kenneth L. Thomas","Director","n/a","2015"
+"Alamerica BancCorp,"Inc."","Director","Mike C. Weaver","President","Mike Weaver & Associates - 100%","2015"
+"Alamerica BancCorp,"Inc."","Director","Matt Rockett","Member","Chartwell Partners,"LLC -51%"","2015"
+"Alamerica BancCorp,"Inc."","n/a","Matt Rockett","Managing Member","Saxon Investments,"LLC 100%"","2015"
+"Alamerica BancCorp,"Inc."","Secretary/Treasurer","Kent McGriff","n/a","n/a","2015"
+```

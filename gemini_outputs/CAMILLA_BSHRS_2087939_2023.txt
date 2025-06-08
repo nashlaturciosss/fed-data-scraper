@@ -1,0 +1,24 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Camilla Bancshares,"Inc."","Camilla","2023","Dorothy B. Flowers Trust","Common Stock","16531","14.73%"
+"Camilla Bancshares,"Inc."","Camilla","2023","Elizabeth B. Flowers","Common Stock","15080","13.43%"
+"Camilla Bancshares,"Inc."","Camilla","2023","Thomas C. Flowers,"Jr."","Common Stock","13970","12.44%"
+"Camilla Bancshares,"Inc."","Camilla","2023","Thomas C. Flowers,"Jr. and Elizabeth B. Flowers","Co-Trustees"","Common Stock","7000","6.23%"
+"Camilla Bancshares,"Inc."","Camilla","2023","James C. Flowers","Common Stock","6750","6.01%"
+"Camilla Bancshares,"Inc."","Camilla","2023","William M. Odom,"Jr."","Common Stock","6500","5.79%"
+"Camilla Bancshares,"Inc."","Camilla","2023","David E. Wright","Common Stock","5811","5.17%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Camilla Bancshares,"Inc."","President/CEO/Vice Chairman of Board of Directors","David E. Wright","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","William M. Odom,"Jr."","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","David Maxwell Bridges","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","Dr. Joseph Sumner Carter","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","Michael D. Chafin","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","L. Bradford Grimsley","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","Charles E. Palmer","Director","Bank of Camilla","2023"
+"Camilla Bancshares,"Inc."","Director","John W. Tatum","Director","Bank of Camilla","2023"
+```

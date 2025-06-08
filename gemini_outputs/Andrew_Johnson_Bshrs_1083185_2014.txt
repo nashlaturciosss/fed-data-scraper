@@ -1,0 +1,25 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Andrew Johnson Bank","Greeneville","2014","Brandon Hull","Common Stock","90147","23.8%"
+"Andrew Johnson Bank","Knoxville","2014","Leslie Hull","Common Stock","72209","19.07%"
+"Andrew Johnson Bank","Greeneville","2014","SW Marsh","Common Stock","21898","5.78%"
+"Andrew Johnson Bank","Greeneville","2014","Everette Burchette","Common Stock","20663","5.46%"
+"Andrew Johnson Bank","n/a","2014","N/A","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Andrew Johnson Bank","Director","Sharon L. Folk","President/CEO-Andrew Johnson Golf Club","President/CEO-SF Enterprises","2014"
+"Andrew Johnson Bank","Director","Joel Hice","Regional President & Director","None","2014"
+"Andrew Johnson Bank","President/CEO & Director","James W. Hickerson,"Sr."","President/CEO & Director","n/a","2014"
+"Andrew Johnson Bank","Director","Paige Hull","Director","Partner-Caroline Grace,"LLC"","2014"
+"Andrew Johnson Bank","Director","William P Isbell","Director","Partner-B.I.B.,"Inc."","2014"
+"Andrew Johnson Bank","Director","Kenneth Weems","Director","President-Weems Excavating & Paving","2014"
+"Andrew Johnson Bank","Director","Christopher Marsh","Director","President-Marsh LP Gas Co.","2014"
+"Andrew Johnson Bank","Director","Mark R. Williams","Director","Broker-Century 21","2014"
+"Andrew Johnson Bank","Principal shareholder","Leslie Hull","Owner","Partner Greeneville Office Building","2014"
+"Andrew Johnson Bank","Principal shareholder","Brandon Hull","President-Greeneville Federal Bank","Partner Caroline Grace,"LLC"","2014"
+"Andrew Johnson Bank","Director","Denise Stapleton","Director","Partner Terry,"Terry","& Stapleton"","2014"
+```

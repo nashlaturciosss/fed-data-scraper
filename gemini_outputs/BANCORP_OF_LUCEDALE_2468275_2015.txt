@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","Douglas T. Luce,"Jr."","Common Stock","18819","17.38%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","DTL,"Jr. Limited Partnership"","Common Stock","9315","8.60%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","CMB,"Limited Partnership"","Common Stock","8933","8.25%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","Charles F. Brown,"III"","Common Stock","9955","9.19%"
+"Bancorp of Lucedale,"Inc."","Mobile","2016","JRL Family Limited Partnership","Common Stock","16665","15.39%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","DTL Sr.,"Limited Partnership"","Common Stock","9404","8.68%"
+"Bancorp of Lucedale,"Inc."","Mobile","2016","Jex R. Luce,"Jr."","Common Stock","16705","15.42%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","Laurie Lee VanLingen","Common Stock","6407","5.92%"
+"Bancorp of Lucedale,"Inc."","Lucedale","2016","Luce Insurance,"Inc."","Common Stock","7396","6.83%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bancorp of Lucedale,"Inc."","Director","Wayne H. Brown","Director","Century Bank","2016"
+"Bancorp of Lucedale,"Inc."","Director/Chairman of the Board","Douglas T. Luce,"Jr."","Director/Chairman of the Board","See Attached List","2016"
+"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director","See Attached List","2016"
+"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director","Century Bank","2016"
+"Bancorp of Lucedale,"Inc."","n/a","JRL Family Limited Partnership","n/a","n/a","2016"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President","Century Bank","2016"
+"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director","Century Bank","2016"
+"Bancorp of Lucedale,"Inc."","Director/Employee","Charles F. Brown,"IV"","Employee","Century Bank","2016"
+```

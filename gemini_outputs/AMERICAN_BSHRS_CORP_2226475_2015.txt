@@ -1,0 +1,25 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancshares Corp.","Livingston","2015","Johnny F. Coleman","n/a","45.32","17.44%"
+"American Bancshares Corp.","Livingston","2015","J. Steve Daniels","n/a","42.00","16.16%"
+"American Bancshares Corp.","Livingston","2015","Buckie D. Parson,"DDS"","n/a","35.36","13.60%"
+"American Bancshares Corp.","Livingston","2015","Kenneth Copeland","n/a","22.06","8.49%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2015"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","JFC Properties","2015"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","Mid State Drilling Co.,"LLC"","2015"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","C&M Development","2015"
+"American Bancshares Corp.","Secretary & Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows,"Attorney at Law"","2015"
+"American Bancshares Corp.","Chairman/Director","Buckie D. Parsons,"DDS"","Chairman/Director","Buckie D. Parsons,"DDS"","2015"
+"American Bancshares Corp.","Director","Kenneth Copeland","Director","n/a","2015"
+"American Bancshares Corp.","Director","John Kelly Coleman","Director","Mid State Construction Co.","2015"
+"American Bancshares Corp.","Director","John Kelly Coleman","Director","Mid State Drilling","2015"
+"American Bancshares Corp.","Director","John Kelly Coleman","Director","Tri-Coleman Properties","2015"
+"American Bancshares Corp.","CEO/CFO & Director","Marty Maynord","CEO/CFO & Director","n/a","2015"
+"American Bancshares Corp.","President and Director","Ryan Smith","President and Director","n/a","2015"
+```

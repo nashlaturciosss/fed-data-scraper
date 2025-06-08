@@ -1,0 +1,28 @@
+"Okay","I've extracted the data from the FR Y-6 form into the requested CSV format","adhering to your specific instructions. Here are the two tables","clearly labeled:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altamaha Bancshares,"Inc."","Uvalda","2017","Mae Jones","Common Stock","30602","22.8%"
+"Altamaha Bancshares,"Inc."","Uvalda","2017","Betty Morris or Randall Morris & Austin Morris Family Trust","Common Stock","18225","13.6%"
+"Altamaha Bancshares,"Inc."","Uvalda","2017","Frank,"John","Tracey Morris"","Common Stock","8400","6.2%"
+"Altamaha Bancshares,"Inc."","Vidalia","2017","Betty Salter","Common Stock","13595","10.12%"
+"Altamaha Bancshares,"Inc."","Mt. Vernon","2017","W Colon Sammons","Common Stock","9925","7.39%"
+"Altamaha Bancshares,"Inc."","Marietta","2017","Sarah Smith & Smith Trust USA","Common Stock","6910","5.1%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altamaha Bancshares,"Inc."","Director","Mae Jones","President","Jones Farms","2017"
+"Altamaha Bancshares,"Inc."","Director","Randall Morris or Betty Morris & Austin Morris Family Trust","Part owner","Morris Enterprises","2017"
+"Altamaha Bancshares,"Inc."","Director","Randall Morris or Betty Morris & Austin Morris Family Trust","Limited Partner","Austin Morris,"LLP"","2017"
+"Altamaha Bancshares,"Inc."","Director","Randall Morris or Betty Morris & Austin Morris Family Trust","Part owner","Milligan Creek Cattle","2017"
+"Altamaha Bancshares,"Inc."","Director","Susan Salter Shook","Owner","Susan Shook,"PC"","2017"
+"Altamaha Bancshares,"Inc."","President/CEO/Director","R. Brent Sammons","n/a","n/a","2017"
+"Altamaha Bancshares,"Inc."","Director","S. Thomas Moore","President","S Thomas Moore & Associates","2017"
+"Altamaha Bancshares,"Inc."","Director","S. Thomas Moore","President","Old Garrison Ent.","2017"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Officer","Ga Pine Straw","2017"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Officer","Rentra","2017"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Partner","Lyons,"GA"","2017"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Officer","Creek Shoals,"LLP"","2017"
+"Altamaha Bancshares,"Inc."","Director","Tommie Williams","Officer","Cargo Connections","2017"
+```

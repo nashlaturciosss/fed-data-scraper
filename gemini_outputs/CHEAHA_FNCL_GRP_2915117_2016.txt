@@ -1,0 +1,18 @@
+"Here are the two tables extracted from the FR Y-6 form","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Cheaha Financial Group,"Inc."","Oxford","2016","Shad A. Williams","Common Stock","50000","9.66%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Cheaha Financial Group,"Inc."","Director","Ronald L. Aderholt","Director","Oxford Eye Clinic","2016"
+"Cheaha Financial Group,"Inc."","Director","Randall A. Beshears","Director","Beshears Auto,"Inc."","2016"
+"Cheaha Financial Group,"Inc."","Director","Donnie J. Borrelli","Director","Borrelli,"Inc."","2016"
+"Cheaha Financial Group,"Inc."","Director","Herbert Cunningham","Director","n/a","2016"
+"Cheaha Financial Group,"Inc."","Director","James W. Justice,"Jr."","Director","Oxford Development","2016"
+"Cheaha Financial Group,"Inc."","Director","Hugh D. Miller,"Sr."","Director","Miller Funeral Home","2016"
+"Cheaha Financial Group,"Inc."","Director / Chairman of the Board","Dwight K. Rice","Director / Chairman of the Board","Rice & Rice,"LLP"","2016"
+"Cheaha Financial Group,"Inc."","Director / President","Shad A. Williams","Director / President","n/a","2016"
+```

@@ -1,0 +1,18 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"The Bancshares,"Inc."","Jennings","2016","Clarence L Miller","Common Stock","112933","14.40%"
+"The Bancshares,"Inc."","Jennings","2016","Logan L. Nichols","Common Stock","51816","6.60%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"The Bancshares,"Inc."","Vice-Chairman/Pres/CEO","Jeff L Boudreaux","Director/CEO of The Bank","Petit Peu De Ciel,"LLC"","2016"
+"The Bancshares,"Inc."","Director","Blaine Boudreaux","Director/President of The Bank","Petit Peu De Ciel,"LLC"","2016"
+"The Bancshares,"Inc."","Director","Chris Thibodeaux","Director of The Bank","Grace Ranch,"Inc."","2016"
+"The Bancshares,"Inc."","Director/Chairman","Clarence L Miller,"M.D."","Director/Chairman of The Bank","Downhole Chemical LLC","2016"
+"The Bancshares,"Inc."","Director","Charles E. Ray,"M.D."","Director of The Bank","Jeff Davis Diagnostics","2016"
+"The Bancshares,"Inc."","Director","Kenneth W. Young,"Sr."","Director of The Bank","Young's Appliance Repair","2016"
+"The Bancshares,"Inc."","Director","Pat Hanley","Director of The Bank","Elite Manuafacturing & Tool,"LLC"","2016"
+```

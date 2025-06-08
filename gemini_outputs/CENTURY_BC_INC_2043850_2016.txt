@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Century Bancorp,"Inc."","Bogart","2016","Estelle Brown","Common Stock","47735","6.38%"
+"Century Bancorp,"Inc."","Milledgeville","2016","Patricia B Thompson","Common Stock","83781","11.19%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Century Bancorp,"Inc."","Director","Victor D. Bayne","President","Bayne's Army Store","2016"
+"Century Bancorp,"Inc."","Director","T. Chris Boyd","EVP/Mng Member","American Tank Maintenance,"LLC"","2016"
+"Century Bancorp,"Inc."","Director","Leigh C. Chambers","n/a","n/a","2016"
+"Century Bancorp,"Inc."","Director","William M. Dyer","n/a","n/a","2016"
+"Century Bancorp,"Inc."","Director","W. Kendrick Farr","n/a","n/a","2016"
+"Century Bancorp,"Inc."","Director","Larry R. Garrett","President/CEO","G&S Gas Service Inc","2016"
+"Century Bancorp,"Inc."","Director","C. Steve McQuaig","President","Family Eye Care Associates","2016"
+"Century Bancorp,"Inc."","Director","Cheryl P. Pounds","n/a","n/a","2016"
+"Century Bancorp,"Inc."","Director","Patricia B. Thompson","n/a","n/a","2016"
+"Century Bancorp,"Inc."","Director/President/CEO","Derek B. Williams","n/a","n/a","2016"
+```

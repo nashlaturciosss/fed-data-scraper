@@ -1,0 +1,23 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Catalyst Bancorp,"Inc."","Opelousas","2023","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","420855","8.84%"
+"Catalyst Bancorp,"Inc."","New York","2023","Alliance Bernstein L.P.","Common Stock","309555","6.50%"
+"Catalyst Bancorp,"Inc."","Mount Grey Capital LLC","2023","Mount Grey Partners LP","Common Stock","282791","5.94%"
+"Catalyst Bancorp,"Inc."","Malvern","2023","The Vanguard Group","Common Stock","251139","5.27%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Chairman of the Board of Directors","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","Director","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Director","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","Director","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Director","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director","Matthew L. Scruggins","Director","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","Director,"President & CEO"","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jacques Bourque","Vice President & Chief Financial Officer","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","n/a","Amanda B. Quebedeaux","Senior Vice President & Director of Operations","Catalyst Bank","2023"
+"Catalyst Bancorp,"Inc."","n/a","Don P. Ledet","Senior Vice President & Chief Risk Officer","Catalyst Bank","2023"
+```

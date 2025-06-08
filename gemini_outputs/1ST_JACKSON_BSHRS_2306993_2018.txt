@@ -1,0 +1,23 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"1st Jackson Bancshares,"Inc."","Hollywood","2018","Jimmy D. Blevins","n/a","16741","14.92%"
+"1st Jackson Bancshares,"Inc."","Stevenson","2018","Shelby Carr","n/a","7576","6.75%"
+"1st Jackson Bancshares,"Inc."","Bridgeport","2018","Charles Robert Holder","n/a","11681","10.41%"
+"1st Jackson Bancshares,"Inc."","Scottsboro","2018","James S. McGinty","n/a","9637","8.59%"
+"1st Jackson Bancshares,"Inc."","Monteagle","2018","Jim Myers","n/a","11891","10.59%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"1st Jackson Bancshares,"Inc."","Chairman/Pres Director","Jimmy D. Blevins","President Director Chairman","n/a","2018"
+"1st Jackson Bancshares,"Inc."","Director","Shelby Carr","Director","Carr Farm-100%","2018"
+"1st Jackson Bancshares,"Inc."","Director","Billy Duck","Director","n/a","2018"
+"1st Jackson Bancshares,"Inc."","None","James S. McGinty","None","Dawson,"McGinty & Parker - owned by retirement trust"","2018"
+"1st Jackson Bancshares,"Inc."","Director/Vice Chairman","Jim Myers","Director/Vice Chairman","JimStan-50%","2018"
+"1st Jackson Bancshares,"Inc."","Director/ Secretary","Pam M. Parker","Director/ Secretary","Dawson,"McGinty & Parker-owned by retirement trust"","2018"
+"1st Jackson Bancshares,"Inc."","None","J. D. Shrader,"Jr."","Director Emeritus","n/a","2018"
+"1st Jackson Bancshares,"Inc."","None","Charles R. Holder","None","n/a","2018"
+"1st Jackson Bancshares,"Inc."","None","Jeremy Washburn","Vice President/CEO","n/a","2018"
+```

@@ -1,0 +1,25 @@
+"Here are the two requested CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"CCB Bancshares,"Inc."","Hahira","2018","D.K. Hollis,"Jr."","n/a","3558","70.43%"
+"CCB Bancshares,"Inc."","Hahira","2018","David King Hollis,"III"","n/a","160","n/a"
+"CCB Bancshares,"Inc."","Hahira","2018","Karrie Kirkland Hollis","n/a","12","0.24%"
+"CCB Bancshares,"Inc."","Morven","2018","Howard Irvin Lawson","n/a","144","2.85%"
+"CCB Bancshares,"Inc."","Hahira","2018","Starling Hollis Waldron","n/a","190","50.02%"
+"CCB Bancshares,"Inc."","Hahira","2018","Lily Starling Waldron","n/a","20","0.40%"
+"CCB Bancshares,"Inc."","Hahira","2018","Alexander Minton Waldron","n/a","20","0.40%"
+"CCB Bancshares,"Inc."","Valdosta","2018","Miller Starling Hollis","n/a","189","3.74%"
+"CCB Bancshares,"Inc."","Hahira","2018","David K. Hollis,"Jr. Trust u/a/d December 24","1996"","n/a","n/a","0.00%"
+"CCB Bancshares,"Inc."","Hahira","2018","Trust c/u LWT David K. Hollis,"Jr. FBO Miller S. Hollis"","n/a","610","12.07%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"CCB Bancshares,"Inc."","Secretary","Starling H. Waldron","n/a","Lone Oak LLLP","2018"
+"CCB Bancshares,"Inc."","Treasurer","Starling H. Waldron","Chairman,"Executive Officer","CFO of Citizens Community Bank"","n/a","2018"
+"CCB Bancshares,"Inc."","n/a","Glenn L. Copeland","Director,"Executive Officer","CEO of Citizens Community Bank"","n/a","2018"
+"CCB Bancshares,"Inc."","n/a","David Hollis,"III"","Director,"Vice President of Citizens Community Bank"","Lone Oak LLLP","2018"
+"CCB Bancshares,"Inc."","n/a","Tim S Jones","Director,"Vice President of Citizens Community Bank"","n/a","2018"
+"CCB Bancshares,"Inc."","n/a","Estate of D.K. Hollis,"Jr."","n/a","Lone Oak LLLP","2018"
+```

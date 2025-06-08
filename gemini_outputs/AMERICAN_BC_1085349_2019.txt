@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"American Bancorp,"Inc."","Opelousas","2019","The Diesi Family Trusts","Common Stock","14768","18.93%"
+"American Bancorp,"Inc."","Opelousas","2019","Ronald J. Lashute","Common Stock","17821","22.84%"
+"American Bancorp,"Inc."","Clearwater","2019","Diane F Brown","Common Stock","5969","7.65%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","n/a","The Diesi Family Trust","n/a","None","2019"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","Director","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2019"
+"American Bancorp,"Inc."","CFO,"Secretary & Treasurer"","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2019"
+```

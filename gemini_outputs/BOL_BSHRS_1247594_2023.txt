@@ -1,0 +1,14 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"BOL Bancshares,"Inc."","Slidell","2023","Scott Family LLP","n/a","n/a","65.58%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"BOL Bancshares,"Inc."","Director","Johnny C. Crow","Director","New York Life Ins. Co.","2023"
+"BOL Bancshares,"Inc."","Director","A. Glenn Geddis","Director,"Chairman of the Board"","Bank of Louisiana","2023"
+"BOL Bancshares,"Inc."","Director","Shannon R. Scott","Director,"President & Chief Operating Officer"","Bank of Louisiana","2023"
+"BOL Bancshares,"Inc."","Treasurer","Sharry R. Scott","Director","Bank of Louisiana","2023"
+```

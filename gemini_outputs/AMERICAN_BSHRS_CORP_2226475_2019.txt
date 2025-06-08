@@ -1,0 +1,20 @@
+"Here are your requested CSV extractions","adhering to the instructions provided."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"AMERICAN BANCHSARES CORP.","Livingston","2019","Johnny F. Coleman","n/a","47.32","17.73%"
+"AMERICAN BANCHSARES CORP.","Livingston","2019","J. Steve Daniels","n/a","43.00","16.11%"
+"AMERICAN BANCHSARES CORP.","Livingston","2019","Buckie D. Parson,"DDS"","n/a","35.36","13.25%"
+"AMERICAN BANCHSARES CORP.","Livingston","2019","Kenneth Copeland","n/a","24.06","9.01%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2019"
+"AMERICAN BANCSHARES CORP.","Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows,"Attorney at Law"","2019"
+"AMERICAN BANCSHARES CORP.","Director","Buckie D. Parsons,"DDS"","Director","Buckie D. Parsons,"DDS"","2019"
+"AMERICAN BANCSHARES CORP.","Director","Kenneth Copeland","Director","n/a","2019"
+"AMERICAN BANCSHARES CORP.","Chairman/Director","John Kelly Coleman","Chairman/Director","Mid State Construction Co.","2019"
+"AMERICAN BANCSHARES CORP.","CEO/CFO & Director","Marty Maynord","CEO/CFO & Director","n/a","2019"
+"AMERICAN BANCSHARES CORP.","President and Director","Ryan Smith","President and Director","n/a","2019"
+```

@@ -1,0 +1,32 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Janie Carpenter","Common Stock","15000","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Bob Daigrepont","Common Stock","6250","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Bob Daigrepont","Warrants","5000","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Vernin Daigrepont LLC","Common Stock","81250","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Vernin Daigrepont LLC","Warrants","25000","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Heston Loren Capital Partners","Common Stock","218750","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Heston Loren Capital Partners","Warrants","75000","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Robert Daigrepont,"Jr."","Common Stock","321250","14.69%"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Robert Daigrepont,"Jr."","Warrants","105000","n/a"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Heston Loren Capital Partners","Common Stock","218750","10.23%"
+"Axxess Partners,"Inc."","Baton Rouge","2022","Heston Loren Capital Partners","Warrants","75000","n/a"
+"Axxess Partners,"Inc."","Port Allen","2022","Barry Hugghins","Common Stock","36250","n/a"
+"Axxess Partners,"Inc."","Port Allen","2022","Barry Hugghins","Warrants","25000","n/a"
+"Axxess Partners,"Inc."","Port Allen","2022","Dr Stepanie Shah","Common Stock","10000","n/a"
+"Axxess Partners,"Inc."","Port Allen","2022","BOT1 Ltd","Common Stock","71250","n/a"
+"Axxess Partners,"Inc."","Port Allen","2022","BOT1 Ltd","Warrants","25000","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Axxess Partners,"Inc."","Board Secretary","Robert Daigrepont,"Jr."","Chairman of the Board,"Director"","Daigrepont & Brian APAC 80%","2022"
+"Axxess Partners,"Inc."","n/a","Charles Chiasson","President/CEO Currency Bank Director","None","2022"
+"Axxess Partners,"Inc."","n/a","Flynn Foster","Executive Director","Guaranty Corporation 11%","2022"
+"Axxess Partners,"Inc."","n/a","Barry Hugghins","Director","Reliant Technologies,"Inc 99%"","2022"
+"Axxess Partners,"Inc."","n/a","Ravi Patel","Director","Supreme Construction,"LLC 100%"","2022"
+"Axxess Partners,"Inc."","EVP/Chief Lending Officer","Scott Gaudin","Currency Bank Secretary,"Director"","None","2022"
+"Axxess Partners,"Inc."","SVP/Chief Financial Officer","Jahn L Ortis","Currency Bank Chief Financial Officer","None","2022"
+```

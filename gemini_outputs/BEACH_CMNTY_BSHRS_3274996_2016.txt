@@ -1,0 +1,17 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Beach Community Bancshares,"Inc."","Lake Mary","2016","JBN Real Estate,"Inc."","Common Stock","393105","16.54%"
+"Beach Community Bancshares,"Inc."","Destin","2016","Charles W. Clary III","Common Stock","214775","8.94%"
+"Beach Community Bancshares,"Inc."","Gulf Breeze","2016","Julian MacQueen","Common Stock","125139","5.21%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Beach Community Bancshares,"Inc."","Director","C. LeDon Anchors","Director,"Beach Community Bank"","Anchors,"Smith P.A."","2016"
+"Beach Community Bancshares,"Inc."","Vice Chairman & Director","Charles W. Clary III","Vice Chairman & Director,"Beach Community Bank"","DAG Architects","2016"
+"Beach Community Bancshares,"Inc."","Chairman & Director","Joseph W. Henderson","Chairman & Director,"Beach Community Bank"","Warren Averett O'Sullivan Creel","2016"
+"Beach Community Bancshares,"Inc."","Director","A. Anthony Hughes","Director,"President & CEO","Beach Community Bank"","n/a","2016"
+"Beach Community Bancshares,"Inc."","EVP & CFO","Gary E. Johns","EVP & CFO,"Beach Community Bank"","n/a","2016"
+"Beach Community Bancshares,"Inc."","Director","Julian B. MacQueen","Director,"Beach Community Bank"","Innisfree Hotels,"Inc"","2016"
+"Beach Community Bancshares,"Inc."","Principal Shareholder","JBN Real Estate,"Inc."","n/a","Investment Company","2016"
+```

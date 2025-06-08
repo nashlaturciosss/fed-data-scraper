@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Belle Glade Bank Corporation","Belle Glade","2017","Frances R. Hand or Homer J. Hand","n/a","2572","n/a"
+"Belle Glade Bank Corporation","Belle Glade","2017","Frances R. Hand","n/a","100","n/a"
+"Belle Glade Bank Corporation","Belle Glade","2017","Homer J. Hand","n/a","387","19.1%"
+"Belle Glade Bank Corporation","Belle Glade","2017","Marjorie Joanne Royal Revocable Trust","n/a","2614","16.3%"
+"Belle Glade Bank Corporation","Belle Glade","2017","Wedgworth Family Limited Partnership","n/a","2718","n/a"
+"Belle Glade Bank Corporation","Belle Glade","2017","Wedgworth Farms,"Inc."","n/a","586.5","20.6%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Belle Glade Bank Corporation","Director/Chairperson","Frances R Hand","n/a","n/a","2017"
+"Belle Glade Bank Corporation","Director","William R. Kennedy","President","William Kennedy Farm Ine","2017"
+"Belle Glade Bank Corporation","Director","Dennis G. Wedgworth","Director/Treasurer","Sugar Cane Growers Coop of FL","2017"
+"Belle Glade Bank Corporation","President Director","Stephen M. Prielozny","Director","Glades ARC","2017"
+"Belle Glade Bank Corporation","Director","Paul R. Orsenigo","Owner/President","Orsenigo Farm,"Inc."","2017"
+"Belle Glade Bank Corporation","Director","James M. Herring,"Jr."","President","Herring Farms,"Inc."","2017"
+"Belle Glade Bank Corporation","Secretary","Yusimy D. Silva","Member/Treasurer","Belle Glade Lions Club","2017"
+"Belle Glade Bank Corporation","Principal Shareholder","Wedgworth FLP","n/a","n/a","2017"
+"Belle Glade Bank Corporation","Principal Shareholder","Mary J. Royal Revocable Trust","President/Trustee","Susan Roayl Wurth Foundation","2017"
+```

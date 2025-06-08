@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc."","Baileyton","2021","Terry Neal & Tressa Walker","Common Stock","310854","6.33%"
+"Altrust Financial Services,"Inc."","Cullman","2021","Cecil Alan & Amy Walker","Common Stock","313053","6.37%"
+"Altrust Financial Services,"Inc."","Baileyton","2021","Timothy Dudley Walker","Common Stock","292220","5.95%"
+"Altrust Financial Services,"Inc."","Cullman","2021","Altrust Financial Services,"Inc. (A)"","Common Stock","1200648","24.44%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc."","Vice Chairman CEO","Robin Cummings","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","George Whit Drake","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Noel Jasper Estes","Director Chairman","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Cecil Alan Walker","Director Chairman","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director Secretary","Terry Neal Walker","Director Secretary","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Timothy Dudley Walker","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Brian Clarke Witcher","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Candace Nail Hooten","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Craig Estes","Director","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","Director","Timothy Williams","Director President","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","President","Timothy Williams","n/a","n/a","2021"
+"Altrust Financial Services,"Inc."","Director","Charles Herndon","n/a","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","EVP","Charles Herndon","n/a","n/a","2021"
+"Altrust Financial Services,"Inc."","n/a","William Kinney","EVP","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","n/a","Debra Goble","EVP","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","n/a","David Patterson","EVP/CFO","Peoples Bank","2021"
+"Altrust Financial Services,"Inc."","n/a","Peoples Bank of Alabama,"Trustee David Patterson","Trust Officer"","n/a","n/a","2021"
+```

@@ -1,0 +1,19 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Bankshares Corporation Of Niceville","Niceville","2020","James W. Powell","n/a","34801","32.26%"
+"Bankshares Corporation Of Niceville","Niceville","2020","Deborah P. Dye","n/a","34225","31.73%"
+"Bankshares Corporation Of Niceville","Niceville","2020","Michael R. Floyd","Niceville","8307","7.70%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Peoples Building Partnership","2020"
+"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","Partner","Peoples Building Partnership","2020"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building Partnership","2020"
+"Bankshares Corporation Of Niceville","Director","Freida L Spence","Managing Mmbr","S&R Properties LLC","2020"
+"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","n/a","PNB Community Bank","2020"
+"Bankshares Corporation Of Niceville","Director","Casee L Laflin","VP","PNB Community Bank","2020"
+"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","PNB Community Bank","2020"
+```

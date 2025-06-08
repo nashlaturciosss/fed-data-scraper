@@ -1,0 +1,20 @@
+Here are the two tables extracted in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"The Bancshares,"Inc."","Jennings","2020","Phoebe S. Miller","Common Stock","116683","14.84%"
+"The Bancshares,"Inc."","Jennings","2020","Logan L. Nichols","Common Stock","51816","6.60%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"The Bancshares,"Inc."","Director","Jeff L Boudreaux","Director/CEO of The Bank","Member-Petit Peu De Ciel,"LLC;"","2020"
+"The Bancshares,"Inc."","Director /President","Blaine Boudreaux","Director","Member-Petit Peu De Ciel,"LLC;"","2020"
+"The Bancshares,"Inc."","Director","Chris Thibodeaux","Director of The Bank","Grace Ranch,"Inc.;"","2020"
+"The Bancshares,"Inc."","Principal Securities Holder","Phoebe S. Miller,","n/a","n/a","2020"
+"The Bancshares,"Inc."","Vice Chairman/ Director","Charles E. Ray,","Director of The Bank","Jeff Davis Diagnostics","2020"
+"The Bancshares,"Inc."","Director","Kenneth W. Young,"Sr.",","Director of The Bank","Young's Appliance Repair","2020"
+"The Bancshares,"Inc."","Director","Pat Hanley,","Director of The Bank","Pat's Electrical Service,"LLC"","2020"
+"The Bancshares,"Inc."","Director","Robert Miller,","Director of The Bank","Point to Point Directional Drilling,"Inc."","2020"
+"The Bancshares,"Inc."","Director","Audie Hanks,","Director of The Bank","H&H Electrical Service","2020"
+```

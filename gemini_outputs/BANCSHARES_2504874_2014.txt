@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"The Bancshares,"Inc."","Jennings","2014","Clarence L Miller","Common Stock","112933","14.38%"
+"The Bancshares,"Inc."","Jennings","2014","Logan L. Nichols","Common Stock","51816","6.59%"
+"The Bancshares,"Inc."","Jennings","2014","Jeff L. Boudreaux","Common Stock","40663","5.18%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"The Bancshares,"Inc."","Vice-Chairman/President/CEO","Jeff L Boudreaux","Director/CEO","Member-Petit Peu De Ciel,"LLC; Member-Le Whitetail Hunters","LLC"","2014"
+"The Bancshares,"Inc."","Director","Blaine Boudreaux","Director/President","Member-Petit Peu De Ciel,"LLC; Member-Le Whitetail Hunters","LLC"","2014"
+"The Bancshares,"Inc."","Director","Chris Thibodeaux","Director of The Bank","Grace Ranch,"Inc.;Southwest LA Sports & Rehab Center","LLC;Iowa Therapy Center","LLC;Thibodeaux","Albro & Touchet Therapy Group","LLC"","n/a","2014"
+"The Bancshares,"Inc."","Director/Chairman","Clarence L Miller,","Chairman of the Bank","n/a","2014"
+"The Bancshares,"Inc."","Director","Charles E. Ray,","n/a","Jeff Davis Diagnostics","2014"
+"The Bancshares,"Inc."","Director","Kenneth W. Young,"Sr."","Director of The Bank","Young's Appliance Repair","2014"
+"The Bancshares,"Inc."","Director","Pat Hanley,","Director of The Bank","Elite Manuafacturing & Tool,"LLC;Pat's Electrical Service","LLC"","2014"
+```

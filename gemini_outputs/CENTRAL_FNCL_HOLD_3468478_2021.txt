@@ -1,0 +1,22 @@
+Here are the two requested CSV tables:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Central Bank","Tampa","2021","Vijay M. Patel and Tejal V. Patel","n/a","100000","5.15%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Central Bank","Executive Vice President","John Thompson","President/CEO","Central Bank","2021"
+"Central Bank","Director","Arvind C. Patel","Director","Central Bank","2021"
+"Central Bank","Director","Jayesh K. Patel","Director","Central Bank","2021"
+"Central Bank","Chairman/Secretary & CFO","Nileshkumar C. Patel","Director/Vice Chairman/Secretary/EVP-Risk Manager/ISO","Central Bank","2021"
+"Central Bank","Director","Jayesh D. Patel","Director","Central Bank","2021"
+"Central Bank","Director","Dinubhai Patel","Director","Central Bank","2021"
+"Central Bank","Director","Jiten Patel","Director","Central Bank","2021"
+"Central Bank","Director","Mahendra Patel","Director","Central Bank","2021"
+"Central Bank","Director","Rajeshkumar C. Patel","Director/Chairman/President & CEO","Central Bank","2021"
+"Central Bank","Director","Dr. Vijay Patel","Director","Central Bank","2021"
+"Central Bank","Director","Shilen Patel","Director","Central Bank","2021"
+"Central Bank","Bank Officer","David Edgar","EVP/Senior Lending Officer","n/a","2021"
+"Central Bank","Bank Officer","Anand Sabapathy","SVP/Controller","n/a","2021"
+"Central Bank","Bank Officer","Scott Kohler","EVP/Mortgage Banking Manager","n/a","2021"
+```

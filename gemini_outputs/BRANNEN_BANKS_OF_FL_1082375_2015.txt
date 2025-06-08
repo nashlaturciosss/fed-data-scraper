@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Brannen Banks of Florida,"Inc."","Inverness","2015","George H. Brannen,"II"","Common Stock","3405.33","34.1%"
+"Brannen Banks of Florida,"Inc."","Inverness","2015","Joseph S. Brannen","Common Stock","3350.76","33.5%"
+"Brannen Banks of Florida,"Inc."","Inverness","2015","Margaret Brannen Hagar","Common Stock","3243.91","32.4%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Brannen Banks of Florida,"Inc."","Dir./Chairman and President","George H. Brannen,"II"","Dir./Chairman Brannen Bank","Brannen Family Limited Partnership II LLLP","2015"
+"Brannen Banks of Florida,"Inc."","Dir./Chairman and President","George H. Brannen,"II"","Director/President Brannen Properties,"Inc."","Red Bluff Family Limited Partnership LLLP","2015"
+"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman and General Counsel","Joseph S. Brannen","Dir./Vice Chairman Brannen Bank","Brannen Family Limited Partnership III LLLP","2015"
+"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman and General Counsel","Joseph S. Brannen","Dir./Vice Pres./Treasurer Brannen Properties,"Inc."","n/a","2015"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director,"Brannen Bank"","Brannen Family Limited Partnership I LLLP","2015"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director,"Brannen Bank"","Timber Land Resources LLC","2015"
+"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","Dir./President Brannen Bank","n/a","2015"
+"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","Vice President Brannen Properties,"Inc."","n/a","2015"
+"Brannen Banks of Florida,"Inc."","Senior Vice President Secretary/Treasurer","Josephine A. Murphy","Secretary,"Brannen Properties"","n/a","2015"
+"Brannen Banks of Florida,"Inc."","Chief Financial Officer","Michael T. Fitzpatrick,"CPA"","Exe. Vice President/CFO Brannen Bank","n/a","2015"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+"Altrust Financial Services,"Inc."","Baileyton","2020","Terry Neal & Tressa Walker","Common Stock","317076","6.48%"
+"Altrust Financial Services,"Inc."","Cullman","2020","Cecil Alan & Amy Walker","Common Stock","304317","6.22%"
+"Altrust Financial Services,"Inc."","Baileyton","2020","Timothy Dudley Walker","Common Stock","284648","5.82%"
+"Altrust Financial Services,"Inc."","Cullman","2020","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1200648","24.53%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Altrust Financial Services,"Inc"","Director","Robin Cummings","Director,"Vice Chairman","CEO"","Peoples Bank","2020"
+"Altrust Financial Services,"Inc"","Director","George Whit Drake","Director","Attorney-own name","2020"
+"Altrust Financial Services,"Inc"","Director","Noel Jasper Estes","Director,"Chairman"","n/a","2020"
+"Altrust Financial Services,"Inc"","Director","Cecil Alan Walker","Director","Walker Bros. LTD,"Walker Servicing Corp","Walker Mortgages LTD","Gunters Landing LTD"","2020"
+"Altrust Financial Services,"Inc"","Director","Terry Neal Walker","Director,"Secretary"","Walker Bros. LTD,"Walker Servicing Corp","Walker Mortgages LTD","Gunters Landing LTD"","2020"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director","Walker Bros. LTD,"Walker Servicing Corp","Walker Mortgages LTD","Gunters Landing LTD"","2020"
+"Altrust Financial Services,"Inc"","Director","Brian Clarke Witcher","Director","SouthPark Auto Sales,"Cullman Auto Financing","WW Holdings","LLC"","2020"
+"Altrust Financial Services,"Inc"","Director","Candace Nail Hooten","Director","n/a","2020"
+"Altrust Financial Services,"Inc"","Director","Craig Estes","Director","Manufacturing Engineer","2020"
+"Altrust Financial Services,"Inc"","EVP","Debra Goble","n/a","n/a","2020"
+"Altrust Financial Services,"Inc"","President","Timothy Williams","Director","n/a","2020"
+"Altrust Financial Services,"Inc"","EVP","Charles Herndon","Director","n/a","2020"
+"Altrust Financial Services,"Inc"","EVP","William Kinney","n/a","n/a","2020"
+"Altrust Financial Services,"Inc"","EVP/CFO","David Patterson","n/a","n/a","2020"
+"Altrust Financial Services,"Inc"","None","Altrust Financial Services,"Inc."","None","None","2020"
+```
