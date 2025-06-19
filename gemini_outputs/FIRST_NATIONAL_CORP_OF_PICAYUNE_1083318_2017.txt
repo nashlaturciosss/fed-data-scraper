@@ -1,0 +1,30 @@
+"Here are the two tables from the FR Y-6 form","extracted into CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Corporation of Picayune","Decatur,"MS"","2017","D. Max Huey","Common Stock","10331","5.74%","n/a"
+"First National Corporation of Picayune","Picayune,"MS"","2017","Smith & Waldrop Foundation","Common Stock","11560","6.42%","n/a"
+"First National Corporation of Picayune","Hattiesburg,"MS"","2017","Susan Thomson Eaves","Common Stock","22582","12.54%","n/a"
+"First National Corporation of Picayune","Port Orange,"FL"","2017","John Christian Thomson","Common Stock","16000","8.89%","n/a"
+"First National Corporation of Picayune","Pass Christian,"MS"","2017","Merry Thomson","Common Stock","25480","14.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Corporation of Picayune","Director/Chairman","J. Wood Spiers,"Jr."","President","Bailey Switch Development Co.,"Inc."","2017","Real Estate Development","n/a"
+"First National Corporation of Picayune","Director/Chairman","J. Wood Spiers,"Jr."","Vice-President","Double S. Investments,"Inc."","2017","Real Estate Development","n/a"
+"First National Corporation of Picayune","n/a","D. Max Huey","n/a","n/a","2017","Retired","n/a"
+"First National Corporation of Picayune","Director/Secretary","David Allison","President","Allison Ent.,"Inc."","2017","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director/Secretary","David Allison","Manager","Allison R.E.,"LLC"","2017","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director/Secretary","David Allison","Manager","J&M R.E.,"LLC"","2017","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director","Byron Stockstill","Partner/Manager","Williams,"Smith & Stockstill","PLLC"","2017","Attorney","n/a"
+"First National Corporation of Picayune","President/Director","David B. Hemeter","n/a","n/a","2017","n/a","n/a"
+"First National Corporation of Picayune","Director","Keith W. Robinson","n/a","n/a","2017","n/a","n/a"
+"First National Corporation of Picayune","Director","J.L. McQueen","n/a","n/a","2017","Retired","n/a"
+"First National Corporation of Picayune","Director","Susan Thomson Eaves","n/a","n/a","2017","n/a","n/a"
+"First National Corporation of Picayune","n/a","John Christian Thomson","President","Thomson & Co.,"Inc."","2017","Investment Advisor","n/a"
+"First National Corporation of Picayune","n/a","Merry Thomson","n/a","n/a","2017","Retired","n/a"
+"First National Corporation of Picayune","Director","Stewart H. Huey","n/a","n/a","2017","n/a","n/a"
+"First National Corporation of Picayune","n/a","Crystal L. Kennedy","n/a","n/a","2017","n/a","n/a"
+"First National Corporation of Picayune","n/a","Richard S. Thomson,"Jr."","n/a","n/a","2017","Investor","n/a"
+```

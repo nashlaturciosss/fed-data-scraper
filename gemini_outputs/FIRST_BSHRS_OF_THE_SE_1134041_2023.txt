@@ -1,0 +1,22 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"INC"","Alma,"GA"","2023","Zachary M. Johnson Jr.","n/a","96","59.63%","n/a"
+"First Bank Shares of the South East,"INC"","Atlanta,"GA"","2023","Jonathon Martin Taylor","n/a","17","10.56%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","President & Director","Zach Johnson","President & Director","Dixieland Farms,"Inc."","2023","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Lawton Johnson","Director","n/a","2023","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","Rogers Transport,"Inc"","2023","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","Boulevard Trailer Sales,"LLC"","2023","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","JMT Real Estate Ventures,"LLC"","2023","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","Wildernest Properties,"LP"","2023","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director/Treasurer & Secretary","Jack Johnson","Vice President","Zachary M Johnson Irrevocable Trust","2023","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Southland Investments,"Inc."","2023","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Old School Alma,"LLC"","2023","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Southeast Propane,"Inc."","2023","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Morris Johnson","Vice President","Zachary M Johnson Irrevocable Trust","2023","n/a","n/a"
+```

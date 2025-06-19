@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tower Community Bank","Jasper,"Tennessee"","2019","Geoffrey Post (voting member)","n/a","14767","9.035%","n/a"
+"Tower Community Bank","Monteagle,"Tennessee"","2019","Robert R. Thomas,"Sr. Estate"","n/a","10440","6.387%","n/a"
+"Tower Community Bank","Whitwell,"Tennessee"","2019","Howard & Nancy Rigsby","n/a","9819","6.007%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"General Bancshares,"Inc."","n/a","Robert R. Thomas,"Sr. Estate"","n/a","n/a","2019","Estate","n/a"
+"General Bancshares,"Inc."","n/a","Susan Thomas","n/a","n/a","2019","Retired","n/a"
+"General Bancshares,"Inc."","Board Member","Robert Reece Thomas,"Jr."","Owner","Sequatchie Concrete Services,"Inc."","2019","Manufacturing","n/a"
+"General Bancshares,"Inc."","n/a","Allen Thomas","n/a","n/a","2019","Counselor","n/a"
+"General Bancshares,"Inc."","n/a","Stephen Thomas","n/a","n/a","2019","Teacher","n/a"
+"General Bancshares,"Inc."","Board Member","David Thomas","Owner","Sequatchie Concrete Services,"Inc."","2019","Manufacturing","n/a"
+"General Bancshares,"Inc."","n/a","Thomas Brothers Partnership","n/a","n/a","2019","Rental Properties","n/a"
+"General Bancshares,"Inc."","Board Member/Secretary","Henry Lodge","n/a","Officers of Lodge Manufacturing","2019","Manufacturing","n/a"
+"General Bancshares,"Inc."","Board Chairman/President/CEO","Geoffrey Post","Board Member","n/a","2019","Banking","n/a"
+"General Bancshares,"Inc."","Board Member","Jerry Don Thomas","Owner","First Community Financial,"Inc."","2019","Mortgage Broker","n/a"
+"General Bancshares,"Inc."","Board Member","William S. Dinker","n/a","n/a","2019","Retired","n/a"
+"General Bancshares,"Inc."","Board Member","Richard Moody","Executive Vice President","n/a","2019","Banking","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post (voting member)","n/a","n/a","2019","Banking","n/a"
+```

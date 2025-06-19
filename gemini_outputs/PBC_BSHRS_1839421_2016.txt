@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBC Bancshares,"Inc."","Pelham,"GA"","2016","W. C. Bernier","Common","1245.00","8.30%","1839421"
+"PBC Bancshares,"Inc."","Pelham,"GA"","2016","J. Leonard Eubanks","Common","1077.25","8.04%","1839421"
+"PBC Bancshares,"Inc."","Pelham,"GA"","2016","J. Leonard Eubanks Marital Trust","Common","128.00","8.04%","1839421"
+"PBC Bancshares,"Inc."","Thomasville,"GA"","2016","Karen S. Leabo","Common","843.00","5.62%","1839421"
+"PBC Bancshares,"Inc."","Thomasville,"GA"","2016","Richard L. Singletary","Common","843.00","5.62%","1839421"
+"PBC Bancshares,"Inc."","Pelham,"GA"","2016","Charles J. Yates","Common","2278.00","15.19%","1839421"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBC Bancshares,"Inc."","President Director","Suzanne T. Anderson","President Director","Pelham Banking Company","2016","n/a","1839421"
+"PBC Bancshares,"Inc."","Corporate Secretary & Director","G. Duane Bentley","Vice President Director","Pelham Banking Company","2016","n/a","1839421"
+"PBC Bancshares,"Inc."","Director","Betty S. Palmer","Director","Pelham Banking Company","2016","Retired","1839421"
+"PBC Bancshares,"Inc."","Director & Chairman","Charles J. Yates","Director & Chairman","Pelham Banking Company","2016","Retired","1839421"
+"PBC Bancshares,"Inc."","Director","J Keaton Eubanks","Director","Pelham Banking Company","2016","Farmer & Pulpwood Business","1839421"
+"PBC Bancshares,"Inc."","Director","Donnie L Palmer","Director","Pelham Banking Company","2016","Retail","1839421"
+"PBC Bancshares,"Inc."","Director","Jenny Marshall","Director","Pelham Banking Company","2016","CPA","1839421"
+"PBC Bancshares,"Inc."","Director","C. James Yates,"Jr."","Director","Pelham Banking Company","2016","Computer Services","1839421"
+```

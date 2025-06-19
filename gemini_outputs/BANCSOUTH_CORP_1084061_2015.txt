@@ -1,26 +1,20 @@
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancSouth Corporation","Dothan","2015","Noel M Dowling Family Trust\nf/b/o N. Mitchell Dowling,"Jr.\nN. Mitchell Dowling","Jr. and Shirley D. McCrary","Co-Trustees\nN. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
-"BancSouth Corporation","Dothan","2015","Noel M Dowling Family Trust\nf/b/o Shirley D. McCrary\nN. Mitchell Dowling,"Jr. and Shirley D. McCrary","Co-Trustees\nN. Mitchell Dowling","Jr.","Voting Rights Agreement (06/12/02)"","n/a","9380","27.96%"
-"BancSouth Corporation","Dothan","2015","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%"
-"BancSouth Corporation","Mooresville","2015","George Laurence McCrary,"III"","n/a","2700","8.05%"
-"BancSouth Corporation","Mooresville","2015","Margaret Ann McCrary Crumlish","n/a","1700","5.07%"
-"BancSouth Corporation","n/a","2015","12 other shareholders\nowning 5% or less each","n/a","1700","5.06%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancSouth Corporation","Dothan,"Alabama"","2015","Noel M Dowling Family Trust f/b/o N. Mitchell Dowling,"Jr."","n/a","9380","27.96%","1084061"
+"BancSouth Corporation","Dothan,"Alabama"","2015","Noel M Dowling Family Trust f/b/o Shirley D. McCrary","n/a","9380","27.96%","1084061"
+"BancSouth Corporation","Dothan,"Alabama"","2015","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%","1084061"
+"BancSouth Corporation","Mooresville,"Alabama"","2015","George Laurence McCrary,"III"","n/a","2700","8.05%","1084061"
+"BancSouth Corporation","Mooresville,"Alabama"","2015","Margaret Ann McCrary Crumlish","n/a","1700","5.07%","1084061"
+"BancSouth Corporation","n/a","2015","12 other shareholders owning 5% or less each","n/a","1700","5.06%","1084061"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","27,"450 shares (81.82%)"","BancSouth Corporation","2015"
-"BancSouth Corporation","Cashier,"Chairman and Director"","N. Mitchell Dowling,"Jr."","None","BankSouth","2015"
-"BancSouth Corporation","None","N. Mitchell Dowling,"Jr."","None","n/a","2015"
-"BancSouth Corporation","President and Director","Kevin R. Kirkland","20 shares (0.06%)","BancSouth Corporation","2015"
-"BancSouth Corporation","Executive Vice President,"Chief Financial Officer","Director"","Kevin R. Kirkland","None","BankSouth","2015"
-"BancSouth Corporation","None","Kevin R. Kirkland","None","n/a","2015"
-"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","20 shares (0.06%)","BancSouth Corporation","2015"
-"BancSouth Corporation","Executive Vice President,"Chief Executive Officer","Director"","Robert W. Bass,"Jr."","None","BankSouth","2015"
-"BancSouth Corporation","None","Robert W. Bass,"Jr."","None","n/a","2015"
-"BancSouth Corporation","Director","George Laurence McCrary,"III"","2,"700 shares (8.05%)"","BancSouth Corporation","2015"
-"BancSouth Corporation","Director","George Laurence McCrary,"III"","None","BankSouth","2015"
-"BancSouth Corporation","None","George Laurence McCrary,"III"","None","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","Cashier,"Chairman and Director"","N. Mitchell Dowling,"Jr."","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","Executive Vice President,"Chief Financial Officer","Director"","Kevin R. Kirkland","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","Executive Vice President,"Chief Executive Officer","Director"","Robert W. Bass,"Jr."","n/a","n/a","2015","Banker","1084061"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","n/a","n/a","2015","Farming and Investments","1084061"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","n/a","n/a","2015","Farming and Investments","1084061"
 ```

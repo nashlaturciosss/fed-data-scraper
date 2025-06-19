@@ -1,0 +1,39 @@
+Here are the two CSV tables requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Albany,"GA"","2016","Jim Boyd","n/a","156,"900"","12.24%","3341656"
+"Flint Community Bancshares,"Inc."","Alpharetta,"GA"","2016","Wayne Damron","n/a","126,"500"","9.87%","3341656"
+"Flint Community Bancshares,"Inc."","Leesburg,"GA"","2016","Henry H. Griffin","n/a","274,"150"","21.39%","3341656"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","LORAC Properties","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","Coach & Motor","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","BGK Properties","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Charles A. Curry","Chairman & CEO","First State Bank of Randolph County","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Charles A. Curry","n/a","J. W. Walker Ins. Agcy","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Wayne Damron","n/a","n/a","2016","Retired","3341656"
+"Flint Community Bancshares,"Inc."","Secretary of Holding Co. and Vice President of Subsidiary Bank","Elaine Davis","n/a","n/a","2016","n/a","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Harry N. Dorsey","n/a","n/a","2016","Retired","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry Dunn","n/a","n/a","2016","Retired","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","CEO","Southern Ag Carriers Holdings 12","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","n/a","Wil-Mil Farms","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","President","HHG Properties","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","Secretary","Pondtoon Boats Dist. Inc.","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","CEO","Lee County Equip.LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry H. Griffin","Secretary","PeerSouth Inc.","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director and EVP of Holding Co. and Director and President of Subsidiary Bank","William F. Griffin","n/a","n/a","2016","n/a","3341656"
+"Flint Community Bancshares,"Inc."","SVP of Holding Co. and Subsidiary Bank","Ross Harrison","n/a","n/a","2016","n/a","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","RDCK LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","TD Properties LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","Rolling Thunder LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","Demi Properties LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","BHV LLC","2016","Executive","3341656"
+"Flint Community Bancshares,"Inc."","Chairman of Board of Holding Co. and Subsidiary Bank","Richard W. Little","n/a","n/a","2016","Retired","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Dunn Stapleton","n/a","n/a","2016","Attorney","3341656"
+"Flint Community Bancshares,"Inc."","SVP of Holding Co. and Director and EVP of Subsidiary Bank","Leonard W. Thomas","n/a","n/a","2016","n/a","3341656"
+"Flint Community Bancshares,"Inc."","Director and CEO of Holding Co. and Subsidiary Bank","M. Scott Tomlinson","n/a","n/a","2016","n/a","3341656"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Darin G. Wood","President","Woodford Plywood,"Inc."","2016","Executive","3341656"
+```

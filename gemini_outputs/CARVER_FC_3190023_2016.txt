@@ -1,18 +1,32 @@
-Here are the requested CSV tables:
+Here are the requested CSV tables.
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2016","Robert E. James","Common Stock","285231.7650","48%"
-"CARVER FINANCIAL CORPORATION","Cleveland","2016","Karlene E. Farabee","Common Stock","57665.0250","9.70%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2016","Robert E. James","Common Stock","285231.7650","48%","n/a"
+"CARVER FINANCIAL CORPORATION","Cleveland,"TN"","2016","Karlene E. Farabee","Common Stock","57665.0250","9.70%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2016"
-"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2016"
-"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Carver State Bank","2016"
-"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Carver State Bank","2016"
-"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Director","Carver State Bank","2016"
-"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","Carver State Bank","2016"
-"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","Carver State Bank","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","Bank Properties,"Ltd."","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","Century Investors,"Limited"","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","Anderson Street Associates,"Limited"","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","United Properties,"Inc."","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","Atlantic Communications of Georgia,"Inc."","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","n/a","Campus Properties,"LLC"","2016","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2016","n/a","n/a"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","n/a","Carver State Bank","2016","Funeral Home Director & Owner","n/a"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","n/a","Carver State Bank","2016","Executive Director of a Non-profit Agency","n/a"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Century Investors,"Ltd."","2016","Executive Director of a Non-profit Agency","n/a"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Anderson Street Associates,"Ltd."","2016","Executive Director of a Non-profit Agency","n/a"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","n/a","Carver State Bank","2016","Bank Officer","n/a"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Sole Member","Springfield Properties,"LLC"","2016","Bank Officer","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","n/a","Carver State Bank","2016","Retired Educator & Healthcare Administrator","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","Carver State Bank","2016","Consultant & Attorney","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","Coastal Legacy Group,"LLC"","2016","Consultant & Attorney","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","CLG MLK Savannah,"LLC"","2016","Consultant & Attorney","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","Golden Holley James,"LLP"","2016","Consultant & Attorney","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","Bank Properties,"Ltd."","2016","Consultant & Attorney","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","n/a","GHJ Solutions,"LLC"","2016","Consultant & Attorney","n/a"
 ```

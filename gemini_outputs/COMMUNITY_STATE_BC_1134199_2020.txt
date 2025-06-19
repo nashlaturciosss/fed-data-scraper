@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community State Bank Corporation","Starke,"FL"","2020","Debra J Johns and Frank Williams","Common","2766.50","18.45%","n/a"
+"Community State Bank Corporation","Starke,"FL"","2020","Johns Family Trust Phillip J Johns Trust","Common","2819.50","18.80%","n/a"
+"Community State Bank Corporation","Orlando,"FL"","2020","Markely Ann Johns Cash","Common","2962","19.75%","n/a"
+"Community State Bank Corporation","St. Augustine,"FL"","2020","Trustee of the Betty Wuenschel Reveocable Trust","Common","3527","23.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community State Bank","Director","Debra J Johns & Frank Williams Trust","Director","n/a","2020","n/a","n/a"
+"Community State Bank","Chairman/ Director","Estate of Betty Wuenschel","Chairman/Director","n/a","2020","n/a","n/a"
+"Community State Bank","Director","William Adams","Director","Golf Equipment Wholesale","2020","Golf Equipment Wholesale","n/a"
+"Community State Bank","Director","Markley Ann Cash","Director","n/a","2020","n/a","n/a"
+"Community State Bank","President","Jeff Oody","C.O. R Developments Partner","C.O. R Developments","2020","n/a","n/a"
+"Community State Bank","V Chairman/Director","Terry L Vaughan or Jennifer N Vaughan","V Chairman/Director","n/a","2020","Bradford Co. Supervisor of Elections","n/a"
+"Community State Bank","Director","Billy Paul Canova","Director","n/a","2020","n/a","n/a"
+"Community State Bank","SR Vice President/COO","Carolyn Reddish","n/a","n/a","2020","Asst. Secretary","n/a"
+"Community State Bank","EVP/CFO","Eugene Richardson","Owner","Baker Loan Company","2020","n/a","n/a"
+"Community State Bank","AVP\Branch Manager","Ansley Champion","NA","n/a","2020","n/a","n/a"
+"Community State Bank","VP\Branch Manger","Jennie Reed","n/a","n/a","2020","n/a","n/a"
+"Community State Bank","AVP\Loan Officer","Andrea Bailey","n/a","n/a","2020","n/a","n/a"
+"Community State Bank","AVP\Loan Officer","Kristen Paz","n/a","n/a","2020","n/a","n/a"
+"Community State Bank","n/a","James Eison","n/a","n/a","2020","NA","n/a"
+"Community State Bank","n/a","Tammie Woodard","n/a","n/a","2020","NA","n/a"
+"Community State Bank","n/a","Jon Grebinger","n/a","n/a","2020","N\A","n/a"
+"Community State Bank","n/a","Betty Trawick","n/a","n/a","2020","NA","n/a"
+```

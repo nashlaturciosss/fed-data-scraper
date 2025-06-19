@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens National Banc Corp.","Memphis,"TN"","2014","Elizabeth W. Williamson","Common Stock","10272","7.21%","n/a"
+"Citizens National Banc Corp.","Memphis,"TN"","2014","Garnett W. Hutton","Common Stock","10592","7.44%","n/a"
+"Citizens National Banc Corp.","Ridgeland,"MS"","2014","Richard E. Wilbourn III","Common Stock","10202","7.16%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2014","Catherine M. Hall","Common Stock","10328","7.25%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2014","Deanna A. Wilbourn","Common Stock","42010","29.49%","n/a"
+"Citizens National Banc Corp.","n/a","2014","Archie R. McDonnell,"Jr."","Common Stock","9632","6.76%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Banc Corp.","Chairman","Russell H. Williamson","Chairman","The Citizens National Bank of Meridian","2014","n/a","n/a"
+"Citizens National Banc Corp.","Director & President","Archie R. McDonnell,"Jr."","President & CEO","The Citizens National Bank of Meridian","2014","n/a","n/a"
+"Citizens National Banc Corp.","Principal Shareholder","Deanna A. Wilbourn","Executrix","Richard E. Wilbourn; Co-Trustee of the Estate","2014","n/a","n/a"
+"Citizens National Banc Corp.","Director","Garnett W. Hutton","Co-Trustee","Deanna A. Wilbourn Marital Trust A","2014","n/a","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Inn Serve Corporation","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Northeast Inn of Meridian,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Budget Inns,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Queen City Properties,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Inn of Vicksburg,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Budget Inn of Vicksburg,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Inn of Daphne,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Budget Inn of Daphne,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Jubilee Hotels,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Hernando Realty Corporation","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Director,"Vice President & Secretary of:"","Budget Inns of FL,"Inc."","2014","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","President & CEO of","Halltree,"Inc."","2014","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","President & CEO of","Hallforest,"L.P."","2014","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","President & CEO of","Halltimber,"L. P."","2014","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","President & CEO of","The Hall Foundation,"Inc"","2014","Timber farmer & Attorney","n/a"
+```

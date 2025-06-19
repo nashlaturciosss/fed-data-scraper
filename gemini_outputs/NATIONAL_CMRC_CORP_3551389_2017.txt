@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"National Commerce Corporation","Birmingham,"AL"","2017","Charles Phillip McWane Grantor Retained Annuity Trust","voting common stock","833396","5.64%","n/a"
+"National Commerce Corporation","Birmingham,"AL"","2017","Charles Phillip McWane","voting common stock","497705","3.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"National Commerce Corporation","Chairman of the Board & Director","John H. Holcomb,"III"","Chairman of the Board & Director","National Bank of Commerce","2017","n/a","n/a"
+"National Commerce Corporation","CEO & President & Director","Richard Murray,"IV"","CEO & President & Director","National Bank of Commerce","2017","n/a","n/a"
+"National Commerce Corporation","Vice Chairman-CFO & Director","William E. Matthews,"V"","Vice Chairman -CFO","National Bank of Commerce","2017","n/a","n/a"
+"National Commerce Corporation","EVP - Chief Risk Manager & Director","William Ireland,"Jr."","EVP - Chief Risk Management Officer","National Bank of Commerce","2017","n/a","n/a"
+"National Commerce Corporation","EVPBank Operations","John R. Bragg","EVP - Bank Operations","National Bank of Commerce","2017","n/a","n/a"
+"National Commerce Corporation","Director","Bobby Bradley","Director","National Bank of Commerce","2017","Real Estate Services","n/a"
+"National Commerce Corporation","Director","Bobby Bradley","Manager","Lewis Properties","2017","Real Estate Services","n/a"
+"National Commerce Corporation","Director","C. Phillip McWane","Director","National Bank of Commerce","2017","Executive Manufacturing Company Ductile Pipe","n/a"
+"National Commerce Corporation","Director","C. Phillip McWane","Chairman","McWane Inc.","2017","Executive Manufacturing Company Ductile Pipe","n/a"
+"National Commerce Corporation","Director","G. Ruffner Page,"Jr."","President","McWane Inc.","2017","Executive Manufacturing Company Ductile Pipe","n/a"
+"National Commerce Corporation","Director","W. Stancil Stanes","Chairman & CEO","ProAssurance Corporation","2017","Insurance Company Executive","n/a"
+"National Commerce Corporation","Director","Russell Vandevelde","CEO","EBS Services,"LLC"","2017","Life Insurance and Benefits Consultant","n/a"
+"National Commerce Corporation","Director","Russell Vandevelde","CEO","CCI,"Inc."","2017","Life Insurance and Benefits Consultant","n/a"
+"National Commerce Corporation","Director","R. Holman Head","President & COO","O'Neal Steel","2017","Executive Manufacturing Company Steel","n/a"
+"National Commerce Corporation","Director","Temple Tutwiler","President","Tutwiler Properties,"Ltd."","2017","Real Estate","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","SGS Investments,"LLC"","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","CST Holdings,"LLC"","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Destination Interchange. LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Nova Commerce Center,"LLC"","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Beachside Catalyst LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Seabreeze AIA LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Volusia Vault LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Tarheel 330 LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Ormond Beach Dermatology","2017","Physician","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","Sevigny KEM LLC","2017","Physician","n/a"
+"National Commerce Corporation","Director","Mark L.Drew","President/CEO","Kitchens,"Kelley & Gaynes","PC"","2017","Executive Life Insurance Company","n/a"
+"National Commerce Corporation","Director","Joel S. Arogeti","President/CEO","Kitchens,"Kelley & Gaynes","PC"","2017","Lawyer","n/a"
+"National Commerce Corporation","Director","Donald F. Wright","Partner","Wright,"Fulford Moorhead & Brown"","2017","Lawyer","n/a"
+```

@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Bancshares,"Inc."","Lovejoy,"GA"","2014","Arlie C. Aukerman & Frances W. Aukerman JT TEN","Common stock","265133","7.80%","3019339"
+"Georgia Bancshares,"Inc."","Atlanta,"GA"","2014","Rick A. Duncan","Common stock","171393","5.04%","3019339"
+"Georgia Bancshares,"Inc."","Peachtree City,"GA"","2014","Malcolm R. Godwin","Common stock","197404","5.81%","3019339"
+"Georgia Bancshares,"Inc."","Peachtree City,"GA"","2014","Thomas G. Sellmer","Common stock","199436","5.87%","3019339"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Rick A. Duncan","Director","n/a","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Senior Vice President,"Chief Financial Officer"","C. Lynn Gable","n/a","n/a","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","Brandywine Partners LLC","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","Sandy Creek Village LLC","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","Howell Park Associates LLC","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","Tilwin Properties,"Inc."","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","Old Campbell LLC","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Executive Vice President"","Malcolm R. Godwin","Director","HMT Sycamore Grove LLC","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Senior Vice President","James D. Kitchens","n/a","n/a","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","South-Tree Enterprises,"Inc."","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","Joco Construction LLC","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","Champion Millworks LLC","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","Parkside Management Group","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","Commerce Real Estate Holdings","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","Parkside Development Group","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","ST Interiors","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director,"Chairman"","Charles R. Ogletree","Director","CRO Holdings","2014","Construction","3019339"
+"Georgia Bancshares,"Inc."","Director","Donnie H. Russell","Owner and President","Parham Industries,"Inc."","2014","Retired Owner Manufactured Home Sales Co.","3019339"
+"Georgia Bancshares,"Inc."","Director","Thomas G. Sellmer","Owner","Sellmer Property Management.","2014","Real Estate Management & Investment","3019339"
+"Georgia Bancshares,"Inc."","Partner Law Firm","W. Robert Hancock,"Jr."","Director,"Partner"","Glover & Davis,"P.A."","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Partner Law Firm","W. Robert Hancock,"Jr."","Director,"Partner"","F &. H Inv. Co","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Senior Vice President","Eric K. Smith","n/a","n/a","2014","n/a","3019339"
+"Georgia Bancshares,"Inc."","Director","Jack R. Smith","Chairman,"Secretary"","Smith,"Conley and Associates","PC"","2014","CPA","3019339"
+```

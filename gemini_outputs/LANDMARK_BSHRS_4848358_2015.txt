@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Landmark Bancshares","Inc.","Director,"Vice Chairman"","Joseph D. Chipman","Director,"Vice Chairman"","n/a","2015","Retired Banker","4848358"
+"Landmark Bancshares","Inc.","Director","Stephen D. Cole","Director","n/a","2015","Retired Building Supplies Executive","4848358"
+"Landmark Bancshares","Inc.","Director,"EVP & CFO"","Terrence Y. DeWitt","Director,"EVP & CFO"","n/a","2015","n/a","4848358"
+"Landmark Bancshares","Inc.","Director","Bryan Fields","Director","n/a","2015","Investor","4848358"
+"Landmark Bancshares","Inc.","Director","D. Kimbrough King","Jr.","Director","Kim King Associates LLC","2015","Commerical Real Estate Development","4848358"
+"Landmark Bancshares","Inc.","Director","R. Stanley Kryder","Director","n/a","2015","n/a","4848358"
+"Landmark Bancshares","Inc.","Director,"Chairman"","John H. Moore","Director,"Chairman"","Moore Ingram Johnson & Steele LLP","2015","Attorney","4848358"
+"Landmark Bancshares","Inc.","Director","James Z. Pressley","Jr.","Director","Unified AV Systems","2015","Multi Media/Audio Visual","4848358"
+"Landmark Bancshares","Inc.","Director","David B. Sinyard","Director","Corporate Finance Associates","2015","Investment Advisory","4848358"
+"Landmark Bancshares","Inc.","Director","William D. Smith","Jr.","Director","Little & Smith,"Inc."","2015","Insurance","4848358"
+"Landmark Bancshares","Inc.","Director","David B. Swales","Director","Province Properties,"Inc."","2015","Residential Real Estate Builder/Developer","4848358"
+```

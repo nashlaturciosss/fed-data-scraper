@@ -1,0 +1,20 @@
+"Here are the two CSV tables you requested","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2015","James C. Jones,"III"","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2015","Patrick C. Jones","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2015","The Jones Company","n/a","n/a","24.90%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2015","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","6.05%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2015","JCJ Investments,"Irrevocable Trust"","n/a","n/a","6.10%","2135812"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jones Bancshares,"L.P."","Limited Partner","The Jones Company","n/a","n/a","2015","n/a","2135812"
+"Jones Bancshares,"L.P."","Director/Chairman Emeritus","J.C. Jones,"Jr."","Administrator","Jones Company","2015","n/a","2135812"
+"Jones Bancshares,"L.P."","General Partner","J.C. Jones,"III"","Chairman/CEO","Jones Company","2015","n/a","2135812"
+"Jones Bancshares,"L.P."","General Partner","Patrick Jones","Vice President","Jones Company","2015","n/a","2135812"
+"Jones Bancshares,"L.P."","n/a","James A. Walker,"Jr."","President","Jones Company","2015","n/a","2135812"
+"Jones Bancshares,"L.P."","n/a","W. Nick Taylor","n/a","n/a","2015","n/a","2135812"
+```

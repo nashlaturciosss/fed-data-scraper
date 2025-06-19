@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2015","Estate of Glen Kilgore,"Shari Jones trustee"","common stock","63406","56.52%","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2015","Glen Kilgore Trust,"Shari Jones trustee"","common stock","32509","28.98%","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2015","Shari Jones","common stock","11555","10.30%","2115449"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","Chairman and President","Shari K. Jones","Stockholder","Rainsville Chuch Pew,"Inc."","2015","merchant","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Secretary","James T. Jones","Director","Rainsville Church Pew,"Inc."","2015","merchant","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director and Secretary","Kerry D. Akins","President/Stockholder","W.A. Akins and Sons,"Inc."","2015","merchant","2115449"
+"First State Bancshares of DeKalb County,"Inc."","President and CEO,"Director"","David Henderson","n/a","n/a","2015","banker","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director","Dr. Blake Isbell","President","Isbell Medical Group,"PC"","2015","physician","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director","Joseph McNew","Owner","Dekalb Animal Hospital","2015","veterinarian","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director","J.C. Ralph","Alfa Insurance Co Employee/agent","Alfa Insurance Co","2015","insurance agent","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director","R.C. Etherton","n/a","n/a","2015","retired","2115449"
+"First State Bancshares of DeKalb County,"Inc."","Director","Nicholas Jones","Mayor","City of Rainsville,"AL"","2015","Mayor","2115449"
+```

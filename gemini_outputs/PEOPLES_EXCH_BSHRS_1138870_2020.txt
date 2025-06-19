@@ -1,0 +1,27 @@
+Here are the two requested tables in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2020","Thomas A. Black,"III"","n/a","2699","21","n/a"
+"Peoples Exchange Bancshares,"Inc."","Menomonee Falls,"WI"","2020","James & Doris Durdan Trust","n/a","1299","9.99","n/a"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2020","Claudia B. Smith","n/a","2679","21","n/a"
+"Peoples Exchange Bancshares,"Inc."","Monroeville,"AL"","2020","Rebecca B. Snyder","n/a","2699","21","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Director","Thomas A Black,"III"","Director","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Exec V Pres","Marshall Black","Exec V Pres","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Secretary","Rachael Boutwell","Exec V Pres","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Anna Laura Brown","Director","n/a","2020","Retired Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","CEO Director","Harvey J Gaston,"Jr."","CEO Director","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Tommy Cobb","Director","n/a","2020","CPA","n/a"
+"Peoples Exchange Bancshares,"Inc."","President","Kevin Norris","President","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","n/a","Bill Rogers","Exec V Pres","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Daniel Sawyer","Director","Owner","2020","Co-Owns & Operates 3- Businesses","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Bill Scruggs","Director","n/a","2020","Retired Insurance","n/a"
+"Peoples Exchange Bancshares,"Inc."","n/a","Claudia B Smith","n/a","n/a","2020","Retired","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Kenneth M Smith","Director","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Chairman","Rebecca B Snyder","Chairman","n/a","2020","Banker","n/a"
+"Peoples Exchange Bancshares,"Inc."","Director","Claire B Stallworth","Director","n/a","2020","Timber","n/a"
+```

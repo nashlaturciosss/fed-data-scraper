@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Southwest Corporation","McComb,"USA"","2020","James W. Covington","n/a","80074","27.4%","n/a"
+"First Southwest Corporation","McComb,"USA"","2020","First Bank ESOP","n/a","45560","15.6%","n/a"
+"First Southwest Corporation","Summit,"USA"","2020","Stella C Dodd","n/a","19327","6.6%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Southwest Corporation","Director","L Grant Bennett","Attorney","Law Office of L. Grant Bennett,"Sr"","2021","Attorney","n/a"
+"First Southwest Corporation","Director\nFirst Bank","First Bank Employees","n/a","n/a","2021","n/a","n/a"
+"First Southwest Corporation","Sr Vice President","Stella C Dodd","n/a","n/a","2021","n/a","n/a"
+"First Southwest Corporation","Sr Vice President","Vickie M Webb","n/a","n/a","2021","n/a","n/a"
+"First Southwest Corporation","Sr Vice President","Richard C Dodd","n/a","n/a","2021","n/a","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Chairman & CEO\nof First Bank; Director First Bank","Covington Family,"LLC"","2021","Banker","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Chairman & CEO\nof First Bank; Director First Bank","E.D. Covington L.P.","2021","Banker","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Chairman & CEO\nof First Bank; Director First Bank","Ybrake Farms,"LLC"","2021","Banker","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Charlie H Lewis,"IV"","President and COO\nof First Bank\nDirector\nFirst Bank","n/a","2021","Banker","n/a"
+"First Southwest Corporation","Director\nFirst Bank","E. G. Covington,"III"","n/a","Member Covington Family,"LLC"","2021","Owner HydroClean","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Victor H. Morrish","n/a","n/a","2021","Business Owner","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Harrell E. Holloway,"Jr"","n/a","Alford Holloway & Smith,"CPA's"","2021","Accountant","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Lucius Lampton,"MD"","n/a","Physican Magnolia Clinic","2021","Physican","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Clifton Van Cleave","n/a","Buffalo Serivces Inc.","2021","Business Manager","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Clifton Van Cleave","n/a","BKWIK,"LLC"","2021","Business Manager","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Clifton Van Cleave","n/a","PFCT,"LLC"","2021","Business Manager","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Johnny H. Nance","n/a","n/a","2021","Business Owner","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Frankie J Montalvo","n/a","McComb Diesel,"Inc"","2021","Business Owner","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Frankie J Montalvo","n/a","Fiber Plus,"LLC"","2021","Business Owner","n/a"
+"First Southwest Corporation","Director\nFirst Bank","Frankie J Montalvo","n/a","GilLil Ray LLC","2021","Business Owner","n/a"
+```

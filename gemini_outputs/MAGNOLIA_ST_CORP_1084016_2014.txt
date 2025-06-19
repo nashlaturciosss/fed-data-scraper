@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Magnolia State Corporation","Madison,"MS"","2014","Robert L. Abney,"III"","Common Stock","6570","20.93%","n/a"
+"The Magnolia State Corporation","Bay Springs,"MS"","2014","Thomas E. Brown and Barbara L. Brown,"AJTWROS"","Common Stock","21465","68.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Magnolia State Corporation","Director,"President"","Thomas E. Brown and Barbara L. Brown","Chairman","Magnolia State Bank","2014","Banker","n/a"
+"The Magnolia State Corporation","Director,"Vice President"","Robert L. Abney,"III"","Director","Magnolia State Bank","2014","Medical Doctor (Retired)","n/a"
+"The Magnolia State Corporation","Treasurer","Marcus R. Robinson","Director,"President","& CEO"","Magnolia State Bank","2014","Banker","n/a"
+"The Magnolia State Corporation","Secretary","Lillous A. Shoemaker","General Counsel","Magnolia State Bank","2014","Banker","n/a"
+"The Magnolia State Corporation","Director","Andrew V. Brown","Branch President","Magnolia State Bank","2014","Banker","n/a"
+"The Magnolia State Corporation","Director","Tom G. Brown","Vice President","Magnolia State Bank","2014","Banker","n/a"
+```

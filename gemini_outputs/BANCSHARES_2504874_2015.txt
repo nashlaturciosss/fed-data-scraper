@@ -1,18 +1,23 @@
-Here are the requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"THE BANCSHARES","Jennings","2015","Clarence L Miller","Common Stock","112,"933"","14.38%"
-"THE BANCSHARES","Jennings","2015","Logan L. Nichols","Common Stock","51,"816"","6.59%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"THE BANCSHARES,"INC."","Jennings,"LA"","2015","Clarence L Miller","Common Stock","112933","14.38%","n/a"
+"THE BANCSHARES,"INC."","Jennings,"LA"","2015","Logan L. Nichols","Common Stock","51816","6.59%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"THE BANCSHARES","Chairman/President/CEO","Jeff L Boudreaux","n/a","Petit Peu De Ciel,"LLC"","2015"
-"THE BANCSHARES","Director","Blaine Boudreaux","Director/President","Petit Peu De Ciel,"LLC"","2015"
-"THE BANCSHARES","Director","Chris Thibodeaux","Director of The Bank","Grace Ranch,"Inc."","2015"
-"THE BANCSHARES","National Consultant","Clarence L Miller","Chairman of The Bank","Oilwell Varco","2015"
-"THE BANCSHARES","n/a","Charles E. Ray,"M.D."","Director","Jeff Davis Diagnostics","2015"
-"THE BANCSHARES","Director","Kenneth W. Young,"Sr."","Director of The Bank","Young's Appliance Repair","2015"
-"THE BANCSHARES","Director","Pat Hanley","Director of The Bank","Elite Manuafacturing & Tool,"LLC"","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"THE BANCSHARES,"INC."","Chairman/Pres/CEO","Jeff L Boudreaux","n/a","Petit Peu De Ciel,"LLC"","2015","n/a","n/a"
+"THE BANCSHARES,"INC."","Chairman/Pres/CEO","Jeff L Boudreaux","n/a","Le Whitetail Hunters,"LLC"","2015","n/a","n/a"
+"THE BANCSHARES,"INC."","Director","Blaine Boudreaux","n/a","Petit Peu De Ciel,"LLC"","2015","n/a","n/a"
+"THE BANCSHARES,"INC."","Director","Blaine Boudreaux","n/a","Le Whitetail Hunters,"LLC"","2015","n/a","n/a"
+"THE BANCSHARES,"INC."","Director","Chris Thibodeaux","Owner","Grace Ranch,"Inc."","2015","Physical Therapist Thibodeaux,"Albro & Touchet Therapy Group","LLC"","n/a"
+"THE BANCSHARES,"INC."","Director","Chris Thibodeaux","Owner","Southwest LA Sports & Rehab Center,"LLC"","2015","Physical Therapist Thibodeaux,"Albro & Touchet Therapy Group","LLC"","n/a"
+"THE BANCSHARES,"INC."","Director","Chris Thibodeaux","Owner","Iowa Therapy Center,"LLC"","2015","Physical Therapist Thibodeaux,"Albro & Touchet Therapy Group","LLC"","n/a"
+"THE BANCSHARES,"INC."","Director","Chris Thibodeaux","Owner","Thibodeaux,"Albro & Touchet Therapy Group","LLC"","2015","Physical Therapist Thibodeaux,"Albro & Touchet Therapy Group","LLC"","n/a"
+"THE BANCSHARES,"INC."","Director/Chairman","Clarence L Miller","Consultant-National","Oilwell Varco","2015","n/a","n/a"
+"THE BANCSHARES,"INC."","Director","Charles E. Ray,"M.D."","Vice-President","Jeff Davis Diagnostics","2015","Self Employed M.D.","n/a"
+"THE BANCSHARES,"INC."","Director","Kenneth W. Young,"Sr."","Owner","Young's Appliance Repair","2015","Young's Appliance Repair","n/a"
+"THE BANCSHARES,"INC."","Director","Pat Hanley","Member","Elite Manuafacturing & Tool,"LLC"","2015","Self Employed Electrician","n/a"
+"THE BANCSHARES,"INC."","Director","Pat Hanley","Member","Pat's Electrical Service,"LLC"","2015","Self Employed Electrician","n/a"
 ```

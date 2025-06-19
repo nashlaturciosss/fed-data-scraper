@@ -1,11 +1,16 @@
-"Okay","I will follow your instructions precisely and generate the two CSV tables as requested."
+Here are the two tables extracted from the document in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Century Bancshares of Florida,"Inc"","Tampa","2022","n/a","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Century Bancshares of Florida,"Inc"","Tampa,"FL"","2022","George M. Levy","n/a","16531","14.73%","n/a"
+"Century Bancshares of Florida,"Inc"","Tampa,"FL"","2022","George M. Levy Trust UTA 12/15/92","n/a","13583","12.10%","n/a"
+"Century Bancshares of Florida,"Inc"","Tampa,"FL"","2022","George M. Levy,"Trustee of the Levy Family 2012 Investment Trust"","n/a","14531","12.95%","n/a"
+"Century Bancshares of Florida,"Inc"","Tampa,"FL"","2022","David A. Dunbar","n/a","13937","12.41%","n/a"
+"Century Bancshares of Florida,"Inc"","Tampa,"FL"","2022","Jose Vivero","n/a","11000","9.79%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Century Bancshares of Florida,"Inc"","Chairman,"President & CEO"","Jose Vivero","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Century Bancshares of Florida,"Inc"","Chairman,"President & CEO"","Jose Vivero","n/a","n/a","2022","n/a","n/a"
+"Century Bancshares of Florida,"Inc"","SVP & CFO","Nancy Lopez-Noa","n/a","n/a","2022","n/a","n/a"
 ```

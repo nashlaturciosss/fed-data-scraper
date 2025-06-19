@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Amelia Wilson","Common Stock","7492","27.36%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Amelia Wilson Trust f/b/o Ame Haley","Common Stock","639","23.34%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Harvey L. Wilson,"Sr."","Common Stock","136","4.97%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Amelia W. Haley","Common Stock","348.51","12.73%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Charles R. Haley","Common Stock","7","0.26%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Harvey L. Wilson Jr. Children's Trust","Common Stock","174.25","6.36%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2014","Harvey L. Wilson,"Jr. Children's Trust"","Common Stock","174.25","6.36%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bankshares,"Inc."","Director & Chairman","Amelia A. Wilson","Director & Chairman","n/a","2014","n/a","n/a"
+"Peoples Bankshares,"Inc."","Director & CEO","Harvey L. Wilson,"Sr."","Director & Vice Chairman","n/a","2014","n/a","n/a"
+"Peoples Bankshares,"Inc."","Director & Secretary","Amelia W. Haley","Director & Human Resources Officer","n/a","2014","n/a","n/a"
+"Peoples Bankshares,"Inc."","Director","W. Michael Rountree","President/Owner","Rountrees,"IGA"","2014","Grocery Store Owner","n/a"
+"Peoples Bankshares,"Inc."","Director","W. Michael Rountree","President/Owner","Magnolia Market","2014","Grocery Store Owner","n/a"
+"Peoples Bankshares,"Inc."","Director & President","Charles R. Haley","Director/President/CEO","n/a","2014","N/A","n/a"
+"Peoples Bankshares,"Inc."","Director","Clayton R Lancaster,"Jr."","President/Owner","Lancaster Fertilizer Services,"Inc"","2014","Fertilizer Spreading","n/a"
+"Peoples Bankshares,"Inc."","Director","Randall F. Daniel","Owner","R&K Daniel Co.","2014","Builder","n/a"
+"Peoples Bankshares,"Inc."","Director","Randall F. Daniel","Owner","Daniel Development","2014","Builder","n/a"
+"Peoples Bankshares,"Inc."","Director","Harvey C. Walker,"Jr."","Sales Manager","Horton Homes,"Inc."","2014","Mobile Home Sales","n/a"
+"Peoples Bankshares,"Inc."","Director & V.P.","Steve W. Culberson","Director/Exec. V.P.","n/a","2014","N/A","n/a"
+```

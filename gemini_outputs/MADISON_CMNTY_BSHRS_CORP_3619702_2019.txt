@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Community Bancshares Corporation","Madison,"Florida"","2019","William D. Rutherford","Common Stock","45036","8.03%","n/a"
+"Madison Community Bancshares Corporation","Madison,"Florida"","2019","Jacob K. Johnson or Jacqueline P. Johnson","Common Stock","35142","6.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Community Bancshares Corporation","Officer/Executive Vice President/Senior Lender","John G. Ashey III","n/a","n/a","2019","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Director","D&D Farms,"LLC"","2019","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","Carson L. Cherry","n/a","n/a","2019","n/a","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","PB&J of Madison,"LLC"","2019","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","Loper Pond Plantation & Estates,"LLC"","2019","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","Coleburn Enterprises,"LLC"","2019","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","J&P Land Services,"LLC"","2019","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Senior Vice President/Cashier","Barbara Driggers","n/a","n/a","2019","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Cary A. Hardee,"II"","Owner/MGR","Hardee Law Firm,"PL"","2019","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","Gordon Alvin Henderson","Owner","Henderson Farms","2019","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","John Lewis","Owner/MGR","Madison Veterinary Clinic LLC","2019","Veterinarian","n/a"
+"Madison Community Bancshares Corporation","Director/President/CEO","D. Edward Meggs,"Sr."","n/a","n/a","2019","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Ronnie L. Moore","MGR","Panther Creek Enterprises LLC","2019","Rancher","n/a"
+"Madison Community Bancshares Corporation","Vice President/Compliance Officer","Mallene F. Mosier","n/a","n/a","2019","Banker","n/a"
+"Madison Community Bancshares Corporation","Vice President/CFO","William M. Primm","n/a","n/a","2019","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Lowell D. Robinson","n/a","n/a","2019","n/a","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","President","Clemons,"Rutherford and Associates","Inc."","2019","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","President","Institutioal Construction Management,"Inc."","2019","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","Clay Schnitker","President","Davis,"Schnitker","Reeves & Browning","P.A."","2019","Attorney","n/a"
+```

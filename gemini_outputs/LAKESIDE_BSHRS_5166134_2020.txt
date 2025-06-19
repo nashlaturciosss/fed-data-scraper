@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Lake Charles,"LA"","2020","J. Michael Veron","Common Stock","244692","11.66%","n/a"
+"Lakeside Bancshares,"Inc"","Lake Charles,"LA"","2020","Thomas A. Flanagan","Common Stock","160000","7.63%","n/a"
+"Lakeside Bancshares,"Inc"","Lake Charles,"LA"","2020","Russell Stutes,"Jr."","Common Stock","172120","8.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Director & Chairman","J. Michael Veron","Member/Partner","Veron Bice Palermo & Wilson","2020","Attorney","n/a"
+"Lakeside Bancshares,"Inc"","Director & Vice Chairman","Robert Piper","Administrator","Our Lady Queen of Heaven Church","2020","Retired CEO of US Unwired - Public Company","n/a"
+"Lakeside Bancshares,"Inc"","Director & Secretary","Joseph W. Roberts","Administrator","Roberts CPA Firm","2020","Retired Banker","n/a"
+"Lakeside Bancshares,"Inc"","Director & President/CEO","Roy M. Raftery,"Jr."","n/a","n/a","2020","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","Southland Capital,"LLC"","2020","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","West River Landing,"LLC"","2020","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","CEH LTD","2020","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","D. Keith Duplechin","President","First Capital Group,"LLC"","2020","Private Investments/ Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Vincent Gagliano","Executive Vice President","AmeriSafe,"Inc"","2020","Insurance Executive Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Ronnie Johns","Owner","Ronnie Johns Agency","2020","State Senator Insurance Agent","n/a"
+"Lakeside Bancshares,"Inc"","Director","Willie Mount","n/a","n/a","2020","Retired State Senator","n/a"
+"Lakeside Bancshares,"Inc"","Director","Joseph Thomas","Operating Partner","Thomas Family Properties","2020","Retired Military/ Manufacturing","n/a"
+"Lakeside Bancshares,"Inc"","Director","M. Shane Chapman","n/a","n/a","2020","Physician","n/a"
+"Lakeside Bancshares,"Inc"","Director","Russell J. Stutes,"Jr."","Managing Partner","Stutes & Lavergne,"LLC"","2020","Attorney","n/a"
+"Lakeside Bancshares,"Inc"","Treasurer","Shively H. Verrette","n/a","n/a","2020","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Exec VP & CLO","E. Jeffrey Mancuso","n/a","n/a","2020","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Sr. VP & Lendor","Aaron LeBoeuf","n/a","n/a","2020","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Sr. VP & Lendor","Karen Quinilty","n/a","n/a","2020","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Compliance Officer","Lisa Pinder","n/a","n/a","2020","N/A","n/a"
+```

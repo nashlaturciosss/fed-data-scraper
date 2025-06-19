@@ -1,0 +1,35 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Brundidge Bancshares,"Inc."","Brundidge,"AL"","2014","James T. Ramage,"III"","n/a","11650","11.65%","1245684"
+"First Brundidge Bancshares,"Inc."","Brundidge,"AL"","2014","Johnnie Ramage","n/a","11550","11.55%","1245684"
+"First Brundidge Bancshares,"Inc."","Daphne,"AL"","2014","Patricia Bryan Sirmon,"RT"","n/a","6762.50","6.76%","1245684"
+"First Brundidge Bancshares,"Inc."","Atlanta,"GA"","2014","J. Lee Bryan","n/a","6762.50","6.76%","1245684"
+"First Brundidge Bancshares,"Inc."","Port Huename,"CA"","2014","Fox Johnson Beam","n/a","6510","6.51%","1245684"
+"First Brundidge Bancshares,"Inc."","Brundidge,"AL"","2014","First Brundidge Bancshares,"Inc."","n/a","6000","6.00%","1245684"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Brundidge Bancshares,"Inc."","Chairman","James T. Ramage,"III"","Mayor","City of Brundidge","2014","Chairman,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","Chairman","James T. Ramage,"III"","n/a","Power South Coop","2014","Chairman,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","Chairman","James T. Ramage,"III"","n/a","Charles Henderson Memorial Association","2014","Chairman,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","Chairman","James T. Ramage,"III"","Executive Officer","Alabama Bankers Association,"Inc."","2014","Chairman,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Rayvon Graham","n/a","Sem-Ray","2014","Retired from diverse businesses and farming","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Rayvon Graham","n/a","Graham Leasing Company,"LTD"","2014","Retired from diverse businesses and farming","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Rayvon Graham","n/a","Industrial Developers","2014","Retired from diverse businesses and farming","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Rayvon Graham","n/a","Waugh Properties","2014","Retired from diverse businesses and farming","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Rayvon Graham","n/a","Graham Farms","2014","Retired from diverse businesses and farming","n/a"
+"First Brundidge Bancshares,"Inc."","Director","James M. Shirley","n/a","n/a","2014","Retired Ford dealer","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Thomas C. Wallace","President","Wallace Pump and Supply Company,"Inc."","2014","Wholesale Plumbing Supplier","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Robert William Barr","n/a","n/a","2014","Circuit Judge,"Retired"","n/a"
+"First Brundidge Bancshares,"Inc."","President","John R. Ramage","n/a","Pike County Economic Development Corporation Inc.","2014","President/CEO,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","President","John R. Ramage","n/a","Troy Pike Cultural Arts Centers Inc.","2014","President/CEO,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","President","John R. Ramage","n/a","Pike Liberal Arts Foundation Inc.","2014","President/CEO,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","President","John R. Ramage","n/a","Pike County Chamber of Commerce","2014","President/CEO,"First National Bank of Brundidge"","n/a"
+"First Brundidge Bancshares,"Inc."","Director","Kyle M. Leverette","Troy Area Preconstruction Engineer","n/a","2014","Civil Engineer","n/a"
+"First Brundidge Bancshares,"Inc."","Principal Shareholder","Johnnie M. Ramage","n/a","n/a","2014","Administrative Assistant","n/a"
+"First Brundidge Bancshares,"Inc."","Executive Vice President","Jerry W. McLendon","n/a","The Charles Henderson Medical Clinic Board of the City of Troy","2014","Executive Vice President of FNBB","n/a"
+"First Brundidge Bancshares,"Inc."","Chief Financial Officer","Rhonda S. Peters","n/a","n/a","2014","Chief Financial Officer of FNBB","n/a"
+"First Brundidge Bancshares,"Inc."","Cashier","Brian F. Davis","n/a","Bankers to Leaders","2014","Cashier of FNBB","n/a"
+```

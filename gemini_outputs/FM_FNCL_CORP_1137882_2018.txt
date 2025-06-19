@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the provided FR Y-6 form:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2018","Betty L. Rankin","Shares of Common Stock","24140","14.83%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2018","Franklin W. Latta","Shares of Common Stock","24040","14.77%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2018","Mary L. Woods","Shares of Common Stock","23940","14.71%","n/a"
+"F & M FINANCIAL CORP","Lookout Mountian,"TN"","2018","Norwood E. Green","Shares of Common Stock","22500","13.82%","n/a"
+"F & M FINANCIAL CORP","Centre,"AL"","2018","Margaret L. or Mallory Whorton","Shares of Common Stock","21740","13.36%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2018","Jim D. Smallwood","Shares of Common Stock","13200","8.11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M FINANCIAL CORP","President","Frankiln W. Latta","CEO","Farmers & Merchants Bank","2018","n/a","n/a"
+"F & M FINANCIAL CORP","VP / Director","Christopher F. Latta","President","Farmers & Merchants Bank","2018","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Larry Deason","Director","Farmers & Merchants Bank","2018","n/a","n/a"
+"F & M FINANCIAL CORP","VP of Human Resources","Betty L. Rankin","Human Resources","Farmers & Merchants Bank","2018","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Arthur Fite,"IV"","Owner","Fite Law Firm","2018","Attorney","n/a"
+"F & M FINANCIAL CORP","Director","John Bekkers","Director","Farmers & Merchants Bank","2018","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","David Neisler","Director","Farmers & Merchants Bank","2018","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Director","Farmers & Merchants Bank","2018","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","n/a","Margaret L. or Mallory Whorton","n/a","n/a","2018","Real Estate","n/a"
+"F & M FINANCIAL CORP","n/a","Mary Woods","n/a","n/a","2018","Teller","n/a"
+"F & M FINANCIAL CORP","n/a","Norwood Green","n/a","n/a","2018","Retired","n/a"
+```

@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gueydan Bancshares,"Inc."","n/a","2023","Eugene M. Broussard","n/a","6999","6.23%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","Connie Lynn Tregle","n/a","18519","16.5%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","Scott Michael Zaunbrecher","n/a","8296","7.39%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","David Thibodeaux","n/a","8177","7.28%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","Cynthia Marceaux","n/a","6104","5.43%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","Charles Freeland","n/a","7447","6.63%","n/a"
+"Gueydan Bancshares,"Inc."","n/a","2023","Charles Freeland,"II"","n/a","5567","4.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gueydan Bancshares,"Inc."","President","Connie Lynn Tregle","n/a","n/a","2023","n/a","n/a"
+"Gueydan Bancshares,"Inc."","Director","Eugene M. Broussard","n/a","n/a","2023","CPA","n/a"
+"Gueydan Bancshares,"Inc."","Director","Cynthia Marceaux","n/a","n/a","2023","CPA","n/a"
+"Gueydan Bancshares,"Inc."","Director","David Thibodeaux","n/a","n/a","2023","Physician","n/a"
+"Gueydan Bancshares,"Inc."","Director","Scott Michael Zaunbrecher","n/a","n/a","2023","Attorney","n/a"
+"Gueydan Bancshares,"Inc."","Director","Charles Freeland","n/a","n/a","2023","Real Estate Developer","n/a"
+"Gueydan Bancshares,"Inc."","Director","Charles Freeland,"II"","n/a","n/a","2023","CPA","n/a"
+```

@@ -1,0 +1,18 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2017","Dr. T. B. Boyd,"III"","CSB&T stock","69946","47.04%","n/a"
+"CSB & T Bancorp,"Inc."","Chicago,"IL"","2017","NCIF","CSB&T stock","25000","16.81%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2017","Citizens Savings Bank & Trust ESOP","CSB&T stock","29948","20.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Chairman","Dr. T.B. Boyd,"III"","Partner","Boyd Partners,"LP"","2017","Retired","n/a"
+"CSB & T Bancorp,"Inc."","Director","LaDonna Boyd","Retired & Chairman Emeritus","R. H. Boyd Publishing Corporation","2017","President & Chief Executive Officer of R.H. Boyd Publishing Corp.","n/a"
+"CSB & T Bancorp,"Inc."","President/CEO","Deborah A. Cole","Owner","Jewels By Deborah","2017","President/CEO of CSB&T and Citizens Bank","n/a"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","SourceMark,"LLC"","2017","President of SourceMark,"LLC"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Dr. Reavis L. Mitchell","Professor and Administrator of Fisk University","n/a","2017","n/a","n/a"
+"CSB & T Bancorp,"Inc."","Director","Joseph Walker,"III"","Pastor","Mt. Zion Baptist Church","2017","Pastor","n/a"
+```

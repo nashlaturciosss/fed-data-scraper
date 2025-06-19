@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2017","CEDE & Co./Depository Trust Co.","common stock","646","6.03%","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2017","Donald Richardson","common stock","5085","6.03%","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2017","Carney B. Nicks,"Trust-"","common stock","17540","6.03%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director Chairman","Tommy Nicks","Director","n/a","2017","Chairman & Trust Officer","n/a"
+"Dickson Financial Corporation","Director","James E. Peeler","n/a","n/a","2017","Retired","n/a"
+"Dickson Financial Corporation","Director","Dale Ragan","n/a","n/a","2017","Real Estate Broker","n/a"
+"Dickson Financial Corporation","Director President & CEO","Donald Richardson","Director President & CEO","n/a","2017","President & CEO","n/a"
+"Dickson Financial Corporation","Director","Jeff Corlew","Partner","C&I Design,"Inc"","2017","Construction Project Manager","n/a"
+"Dickson Financial Corporation","Director","Steve DeLoach","Owner","Center of Dental Excellence","2017","Dentistry","n/a"
+"Dickson Financial Corporation","Director","Tommy Marvin","Pres.","Taylor Funeral Home,"Inc."","2017","Mortician","n/a"
+"Dickson Financial Corporation","Director","Wayne McIntire","n/a","n/a","2017","Retired","n/a"
+"Dickson Financial Corporation","Director","David Shepard","President","Shepard Properties,"Inc"","2017","Pharmacist","n/a"
+"Dickson Financial Corporation","Director COO","Jamie Snyder","n/a","n/a","2017","COO","n/a"
+"Dickson Financial Corporation","Director","Donnie Weiss","n/a","n/a","2017","Sales Representative","n/a"
+```

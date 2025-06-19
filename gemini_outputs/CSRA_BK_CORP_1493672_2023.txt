@@ -1,0 +1,27 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSRA Bank Corp","Wrens,"GA"","2023","Jerry D./Susan O. Dowdy","Common Stock","19000","9.00%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2023","Elaine A. Jones","Common Stock","13875","6.57%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2023","Marian Lamb","Common Stock","12812","6.07%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2023","Atwell-Rabun Properties LLC","Common Stock","17394","8.24%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2023","Robert B. Lewis","Common Stock","17424","8.25%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSRA Bank Corp","Director","Mark D. Davis","Partner","Jones,"Jones","Davis","CPAs","LLC"","2023","Accountant","n/a"
+"CSRA Bank Corp","Director","Mark D. Davis","Owner","Red Raider Realty,"LLC"","2023","Accountant","n/a"
+"CSRA Bank Corp","Director","Mark D. Davis","co-owner","Affordable Properties and Rentals","2023","Accountant","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","BFH Projects,"LLC"","2023","Pharmacist","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","The Louisville Project LLC","2023","Pharmacist","n/a"
+"CSRA Bank Corp","Director","J. Brian Whitaker","President/CEO","Avera Industrial Supply,"Inc."","2023","Retail hardware sales","n/a"
+"CSRA Bank Corp","Director","Mac T. Reeves","President","Green's Cut Properties,"Inc."","2023","Timber sales","n/a"
+"CSRA Bank Corp","Director","James L. Gay","n/a","J & C Farm Inc.","2023","Farmer","n/a"
+"CSRA Bank Corp","Director","Charlotte L. Gilmore","Secretary","Rocky Comfort Forest Products","2023","Retired","n/a"
+"CSRA Bank Corp","Director","Eugene Lee Clark","n/a","n/a","2023","N/A","n/a"
+"CSRA Bank Corp","Executive VP/CFO","James H. Standard,"Jr."","n/a","n/a","2023","N/A","n/a"
+"CSRA Bank Corp","CEO/President","David T. Jopling","Member/Partner","Jopling Investments LLC","2023","N/A","n/a"
+"CSRA Bank Corp","Senior Lender/SVP","Patrick Miller","n/a","n/a","2023","N/A","n/a"
+```

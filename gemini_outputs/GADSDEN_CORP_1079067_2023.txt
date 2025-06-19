@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Gadsden Corporation","Montgomery,"AL"","2023","Alfa Mutual Fire Ins. Co.","Class A Common Stock","13490.40","8.03%","n/a"
+"The Gadsden Corporation","Montgomery,"AL"","2023","Alfa Mutual Ins. Co.","Class A Common Stock","8938.33","5.32%","n/a"
+"The Gadsden Corporation","Altoona,"AL"","2023","The Gadsden Corporation Employee Stock Ownership Plan","Class A Common Stock","21522.16","12.82%","n/a"
+"The Gadsden Corporation","Altoona,"AL"","2023","The Gadsden Corporation Employee Stock Ownership Plan","Class B Common Stock","3516.84","2.09%","n/a"
+"The Gadsden Corporation","Gadsden,"AL"","2023","J.R. Ray,"H.D. Ray","W.A","Ray Trustees for Jack L. Ray Family Trust"","Class A Common Stock","7023.73","4.18%","n/a"
+"The Gadsden Corporation","Gadsden,"AL"","2023","J.R. Ray,"H.D. Ray","W.A","Ray Trustees for Jack L. Ray Family Trust"","Class B Common Stock","8317.92","4.95%","n/a"
+"The Gadsden Corporation","Gadsden,"AL"","2023","J.R. Ray,"H.D. Ray","W.A. Ray Trustees Jack L. Ray Three Sons Trust"","Class A Common Stock","25680.76","15.29%","n/a"
+"The Gadsden Corporation","Gadsden,"AL"","2023","J.R. Ray,"H.D. Ray","W.A. Ray Trustees Jack L. Ray Three Sons Trust"","Class B Common Stock","6250.00","3.72%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Gadsden Corporation","Director","Catherine Ray Martin","VP/Marketing Director","Exchange Bank of Alabama","2023","n/a","n/a"
+"The Gadsden Corporation","Secretary","Layla Matthews","Cashier","Exchange Bank of Alabama","2023","Treasurer","n/a"
+"The Gadsden Corporation","Director","Christopher Ray","VP","Exchange Bank of Alabama","2023","n/a","n/a"
+"The Gadsden Corporation","Director","Harold D. Ray","Director & President","RDA Inc.","2023","n/a","n/a"
+"The Gadsden Corporation","Director","Harold D. Ray","Director & President","Advertising Associates","2023","n/a","n/a"
+"The Gadsden Corporation","Director","Jeannie M. Ray","Director","Exchange Bank of Alabama","2023","n/a","n/a"
+"The Gadsden Corporation","Director","John R. Ray","Chairman & CEO","RDA Inc.","2023","n/a","n/a"
+"The Gadsden Corporation","Director","John R. Ray","Chairman & CEO","Advertising Associates","2023","n/a","n/a"
+"The Gadsden Corporation","n/a","J.R. Ray,"H.O. Ray","W.A. Ray Trustees Jack L. Ray Family Trust"","n/a","n/a","2023","n/a","n/a"
+"The Gadsden Corporation","n/a","J.R. Ray,"H.O. Ray","W.A. Ray Trustees Jack L. Ray Three Sons Trust"","n/a","n/a","2023","n/a","n/a"
+"The Gadsden Corporation","n/a","The Gadsden Corporation Employee Stock Ownership Plan","n/a","n/a","2023","n/a","n/a"
+"The Gadsden Corporation","Director","William Allen Ray","Director & EVP","RDA Inc.","2023","n/a","n/a"
+"The Gadsden Corporation","Director","William Allen Ray","Director & EVP","Advertising Associates","2023","n/a","n/a"
+```

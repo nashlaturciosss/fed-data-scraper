@@ -1,20 +1,22 @@
-"Okay","I understand. Here are the two CSV tables extracted from the document","following all the specified rules:"
-```text
+Here are the two requested CSV tables extracted from the provided document:
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Atlantic National Corporation","St. Simons Island","2016","John J. Rogers","Common Stock","83375","6.42%"
-"Atlantic National Corporation","Charlotte","2016","W.W.Walker,"Jr."","Common Stock","68075","5.24%"
-"Atlantic National Corporation","Brunswick","2016","Morgan,"T.Gillis","III"","Common Stock","67971","5.23%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"AtlanticNational Corporation","St. Simons Island,"Ga"","2016","John J.Rogers","Common Stock","83375","6.42%","n/a"
+"AtlanticNational Corporation","Charlotte,"N.C."","2016","W.W.Walker,"Jr."","Common Stock","68075","5.24%","n/a"
+"AtlanticNational Corporation","Brunswick,"Ga."","2016","Morgan,"T.Gillis","III"","Common Stock","67971","5.23%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Atlantic National Corporation","Director","Barger,"James F."","Director","Coastal CPA's","2016"
-"Atlantic National Corporation","Director & Chairman","Benefield,"J.Dewey"","Director & Chairman","Sea Island Company","2016"
-"Atlantic National Corporation","Director","Gash,"James H."","Director","n/a","2016"
-"Atlantic National Corporation","Director","C.H.Leavy,"IV"","President","The Brunswick News","2016"
-"Atlantic National Corporation","Director","Morgan,"T. Gillis","III"","Director","n/a","2016"
-"Atlantic National Corporation","Director","Parker,"Patrick B."","Director","J.H.Parker Company,"Inc."","2016"
-"Atlantic National Corporation","Director & President","Rogers,"John J."","Director & President","n/a","2016"
-"Atlantic National Corporation","Director","Strother,"Gordon T."","Director","J.C. Strother Company","2016"
-"Atlantic National Corporation","Director","Torbett,"Lisa Lane"","Director","Lisa Torbett Interiors,"Inc."","2016"
-"Atlantic National Corporation","Sr.V.P. CFO","Sams,"Robert B."","Sr.V.P. CFO","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AtlanticNational Corporation","Director","Barger,"James F."","Partner","Coastal CPA's","2016","Certified Public Accountant","n/a"
+"AtlanticNational Corporation","Director & Chairman","Benefield,"J.Dewey"","Director & Chairman","n/a","2016","Retired Executive","n/a"
+"AtlanticNational Corporation","Director","Gash,"James H."","Director","n/a","2016","Banking,"Retired"","n/a"
+"AtlanticNational Corporation","Director","C.H.Leavy,"IV"","President","The Brunswick News","2016","Newspaper Publishing","n/a"
+"AtlanticNational Corporation","Director","Morgan,"T. Gillis","III"","Director","n/a","2016","Forestry Equipment Distributic","n/a"
+"AtlanticNational Corporation","Director","Parker,"Patrick B."","President","J.H.Parker Company,"Inc."","2016","Retail Gas & Convenience Stores","n/a"
+"AtlanticNational Corporation","Director & President","Rogers,"John J."","Director & President","n/a","2016","N/A","n/a"
+"AtlanticNational Corporation","Director","Strother,"Gordon T."","Vice President,"Owner"","J.C. Strother Company","2016","Retail Hardware & Lumber","n/a"
+"AtlanticNational Corporation","Director","Torbett,"Lisa Lane"","President/Owner","Lisa Torbett Interiors,"Inc."","2016","Interior Designer","n/a"
+"AtlanticNational Corporation","Sr.V.P.,"CFO"","Sams,"Robert B."","Sr.V.P.","n/a","2016","N/A","n/a"
 ```

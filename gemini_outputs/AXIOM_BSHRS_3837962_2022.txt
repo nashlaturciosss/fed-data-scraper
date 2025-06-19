@@ -1,17 +1,16 @@
-"Here are the two tables extracted from the document in CSV format","following all instructions:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"AXIOM BANCSHARES,"INC"","Atlanta","2022","David Hanna,"Jr."","Common Stock","666.000","33.30%"
-"AXIOM BANCSHARES,"INC"","Atlanta","2022","Lisa H. Sherrill","Common Stock","667.000","33.35%"
-"AXIOM BANCSHARES,"INC"","Atlanta","2022","Frank J. Hanna III","Common Stock","667.000","33.35%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"AXIOM BANCSHARES,"INC"","Atlanta,"GA"","2022","David Hanna,"Jr."","Common Stock","666.000","33.30%","n/a"
+"AXIOM BANCSHARES,"INC"","Atlanta,"GA"","2022","Lisa H. Sherrill","Common Stock","667.000","33.35%","n/a"
+"AXIOM BANCSHARES,"INC"","Atlanta,"GA"","2022","Frank J. Hanna III","Common Stock","667.000","33.35%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"AXIOM BANCSHARES,"INC"","Director and Chairman","David Hanna","Business Owner","n/a","2022"
-"AXIOM BANCSHARES,"INC"","Director and President","Ross Breunig","CEO","Axiom Bank,"Ν.Α."","2022"
-"AXIOM BANCSHARES,"INC"","Chief Financial Officer","Robert Wahlman","Chief Financial Officer","n/a","2022"
-"AXIOM BANCSHARES,"INC"","Shareholder","Lisa H. Sherrill","Business Owner","n/a","2022"
-"AXIOM BANCSHARES,"INC"","Shareholder","Frank J. Hanna III","Business Owner","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AXIOM BANCSHARES,"INC"","Director and Chairman","David Hanna","Business Owner","n/a","2022","n/a","n/a"
+"AXIOM BANCSHARES,"INC"","Director and President","Ross Breunig","CEO","Axiom Bank,"Ν.Α."","2022","n/a","n/a"
+"AXIOM BANCSHARES,"INC"","Chief Financial Officer","Robert Wahlman","Chief Financial Officer","n/a","2022","n/a","n/a"
+"AXIOM BANCSHARES,"INC"","Shareholder","Lisa H. Sherrill","Business Owner","n/a","2022","n/a","n/a"
+"AXIOM BANCSHARES,"INC"","Shareholder","Frank J. Hanna III","Business Owner","n/a","2022","n/a","n/a"
 ```

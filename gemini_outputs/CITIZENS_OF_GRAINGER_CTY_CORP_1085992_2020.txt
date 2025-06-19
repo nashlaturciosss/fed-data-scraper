@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Shirley Family Trust,""
+"Betty A Shirley; George P Shirley","Co-Trustees"","Common Stock","5308","8.23%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Shirley GAP Marital Trust,""
+"George P Shirley","Co-Trustee and"
+"Betty A Shirley","Co-Trustee"","Common Stock","7054","10.93%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Betty A. Shirley","Common Stock","10195","15.80%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","George Patrick Shirley and Betty Shirley","Common Stock","180","0.28%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Mary Grace Shirley JTC Betty A Shirley","Common Stock","180","0.28%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Mary Grace Shirley and Betty A Shirley","Common Stock","375","0.58%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","George Patrick Shirley","Common Stock","3050","4.73%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","George Patrick Shirley and Betty Shirley","Common Stock","180","0.28%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Shirley Family Trust,""
+"Betty A Shirley; George P Shirley","Co-Trustees"","Common Stock","5308","8.23%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Shirley GAP Marital Trust,""
+"George P Shirley","Co-Trustee and"
+"Betty A Shirley","Co-Trustee"","Common Stock","7054","10.93%","n/a"
+"Citizens of Grainger County Corporation","Brevard,"NC"","2020","Mary Grace Shirley","Common Stock","3300","5.11%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Mary Grace Shirley JTC Betty A Shirley","Common Stock","180","0.28%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2020","Mary Grace Shirley and Betty A Shirley","Common Stock","375","0.58%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens of Grainger County Corporation","Manager","Greg Corum","Director","Blaine Exxon","2019","Meat Dept","n/a"
+"Citizens of Grainger County Corporation","Director","J. Frank Godwin","Director","G&M Farms","2019","Farmer","n/a"
+"Citizens of Grainger County Corporation","Director","Terry Johnson","n/a","Grainger Doors","2019","Cabinet Mfg","n/a"
+"Citizens of Grainger County Corporation","Director","David Stanley Roach","Director","Roach Buliders","2019","Residential Construction","n/a"
+"Citizens of Grainger County Corporation","Director & President","George P. Shirley","n/a","n/a","2019","n/a","n/a"
+"Citizens of Grainger County Corporation","Director","Margaret A. Stapleton","n/a","n/a","2019","Retired","n/a"
+"Citizens of Grainger County Corporation","Principal Shareholder","Shirley Family Trust","n/a","n/a","2019","n/a","n/a"
+"Citizens of Grainger County Corporation","Principal Shareholder","Shirley GAP Marital Trust","n/a","n/a","2019","n/a","n/a"
+"Citizens of Grainger County Corporation","Principal Shareholder","Betty Shirley","n/a","n/a","2019","n/a","n/a"
+"Citizens of Grainger County Corporation","n/a","Mary Grace Shirley","n/a","n/a","2019","n/a","n/a"
+```

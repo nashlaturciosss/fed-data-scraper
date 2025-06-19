@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FSBH CORP","New York,"NY"","2022","AB Financial Services Opportunities Master Fund,"L.P."","Common Stock","237500","7.90%","n/a"
+"FSBH CORP","Chicago,"IL"","2022","Banc Fund X L.P.","Common Stock","196250","6.52%","n/a"
+"FSBH CORP","Blakely,"GA"","2022","Spence Limited,"LP"","Common Stock","244375","8.12%","n/a"
+"FSBH CORP","Worcester,"MA"","2022","Cutler Financial","Common Stock","179492","5.97%","n/a"
+"FSBH CORP","West Palm Beach,"FL"","2022","John Mare 1550 Trust","Common Stock","153125","5.09%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FSBH CORP","Director,"Holding Company"","Fu,"Shiau Jie"","n/a","Harbor Advisors","2022","Portfolio Manager,"Harbor Advisors"","n/a"
+"FSBH CORP","Director,"Bank"","Fu,"Shiau Jie"","n/a","Harbor Advisors","2022","Portfolio Manager,"Harbor Advisors"","n/a"
+"FSBH CORP","Director,"Holding Company"","Godby,"Michael"","n/a","Janney Montgomery Scott","2022","Registered Rep","n/a"
+"FSBH CORP","Director,"Bank"","Godby,"Michael"","n/a","Janney Montgomery Scott","2022","Registered Rep","n/a"
+"FSBH CORP","President,"CEO","and Board Chairman","Holding Company"","Hager,"Daniel S."","n/a","n/a","2022","Bank Executive","n/a"
+"FSBH CORP","CEO and Board Chairman","Hager,"Daniel S."","n/a","n/a","2022","Bank Executive","n/a"
+"FSBH CORP","Director,"Holding Company"","Hull,"James D."","n/a","n/a","2022","Retired","n/a"
+"FSBH CORP","Director,"Bank"","Hull,"James D."","n/a","n/a","2022","Retired","n/a"
+"FSBH CORP","Director,"Holding Company"","Ierardi,"Joseph"","n/a","Wayne Memorial Hospital","2022","President/CEO - Wayne Memorial Hospital","n/a"
+"FSBH CORP","Director,"Bank"","Ierardi,"Joseph"","n/a","Wayne Memorial Hospital","2022","President/CEO - Wayne Memorial Hospital","n/a"
+"FSBH CORP","Director,"Holding Company"","Lee,"David I."","n/a","n/a","2022","Retired","n/a"
+"FSBH CORP","Director,"Bank"","Lee,"David I."","n/a","n/a","2022","Retired","n/a"
+"FSBH CORP","Director,"Holding Company"","Drawdy,"Dr. Jon"","n/a","Jon A. Drawdy,"DMD PC"","2022","Dentist","n/a"
+"FSBH CORP","Director,"Bank"","Drawdy,"Dr. Jon"","n/a","Jon A. Drawdy,"DMD PC"","2022","Dentist","n/a"
+"FSBH CORP","n/a","Drawdy,"Dr. Jon"","President","Jon A. Drawdy,"DMD PC"","2022","Dentist","n/a"
+"FSBH CORP","n/a","Drawdy,"Dr. Jon"","n/a","DMD Property Management,"LLC"","2022","Dentist","n/a"
+"FSBH CORP","n/a","Drawdy,"Dr. Jon"","n/a","DMD Investment Properties,"LLC."","2022","Dentist","n/a"
+"FSBH CORP","Director,"Holding Company"","Smith,"Robert B."","n/a","Pine Forest Land Company,"Inc."","2022","Lawyer","n/a"
+"FSBH CORP","Director,"Bank"","Smith,"Robert B."","n/a","Pine Forest Land Company,"Inc."","2022","Lawyer","n/a"
+"FSBH CORP","Director,"Holding Company"","Rehfeldt,"Terry"","n/a","Rehfeldt Wealth Management","2022","n/a","n/a"
+"FSBH CORP","Director,"Bank"","Rehfeldt,"Terry"","n/a","Rehfeldt Wealth Management","2022","n/a","n/a"
+"FSBH CORP","Director,"Holding Company"","Wildstein,"Alan"","n/a","n/a","2022","Retired banker","n/a"
+"FSBH CORP","Director,"Bank"","Wildstein,"Alan"","n/a","n/a","2022","Retired banker","n/a"
+```

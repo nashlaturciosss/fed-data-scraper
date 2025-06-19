@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2020","Nina P Albea,"Trustee"","Common Stock","1090","10.54%","n/a"
+"LINCOLN BANCSHARES INC","Abbeville,"SC"","2020","Nancy L Lovelady","Stock","525","5.07%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LINCOLN BANCSHARES INC","Director","Thomas Brittan Hammond","Toombs District Superior Court Judge","n/a","2020","Toombs District Superior Court Judge","n/a"
+"LINCOLN BANCSHARES INC","Director","Nina P Albea Trustee of the Nina P Albea Living Trust","n/a","n/a","2020","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director,"Partner"","John S Spratlin III","Partner","J.W. Spratlin & Sons","2020","Partner-Construction Company","n/a"
+"LINCOLN BANCSHARES INC","Chairman,"Director"","Edward S Turner","n/a","n/a","2020","Retired","n/a"
+"LINCOLN BANCSHARES INC","President/CEO,"Director"","James Bruce Turner","n/a","n/a","2020","President/CEO","n/a"
+"LINCOLN BANCSHARES INC","Director","Alice Marie Kavouklis","n/a","n/a","2020","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Nancy Lovelady","n/a","n/a","2020","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO,"Partner"","Peanuts Inc.","2020","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO,"Partner"","SBKC RE Holdings LLC","2020","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO,"Partner"","Sparkle Wash LLC","2020","Laundry/Car Wash","n/a"
+```

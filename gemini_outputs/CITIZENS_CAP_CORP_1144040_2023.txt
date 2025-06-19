@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","I. Thomas Gulledge","n/a","16531","14.73%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","William H. Black","n/a","13522","12.04%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","J. Harold Watson","n/a","13285","11.83%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","Ann B. Taylor","n/a","12031","10.72%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","James E. Gentry","n/a","8537","7.60%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","B. Douglas Talbert","n/a","8091","7.20%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","Marilyn L. McPhillips","n/a","7144","6.36%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","B. Harold Lloyd","n/a","6839","6.09%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","Rance Allen","n/a","5909","5.26%","n/a"
+"Citiznes Capital Corporation","Robertsdale,"AL"","2023","James P. Nix","n/a","5777","5.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citiznes Capital Corporation","President & Chairman","I. Thomas Gulledge","n/a","n/a","2023","n/a","n/a"
+"Citiznes Capital Corporation","Director","William H. Black","n/a","n/a","2023","Certified Public Accountant","n/a"
+"Citiznes Capital Corporation","Director","J. Harold Watson","n/a","n/a","2023","Attorney","n/a"
+"Citiznes Capital Corporation","Director","Ann B. Taylor","n/a","n/a","2023","n/a","n/a"
+"Citiznes Capital Corporation","Director","James E. Gentry","n/a","n/a","2023","n/a","n/a"
+"Citiznes Capital Corporation","Director","B. Douglas Talbert","n/a","n/a","2023","Certified Public Accountant","n/a"
+"Citiznes Capital Corporation","Director","Marilyn L. McPhillips","n/a","n/a","2023","n/a","n/a"
+"Citiznes Capital Corporation","Director","B. Harold Lloyd","n/a","n/a","2023","Attorney","n/a"
+"Citiznes Capital Corporation","Director","Rance Allen","n/a","n/a","2023","Certified Public Accountant","n/a"
+"Citiznes Capital Corporation","Director","James P. Nix","n/a","n/a","2023","Self-Employed","n/a"
+```

@@ -1,0 +1,22 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Linden Bancshares,"Inc."","Charlotte,"NC"","2017","Mrs. Sharon Scott McKnight","Common Stock","4008","16.77%","2059954"
+"First Linden Bancshares,"Inc."","Linden,"AL"","2017","Miller Family Partnership","Common Stock","3033","12.69%","2059954"
+"First Linden Bancshares,"Inc."","Linden,"AL"","2017","Mrs. Ann Scott Yelverton","Common Stock","4981","20.84%","2059954"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Linden Bancshares,"Inc."","Director","Mr. Terry Barr","Retired","n/a","2017","Insurance Agent (retired) "
+"First Linden Bancshares,"Inc."","Director","Mr. Terry Barr","Retired","ALFA Insurance","2017","Insurance Agent (retired) "
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Boggs,"Jr."","Director","Lloyd,"Dinning","Boggs"","2017","Attorney","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Wayne Lewis","Retired","n/a","2017","Procurement for Linden Lumber Co. (retired) "
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Miller,"Jr."","Partner","Miller Farms","2017","Cattle farmer","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Miller,"Jr."","Partner","Thomas & Miller Lumber Co.","2017","Cattle farmer","2059954"
+"First Linden Bancshares,"Inc."","Executive Vice President,"Director"","Mr. John M. Robinson","n/a","n/a","2017","Banker","n/a"
+"First Linden Bancshares,"Inc."","Chairman/CEO/President,"Director"","Mrs. Ann S. Yelverton","Retired Instructor","Alabama Southern College","2017","Banker","n/a"
+"First Linden Bancshares,"Inc."","n/a","Mr. Thomas H. Miller,"Jr."","n/a","n/a","2017","Partnership","n/a"
+"First Linden Bancshares,"Inc."","n/a","Mrs. Sharon Scott Mcknight","n/a","n/a","2017","Social Worker (retired)","n/a"
+```

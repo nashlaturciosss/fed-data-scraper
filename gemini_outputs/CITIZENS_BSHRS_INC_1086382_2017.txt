@@ -1,0 +1,18 @@
+"Okay","here are the requested CSV tables extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares,"Inc"","Greensboro,"Al"","2017","John C Jay,"Jr."","Common Stock","4016","5.74%","n/a"
+"Citizens Bancshares,"Inc"","Greensboro,"Al"","2017","Sue Seale","Common Stock","3990","5.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares","Director","James Acker Jr.","n/a","n/a","2017","Cattle Farmer","n/a"
+"Citizens Bancshares","Director & Chariman","John C Jay Jr","n/a","n/a","2017","Chairman of Utilities Board City of Greensboro","n/a"
+"Citizens Bancshares","Director","Donald Wedgworth","n/a","n/a","2017","Fish Buyer","n/a"
+"Citizens Bancshares","Director","Charles W Thomas","n/a","n/a","2017","Retired (banker)","n/a"
+"Citizens Bancshares","Director-Secretary","Lisa S Cochran","President","n/a","2017","N/A","n/a"
+"Citizens Bancshares","Director","Stephen R Barnette","Owner","n/a","2017","Business Owner (Furniture)","n/a"
+"Citizens Bancshares","Director","Keith H Glover","n/a","n/a","2017","Farm Manager/Cattle Farmer","n/a"
+```

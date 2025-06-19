@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2014","Cynthia McClard","common stock","8227","28.52","1140239"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2014","Charles E. Darnell","common stock","2277","7.90","1140239"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2014","Mike Reese","common stock","2510","8.70","1140239"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Inc.","Director/ Vice President","Charles E. Darnell","Director/ Vice Chairman","n/a","2014","Retired","1140239"
+"Citizens Bancorp Inc.","Director/ Treasurer","Mike Reese","Director","MWR Enterprises,"Inc."","2014","Owner","1140239"
+"Citizens Bancorp Inc.","Director","Tom McCall","Director/ Secretary","DT McCall Partnership","2014","Co-owner Manager","1140239"
+"Citizens Bancorp Inc.","Director","Tom McCall","Director/ Secretary","McCall Realty Co. Partenship","2014","Co-owner Manager","1140239"
+"Citizens Bancorp Inc.","Director","Tony Polston","Director","BD Polston & Son Bldg","2014","Manager","1140239"
+"Citizens Bancorp Inc.","Director","Tony Polston","Director","Bldg Supply Partnership","2014","Manager","1140239"
+"Citizens Bancorp Inc.","Director","Cynthia McClard","Director","Clinical Management Consultants","2014","Consultant","1140239"
+"Citizens Bancorp Inc.","Director","Gail Srygley","Director","n/a","2014","Education","1140239"
+"Citizens Bancorp Inc.","Director","Ranson Jones","Director","n/a","2014","Retired","1140239"
+"Citizens Bancorp Inc.","Director/ Secretary","Joe Carter","Director/ President","n/a","2014","Banking","1140239"
+"Citizens Bancorp Inc.","Director/ President/ CEO","Peter Williston","Director/ Chairman/CEO","n/a","2014","Banking","1140239"
+```

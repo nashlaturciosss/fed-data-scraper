@@ -1,0 +1,38 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","following all instructions:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2015","W. Jeffrey Turner","Common Stock","50015","8.60%","3213324"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2015","Lloyd E. Gunter","Common Stock","30100","5.20%","3213324"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2015","Marcus C. Long","Common Stock","30635","5.30%","3213324"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2015","Lamar R. Turner","Common Stock","30000","5.20%","3213324"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Samuel Cain","Director","Community Bank of Georgia","2015","Farmer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Mike Cleland","Director","Community Bank of Georgia","2015","Retired Engineer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2015","Manufacturing Distribution","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Community Bank of Georgia","2015","Manufacturing Distribution","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","William W. Eason","Director","Community Bank of Georgia","2015","Pizza Franchise","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","President/Director","Lloyd E. Gunter","President-CEO","Community Bank of Georgia","2015","President,"Chief Exec Officer or the Company and Bank"","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","President/Director","Lloyd E. Gunter","President-CEO","Community Bank of Georgia","2015","President,"Chief Exec Officer or the Company and Bank"","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Roy Herrington","President","Thompson's Farm Supply,"Inc."","2015","Farm Supply Company","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Roy Herrington","Director","Community Bank of Georgia","2015","Farm Supply Company","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","J. Alexander Johnson","2015","Attorney","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","Director","Community Bank of Georgia","2015","Attorney","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Chairman/Director","Marcus C. Long","Accountant","Byrt CPA's,"LLC"","2015","Certified Public Accountant","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Chairman/Director","Marcus C. Long","Chairman/Director","Community Bank of Georgia","2015","Certified Public Accountant","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2015","Trucking Company/Farming","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Community Bank of Georgia","2015","Trucking Company/Farming","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Harold E. Rentz,"DMD"","Owner","Harold E. Rentz Jr DMD","2015","Dentist","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Harold E. Rentz,"DMD"","Director","Community Bank of Georgia","2015","Dentist","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","James R. Rentz","Farmer","Community Bank of Georgia","2015","Farmer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","James R. Rentz","Farmer","Community Bank of Georgia","2015","Farmer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Jeffery Turner","Owner of Turner Farms","Turner Farms","2015","Farmer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Jeffery Turner","Owner of Turner Farms","Community Bank of Georgia","2015","Farmer","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Director","Community Bank of Georgia","2015","Business Machine/Low Volteage Contractor","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Owner of","Southeastern Business Machines,"Inc."","2015","Business Machine/Low Volteage Contractor","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2015","Electrical Contracting Company","3213333"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","Director","Community Bank of Georgia","2015","Electrical Contracting Company","3213333"
+```

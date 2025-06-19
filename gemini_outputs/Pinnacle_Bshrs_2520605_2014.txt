@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PINNACLE BANK","Birmingham,"Alabama"","2014","AL H Simmons","n/a","68674","5.82%","n/a"
+"PINNACLE BANK","New York,"New York"","2014","Stilwell Activist Fund (s)","n/a","103102","8.74%","n/a"
+"PINNACLE BANK","Forth Worth,"Texas"","2014","Fleet Family Invesment (46,"444)"","n/a","103000","8.73%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PINNACLE BANK","Director","Greg Batchelor","President","Dependable True Value Hardware. Inc.","2014","Businessman","288376"
+"PINNACLE BANK","Director","Ο Η Brown","n/a","n/a","2014","Retired","288376"
+"PINNACLE BANK","Director & Chairman","James W Cannon","n/a","n/a","2014","Retired","288376"
+"PINNACLE BANK","Director","Sam Walker Murphy","CEO","W&M Enterprises,"LTD"","2014","Businessman","288376"
+"PINNACLE BANK","President & Director","Robert B Nolen Jr.","n/a","n/a","2014","Banker","288376"
+"PINNACLE BANK","Director","William H. Humphries","President","Bankhead Land & Timber","2014","Businessman","288376"
+"PINNACLE BANK","Director","AL H Simmons","Independent Insurance Agent","n/a","2014","Businessman","288376"
+"PINNACLE BANK","Director","David Kilgore","Appraiser Real Estate Agent","Kilgore Realtors","2014","Businessman","288376"
+"PINNACLE BANK","Vice President/ Secretary","Mary Jo Gunter","n/a","n/a","2014","Banker","288376"
+"PINNACLE BANK","Treasurer","Joe B. Adams,"III"","n/a","n/a","2014","Banker","288376"
+```

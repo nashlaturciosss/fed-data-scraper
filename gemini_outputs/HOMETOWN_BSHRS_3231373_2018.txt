@@ -1,0 +1,26 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2018","Paul Ray Estate","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2018","Max Ray","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2018","Delmo Payne","Common Stock","135244","16.91%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2018","Gerald Terrell","Common Stock","148113","18.50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Director","Charles Babb","n/a","n/a","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Owner","Hulsey Logging","2018","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Owner","Grand Trucking","2018","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Johnny Mack Lawler","CPA","Guin & Parrish","2018","Lawler & Cole,"CPA"","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","Big One Travel","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","1st Quality Homes","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Max Ray","Advisor","Northwest Shoals","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Paul Ray Estate","n/a","n/a","2018","Deceased","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","Big One Travel","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","1st Quality Homes","2018","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director and President","Randy Whitehead","n/a","n/a","2018","Peoples Trust Bank CEO","n/a"
+"Hometown Bancshares,"Inc."","Secretary","Rebecca Cummings","n/a","n/a","2018","Peoples Trust Bank Chief Operations Officer","n/a"
+"Hometown Bancshares,"Inc."","Director","Eric Poe","n/a","n/a","2018","Peoples Trust Bank Senior Loan Officer","n/a"
+```

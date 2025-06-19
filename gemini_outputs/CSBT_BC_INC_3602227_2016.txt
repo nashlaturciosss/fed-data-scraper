@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2016","Dr. T. B. Boyd,"III"","n/a","69946","47.76%","3602227"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2016","NCIF","n/a","25000","17.07%","3602227"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2016","Citizens Savings Bank & Trust ESOP","n/a","29948","20.45%","3602227"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Chairman","Dr. T.B. Boyd,"III"","President/CEO","National Bapt. Publishing Board","2016","President/CEO of R.H. Boyd Publishing Corp.","3602227"
+"CSB & T Bancorp,"Inc."","Chairman","Dr. T.B. Boyd,"III"","President/CEO","MEGA Corp.","2016","President/CEO of R.H. Boyd Publishing Corp.","3602227"
+"CSB & T Bancorp,"Inc."","Chairman","Dr. T.B. Boyd,"III"","President/CEO","Triad II","2016","President/CEO of R.H. Boyd Publishing Corp.","3602227"
+"CSB & T Bancorp,"Inc."","Director","LaDonna Boyd","COO","R.H. Boyd Publishing Corp.","2016","Chief Operating Officer of R.H. Boyd Publishing Corp.","3602227"
+"CSB & T Bancorp,"Inc."","President/CEO","Deborah A. Cole","President/Owner","Jewels By Deborah","2016","n/a","3602227"
+"CSB & T Bancorp,"Inc."","Director","Dr. Jerry Maynard","Pastor","Cathedral of Praise","2016","Pastor","3602227"
+"CSB & T Bancorp,"Inc."","Director","Dr. Jerry Maynard","Presiding Bishop","4th Ecclesiastic District of the Church of God in Christ.","2016","Pastor","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","BTE","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","MEG","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","CVM","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","Partner","Manson,"Jones & Associates"","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","Sourcemark,"LLC"","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Richard Manson,"Esquire"","President","TMG","2016","Attorney,"owner of the Law Offices of Manson & Associates"","3602227"
+"CSB & T Bancorp,"Inc."","Director","Dr. Reavis L. Mitchell","n/a","Fisk University","2016","Professor and Administrator of Fisk University","3602227"
+"CSB & T Bancorp,"Inc."","Director","Mr. Ronald Roberts","President/COO","DVL Public Relations and Advertising","2016","President/COO of DVL Public Relations and Advertising","3602227"
+"CSB & T Bancorp,"Inc."","Director","Joseph Walker,"III"","Pastor","Mt. Zion Baptist Church","2016","Pastor","3602227"
+"CSB & T Bancorp,"Inc."","Secretary","Mr. Floyd Weekes","n/a","n/a","2016","COO of Citizens Bank","3602227"
+"CSB & T Bancorp,"Inc."","Principal Shareholder","Citizens Savings Bank & Trust ESOP","n/a","n/a","2016","n/a","3602227"
+"CSB & T Bancorp,"Inc."","Principal Shareholder","National Community Investment Fund","CEO","National Community Investement Fund","2016","Chief Executive Officer","3602227"
+```

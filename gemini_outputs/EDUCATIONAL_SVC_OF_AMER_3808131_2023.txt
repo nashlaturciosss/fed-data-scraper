@@ -1,0 +1,19 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2023","Education Loan Finance,"Inc."","n/a","n/a","84.6%","n/a"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2023","SouthEast Bancorp,"Inc. ESOP"","n/a","n/a","15.4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Education Loan Finance,"Inc."","CEO","John E. Arnold,"Jr."","Chairman","Goodwill Industries","2023","President/CEO Emeritus- Goodwill Industries","n/a"
+"Education Loan Finance,"Inc."","Chairman","John E. Arnold,"Jr."","Chairman","SouthEast Bancorp,"Inc."","2023","President/CEO Emeritus- Goodwill Industries","n/a"
+"Education Loan Finance,"Inc."","Director/Chairman/President","John E. Arnold,"Jr."","Director/Chairman","SouthEast Bank","2023","President/CEO Emeritus- Goodwill Industries","n/a"
+"Education Loan Finance,"Inc."","CFO/EVP","William T. Thompson","n/a","n/a","2023","n/a","n/a"
+"Education Loan Finance,"Inc."","Director","Robert Rosenbaum","n/a","United Health Group","2023","United Health Group,"Director Corporate Devt."","n/a"
+"Education Loan Finance,"Inc."","Independent Director","Chris Simmons","n/a","n/a","2023","n/a","n/a"
+"Education Loan Finance,"Inc."","Independent Director","Stephan Clark","n/a","n/a","2023","Retired Brigadier General - US Air Force","n/a"
+"Education Loan Finance,"Inc."","Chief Operating Officer/EVP","Barbara Thomas","n/a","SouthEast Bank","2023","Chief Operating Officer/EVP","n/a"
+```

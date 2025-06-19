@@ -1,0 +1,38 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Elois B. Johnson","Common Stock","5781","28%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Jacki Johnson Andrews","Common Stock","1609","7%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Susan Johnson Bunch","Common Stock","1798","8%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Lyman L. Fleniken,"Jr"","Common Stock","1159","5%","n/a"
+"Feliciana Bancshares,"Inc."","Zachary,"LA"","2020","Judy Johnson Myles","Common Stock","1919","9%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Paula Jaye Johnson","Common Stock","1336","6%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2020","Grandchildren of Elois B. Johnson","Common Stock","2609","12%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Director & Chairman","Susan J. Bunch","n/a","n/a","2020","Retired","n/a"
+"Feliciana Bancshares,"Inc."","Director","Judy J. Myles","Office Manager","Myles Law Firm","2020","Office Manager","n/a"
+"Feliciana Bancshares,"Inc."","Director","Judy J. Myles","Trustee","Elois Bennett Johnson Irrevocable Trust for Daughters","2020","Office Manager","n/a"
+"Feliciana Bancshares,"Inc."","Director","Judy J. Myles","Trustee","Elois Bennett Johnson Irrevocable Family Trust","2020","Office Manager","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Bluff Creek Redi-Mix","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Fleniken's One-Stop-Inc","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Fleniken's Sand & Gravel,"Inc"","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Flen-Rock Company,"LLC"","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Fleniken Farms","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner/President","Feliciana Country,"LLC"","2020","Sand & Gravel","n/a"
+"Feliciana Bancshares,"Inc."","Director & Chief Executive Officer","John Irwin Stewart","Member","CSIC,"LLC"","2020","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Director & President","Jaye M. Bunch","n/a","n/a","2020","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Director","Bradley S. Gayle","Member","AMG,"LLC"","2020","Pharmacy Owner","n/a"
+"Feliciana Bancshares,"Inc."","Director","Bradley S. Gayle","Member","Wildcat Timberland,"LLC"","2020","Pharmacy Owner","n/a"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Member","Hurst Forestry Services,"LLC"","2020","Forester","n/a"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Member","H&H Tree,"LLC"","2020","Forester","n/a"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Member","Wildcat Timberland,"LLC"","2020","Forester","n/a"
+"Feliciana Bancshares,"Inc."","Director & Secretary","Jill Kindler","Associate Partner","Hannis T. Bourgeois,"LLP"","2020","Litigation and Valuation Consultant","n/a"
+"Feliciana Bancshares,"Inc."","Director & Secretary","Jill Kindler","Member","19 NINETEEN,"LLC"","2020","Litigation and Valuation Consultant","n/a"
+"Feliciana Bancshares,"Inc."","n/a","Elois B. Johnson","n/a","n/a","2020","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Treasurer,"CFO"","Tracye L. Browning","n/a","n/a","2020","n/a","n/a"
+"Feliciana Bancshares,"Inc."","COO","Matthew Knight","n/a","n/a","2020","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Compliance Officer","Sandra Newman","n/a","n/a","2020","n/a","n/a"
+```

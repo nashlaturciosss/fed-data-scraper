@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Legends Bank","Clarksville,"TN"","2018","Pravin (Bob) Patel","common shares","70000","5.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Bank","Director,"Market President"","George R. Archer,"Jr."","n/a","n/a","2018","N/A","n/a"
+"Legends Bank","Director,"Chairman"","Billy Atkins","n/a","n/a","2018","N/A","n/a"
+"Legends Bank","Director","Mark Barnett","1/3 Partner","KY-TN Livestock","2018","Livestock Warehouse/ Farmer","n/a"
+"Legends Bank","Director,"President & CEO"","Tommy Bates","n/a","n/a","2018","N/A","n/a"
+"Legends Bank","Director","Ronnie Goad","66% owner","Goad Construction Co","2018","Home builder","n/a"
+"Legends Bank","Director","Ronnie Goad","2/3 owner","Goad Construction Co","2018","Home builder","n/a"
+"Legends Bank","Director","Dick Littleton","n/a","n/a","2018","Real Estate agent","n/a"
+"Legends Bank","Director","Pravin (Bob) Patel","n/a","n/a","2018","Hotel/Motel operator","n/a"
+"Legends Bank","EVP/CFO","Lee Pedigo","n/a","n/a","2018","N/A","n/a"
+"Legends Bank","Director","Jeff Turner","91% Owner/President","Ajax Distributing Co","2018","Ajax Distributing Co Owner/President","n/a"
+"Legends Bank","Director","Jeff Turner","Ajax Properties","Ajax Distributing Co","2018","Ajax Distributing Co Owner/President","n/a"
+"Legends Bank","Director,"Vice-Chairman"","Doug Weiland","n/a","n/a","2018","Retired","n/a"
+```

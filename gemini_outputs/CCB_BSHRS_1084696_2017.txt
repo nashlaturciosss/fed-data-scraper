@@ -1,16 +1,13 @@
-Here are the two CSV tables extracted from the document as requested:
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CCB Bancshares,"Inc."","Hahira","2017","D.K. Hollis,"Jr."","n/a","3558","70.43%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2017","D.K. Hollis,"Jr."","n/a","3558","70.43%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CCB Bancshares,"Inc."","Director","D.K. Hollis,"Jr. Copeland"","Chairman of Citizens Community Bank","Lone Oak LLLP,"general partner less than 1%"","2017"
-"CCB Bancshares,"Inc."","Director,"President"","Glenn L. Valdosta,"GA"","Executive Officer,"CEO of Citizens Community Bank"","n/a","2017"
-"CCB Bancshares,"Inc."","Secretary,"Treasurer"","Starling H. Waldron","Executive Officer,"CFO of Citizens Community Bank"","Lone Oak LLLP limited partner 33.133%","2017"
-"CCB Bancshares,"Inc."","n/a","Archie Waldron","President of Remerton Agency,"Inc"","n/a","2017"
-"CCB Bancshares,"Inc."","Director,"Vice President"","Tim S Jones","President of Citizens Community Bank","n/a","2017"
-"CCB Bancshares,"Inc."","Director,"Vice President"","David Hollis,"III Hahira","GA"","Director,"Vice President of Citizens Community Bank"","Lone Oak LLLP limited partner 33.133%","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CCB Bancshares,"Inc."","Director","D.K. Hollis,"Jr."","n/a","Lone Oak LLLP","2017","n/a","564838"
+"CCB Bancshares,"Inc."","Director,"President"","Glenn L. Copeland","n/a","n/a","2017","n/a","564838"
+"CCB Bancshares,"Inc."","Secretary,"Treasurer"","Starling H. Waldron","n/a","Lone Oak LLLP","2017","n/a","564838"
+"CCB Bancshares,"Inc."","President","Archie Waldron","n/a","n/a","2017","n/a","564838"
+"CCB Bancshares,"Inc."","Director,"Vice President"","Tim S Jones","n/a","n/a","2017","n/a","564838"
+"CCB Bancshares,"Inc."","Director,"Vice President"","David Hollis,"III"","n/a","Lone Oak LLLP","2017","n/a","564838"
 ```

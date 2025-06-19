@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorp Inc","Manchester,"TN"","2016","Dr or Mrs. Herschel S. Taylor","Common Stock","8039","12.69%","n/a"
+"Peoples Bancorp Inc","Hillsboro,"TN"","2016","Bobby G. Willis","Common Stock","5775","9.12%","n/a"
+"Peoples Bancorp Inc","Eads TN","2016","Joe M or Judith W Clem Trustees of the Clem Family Trust","Common Stock","3500","5.52%","n/a"
+"Peoples Bancorp Inc","Reston VA","2016","Robert J Haley","Common Stock","3250","5.13%","n/a"
+"Peoples Bancorp Inc","Dunlap TN","2016","June Willis Silver","Common Stock","3500","5.52%","n/a"
+"Peoples Bancorp Inc","Manchester TN","2016","Steven Willis and/or Donna Willis","Common Stock","3500","5.52%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorp Inc","Director","Mark Bell","Director","Bell & Alexander Title Svc Inc","2016","Lawyer","n/a"
+"Peoples Bancorp Inc","Director","Mark Bell","Director","Nolensville Toy Shop LLC","2016","Lawyer","n/a"
+"Peoples Bancorp Inc","Director","Mark Bell","Director","Bell,"McCann","McInteer","PLC"","2016","Lawyer","n/a"
+"Peoples Bancorp Inc","Director","Mark Bell","Director","Nolensville Investments,"LLC"","2016","Lawyer","n/a"
+"Peoples Bancorp Inc","Director","Mark Bell","Director","Bell & Brown Properties","2016","Lawyer","n/a"
+"Peoples Bancorp Inc","Director","Philip Calahan","Director","n/a","2016","Banker","n/a"
+"Peoples Bancorp Inc","President/CEO","Philip Calahan","President/CEO","n/a","2016","Banker","n/a"
+"Peoples Bancorp Inc","Director","Melissa Cartwright","n/a","Eaton's LLC","2016","Business owner plumbing,"electric","hardware"","n/a"
+"Peoples Bancorp Inc","Director","D Michael England","Director","n/a","2016","Real Estate Broker","n/a"
+"Peoples Bancorp Inc","Director","Elmer Morris,"Jr."","Director","n/a","2016","Banker-retired","n/a"
+"Peoples Bancorp Inc","Director & Chairman","Herschel S Taylor","Director & Chairman","n/a","2016","Dentist-retired","n/a"
+"Peoples Bancorp Inc","Director & Vice Chmn.","Bobby G Willis","Director & Vice Chairman","Willis Farms,"Inc."","2016","Farmer","n/a"
+"Peoples Bancorp Inc","Director & Vice Chmn.","Bobby G Willis","Director & Vice Chairman","Pineview Development Co","2016","Farmer","n/a"
+"Peoples Bancorp Inc","Director & Vice Chmn.","Bobby G Willis","Director & Vice Chairman","Riverview Development","2016","Farmer","n/a"
+"Peoples Bancorp Inc","Director","David Young","Director","n/a","2016","Electric Utility Manager","n/a"
+"Peoples Bancorp Inc","Director","Sammy Young","Director","n/a","2016","Retired-Agribusiness Manager","n/a"
+```

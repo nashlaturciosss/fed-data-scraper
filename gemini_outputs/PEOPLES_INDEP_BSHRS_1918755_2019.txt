@@ -1,0 +1,24 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","following all instructions precisely."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Boaz,"AL"","2019","Betty B Buchanan","Common Stock","19486","10.31%","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Boaz,"AL"","2019","Phillip Amberson","Common Stock","24747","13.09%","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Boaz,"AL"","2019","Patty Handley","Common Stock","10000","5.29%","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Boaz,"AL"","2019","Tommy Handley","Common Stock","11496","6.08%","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Boaz,"AL"","2019","Royce G. Ogle","Common Stock","20096","10.63%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2019","Construction","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Tommy Handley","n/a","Property Development of Marshall Co.","2019","Construction","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Tommy Handley","n/a","Handley Management & Development Co.","2019","Construction","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Steve Davis","Vice President","BPI Media Group","2019","Printing","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2019","Retail","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Director","Steven R. Knowles","Ameriprise Financial Service,"Certified Financial Planner"","Ameriprise Financial Service","2019","Certified Financial Planner","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","President & Chairman of the Board","Royce G. Ogle","n/a","n/a","2019","Bank Management","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","Secretary,"Board of Directors"","Jack Hancock","n/a","n/a","2019","Bank Management","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","None","Betty B. Buchanan","None","n/a","2019","Retired","n/a"
+"PEOPLES INDEPENDENT BANCSHARES,"INC."","None","Patty Handley","Secretary","n/a","2019","Construction","n/a"
+```

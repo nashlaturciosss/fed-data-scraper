@@ -1,21 +1,24 @@
-Here are the two tables in CSV format based on your requirements:
+Here are the two CSV tables as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Charter Financial Corporation","West Point","2016","CharterBank ESOP","Common Stock","1093391","7.3%"
-"Charter Financial Corporation","Naples","2016","Private Capital Management","Common Stock","1053480","7.0%"
-"Charter Financial Corporation","New York","2016","Renaissance Technologies Co.","Common Stock","910159","6.1%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Charter Financial Corporation","West Point,"GA"","2016","CharterBank ESOP","common stock","1093391","7.3%","n/a"
+"Charter Financial Corporation","Naples,"FL"","2016","Private Capital Management","common stock","1053480","7.0%","n/a"
+"Charter Financial Corporation","New York,"NY"","2016","Renaissance Technologies Co.","common stock","910159","6.1%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Charter Financial Corporation","CEO,"Chairman"","Robert L. Johnson","CEO & Chairman,"CharterBank"","See attached","2016"
-"Charter Financial Corporation","Director","Jane W. Darden","Director,"CharterBank"","See attached","2016"
-"Charter Financial Corporation","Director","David L. Strobel","Director,"CharterBank"","See attached","2016"
-"Charter Financial Corporation","Director","Thomas M. Lane","Director,"CharterBank"","VP Finance EAMC Lanier Hospital","2016"
-"Charter Financial Corporation","Director","David Z. Cauble,"III"","Director,"CharterBank"","See attached","2016"
-"Charter Financial Corporation","Director","Curti M. Johnson","SVP,"GC","Director CharterBank"","See attached","2016"
-"Charter Financial Corporation","Director","Edward D. Smith","Director,"CharterBank"","Owner,"Hutchinson-Traylor Insurance"","2016"
-"Charter Financial Corporation","Sr VP & CFO","Curtis R. Kollar","Sr VP & CFO,"CharterBank"","See attached","2016"
-"Charter Financial Corporation","n/a","Lee Washam","President,"CharterBank"","See attached","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Charter Financial Corporation","CEO,"Chairman"","Robert L. Johnson","n/a","n/a","2016","N/A","n/a"
+"Charter Financial Corporation","Director","Jane W. Darden","n/a","n/a","2016","Homemaker","n/a"
+"Charter Financial Corporation","Director","David L. Strobel","n/a","Mihada,"Inc."","2016","Engineer/Owner,"Commercial Construction Company"","n/a"
+"Charter Financial Corporation","Director","David L. Strobel","n/a","Shannon,"Strobel & Weaver C & E","Inc."","2016","Engineer/Owner,"Commercial Construction Company"","n/a"
+"Charter Financial Corporation","Director","David L. Strobel","n/a","Ozark Assoc. SC,"Inc."","2016","Engineer/Owner,"Commercial Construction Company"","n/a"
+"Charter Financial Corporation","Director","CFO,"EAMC-Lanier"","Thomas M. Lane","VP Finance EAMC Lanier Hospital","2016","n/a","n/a"
+"Charter Financial Corporation","Director","David Z. Cauble,"III"","n/a","n/a","2016","Retired","n/a"
+"Charter Financial Corporation","Director","Curti M. Johnson","n/a","Chattahoochee Fuller Center Project","2016","In-house counsel,"CharterBank"","n/a"
+"Charter Financial Corporation","Director","Curti M. Johnson","n/a","Lagrange College","2016","In-house counsel,"CharterBank"","n/a"
+"Charter Financial Corporation","Director","Owner,"Insurance Agency"","Edward D. Smith","Owner,"Hutchinson-Traylor Insurance"","2016","n/a","n/a"
+"Charter Financial Corporation","Sr VP & CFO","Curtis R. Kollar","n/a","n/a","2016","N/A","n/a"
+"Charter Financial Corporation","President","Lee Washam","n/a","n/a","2016","Financial Services Executive","n/a"
 ```

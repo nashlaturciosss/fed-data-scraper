@@ -1,0 +1,25 @@
+Here are the requested CSV tables.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Financial Corporation","Biloxi,"MS"","2017","Peoples Financial Corporation Employee Stock Ownership Plan","n/a","270455","5.32%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2017","Thomas E. Quave","n/a","502048","9.88%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2017","A. Tanner Swetman","n/a","867669","17.07%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2017","Chevis C. Swetman","n/a","408672","8.04%","1133174"
+"Peoples Financial Corporation","Greenwich,"CT"","2017","Jeffrey L. Gendell","n/a","487056","9.58%","1133174"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Financial Corporation","Chairman,"President & CEO"","Chevis C. Swetman","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","Director","Drew Allen","President","Allen Beverages,"Inc."","2017","Businessman","1133174"
+"Peoples Financial Corporation","Director","Rex E. Kelly","n/a","Corporate Consultant","2017","Businessman","1133174"
+"Peoples Financial Corporation","Vice-Chairman; Director","Dan Magruder","n/a","Retired business executive","2017","Businessman","1133174"
+"Peoples Financial Corporation","Director","Jeffrey H. O'Keefe","President","Bradford-O'Keefe Funeral Home,"Inc."","2017","Businessman","1133174"
+"Peoples Financial Corporation","Executive Vice President","A. Wes Fulmer","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","First Vice President","Ann F. Guice","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","Chief Financial Officer and Controller","Lauri A. Wood","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","Second Vice President","J. Patrick Wild","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","Vice President and Secretary","Evelyn R. Herrington","n/a","n/a","2017","Banker","1133174"
+"Peoples Financial Corporation","Assistant Vice President","Andrew Tanner Swetman","n/a","Swetman Land Company","2017","Banker","1133174"
+```

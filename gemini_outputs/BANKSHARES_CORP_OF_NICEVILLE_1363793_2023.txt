@@ -1,19 +1,21 @@
-```text
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bankshares Corporation Of Niceville","Niceville","2023","Deborah P. Dye","n/a","34670","32.14%"
-"Bankshares Corporation Of Niceville","Niceville","2023","James W. Powell","n/a","34637","32.11%"
-"Bankshares Corporation Of Niceville","Niceville","2023","Michael R. Floyd","n/a","8207","7.61%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2023","Deborah P. Dye","n/a","34670","32.14%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2023","James W. Powell","n/a","34637","32.11%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2023","Michael R. Floyd","n/a","8207","7.61%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bankshares Corporation Of Niceville","Chairman Director","Deborah P. Dye","None","Peoples Building General Partnership","2023"
-"Bankshares Corporation Of Niceville","Chairman Director","Deborah P. Dye","None","Powell & Dye,"LLC"","2023"
-"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","None","Peoples Building General Partnership","2023"
-"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","None","2023"
-"Bankshares Corporation Of Niceville","Vice Chairman Director","Cynthia M. Harrison","EVP / COO","None","2023"
-"Bankshares Corporation Of Niceville","Director","Casee L. Laflin","VP & Marketing Director","Spot On Lawn Care,"LLC"","2023"
-"Bankshares Corporation Of Niceville","Director","James W. Powell","Secretary","Peoples Building General Partnership","2023"
-"Bankshares Corporation Of Niceville","Director","James W. Powell","Secretary","W. H. Powell Rentals,"LLC"","2023"
-"Bankshares Corporation Of Niceville","Director","James W. Powell","Secretary","Powell & Dye,"LLC"","2023"
-"Bankshares Corporation Of Niceville","Director","Freida L. Spence","N/A","S&R Properties LLC","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bankshares Corporation Of Niceville","Chairman,"Director"","Deborah P. Dye","Partner","Peoples Building General Partnership","2023","n/a","n/a"
+"Bankshares Corporation Of Niceville","Chairman,"Director"","Deborah P. Dye","Managing Member","Powell & Dye,"LLC"","2023","n/a","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building General Partnership","2023","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","None","2023","Banker","n/a"
+"Bankshares Corporation Of Niceville","Vice Chairman,"Director"","Cynthia M. Harrison","EVP / COO","None","2023","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director","Casee L. Laflin","VP & Marketing Director","Spot On Lawn Care,"LLC"","2023","Banker","n/a"
+"Bankshares Corporation Of Niceville","Secretary,"Director"","James W. Powell","Partner","Peoples Building General Partnership","2023","n/a","n/a"
+"Bankshares Corporation Of Niceville","Secretary,"Director"","James W. Powell","Parner","W. H. Powell Rentals,"LLC"","2023","n/a","n/a"
+"Bankshares Corporation Of Niceville","Secretary,"Director"","James W. Powell","Managing Member","Powell & Dye,"LLC"","2023","n/a","n/a"
+"Bankshares Corporation Of Niceville","Director","Freida L. Spence","Managing Member","S&R Properties LLC","2023","n/a","n/a"
 ```

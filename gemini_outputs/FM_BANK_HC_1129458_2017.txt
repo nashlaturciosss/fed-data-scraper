@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Holding Company,"Inc."","Columbus,"GA"","2017","Lynley Loftin Hipps","COMMON STOCK","798932","33%","n/a"
+"F & M Holding Company,"Inc."","Manchester,"GA"","2017","Jaynie Loftin Nesmith","COMMON STOCK","798737","33%","n/a"
+"F & M Holding Company,"Inc."","Senoia,"GA"","2017","Patrick Wasden","COMMON STOCK","798931","33.%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank and Trust Company","Director","Lynley Loftin Hipps","n/a","Performance Support Office","2017","Performance Support Office","937834"
+"F&M Bank and Trust Company","Director","Jaynie Loftin Nesmith","Retired: Dir. Of Curriculum","n/a","2017","n/a","937834"
+"F&M Bank and Trust Company","Chairman/Director","Patrick Wasden","Self Employed","Farming","2017","Self Employed Farming","937834"
+"F&M Bank and Trust Company","CLO Director","Allen W. Parham","n/a","n/a","2017","F & M Bank","937834"
+"F&M Bank and Trust Company","CEO Director","Gary A. Ledbetter","n/a","n/a","2017","Chief Executive Officer","937834"
+```

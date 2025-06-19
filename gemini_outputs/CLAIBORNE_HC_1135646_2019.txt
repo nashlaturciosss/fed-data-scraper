@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Century Bank","Knoxville,"TN"","2019","Yoakum Family,"LP"","common stock","70446","48.9%","n/a"
+"First Century Bank","Nashville,"TN"","2019","Stephanie B. Conner","common stock","10019","7.2%","n/a"
+"First Century Bank","Knoxville,"TN"","2019","Rob Barger","common stock","16991","11.8%","n/a"
+"First Century Bank","Knoxville,"TN"","2019","Oliver Adams","common stock","34689","24.1%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Century Bank","Director & Chairman of Board","Eleanor Yoakum","General Partner","Yoakum Family LP","2019","n/a","n/a"
+"First Century Bank","Director & Vice Chairman & President","Rob Barger","Owner General Partner","Yoakum Family LP","2019","n/a","n/a"
+"First Century Bank","Principal Shareholder","Oliver Adams","n/a","n/a","2019","Attorney","n/a"
+"First Century Bank","Director","Carroll E. Rose,"MD"","Partner","n/a","2019","Physician & Real Estate Developer","n/a"
+"First Century Bank","Secretary to the Board","Jennifer Lovin","n/a","n/a","2019","n/a","n/a"
+"First Century Bank","n/a","Rex Rauhuff","Executive VP Chief Lending Officer","n/a","2019","n/a","n/a"
+"First Century Bank","Director","George Day,"M.D."","Partner","Heartland Pharmacy","2019","Physician","n/a"
+"First Century Bank","Secretary To the Board","Jack A. Bonner,"Jr"","Managing Member","Press Group,"LLC"","2019","N/A","n/a"
+"First Century Bank","Secretary To the Board","Jack A. Bonner,"Jr"","Managing Ptr","Cayenne Rental Properties,"GP"","2019","N/A","n/a"
+"First Century Bank","Secretary To the Board","Jack A. Bonner,"Jr"","President","Press Bldg. Condo Assoc","2019","N/A","n/a"
+"First Century Bank","Director","Lee Dan Stone III","Owner","n/a","2019","Attorney-at-Law","n/a"
+"First Century Bank","Director","Lee Dan Stone III","Owner","Stone & Stone,"Attorney at Law"","2019","Attorney-at-Law","n/a"
+"First Century Bank","Director","Lee Dan Stone III","Owner","R & S Energy,"Inc."","2019","Attorney-at-Law","n/a"
+"First Century Bank","n/a","William A. Dunavant,"Jr."","Director/ Consultant","n/a","2019","Business consultant","n/a"
+"First Century Bank","n/a","Howard Phillips","Director","n/a","2019","Business owner","n/a"
+"First Century Bank","n/a","Greg Garren","Director","n/a","2019","Farmer","n/a"
+"First Century Bank","n/a","Wesley Minton","Executive VP Chief Operating Officer","n/a","2019","n/a","n/a"
+```

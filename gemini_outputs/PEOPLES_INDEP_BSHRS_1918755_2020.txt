@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2020","Betty B Buchanan","Shares of Common Stock","19486","10.35%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2020","Phillip Amberson","Shares of Common Stock","24747","13.14%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2020","Patty Handley","Shares of Common Stock","10000","5.31%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2020","Tommy Handley","Shares of Common Stock","11496","6.10%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2020","Royce G. Ogle","Shares of Common Stock","20096","10.67%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2020","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Property Development of Marshall Co.","2020","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Management & Development Co.","2020","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2020","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2020","Retail","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","Ameriprise Financial Service,"Certified Financial Planner"","n/a","2020","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President & Chairman of the Board","Royce G. Ogle","n/a","n/a","2020","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","n/a","n/a","2020","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Betty B. Buchanan","n/a","n/a","2020","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary","Patty Handley","n/a","n/a","2020","Construction","n/a"
+```

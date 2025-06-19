@@ -1,0 +1,25 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2015","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","451453","9.3%","1083475"
+"Citizens Holding Company","Philadelphia,"MS"","2015","Herbert A. King","Common Stock","275073","5.6%","1083475"
+"Citizens Holding Company","Philadelphia,"MS"","2015","Herbert A. King","Options on Common Stock","10500","0.22%","1083475"
+"Citizens Holding Company","Philadelphia,"MS"","2015","NONE","n/a","n/a","n/a","1083475"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Don L. Fulton","Corporate PERT Coordinator","W. G. Yates and Sons","2015","General Construction","1083475"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2015","Business Manager","1083475"
+"Citizens Holding Company","Director","Daniel Adam Mars","n/a","Adam Mars Realty","2015","Business Manager","1083475"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2015","Engineer","1083475"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2015","n/a","1083475"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2015","Proprietor,"Auto Parts supply store"","1083475"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2015","Physician","1083475"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2015","Attorney","1083475"
+"Citizens Holding Company","Director","Donald L Kilgore","Special Assistant Attorney General","State of Mississippi","2015","Attorney","1083475"
+"Citizens Holding Company","Director","A. T. Williams","CPA,"of Counsel"","Rea,"Shaw","Giffin & Stuart"","2015","Certified Public Accountant","1083475"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2015","Chief Financial Officer","1083475"
+"Citizens Holding Company","Treasurer & CFO","Robert T. Smith","n/a","n/a","2015","n/a","1083475"
+```

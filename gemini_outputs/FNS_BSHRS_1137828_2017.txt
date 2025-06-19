@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2017","JOHN W GAY,"JR TRUST"","Common Stock","52490","5.32%","n/a"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2017","JOHN W GAY,"III"","Common Stock","6534","0.66%","n/a"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2017","MAURINE G GAY TRUST","Common Stock","45000","4.57%","n/a"
+"FNS Bancshares,"Inc."","Atlanta,"Ga"","2017","Alan K. Gay","Common Stock","18793","1.90%","n/a"
+"FNS Bancshares,"Inc."","Atlanta,"Ga"","2017","Alan K. Gay Trust","Common Stock","45000","4.57%","n/a"
+"FNS Bancshares,"Inc."","Atlanta,"Ga"","2017","Sharon A. Gay","Common Stock","16858","1.71%","n/a"
+"FNS Bancshares,"Inc."","Atlanta,"Ga"","2017","Sharon A. Gay Trust","Common Stock","45000","4.57%","n/a"
+"FNS Bancshares,"Inc."","El Pas,"Tx"","2017","Leigh Ponsford Lovelady","Common Stock","49333","5.01%","n/a"
+"FNS Bancshares,"Inc."","El Paso,"Tx"","2017","Leigh Ponsford Loveleady Family Trust","Common Stock","23840","2.42%","n/a"
+"FNS Bancshares,"Inc."","El Paso,"Tx"","2017","Richard Gay Ponsford","Common Stock","48111","4.88%","n/a"
+"FNS Bancshares,"Inc."","El Paso,"Tx"","2017","Richard G Ponsford Family Trust","Common Stock","23840","2.42%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNS Bancshares","VP,"Secretary & Treasurer"","Steven G. Beaird","Executive Vice President & CFO and Secretary of the Board","FNB BANK","2017","Executive Vice President & CFO","n/a"
+"FNS Bancshares","Chairman","Alan K Gay","CEO","BuyMetrics","2017","CEO,"BuyMetrics","Atlanta Ga"","n/a"
+"FNS Bancshares","Director","Randall H. Giles","Director","FNB BANK","2017","Retired,"FNB Bank"","n/a"
+"FNS Bancshares","Director","Hoyt E. Harbin III","President","Harbin Motor Co.,"Inc. Scottsboro"","2017","President,"Harbin Motor Co.","Inc. Scottsboro"","n/a"
+"FNS Bancshares","Director","Don Webb","General Agent","State Farm Insurance Co. Scottsboro","2017","General Agent,"State Farm Insurance Co. Scottsboro"","n/a"
+"FNS Bancshares","Director","Stephen J. Livingston","President","Dicus Oil Co.,"Inc. Hollywood","AL"","2017","President of Dicus Oil Co.,"Inc. Hollywood","AL"","n/a"
+"FNS Bancshares","Director","Paul L. Storey","Owner","Storey Trucking Co.","2017","Owner/Operator of Storey Trucking Co. and Storey Farms","n/a"
+"FNS Bancshares","Director","Paul L. Storey","Owner","Storey Farms","2017","Owner/Operator of Storey Trucking Co. and Storey Farms","n/a"
+"FNS Bancshares","Director","M. Paul Holland","Owner","Holland Optometry","2017","Optometrist","n/a"
+"FNS Bancshares","Director","James Bergman","Owner","James Bergman Raymond James Investments","2017","Investment Counselor","n/a"
+"FNS Bancshares","President & CEO","Stephen M Rownd","President & CEO and Director","FNB BANK","2017","President & CEO,"FNB BANK"","n/a"
+```

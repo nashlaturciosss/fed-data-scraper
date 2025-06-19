@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2014","Don T.P. Leung","Common stock","164753","5.64%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2014","Don T.P. Leung","Warrant on Common stock","20000","0.68%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2014","Nack Y. Paek","Common stock","230106","7.88%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2014","Nack Y. Paek","Options and Warrant on Common Stock","60000","2.05%","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","2014","Feiying Lu *","Common stock","227670","7.80%","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","2014","Feiying Lu *","Warrant on Common stock","30000","1.03%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director","CPACS Chamblee,"GA"","2014","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Director,"& President"","Farid Tan","n/a","n/a","2014","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Executive VP","Hwa Saeng Kim","n/a","n/a","2014","n/a","n/a"
+"MetroCity Bankshares,"Inc."","CFO & Assistant Secretary","S. Benton Gunter","n/a","n/a","2014","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Director & Secretary","William Hungeling","n/a","Hungeling & Sons. P.C.,"CPA"","2014","CPA","n/a"
+"MetroCity Bankshares,"Inc."","Director","Manolo Apanay","n/a","n/a","2014","None","n/a"
+"MetroCity Bankshares,"Inc."","Director","Jay Eun","n/a","n/a","2014","Businessman","n/a"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Fulton Beverage Center,"Inc."","2014","Manager","n/a"
+"MetroCity Bankshares,"Inc."","Director","Don T. P. Leung","Businessman","n/a","2014","Businessman","n/a"
+"MetroCity Bankshares,"Inc."","Director","Feiying Lu","Controller","n/a","2014","Controller","n/a"
+"MetroCity Bankshares,"Inc."","Director","Young Park","Businessman","n/a","2014","Businessman","n/a"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Hotelier","Amrit & Sons 1,"LLC"","2014","Hotelier","n/a"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Hotelier","Relax Hospitality,"LLC"","2014","Hotelier","n/a"
+"MetroCity Bankshares,"Inc."","Director","Frank S. Rhee","Web designer","n/a","2014","Web designer","n/a"
+"MetroCity Bankshares,"Inc."","Director","Sam S. Shim","CPA","n/a","2014","CPA","n/a"
+```

@@ -1,0 +1,38 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancgroup,"Inc."","Miami Beach,"Florida"","2015","Alexey Kravtsov","n/a","95","9.9%","3838259"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2015","Chingiz Askerov","n/a","95","9.9%","3838259"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2015","Tagir Saydkuzhin","n/a","95","9.9%","3838259"
+"Home Bancgroup,"Inc."","Delray Beach,"Florida"","2015","Vladimir Berkovich","n/a","95","9.9%","3838259"
+"Home Bancgroup,"Inc."","Bluffton,"South Carolina"","2015","Sergey Khotimskiy and Dmitriy Khotimskiy","n/a","95","9.9%","3838259"
+"Home Bancgroup,"Inc."","Sunny Isles,"Florida"","2015","Mikhail Trakhtenberg and Tatiana Polozok","n/a","80","8.4%","3838259"
+"Home Bancgroup,"Inc."","Moscow,"Russia"","2015","Sergey Orlovskiy","n/a","52","5.5%","3838259"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancgroup,"Inc."","Director/Chairman/President/CEO","Scott F. Rosenberg","n/a","n/a","2015","Banker and Attorney","n/a"
+"Home Federal Bank of Hollywood","Chairman","Scott F. Rosenberg","n/a","n/a","2015","Banker and Attorney","n/a"
+"Home Bancgroup,"Inc."","Director/President/CEO","Robert Brookes","n/a","Key to Banking LLC","2015","Banker","n/a"
+"Home Bancgroup,"Inc."","Director/President/CEO","Robert Brookes","Director/Treasurer","Rotary Club of Key Biscayne Foundation,"Inc."","2015","Banker","n/a"
+"Home Bancgroup,"Inc."","Director/President/CEO","Robert Brookes","Treasurer","Miami Children's Chorus","2015","Banker","n/a"
+"Home Bancgroup,"Inc."","Director/President/CEO","Robert Brookes","Director","Key Biscayne Chamber of Commerce","2015","Banker","n/a"
+"Home Federal Bank of Hollywood","Director/President/CEO","Robert Brookes","n/a","Key to Banking LLC","2015","Banker","n/a"
+"Home Federal Bank of Hollywood","Chairman","Scott F. Rosenberg","n/a","n/a","2015","Banker and Attorney","n/a"
+"Home Federal Bank of Hollywood","Director/President/CEO","Robert Brookes","n/a","n/a","2015","Banker","n/a"
+"Home Bancgroup,"Inc."","Sr Vice President","Brian Cole","n/a","n/a","2015","Banker","n/a"
+"Home Federal Bank of Hollywood","Director/Sr Vice President","Brian Cole","n/a","n/a","2015","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Michael Newett","n/a","Isla del Sol","2015","Bank Consultant","n/a"
+"Home Federal Bank of Hollywood","Director","Michael Newett","n/a","Isla del Sol","2015","Bank Consultant","n/a"
+"Home Bancgroup,"Inc."","Director","Marta Villacorta","n/a","n/a","2015","Attorney and Retired Florida Department of Corrections Regional Director","n/a"
+"Home Federal Bank of Hollywood","Director","Marta Villacorta","n/a","n/a","2015","Attorney and Retired Florida Department of Corrections Regional Director","n/a"
+"Home Bancgroup,"Inc."","Director","Carlos Rionda","n/a","QSOL Florida,"LLC"","2015","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Carlos Rionda","n/a","South East Renewable Fuels,"LLC"","2015","Engineer","n/a"
+"Home Federal Bank of Hollywood","Director","Carlos Rionda","n/a","QSOL Florida,"LLC"","2015","Engineer","n/a"
+"Home Federal Bank of Hollywood","Director","Carlos Rionda","n/a","South East Renewable Fuels,"LLC"","2015","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Fredric Garfinkle","n/a","n/a","2015","Retired FDIC Examiner","n/a"
+"Home Federal Bank of Hollywood","Director","Fredric Garfinkle","n/a","n/a","2015","Retired FDIC Examiner","n/a"
+"Home Bancgroup,"Inc."","Director","Sergey Khotimskiy","n/a","Sovcombank","2015","Banker","n/a"
+"Home Federal Bank of Hollywood","Director","Sergey Khotimskiy","n/a","Sovcombank","2015","Banker","n/a"
+```

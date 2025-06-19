@@ -1,0 +1,43 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2022","Estate of Herman J. Russell","n/a","606282","30.60%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","Principal Shareholder","Estate of Herman J. Russell","n/a","n/a","2022","n/a","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","Acuity Brands Corporation","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","American Airlines","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","Progressive Holdings","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","Fortress Transportation","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","Avnet,"Inc."","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Director","Georgia Aquarium","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Trustee","Meharry Medical College","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Chairman & COO","Immersive Solutions","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Owner","Cheyenne Property Development","2022","Retired","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Founder and President","C.D. Moody Construction Co.","2022","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director","Chick-Fil-A Foundation","2022","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director","Goodwill of North Georgia","2022","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director","Zoo Atlanta","2022","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner","H.J. Russell & Company","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner","Concessions International","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner","Russell New Urban LLC","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Chairman","Russell Innovation Center for Entrepreneurs","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Board member","Central Atlanta Progress","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Board member","Metro Atlanta YMCA","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Board member","Tuskegee University","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Board member","Westend Community Improvement District","2022","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Principal","R.L. Brown & Assoc.","2022","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Director","Georgia Power Co.","2022","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Director","Georgia Chamber of Commererce","2022","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore,"Sr."","Managing Principal","Elmore CPAs,"LLC"","2022","Managing Principal of Elmore CPAs,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","C. Howie Hodges,"II"","CEO","CH Hodges,"Inc."","2022","CEO of CH Hodges,"Inc."","n/a"
+"Citizens Bancshares Corporation","Director","C. Howie Hodges,"II"","Partner","Centri Tech","2022","CEO of CH Hodges,"Inc."","n/a"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","Director","Aarons,"Inc."","2022","President & CEO","n/a"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","Director","Primerica","2022","President & CEO","n/a"
+"Citizens Bancshares Corporation","Executive VP & CFO","Samuel J. Cox","Executive VP & CFO","Citizens Trust Bank","2022","Executive VP & CFO","n/a"
+"Citizens Bancshares Corporation","Executive VP & CCO","Frederick L. Daniels,"Jr."","Executive VP & CCO","Citizens Trust Bank","2022","Executive VP & CCO","n/a"
+"Citizens Bancshares Corporation","Executive VP & Director of Sale & Business Development","Farrand Logan","Executive VP & Director of Sales & Business Development","Citizens Trust Bank","2022","EVP & Director of Sale & Business Development","n/a"
+```

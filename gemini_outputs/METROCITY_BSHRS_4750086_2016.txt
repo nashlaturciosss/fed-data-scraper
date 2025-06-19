@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2016","Don T.P. Leung","Common stock","638600","5.40%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2016","Nack Y. Paek","Common stock","899788","7.61%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2016","Nack Y. Paek","Options on Common Stock","40000","0.34%","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","2016","Feiying Lu","Common stock","912680","7.72%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director,"Chairman"","CPACS Chamblee,"GA"","2016","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"President"","Farid Tan","n/a","n/a","2016","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Executive VP","Hwa Saeng Kim","n/a","n/a","2016","n/a","3437456"
+"MetroCity Bankshares,"Inc."","CFO & Assistant Secretary","S. Benton Gunter","n/a","n/a","2016","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director & Secretary","William Hungeling","Partner","Hungeling & Sons,"P.C."","2016","CPA","3437456"
+"MetroCity Bankshares,"Inc."","Director","Manolo Apanay","n/a","n/a","2016","None","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Fulton Beverage Center,"Inc."","2016","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Don T. P. Leung","n/a","n/a","2016","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Feiying Lu","n/a","n/a","2016","Controller","3437456"
+"MetroCity Bankshares,"Inc."","Director","Young Park","n/a","n/a","2016","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","n/a","n/a","2016","Hotelier","3437456"
+"MetroCity Bankshares,"Inc."","Director","Frank S. Rhee","n/a","n/a","2016","Web designer","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sam S. Shim","Partner","SKS Consulting,"Inc."","2016","CPA","3437456"
+```

@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bank","Phenix City,"Al"","2020","John M Dudley","common stock","2","less than 1%","432432"
+"Phenix-Girard Bank","Phenix City,"Al"","2020","Menza Dudley","common stock","2","less than 1%","432432"
+"Phenix-Girard Bank","Phenix City,"Al"","2020","John M Dudley,"Sr Irrevocable Family Trust"","common stock","215992","99.9%","432432"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bank","President,"Treasurer","Director"","President,"Treasurer","Director Phenix-Girard Bancshares","."","n/a","Lumberman,"Phenix Lumber Company"","2020","n/a","n/a"
+"Phenix-Girard Bank","Vice President,"Secretary","Director"","Menza Dudley","n/a","Phenix-Girard Bank","2020","n/a","n/a"
+"Phenix-Girard Bank","Vice President,"Secretary","Director"","Menza Dudley","n/a","Bancshares","2020","n/a","n/a"
+"Phenix-Girard Bank","CEO,"Director"","n/a","n/a","Phenix-Girard Bank","2020","n/a","n/a"
+"Phenix-Girard Bank","n/a","n/a","Sole Proprietorship","Phenix Lumber","2020","n/a","n/a"
+"Phenix-Girard Bank","n/a","n/a","Sole Proprietorship","Girard Partners Management,"Inc"","2020","n/a","n/a"
+"Phenix-Girard Bank","n/a","n/a","Sole Proprietorship","Crawford Partners Management Inc","2020","n/a","n/a"
+"Phenix-Girard Bank","n/a","n/a","Sole Proprietorship","MDLD,"LLC"","2020","n/a","n/a"
+```

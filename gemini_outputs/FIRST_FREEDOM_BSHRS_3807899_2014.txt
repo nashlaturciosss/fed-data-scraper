@@ -1,0 +1,28 @@
+"Here are the two tables extracted from the document in CSV format","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2014","John High Bradshaw","Voting Common Stock","55740.96","3.20%","3807899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2014","John High Bradshaw","Voting Common Stock","66300","3.55%","3807899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2014","John Robert Lancaster","Voting Common Stock","49255.41","2.83%","3807899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2014","John Robert Lancaster","Voting Common Stock","66300","3.55%","3807899"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Freedom Bancshares,"Inc."","CEO/Director","John Robert Lancaster","CEO","Dugdale & Lancaster,"GP"","2014","President","3807899"
+"First Freedom Bancshares,"Inc."","CEO/Director","John Robert Lancaster","CEO","Teeley Pole Assets GP","2014","President","3807899"
+"First Freedom Bancshares,"Inc."","Director","Kenneth Cecil Howell","Chairman","n/a","2014","Chairman","3807899"
+"First Freedom Bancshares,"Inc."","Director","John High Bradshaw","COO","JB Realty","2014","COO & CLO","3807899"
+"First Freedom Bancshares,"Inc."","Director","Robert Cameron Woods","Member","St. Thomas Heart Group","2014","Physician","3807899"
+"First Freedom Bancshares,"Inc."","Director","Veronica Rochell Bender","Principal","Friendship Christian Middle School","2014","Educator","3807899"
+"First Freedom Bancshares,"Inc."","Director","Charles Richard Haskins","Co-owner","Lebanon Chemical,"Inc."","2014","Farmer/ Chemical Supply Co. Owner","3807899"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Owner & Affiliate Broker","Cumberland Real Estate & Auction","2014","Realtor","3807899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Sellars Funeral Home and Sellars Cremation Services","2014","Funeral Director","3807899"
+"First Freedom Bancshares,"Inc."","Director","Randy Gill Laine","President","n/a","2014","Engineer","3807899"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrels","Private Practice","n/a","2014","Physician","3807899"
+"First Freedom Bancshares,"Inc."","Director","Donald Madison Turner","n/a","All American Classics of TN,"Inc"","2014","Real Estate Investor","3807899"
+"First Freedom Bancshares,"Inc."","Director","Donald Madison Turner","n/a","TUMILA,"LLC"","2014","Real Estate Investor","3807899"
+"First Freedom Bancshares,"Inc."","Director","Donald Madison Turner","Retired President","Cracker Barrel Old Country Stores,"Inc."","2014","Real Estate Investor","3807899"
+"First Freedom Bancshares,"Inc."","CFO","Michael R. Wiggington","n/a","n/a","2014","CFO of First Freedom Bank","3807899"
+```

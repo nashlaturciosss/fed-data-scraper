@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Auburn,"AL"","2017","Auburn University Foundation","Common","5538","10.57%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Geraldine,"AL"","2017","Betty Parris Trust","Common","6629","12.65%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Hixon,"TN"","2017","Vicki Anderson","Common","5875","11.21%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Albertville,"AL"","2017","Robert Decker","Common","3000","5.72%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","President","Chris Bailey","n/a","n/a","2017","n/a","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Chairman/ Director","Robert Decker","n/a","n/a","2017","Investment Broker","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Director","Billy F. Cooper","n/a","n/a","2017","Retired","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Director","Joel Murdock","n/a","n/a","2017","Machine Operator","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","None","Auburn University Foundation","n/a","n/a","2017","Foundation","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","None","Betty Parris Trust","n/a","n/a","2017","Housewife","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Director","David Wear","President","Wear & Wear,"P.A."","2017","Attorney","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Director","David Wear","n/a","100% ownership","2017","Attorney","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC"","Director","Vicki Anderson","Director of Marketing","Chattanooga Business","2017","Marketing","n/a"
+```

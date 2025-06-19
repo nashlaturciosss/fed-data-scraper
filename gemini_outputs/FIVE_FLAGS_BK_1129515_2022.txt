@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Five Flags Banks,"Inc."","Pensacola,"Florida"","2022","AMFI INVESTMENTS CORP","n/a","5296.339","5.90","n/a"
+"Five Flags Banks,"Inc."","Melissa,"Texas"","2022","NANCY E. ROYALS","n/a","9665.929725","10.77","n/a"
+"Five Flags Banks,"Inc."","Pensacola,"Florida"","2022","SOUTH BUILDING CORP","n/a","7197.00893","8.02","n/a"
+"Five Flags Banks,"Inc."","Pensacola,"Florida"","2022","ELEANOR LEIGH TAYLOR FAMILY IRREVOCABLE GENERATION SKIPPING TRUST DTD 12/28/2012","n/a","8000.000","8.92","n/a"
+"Five Flags Banks,"Inc."","Dover,"Delaware"","2022","TWA CORP","n/a","6066.5573","6.76","n/a"
+"Five Flags Banks,"Inc."","La Jolla,"California"","2022","BARBARA J. WOODBURY","n/a","9665.929625","10.77","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Five Flags Banks,"Inc."","President/Director","Raymond H. Jones","Consultant/Director","The Warrington Bank","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","President/Director","Raymond H. Jones","Director","Bank of Pensacola","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","President/Director","Raymond H. Jones","President/Director","Bank Data,"Inc."","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","Vice President/Director","Donna Mair","President/Director","Warrington Bank","2022","Bank President","n/a"
+"Five Flags Banks,"Inc."","Director","Donna Mair","Director","Bank of Pensacola","2022","Bank President","n/a"
+"Five Flags Banks,"Inc."","Director","Donna Mair","Director","Bank Data,"Inc."","2022","Bank President","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director/Treasurer","TWA Corp","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director/President","AMFI Corp.","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director","Bank Data,"Inc."","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director/President","South Building Corp.","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director","Trans World Assurance Co.","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director","TBH Corp.","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director","American Fidelity Life Ins Co","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Secretary/Director","Marilyn W. Hess","Director","Island House,"Inc."","2022","Insurance Executive/Banker","n/a"
+"Five Flags Banks,"Inc."","Treasurer/Director","Martha S. Kilpatrick","Consultant/Director","The Warrington Bank","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","Director","William P. Woodbury","President & CEO","Bank of Pensacola","2022","Bank President","n/a"
+"Five Flags Banks,"Inc."","Director","Gail E. Russo","Director","The Warrington Bank","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","Director","Gail E. Russo","Director","Bank of Pensacola","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","Director","Gail E. Russo","Director","Bank Data","2022","Bank Consultant","n/a"
+"Five Flags Banks,"Inc."","Director","Perry Palmer","Vice President","Bank of Pensacola","2022","Bank Vice President","n/a"
+"Five Flags Banks,"Inc."","n/a","Nancy E. Royals","n/a","n/a","2022","Author","n/a"
+"Five Flags Banks,"Inc."","n/a","Barbara J. Woodbury","Director","TWA Corp","2022","Insurance Executive","n/a"
+"Five Flags Banks,"Inc."","n/a","Barbara J. Woodbury","Director/Vice President","Trans World Assurance Co","2022","Insurance Executive","n/a"
+```

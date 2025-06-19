@@ -1,0 +1,35 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2017","Elois B. Johnson","Common Stock","7421","36%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2017","Jacki Johnson Andrews","Common Stock","1527","7%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2017","Susan Johnson Bunch","Common Stock","1634","7%","n/a"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2017","Lyman L Fleniken,"Jr"","Common Stock","1159","5%","n/a"
+"Feliciana Bancshares,"Inc."","Zachary,"LA"","2017","Judy Johnson Myles","Common Stock","1849","9%","n/a"
+"Feliciana Bancshares,"Inc."","Zachary,"LA"","2017","The Paula Jaye Johnson S-Corp Trust","Common Stock","1254","6%","n/a"
+"Feliciana Bancshares,"Inc."","n/a","2017","Grandchildren of Elois B. Johnson","Common Stock","1367","6%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Director & Chairman of the Board","Susan J. Bunch","n/a","n/a","2017","Retired","n/a"
+"Feliciana Bancshares,"Inc."","Director","Judy J. Myles","Office Manager","Myles Law Firm","2017","Manager Law Office","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Bluff Creek Redi-Mix","2017","Convenience Store Owner and Owner of Sand & Gravel Company","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken's One-Stop-Inc","2017","Convenience Store Owner and Owner of Sand & Gravel Company","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken's Sand & Gravel,"Inc"","2017","Convenience Store Owner and Owner of Sand & Gravel Company","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Flen-Rock Company LLC","2017","Convenience Store Owner and Owner of Sand & Gravel Company","n/a"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken Farms","2017","Convenience Store Owner and Owner of Sand & Gravel Company","n/a"
+"Feliciana Bancshares,"Inc."","Director & Chief Executive Officer","John Irwin Stewart","n/a","CSIC LLC","2017","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Director & President","Jaye M. Bunch","n/a","n/a","2017","n/a","n/a"
+"Feliciana Bancshares,"Inc."","Director","Bradley S. Gayle","Pharmacy Owner","AMG,"LLC"","2017","Pharmacy Owner","n/a"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Forester","Hurst Forestry Services,"LLC"","2017","Forester","n/a"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Forester","H&H Tree,"LLC"","2017","Forester","n/a"
+"Feliciana Bancshares,"Inc."","Director & Secretary","Jill Kindler","Manager","Hannis T. Bourgeois,"LLP"","2017","Manager,"Public Accounting Firm"","n/a"
+"Feliciana Bancshares,"Inc."","n/a","Jacki J. Andrews","n/a","n/a","2017","Nurse","n/a"
+"Feliciana Bancshares,"Inc."","n/a","The Paula Jaye Johnson S-Corp Trust","n/a","n/a","2017","n/a","n/a"
+"Feliciana Bancshares,"Inc."","n/a","Elois B. Johnson","n/a","n/a","2017","Retired","n/a"
+"Feliciana Bancshares,"Inc."","Treasurer & CFO","Tracye L. Browning","n/a","n/a","2017","n/a","n/a"
+"Feliciana Bancshares,"Inc."","COO","Matthew Knight","n/a","n/a","2017","n/a","n/a"
+"Feliciana Bancshares,"Inc."","CCO","Courtney Hardin","n/a","n/a","2017","n/a","n/a"
+```

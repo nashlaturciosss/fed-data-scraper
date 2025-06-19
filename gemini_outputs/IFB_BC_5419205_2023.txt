@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"IFB Bancorp,"Inc."","Madrid,"Spain"","2023","Guillermo Fierro Eleta","Common Stock","3220442","87.37%","n/a"
+"IFB Bancorp,"Inc."","Madrid,"Spain"","2023","Guillermo Fierro Eleta","Preferred Stock","0","0%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"IFB Bancorp,"Inc."","Director","Guillermo Fierro Eleta","n/a","See Attached","2023","Businessman/Entepreneur","n/a"
+"IFB Bancorp,"Inc."","Director","John McGuire","Senior Partner","McGuire and McGuire Banking Consultants","2023","Banking Consultant","n/a"
+"IFB Bancorp,"Inc."","Director","Carlos Singer","Director and Chairman,"Interim CEO"","n/a","2023","Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Victor Laso","Director","Iberoamericana de Fomento","2023","Finance Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Victor Laso","Director","Interamericana de Fomento S.A.","2023","Finance Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Victor Laso","Director","Agropecuaria del Membrillar","2023","Finance Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Victor Laso","Director","Rio Estena S.A.","2023","Finance Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Ana Teresa Arismendi","Senior Managing Director","Cisneros Family Office","2023","Executive","n/a"
+"IFB Bancorp,"Inc."","Director","Carlos Heighes","Independent Financial Advisor","Valor Advisors LLC","2023","Executive","n/a"
+```

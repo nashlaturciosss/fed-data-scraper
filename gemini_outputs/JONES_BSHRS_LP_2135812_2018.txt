@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2018","James C. Jones,"III"","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2018","Patrick C. Jones","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2018","The Jones Company","n/a","n/a","24.90%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2018","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","6.05%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2018","JCJ Investments,"Irrevocable Trust"","n/a","n/a","6.10%","2135812"
+"PrimeSouth Bancshares,"Inc."","Waycross,"GA"","2018","Jones Bancshares,"L.P."","Common Stock","2856","75.24%","n/a"
+"PrimeSouth Bancshares,"Inc."","Waycross,"GA"","2018","J.C. Jones,"Jr."","Common Stock","205","5.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jones Bancshares,"L.P."","Limited Partner","The Jones Company","n/a","n/a","2018","n/a","n/a"
+"Jones Bancshares,"L.P."","Limited Partner","J.C. Jones,"Jr."","Administrator","Jones Company","2018","n/a","n/a"
+"Jones Bancshares,"L.P."","Director/Chairman Emeritus","J.C. Jones,"Jr."","Administrator","Jones Company","2018","n/a","n/a"
+"Jones Bancshares,"L.P."","General Partner","J.C. Jones,"III"","Chairman/CEO","Jones Company","2018","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","Chairman/CEO","J.C. Jones,"III"","Chairman/CEO","Jones Company","2018","n/a","n/a"
+"Jones Bancshares,"L.P."","General Partner","Patrick Jones","Vice President","Jones Company","2018","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","Director/Chairman","Patrick Jones","Vice President","Jones Company","2018","n/a","n/a"
+"Jones Bancshares,"L.P."","n/a","James A. Walker,"Jr."","President","Jones Company","2018","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","n/a","James A. Walker,"Jr."","President","Jones Company","2018","President","n/a"
+"Jones Bancshares,"L.P."","n/a","W. Nick Taylor","n/a","n/a","2018","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","Secretary","W. Nick Taylor","n/a","n/a","2018","n/a","n/a"
+```

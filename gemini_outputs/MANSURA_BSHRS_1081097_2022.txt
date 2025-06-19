@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COTTONPORT BANK","President/CEO/Director/ Chairman of the Board","A.J. Roy III","Mansura Gulf/President/ Director","n/a","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","Dir-Man Inc.","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","Roy & Roy Attorneys","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","DPR Properties","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","MSG LLC","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","Roy Avion LLC","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","Roy Inv. Properties LLC","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","Roy Farm Cabins LLC","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Director/President/CEO of Cport Bank","A.J. Roy III","Mansura Gulf/President/ Director","A.J. Roy III,"Children's Trust Maxwell Bordelon Jr."","2022","Banker/Attorney","473930"
+"COTTONPORT BANK","Shareholder","AJ Roy,"III Children's Trust"","n/a","n/a","2022","Trust","473930"
+"COTTONPORT BANK","Executive Vice President","Keith Miller","n/a","n/a","2022","Banker","473930"
+"COTTONPORT BANK","Vice President & Chief Financial Officer","Minh V. Luu","n/a","n/a","2022","Banker","473930"
+```

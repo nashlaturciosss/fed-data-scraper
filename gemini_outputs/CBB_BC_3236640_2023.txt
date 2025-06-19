@@ -1,19 +1,27 @@
-Here are the requested CSV tables:
+"Here are the two tables extracted from the document","formatted as CSV and adhering to the specified rules:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CBB Bancorp","White","2023","Dwain Montgomery","Common Stock","44,"814"","6.50%"
-"CBB Bancorp","Cartersville","2023","Larry Pogue","Common Stock","48,"464"","7.03%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CBB Bancorp","White,"GA"","2023","Dwain Montgomery","Common Stock","44814","6.50%","n/a"
+"CBB Bancorp","Cartersville,"GA"","2023","Larry Pogue","Common Stock","48464","7.03%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CBB Bancorp","Director","David Caswell","Director and President/COO","Century Bank of Georgia","2023"
-"CBB Bancorp","Director","Richard E. Drews,"Jr."","Director and CEO","Century Bank of Georgia","2023"
-"CBB Bancorp","Director","Danny Gilreath","Director","BMK Services,"LLC"","2023"
-"CBB Bancorp","Director","Thomas Lewis","Director","Century Bank of Georgia","2023"
-"CBB Bancorp","Director","Dwain Montgomery","Director","Century Bank of Georgia","2023"
-"CBB Bancorp","Director","Larry Pogue","Director","Century Bank of Georgia","2023"
-"CBB Bancorp","Director","Ted Perry","Director","Preferred Vascular Services,"LLC"","2023"
-"CBB Bancorp","CFO","William P. Taylor","SVP/CFO","Century Bank of Georgia","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBB Bancorp","Director","David Caswell","n/a","n/a","2023","n/a","n/a"
+"CBB Bancorp","Director and CEO","Richard E. Drews,"Jr."","n/a","n/a","2023","n/a","n/a"
+"CBB Bancorp","Director","Danny Gilreath","President","BMK Services,"LLC"","2023","President Gilreath Carpet,"Inc."","n/a"
+"CBB Bancorp","Director","Danny Gilreath","President","Cottage Leasing Inc.","2023","President Gilreath Carpet,"Inc."","n/a"
+"CBB Bancorp","Director","Danny Gilreath","President","TyDiffy,"LLC"","2023","President Gilreath Carpet,"Inc."","n/a"
+"CBB Bancorp","Director","Danny Gilreath","President","Parkview Leasing,"LLC"","2023","President Gilreath Carpet,"Inc."","n/a"
+"CBB Bancorp","Director","Thomas Lewis","n/a","n/a","2023","Retired","n/a"
+"CBB Bancorp","Director","Dwain Montgomery","n/a","n/a","2023","Retired","n/a"
+"CBB Bancorp","Director","Larry Pogue","n/a","n/a","2023","Retired","n/a"
+"CBB Bancorp","Director","Ted Perry","Surgeon","Preferred Vascular Services,"LLC"","2023","Surgeon Interventional Vascular Services,"LLC"","n/a"
+"CBB Bancorp","Director","Ted Perry","Surgeon","Porter Street Properties,"LLC"","2023","Surgeon Interventional Vascular Services,"LLC"","n/a"
+"CBB Bancorp","SVP/CFO","William P. Taylor","n/a","Sterling Commercial Properties,"LLC"","2023","n/a","n/a"
+"CBB Bancorp","SVP/CFO","William P. Taylor","n/a","Hanging Mountain Farms,"LLC"","2023","n/a","n/a"
+"CBB Bancorp","SVP/CFO","William P. Taylor","n/a","Cloverleaf Medical,"LLC"","2023","n/a","n/a"
+"CBB Bancorp","SVP/CFO","William P. Taylor","n/a","Macon Vascular Services","2023","n/a","n/a"
+"CBB Bancorp","SVP/CFO","William P. Taylor","n/a","DDW Properties,"LLC"","2023","n/a","n/a"
 ```

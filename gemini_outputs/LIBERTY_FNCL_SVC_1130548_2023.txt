@@ -1,0 +1,33 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Financial Services,"Inc."","n/a","2023","Liberty Bank and Trust ESOP","n/a","n/a","16.65%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Alden J. McDonald,"Jr."","n/a","n/a","12.11%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Francis Family Investments,"LLC"","n/a","n/a","15.06%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","George Dimitri","n/a","n/a","4.09%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Sybil H. Morial","n/a","n/a","0.76%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Ronald V. Burns,"Sr."","n/a","n/a","1.80%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Cecil Blache","n/a","n/a","0.67%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Todd McDonald","n/a","n/a","0.81%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","Kim Boyle","n/a","n/a","0.59%","n/a"
+"Liberty Financial Services,"Inc."","n/a","2023","David Francis","n/a","n/a","0.44%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank and Trust","CEO","Alden J. McDonald,"Jr."","CEO","6600 Plaza Square,"LLC"","2023","CEO of Banking Institution","283438"
+"Liberty Bank and Trust","CEO","Alden J. McDonald,"Jr."","CEO","Chart L.L.C.","2023","CEO of Banking Institution","283438"
+"Liberty Bank and Trust","CEO","Alden J. McDonald,"Jr."","CEO","2714 Canal,"LLC"","2023","CEO of Banking Institution","283438"
+"Liberty Bank and Trust","CEO","Alden J. McDonald,"Jr."","CEO","ROChart,"LLC"","2023","CEO of Banking Institution","283438"
+"Liberty Bank and Trust","Chairman & Director","Norman C. Francis","Chairman & Director","n/a","2023","Retired","283438"
+"Liberty Bank and Trust","Director","George Dimitri","Director","n/a","2023","Retired","283438"
+"Liberty Bank and Trust","Director","Sybil H. Morial","Director","n/a","2023","Retired University Administrator","283438"
+"Liberty Bank and Trust","Director","Ronald V. Burns,"Sr."","Director","Burns Management Group","2023","Owner,"Courier Company"","283438"
+"Liberty Bank and Trust","Director","Cecil Blache","Director","Bouree,"LLC"","2023","Attorney","283438"
+"Liberty Bank and Trust","President","Todd McDonald","Director","TM Management Group","2023","Senior Vice President of Banking Institution","283438"
+"Liberty Bank and Trust","Director","Kim Boyle","Director","EBCB Strategies,"LLC"","2023","Attorney","283438"
+"Liberty Bank and Trust","Director","David Francis","Director","DFNA,"LLC"","2023","Media Executive","283438"
+"Liberty Bank and Trust","Director","David Francis","Director","DJF,"LLC"","2023","Media Executive","283438"
+"Liberty Bank and Trust","Director","David Francis","Director","NCD River","2023","Media Executive","283438"
+"Liberty Bank and Trust","Director","David Francis","Director","JDM,"LLC"","2023","Media Executive","283438"
+```

@@ -1,0 +1,28 @@
+Here are the requested extractions in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Colonial Banc Corp","Vero Beach,"FL"","2014","Jeffrey A. Maffett","Common Stock","2407","51.21%","1070040"
+"Oculina Bane Corp","Vero Beach,"FL"","2014","Colonial Banc Corp","Common Stock","987500","70.54%","n/a"
+"Oculina Bane Corp","Vero Beach,"FL"","2014","Jeffrey A. Maffett","Common Stock","73200","5.23%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Colonial Banc Corp","Director & Chairman & President","Jeffrey A. Maffett","Director","ProAlliance","2014","Chm/Pres of Oculina Bank","3218280"
+"Colonial Banc Corp","Director & Chairman & President","Jeffrey A. Maffett","Director","Meadowbrook Ins","2014","Chm/Pres of Oculina Bank","3218280"
+"Colonial Banc Corp","Director","Bernard P. Spearman","n/a","Oculina Banc Corp","2014","Retired Executive from Dayton Adhesive Products","3218280"
+"Colonial Banc Corp","Director","Dale Harrison","n/a","Oculina Banc Corp","2014","Retired Farmer","3218280"
+"Colonial Banc Corp","Director","Robert Fix,"PhD"","Director","ProAlliance","2014","Retired Banker","3218280"
+"Colonial Banc Corp","Director","Robert Fix,"PhD"","Director","Meadowbrook Ins","2014","Retired Banker","3218280"
+"Colonial Banc Corp","Director","Joan G. Kreitzer","n/a","n/a","2014","Retired Banker","3218280"
+"Oculina Bane Corp","Director","Beverly Butt","Vice President","ABC Realty","2014","Realtor","n/a"
+"Oculina Bane Corp","Director","William F. Donovan","CPA","Donovan Fogal (Rental Properties)","2014","CPA","n/a"
+"Oculina Bane Corp","Director","William F. Donovan","CPA","Freedom Investments","2014","CPA","n/a"
+"Oculina Bane Corp","Director","Robert Fix,"PhD"","Director","Meadowbrook Ins","2014","Retired Banker","n/a"
+"Oculina Bane Corp","Director","Dale Harrison","n/a","Oculina Bank","2014","Retired Farmer","n/a"
+"Oculina Bane Corp","Director","Rick Hurley","Director","Becker Holdings Corp","2014","Vice President Becker Holdings","n/a"
+"Oculina Bane Corp","Director","Annette J Maffett","n/a","n/a","2014","Director of Oculina Bank","n/a"
+"Oculina Bane Corp","Director & Chairman & President","Jeffrey A. Maffett","n/a","Oculina Bank","2014","Chm/Pres of Oculina Bank","n/a"
+"Oculina Bane Corp","Director","Bernard P. Spearman","n/a","Oculina Bank","2014","Retired Executive from Dayton Adhesive Products","n/a"
+```

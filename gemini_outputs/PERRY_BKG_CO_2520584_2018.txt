@@ -1,0 +1,17 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Perry Banking Company,"Inc."","Newberry,"FL"","2018","Paul W. Dickert","n/a","13948","31.156%","n/a"
+"Perry Banking Company,"Inc."","Sarasota,"FL"","2018","Mark R. Dickert","n/a","17362","38.783%","n/a"
+"Perry Banking Company,"Inc."","Perry,"FL"","2018","John W. Cruce","n/a","6620","14.788%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Perry Banking Company,"Inc."","Chairman/Director","Mark Dickert","VP/Director","Wilson/Ross","2018","Wilson/Ross","n/a"
+"Perry Banking Company,"Inc."","Director","Paul Dickert","President/Director","Wilson/Ross","2018","Retired","n/a"
+"Perry Banking Company,"Inc."","Director","Paul Dickert","President/Director","Probuilt,"Inc."","2018","Retired","n/a"
+"Perry Banking Company,"Inc."","Director","John W. Cruce","Owner","John A. Cruce,"Inc."","2018","Logging","n/a"
+"Perry Banking Company,"Inc."","President/CEO/Director","Gilbert A. Levy","n/a","n/a","2018","Banking","n/a"
+"Perry Banking Company,"Inc."","Director","Brent Siegel","President","Siegel,"Hughes & Ross PA"","2018","Attorney","n/a"
+"Perry Banking Company,"Inc."","Secretary","Brian Crum","n/a","n/a","2018","Banking","n/a"
+"Perry Banking Company,"Inc."","Treasurer","Nicolle Pack","n/a","n/a","2018","Banking","n/a"
+```

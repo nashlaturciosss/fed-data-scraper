@@ -1,0 +1,30 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2016","William Larkin Coker","Common Capital","39500","5.67%","1135356"
+"FirstBanc of Alabama,"Inc."","U.S.A","2016","B. U.S.A.","n/a","n/a","n/a","1135356"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Chairman / Director","William Larkin Coker","Chairman","First Bank of Alabama","2016","Industrialist","1135356"
+"FirstBanc of Alabama,"Inc."","President","William Larkin Coker","n/a","Alabama Bag Co.","2016","Industrialist","1135356"
+"FirstBanc of Alabama,"Inc."","Director","Allen C. Jacobs,"Jr."","Director","First Bank of Alabama","2016","Merchant","1135356"
+"FirstBanc of Alabama,"Inc."","President","Allen C. Jacobs,"Jr."","n/a","Brannon's Inc.","2016","Merchant","1135356"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","Director","First Bank of Alabama","2016","Merchant","1135356"
+"FirstBanc of Alabama,"Inc."","President","Andrew Brown,"III"","n/a","Brown Lumber and Building Supply","2016","Merchant","1135356"
+"FirstBanc of Alabama,"Inc."","Director","Julian M. King","Director","First Bank of Alabama","2016","Circuit Judge","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Julian M. King","n/a","Tri B Associates,"LLC"","2016","Circuit Judge","1135356"
+"FirstBanc of Alabama,"Inc."","Director","Tommy Spears","Director","First Bank of Alabama","2016","Pharmacist - Retired","1135356"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Director","First Bank of Alabama","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","Owner / President","Richard F. Barber","n/a","Barber Properties","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Richard F. Barber","n/a","Mini Storage,"LLC"","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Richard F. Barber","n/a","Woodland Hills,"LLC"","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Richard F. Barber","n/a","R. T. Barber Properties,"LLC"","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Richard F. Barber","n/a","Barber Properties","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Richard F. Barber","n/a","RBJR,"LLC"","2016","Owner / Operator of Real Estate Holding Company","1135356"
+"FirstBanc of Alabama,"Inc."","Director and President","Jonathan Chad Jones","Director,"CEO and President"","First Bank of Alabama","2016","Bank Officer","1135356"
+"FirstBanc of Alabama,"Inc."","n/a","Jonathan Chad Jones","n/a","New Direction Development","2016","Bank Officer","1135356"
+"FirstBanc of Alabama,"Inc."","CFO","Chad Miller Thomas","CFO and Senior Vice President","First Bank of Alabama","2016","Bank Officer","1135356"
+```

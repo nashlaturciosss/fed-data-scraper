@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Beallsville,"MD"","2015","Patricia Brown","Common Stock","6123","13.88%","n/a"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2015","Charles F. Harper","Common Stock","12659","28.69%","n/a"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2015","Clementine B. Harper","Common Stock","6903","15.65%","n/a"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2015","Dr. Ray H. McLaughlin","Common Stock","4848","10.99%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Commercial Bank of Ozark","Dir.,"Chrmn. & President"","Charles F. Harper","Dir.,"Chrmn. & President"","n/a","2015","N/A","522034"
+"The Commercial Bank of Ozark","Director","Clementine B. Harper","Director","Brown Real Estate Co.,"Inc."","2015","Retired","522034"
+"The Commercial Bank of Ozark","Director","Ray H. McLaughlin","Director","n/a","2015","Dentist","522034"
+"The Commercial Bank of Ozark","Director","Larry W. Ezell","Director","n/a","2015","N/A","522034"
+"The Commercial Bank of Ozark","Vice President","Christopher S. Harper","Director","n/a","2015","N/A","522034"
+"The Commercial Bank of Ozark","Vice President","Charles D. Harper","Director","n/a","2015","N/A","522034"
+"The Commercial Bank of Ozark","Director","W. Miach McNab","President/Owner","W. Miach McNab","2015","CPA","522034"
+"The Commercial Bank of Ozark","Director","W. E. Blackwell,"Jr."","Director","n/a","2015","Mayor","522034"
+"The Commercial Bank of Ozark","Director","Robert H. Brogden","Director","Brogden Law Firm","2015","Attorney","522034"
+"The Commercial Bank of Ozark","Director","Bobby G. Snell","Partner","Ozark Veterinary Clinic","2015","Veterinarian","522034"
+"The Commercial Bank of Ozark","Director","Michael V. Brauer","CEO","Brauer Aerospace Products","2015","Entrepreneur","522034"
+"The Commercial Bank of Ozark","Director","Patricia Brown","Prin. Shareholder","n/a","2015","School Teacher","522034"
+```

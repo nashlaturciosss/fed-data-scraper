@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"One South Financial,"Inc."","Dalton,"GA"","2015","Anne S. Hammack","Individually Owned","7386","8.64%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","Anne S. Hammack","Voting Control","2330","8.64%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","Anne S. Hammack","Joint Owner","3440","8.64%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","Anne S. Hammack","Voting Control","1250","8.64%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","Anne S. Hammack","Voting Control","1250","8.64%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","James Albert Hammack","Individually Owned","185","7.45%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","James Albert Hammack","Voting Control","10170","7.45%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2015","James Albert Hammack","Voting Control","3155","7.45%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"One South Financial,"Inc."","Director","Thomas A. Beaty","Director","n/a","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","Garrett N. Bennett","Physician","Blakely Medical Group","2015","Physician","n/a"
+"One South Financial,"Inc."","Director","Patricia M. Cleveland","n/a","n/a","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","D. Ronald Davis","Director","Panhandle Auctions,"Inc."","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","D. Ronald Davis","Director","Peanut Growers Association","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","Eugene H. Giles","n/a","n/a","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","Richard D. Grist. Jr.","Oil Jobber","Grist Oil Co.","2015","Oil Jobber","n/a"
+"One South Financial,"Inc."","Director","Alfred D. Guettler","Director","Guettler & Guettler,"Inc."","2015","Highway construction business","n/a"
+"One South Financial,"Inc."","Chairman","J. Albert Hammack","President","Jolly Textiles,"Inc."","2015","President,"Jolly Textiles","Inc."","n/a"
+"One South Financial,"Inc."","Director","James Stephen Singletary","Chairman of Board","Singletary Properties,"LLC"","2015","Farmer","n/a"
+"One South Financial,"Inc."","Director","William A. Smith","Farmer","Cherokee Rose Farm","2015","Farmer","n/a"
+"One South Financial,"Inc."","Director","Jack H. Sutton","n/a","n/a","2015","Retired","n/a"
+"One South Financial,"Inc."","Director","F.C. Wiggins","Vice Chairman","n/a","2015","None","n/a"
+"One South Financial,"Inc."","CEO & Director","Kim Davis Wilson","President,"CEO & Chairman of Board"","n/a","2015","None","n/a"
+```

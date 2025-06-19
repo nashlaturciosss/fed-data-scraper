@@ -1,23 +1,24 @@
+Here are the requested CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Georgia Banking Company","Cochran","2020","Jo Anne Phillips Ard","Common Stock","13","7.18%"
-"Central Georgia Banking Company","Cochran","2020","Marcella P. Cochran","Common Stock","13","7.18%"
-"Central Georgia Banking Company","Cochran","2020","Anne Phillips Davis","Common Stock","17","9.39%"
-"Central Georgia Banking Company","Cochran","2020","Randi M. Phillips","Common Stock","17","9.39%"
-"Central Georgia Banking Company","Cochran","2020","Leo L. Phillips,"III"","Common Stock","17","9.39%"
-"Central Georgia Banking Company","Cochran","2020","Kathryn P. Collier","Common Stock","13","7.18%"
-"Central Georgia Banking Company","Cochran","2020","Leo L. Phillips,"Jr."","Common Stock","23","12.71%"
-"Central Georgia Banking Company","Cochran","2020","John R. Phillips","Common Stock","35","19.34%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Jo Anne Phillips Ard","Common Stock","13","7.18%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Marcella P. Cochran","Common Stock","13","7.18%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Anne Phillips Davis","Common Stock","17","9.39%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Randi M. Phillips","Common Stock","17","9.39%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Leo L. Phillips,"III"","Common Stock","17","9.39%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Kathryn P. Collier","Common Stock","13","7.18%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","Leo L. Phillips,"Jr."","Common Stock","23","12.71%","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","COCHRAN,"GA"","2020","John R. Phillips","Common Stock","35","19.34%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Director/Chairman","Cochran Oil Mill & Ginnery","2020"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Director/Chairman","Phillips & Phillips,"Attorney at Law"","2020"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Director/Chairman","Phillips Farm","2020"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Cochran Oil Mill & Ginnery","2020"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Phillips & Phillips,"Attorney at Law"","2020"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Phillips Farm","2020"
-"Central Georgia Banking Company","President","Jackie L. Bowen","President","n/a","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Chairman","John R. Phillips","Director/Chairman","Cochran Oil Mill & Ginnery","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Chairman","John R. Phillips","Partner","Phillips & Phillips,"Attorney"","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Chairman","John R. Phillips","Partner","Phillips Farm","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Secretary","Leo L. Phillips,"Jr."","President","Cochran Oil Mill & Ginnery","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips & Phillips,"Attorney"","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips Farm","2020","Attorney/Businessman","n/a"
+"CENTRAL GEORGIA BANKING COMPANY","President","Jackie L. Bowen","n/a","n/a","2020","Bank President","n/a"
 ```

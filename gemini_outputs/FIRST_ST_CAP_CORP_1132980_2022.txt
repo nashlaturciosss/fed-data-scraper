@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST STATE CAPITAL CORPORATION","President,"CEO","Director"","Steve Foster","Owner","Foster Farms","2022","Bank President","n/a"
+"FIRST STATE CAPITAL CORPORATION","EVP,"CFO","Director","Secretary"","Carlton DeVaughn","EVP/Sr. CFO","FirstState Bank","2022","Bank Vice President","n/a"
+"FIRST STATE CAPITAL CORPORATION","Chairman","Don Hogan","Director","FirstState Bank","2022","Pharmacist","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","JoAnne Blair","Director","FirstState Bank","2022","Education","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Doyle L Phillips","Director","FirstState Bank","2022","Farmer","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","James E. Malone","Director","FirstState Bank","2022","Judge","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Anna Marie Rush","Partner","Double Branch Farms","2022","Farmer","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Anna Marie Rush","Partner","The Mountian,"LLC"","2022","Farmer","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Donald Harris","Partner","Harris Plumbing & Electric","2022","Electrical/Plumbing Supply","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Donald Harris","Partner","Harris Properties","2022","Electrical/Plumbing Supply","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Larry Raughton","Owner","L&S Equipment Sales","2022","Farmer","n/a"
+```

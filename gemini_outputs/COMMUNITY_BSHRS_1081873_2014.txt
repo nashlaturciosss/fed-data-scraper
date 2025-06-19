@@ -1,0 +1,33 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2014","George W. Baker,"Jr."","Common Stock","641115","16.27%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2014","E. David Hart,"Jr."","Common Stock","396238","10.06%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2014","C. Christopher Joseph","Common Stock","659115","16.73%","n/a"
+"Community Bankshares,"Inc."","Union Springs,"AL"","2014","Thomas May","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","Gainsville,"GA"","2014","Thomas W. Sheffield","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2014","William R. Stump,"Jr."","Common Stock","653095","16.58%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2014","Nancy H. Stovall","Common Stock","320695","8.14%","n/a"
+"Community Bankshares,"Inc."","Prattville,"AL"","2014","Roger Townley","Common Stock","641125","16.27%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2014","Wingate Family","Common Stock","501000","12.72%","n/a"
+"Community Bankshares,"Inc."","Montgomery,"AL"","2014","Joe Breeding","Common Stock","641125","16.27%","n/a"
+"Community Bankshares,"Inc."","Union Springs,"AL"","2014","Dave G. Bryant","Common Stock","464415","16.41%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2014","J. Roy Spinks,"III"","n/a","662115","16.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","Director","George W. Baker,"Jr."","n/a","n/a","2014","Dentist","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder","E. David Hart,"Jr."","President","Mountville Mills,"Inc."","2014","President/Mountville Mills,"Inc. (Mfg)"","n/a"
+"Community Bankshares,"Inc."","Director","C. Christopher Joseph","Partner","Gay & Joseph,"PC"","2014","CPA","n/a"
+"Community Bankshares,"Inc."","Director","Thomas May","n/a","n/a","2014","Retired","n/a"
+"Community Bankshares,"Inc."","President & CEO Director","William R. Stump,"Jr."","n/a","Community Bankshares,"Inc."","2014","n/a","n/a"
+"Community Bankshares,"Inc."","Director","Roger Townley","n/a","n/a","2014","Retired","n/a"
+"Community Bankshares,"Inc."","Director","Thomas W. Sheffield","n/a","n/a","2014","Retired","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder","Linda H. Wingate","n/a","n/a","2014","Retired","n/a"
+"Community Bankshares,"Inc."","EVP/AL Division","Dave G. Bryant","n/a","n/a","2014","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & Chief Credit Officer","George H. Riddle,"III"","n/a","n/a","2014","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & CFO","Emily A. Lowery","n/a","n/a","2014","n/a","n/a"
+"Community Bankshares,"Inc."","SVP,"Corp Sec. & Dir. HR"","Kay L. Carlisle","n/a","n/a","2014","n/a","n/a"
+```

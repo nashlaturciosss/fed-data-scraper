@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","n/a","2023","Jacob M. Mullins","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","William E. St. John,"III"","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Gary L. Clements","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","T. Matthew Fridy","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Ronnie D. Moore","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Ben G. Richardson","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Danny L. Estes","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Charles W. Orr","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","Mickey A. Glassford","n/a","n/a","n/a","n/a"
+"FCB Bancshares,"Inc."","n/a","2023","John P. Jones","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Bancshares,"Inc."","President & Chief Executive Officer","Jacob M. Mullins","n/a","n/a","2023","n/a","n/a"
+"FCB Bancshares,"Inc."","Executive Vice President & Chief Credit Officer","William E. St. John,"III"","n/a","n/a","2023","n/a","n/a"
+"FCB Bancshares,"Inc."","Executive Vice President & Chief Financial Officer","Gary L. Clements","n/a","n/a","2023","n/a","n/a"
+"FCB Bancshares,"Inc."","Director","T. Matthew Fridy","Attorney","Fridy Law Firm,"LLC"","2023","Attorney","n/a"
+"FCB Bancshares,"Inc."","Director","Ronnie D. Moore","Executive Vice President & Chief Financial Officer","Moore Oil Company,"Inc"","2023","Executive Vice President & Chief Financial Officer","n/a"
+"FCB Bancshares,"Inc."","Director","Ben G. Richardson","Owner","Ben Richardson Farms","2023","Owner","n/a"
+"FCB Bancshares,"Inc."","Director","Danny L. Estes","Retired","n/a","2023","Retired","n/a"
+"FCB Bancshares,"Inc."","Director","Charles W. Orr","President","Charles W. Orr Auction Services,"LLC"","2023","Auctioneer","n/a"
+"FCB Bancshares,"Inc."","Director","Mickey A. Glassford","Owner","Glassford Properties,"LLC"","2023","Commercial Real Estate Developer","n/a"
+"FCB Bancshares,"Inc."","Director","John P. Jones","President","Tribal Construction,"LLC"","2023","President","n/a"
+```

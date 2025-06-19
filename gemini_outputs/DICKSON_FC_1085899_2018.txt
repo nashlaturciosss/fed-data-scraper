@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2018","Donald Richardson","common stock","5085","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2018","Carney B. Nicks,"Trust-"","common stock","17540","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2018","Donald Richardson,"Trustee"","common stock","646","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2018","CEDE & Co./Depository Trust Co.","common stock","23271","6.03%","1085899"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director","Jeff Corlew","Partner","C&I Design,"Inc"","2018","Construction Project Manager","1085899"
+"Dickson Financial Corporation","Director","Steve DeLoach","Owner","Center of Dental Excellence","2018","Dentistry","1085899"
+"Dickson Financial Corporation","Director","Tommy Marvin","Pres.","Taylor Funeral Home,"Inc."","2018","Mortician","1085899"
+"Dickson Financial Corporation","Director","Wayne McIntire","n/a","n/a","2018","Retired","1085899"
+"Dickson Financial Corporation","Director,"Chairman"","Tommy Nicks","n/a","n/a","2018","Chairman & Trust Officer Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","James E. Peeler","n/a","n/a","2018","Retired","1085899"
+"Dickson Financial Corporation","Director","Dale Ragan","n/a","n/a","2018","Real Estate Broker","1085899"
+"Dickson Financial Corporation","Director,"President & CEO"","Donald Richardson","n/a","n/a","2018","President & CEO Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","David Shepard","President","Shepard Properties,"Inc"","2018","Pharmacist","1085899"
+"Dickson Financial Corporation","Director","Jamie Snyder","n/a","n/a","2018","COO Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","Donnie Weiss","n/a","n/a","2018","Sales Representative","1085899"
+```

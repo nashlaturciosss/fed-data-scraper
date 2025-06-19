@@ -1,0 +1,25 @@
+Here are the requested tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2019","Paul Ray Estate","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2019","Max Ray","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2019","Delmo Payne","Common Stock","136144","17.02%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2019","Gerald Terrell","Common Stock","149013","18.63%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Trust Bank","Director","Charles Babb","n/a","n/a","2019","Retired","n/a"
+"Peoples Trust Bank","Director","Harold Hulsey","Owner","Hulsey Logging","2019","Hulsey Logging CEO","n/a"
+"Peoples Trust Bank","Director","Harold Hulsey","Owner","Grand Trucking","2019","Hulsey Logging CEO","n/a"
+"Peoples Trust Bank","Director","Johnny Mack Lawler","CPA","Guin & Parrish CPA","2019","Lawler & Cole,"CPA"","n/a"
+"Peoples Trust Bank","Director","Delmo Payne","n/a","Big One Travel","2019","Retired","n/a"
+"Peoples Trust Bank","Director","Delmo Payne","n/a","1st Quality Homes","2019","Retired","n/a"
+"Peoples Trust Bank","Director","Max Ray","Advisor","Northwest Shoals Advisor","2019","Retired","n/a"
+"Peoples Trust Bank","Director","Gerald Terrell","n/a","Big One Travel","2019","Retired","n/a"
+"Peoples Trust Bank","Director","Gerald Terrell","n/a","1st Quality Homes","2019","Retired","n/a"
+"Peoples Trust Bank","Director and President","Randy Whitehead","n/a","n/a","2019","PeoplesTrust Bank CEO","n/a"
+"Peoples Trust Bank","Secretary","Rebecca Cummings","n/a","n/a","2019","Peoples Trust Bank Chief Operations Officer","n/a"
+"Peoples Trust Bank","Director","Eric Poe","Senior Loan Officer","n/a","2019","Peoples Trust Bank Senior Loan Officer","n/a"
+```

@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2016","Floyd Davis Family Partnership","Common Stock","120050","23.08%","2804855"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2016","Floyd C. Davis,"Sr."","Common Stock","68400","13.15%","2804855"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2016","Angela G. Davis","Common Stock","54650","10.51%","2804855"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2016","Debbie Meadows","Common Stock","27228","5.24%","2804855"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2016","Eugene Wortham","Common Stock","26017","5.00%","2804855"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"East Alabama Financial Group,"Inc."","Director & Chairman of the Board","Floyd C. Davis,"Sr."","Owner","DCL,"Inc."","2016","Manufacturing","2804855"
+"East Alabama Financial Group,"Inc."","Director & Chairman of the Board","Floyd C. Davis,"Sr."","Partner","Floyd C. Davis Family Partnership","2016","Manufacturing","2804855"
+"East Alabama Financial Group,"Inc."","Director","Phil Meadows","Owner","Meadow Farm Equipment","2016","Farm Equipment","2804855"
+"East Alabama Financial Group,"Inc."","Director","Barry Messer","Partner","Wedowee Building Supplies Co","2016","Building Supplies","2804855"
+"East Alabama Financial Group,"Inc."","Director,"Executive Vice President"","Harold T. Heard","n/a","n/a","2016","Banking","2804855"
+"East Alabama Financial Group,"Inc."","Director","Lewis Beavers","Partner","Lawrence,"See & Beavers"","2016","Accounting","2804855"
+"East Alabama Financial Group,"Inc."","Director","Darcilla Richardson","Manager","Millwork Sales & Salvage","2016","Manufacturing","2804855"
+"East Alabama Financial Group,"Inc."","Director","Debbie Meadows","Partner","Wright Way","2016","Banking","2804855"
+"East Alabama Financial Group,"Inc."","Director","Terry Wiley","VP","Jeld-Wen Manufacturing","2016","Manufacturing","2804855"
+"East Alabama Financial Group,"Inc."","n/a","Floyd Davis Family Partnership","n/a","n/a","2016","None","2804855"
+"East Alabama Financial Group,"Inc."","Director,"President/CEO"","Alan Hubbard","n/a","n/a","2016","Banking","2804855"
+"East Alabama Financial Group,"Inc."","n/a","Angela Davis","n/a","n/a","2016","Retired","2804855"
+```

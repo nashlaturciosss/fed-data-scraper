@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2018","Sherrian McDaniel Logan","common stock","15376.00","48%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2018","Dana M. Peoples","common stock","14012.00","43%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2018","Jimmy Burleson","common stock","2697.00","9%","n/a"
+"Peoples Bancorporation,"Inc."","Guin,"AL"","2018","Estate of Donald E. Bussey","common stock","14694.00","23%","n/a"
+"Peoples Bancorporation,"Inc."","Guin,"AL"","2018","Brenda J. Bussey","common stock","14694.00","23%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Marketing Director & Director","Sherrian M. Logan","n/a","n/a","2018","n/a","n/a"
+"Peoples Bancorporation,"Inc."","CEO,"President","& Director"","Dana M. Peoples","n/a","n/a","2018","n/a","n/a"
+"Peoples Bancorporation,"Inc."","CFO & Director","Collins Davis","n/a","n/a","2018","n/a","n/a"
+"Peoples Bancorporation,"Inc."","COO,"Cashier","& Director"","Sally Holloway","n/a","n/a","2018","n/a","n/a"
+```

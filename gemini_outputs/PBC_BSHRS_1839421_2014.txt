@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBC BANCSHARES,"INC."","Pelham,"GA"","2014","W. C. Bernier","Common","1380.00","8.30%","n/a"
+"PBC BANCSHARES,"INC."","Pelham,"GA"","2014","J. Leonard Eubanks","Common","1077.25","8.04%","n/a"
+"PBC BANCSHARES,"INC."","Pelham,"GA"","2014","J. Leonard Eubanks Marital Trust","Common","128.00","8.04%","n/a"
+"PBC BANCSHARES,"INC."","Thomasville,"GA"","2014","Karen S. Leabo","Common","843.00","5.62%","n/a"
+"PBC BANCSHARES,"INC."","Thomasville,"GA"","2014","Richard L. Singletary","Common","843.00","5.62%","n/a"
+"PBC BANCSHARES,"INC."","Pelham,"GA"","2014","Charles J. Yates","Common","2278.00","15.19%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBC BANCSHARES,"INC."","President Director","Suzanne T. Anderson","n/a","n/a","2014","n/a","n/a"
+"PBC BANCSHARES,"INC."","Corporate Secretary & Director","G. Duane Bentley","Vice President Director","n/a","2014","n/a","n/a"
+"PBC BANCSHARES,"INC."","Director","J. Elmer Conley,"Jr."","n/a","n/a","2014","Retired","n/a"
+"PBC BANCSHARES,"INC."","Director","Betty S. Palmer","n/a","n/a","2014","Retired","n/a"
+"PBC BANCSHARES,"INC."","Director & Chairman","Charles J. Yates","n/a","n/a","2014","Retired","n/a"
+"PBC BANCSHARES,"INC."","Director","J Keaton Eubanks","n/a","Farmer & Pulpwood Business.","2014","Farmer & Pulpwood Business.","n/a"
+"PBC BANCSHARES,"INC."","Director","Donnie L Palmer","n/a","n/a","2014","Retail","n/a"
+```

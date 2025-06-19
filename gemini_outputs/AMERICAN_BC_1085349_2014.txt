@@ -1,19 +1,23 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2014","The Diesi Family Trusts","Common Stock","16000","20.21%"
-"American Bancorp,"Inc."","Opelousas","2014","Ronald J. Lashute","Common Stock","17755","22.43%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2014","The Diesi Family Trusts","Common Stock","16000","20.21%","1085349"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2014","Ronald J. Lashute","Common Stock","17755","22.43%","1085349"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","Director","The Diesi Family Trust","n/a","n/a","2014"
-"American Bancorp,"Inc."","Director","Samuel C. Diesi","Director","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","President & CEO of Company","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2014"
-"American Bancorp,"Inc."","CFO,"Secretary & Treasurer"","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2014"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","American Bank & Trust Company","2014","Farmer","1085349"
+"American Bancorp,"Inc."","n/a","Elaine E. Diesi","Secretary and Treasurer","Little Capitol of Louisiana,"Inc."","2014","n/a","1085349"
+"American Bancorp,"Inc."","n/a","Elaine E. Diesi","Secretary and Treasurer","Diesi Development Corporation","2014","n/a","1085349"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Joseph W. Diesi","President","Little Capitol of Louisiana,"Inc."","2014","Independent Land Man","1085349"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Joseph W. Diesi","Vice President","Diesi Development Corporation","2014","Independent Land Man","1085349"
+"American Bancorp,"Inc."","Director","The Diesi Family Trust","None","n/a","2014","n/a","1085349"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2014","Clergy","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc."","2014","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Haynes Family Funerals,"Inc."","2014","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","CoB Williams Progressive Life Insurance Company","2014","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","n/a","n/a","2014","Clerk of Court of St. Landy Parish of Louisiana","1085349"
+"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","n/a","n/a","2014","n/a","1085349"
+"American Bancorp,"Inc."","CFO,"Secretary & Treasurer"","George H. Comeau","n/a","n/a","2014","n/a","1085349"
 ```

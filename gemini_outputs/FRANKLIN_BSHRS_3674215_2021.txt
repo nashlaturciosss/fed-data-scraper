@@ -1,0 +1,34 @@
+"Okay","here are the requested CSV tables","extracted from the provided document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin Bancshares,"Inc."","Rockville,"MD"","2021","Danielle Reaves Bush","Common Stock","60000","12.18%","n/a"
+"Franklin Bancshares,"Inc."","Ridgeland,"MS"","2021","Wade H. Creekmore,"Jr."","Common Stock","50000","10.15%","n/a"
+"Franklin Bancshares,"Inc."","Annapolis,"MD"","2021","Dorothea Bush Frye","Common Stock","60000","12.18%","n/a"
+"Franklin Bancshares,"Inc."","Natchez,"MS"","2021","A. Vidal Davis","Common Stock","29680","6.03%","n/a"
+"Franklin Bancshares,"Inc."","McLean,"VA"","2021","Blake M. Grady","Common Stock","26475","5.38%","n/a"
+"Franklin Bancshares,"Inc."","McLean,"VA"","2021","Harrison E. Grady","Common Stock","26475","5.38%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Bancshares,"Inc."","CEO,"President/Director"","Bradley B. Jones","Member","Sandbar Land & Timber,"LLC"","2021","N/A","n/a"
+"Franklin Bancshares,"Inc."","Director","Dorothea Bush Frye","President","Rio Vista Properties","2021","N/A","n/a"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/","D.R. McGehee Ins Agy","2021","Insurance Agent","n/a"
+"Franklin Bancshares,"Inc."","Vice-Chairman/ Director","Edmund E. Prestridge","n/a","n/a","2021","N/A","n/a"
+"Franklin Bancshares,"Inc."","Director","Daniel M. Scarbrough","Medical Director","Community Health Systems,"Inc."","2021","Medical Doctor","n/a"
+"Franklin Bancshares,"Inc."","N/A","Danielle Reaves Bush","n/a","Rio Vista Properties","2021","Design Build Assistant","n/a"
+"Franklin Bancshares,"Inc."","Director","Thomas D. Griffin","n/a","n/a","2021","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Steven West","n/a","n/a","2021","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Mary Helen Miller","Owner","MW2,"LLC"","2021","CPA","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Franklin Telephone","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Callis Communications,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Telapex","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Cellular South,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Telepak Networks,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","TekLinks,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Cellular South Partner,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Cellular South Real Estate,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Troy Cablevision,"Inc."","2021","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","Union Spring Telephone Co.,"Inc."","2021","Telecomm","n/a"
+```

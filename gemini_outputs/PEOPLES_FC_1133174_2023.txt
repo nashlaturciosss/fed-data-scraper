@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Financial Corporation","New York,"NY"","2023","Joseph Stilwell","n/a","594158","12.75%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2023","Thomas E. Quave","n/a","391837","8.41%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2023","A. Tanner Swetman","n/a","865871","18.57%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2023","Chevis C. Swetman","n/a","473829","10.16%","n/a"
+"Peoples Financial Corporation","Greenwich,"CT"","2023","Jeffrey L. Gendell","n/a","464816","9.97%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Financial Corporation","Chairman,"President & CEO"","Chevis C. Swetman","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Director","Ronald G. Barnes","n/a","Coast Electric Power Association","2023","Businessman","n/a"
+"Peoples Financial Corporation","Director","Padrick D. Dennis","Vice President","Specialty Contractors and Associates,"Inc."","2023","Businessman","n/a"
+"Peoples Financial Corporation","Director","George J. Sliman,"III"","President","SunStates Holdings,"Inc."","2023","Businessman","n/a"
+"Peoples Financial Corporation","Director","Jeffrey H. O'Keefe","Chief Executive Officer","O'Keefe Properties,"LLC"","2023","Businessman","n/a"
+"Peoples Financial Corporation","Director","Jeffrey H. O'Keefe","n/a","Bradford-O'Keefe Funeral Home,"Inc."","2023","Businessman","n/a"
+"Peoples Financial Corporation","Director","Paige R. Riley","Owner","Hillyer House Gallery","2023","Businesswoman","n/a"
+"Peoples Financial Corporation","Executive Vice President","A. Wes Fulmer","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Second Vice President","J. Patrick Wild","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Vice President","Christy N. Ireland","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Vice President","Andrew Tanner Swetman","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Vice President and Secretary","Brian J. Kozlowski","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","Vice President and Cashier","Leslie B. Fulton","n/a","n/a","2023","Banker","n/a"
+"Peoples Financial Corporation","n/a","Joseph Stilwell","n/a","Stilwell Value Partners VII","2023","Investment activist","n/a"
+"Peoples Financial Corporation","n/a","Joseph Stilwell","n/a","Stilwell Activist Fund","2023","Investment activist","n/a"
+"Peoples Financial Corporation","n/a","Joseph Stilwell","n/a","Stilwell Activist Investments","2023","Investment activist","n/a"
+"Peoples Financial Corporation","n/a","Joseph Stilwell","n/a","Stilwell Value LLC","2023","Investment activist","n/a"
+```

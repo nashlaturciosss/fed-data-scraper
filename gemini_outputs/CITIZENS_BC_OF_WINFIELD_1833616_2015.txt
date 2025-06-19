@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2015","Russell Carothers (William R Carothers II)","Class A Common Stock","1162","46%","1833614"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2015","Robert L. Carothers","Class A Common Stock","1030","40%","1833614"
+"Citizens Bancorp of Winfield,"Inc."","Tuscaloosa,"AL"","2015","William A. Hill,"Jr."","Class A Common Stock","132","5%","1833614"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Chairman & CEO"","Russell Carothers","n/a","n/a","2015","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Vice President","Robert L. Carothers","n/a","n/a","2015","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman & President"","Christian Hill Carothers","n/a","n/a","2015","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","M. L. Hamric","n/a","n/a","2015","retired banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","retired Comptroller","Continental Conveyor & Equipment Co","2015","retired manufact. comptroller","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","C. E. Bryant,"Jr."","retired President","Continental Conveyor & Equipment Co","2015","retired manufact. president","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Retired CFO","Baymont Inc. Mississippi","2015","Retired manufact. CFO","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","Retail","Spann Hardware","2015","Retail business","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","Cardiologist","Cardiology Consultants","2015","Physician","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Corporate Sec","Tamra P Trull","n/a","n/a","2015","banker","293437"
+```

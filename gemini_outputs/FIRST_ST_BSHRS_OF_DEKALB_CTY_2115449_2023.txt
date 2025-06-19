@@ -1,0 +1,14 @@
+Here are the two CSV tables in the requested format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","n/a","2023","James T. Jones,"Jr."","n/a","n/a","n/a","n/a"
+"First State Bancshares of DeKalb County,"Inc."","n/a","2023","Carolyn S. Jones","n/a","n/a","n/a","n/a"
+"First State Bancshares of DeKalb County,"Inc."","n/a","2023","Elizabeth Jones McGehee","n/a","n/a","n/a","n/a"
+"First State Bancshares of DeKalb County,"Inc."","n/a","2023","Margaret J. Ford","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","Secretary","James T. Jones,"Jr."","Attorney","Constangy,"Brooks","Smith & Prophete","LLP"","2023","n/a","n/a"
+```

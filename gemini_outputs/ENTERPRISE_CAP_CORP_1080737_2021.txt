@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Citizens Bank","Enterprise,"AL"","2021","William Henry Carr","Common Stock","3123.5","16.53%","n/a"
+"The Citizens Bank","Statesville,"NC"","2021","Jerry Newman Carr","Common Stock","3125.5","16.54%","n/a"
+"The Citizens Bank","Enterprise,"AL"","2021","Charles E. Jones(Deceased)","Common Stock","2919","15.45%","n/a"
+"The Citizens Bank","Birmingham,"AL"","2021","Mary F. Weatherford Haines","Common Stock","2340","12.39%","n/a"
+"The Citizens Bank","Enterprise,"AL"","2021","Martha E. Weatherford Williams","Common Stock","2339","12.38%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Enterprise Capital Corporation","Secretary & Director","Kelly F. Jones","Director","ESCC Foundation","2021","Bank Executive","n/a"
+"Enterprise Capital Corporation","Vice President & Director","Charles E. Jones","President/Director","Sunny South Mobile Villa,"Inc"","2021","Retired Bank Executive","n/a"
+"Enterprise Capital Corporation","Vice President & Director","Charles E. Jones","Vice Pres/Director","Daleco,"Inc"","2021","Retired Bank Executive","n/a"
+"Enterprise Capital Corporation","Vice President & Director","Charles E. Jones","President/Director","J&K Construction Co,"Inc"","2021","Retired Bank Executive","n/a"
+"Enterprise Capital Corporation","President/CEO","James H. Weatherford","Member","Southeast Land,"LLC"","2021","Attorney at law","n/a"
+"Enterprise Capital Corporation","President/CEO","James H. Weatherford","Partner","Weatherford & Williams,"LLP"","2021","Attorney at law","n/a"
+"Enterprise Capital Corporation","Director","Martha E. Weatherford Williams","Partner","Weatherford & Williams,"LLP"","2021","Attorney at law","n/a"
+"Enterprise Capital Corporation","Director","Shannon Carr Chancey","Partner","DCE Farms,"LLC"","2021","Homemaker","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2017","William Heavener,"Individually"","Common Stock","8694951","1.41%","n/a"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2017","William Heavener,"Individually"","Common Stock","323870468","52.49%","n/a"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL"","2017","James T Katsur","Common Stock","74727065","12.11%","n/a"
+"Florida Capital Group,"Inc."","Tampa,"FL"","2017","W. Andrew Krusen,"Jr."","Common Stock","43889903","7.11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Group,"Inc."","Director","Charles E. Hughes,"Jr."","Director","n/a","2017","Retired Banking Executive"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","President","Spartan Development Grp Inc","2017","Real Estate Developer"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Managing Member","n/a","2017","Real Estate Developer"
+"Florida Capital Group,"Inc."","Director & CEO","J. Malcolm Jones,"Jr."","President & Owner","n/a","2017","Private Investor"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","Dominion Financial Group,"Inc."","2017","Private Investor"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","Black Diamond Exploration,"Inc."","2017","Private Investor"
+"Florida Capital Group,"Inc."","Director","P. Bruce Culpepper","Director","Culpepper Kurland,"PLLC"","2017","Attorney"
+"Florida Capital Group,"Inc."","Director","M.G. Sanchez","n/a","n/a","2017","Retired Banking Executive/ Consultant"
+"Florida Capital Group,"Inc."","Director","James W. Heavener","President/Owner","The Heavener Company","2017","Investor"
+"Florida Capital Group,"Inc."","Director","Linda McGurn","Officer & Director","McGurn Investment Company","2017","Attorney / CPA"
+"Florida Capital Group,"Inc."","Director","James T. Katsur","Officer & Director","Katsur Management Group,"Inc."","2017","n/a"
+"Florida Capital Group,"Inc."","Director","Mark Johnson","President and Director","n/a","2017","n/a"
+"Florida Capital Group,"Inc."","Director","Glenn W. Jones,"Jr."","CFO/Fintech","FinTech","2017","Investor"
+"Florida Capital Group,"Inc."","Director","Alexander M. Crenshaw","Director","n/a","2017","Investor"
+"Florida Capital Group,"Inc."","Secretary and CFO","T. Keith Perry","EVP and CFO","n/a","2017","n/a"
+```

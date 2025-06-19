@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"IFB BANCORP,"INC."","n/a","2022","Guillermo Fierro Eleta","n/a","n/a","n/a","n/a"
+"IFB BANCORP,"INC."","Director and President","Jose Cueto","n/a","n/a","2022","n/a","867632"
+"IFB BANCORP,"INC."","Director","Hector Rivera","Owner","HL Rivera Consulting Inc.","2022","Consultant","867632"
+"IFB BANCORP,"INC."","Director","John McGuire","Senior Partner","McGuire and McGuire Banking Consultants","2022","Banking Consultant","867632"
+"IFB BANCORP,"INC."","Director and Chairman","Carlos Singer","Managing Director","ACP Capital Management","2022","Executive","867632"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Iberoamericana de Fomento","2022","Finance Executive","867632"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Interamericana de Fomento S.A.","2022","Finance Executive","867632"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Agropecuaria del Membrillar","2022","Finance Executive","867632"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Rio Estena S.A.","2022","Finance Executive","867632"
+"IFB BANCORP,"INC."","Director","Ana Teresa Arismendi","Senior Managing Director","Cisneros Family Office","2022","Executive","867632"
+```

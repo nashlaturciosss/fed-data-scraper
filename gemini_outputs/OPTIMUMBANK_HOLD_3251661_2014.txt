@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2014","A & F Realty Trustee: Ted Lerman","common stock","776251","8.2%","n/a"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2014","Moishe Gubin","common stock","769340","8.1%","n/a"
+"OptimumBank Holdings,"Inc."","Chicago,"IL"","2014","Ari Haas","common stock","750000","7.9%","n/a"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2014","Michael Blisko","common stock","750344","7.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings,"Inc."","Director","Moishe Gubin","CEO","various nursing homes","2014","various nursing homes","n/a"
+"OptimumBank Holdings,"Inc."","Director","Joel Klein","Director","n/a","2014","Retired","n/a"
+"OptimumBank Holdings,"Inc."","Director","Norman Ginsparg","Director","Morsey LC","2014","Director of Legal Affairs","n/a"
+"OptimumBank Holdings,"Inc."","Director","Norman Ginsparg","Director","Jene's Retirement Investors Ltd","2014","Director of Legal Affairs","n/a"
+"OptimumBank Holdings,"Inc."","Director","Norman Ginsparg","Director","Courtyard Manor Retirement Inv Ltd.","2014","Director of Legal Affairs","n/a"
+"OptimumBank Holdings,"Inc."","Director","Norman Ginsparg","Director","Rainbow Retirement Inv Ltd.","2014","Director of Legal Affairs","n/a"
+"OptimumBank Holdings,"Inc."","Director","Norman Ginsparg","Director","Point Retirement Inv Ltd.","2014","Director of Legal Affairs","n/a"
+"OptimumBank Holdings,"Inc."","Chief Operating Officer","Thomas Procelli","n/a","n/a","2014","n/a","n/a"
+```

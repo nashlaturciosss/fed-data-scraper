@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Eureka Homestead Bancorp,"Inc."","Metairie,"USA"","2020","Eureka Homestead Employee Stock Ownership Plan Trust","common stock","114374","9.45%","n/a"
+"Eureka Homestead Bancorp,"Inc."","New York,"USA"","2020","Firefly Value Partners,"LP"","common stock","0","0%","n/a"
+"Eureka Homestead Bancorp,"Inc."","New York,"USA"","2020","Maltese Capital Management LLC","common stock","112500","9.29%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Eureka Homestead Bancorp,"Inc."","Chief Executive Officer and Chairman of the Board","Alan T. Heintzen","Chief Executive Officer and Chairman of the Board","Eureka Homestead","2020","n/a","n/a"
+"Eureka Homestead Bancorp,"Inc."","President and Chief Financial Officer","Cecil A. Haskins,"Jr."","President and Chief Financial Officer","Eureka Homestead","2020","n/a","n/a"
+"Eureka Homestead Bancorp,"Inc."","Director","Creed W. Brierre,"Sr."","Director","Eureka Homestead","2020","Retired","n/a"
+"Eureka Homestead Bancorp,"Inc."","Director","Patrick M. Gibbs","Director","Eureka Homestead","2020","Retired","n/a"
+"Eureka Homestead Bancorp,"Inc."","Director","Nick O. Sagona,"Jr."","Director","Eureka Homestead","2020","Retired","n/a"
+"Eureka Homestead Bancorp,"Inc."","Director","Robert M. Shofstahl","Director","Eureka Homestead","2020","Retired","n/a"
+"Eureka Homestead Bancorp,"Inc."","Director","Wilbur A. Toups,"Jr."","Director","Eureka Homestead","2020","Retired","n/a"
+```

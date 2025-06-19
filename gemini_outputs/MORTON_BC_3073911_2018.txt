@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2018","Bonnie C. Rogers,"Jr."","Common Stock","5028","13.92%","n/a"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2018","Estate of John M Rogers Sr","Common Stock","9007.1","24.94%","n/a"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2018","Martha J. Rogers","Common Stock","7607.8","21.07%","n/a"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2018","Beth Rogers","Common Stock","4508.1","12.48%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Director","Kathleen Bruno","Curr Ovipunt Mgr","Viking Culinary Arts Center","2018","Curriculum Development Manager","n/a"
+"Morton Bancorp,"Inc."","Secretary/Treasurer","Tina Echiburu","Director","Gingerbread House","2018","n/a","n/a"
+"Morton Bancorp,"Inc."","Director","Charles Lattiam","Director","n/a","2018","Farmer","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","B.C. Rogers Oil Co.,"Inc."","2018","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","Rogers Farms Partnership","2018","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","B.G. Rogers and Sons","2018","n/a","n/a"
+"Morton Bancorp,"Inc."","Vice President","Kennella Gordon Jr.","Director","n/a","2018","n/a","n/a"
+"Morton Bancorp,"Inc."","Director","Rennie C. Rogers. Jr","President","B.C. Rogers Oil Co.,"Inc."","2018","Owner,"Manager"","n/a"
+"Morton Bancorp,"Inc."","Director","Rennie C. Rogers. Jr","President","Rogers Farms Partnership","2018","Owner,"Manager"","n/a"
+"Morton Bancorp,"Inc."","Director","Rennie C. Rogers. Jr","President","B.C. Rogers and Sons","2018","Owner,"Manager"","n/a"
+"Morton Bancorp,"Inc."","Director","Beth Rogers","Nurse","n/a","2018","n/a","n/a"
+```

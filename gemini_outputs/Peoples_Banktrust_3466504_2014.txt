@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2014","Dover & Cheek,"Inc."","Common Stock","142082","6.3640%","346654"
+"PEOPLES BANKTRUST,"INC."","Jersey City,"NJ"","2014","Morgan Stanley Smith Barney","Common Stock","139813","6.2623%","346654"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2014","Gary D. Brown","Common Stock","115501","5.1734%","346654"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Pres/CEO/CFO,"PB&T"","Douglas Nichols","n/a","n/a","2014","n/a","346654"
+"PEOPLES BANKTRUST,"INC."","EVP/CLO,"PB&T"","Ted Williams","n/a","n/a","2014","Vice President","346654"
+"PEOPLES BANKTRUST,"INC."","EVP/COO,"PB&T"","Jan Wells","n/a","n/a","2014","Secretary","346654"
+"PEOPLES BANKTRUST,"INC."","AVP,"PB&T"","Adam Allison","n/a","n/a","2014","Treasurer","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Larry Bailey","President","Bailey Cabinet Co.","2014","Cabinet Maker","346654"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"PB&T"","Clayton Bartlett","n/a","n/a","2014","Retired","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Phillip Beard","Board Mem","City of Buford","2014","City of Buford","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Robert Bowman","n/a","n/a","2014","Retired","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Larry Cheek","President","Dover & Cheek","2014","Wholesale Elec/Plumb","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Wayne Hili","n/a","n/a","2014","Retired","346654"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Garrett Reed","Pres","Reed's Building Supply","2014","Building Supply","346654"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"PB&T"","Garland J. Roberts","n/a","n/a","2014","Retired","346654"
+```

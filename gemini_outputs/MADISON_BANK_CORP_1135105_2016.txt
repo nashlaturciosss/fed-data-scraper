@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Bank Corp.","Madison,"GA"","2016","Lambert Family Investment Holdings,"LLLP"","Common Stock","4461","16.80%","1135105"
+"Madison Bank Corp.","Madison,"GA"","2016","Old Post Road,"LP Family Partnership"","Common Stock","6665","25.1%","1135105"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp.","n/a","Old Post Road LP","n/a","n/a","2016","Investment","1135105"
+"Madison Bank Corp.","Chairman","Floyd C Newton,"Jr"","Chairman","Bank of Madison","2016","Banking and Farming","1135105"
+"Madison Bank Corp.","Director","Ann Lambert Trulock","Director","Bank of Madison","2016","Not Employed Housewife","1135105"
+"Madison Bank Corp.","Director","William B Chambers","Director","Bank of Madison","2016","Retired Financial Planner","1135105"
+"Madison Bank Corp.","Sr. Vice Pres.","H. Vinson DeLaigle","n/a","Bank of Madison","2016","Senior Lender","1135105"
+"Madison Bank Corp.","n/a","James W. Boyd,"Jr."","Director","Bank of Madison","2016","Insurance Agent","1135105"
+"Madison Bank Corp.","n/a","James W. Boyd,"Jr."","n/a","Jim Boyd Agency,"Inc."","2016","Insurance Agent","1135105"
+"Madison Bank Corp.","n/a","Lowry W Hunt,"Jr."","Director","Bank of Madison","2016","Agriculture Product","1135105"
+"Madison Bank Corp.","n/a","Lowry W Hunt,"Jr."","n/a","Godfrey's Warehouse","2016","Agriculture Product","1135105"
+"Madison Bank Corp.","n/a","Floyd C. Newton,"III"","Director","Bank of Madison","2016","Attorney","1135105"
+"Madison Bank Corp.","n/a","Floyd C. Newton,"III"","Partner","King & Spalding","2016","Attorney","1135105"
+"Madison Bank Corp.","President / CEO","Charles H Haney,"III"","Director","Bank of Madison","2016","Bank of Madison","1135105"
+"Madison Bank Corp.","Director","Wayne Tamplin","Director","Bank of Madison","2016","Certified Public Accountant","1135105"
+"Madison Bank Corp.","Director","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2016","Certified Public Accountant","1135105"
+"Madison Bank Corp.","Secretary","L. Clifton Hanes","Sr VP/ CFO","Bank of Madison","2016","Bank of Madison","1135105"
+"Madison Bank Corp.","Secretary","L. Clifton Hanes","VP & Sect.","Hanes & White Inc","2016","Bank of Madison","1135105"
+"Madison Bank Corp.","n/a","Robert T Prior","Director","Bank of Madison","2016","Attorney","1135105"
+"Madison Bank Corp.","n/a","Robert T Prior","n/a","Prior & Daniel LLC","2016","Attorney","1135105"
+```

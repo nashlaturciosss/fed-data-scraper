@@ -1,0 +1,16 @@
+Here are the two CSV tables extracted from the provided document.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Northwest Florida Holding Company","Fort Walton Beach,"FL"","2014","Albert P. Qualls,"Jr."","common stock","1500737","99.965%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Conquistador R/E","2014","Banker,"Real Estate Investor"","n/a"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Blue Horizon R/E","2014","Banker,"Real Estate Investor"","n/a"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Poldon","2014","Banker,"Real Estate Investor"","n/a"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Quallsco","2014","Banker,"Real Estate Investor"","n/a"
+"First Northwest Florida Holding Company","Director,"President & CEO"","Billy L. Gann","n/a","None","2014","n/a","n/a"
+"First Northwest Florida Holding Company","Director,"COO"","Angie Barger","n/a","None","2014","n/a","n/a"
+```

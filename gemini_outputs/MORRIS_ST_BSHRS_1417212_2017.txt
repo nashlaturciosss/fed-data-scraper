@@ -1,0 +1,21 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2017","Livingston Dynasty Trust FBO Lisa Livingston","n/a","150500","8.31%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2017","Livingston Dynasty Trust FBO Claire Livingston","n/a","150500","8.31%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2017","Benefit Trust Company Trustee for Morris Bank","n/a","127783","7.05%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2017","Roger Miller","n/a","94482","5.22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris Bank","Chairman/Director","Livingston Dynasty Trust FBO-Lisa Livingston","n/a","n/a","2017","None","n/a"
+"Morris Bank","Chairman/Director","Lisa L. Black","n/a","n/a","2017","None","n/a"
+"Morris Bank","President/CEO","Spence Mullis","n/a","n/a","2017","None","n/a"
+"Morris Bank","Director","Thad Childs","n/a","n/a","2017","None","n/a"
+"Morris Bank","Director","F. Scott Beasley","n/a","Duncan Tire","2017","Mechanic","n/a"
+"Morris Bank","Director","Roger Miller","n/a","Miller Family Partnership","2017","None","n/a"
+"Morris Bank","Director","Roger Miller","n/a","Wallace & Shirley","2017","None","n/a"
+"Morris Bank","Corporate Secretary","Susan Brandon","n/a","n/a","2017","None","n/a"
+```

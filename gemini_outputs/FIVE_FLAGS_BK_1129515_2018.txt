@@ -1,0 +1,35 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIVE FLAGS BANKS,"INC."","PENSACOLA,"FL"","2018","AMFI INVESTMENTS CORP.","n/a","5296.339","5.49","1129515"
+"FIVE FLAGS BANKS,"INC."","TUCSON,"AZ"","2018","NANCY E ROYALS","n/a","7732.7438","8.02","1129515"
+"FIVE FLAGS BANKS,"INC."","PENSACOLA,"FL"","2018","SOUTH BUILDING CORP.","n/a","7197.00893","7.46","1129515"
+"FIVE FLAGS BANKS,"INC."","PENSACOLA,"FL"","2018","ELEANOR LEIGH TAYLOR FAMILY IRREVOCABLE GENERATION SKIPPING TRUST DTD 12/28/2012","n/a","8000.0000","8.29","1129515"
+"FIVE FLAGS BANKS,"INC."","DOVER,"DE"","2018","TWA CORP","n/a","5827.1073","6.04","1129515"
+"FIVE FLAGS BANKS,"INC."","LA JOLLA,"CA"","2018","BARBARA J. WOODBURY","n/a","7732.7437","8.02","1129515"
+"FIVE FLAGS BANKS,"INC."","PENSACOLA,"FL"","2018","C. P. WOODBURY,"III"","n/a","7732.7437","8.02","1129515"
+"FIVE FLAGS BANKS,"INC."","PENSACOLA,"FL"","2018","WILLIAM P WOODBURY","n/a","4827.16936","5.00","1129515"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIVE FLAGS BANKS,"INC."","President/Director","Raymond H. Jones","Consultant/Director","The Warrington Bank","2018","Bank Consultant","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Raymond H. Jones","n/a","Bank of Pensacola","2018","Bank Consultant","1129515"
+"FIVE FLAGS BANKS,"INC."","President/Director","Raymond H. Jones","n/a","Bank Data,"Inc."","2018","Bank Consultant","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Raymond H. Jones","n/a","Bank of the South","2018","Bank Consultant","1129515"
+"FIVE FLAGS BANKS,"INC."","Vice President/Director","Donna Mair","President/Director","Bank of the South","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Donna Mair","n/a","Bank of Pensacola","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Donna Mair","n/a","The Warrington Bank","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Donna Mair","n/a","Bank Data,"Inc."","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Secretary/Director","Marilyn W. Hess","Director/Treasurer","TWA Corp","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Secretary/Director","Marilyn W. Hess","Director/President","AMFI Corp","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Secretary/Director","Marilyn W. Hess","Director/President","South Building Corp.","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Marilyn W. Hess","Director","Trans World Assurance Co.","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Marilyn W. Hess","President/Director","TBH Corp.","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Marilyn W. Hess","Director","American Fidelity Life Ins Co","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Marilyn W. Hess","Director","Island House,"Inc."","2018","Insurance Executive/Banker","1129515"
+"FIVE FLAGS BANKS,"INC."","Treasurer/Director","Martha S. Kilpatrick","Consultant/Director","The Warrington Bank","2018","Bank Consultant","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","William P. Woodbury","President & CEO","Bank of Pensacola","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Gail E. Russo","President/Director","The Warrington Bank","2018","Bank President","1129515"
+"FIVE FLAGS BANKS,"INC."","Director","Perry Palmer","Vice President","Bank of Pensacola","2018","Bank Vice President","1129515"
+```

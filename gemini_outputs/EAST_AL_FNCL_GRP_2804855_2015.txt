@@ -1,0 +1,26 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2015","Floyd Davis Family Partnership","Common Stock","120,"050"","23.08%","n/a"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2015","Floyd C. Davis,"Sr."","Common Stock","68,"400"","13.15%","n/a"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2015","Angela G. Davis","Common Stock","54,"650"","10.51%","n/a"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2015","Debbie Meadows","Common Stock","27,"228"","5.24%","n/a"
+"East Alabama Financial Group,"Inc."","Wedowee,"AL"","2015","Eugene Wortham","Common Stock","26,"017"","5.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"East Alabama Financial Group,"Inc."","Director & Chairman of the Board","Floyd C. Davis,"Sr."","Director & Chairman of the Board","DCL,"Inc."","2015","Manufacturing","n/a"
+"East Alabama Financial Group,"Inc."","Director & Chairman of the Board","Floyd C. Davis,"Sr."","Director & Chairman of the Board","Floyd C. Davis Family Partnership","2015","Manufacturing","n/a"
+"East Alabama Financial Group,"Inc."","Director","Phil Meadows","Director","Meadow Farm Equipment","2015","Farm Equipment","n/a"
+"East Alabama Financial Group,"Inc."","Director","Barry Messer","Director","Wedowee Building Supplies Co.","2015","Building Supplies","n/a"
+"East Alabama Financial Group,"Inc."","Director,"Executive Vice President"","Harold T. Heard","Executive Vice President","n/a","2015","Banking","n/a"
+"East Alabama Financial Group,"Inc."","Director","Lewis Beavers","Partner","Lawrence,"See & Beavers"","2015","Accounting","n/a"
+"East Alabama Financial Group,"Inc."","Director","Darcilla Richardson","Manager","Millwork Sales & Salvage","2015","Manufacturing","n/a"
+"East Alabama Financial Group,"Inc."","Director","Debbie Meadows","Vice President & Cashier","Wright Way","2015","Banking","n/a"
+"East Alabama Financial Group,"Inc."","Director","Terry Wiley","VP-Jeld-Wen Manufacturing","n/a","2015","Manufacturing","n/a"
+"East Alabama Financial Group,"Inc."","n/a","Floyd Davis Family Partnership","n/a","n/a","2015","None","n/a"
+"East Alabama Financial Group,"Inc."","Director","Alan Hubbard","President/CEO","n/a","2015","Banking","n/a"
+"East Alabama Financial Group,"Inc."","n/a","Angela Davis","n/a","n/a","2015","Retired","n/a"
+```

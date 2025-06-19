@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2016","J. C. Petry","Common Stock","35000","17.15%","1084801"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2016","Mildred H. Hair","Common Stock","22750","11.15%","1084801"
+"GUEYDAN BANCSHARES,"INC."","Broussard,"LA"","2016","Mary Gayle F. LeJeune","Common Stock","11648","5.71%","1084801"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2016","William C. & Cassie F. McCain","Common Stock","14409","7.06%","1084801"
+"GUEYDAN BANCSHARES,"INC."","Houston,"TX"","2016","Jacqueline F. Robbins","Common Stock","10410","5.10%","1084801"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Director,"Chairman & President"","J. C. Petry","Director,"Chairman & President Emeritus"","Bank of Gueydan","2016","Director,"Chairman & President Emeritus Bank of Gueydan"","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director & Vice President","Cloyce H. Hammond","Director & President","Bank of Gueydan","2016","Director & President Bank of Gueydan","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","William C. McCain","Director","n/a","2016","Retired","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","J. David Simon","Sole Proprietor","David Simon Farms","2016","Self Employed","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","J. David Simon","Attorney","Edward G. Saal,"Jr APLC"","2016","Self Employed","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","Edward G. Saal,"Jr."","n/a","n/a","2016","Self Employed","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director,"Board Secretary & Ex. Vice President"","Lana T. Broussard","n/a","n/a","2016","Director,"Board Secretary & Ex. Vice President Bank of Gueydan"","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","Hansford G. Hair","Production Operator","White Oak Operating Company,"LLC"","2016","Production Operator -- White Oak Operating Company,"LLC"","1084801"
+"GUEYDAN BANCSHARES,"INC."","n/a","Mildred H. Hair","n/a","n/a","2016","Retired","1084801"
+```

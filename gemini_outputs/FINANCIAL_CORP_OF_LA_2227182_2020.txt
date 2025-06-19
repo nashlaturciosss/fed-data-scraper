@@ -1,0 +1,37 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Financial Corporation of Louisiana","Crowley,"LA"","2020","Financial Corporation of LA ESOP","n/a","132815","16.12%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Financial Corporation of Louisiana","Treasurer","Arlene Albarado","Director,"Sr VP & CFO"","n/a","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director","William A. Dore'","Director","n/a","2020","Investments","n/a"
+"Financial Corporation of Louisiana","Director","Russell Freeland,"Sr."","Pres. & General Manager","LA Irrigation & Mill","2020","Louisiana Irrigation & Mill Co. & First National Farms","n/a"
+"Financial Corporation of Louisiana","Director","Russell Freeland,"Sr."","VP-1st Nat'l Farms","First National Farms","2020","Louisiana Irrigation & Mill Co. & First National Farms","n/a"
+"Financial Corporation of Louisiana","Director","Greg A. Jones","Director","Kalem LLC","2020","Retired; Oil & Gas Investments","n/a"
+"Financial Corporation of Louisiana","Director,"Chairman"","John Randall Prather","Director,"President & CEO"","n/a","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director,"Chairman"","John Randall Prather","Member","Prather Brothers LLC","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Randall Roach","Director","Kimira Properties","2020","Attorney","n/a"
+"Financial Corporation of Louisiana","Director","Peter M. John","Director","Pres. LA Bag Co.","2020","LA Bag Company & LAPAC Manufacturing","n/a"
+"Financial Corporation of Louisiana","Director","Peter M. John","VP LAPAC Manuf.","n/a","2020","LA Bag Company & LAPAC Manufacturing","n/a"
+"Financial Corporation of Louisiana","Director","Christopher Arsement","Director,"Chairman of the Board"","n/a","2020","Accountant","n/a"
+"Financial Corporation of Louisiana","Director","James M. Cunningham,"III"","Director","n/a","2020","Attorney","n/a"
+"Financial Corporation of Louisiana","Director","Lawrence J. Prevost","Director,"Vice President","CFO"","n/a","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Lawrence J. Prevost","Small Owner","Signal Investment LLC","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Thomas Tucker Johnston","Director","Partner","2020","Retired","n/a"
+"Financial Corporation of Louisiana","Director,"President"","Stephen P. Hollier","Director","n/a","2020","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Partner","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Henry Gossen,"Inc."","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Gossen and Ware,"LLC"","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","ALC Real Estate","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","FJG Properties,"Inc."","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Gossen Ware Gossen Properties","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Affiliated Medical Supplies,"Inc."","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","FJG,"Sr. Partners","Inc."","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","F. Gossen & A. Gossen,"Ltd. Partnership"","2020","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Secretary to the Board","Yvonne D. Menard","Sr. Vice President,"Sr. Admin. Officer"","Martha Hanks Dupuis LLC & M.H.Dupuis Farms,"LLC"","2020","Banker","n/a"
+"Financial Corporation of Louisiana","n/a","Financial Corporation of LA ESOP","n/a","n/a","2020","n/a","n/a"
+```

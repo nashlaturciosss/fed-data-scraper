@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NBN Corporation","Sarasota,"FL"","2014","William Joe Spradlen Trust","Common Stock","2515","5.96%","1085880"
+"NBN Corporation","Kansas City,"MO"","2014","Charles S. Runnion III","Common Stock","5089","12.05%","1085880"
+"NBN Corporation","Louisville,"TN"","2014","Vickie V. Valentine","Common Stock","8183","19.38%","1085880"
+"NBN Corporation","Asheville,"NC"","2014","Glen C. Shults","Common Stock","3728","8.83%","1085880"
+"NBN Corporation","Maryville,"TN"","2014","Benjamin Long","Common Stock","2541","6.02%","1085880"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NBN Corporation","President/CEO","Danny R. Caldwell","n/a","n/a","2014","Banker","1085880"
+"NBN Corporation","Chairman/Director","Christopher L.. Austin","President","Manes Funeral Home Inc","2014","Manes Funeral Home Inc","1085880"
+"NBN Corporation","Director/Vice Chairman","Vickie Valentine","n/a","Francis,"Valentine Partnership"","2014","Attorney","1085880"
+"NBN Corporation","Director","Glen C Shults","Member","Shults Properties LLC","2014","Attorney","1085880"
+"NBN Corporation","Director","Glen C Shults","Member","S H Gray Farm LLC","2014","Attorney","1085880"
+"NBN Corporation","n/a","Charles S Runnion,"III"","Trustee","Charles S Runnion III Trustee","2014","N/A","1085880"
+"NBN Corporation","n/a","Charles S Runnion,"III"","Trustee","Beth M Runnion,"Trust"","2014","N/A","1085880"
+"NBN Corporation","n/a","Charles S Runnion,"III"","Trustee","Charles Runnion Jr Residuary Trust","2014","N/A","1085880"
+"NBN Corporation","Director/Secretary & Treasurer","Craig Wild","n/a","n/a","2014","Chancery Court Clerk & Master","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Smoky Mt. Home Health & Hospice,"Inc."","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Jabo's Pharmacy,"Inc."","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Mason & Francis","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Mason,"Valentine","& Francis Partnership"","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Hale & Francis","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Mason,"Francis","& Webb"","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","Mason,"Francis","& Ketterman"","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+"NBN Corporation","Director","Donald F. Francis","n/a","66BC,"Inc."","2014","Owner,"Jabo's Pharmacy","Inc."","1085880"
+```

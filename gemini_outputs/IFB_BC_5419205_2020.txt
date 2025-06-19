@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"IFB BANCORP,"INC."","Madrid,"Spain"","2020","Guillermo Fierro Eleta","Common Stock","3082049","85.3%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"IFB BANCORP,"INC."","n/a","Guillermo Fierro Eleta","See Attached","See Attached","2020","Businessman/Entepreneur","n/a"
+"IFB BANCORP,"INC."","Director and Chairman","Walter Revell","Chairman & CEO","Revell Investments International,"Inc."","2020","Investor","n/a"
+"IFB BANCORP,"INC."","Director and President","Jose Cueto","None","None","2020","n/a","n/a"
+"IFB BANCORP,"INC."","Director","Hector Rivera","Owner","HL Rivera Consulting Inc.","2020","Consultant","n/a"
+"IFB BANCORP,"INC."","Director","John McGuire","Senior Partner","McGuire and McGuire Banking Consultants","2020","Banking Consultant","n/a"
+"IFB BANCORP,"INC."","Director","Carlos Singer","Managing Director","ACP Capital Management","2020","Executive","n/a"
+"IFB BANCORP,"INC."","Director Controller","Victor Laso","Controller","Nachtor Consulting","2020","Finance Executive","n/a"
+"IFB BANCORP,"INC."","Director Controller","Victor Laso","Director","Grupo IF - Headquarters","2020","Finance Executive","n/a"
+"IFB BANCORP,"INC."","Director Controller","Victor Laso","Director","Phillippa Pippa","2020","Finance Executive","n/a"
+```

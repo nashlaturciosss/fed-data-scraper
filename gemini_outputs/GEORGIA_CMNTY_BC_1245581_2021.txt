@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Community Bank","Leesburg,"GA"","2021","Lucie VanLandingham Beeley GST Trust","Class A Common - Voting","119558","25.42%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2021","Stevan Reynolds Tuck GST Trust","Class A Common - Voting","119557","25.42%","n/a"
+"Georgia Community Bank","Leesburg,"Ga"","2021","Lucie V. Beeley","Class A Common - Voting","40164","8.54%","n/a"
+"Georgia Community Bank","Leesburg,"Ga"","2021","Stevan Tuck","Class A Common - Voting","47015","10.00%","n/a"
+"Georgia Community Bank","Leesburg,"GA"","2021","Lucie VanLandingham Beeley GST Trust","Class B Common -Non - Voting","157496","13.73%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2021","Stevan Reynolds Tuck GST Trust","Class B Common -Non - Voting","157496","13.73%","n/a"
+"Georgia Community Bank","Leesburg,"Ga"","2021","Lucie V. Beeley","Class B Common -Non - Voting","416129","36.27%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2021","Stevan Tuck","Class B Common -Non - Voting","416129","36.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Community Bank","Secretary/Treasurer,"BHC"","Scott Beeley","President,"COO","Senior Credit Officer","Georgia Community Bank"","Georgia Community Bank","2021","n/a","n/a"
+"Georgia Community Bank","President,"Senior Credit Officer","Georgia Community Bank"","Scott Beeley","President,"COO","Senior Credit Officer","Georgia Community Bank"","Georgia Community Bank","2021","n/a","n/a"
+"Georgia Community Bank","Director,"Georgia Community Bank"","Lucie V. Beeley","CEO,"Georgia Community Bank"","Georgia Community Bank","2021","CEO,"BHC"","n/a"
+"Georgia Community Bank","CEO,"COO Georgia Community Bank"","Lucie V. Beeley","CEO,"Georgia Community Bank"","Georgia Community Bank","2021","CEO,"BHC"","n/a"
+"Georgia Community Bank","Chariman,"Georgia Community Bank"","Lucie V. Beeley","CEO,"Georgia Community Bank"","Georgia Community Bank","2021","CEO,"BHC"","n/a"
+"Georgia Community Bank","Director,"Georgia Community Bank","BHC"","Stevan Tuck","Information Reporting Officer,"Georgia Community Bank"","Georgia Community Bank","2021","n/a","n/a"
+```

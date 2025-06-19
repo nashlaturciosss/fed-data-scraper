@@ -1,0 +1,22 @@
+Here are the two tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Capital Corporation","Lineville,"AL"","2023","Gail McCord","Common Stock","14751","6.57%","n/a"
+"First State Capital Corporation","Lineville,"AL"","2023","Ann Vaughan","Common Stock","13199","5.88%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Capital Corporation","President,"CEO","Director"","Steve Foster","Owner","Foster Farms","2023","Bank President","n/a"
+"First State Capital Corporation","EVP,"CFO","Director","Secretary"","Carlton DeVaughn","n/a","n/a","2023","Bank Vice President","n/a"
+"First State Capital Corporation","Chairman","Don Hogan","n/a","n/a","2023","Retired","n/a"
+"First State Capital Corporation","Director","JoAnne Blair","n/a","n/a","2023","Retired","n/a"
+"First State Capital Corporation","Director","Doyle L Phillips","n/a","n/a","2023","Farmer","n/a"
+"First State Capital Corporation","Director","James E. Malone","n/a","n/a","2023","Retired","n/a"
+"First State Capital Corporation","Director","Anna Marie Rush","Partner","Double Branch Farms","2023","Farmer","n/a"
+"First State Capital Corporation","Director","Anna Marie Rush","Partner","The Mountian,"LLC"","2023","Farmer","n/a"
+"First State Capital Corporation","Director","Donald Harris","Partner","Harris Plumbing & Electric","2023","Electrical/Plumbing Supply","n/a"
+"First State Capital Corporation","Director","Donald Harris","Partner","Harris Properties","2023","Electrical/Plumbing Supply","n/a"
+"First State Capital Corporation","Director","Larry Raughton","Owner","L&S Equipment Sales","2023","Farmer","n/a"
+```

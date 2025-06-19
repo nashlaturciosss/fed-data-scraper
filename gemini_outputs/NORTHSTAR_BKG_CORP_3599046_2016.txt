@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NorthStar Banking Corporation","Worcester,"MA"","2016","Cutler,"Melvin"","Common Stock","124300","6.45%","3599046"
+"NorthStar Banking Corporation","Tampa,"FL"","2016","Patel,"Kiran"","Common Stock","145000","7.52%","3599046"
+"NorthStar Banking Corporation","Tampa,"FL"","2016","Sykes,"John"","Common Stock","185000","9.60%","3599046"
+"NorthStar Banking Corporation","Tampa,"FL"","2016","Sykes,"John"","Options on Common Stock","12500","0.58%","3599046"
+"NorthStar Banking Corporation","Tampa,"FL"","2016","Weigel,"H. Monty"","Common Stock","110000","5.71%","3599046"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NorthStar Banking Corporation","Director","Brookins,"James"","Pres/CEO of New Care of Florida","New Care of Florida","2016","Retired,"medical practice"","3599046"
+"NorthStar Banking Corporation","Executive","Cantonis,"James"","President - Acme Sponge and Chamois","Acme Sponge and Chamois","2016","Executive","3599046"
+"NorthStar Banking Corporation","SVP/Retail","Evans,"Eugene"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","CFO","Fleming,"William"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","Director","Goetschius,"Herb"","President Help to Grow","Help to Grow LLC","2016","Consultant","3599046"
+"NorthStar Banking Corporation","President/CEO","Jacobsen,"Scott"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","SVP-Retail","Lindsey,"Ty"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","Director","Mangar,"Devanand"","Pres/CEO-FL Gulf-to-Bay Anesthesiology Assoc.","Several real estate holdings","2016","Physician","3599046"
+"NorthStar Banking Corporation","Director","Marshall,"Gene"","n/a","n/a","2016","Retired","3599046"
+"NorthStar Banking Corporation","Director","Merluzzi,"Joseph"","President - Merluzzi & Associates","Merluzzi & Associates","2016","Consultant","3599046"
+"NorthStar Banking Corporation","SVP/Chief Credit Officer","Muyskens,"Scott"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","Director","Santa Cruz,"Pablo"","Pres.-Topview Intl","Topview International","2016","Technology","3599046"
+"NorthStar Banking Corporation","n/a","Santa Cruz,"Pablo"","MgPtr-Topview Ventures,"LLC"","Topview Ventures,"LLC"","2016","Technology","3599046"
+"NorthStar Banking Corporation","n/a","Santa Cruz,"Pablo"","Pres.-Topview Sport Inc.","Topview Sport Inc.","2016","Technology","3599046"
+"NorthStar Banking Corporation","n/a","Santa Cruz,"Pablo"","EVP-Aerodyne Ind.","Aerodyne Ind.","2016","Technology","3599046"
+"NorthStar Banking Corporation","Director","Schaffel,"Martin"","n/a","n/a","2016","Investor","3599046"
+"NorthStar Banking Corporation","COO","Shaw,"Robert"","n/a","n/a","2016","n/a","3599046"
+"NorthStar Banking Corporation","Shareholder","Sykes,"John"","Principal,"JHS Capital Advisors LLC"","JHS Capital Advisors LLC","2016","Investor","3599046"
+"NorthStar Banking Corporation","Director","White,"Rebecca"","Professor of Entrepreneurship - Univ of Tampa","Univ of Tampa","2016","Professor","3599046"
+```

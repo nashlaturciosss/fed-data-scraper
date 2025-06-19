@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Madison","Madison,"GA"","2017","Lambert Family Investment Holdings,"LLLP"","Common Stock","4461","16.80%","n/a"
+"Bank of Madison","Madison,"GA"","2017","Old Post Road,"LP Family Partnership"","Common Stock","6665","25.1%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp","n/a","Floyd C Newton,"Jr"","Chairman","n/a","2016","Banking and Farming","752831"
+"Madison Bank Corp","Chairman","Floyd C Newton,"Jr"","n/a","Bank of Madison","2016","Banking and Farming","752831"
+"Madison Bank Corp","n/a","Ann Lambert Trulock","Director","n/a","2016","Not Employed Housewife","752831"
+"Madison Bank Corp","Director","Ann Lambert Trulock","n/a","Bank of Madison","2016","Not Employed Housewife","752831"
+"Madison Bank Corp","n/a","William B Chambers Revocable Living Trust","Director","n/a","2016","Retired Financial Planner","752831"
+"Madison Bank Corp","Director","William B Chambers Revocable Living Trust","n/a","Bank of Madison","2016","Retired Financial Planner","752831"
+"Madison Bank Corp","n/a","H. Vinson DeLaigle","Sr. Vice Pres.","n/a","2016","Senior Lender","752831"
+"Madison Bank Corp","Director","H. Vinson DeLaigle","n/a","Bank of Madison","2016","Senior Lender","752831"
+"Madison Bank Corp","n/a","James W. Boyd,"Jr."","Director","Jim Boyd Agency,"Inc."","2016","Insurance Agent","752831"
+"Madison Bank Corp","Director","James W. Boyd,"Jr."","n/a","Bank of Madison","2016","Insurance Agent","752831"
+"Madison Bank Corp","n/a","Lowry W Hunt,"Jr."","Director","Godfrey's Warehouse","2016","Agriculture Product","752831"
+"Madison Bank Corp","Director","Lowry W Hunt,"Jr."","n/a","Bank of Madison","2016","Agriculture Product","752831"
+"Madison Bank Corp","n/a","Floyd C. Newton,"III"","Partner","King & Spalding","2016","Attorney","752831"
+"Madison Bank Corp","Director","Floyd C. Newton,"III"","n/a","Bank of Madison","2016","Attorney","752831"
+"Madison Bank Corp","n/a","Charles H Haney,"III"","President / CEO","n/a","2016","Bank of Madison","752831"
+"Madison Bank Corp","Director - President","Charles H Haney,"III"","n/a","Bank of Madison","2016","Bank of Madison","752831"
+"Madison Bank Corp","n/a","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2016","Certified Public Accountant","752831"
+"Madison Bank Corp","Director","Wayne Tamplin","n/a","Bank of Madison","2016","Certified Public Accountant","752831"
+"Madison Bank Corp","n/a","L. Clifton Hanes","Sr VP/CFO","Hanes & White Inc","2016","Bank of Madison","752831"
+"Madison Bank Corp","Secretary","L. Clifton Hanes","n/a","Bank of Madison","2016","Bank of Madison","752831"
+"Madison Bank Corp","n/a","Robert T Prior","Director","Prior & Daniel LLC","2016","Attorney","752831"
+"Madison Bank Corp","Director","Robert T Prior","n/a","Bank of Madison","2016","Attorney","752831"
+"Madison Bank Corp","n/a","Lambert Family Investment Holdings,"LLLP"","n/a","n/a","2016","n/a","752831"
+```

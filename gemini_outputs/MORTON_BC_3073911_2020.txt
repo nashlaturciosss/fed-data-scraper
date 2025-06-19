@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2020","Bonnie O. Rogers,"Jr."","Common Stock","5028","13.92%","n/a"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2020","Martha J. Rogers","Common Stock","7607.8","21.07%","n/a"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2020","Beth Rogers","Common Stock","4508.1","12.48%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Chairman/President and Manager","Kathleen Bruno","Director","Covington County Bank","2020","n/a","n/a"
+"Morton Bancorp,"Inc."","Vice President","Jim Callahan","n/a","n/a","2020","Owner/Employee","n/a"
+"Morton Bancorp,"Inc."","Treasurer","Charles Lattim","n/a","n/a","2020","Farmer","n/a"
+"Morton Bancorp,"Inc."","n/a","Martha J. Rogers","Secretary-Treasurer","B.C. Rogers Oil Co.,"Inc."","2020","Farmer/Landowner","n/a"
+"Morton Bancorp,"Inc."","n/a","Martha J. Rogers","Secretary-Treasurer","Rogers Farms Partnership","2020","Farmer/Landowner","n/a"
+"Morton Bancorp,"Inc."","n/a","Martha J. Rogers","Secretary-Treasurer","B.C. Rogers and Sons","2020","Farmer/Landowner","n/a"
+"Morton Bancorp,"Inc."","n/a","Henrieda Gulledge Jr.","n/a","n/a","2020","n/a","n/a"
+"Morton Bancorp,"Inc."","Owner/Manager","Henrieda Rogers,"Jr."","President","H.C. Rogers Oil Co.","2020","n/a","n/a"
+"Morton Bancorp,"Inc."","Owner/Manager","Henrieda Rogers,"Jr."","President","Rogers Farms Partnership","2020","n/a","n/a"
+"Morton Bancorp,"Inc."","Owner/Manager","Henrieda Rogers,"Jr."","President","B.C. Rogers and Sons","2020","n/a","n/a"
+"Morton Bancorp,"Inc."","Director","Batti Augusta","n/a","n/a","2020","n/a","n/a"
+```

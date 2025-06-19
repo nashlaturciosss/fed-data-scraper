@@ -1,0 +1,17 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2020","Madie E. Howell Trust","Common","39042","47.7","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2020","Howell Poole,"Trustee"","Common","39042","47.7","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2020","Estate of Madie H. Poole","Common","9036","11.0","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2020","Estate of Victor P. Poole","Common","7199","8.8","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2020","Howell Poole","Common","810","1.0","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Moundville Bancshares,"Inc."","Director,"Chairman","CEO/President"","Howell Poole","President","Carthage Drive,"Inc."","2020","n/a","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Moundville Communications,"Inc."","2020","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Riverbend Cable","2020","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Bernard T. Martin","Alfa Area Representative","Alfa Area Representative","2020","Alfa Area Representative","n/a"
+"Moundville Bancshares,"Inc."","Director","William A. (Sonny) Ryan","n/a","n/a","2020","Retired Judge,"Hale County"","n/a"
+"Moundville Bancshares,"Inc."","Treasurer","Christina G. Mills","n/a","n/a","2020","n/a","n/a"
+```

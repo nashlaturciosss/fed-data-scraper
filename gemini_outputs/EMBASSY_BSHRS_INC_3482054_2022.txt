@@ -1,0 +1,28 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Embassy Bancshares,"Inc."","Chairman of the Board","Nitin Shah","CEO","Embassy National Bank","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Imperial Investments Inc.","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Imperial Investments:","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Airport,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Chesnee,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Gaffney,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Monroe,"Inc."","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Southlake,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Norcross,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Sandy Springs,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Spalding,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Hamilton,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Sugarloaf,"LLC"","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Greenville,"Inc."","2022","President","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Nitin Shah","VP/Secretary","Spartanburg,"Inc."","2022","President","n/a"
+"Embassy Bancshares,"Inc."","Director","Bhupendra Darji","Director","Embassy National Bank","2022","CPA/Consultant","n/a"
+"Embassy Bancshares,"Inc."","VP/Secretary","Bhupendra Darji","Partner","Paragon Hammond Inc.","2022","CPA/Consultant","n/a"
+"Embassy Bancshares,"Inc."","EVP/CFO","Adam Stovall","EVP/CFO","Embassy National Bank","2022","n/a","n/a"
+"Embassy Bancshares,"Inc."","Secretary/Treasurer","Adam Stovall","EVP/CFO","Embassy National Bank","2022","n/a","n/a"
+```

@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Embassy Bancshares,"Inc."","Duluth,"Ga"","2016","Nitin Shah,"(Parvina N Shah Revocable Living Trust)",","n/a","100000","5.6%","3482054"
+"Embassy Bancshares,"Inc."","Brownsville,"Tx"","2016","Lopa Shah","n/a","100000","5.6%","3482054"
+"Embassy Bancshares,"Inc."","Duluth,"Ga"","2016","Navin Shah,"Taru N Shah","Shefali N Shah","Rupali N Shah","Ravi N Shah"","n/a","100000","5.6%","3482054"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Embassy Bancshares,"Inc."","Chairman of the Board of Directors","Nitin Shah","n/a","Imperial Investments Group,"Inc."","2016","President Imperial Investments Group,"Inc."","3482054"
+"Embassy Bancshares,"Inc."","Director of Embassy Bancshares","Navin Shah","n/a","Royal Hotel Investments","2016","Co-owner Royal Investments","3482054"
+"Embassy Bancshares,"Inc."","Director of Embassy Bancshares","Navin Shah","n/a","Royal Investments of Covington Inc.","2016","Co-owner Royal Investments","3482054"
+"Embassy Bancshares,"Inc."","Director of Embassy Bancshares","Navin Shah","n/a","Shah Pediatrics,"Ins."","2016","Co-owner Royal Investments","3482054"
+"Embassy Bancshares,"Inc."","Director of Embassy Bancshares","Joseph T Moss","Treasurer","J Moss & Co.","2016","n/a","3482054"
+"Embassy Bancshares,"Inc."","Chief Financial Officer","Constance E Perrine","n/a","n/a","2016","n/a","3482054"
+"Embassy Bancshares,"Inc."","Secretary of Holding Company","N Darlene Smith","Cashier/SVP Operations","n/a","2016","n/a","3482054"
+```

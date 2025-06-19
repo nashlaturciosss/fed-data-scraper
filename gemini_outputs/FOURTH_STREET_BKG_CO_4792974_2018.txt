@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Fourth Street Banking Company","Miami Beach,"FL"","2018","Bocar Family Holdings Limited Partnership","common","995892","8.92%","4792974."
+"Fourth Street Banking Company","North Palm Beach,"FL"","2018","Esrick Investments LP","common","581637","5.21%","4792974."
+"Fourth Street Banking Company","North Palm Beach,"FL"","2018","SME Children LP","common","581637","5.21%","4792974."
+"Fourth Street Banking Company","St. Petersburg,"FL"","2018","Kijomo,"LLLP"","common","772716","6.92%","4792974."
+"Fourth Street Banking Company","St. Petersburg,"FL"","2018","Directed Capital Resources,"LLC"","common","772716","6.92%","4792974."
+"Fourth Street Banking Company","St. Petersburg,"FL"","2018","Richard D. Wilkes,"DVM"","common","641686","5.75%","4792974."
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Fourth Street Banking Company","Director","William B. McQueen","Partner/Attorney","Legacy Protection Lawyers,"LLP"","2018","Partner/Attorney","4792974."
+"Fourth Street Banking Company","Director,"Director - Freedom Bank"","Richard D. Wilkes,"DVM"","n/a","n/a","2018","Business Owner","4792974."
+"Fourth Street Banking Company","Director","Christopher S. Moench","Chief Executive Officer","Directed Capital Resources,"LLC"","2018","Chief Executive Officer & Vice Chairman","4792974."
+"Fourth Street Banking Company","Director","Christopher S. Moench","Chief Executive Officer","Anchor Insurance Holdings,"Inc."","2018","Chief Executive Officer & Vice Chairman","4792974."
+"Fourth Street Banking Company","Director","Christopher S. Moench","n/a","THD LLC","2018","Chief Executive Officer & Vice Chairman","4792974."
+"Fourth Street Banking Company","Director","Christopher S. Moench","n/a","THD II LLC","2018","Chief Executive Officer & Vice Chairman","4792974."
+"Fourth Street Banking Company","Director","Stephenson Anderson","President","Anderson Ventures,"Inc."","2018","Business Owner","4792974."
+"Fourth Street Banking Company","Director","Frederick L. Bickley","President","Bickley Management Corp","2018","Real Estate investor","4792974."
+"Fourth Street Banking Company","Director","Ronald J. Campbell","Principal,"Chief Financial Officer"","Seminole Financial Services","2018","Business Executive","4792974."
+"Fourth Street Banking Company","Director","Craig H. Sher","Executive Chairman","The Sembler Company","2018","Business Executive","4792974."
+"Fourth Street Banking Company","Director","John W. Savage","Managing Director","Directed Capital Resources,"LLC"","2018","Senior Executive","4792974."
+"Fourth Street Banking Company","Director","Kern M. Davis","President","Pathology Associates,"PA"","2018","Medical Doctor","4792974."
+"Fourth Street Banking Company","Director","Kern M. Davis","Director","United Insurance Holdings Corp","2018","Medical Doctor","4792974."
+"Fourth Street Banking Company","Director & Chairman of the Board","Neil W. Savage","n/a","n/a","2018","Retired Banker","4792974."
+"Fourth Street Banking Company","Director","James A. Montgomery,"Jr."","n/a","n/a","2018","Retired Investment Manager","4792974."
+"Fourth Street Banking Company","Director","Christian D. Ruppel","General Mgr of Wage and Corporate Disbursement","Green Dot Corporation","2018","Entrepreneur and Executive","4792974."
+"Fourth Street Banking Company","Director & Chairman","Dennis G. Ruppel","Chairman","American Capital Assurance Corporation","2018","Insurance Co Executive","4792974."
+"Fourth Street Banking Company","Director,"CEO & President"","Cathy P. Swanson","CEO","n/a","2018","Bank CEO","4792974."
+"Fourth Street Banking Company","Chief Financial Officer","C. Peter Bardin","CFO","n/a","2018","Bank CFO","4792974."
+```

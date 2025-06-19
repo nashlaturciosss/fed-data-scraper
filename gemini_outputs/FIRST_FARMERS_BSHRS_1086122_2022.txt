@@ -1,0 +1,21 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Farmers Bancshares,"Inc."","n/a","2022","Joseph W. Empson","n/a","32425","28.06%","n/a"
+"First Farmers Bancshares,"Inc."","n/a","2022","Susan J. Empson","n/a","12150","10.52%","n/a"
+"First Farmers Bancshares,"Inc."","n/a","2022","Joseph W. Empson,"Trustee"","n/a","10569","9.15%","n/a"
+"First Farmers Bancshares,"Inc."","n/a","2022","Joseph W. Empson,"Trustee"","n/a","28777","24.88%","n/a"
+"First Farmers Bancshares,"Inc."","n/a","2022","J. David Baker","n/a","3069","2.66%","n/a"
+"First Farmers Bancshares,"Inc."","n/a","2022","James D. House","n/a","2561","2.21%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers Bancshares,"Inc."","President and CEO","William A. Nash","n/a","n/a","2022","n/a","n/a"
+"First Farmers Bancshares,"Inc."","EVP","Mickie E. Hodge","n/a","n/a","2022","n/a","n/a"
+"First Farmers Bancshares,"Inc."","Director","J. David Baker","n/a","n/a","2022","Attorney","n/a"
+"First Farmers Bancshares,"Inc."","Director","James D. House","n/a","n/a","2022","President,"CEO"","n/a"
+"First Farmers Bancshares,"Inc."","Director","Joseph W. Empson","n/a","Empson Farms Partnership","2022","Owner and Partner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Joseph W. Empson","n/a","Joseph W. Empson Farm Partnership,"LLC"","2022","Owner and Partner","n/a"
+```

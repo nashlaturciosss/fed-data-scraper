@@ -1,25 +1,29 @@
-Here are the two tables in valid CSV format based on the provided document:
+Here are the requested tables in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","Douglas T. Luce,"Jr."","Common Stock","26073","17.56%"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","DTL. Jr. Limited Partnership","Common Stock","9315","8.57%"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","CMB,"Limited Partnership"","Common Stock","8933","8.22%"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","Charles F. Brown,"III"","Common Stock","9955","9.16%"
-"Bancorp of Lucedale,"Inc."","Mobile","2014","JRL Family Limited Partnership","Common Stock","16665","15.34%"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","DTL Sr.,"Limited Partnership"","Common Stock","9404","8.66%"
-"Bancorp of Lucedale,"Inc."","Mobile","2014","Jex R. Luce,"Jr."","Common Stock","16705","15.38%"
-"Bancorp of Lucedale,"Inc."","Lucedale","2014","Laurie Lee VanLingen","Common Stock","6407","5.90%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","Douglas T. Luce,"Jr."","Common Stock","26073","17.56%","n/a"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","DTL. Jr. Limited Partnership","Common Stock","9315","8.57%","n/a"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","CMB,"Limited Partnership²"","Common Stock","8933","8.22%","n/a"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","Charles F. Brown. III","Common Stock","9955","9.16%","n/a"
+"Bancorp of Lucedale,"Inc."","Mobile,"AL"","2014","JRL Family Limited Partnership³","Common Stock","16665","15.34%","n/a"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","DTL Sr.. Limited Partnership","Common Stock","9404","8.66%","n/a"
+"Bancorp of Lucedale,"Inc."","Mobile,"AL"","2014","Jex R. Luce,"Jr."","Common Stock","16705","15.38%","n/a"
+"Bancorp of Lucedale,"Inc."","Lucedale,"MS"","2014","Laurie Lee VanLingen","Common Stock","6407","5.90%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bancorp of Lucedale,"Inc."","Director","Wayne H. Brown","Director","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","Director/President/CEO/Chairman of the Board","Douglas T. Luce,"Jr."","Director/President/Chairman of the Board","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","Exec Vice-President/COO/Director","Charles F. Brown,"III"","Exec. VP Operations","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","n/a","JRL Family Limited Partnership","n/a","n/a","2014"
-"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President","Century Bank","2014"
-"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director","Century Bank","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bancorp of Lucedale,"Inc."","Director","Wayne H. Brown","Director","Century Bank","2014","Retired","n/a"
+"Bancorp of Lucedale,"Inc."","Director/President/CEO/Chairman of the Board","Douglas T. Luce,"Jr."","Director","Century Bank","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Director/President/CEO/Chairman of the Board","Douglas T. Luce,"Jr."","President","Century Insurance","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Director/President/CEO/Chairman of the Board","Douglas T. Luce,"Jr."","Trustee","Douglas T. Luce,"Sr. Irrevocable Trust"","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Director","Jex R. Luce,"Jr."","Director","Century Bank","2014","Appraiser","n/a"
+"Bancorp of Lucedale,"Inc."","Director","T.A. Wilder,"Jr."","Director","Century Bank","2014","Retired","n/a"
+"Bancorp of Lucedale,"Inc."","Exec Vice-President/COO/Director","Charles F. Brown. III","Exec. VP Operations","Century Bank","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Exec Vice-President/COO/Director","Charles F. Brown. III","VP/Treasurer/Director","Century Insurance","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","N/A","JRL Family Limited Partnership","N/A","n/a","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Vice-President","Century Bank","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Secretary/Treasurer","Carla Lowery","Secretary/Director","Charlie's Place","2014","n/a","n/a"
+"Bancorp of Lucedale,"Inc."","Director","Laurie L. VanLingen","Director","Century Bank","2014","Real Estate","n/a"
 ```

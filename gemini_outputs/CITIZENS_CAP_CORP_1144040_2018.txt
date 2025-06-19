@@ -1,0 +1,25 @@
+"Here are the two CSV tables requested","extracted from the provided document:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens' Capital Corporation","Robertsdale,"Alabama"","2018","Linda W. Gulledge","Common Stock","18334","19.87%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2018","Robert I. Gulledge Revocable Trust","Common Stock","16739","18.14%","n/a"
+"Citizens' Capital Corporation","Mobile,"Alabama"","2018","Robert I. Gulledge,"II"","Common Stock","7914","8.58%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2018","Thomas W. Gulledge","Common Stock","7914","8.58%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2018","John A. Nelson,"II"","Common Stock","5611","6.08%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2018","Beverly J. Potter","Common Stock","5629","6.10%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens' Capital Corporation","Chairman","Thomas W. Gulledge","n/a","n/a","2018","Banker","n/a"
+"Citizens' Capital Corporation","Director","Linda W. Gulledge","n/a","n/a","2018","Retired Educator","n/a"
+"Citizens' Capital Corporation","Director","Robert E. Wilters","Attorney","n/a","2018","District Attorney","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge","n/a","n/a","2018","None","n/a"
+"Citizens' Capital Corporation","Director","Paul E. Hollingsworth","n/a","n/a","2018","Retired Educator","n/a"
+"Citizens' Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","n/a","2018","Law Enforcement","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Methodist Church","2018","Minister","n/a"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secur Fisheries","2018","Seafood Processing Director","n/a"
+"Citizens' Capital Corporation","Secretary","Ryan Gerstenschlager","n/a","n/a","2018","Banker","n/a"
+"Citizens' Capital Corporation","Executive VP","Thomas P. Wilbourne","n/a","n/a","2018","Banker","n/a"
+```

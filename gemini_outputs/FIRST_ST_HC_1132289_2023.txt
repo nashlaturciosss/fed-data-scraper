@@ -1,0 +1,17 @@
+"Okay","here are the two CSV tables extracted from the document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST STATE BANK HOLDING CORP.","n/a","2023","JOHN F BOYETT","n/a","n/a","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","n/a","2023","JAMES D ROBINSON","n/a","n/a","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","n/a","2023","LYDIA W MORRIS","n/a","n/a","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","n/a","2023","MARTHA A WARD","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST STATE BANK HOLDING CORP.","CEO","JOHN F BOYETT","n/a","n/a","2023","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","DIRECTOR","JAMES D ROBINSON","n/a","n/a","2023","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","MANAGER/WINFIELD","LYDIA W MORRIS","n/a","n/a","2023","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","DIRECTOR","MARTHA A WARD","n/a","n/a","2023","n/a","n/a"
+```

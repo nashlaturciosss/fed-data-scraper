@@ -1,0 +1,20 @@
+"Here are the two CSV tables extracted from the document","adhering to the specific formatting and content rules:"
+```csv
+SECURITIES HOLDERS
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2016","James C. Jones,"III"","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2016","Patrick C. Jones","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2016","The Jones Company","n/a","n/a","24.90%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2016","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","6.05%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2016","JCJ Investments,"Irrevocable Trust"","n/a","n/a","6.10%","2135812"
+```
+```csv
+INSIDERS
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Principal Shareholder","Jones Bancshares,"L.P."","n/a","n/a","2016","n/a","2135812"
+"PrimeSouth Bancshares,"Inc."","Director/ Chairman","J.C. Jones,"Jr."","Administrator","Jones Company","2016","n/a","2135812"
+"PrimeSouth Bancshares,"Inc."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2016","n/a","2135812"
+"PrimeSouth Bancshares,"Inc."","Director","Patrick Jones","Vice President","Jones Company","2016","n/a","2135812"
+"PrimeSouth Bancshares,"Inc."","Director","James A. Walker,"Jr."","President","Jones Company","2016","Jones Company","2135812"
+"PrimeSouth Bancshares,"Inc."","Secretary","W. Nick Taylor","n/a","n/a","2016","n/a","2135812"
+```

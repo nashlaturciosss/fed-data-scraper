@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Perry Banking Company,"Inc."","Newberry,"FL"","2017","Paul W. Dickert","n/a","13585","30.345%","n/a"
+"Perry Banking Company,"Inc."","Sarasota,"FL"","2017","Mark R. Dickert","n/a","17000","37.975%","n/a"
+"Perry Banking Company,"Inc."","Perry,"FL"","2017","John W. Cruce","n/a","6620","14.788%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens State Bank","Chairman/Director","Mark Dickert","VP/Director","Wilson/Ross","2017","Wilson/Ross","n/a"
+"Citizens State Bank","Director","Paul Dickert","President/Director","Wilson/Ross","2017","Retired","n/a"
+"Citizens State Bank","Director","Paul Dickert","President/Director","Probuilt,"Inc."","2017","Retired","n/a"
+"Citizens State Bank","Director","John W. Cruce","Owner","John A. Cruce,"Inc."","2017","Logging","n/a"
+"Citizens State Bank","President/CEO/Director","Gilbert A. Levy","n/a","n/a","2017","Banking","n/a"
+"Citizens State Bank","Director","Brent Siegel","President","Siegel,"Hughes & Ross PA"","2017","Attorney","n/a"
+"Citizens State Bank","Director","Brent Siegel","n/a","Siegel,"Hughes and Ross"","2017","Attorney","n/a"
+"Citizens State Bank","Secretary","Brian Crum","COO","n/a","2017","Banking","n/a"
+"Citizens State Bank","Treasurer","Nicolle Pack","VP/Controller","n/a","2017","Banking","n/a"
+```

@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F.B.H. Corporation","Missoula,"MT"","2020","Thomas H. Robertson,"IV"","Common Stock","375.65","18.8%","n/a"
+"F.B.H. Corporation","Portland,"OR"","2020","Susan E. Robertson","Common Stock","375.65","18.8%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2020","John C. Robertson,"Jr."","Common Stock","390.92","19.6%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2020","Estate of William C. Robertson","Common Stock","213.76","10.7%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2020","Catherine L. Robertson","Common Stock","183.5","9.2%","n/a"
+"F.B.H. Corporation","Mobile,"AL"","2020","Margaret C. Robertson","Common Stock","100.2","5.0%","n/a"
+"F.B.H. Corporation","Birmingham,"AL"","2020","Kelly R. Huggart","Common Stock","100.2","5.0%","n/a"
+"F.B.H. Corporation","Irondale,"AL"","2020","Mary Catherine R. Lawson","Common Stock","100.2","5.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F.B.H. Corporation","Director","Robert D. Mills","President","The Citizens Bank of Fayette","2020","n/a","438434"
+"F.B.H. Corporation","Chairman","John C. Robertson,"Jr."","Sr Vice-President","The Citizens Bank of Fayette","2020","n/a","438434"
+"F.B.H. Corporation","Principal Securities Holder","Susan E. Robertson","Librarian","Portland Public Schools","2020","Librarian","438434"
+"F.B.H. Corporation","Principal Securities Holder","Thomas H. Robertson,"IV"","Owner","Tom Robertson Photography","2020","Photographer","438434"
+"F.B.H. Corporation","Director","Catherine L. Robertson","Retired","n/a","2020","Retired Guest Svcs Director","438434"
+"F.B.H. Corporation","Director","Amy R. Vaden","Development Associate","Southern Alliance for Clean Energy","2020","Development Associate","438434"
+```

@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Geraldine,"AL"","2016","Coolidge Isbell","Common","5538","10.54%","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Geraldine,"AL"","2016","Betty Parris Trust","Common","7010","13.34%","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Hixon,"TN"","2016","Vicki Anderson","Common","5875","11.18%","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Albertville,"AL"","2016","Robert Decker","Common","2800","5.25%","1084753"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","President/CEO","Chris Bailey","n/a","n/a","2016","n/a","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Chairman/Director","Robert Decker","n/a","Edward D. Jones Investment Broker","2016","Investment Broker","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Billy F. Cooper","n/a","n/a","2016","Retired","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Joel Murdock","n/a","n/a","2016","Machine Operator","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","n/a","Betty Parris","n/a","n/a","2016","Housewife","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","n/a","Coolidge Isbell","n/a","BIB Partnership","2016","Real Estate","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","David Wear","n/a","Wear & Wear,"P.A."","2016","Attorney","1084753"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Vicki Anderson","n/a","Marketing-Chattanooga Business","2016","Marketing","1084753"
+```

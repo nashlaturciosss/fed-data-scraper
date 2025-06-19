@@ -1,0 +1,19 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON INC","President","Mike Ellenburg","Director","n/a","2022","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Carolyn Hall","Chairman","n/a","2022","Sales Rep.","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Randy Wright","Director","n/a","2022","Farmer","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Tommy Harding","Director","Harding Insurance","2022","Insurance","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Jack Lovelady","Director","n/a","2022","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Danny Crownover","Director","n/a","2022","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Ralph Hall","Director","n/a","2022","Retired Educator","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Richard Lindsey","Director","n/a","2022","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director EVP","Scott Kirk","Director","Sandmont Specialty","2022","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON INC","Director","Lowell Galloway","Director","n/a","2022","Retired Banker","n/a"
+```

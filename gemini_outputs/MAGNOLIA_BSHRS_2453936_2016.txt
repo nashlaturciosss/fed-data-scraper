@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"USA"","2016","Jolene J. Carroll","Common Stock","42079","48.27%","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"USA"","2016","John L. Jessup","Common Stock","21411","24.56%","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"USA"","2016","H.C. Ragan","Common Stock","5514","6.32%","2453936"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Director & Chairman & Chief Operating Officer","Jolene J. Carroll","Director & Executive Vice President","n/a","2016","n/a","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Director & President","John L. Jessup","Director & Chief Executive Officer","n/a","2016","n/a","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Director","H.C. Ragan","Director","n/a","2016","Retired","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Director","M. Clifton Harrell,"Jr."","Director","n/a","2016","Retired","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Director","William J. Carroll","Medical Doctor","n/a","2016","Medical Doctor","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Director","Callen A. Carroll","n/a","n/a","2016","Student","2453936"
+```

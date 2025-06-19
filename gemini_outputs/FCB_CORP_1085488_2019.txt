@@ -1,0 +1,34 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","formatted according to your specifications."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB CORPORATION","Nashville,"TN"","2019","Marion W. Hickerson III","n/a","42001","19.38%","n/a"
+"FCB CORPORATION","Houston,"TX"","2019","Edith H. Johnson","n/a","26453","12.21%","n/a"
+"FCB CORPORATION","Manchester,"TN"","2019","Claus or Lois Thormaehlen","n/a","15296","7.06%","n/a"
+"FCB CORPORATION","Germantown,"TN"","2019","Dale J. Jones","n/a","14245","6.57%","n/a"
+"FCB CORPORATION","Hixson,"TN"","2019","Donald L. Jones","n/a","14245","6.57%","n/a"
+"FCB CORPORATION","Manchester,"TN"","2019","Nancy Gilliam","n/a","11704","5.40%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB CORPORATION","Director","Don Jones","n/a","n/a","2019","Retired","n/a"
+"FCB CORPORATION","Director Chairman","Gerald Ewell,"Jr."","n/a","n/a","2019","Attorney","n/a"
+"FCB CORPORATION","Director","Edith H. Johnson","n/a","n/a","2019","Retired","n/a"
+"FCB CORPORATION","Director Secretary","L. A. Teal","n/a","n/a","2019","Real estate & farming","n/a"
+"FCB CORPORATION","Director","George M. Brown","n/a","Bank of Waynesboro","2019","Retired","n/a"
+"FCB CORPORATION","Community President","Brent Parsley","n/a","n/a","2019","n/a","n/a"
+"FCB CORPORATION","n/a","Stephen Clay Shirley","n/a","n/a","2019","n/a","n/a"
+"FCB CORPORATION","n/a","Tim Spry","n/a","n/a","2019","n/a","n/a"
+"FCB CORPORATION","n/a","Carla Clay Pelham","n/a","n/a","2019","n/a","n/a"
+"FCB CORPORATION","Director and Chairman of the Board","Marion W. Hickerson III","n/a","Bank of Waynesboro","2019","Stockbroker","n/a"
+"FCB CORPORATION","Director","Jasper Brewer","n/a","Bank of Waynesboro","2019","Retired","n/a"
+"FCB CORPORATION","Director","Alton Turnbo,"Jr."","Mortician","Waynesboro","2019","Mortician","n/a"
+"FCB CORPORATION","Executive Vice President and Secretary of the Board","Misty Rogers","n/a","Waynesboro","2019","n/a","n/a"
+"FCB CORPORATION","Executive Vice President","Tim Williams","n/a","Waynesboro","2019","n/a","n/a"
+"FCB CORPORATION","Director","Harold Pope","n/a","Waynesboro","2019","Retired","n/a"
+"FCB CORPORATION","n/a","William B. Bryant","n/a","Waynesboro","2019","n/a","n/a"
+"FCB CORPORATION","Director","Nancy Gilliam","n/a","n/a","2019","Retired","n/a"
+"FCB CORPORATION","n/a","Mike Bailey","n/a","n/a","2019","n/a","n/a"
+"FCB CORPORATION","n/a","Jeanne Melton","n/a","n/a","2019","n/a","n/a"
+```

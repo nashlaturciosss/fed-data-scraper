@@ -1,0 +1,23 @@
+Here are the two tables in CSV format based on your instructions:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2021","J. C. Petry","Common Stock","30000","14.70%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2021","Mildred H. Hair","Common Stock","22750","11.15%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Broussard,"LA"","2021","Mary Gayle F. LeJeune","Common Stock","11648","5.71%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2021","William C. & Cassie F. McCain","Common Stock","14409","7.06%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Houston,"TX"","2021","Jacqueline F. Robbins","Common Stock","10410","5.10%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","None","JC Petry","n/a","n/a","2021","Retired","n/a"
+"GUEYDAN BANCSHARES,"INC."","President,"Director"","Cloyce H. Hammond,"Jr."","n/a","n/a","2021","n/a","n/a"
+"GUEYDAN BANCSHARES,"INC."","Director","William C. McCain","n/a","n/a","2021","Retired","n/a"
+"GUEYDAN BANCSHARES,"INC."","Director","JDavid Simon","Sole Proprietor","David Simon Farms","2021","Self Employed","n/a"
+"GUEYDAN BANCSHARES,"INC."","Chairman & Director","Edward G. Saal,"Jr"","Attorney","Edward G. Saal,"Jr APLC"","2021","Self Employed","n/a"
+"GUEYDAN BANCSHARES,"INC."","Director,"Board Secretary"","Lana T. Broussard","n/a","n/a","2021","n/a","n/a"
+"GUEYDAN BANCSHARES,"INC."","Director","Hansford G. Hair","Production Operator","White Oak Operating Company,"LLC"","2021","n/a","n/a"
+"GUEYDAN BANCSHARES,"INC."","n/a","Mildred H. Hair","n/a","n/a","2021","Retired","n/a"
+"GUEYDAN BANCSHARES,"INC."","Director","J. C. Petry,"Jr."","n/a","n/a","2021","Gueydan Drainage District,"Gueydan. LA"","n/a"
+```

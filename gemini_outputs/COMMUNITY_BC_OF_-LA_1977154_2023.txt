@@ -1,0 +1,32 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bancorp of Louisiana,"Inc."","Houma,"LA"","2023","Corey J. Callais","Director/Chairman","n/a","n/a","n/a"
+"Community Bancorp of Louisiana,"Inc."","Golden Meadow,"LA"","2023","Gloria B. Callais","Vice Chair/ Director","n/a","n/a","n/a"
+"Community Bancorp of Louisiana,"Inc."","Cut Off,"LA"","2023","Charles Michael Callais","Director/Secretary","n/a","n/a","n/a"
+"Community Bancorp of Louisiana,"Inc."","Raceland,"LA"","2023","Michael B. Riche'","President and CEO","n/a","n/a","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Gordon R. Crawford","Director","President","Gordon R Crawford& Assoc","2023","Attorney","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","James T. Landry","Director","n/a","n/a","2023","Retired Pharmacist","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Owner","RanMar,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Member","Gallaries Gonzales,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Member","MDMML,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Member","MARCYLEBLANC,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Member","LEBIN,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Gonzales,"LA"","2023","Marcy J.LeBlanc,"Sr."","Director","Member","MARDI,"LLC"","2023","Self-Employed","n/a"
+"Community Bancorp of Louisiana,"Inc."","Paincourtville,"LA"","2023","Clarence J. Savoie,"II"","Director","President","CJ Savoie Consulting Engineers","2023","President - CJ Savoie Consulting Engineers","n/a"
+"Community Bancorp of Louisiana,"Inc."","Paincourtville,"LA"","2023","Clarence J. Savoie,"II"","Director","Director","Savoie Industries","2023","President - CJ Savoie Consulting Engineers","n/a"
+"Community Bancorp of Louisiana,"Inc."","Paincourtville,"LA"","2023","Clarence J. Savoie,"II"","Director","Partner","Dugas & LeBlanc LLC","2023","President - CJ Savoie Consulting Engineers","n/a"
+"Community Bancorp of Louisiana,"Inc."","Paincourtville,"LA"","2023","Clarence J. Savoie,"II"","Director","Partner","Charles C Savoie,"Sr LLC"","2023","President - CJ Savoie Consulting Engineers","n/a"
+"Community Bancorp of Louisiana,"Inc."","Thibodaux,"LA"","2023","John K. Shaver","Director","Partner","Shaver-Robichaux Agency Inc","2023","Insurance Services","n/a"
+"Community Bancorp of Louisiana,"Inc."","Thibodaux,"LA"","2023","John K. Shaver","Director","Partner","John and Palma LLC","2023","Insurance Services","n/a"
+"Community Bancorp of Louisiana,"Inc."","Thibodaux,"LA"","2023","John K. Shaver","Director","Partner","Shaver-Robichaux LLC","2023","Insurance Services","n/a"
+"Community Bancorp of Louisiana,"Inc."","Lockport,"LA"","2023","Minor Cheramie,"Jr."","Director","President","L&M Botruc Rental Inc","2023","President - L&M Botruc Rental Inc","n/a"
+"Community Bancorp of Louisiana,"Inc."","Lockport,"LA"","2023","Minor Cheramie,"Jr."","Director","Vice President","Botruc Enterprises Inc","2023","President - L&M Botruc Rental Inc","n/a"
+"Community Bancorp of Louisiana,"Inc."","Lockport,"LA"","2023","Minor Cheramie,"Jr."","Director","Vice President","Express Weld LLC","2023","President - L&M Botruc Rental Inc","n/a"
+"Community Bancorp of Louisiana,"Inc."","Lockport,"LA"","2023","Minor Cheramie,"Jr."","Director","Owner","MAC Cutting Horses","2023","President - L&M Botruc Rental Inc","n/a"
+"Community Bancorp of Louisiana,"Inc."","Prairieville,"LA"","2023","Danielle Callais Waguespack","n/a","Partner","Abdon Callais Offshore,"LLC"","2023","Housewife","n/a"
+"Community Bancorp of Louisiana,"Inc."","Cut Off,"LA"","2023","Monica Callais Gisclair","n/a","Partner","Abdon Callais Offshore,"LLC"","2023","Housewife","n/a"
+```

@@ -1,14 +1,15 @@
+Here are the two CSV tables as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CNB BANCORP INC.","Birmingham","2016","Patrick Cooper","Common Stock","23150","11%"
-"CNB BANCORP INC.","Mobile","2016","Gary Cooper","Common Stock","49150","23%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB BANCORP INC.","Birmingham,"Alabama"","2016","Patrick Cooper","Common Stock","23150","11%","n/a"
+"CNB BANCORP INC.","Mobile,"Alabama"","2016","Gary Cooper","Common Stock","49150","23%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CNB BANCORP INC.","Chairman","Gary Cooper","n/a","n/a","2016"
-"CNB BANCORP INC.","Director","Jacquitta Green","Chairperson","Commonwealth National Bank","2016"
-"CNB BANCORP INC.","n/a","Patrick Cooper","n/a","n/a","2016"
-"CNB BANCORP INC.","Vice Chair Director","Scott Hunter","n/a","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB BANCORP INC.","Chairman","Gary Cooper","n/a","n/a","2016","Retired","n/a"
+"CNB BANCORP INC.","Director","Jacquitta Green","Chairperson","Commonwealth National Bank","2016","Vice President Northside Check Exchange","n/a"
+"CNB BANCORP INC.","n/a","Patrick Cooper","Attorney","n/a","2016","Attorney","n/a"
+"CNB BANCORP INC.","Vice Chair Director","Scott Hunter","Manager/","Raymond James","2016","Manager/Raymond James","n/a"
 ```

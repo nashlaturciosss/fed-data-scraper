@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Trust Corporation","Metairie,"LA"","2016","Mr. Joseph C. Canizaro,"Chairman"","n/a","4445979","45%","2127657"
+"First Trust Corporation","Metairie,"LA"","2016","Mr. Joseph C. Canizaro,"Chairman"","Options","300000","n/a","2127657"
+"First Trust Corporation","Metairie,"LA"","2016","Mr. Joseph C. Canizaro,"Chairman"","n/a","403733","4%","2127657"
+"First Trust Corporation","New Orleans,"LA"","2016","Corte Trust","n/a","3232250","32%","2127657"
+"First Trust Corporation","Arlington,"VA"","2016","EJF Specialty Finance Opportunities GP,"LLC"","Warrants","969090","8%","2127657"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Trust Corporation","CEO and Chairman of the Board","Mr. Joseph C. Canizaro,"Chairman"","n/a","n/a","2016","Real Estate Developer","2127657"
+"First Trust Corporation","Director","Gary Blossman","n/a","n/a","2016","Businessman/ Banking","2127657"
+"First Trust Corporation","President and CEO","Gary Blossman","n/a","n/a","2016","Businessman/ Banking","2127657"
+"First Trust Corporation","Director","David Guidry","President","GUICO Industries","2016","Businessman/ Oilfield Equipment","2127657"
+"First Trust Corporation","Vice Chairman of the Board","David Guidry","President","GUICO Marine Services,"LLC"","2016","Businessman/ Oilfield Equipment","2127657"
+"First Trust Corporation","Vice Chairman of the Board","David Guidry","President","GUICO Farms,"LLC"","2016","Businessman/ Oilfield Equipment","2127657"
+"First Trust Corporation","Vice Chairman of the Board","David Guidry","President","GUICO Properties,"LLC"","2016","Businessman/ Oilfield Equipment","2127657"
+"First Trust Corporation","Vice Chairman of the Board","David Guidry","President","Harvey Speciality,"Inc."","2016","Businessman/ Oilfield Equipment","2127657"
+"First Trust Corporation","Director","Donald Bollinger","President & CEO","Bollinger,"LLC"","2016","Businessman/ Entrepreneur","2127657"
+"First Trust Corporation","Chairman of the Board","Donald Bollinger","President & CEO","Bollinger,"LLC"","2016","Businessman/ Entrepreneur","2127657"
+"First Trust Corporation","Director","Ralph C. Cox,"Jr."","Retired Partner","Bourgeois Bennett,"LLC"","2016","Businessman/ Entrepreneur","2127657"
+"First Trust Corporation","Director","Randall Howard","Retired Owner","Harbor Watersports,"LLC"","2016","Businessman/ Entrepreneur","2127657"
+"First Trust Corporation","Director","Ryan Lopiccolo","Co-owner","Pie-Not LLC","2016","Businessman/ Entrepreneur","2127657"
+"First Trust Corporation","Shareholder","Corte Trust","n/a","n/a","2016","Trust","2127657"
+```

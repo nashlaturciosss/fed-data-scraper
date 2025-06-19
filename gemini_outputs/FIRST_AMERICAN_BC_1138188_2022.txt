@@ -1,0 +1,32 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2022","John D. McLanahan,"Jr."","n/a","91090","27.76%","n/a"
+"First American Bancorp","Athens,"GA"","2022","John D. McLanahan,"Jr."","n/a","8991","2.73%","n/a"
+"First American Bancorp","Athens,"GA"","2022","John D. McLanahan,"Jr."","n/a","79298","24.14%","n/a"
+"First American Bancorp","Athens,"GA"","2022","John D. McLanahan,"Jr."","n/a","2335",".71%","n/a"
+"First American Bancorp","Athens,"GA"","2022","The McLanahan Children's Irv. Trust Agreement","n/a","79298","24.14%","n/a"
+"First American Bancorp","Gainesville,"GA"","2022","Catherine M. Nix","n/a","20000","6.09%","n/a"
+"First American Bancorp","Greenville,"SC"","2022","John L. and Dorothy M. Watson","n/a","20856","6.36%","n/a"
+"First American Bancorp","New York,"NY"","2022","CEDE and Co","n/a","16132","4.91%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","Director","Maxine H. Burton","President","Burton & BURTON","2022","International Gift Retailer","n/a"
+"First American Bancorp","Director","Robert D. Heath","Trust Officer","n/a","2022","Retired President of the Bank","n/a"
+"First American Bancorp","Director","Craig Meeks","President","n/a","2022","President First American Bank","n/a"
+"First American Bancorp","Director","T. Michael Devore","n/a","n/a","2022","President (Retired) DeVore & Johnson","n/a"
+"First American Bancorp","Director","John D. McLanahan,"Jr."","General Counsel","n/a","2022","Attorney Chairman of the Board","n/a"
+"First American Bancorp","Director","C. Rhodes McLanahan","CEO","n/a","2022","Chief Executive Officer First American Bank","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2022","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.Α."","2022","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","n/a","Akins Ford","2022","Akins Ford Owner","n/a"
+"First American Bancorp","Director","Dr. Catherine Marti","n/a","n/a","2022","Cardiologist","n/a"
+"First American Bancorp","Director","George G. Tribble","n/a","n/a","2022","President Bensons,"Inc."","n/a"
+"First American Bancorp","n/a","CEDE and Co","n/a","n/a","2022","n/a","n/a"
+"First American Bancorp","n/a","The McLanahan Children's Irv. Trust Agreement","n/a","n/a","2022","n/a","n/a"
+"First American Bancorp","n/a","The Dorothy McLanahan Watson Living Trust","n/a","n/a","2022","n/a","n/a"
+"First American Bancorp","n/a","Catherine M. Nix","n/a","n/a","2022","n/a","n/a"
+```

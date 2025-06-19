@@ -1,0 +1,32 @@
+"Okay","I'm ready to extract the data from the FR Y-6 form and provide it in CSV format as requested."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","William D. Sones","Common Stock","33493","7.79%","4361923"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","William D. Sones","Options on Common Stock","13333","3.10%","4361923"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","Carl Aycock","Common Stock","24000","5.58%","4361923"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","Linda P. Ebbers","Common Stock","39850","9.27%","4361923"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","G. Dale Smith","Common Stock","40750","9.48%","4361923"
+"Haven Capital Corporation","Brookhaven,"MS"","2015","Verna Smith","Common Stock","27000","6.28%","4361923"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Haven Capital Corporation","Chairman/CEO/Director","William D. Sones","CEO/Director","n/a","2015","n/a","4361923"
+"Haven Capital Corporation","President/Director","Shannon E. Aker","President","n/a","2015","n/a","4361923"
+"Haven Capital Corporation","Secretary","Robert C. Massengill,"II"","Executive Vice President","Scrub-A-Dub,"Inc."","2015","n/a","4361923"
+"Haven Capital Corporation","Director","Carl Aycock","Director","Pathway Planning","2015","Investor","4361923"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Covenant Resources","2015","Investor","4361923"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Ample Properties,"LLC"","2015","Investor","4361923"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Danny Dunnaway,"LLC"","2015","Investor","4361923"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Brookhaven Coin,"LLC"","2015","Investor","4361923"
+"Haven Capital Corporation","Director","Linda P. Ebbers","Director","n/a","2015","Investor","4361923"
+"Haven Capital Corporation","Director","George P. Hennington","Director","n/a","2015","Retired Retail","4361923"
+"Haven Capital Corporation","Director","G. Dale Smith","Director","Greenbriar Digging Services,"Inc."","2015","Construction","4361923"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","Oddee Smith Construction","2015","Construction","4361923"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","Oddee Smith & Sons,"Inc."","2015","Construction","4361923"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","PRJ,"Investments","LLC"","2015","Construction","4361923"
+"Haven Capital Corporation","Director","Dan T. Keel","Director","n/a","2015","Retired Physician","4361923"
+"Haven Capital Corporation","Vice-Chairman/Director","Robert V. Massengill","Director","Consulting Solutions,"Inc."","2015","Consultant","4361923"
+"Haven Capital Corporation","Director","Steve Mills","Director","Brookhaven OBGYN","2015","Physician","4361923"
+```

@@ -1,0 +1,36 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","2019","Feiying Lu","Common stock","1561178","6.12%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2019","Nack Y. Paek","Common stock","1286926","5.04%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","Magna Properties,"LLC"","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","Magna Capital,"LLC"","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","5385 JC,"LLC"","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","U Store,"LLC"","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","H & N Kimball,"LLC"","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"President & CFO"","Farid Tan","Director,"CEO & CFO"","n/a","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director,"EVP/CLO/COO"","Hwa Saeng Kim","Director & President EVP/CLO/COO","n/a","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","EVP & Assistant Secretary","S. Benton Gunter","EVP/CAO & Assistant Secretary","n/a","2019","n/a","3437456"
+"MetroCity Bankshares,"Inc."","Director & Secretary","William Hungeling","Partner","Hungeling Asset Management","2019","CPA","3437456"
+"MetroCity Bankshares,"Inc."","Director & Secretary","William Hungeling","Partner","Hungeling & Sons P.C.,"CPA"","2019","CPA","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Esplanade Property,"LLC"","2019","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Esplanade Property,"LLC II"","2019","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","L & T Family,"LLC"","2019","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Georgia Realm,"LLC"","2019","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sion Nyen Lai","President","Fulton Beverage Center,"Inc."","2019","Manager","3437456"
+"MetroCity Bankshares,"Inc."","Director","Don T. P. Leung","n/a","DTPL & Associates,"LLC"","2019","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Feiying Lu","n/a","LST Investment,"LLC"","2019","Controller","3437456"
+"MetroCity Bankshares,"Inc."","Director","Young Park","President","YP's Kani,"Inc."","2019","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Young Park","President","PP's Hope,"Inc."","2019","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Young Park","President","DP's Kani,"Inc."","2019","Businessman","3437456"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Managing Member","Amrit & Sons I,"LLC"","2019","Hotelier","3437456"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Managing Member","Relax Hospitality,"LLC"","2019","Hotelier","3437456"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Managing Member","7253 Plantation Rd,"LLC"","2019","Hotelier","3437456"
+"MetroCity Bankshares,"Inc."","Director","Frank S. Rhee","n/a","n/a","2019","Web Designer","3437456"
+"MetroCity Bankshares,"Inc."","Director","Sam S. Shim","Partner","SKS Consulting Services","2019","CPA","3437456"
+```

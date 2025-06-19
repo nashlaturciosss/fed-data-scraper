@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Lafayette,"USA"","2022","CAP Voiting Trust","n/a","16782","27.77%","n/a"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2022","LeBlanc Family irrevocable Trust","n/a","3600","6.14%","n/a"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2022","Charles E. Dill Jr.","n/a","3517","5.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Director","Lorraine LeBlanc","n/a","Gulf Coast Bank","2022","N/A","n/a"
+"Gulf Coast Bancshares,"Inc"","Director & President","Paul Patout","n/a","Gulf Coast Bank","2022","N/A","n/a"
+"Gulf Coast Bancshares,"Inc"","Director & Chairman","Patrick Patout","n/a","Gulf Coast Bank","2022","N/A","n/a"
+"Gulf Coast Bancshares,"Inc"","Director & Chief Finance Officer","Jason Patout","n/a","Gulf Coast Bank","2022","N/A","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Ottinger Hebert,"LLC"","2022","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Magellan Construction LLC","2022","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Magellan Development LLC","2022","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Gulf Pinhook Associates LLC","2022","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Jimmy Johns LLC Lafayette","2022","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc"","N/A","Paul Patout","N/A","N/A","2022","N/A","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","EugeneM. Sellers,"Jr."","President","The Sellers Group","2022","Architect","n/a"
+"Gulf Coast Bancshares,"Inc"","Director","Christopher Dardeau","n/a","Gulf Coast Bank","2022","N/A","n/a"
+```

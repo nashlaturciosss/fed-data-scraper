@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","SHELBYVILLE,"TN"","2016","NONE","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director - First Community Bank"","David E. McGee","Owner","McGee's Prescription Shop","2016","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director - First Community Bank"","David E. McGee","Owner","The Pomegrante","2016","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director - First Community Bank"","David E. McGee","Owner","Tullahoma Drugs","2016","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director - First Community Bank"","Garrett Winnette","n/a","n/a","2016","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","President/Director,"CEO - First Community Bank Director - First Community Bank Director - First Community Mortgage Co. Inc."","Scott Cocanougher","n/a","n/a","2016","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"President - First Community Bank Director - First Community Bank Director - First Community Mortgage. Inc."","William T. Clifford","n/a","n/a","2016","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director - First Community Bank"","Barry D. Cooper","Private Investor","Cooper Properties","2016","Steel Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director-First Community Bank"","Thurman Lee Adcock","President","Lee Adcock Construction Co.,"Inc."","2016","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director-First Community Bank"","Thurman Lee Adcock","Chief Manager","Adcock Design Build and Lease LLC","2016","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director,"Director-First Community Bank"","Thurman Lee Adcock","n/a","ARD Properties","2016","Contractor","n/a"
+```

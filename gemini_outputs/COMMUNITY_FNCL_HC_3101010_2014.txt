@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Financial Holding Company,"Inc."","Lawrenceville,"GA"","2014","Thomas J. Martin","Common Stock Class B","255000","7%","n/a"
+"Community Financial Holding Company,"Inc."","Buford,"GA"","2014","Isa Guven","Common Stock Class AA","250000","7%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr."","Owner","Woody's Nursery","2014","Horticulturist","n/a"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr."","n/a","Bell and Thigpen,"Ltd."","2014","Horticulturist","n/a"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr."","n/a","Duluth Business Park","2014","Horticulturist","n/a"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr."","n/a","D.P.W. LLC","2014","Horticulturist","n/a"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr."","n/a","FWB Management Co.","2014","Horticulturist","n/a"
+"Community Financial Holding Company,"Inc."","Director","J. Terry Gordon","n/a","J.Terry Gordon & Co.","2014","Certified Public Accountant","n/a"
+"Community Financial Holding Company,"Inc."","Director","J. Terry Gordon","n/a","Fiddlers 8 LLC","2014","Certified Public Accountant","n/a"
+"Community Financial Holding Company,"Inc."","Director","J. Terry Gordon","n/a","JTG Properties LLC","2014","Certified Public Accountant","n/a"
+"Community Financial Holding Company,"Inc."","Director and President","John T. Martin","n/a","n/a","2014","N/A","n/a"
+"Community Financial Holding Company,"Inc."","Chairman of the Board,"Director and CEO"","Thomas J. Martin","n/a","n/a","2014","N/A","n/a"
+"Community Financial Holding Company,"Inc."","Director","Miles H. Mason,"III M.D."","Sole Practitioner","Mason Medical Bldg.","2014","Physician","n/a"
+"Community Financial Holding Company,"Inc."","Director","Miles H. Mason,"III M.D."","n/a","MD Land Management Co.","2014","Physician","n/a"
+"Community Financial Holding Company,"Inc."","Director","Miles H. Mason,"III M.D."","n/a","Mason Primary Care","2014","Physician","n/a"
+"Community Financial Holding Company,"Inc."","Director","Don F. Phillips,"Jr."","Owner and President","Atlanta Flooring and Design Centers,"Inc."","2014","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Don F. Phillips,"Jr."","n/a","PHIJO II","2014","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Don F. Phillips,"Jr."","n/a","RFMD LLC","2014","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Don F. Phillips,"Jr."","n/a","S.B.H. LLC","2014","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Don F. Phillips,"Jr."","n/a","River Office Park LLC","2014","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Dan Reeves","n/a","n/a","2014","Retired","n/a"
+"Community Financial Holding Company,"Inc."","Director","Franklin M. Rinker","Senior Consultant","Yaffe & Company,"Inc."","2014","Consultant","n/a"
+"Community Financial Holding Company,"Inc."","Chief Financial Officer Secretary","Ann K. Amelse","n/a","Marshall 1611 LLC","2014","N/A","n/a"
+"Community Financial Holding Company,"Inc."","Chief Credit Officer","Donald W. Tew","n/a","n/a","2014","N/A","n/a"
+```

@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Morven,"GA"","2015","John W. Langdale,"Jr."","n/a","12600","49.8%","3839340"
+"Lowndes Bancshares,"Inc."","Valdosta,"GA"","2015","John W. Langdale,"III"","n/a","12600","49.8%","3839340"
+"Lowndes Bancshares,"Inc."","Valdosta,"GA"","2015","John W. Langdale,"Jr. and John W. Langdale","III as Co-Trustees of Trust B-1 FBO Harley Langdale","Jr. and the Descendants of John W. Langdale dated December 30","2009"","n/a","100","0.4%","3839340"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","n/a","The Langdale Company","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Operating Manager","Langdale Farms,"LLC"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Operating Manager","Langdale Woodlands,"LLC"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Operating Manager","Kinderlou Forest Development,"LLC"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Director,"Chairman"","Southland Forest Products,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Director,"President"","Langdale Industries,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W Langdale,"Jr"","Director,"President"","Langdale Forest Products Co","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","n/a","The Langdale Company","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","Member Manager","Langdale Farms,"LLC"","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","Member Manager","Langdale Woodlands,"LLC"","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","Director,"Vice-President"","Southland Forest Products,"Inc"","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","Director,"Vice-President"","Langdale Industries,"Inc"","2015","n/a","3839340"
+"Commercial Banking Company","Director","John W Langdale,"III"","Director,"Vice-President"","Langdale Forest Products Co","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Vice President"","Larry K Fudge","n/a","The Langdale Company","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Vice President"","Larry K Fudge","Director,"Member Manager"","Southland Forest Products,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Vice President"","Larry K Fudge","Director,"Vice President"","Langdale Industries,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Vice President"","Larry K Fudge","Director,"Vice President"","Langdale Forest Products Co","2015","n/a","3839340"
+"Commercial Banking Company","Director,"Vice President"","Larry K Fudge","Director,"Member Manager"","n/a","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J Miller","n/a","The Langdale Company","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J Miller","Director,"Chief Financial Officer"","Southland Forest Products,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J Miller","Director,"Chief Financial Officer"","Langdale Industries,"Inc"","2015","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J Miller","Director,"Chief Financial Officer"","Langdale Forest Products Co","2015","n/a","3839340"
+"Commercial Banking Company","Director,"Secretary/Treasurer"","Gregory J Miller","n/a","n/a","2015","n/a","3839340"
+"Commercial Banking Company","Director","Donald K Warren","n/a","n/a","2015","n/a","3839340"
+"Commercial Banking Company","Director,"President"","George D. Russell","n/a","n/a","2015","n/a","3839340"
+```

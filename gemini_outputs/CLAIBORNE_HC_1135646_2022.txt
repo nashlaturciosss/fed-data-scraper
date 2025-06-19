@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Chairman","Eleanor Yoakum","Director","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Chairman","Eleanor Yoakum","General Partner","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Chairman","Eleanor Yoakum","Co-Trustee","Estate Of Glenn Yoakum","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Vice Chairman","Rob Barger","Director","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Vice Chairman","Rob Barger","General Partner","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Vice Chairman","Rob Barger","Sole Member","Bargaritaburg,"LLC"","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","President","Rob Barger","Director","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","President","Rob Barger","General Partner","Yoakum Family LP","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","President","Rob Barger","Sole Member","Bargaritaburg,"LLC"","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Oliver Adams","Director","n/a","2022","Attorney","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Carroll E. Rose,"MD"","Director","n/a","2022","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Carroll E. Rose,"MD"","Partner","Rose & Thomas","2022","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Carroll E. Rose,"MD"","Partner","Rose & Ball","2022","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jennifer Lovin","n/a","n/a","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","Director","n/a","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","President","R. Giles Enterprises,"INC"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","Manager","ERG,"LLC"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","General Partner","Patty Brothers Prop,"GP"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jack A. Bonner,"Jr"","n/a","n/a","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","President","R. Giles Enterprises,"INC"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","Manager","ERG,"LLC"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","General Partner","Patty Brothers Prop,"GP"","2022","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jack A. Bonner,"Jr"","n/a","n/a","2022","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","Director","n/a","2022","Business consultant","n/a"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","Consultant","n/a","2022","Business consultant","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Howard Phillips","Director","n/a","2022","Business owner","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Greg Garren","Director","n/a","2022","Farmer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Wesley Minton","n/a","n/a","2022","n/a","n/a"
+```

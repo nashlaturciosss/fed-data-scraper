@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2019","Phillip Frost,"MD"","Common Stock","897291","24.93%","n/a"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2019","Michael Weintraub","Common Stock","334473","9.29%","n/a"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2019","Charles Stuzin","Common Stock","222797","6.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bank","Director,"Chairman & CEO of Grove Bank & Trust"","Richard A. Kuci","President & CEO Director of HC","n/a","2019","N/A","n/a"
+"Coconut Grove Bank","President & Chief Lending Officer of Grove Bank & Trust","Jose Vazquez","n/a","n/a","2019","N/A","n/a"
+"Coconut Grove Bank","EVP & CFO of Grove Bank & Trust","Daniel Chavez","Secretary/Treasuer of Holding Company","n/a","2019","N/A","n/a"
+"Coconut Grove Bank","President,"Wealth Management Division of Grove Bank & Trust"","Charles Porter","n/a","n/a","2019","N/A","n/a"
+"Coconut Grove Bank","Director of Bank","Sheldon Anderson","n/a","n/a","2019","N/A","n/a"
+"Coconut Grove Bank","Director of Bank","Howard Lucas","Director of HC","BDO USA,"LLP"","2019","CPA","n/a"
+"Coconut Grove Bank","Director of the Bank","George W. Foyo","EVP & Chief Administrative Ofcr","Baptist Health","2019","N/A","n/a"
+"Coconut Grove Bank","Director","Michael Chavies","Retired Judge","Attorney,"Akerman","LLP"","2019","Retired Judge","n/a"
+"Coconut Grove Bank","Director of the Bank","Charles M. Hartz","Attorney","Retired Capital","2019","Attorney","n/a"
+"Coconut Grove Bank","Director of the Bank","D. Alan Nichols","Director of HC","n/a","2019","CPA","n/a"
+"Coconut Grove Bank","Director of the Bank","William T. Price,"III"","Investor","n/a","2019","Investor","n/a"
+"Coconut Grove Bank","Director of Bank","Charles Stuzin","Director of HC","SF Partners Financial,"LLC"","2019","Investor","n/a"
+"Coconut Grove Bank","Director of the Bank","Michael Weintraub","Director of HC","Gibson & Co.,"Inc."","2019","Investor","n/a"
+"Coconut Grove Bank","n/a","Phillip Frost,"MD"","Director of HC","Opko Health Inc.","2019","Investor","n/a"
+"Coconut Grove Bank","n/a","Phillip Frost,"MD"","Director of HC","Non-Invasive Monitoring Systems Inc.","2019","Investor","n/a"
+"Coconut Grove Bank","n/a","Phillip Frost,"MD"","Director of HC","Biocardia Inc.","2019","Investor","n/a"
+```

@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2014","BETTY HOPKINS","common stock","37530","9.836%","1136447"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2014","MEADE C HOPKINS","common stock","44460","11.652%","1136447"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2014","EARL WAKEFIELD","common stock","41479","10.871%","1136447"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2014","KATHLEEN WAKEFIELD","common stock","28652","7.509%","1136447"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Frankewing","Director","David W. Barnes","n/a","n/a","2014","n/a","1136447"
+"Bank of Frankewing","President","David W. Barnes","n/a","n/a","2014","n/a","1136447"
+"Bank of Frankewing","Director","Wade Edde","n/a","n/a","2014","Retired","1136447"
+"Bank of Frankewing","Director","Meade C Hopkins","CEO","n/a","2014","n/a","1136447"
+"Bank of Frankewing","Chairman","Meade C Hopkins","CEO","n/a","2014","n/a","1136447"
+"Bank of Frankewing","Director","Gerald Martin","n/a","Gerald's Auto Body,"LLC"","2014","Auto Repair- Gerald's Auto Body,"LLC"","1136447"
+"Bank of Frankewing","Director","Mike Mayfield","n/a","n/a","2014","Director of Farm Credit Services in Giles County","1136447"
+"Bank of Frankewing","Director","Jeff Stewart","EVP/Cashier","n/a","2014","n/a","1136447"
+"Bank of Frankewing","Director","Earl Wakefield","n/a","n/a","2014","Retired","1136447"
+```

@@ -1,17 +1,16 @@
-Here are the two requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Catoosa Bancshares,"Inc."","Lookout Mtn.","2016","Joseph M. Haskins,"M.D."","n/a","7","100.00%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Catoosa Bancshares,"Inc."","Lookout Mtn.,"GA"","2016","Joseph M. Haskins,"M.D."","n/a","7","100.00%","1081378"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
-"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
-"Catoosa Bancshares,"Inc."","Vice Chairman,"Vice Pres. Director"","A. Russell Friberg,"Jr."","Vice Chairman,"Director"","Heritage Funeral Home,"LP Consultant"","2016"
-"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
-"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
-"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016"
-"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016","Banker","80936"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016","None","80936"
+"Catoosa Bancshares,"Inc."","Vice Chairman,"Director"","A. Russell Friberg,"Jr."","Vice Chairman,"Director"","Heritage Funeral Home,"LP"","2016","Funeral Consultant","80936"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016","Banker","80936"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016","None","80936"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2016","Banker","80936"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2016","None","80936"
 ```

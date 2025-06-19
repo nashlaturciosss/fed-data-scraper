@@ -1,0 +1,34 @@
+Here are the two tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","McLean,"VA"","2017","FJ Capital Management,"LLC"","Common Stock","728604","7.7%","n/a"
+"Home Bancorp,"Inc."","Lafayette,"LA"","2017","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","643176","6.8%","n/a"
+"Home Bancorp,"Inc."","Arlington,"VA"","2017","EJF Capital,"LLC"","Common Stock","577709","7.8%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Partner","Broussard Poche' LLP","2017","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Director","Kathy J. Bobbs","President and CEO for The Regional Health System of Acadiana,"including Women's & Children's Hospital and Lafayette Surgicare"","The Regional Health System of Acadiana","2017","President and CEO for The Regional Health System of Acadiana","n/a"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","John W. Bordelon","Managing Member of JSOMK Properties,"LLC"","JSOMK Properties,"LLC"","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","Richard J. Bourgeois","Chairman","Lafayette Investment Group","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","Richard J. Bourgeois","Chairman and Managing Member of LabelB Investments,"LLC"","LabelB Investments,"LLC"","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Mark A. Cole","Owner","Don Specialty Meats","2017","Physician,"Self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Daniel G. Guidry","n/a","n/a","2017","Don's Speacialty Meats,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","John A. Hendry","Pediatric Dentist","n/a","2017","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","President","Judice & Adley,"PLC"","2017","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","President","MJMA,"LLC"","2017","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Michael P. Maraist","n/a","n/a","2017","Attorney,"Judice & Adley","PLC"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Rader Solutions Ltd","2017","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","White Lake Cattle Co LLC","2017","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","RAK Holdings,"LLC"","2017","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","Quantum Real Estate,"LLC"","2017","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","Hardwear and Software LLC","2017","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Donald W. Washington","Partner","Jones Walker LLP","2017","Attorney,"Jones Walker LLP"","n/a"
+"Home Bancorp,"Inc."","Director","Darren E. Guidry","n/a","n/a","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Credit Officer"","Scott A. Ridley","n/a","n/a","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Banking Officer"","Jason P. Freyou","n/a","n/a","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Operations Officer"","Joseph B. Zanco","n/a","n/a","2017","n/a","n/a"
+"Home Bancorp,"Inc."","Asst. Secretary","n/a","Executive Vice President,"Chief Financial Officer"","n/a","2017","n/a","n/a"
+```

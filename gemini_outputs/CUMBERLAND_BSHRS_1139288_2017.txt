@@ -1,0 +1,28 @@
+"Okay","I will extract the requested tables in CSV format","following your instructions precisely."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cumberland Bancshares,"Inc."","Hartsville,"TN"","2017","Tom P. Thompson,"Jr."","Class B","139000","5","n/a"
+"Cumberland Bancshares,"Inc."","Hartsville,"TN"","2017","Philip W. Holder","Class B","737200","28","n/a"
+"Cumberland Bancshares,"Inc."","Lebanon,"TN"","2017","Toby Woodmore","Class B","206600","8","n/a"
+"Cumberland Bancshares,"Inc."","Daytona Beach Shores,"FL"","2017","John Wender,"Jr."","Class B","263700","10","n/a"
+"Cumberland Bancshares,"Inc."","Knoxville,"TN"","2017","Charles M. Wender","Class B","135200","5","n/a"
+"Cumberland Bancshares,"Inc."","Lebanon,"TN"","2017","Wanda W. Holder","Class B","320000","12","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cumberland Bancshares,"Inc."","Director","John Wender,"Jr."","n/a","n/a","2017","Retired","n/a"
+"Cumberland Bancshares,"Inc."","Director & Secretary","Toby Woodmore","n/a","Grey Hollow Farms","2017","High school principal","n/a"
+"Cumberland Bancshares,"Inc."","Director","Eddie Taylor","n/a","Donoho,"Taylor & Taylor"","2017","Attorney","n/a"
+"Cumberland Bancshares,"Inc."","Director","Eddie Taylor","n/a","Riverview Speedway,"Inc."","2017","Attorney","n/a"
+"Cumberland Bancshares,"Inc."","Director","Robert David Gregory","n/a","David Gregory Construction","2017","Farmer","n/a"
+"Cumberland Bancshares,"Inc."","Director","Betty S. Hibdon","President and CEO","n/a","2017","Bank CEO","n/a"
+"Cumberland Bancshares,"Inc."","n/a","Wanda W. Holder","n/a","n/a","2017","Retired","n/a"
+"Cumberland Bancshares,"Inc."","Director,"President and CEO"","Philip W. Holder","n/a","Holder Tobacco Farms","2017","Certified Public Accountant/Farmer","n/a"
+"Cumberland Bancshares,"Inc."","Director","Tom P. Thompson,"Jr."","n/a","Thompson Brothers","2017","District Attorney General","n/a"
+"Cumberland Bancshares,"Inc."","Director","Amy Broyles","n/a","Hartsville Pharmacy LLC","2017","Pharmacist","n/a"
+"Cumberland Bancshares,"Inc."","Director","Todd Austin","President and CEO","n/a","2017","Banker","n/a"
+"Cumberland Bancshares,"Inc."","Director","James J. Holder","n/a","Holder Tobacco Farms","2017","Farmer","n/a"
+"Cumberland Bancshares,"Inc."","Director","Matthew Carman","n/a","n/a","2017","Realtor","n/a"
+```

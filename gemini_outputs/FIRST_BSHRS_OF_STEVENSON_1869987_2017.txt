@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Nokomis,"FL"","2017","Walter Russell Bogart III","Common","12976","7.96%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Stevenson,"AL"","2017","Carolyn Hall","Common","12456","7.64%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Newnan,"GA"","2017","Holbert & Julia Hale","Common","12347","7.58%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Scottsboro,"AL"","2017","Jack B Lovelady","Common","12000","7.36%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Hollywood,"AL"","2017","Dorothy Williams Trust","Common","10000","6.14%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Pres/CEO","Mike Ellenburg","n/a","n/a","2017","Banker","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Chairman","Carolyn Hall","n/a","n/a","2017","Sales Rep.","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","John E. Rudder","President","Rudder Funeral Home","2017","Funeral Director","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","n/a","2017","Pharmacist","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","North Jackson Pharmacy","2017","Pharmacist","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","H&H Enterprise","2017","Pharmacist","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","Smith/Lovelady/Hicks/Hicks","2017","Pharmacist","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","CDR Management","2017","Pharmacist","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Randy Wright","n/a","n/a","2017","Farmer","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Tommy Harding","President","Harding Insurance","2017","Insurance","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Secretary","Jack Lovelady","n/a","n/a","2017","Banker","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Secretary","Jack Lovelady","n/a","Smith/Lovelady/Hicks/Hicks","2017","Banker","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Secretary","Jack Lovelady","n/a","Stevenson Plaza Shopping Center","2017","Banker","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Danny Crownover","n/a","n/a","2017","Banker","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Ralph Hall","n/a","n/a","2017","Retired","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Lindsey Brothers","2017","State Representative","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Morton Bend Farms LLC","2017","State Representative","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Coosa River Land Co.","2017","State Representative","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Osceola Farms LLC","2017","State Representative","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Kershaw Quarters LLC","2017","State Representative","246134"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Scott Kirk","Owner","Sandmont Specialty","2017","Banker","246134"
+```

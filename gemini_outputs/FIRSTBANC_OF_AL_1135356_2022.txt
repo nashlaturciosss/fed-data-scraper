@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2022","William Larkin Coker","5.74% Common Capital","40000","n/a","257233"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2022","U.S.A.","5.74% Common Capital","40000","n/a","257233"
+"FirstBanc of Alabama,"Inc."","n/a","2022","None","n/a","n/a","n/a","257233"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","President","Brown Lumber and Building Supply","2022","Merchant","257233"
+"FirstBanc of Alabama,"Inc."","Director","Julian M. King","n/a","Tri B Associates,"LLC"","2022","Circuit Judge Retired","257233"
+"FirstBanc of Alabama,"Inc."","Director","Tommy Spears","n/a","n/a","2022","Pharmacist - Retired","257233"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","Barber Properties","2022","Owner / Operator of Real Estate Holding Company","257233"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","Mini Storage,"LLC"","2022","Owner / Operator of Real Estate Holding Company","257233"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","Woodland Hills,"LLC"","2022","Owner / Operator of Real Estate Holding Company","257233"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","R. T. Barber Properties,"LLC"","2022","Owner / Operator of Real Estate Holding Company","257233"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","RBJR Barber Properties","2022","Owner / Operator of Real Estate Holding Company","257233"
+"FirstBanc of Alabama,"Inc."","Director and President","Jonathan Chad Jones","n/a","New Direction Development","2022","Bank Officer","257233"
+"FirstBanc of Alabama,"Inc."","CFO","Chad Miller Thomas","Executive Vice President","n/a","2022","Bank Officer","257233"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Oxford Lumber Company","2022","Merchant","257233"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Roanoke Home Center,"Inc."","2022","Merchant","257233"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Talladega Home Center,"Inc."","2022","Merchant","257233"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Jacksonville Home Center,"Inc."","2022","Merchant","257233"
+"FirstBanc of Alabama,"Inc."","n/a","Charles P. Gaines","President","Gaines & Gaines Law Firm","2022","Attorney at Law","257233"
+```

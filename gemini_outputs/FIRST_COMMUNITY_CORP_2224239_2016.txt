@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"TN"","2016","Sidney K. Lawson","n/a","99400","6.02%","2224239"
+"First Community Corporation","Rogersville,"Tennessee"","2016","Tommy W. Young","n/a","93298","5.65%","2224239"
+"First Community Corporation","Nashville,"TN"","2016","John Spence","n/a","163080","9.87877%","2224239"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Corporation","President Director","Tyler K. Clinch","Chairman and Director","Katharine Square Partnership","2016","Owner","n/a"
+"First Community Corporation","Director","Dr. David R. Johnson","Director","Kingsport Veterinary Hospital","2016","Veterinarian","n/a"
+"First Community Corporation","Director","Sidney K. Lawson","Director","Lawson Construction-President","2016","Owner","n/a"
+"First Community Corporation","Chairman/Secretary Director","Tommy W. Young","Secretary and Director","Retired","2016","Retired","n/a"
+"First Community Corporation","Director","Steve L. Droke","EVP and Director","n/a","2016","n/a","n/a"
+"First Community Corporation","Director","David L. Lunceford","Director","Retired","2016","Retired","n/a"
+"First Community Corporation","Treasurer","James Maddox","VP and CFO","n/a","2016","n/a","n/a"
+```

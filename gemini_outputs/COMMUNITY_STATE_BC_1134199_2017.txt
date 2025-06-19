@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community State Bank","Starke,"FL"","2017","Debra Johns & Frank Williams Trust","Common","2766.50","18.45%","853934"
+"Community State Bank","Starke,"FL"","2017","Phillip J Johns Trust","Common","2819.50","18.79%","853934"
+"Community State Bank","Orlando,"FL"","2017","Markelyann Johns Cash","Common","2962","19.75%","853934"
+"Community State Bank","St. Augustine,"FL"","2017","Trustee of the Betty Wuenschel Reveocable Trust","Common","3527","23.51%","853934"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community State Bank","Director","Phillip J John Trust","n/a","n/a","2017","n/a","853934"
+"Community State Bank","n/a","Debra J Johns & Frank Williams Trust","n/a","n/a","2017","n/a","853934"
+"Community State Bank","Chairman/ Director","Estate of Betty Wuensche","n/a","n/a","2017","n/a","853934"
+"Community State Bank","Director","William Adams","n/a","n/a","2017","n/a","853934"
+"Community State Bank","Director","Markley Ann Cash","n/a","n/a","2017","n/a","853934"
+"Community State Bank","Director","Jeff Oody","President","C.O.R Developments","2017","n/a","853934"
+"Community State Bank","Director","Jeff Oody","Partner","C.O.R Developments","2017","n/a","853934"
+"Community State Bank","V Chairman/Director","Terry L Vaughan or Jennifer N Vaughan","Bradford Co. Supervisor of Elections","n/a","2017","n/a","853934"
+"Community State Bank","SR Vice President/COO","Carolyn Reddish","Asst. Secretary","n/a","2017","n/a","853934"
+"Community State Bank","EVP/CFO","Eugene Richardson","Owner","Baker Loan Company","2017","n/a","853934"
+"Community State Bank","VP\Branch Manger","Jennie Reed","n/a","n/a","2017","n/a","853934"
+"Community State Bank","AVP","Andrea Bailey","n/a","n/a","2017","n/a","853934"
+"Community State Bank","Compliance","James Eison","n/a","n/a","2017","n/a","853934"
+"Community State Bank","AVP","Tammie Woodard","n/a","n/a","2017","n/a","853934"
+"Community State Bank","VP","Jon Grebinger","n/a","n/a","2017","n/a","853934"
+```

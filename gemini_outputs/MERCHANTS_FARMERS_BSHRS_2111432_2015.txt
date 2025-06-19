@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2015","Jane Byrant Banks","n/a","6589","11.7123%","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2015","James O. Banks,"Jr."","n/a","2971","5.2811%","2111 432"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Director","Kevin Jockisch","Director","Joe's Repair Shop","2015","Repair Service","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Chairman,"CEO & Director"","Alvis Storey","n/a","n/a","2015","Banker","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","President & Director","Ralph R. Banks,"III"","n/a","n/a","2015","Banker","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","n/a","n/a","2015","Lawyer","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Director","James O. Banks,"Jr."","n/a","Banks and Company","2015","Merchant","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Gavin Edgar","n/a","Foodland","2015","Merchant","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Executive Vice President","Daniel M. Garnand","n/a","n/a","2015","Banker","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Cashier","Andrew Harrison Banks","n/a","n/a","2015","Banker","2111 432"
+"Merchants and Farmers Bancshares,"Inc."","Stockholder","Jane Bryant Banks","MANAGER","JEB,"LLC"","2015","Principal","2111 432"
+```

@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"HEART OF GEORGIA BANCSHARES,"INC."","Dublin,"GA"","2015","Thigpen,"Jr.","Robert E"","n/a","56100","23.45%","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Mt. Vernon,"GA"","2015","Thigpen,"Donald M"","n/a","58805","24.58%","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Mt. Vernon,"GA"","2015","Mount Vernon Bank KSOP Plan#D71 Executer/Trustee - Gina Davis,"D Alan Thigpen and Ronnie Green"","n/a","24651","10.31%","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Glenwood,"GA"","2015","Joiner Jr.,"G. M"","n/a","19410","8.11%","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Mt. Vernon,"GA"","2015","Roller,"John"","n/a","17043","7.12%","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Vidalia,"GA"","2015","Sumner,"Vernon"","n/a","13277","5.55%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"HEART OF GEORGIA BANCSHARES,"INC."","President & CEO,"Director"","Donald M Thigpen","n/a","n/a","2015","see title and position with subsidiary","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Chairman,"Director"","Robert E. Thigpen,"Jr."","n/a","n/a","2015","Retired-CPA","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Director","D Alan Thigpen","n/a","n/a","2015","see title and position with subsidiary","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","Secretary","Gina Davis","n/a","n/a","2015","see title and position with subsidiary","n/a"
+"HEART OF GEORGIA BANCSHARES,"INC."","n/a","Mount Vermon Bank 401 KSOP Plan D71 Executor/Trustees-Gina Davis,"D. Alan Thigpen"","n/a","n/a","2015","None","n/a"
+```

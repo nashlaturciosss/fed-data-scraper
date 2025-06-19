@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2017","C.W. Durrence,"Jr."","Common Stock","12150","8%","n/a"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2017","Durrence Family","Common Stock","27090","19%","n/a"
+"GB BANK GROUP,"INC."","Ft. Lauderdale,"FL"","2017","Anderson Family","Common Stock","26365","19%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GB BANK GROUP,"INC."","Director","Ricky E. Wilson","n/a","n/a","2017","Business Owner","n/a"
+"GB BANK GROUP,"INC."","President/CEO","Tracy M. Durrence","n/a","n/a","2017","None","n/a"
+"GB BANK GROUP,"INC."","Executive Vice President","Reba L. Woodcock","n/a","n/a","2017","None","n/a"
+"GB BANK GROUP,"INC."","Executive Vice President/CFO/Secretary","Will J. Sheffield","n/a","n/a","2017","None","n/a"
+"GB BANK GROUP,"INC."","Vice President","John W. Lane","n/a","n/a","2017","None","n/a"
+"GB BANK GROUP,"INC."","Principal Shareholder","Ruby Jo Durrence","n/a","n/a","2017","Retired Homemaker","n/a"
+"GB BANK GROUP,"INC."","Director","W.F. ""Bill"" Durrence,"Jr."","n/a","n/a","2017","Farmer","n/a"
+"GB BANK GROUP,"INC."","Director","Nicholas C. Tatum","n/a","n/a","2017","Educator","n/a"
+"GB BANK GROUP,"INC."","Chairman","C.W. Durrence,"III"","n/a","n/a","2017","Pharmacist","n/a"
+"GB BANK GROUP,"INC."","Director","Ronnie A. Barnhill","n/a","n/a","2017","Accountant","n/a"
+"GB BANK GROUP,"INC."","Director","Jimmy B. McCurdy","n/a","n/a","2017","Business Owner","n/a"
+"GB BANK GROUP,"INC."","Director","Donna K. Tootle","n/a","n/a","2017","Retired Educator","n/a"
+```

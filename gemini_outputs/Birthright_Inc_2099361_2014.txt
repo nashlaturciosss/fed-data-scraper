@@ -1,22 +1,20 @@
-Here are the two requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Birthright,"Incorporated"","West Norriton","2014","James W. Wright Irrevocable Administrative Trust","Common Stock","2998","21.92%"
-"Birthright,"Incorporated"","Pike Road","2014","LaBarron & Lori Boone","Common Stock","2079","15.20%"
-"Birthright,"Incorporated"","Auburn","2014","Ernest Holland","Common Stock","1339","9.79%"
-"Birthright,"Incorporated"","Montgomery","2014","Neill S. Wright","Common Stock","1253","9.16%"
-"Birthright,"Incorporated"","Auburn","2014","Paul T. Marshall & Dolly A. Marshall Living Trust","Common Stock","949","6.94%"
-"Birthright,"Incorporated"","Pike Road","2014","Kendall Dunson","Common Stock","791","5.78%"
-"Birthright,"Incorporated"","Washington","2014","Thomas Pinder","Common Stock","771","5.64%"
-"Birthright,"Incorporated"","n/a","2014","NONE","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Birthright,"Incorporated"","West Norriton,"PA"","2014","James W. Wright Irrevocable Administrative Trust,"dated December 18","2010"","Common Stock","2998","21.92%","n/a"
+"Birthright,"Incorporated"","Pike Road,"AL"","2014","LaBarron & Lori Boone","Common Stock","2079","15.20%","n/a"
+"Birthright,"Incorporated"","Auburn,"AL"","2014","Ernest Holland","Common Stock","1339","9.79%","n/a"
+"Birthright,"Incorporated"","Montgomery,"AL"","2014","Neill S. Wright","Common Stock","1253","9.16%","n/a"
+"Birthright,"Incorporated"","Auburn,"AL"","2014","Paul T. Marshall & Dolly A. Marshall Living Trust","Common Stock","949","6.94%","n/a"
+"Birthright,"Incorporated"","Pike Road,"AL"","2014","Kendall Dunson","Common Stock","791","5.78%","n/a"
+"Birthright,"Incorporated"","Washington,"DC"","2014","Thomas Pinder","Common Stock","771","5.64%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Birthright,"Incorporated"","President & CEO","Neill S. Wright","Director,"President & CEO"","First Tuskegee Bank","2014"
-"Birthright,"Incorporated"","Corporate Secretary","Helena Duncan","Director,"EVP"","First Tuskegee Bank","2014"
-"Birthright,"Incorporated"","n/a","James W. Wright Irrevocable Administrative Trust","n/a","n/a","2014"
-"Birthright,"Incorporated"","n/a","LaBarron N. Boone","n/a","n/a","2014"
-"Birthright,"Incorporated"","n/a","Lori Boone","n/a","n/a","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Birthright,"Incorporated"","President & CEO","Neill S. Wright","Director,"President & CEO"","First Tuskegee Bank","2014","Banker","n/a"
+"Birthright,"Incorporated"","Director,"EVP"","Helena Duncan","Chief Administrative Officer","First Tuskegee Bank","2014","Banker","n/a"
+"Birthright,"Incorporated"","n/a","James W. Wright Irrevocable Administrative Trust,"dated December 18","2010"","n/a","n/a","2014","N/A","n/a"
+"Birthright,"Incorporated"","n/a","LaBarron N. Boone","n/a","n/a","2014","Attorney","n/a"
+"Birthright,"Incorporated"","n/a","Lori Boone","n/a","n/a","2014","Homemaker","n/a"
 ```

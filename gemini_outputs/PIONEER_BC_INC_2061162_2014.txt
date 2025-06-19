@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2014","Miller Couse","n/a","13944","8.815%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2014","Couse Farms,"Inc."","n/a","8947","5.656%","n/a"
+"PIONEER BANKCORP,"INC."","Thonotassa,"FL"","2014","Knightlife,"LLC"","n/a","8000","5.057%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2014","First Bank-ESOP","n/a","17573","11.109%","n/a"
+"PIONEER BANKCORP,"INC."","Memphis,"TN"","2014","Henry A Kurtz","n/a","10563","6.677%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PIONEER BANKCORP,"INC."","President & Director","Miller Couse","President-","Couse Farms,"Inc."","2014","President/CEO","n/a"
+"PIONEER BANKCORP,"INC."","President & Director","Miller Couse","President-","Moore Haven,"FL"","2014","President/CEO","n/a"
+"PIONEER BANKCORP,"INC."","Vice President & Director","Carey Soud","Vice President-","Soud Groves,"Inc."","2014","President","n/a"
+"PIONEER BANKCORP,"INC."","Vice President & Director","Carey Soud","General Partner-","Soud Family Groves","2014","President","n/a"
+"PIONEER BANKCORP,"INC."","Secretary","Randall N. Wood","n/a","n/a","2014","Vice President & CFO","n/a"
+"PIONEER BANKCORP,"INC."","Director","Tommy Perry","Owner","Johnson-Prewitt & Associates","2014","Civil Engineer/ Land surveyor","n/a"
+"PIONEER BANKCORP,"INC."","Director","Tommy Perry","Co-Owner","Perry Farms","2014","Civil Engineer/ Land surveyor","n/a"
+"PIONEER BANKCORP,"INC."","Director","Morris Ridgdill","Owner/President","Ridgdill & Son Construction","2014","Construction/ Property Development","n/a"
+"PIONEER BANKCORP,"INC."","Director","Morris Ridgdill","n/a","Clewiston,"FL"","2014","Construction/ Property Development","n/a"
+"PIONEER BANKCORP,"INC."","Director","Earle E. Edwards III","Owner/President","Earle E. Edwards III,"DDS"","2014","Orthodontist","n/a"
+"PIONEER BANKCORP,"INC."","Director","Earle E. Edwards III","n/a","Clewiston,"FL"","2014","Orthodontist","n/a"
+"PIONEER BANKCORP,"INC."","Director","Karl Larsen","Owner","GMAC Enterprises","2014","Farm Manager","n/a"
+"PIONEER BANKCORP,"INC."","Director","Karl Larsen","n/a","Clewiston,"FL"","2014","Farm Manager","n/a"
+"PIONEER BANKCORP,"INC."","Director","Bryan Beer","Owner","Labelle Grove Management","2014","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","Director","Bryan Beer","n/a","Labelle,"FL"","2014","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","N/A","First Bank-ESOP","N/A","N/A","2014","Principal Shareholder","n/a"
+```

@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Millennium Bank","Ooltewah,"TN"","2017","P. Byron DeFoor","Common Stock","1667373","62%","2820604"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Millennium Bank","Director","Dan M. Boyd IV","Director","Alliance Bank & Trust","2017","Banker","n/a"
+"Millennium Bank","Director","Dan M. Boyd IV","President & CEO","AB&T Financial Corporation","2017","Banker","n/a"
+"Millennium Bank","Director","Dan M. Boyd IV","Director","Times Oil Corporation","2017","Banker","n/a"
+"Millennium Bank","Principal Securities Holder","P. Byron DeFoor","n/a","n/a","2017","Senior Housing and Long-Term Care","n/a"
+"Millennium Bank","Chairman of the Board","Craig D. Taylor","n/a","Contemporary Healthcare Capital,"LLC"","2017","Asset Manager","n/a"
+"Millennium Bank","Chairman of the Board","Craig D. Taylor","Director & Vice Chairman","AB&T Financial Corporation","2017","Asset Manager","n/a"
+"Millennium Bank","Chairman of the Board","Craig D. Taylor","Director & Vice Chairman","Alliance Bank & Trust","2017","Asset Manager","n/a"
+"Millennium Bank","Director","H. Kenton Hamilton","Director","Chattanooga Convention & Visitors Bureau","2017","Retired Physician","n/a"
+"Millennium Bank","Director","H. Kenton Hamilton","Trustee","Southern Adventist University","2017","Retired Physician","n/a"
+"Millennium Bank","Director","John P. O'Brien,"Jr."","n/a","Nursing Homes","2017","Investment Funds","n/a"
+"Millennium Bank","Director & President","Michael E. Haskew","Director","Alliance Bank & Trust","2017","N/A","n/a"
+"Millennium Bank","Director & President","Michael E. Haskew","Director","Chattanooga Tennis Foundation","2017","N/A","n/a"
+"Millennium Bank","Director & President","Michael E. Haskew","Director","Humane Educational Society of Chattanooga","2017","N/A","n/a"
+"Millennium Bank","Director & President","Michael E. Haskew","Director","Medal of Honor","2017","N/A","n/a"
+"Millennium Bank","Director & EVP","Gregory A. Henry","Heritage Center","n/a","2017","N/A","n/a"
+"Millennium Bank","Director & EVP","D. Scott Howell","n/a","n/a","2017","N/A","n/a"
+"Millennium Bank","SVP","Paul D. Ragland","Director","PaymentsFirst","2017","N/A","n/a"
+"Millennium Bank","SVP","Karen H. Billingsley","n/a","n/a","2017","N/A","n/a"
+"Millennium Bank","Director","Kenneth J. DeFoor","n/a","n/a","2017","Real Estate Development","n/a"
+```

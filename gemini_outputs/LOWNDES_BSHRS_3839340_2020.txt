@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Morven,"GA"","2020","John W. Langdale,"Jr. as Trustee of John W. Langdale Jr. Trust B"","n/a","12600","100.0%","n/a"
+"Lowndes Bancshares,"Inc."","Morven,"GA"","2020","John W. Langdale,"Jr."","n/a","12600","100.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Chairman,"CEO"","The Langdale Company","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Operating Manager","Langdale Farms,"LLC"","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Chairman,"Operating Manager"","Langdale Woodlands,"LLC"","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Member Manager","Kinderlou Forest Development,"LLC"","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Director,"Chairman"","Southland Forest Products,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","James H. Langdale","Director,"President"","Langdale Forest Products Co.","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","James H. Langdale","Director,"President"","Lanco Trucking,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","James H. Langdale","Director,"President"","Composite Materials Technology,"LLC"","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","James H. Langdale","Director,"President"","Langdale Fuel Co.","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","James H. Langdale","Director,"President"","Langboard,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice President"","Larry K. Fudge","Operating Manager","TLC Land,"LLC"","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J. Miller","Director,"Vice-President"","The Val d'Aosta Company","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J. Miller","Director,"Vice-President"","Industrial Cutting Tools,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J. Miller","Director,"Vice-President"","TLC Building Components,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J. Miller","Director,"Vice-President"","Longleaf Property Management of Valdosta,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director","Donald K. Warren","Director,"President"","Fussell Tire and Service,"Inc."","2020","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"President"","George D. Russell","n/a","n/a","2020","n/a","n/a"
+```

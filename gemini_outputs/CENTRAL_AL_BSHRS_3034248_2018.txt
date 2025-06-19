@@ -1,26 +1,23 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Earl Ryser","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Spencer J. Coleman,"Sr. MD"","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Sheila Spiers","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Prattville","2018","Albert Striplin","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Travis Cosby,"III"","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Deatsville","2018","Michael R. Morgan","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","John R. Williams","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Johnny M. Carothers,"Jr."","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Eclectic","2018","Rana S. Futral","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2018","Brian Barrett","n/a","n/a","n/a"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Alabama Bancshares,"Inc."","Contractor","Earl Ryser","Director","n/a","2018"
-"Central Alabama Bancshares,"Inc."","Physician","Spencer J. Coleman,"Sr. MD"","Director","n/a","2018"
-"Central Alabama Bancshares,"Inc."","Retired Banker","Sheila Spiers","Director","n/a","2018"
-"Central Alabama Bancshares,"Inc."","Finance","Albert Striplin","Director","KeyFinance Co. Inc. (>5%) ALMA LLC (>5%) Striplin Family LLC (>5%) Twatt LLC (>5%)","2018"
-"Central Alabama Bancshares,"Inc."","Banker","Travis Cosby,"III"","Chairman/Director","Trico Financial Services LLC (30%)","2018"
-"Central Alabama Bancshares,"Inc."","Banker","Michael R. Morgan","President and CEO Director","n/a","2018"
-"Central Alabama Bancshares,"Inc."","Mortgage Lender","John R. Williams","Director","Mortgage Corporation of the South (100%)","2018"
-"Central Alabama Bancshares,"Inc."","Forester","Johnny M. Carothers,"Jr."","Director","Baseline Forest Services (25%)","2018"
-"Central Alabama Bancshares,"Inc."","Banker","Rana S. Futral","EVP/CFO/Director","n/a","2018"
-"Central Alabama Bancshares,"Inc."","Dentist","Brian Barrett","Director","Brian E. Barrett DMD PC","2018"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2018","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Director","Earl Ryser","n/a","n/a","2018","Contractor","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Spencer J. Coleman,"Sr. MD"","n/a","n/a","2018","Physician","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Sheila Spiers","n/a","n/a","2018","Retired Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","KeyFinance Co. Inc.","2018","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","ALMA LLC","2018","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","Striplin Family LLC","2018","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","Twatt LLC","2018","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","n/a","Trico Financial Services LLC","2018","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","President and CEO
+"Director"","Michael R. Morgan","n/a","n/a","2018","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","John R. Williams","President","Mortgage Corporation of the South","2018","Mortgage Lender","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Johnny M. Carothers,"Jr."","President","Baseline Forest Services,"Inc."","2018","Forester","n/a"
+"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","n/a","n/a","2018","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Brian Barrett","n/a","Brian E. Barrett DMD PC","2018","Dentist","n/a"
 ```

@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2015","William D. Morrison,"Jr."","n/a","45456","7%","1085862"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2015","William D. Morrison,"Jr."","None","n/a","n/a","1085862"
+"Exchange Bankshares,"Inc."","New York,"NY"","2015","CEDE & Co.","n/a","54184","8.34%","1085862"
+"Exchange Bankshares,"Inc."","New York,"NY"","2015","CEDE & Co.","None","n/a","n/a","1085862"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2015","Morrison Family Partnership LP","n/a","89080","13.72%","1085862"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2015","Morrison Family Partnership LP","None","n/a","n/a","1085862"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","n/a","Allen Construction Co.","2015","Contractor","1085862"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","n/a","Moores Funeral Home","2015","Funeral Director and Cemeterian","1085862"
+"Exchange Bankshares,"Inc."","Director","Thomas L. Davidson,"Jr."","n/a","Dr. Thomas L. Davidson,"Jr. DDS","PC"","2015","Dentist","1085862"
+"Exchange Bankshares,"Inc."","Director","John W. Grant,"III"","n/a","J. C. Grant Co.","2015","n/a","1085862"
+"Exchange Bankshares,"Inc."","Director","John F. Harrington,"Jr."","n/a","Dr. John F. Harrington,"Jr. DDS","PC"","2015","Dentist","1085862"
+"Exchange Bankshares,"Inc."","Director","J. Wesley King,"Jr."","n/a","Oconee Medical Associates","2015","Physician","1085862"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","n/a","Baynes Army Store","2015","Retail Merchant","1085862"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","n/a","B&N Investments","2015","Retail Merchant","1085862"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","n/a","BNS Properties","2015","Retail Merchant","1085862"
+"Exchange Bankshares,"Inc."","President/CEO Exchange Bank","Henry J. Pope,"Jr."","President/CEO Exchange Bank","n/a","2015","n/a","1085862"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","n/a","n/a","2015","Physician","1085862"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2015","Retired BASF","1085862"
+```

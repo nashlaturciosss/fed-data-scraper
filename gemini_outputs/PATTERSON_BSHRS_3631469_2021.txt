@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2021","Robert D. Watson","Common Stock","72262","35.16%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2021","William R. Marin,"Jr."","Common Stock","37875","18.43%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2021","Peter J. Lipari","Common Stock","21800","10.61%","n/a"
+"Patterson Bancshares,"Inc."","Factoryville,"PA"","2021","Susan Jennings","Common Stock","16398","7.98%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bancshares,"Inc."","Director & Chairman Emeritus","Robert D. Watson","n/a","n/a","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & Chairman,"Executive V.P."","William R. Marin,"Jr."","n/a","n/a","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & President Emertius","Peter J. Lipari","Secretary","Waveland Plantation","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & C.Ε.Ο.","Robert M. Marin","n/a","n/a","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & President","Jason H. Watson","n/a","n/a","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Robert S. Carter","Partner","Kolder,"Champagne","Slaven and Company"","2021","Public Accounting (Partner)","85931"
+"Patterson Bancshares,"Inc."","Director","Dennis W. Taylor","n/a","n/a","2021","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Russel J. Cremaldi","Partner","Biggs,"Supple","Cremaldi & Curet","LLP"","2021","Attorney at Law (Partner)","85931"
+"Patterson Bancshares,"Inc."","Director","Edward B. Jones","Attorney At Law","Edward Jones","2021","Attorney at Law (Owner)","85931"
+"Patterson Bancshares,"Inc."","Director","Jeffrey Rau","n/a","Rau Plastic Surgery,"LLC"","2021","Medical Doctor (Owner)","85931"
+```

@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2016","Mary B Garnand","n/a","7964","14.2451%","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2016","James O. Banks,"Jr."","n/a","2971","5.3142%","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2016","Ernestelle P. Durrett","n/a","3113","5.5682%","2111432"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kevin Jockisch","Director","Joe's Repair Shop","2016","Repair Service","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Chairman,"CEO & Director"","Alvis Storey (Betty Storey)","n/a","n/a","2016","Banker","2111432"
+"Merchants & Farmers Bancshares,"Inc."","President & Director","Ralph R. Banks,"III Ellen N. Banks"","n/a","n/a","2016","Banker","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","n/a","n/a","2016","Lawyer","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Director","James O. Banks,"Jr. (Connie R. Banks)"","Owner","Banks and Company","2016","Merchant","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Director","Gavin Edgar","Partner","Foodland","2016","Merchant","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Executive Vice President","Daniel M. Garnand (Mary B Garnand) (James B Garnand)","n/a","n/a","2016","Banker","2111432"
+"Merchants & Farmers Bancshares,"Inc."","Cashier","Andrew Harrison","n/a","n/a","2016","Banker","2111432"
+```

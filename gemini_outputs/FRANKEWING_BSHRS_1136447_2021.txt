@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2021","BETTY HOPKINS","common stock","150120","9.836%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2021","MEADE C HOPKINS","common stock","177840","11.652%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2021","EARL WAKEFIELD","common stock","164371","10.769%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"TN"","2021","2014 WAKEFIELD FAMILY TRUST","common stock","114608","7.509%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Frankewing","Director,"President"","David W. Barnes","n/a","n/a","2021","n/a","n/a"
+"Bank of Frankewing","Director,"Manager"","David Blake Lay","n/a","ISS Enterprises,"LLC"","2021","Property Management","n/a"
+"Bank of Frankewing","Director,"Chairman","Director & CEO"","Meade C Hopkins","n/a","n/a","2021","n/a","n/a"
+"Bank of Frankewing","Director","Gerald Martin","n/a","n/a","2021","Retired","n/a"
+"Bank of Frankewing","Director","Mike Mayfield","n/a","n/a","2021","Retired","n/a"
+"Bank of Frankewing","Director,"EVP/Cashier"","Jeff Stewart","n/a","n/a","2021","n/a","n/a"
+"Bank of Frankewing","n/a","Earl Wakefield","n/a","n/a","2021","Retired","n/a"
+"Bank of Frankewing","Director","James I Greene,"Jr."","n/a","Over There,"LLC"","2021","Professor","n/a"
+"Bank of Frankewing","Director","James I Greene,"Jr."","n/a","Umbrella Properties,"LLC"","2021","Professor","n/a"
+```

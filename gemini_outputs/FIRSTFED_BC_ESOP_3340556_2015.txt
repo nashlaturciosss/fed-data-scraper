@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2015","FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","n/a","783457","15.02%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2015","James E. Mulkin","n/a","790794","14.76%","n/a"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2015","B. K. Goodwin,"III"","n/a","413589","7.93%","n/a"
+"FirstFed Bancorp,"Inc."","Morris,"AL"","2015","Henry A. Parker","n/a","312451","5.99%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2015","James B. Koikos","n/a","303475","5.82%","n/a"
+"FirstFed Bancorp,"Inc."","McCalla,"AL"","2015","Patricia P. Russell","n/a","265257","5.09%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstFed Bancorp,"Inc."","Chairman of the Board,"C.E.O. and President of FirstFed Bancorp","Inc. and First Financial Bank"","B. K. Goodwin,"III"","n/a","n/a","2015","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Director","James B. Koikos","n/a","Bright Star Restaurant,"Inc."","2015","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","James B. Koikos","n/a","Bright Star Realty,"Inc."","2015","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","James B. Koikos","n/a","Bright Star Investment","2015","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","James B. Koikos","n/a","G. K. Properties","2015","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","E. H. Moore,"Jr."","n/a","Buddy Moore Trucking,"Inc."","2015","Trucking Company Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","James E. Mulkin","n/a","Mulkin Enterprises","2015","Investments","n/a"
+"FirstFed Bancorp,"Inc."","Director","Henry Parker Morris","n/a","n/a","2015","Manufacturing Company Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director","R. Shan Paden","n/a","Paden and Paden,"P.C."","2015","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Executive Vice President and Treasurer of FirstFed Bancorp,"FirstFed Bancorp","Inc.","and Chief Financial Officer and Executive Vice President of First Financial Bank"","Kyle Goodwin","n/a","n/a","2015","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Senior Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Neil Walker","n/a","n/a","2015","n/a","n/a"
+```

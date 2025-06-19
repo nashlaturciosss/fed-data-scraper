@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Darrell Beasley","n/a","23868","21.76%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Jacquelyn J. Elrod,"Trustee of the Elrod Family Gift Trust"","n/a","16252","14.82%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Rabun Beasley","n/a","10533","9.60%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Zachary T. Johnson","n/a","10232","9.33%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Derek N. Johnson","n/a","6019","5.49%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2014","Latrelle McLeod","n/a","5514","5.03%","3140961"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","Officer","Beasley Forst Products,"Inc."","2014","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","Partner","Beasley Timber Management,"LLC"","2014","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","Partner","Beasley Timber Company,"Inc."","2014","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","Partner,"Shareholder"","Beasley Tree Farms,"LLC"","2014","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","Partner","Beasley Renewable Fuels,"LLC"","2014","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Principle and Shareholder","Jacquelyn J. Elrod","Partner","Hazlehurst Main Street,"Inc."","2014","Teller","3140961"
+"Hazlehurst Investors,"Inc."","Director","Grant Gainer","President","Gainer Brothers,"Inc."","2014","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","Director","Grant Gainer","Secretary","Gainer & Ragland,"Inc."","2014","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","Director","Latrelle McLeod","Treasurer","Kennith D. McLeod,"CPA","PC"","2014","Accounting - Officer Manager","3140961"
+"Hazlehurst Investors,"Inc."","Secretary/Treasurer","James H. Peterson","Regional Manager","PalletOne","2014","PalletOne
+"Regional Manager"","3140961"
+"Hazlehurst Investors,"Inc."","Director","Jimmie Ryles","President","Ryles Maximum Auto Care,"Inc."","2014","Sales & Procurement","3140961"
+"Hazlehurst Investors,"Inc."","Director","Marcus Trowell,"Jr."","President","Trowell Insurance Agency","2014","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","Director","Marcus Trowell,"Jr."","President","Trowell,"Inc."","2014","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","Director","Marcus Trowell,"Jr."","Trustee","J.E. Trowell Family Trust","2014","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","Director,"Chairman"","E. M. Wilkes,"III"","Director & Secretary","Jeff Davis Athletic Association,"Inc."","2014","Superior Court Judge","3140961"
+"Hazlehurst Investors,"Inc."","President/CEO,"Director"","Leonard H. Bateman","n/a","n/a","2014","Bank President","3140961"
+```

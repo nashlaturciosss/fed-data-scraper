@@ -1,12 +1,11 @@
-Here are the requested extractions in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"APOLLO BANCSHARES,"INC."","Hillsborough Beach","2015","Nicholas DiTempora","n/a","200000","5.31%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"APOLLO BANCSHARES,"INC."","Hillsborough Beach,"Florida"","2015","Nicholas DiTempora","n/a","200000","5.31%","4020994"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"APOLLO BANCSHARES,"INC."","Chairman & CEO","Eduardo Arriola","Chairman","Apollo Bank","2015"
-"APOLLO BANCSHARES,"INC."","Executive Vice President - Secretary","Richard Dailey","President & CEO","Apollo Bank","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"APOLLO BANCSHARES,"INC."","Chairman & CEO","Eduardo Arriola","n/a","Inktel Direct Corporation","2015","Chairman,"Apollo Bank"","4020994"
+"APOLLO BANCSHARES,"INC."","Executive Vice President - Secretary","Richard Dailey","n/a","n/a","2015","President & CEO,"Apollo Bank"","4020994"
 ```

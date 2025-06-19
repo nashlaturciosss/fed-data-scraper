@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First IC Corporation","McDonough,"GA"","2019","Chong W Chun and Kyong H Chun","Common Stock","744010","9.14%","n/a"
+"First IC Corporation","McDonough,"GA"","2019","Chong W Chun and Kyong H Chun","Options on Common Stock","46349","0.57%","n/a"
+"First IC Corporation","McDonough,"GA"","2019","Chong W Chun and Kyong H Chun","Family Owned Common Stock","86914","1.07%","n/a"
+"First IC Corporation","Atlanta,"GA"","2019","Choong S Cho and Boksoo Kim Cho","Common Stock","480720","5.94%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2019","Myong Tul Chu","Common Stock","450372","5.57%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2019","Myong Tul Chu","Family Owned Common Stock","57308","0.71%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director,"Chairman"","Chong W Chun","n/a","n/a","2019","n/a","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha","2019","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Oasis International Cuisine Inc.","2019","Business Owner","n/a"
+"First IC Corporation","Director","Do Hyun Kim","n/a","n/a","2019","n/a","n/a"
+"First IC Corporation","Director","Eui Suk Lee","n/a","n/a","2019","n/a","n/a"
+"First IC Corporation","Director","Suk Hyun Kim","Co-Owner","Net K,"INC"","2019","Business Owner","n/a"
+"First IC Corporation","Director","Lucio Minn","n/a","n/a","2019","n/a","n/a"
+"First IC Corporation","Director,"President/CEO"","Dong Wook Kim","n/a","n/a","2019","n/a","n/a"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2019","n/a","n/a"
+```

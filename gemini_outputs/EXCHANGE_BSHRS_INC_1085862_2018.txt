@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2018","William D. Morrison,"Jr."","n/a","45456","7.27%","n/a"
+"Exchange Bankshares,"Inc."","New York,"NY"","2018","CEDE & Co.","n/a","82569","13.20%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2018","Morrison Family Partnership LP","n/a","89080","14.24%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Owner","Allen Construction Company","2018","Contractor","n/a"
+"Exchange Bankshares,"Inc."","n/a","CEDE & CO.","n/a","n/a","2018","N/A","n/a"
+"Exchange Bankshares,"Inc."","Executive Vice President","John C. Childs,"Jr."","n/a","n/a","2018","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","President","Moores Funeral Home Inc.","2018","Funeral Director and Cemeterian","n/a"
+"Exchange Bankshares,"Inc."","Vice Chairman of the Board","John W. Grant,"III"","Director","Georgia College","2018","Georgia College Director of Community Engagement","n/a"
+"Exchange Bankshares,"Inc."","Secretary","Arthur T. Gunn","n/a","n/a","2018","Retired from Exchange Bank","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. John F. Harrington,"Jr."","Dentist","John F. Harrington,"Jr. DDS"","2018","Dentist","n/a"
+"Exchange Bankshares,"Inc."","n/a","Morrison Family Partnership LP","n/a","n/a","2018","N/A","n/a"
+"Exchange Bankshares,"Inc."","n/a","William D. Morrison,"Jr."","n/a","n/a","2018","N/A","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Co-Owner/Managing Partner","VBRN Investments","2018","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","President/CEO","Henry J. Pope,"Jr."","n/a","n/a","2018","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","Navicent Health Baldwin","2018","Physician","n/a"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2018","Retired BASF","n/a"
+"Exchange Bankshares,"Inc."","Treasurer","Roy D. Washburn III","n/a","n/a","2018","CFO Exchange Bank","n/a"
+```

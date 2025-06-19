@@ -1,0 +1,38 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Partners Financial,"Inc."","Birmingham,"AL"","2016","Scott Gregory Davis Sr. Testamentary Article 6 GST Trust - Beneficial ownership Cae Allen","Common Stock","124096","8.76%","4500115"
+"First Partners Financial,"Inc."","Birmingham,"AL"","2016","Elam P. Holley,"Jr."","Common Stock","77969","5.50%","4500115"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Partners Financial,"Inc."","Director & Chairman","Charles A. McCallum,"III"","Attorney","McCallum,"Hoaglund","Cook & Irby","LLP"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director & Chairman","Charles A. McCallum,"III"","Attorney","MHCI Properties,"LLC"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director & Chairman","Charles A. McCallum,"III"","Attorney","McCallum Campaign","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director & Chairman","Charles A. McCallum,"III"","Attorney","Mides Development Co.,"LLP"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director & Chairman","Charles A. McCallum,"III"","Attorney","Summit Cleaners,"LLC"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director","Christopher R. Cooper","President & Owner","Boyd Bros. Transportation,"Inc."","2016","Transportation Services","4500115"
+"First Partners Financial,"Inc."","Director","Jane Solomon","President & Owner","Barlovento,"LLC"","2016","Government General Contractor","4500115"
+"First Partners Financial,"Inc."","Director","Kevin B. Kynerd","President","Bradford Building Company,"Inc."","2016","Construction Services","4500115"
+"First Partners Financial,"Inc."","Director","Kevin B. Kynerd","President","Bradford Partners,"LLC"","2016","Construction Services","4500115"
+"First Partners Financial,"Inc."","Director","Kevin B. Kynerd","President","MAK Investment Group","2016","Construction Services","4500115"
+"First Partners Financial,"Inc."","Director","Kevin B. Kynerd","President","2151 Partnership,"LLC"","2016","Construction Services","4500115"
+"First Partners Financial,"Inc."","Director","Kevin B. Kynerd","President","CGP Management","2016","Construction Services","4500115"
+"First Partners Financial,"Inc."","Director","Mark Clark","Oral & Maxillofacial Surgeon","Clark Holmes,"Oral Facial Surgery of Alabama"","2016","Surgeon","4500115"
+"First Partners Financial,"Inc."","Director","Mark Clark","Oral & Maxillofacial Surgeon","Oral & Facial Surgery","2016","Surgeon","4500115"
+"First Partners Financial,"Inc."","Director","Mark Clark","Oral & Maxillofacial Surgeon","Clark Surgery Center","2016","Surgeon","4500115"
+"First Partners Financial,"Inc."","Director","Mark Clark","Oral & Maxillofacial Surgeon","Trussville Surgical","2016","Surgeon","4500115"
+"First Partners Financial,"Inc."","Director","Richard Freese","Attorney","Freese & Goss,"PLLC"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director","Richard Freese","Attorney","Esquire Records,"LLC"","2016","Attorney","4500115"
+"First Partners Financial,"Inc."","Director","William A. Visintainer","CEO and President","Atlas Welding Supply Co.,"Inc."","2016","Welding Supply Services","4500115"
+"First Partners Financial,"Inc."","Director","William A. Visintainer","CEO and President","Visintainer Holdings,"LLC"","2016","Welding Supply Services","4500115"
+"First Partners Financial,"Inc."","Director,"CEO & President"","Elam P. Holley,"Jr."","n/a","Cahaba Ridge Farms","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Director,"CEO & President"","Elam P. Holley,"Jr."","n/a","Holley Development","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Director,"CEO & President"","Elam P. Holley,"Jr."","n/a","Cahaba Ridge Hunting Lodge","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Executive Vice President & Chief Financial Officer","Kenneth Till","n/a","Bushwacker,"LLC"","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Executive Vice President & Chief Financial Officer","Kenneth Till","n/a","Seacor,"LLC"","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Chief Credit Officer","Scott Matthews","n/a","n/a","2016","n/a","4500115"
+"First Partners Financial,"Inc."","Chief Lending Officer","Art Freeman","n/a","n/a","2016","n/a","4500115"
+```

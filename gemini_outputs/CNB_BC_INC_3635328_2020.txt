@@ -1,0 +1,16 @@
+Here are the extracted tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancorp,"Inc."","Birmingham,"AL"","2020","Patrick Cooper","Common Stock","309077","67.6%","n/a"
+"CNB Bancorp,"Inc."","Mobile,"AL"","2020","Gary Cooper","Common Stock","59503","13.0%","n/a"
+"CNB Bancorp,"Inc."","Washington DC","2020","Casey Cooper","Common Stock","36183","7.9%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB Bancorp,"Inc."","Chairman","J. Gary Cooper","Chairman","n/a","2020","Retired","n/a"
+"CNB Bancorp,"Inc."","Director","Jacquitta Green","n/a","Northside Check Exchange","2020","n/a","n/a"
+"CNB Bancorp,"Inc."","Director","Scott Hunter","Vice President","Raymond James Financial Services","2020","n/a","n/a"
+"CNB Bancorp,"Inc."","Chairman","Patrick Cooper","Attorney","n/a","2020","Attorney","n/a"
+```

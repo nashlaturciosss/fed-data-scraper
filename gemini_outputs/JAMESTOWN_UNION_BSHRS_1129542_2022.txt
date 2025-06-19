@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jamestown Union Bancshares","Jamestown,"TN"","2022","M. Bryant Johnson","n/a","27244","27.24%","n/a"
+"Jamestown Union Bancshares","Jamestown,"TN"","2022","Tony Honeycutt","n/a","16531","16.53%","n/a"
+"Jamestown Union Bancshares","Jamestown,"TN"","2022","Lisa Jones","n/a","7848","7.85%","n/a"
+"Jamestown Union Bancshares","Jamestown,"TN"","2022","Randall Rains","n/a","7381","7.38%","n/a"
+"Jamestown Union Bancshares","Jamestown,"TN"","2022","Anthony Copeland","n/a","6665","6.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jamestown Union Bancshares","President and CEO","M. Bryant Johnson","n/a","n/a","2022","n/a","n/a"
+```

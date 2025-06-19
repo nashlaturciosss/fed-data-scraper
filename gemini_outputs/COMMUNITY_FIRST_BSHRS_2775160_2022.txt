@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2022","Daspit,"Scott"","n/a","19832","17.70%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2022","Gaudin,"Joseph P."","n/a","16531","14.73%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2022","Menard,"Benny"","n/a","15459","13.78%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2022","DeRouen,"Kevin"","n/a","10573","9.43%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2022","Hebert,"James"","n/a","6042","5.38%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First Bancshares,"Inc."","Director","Benny Menard","n/a","n/a","2022","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Kevin DeRouen","n/a","n/a","2022","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Scott Daspit","n/a","n/a","2022","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Joey Broussard","Attorney","Broussard & David","2022","Attorney","n/a"
+"Community First Bancshares,"Inc."","Director","Joseph P. Gaudin","Attorney","Gaudin & Cooke,"Inc."","2022","Attorney","n/a"
+"Community First Bancshares,"Inc."","Director","James Hebert","CPA","James L. Hebert,"CPA","APAC"","2022","CPA","n/a"
+```

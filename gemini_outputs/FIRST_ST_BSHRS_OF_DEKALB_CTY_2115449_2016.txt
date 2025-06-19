@@ -1,0 +1,21 @@
+"Okay","I will extract the data from the provided FR Y-6 form and format it into two CSV tables according to your instructions."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2016","Estate of Glen Kilgore. Shari Jones trustee","common stock","63406","56.52%","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2016","Glen Kilgore Trust,"Shari Jones trustee"","common stock","32509","28.98%","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Rainsville,"AL"","2016","Shari Jones","common stack","11555","10.30%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Bancshares of DeKalb County,"Inc."","Chairman and President","Shari K. Jones","Stockholder","Rainsville Chuch Pew,"Inc."","2016","merchant","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Secretary","James T. Jones","Stockholder","Rainsville Church Pew,"Inc."","2016","merchant","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director and Secretary","Kerry D. Akıns","President/Stockholder","W.A. Akins and Sons,"Inc."","2016","merchant","n/a"
+"First State Bancshares of DeKalb County,"Inc."","President and CEO","David Henderson","Director","n/a","2016","banker","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director","Dr. Blake Isbell","Presiden!","Isbell Medical Group,"PC"","2016","physician","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director","Joseph McNew","Owner","Dekalb Animal Hospital","2016","veterinarian","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director","J.C. Ralph","Employee/agent","n/a","2016","insurance agent","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director","R.C. Etherton","n/a","n/a","2016","retired","n/a"
+"First State Bancshares of DeKalb County,"Inc."","Director","Nicholas Jones","Mayor","City of Rainsville,"AL"","2016","None","n/a"
+```

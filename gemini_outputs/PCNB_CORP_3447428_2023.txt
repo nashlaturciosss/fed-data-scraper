@@ -1,0 +1,34 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PCNB Corp.","Summit,"MS"","2023","Jennifer S. Wallace","Common Stock","74377","13.3%","n/a"
+"PCNB Corp.","Brandon,"MS"","2023","John Ellis Solomon,"Sr."","Common Stock","44429","7.945%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PCNB Corp.","President-CEO","Jennifer S. Wallace","Managing member","Sones3 Enterprises,"LLC"","2023","N/A","n/a"
+"PCNB Corp.","Director/Secretary","John Ellis Solomon","Member","Life's A Beach,"LLC"","2023","Real Estate,"Oil & Gas"","n/a"
+"PCNB Corp.","Director/Secretary","John Ellis Solomon","Member","Winner,"LLC"","2023","Real Estate,"Oil & Gas"","n/a"
+"PCNB Corp.","Vice Chairman of the Board and Bank","E. James Wicker","Managing Partner","Live Oak Properties,"LLC"","2023","N/A","n/a"
+"PCNB Corp.","Executive Vice President","Diane H. Cothern","Member","Live Oak Properties,"LLC"","2023","N/A","n/a"
+"PCNB Corp.","Director and Chairman","James L. Alford","Member","Barat Properties,"LLC"","2023","Oil & Gas Exploration","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","WM Food Service of Brookhaven,"Inc."","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","KRW Real Estate,"LLC"","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","K Brook Properties,"LLC"","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","White and Sons,"Inc"","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","Covenant Resources","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","McComb Gym,"Inc."","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","Red Star Auto Brokers,"Inc."","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","Keith A. White","Member","Appex Properties LLC","2023","Real Estate & Auto Broker","n/a"
+"PCNB Corp.","Director","L. Lamar Murrell","Owner","Selmans Jewelers-Gemologist,"Inc."","2023","Jeweler & Gemeologist","n/a"
+"PCNB Corp.","Director","Robert M. Belote","President","Southwest Distributors Inc.","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","President","Southwest Balloon Inc.","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","Premier Snacks and Vending LLC","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","Southwest Rentals & Investments LLC","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","Southwest Leasing LLC","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","Southwest Wholesale LLC","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","BRD Holdings LLC","2023","Beverage Distributor","n/a"
+"PCNB Corp.","Director","Robert M. Belote","Member","RB Holdings LLC","2023","Beverage Distributor","n/a"
+```

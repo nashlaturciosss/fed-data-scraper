@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2021","L Jackson McConnell,"Jr."","Common Stock","104,"115"","7.62%","n/a"
+"Pinnacle Financial Corporation","Elberton,"GA"","2021","L Jackson McConnell,"Jr."","Warrants on Common Stock","5,"500"","0.40%","n/a"
+"Pinnacle Financial Corporation","Orinda,"CA"","2021","Kathleen L. Kortozer","Common Stock","90,"914"","6.66%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2021","Laura E. Stille","Common Stock","77,"687"","5.69%","n/a"
+"Pinnacle Financial Corporation","Atlanta,"GA"","2021","Linton W. Eberhardt,"IV"","Common Stock","79,"852"","5.85%","n/a"
+"Pinnacle Financial Corporation","Atlanta,"GA"","2021","Linton W. Eberhardt,"IV"","Warrants on Common Stock","2,"666"","0.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","Chairman","Pinnacle Bank","2021","CEO","n/a"
+"Pinnacle Financial Corporation","n/a","Kathleen L Korotzer","Shareholder","n/a","2021","n/a","n/a"
+"Pinnacle Financial Corporation","n/a","Linton W. Eberhardt,"IV"","Shareholder","n/a","2021","Medical","n/a"
+"Pinnacle Financial Corporation","n/a","Laura E. Stille","Shareholder","n/a","2021","n/a","n/a"
+"Pinnacle Financial Corporation","Director","J. Ronald Bracewell,"Jr."","Director","Bates,"Carter & Co.","LLP"","2021","CPA","n/a"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Director","The Medical Center","2021","Medical Dr.","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","McGarity Rentals,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","McGarity Farm,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","Buckeyes Plantation,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","Dr. Thomas E. McGarity Dental,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","McJohn Properties,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","JMJMS Properties,"LLC"","2021","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","B. Scott Fogle","Director","Advocate Networks,"LLC"","2021","Services","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Director","Darnel Quick Recovery","2021","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","Director","Joe T. Cunningham Interiors & Bond Properties,"LLLP"","2021","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Danielle Barron Benson","Director","Candid Construction Services","2021","Investment","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","Director","Elbert Insurance","2021","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","David K. Voyles","Director","n/a","2021","President","n/a"
+"Pinnacle Financial Corporation","Director","Michael Fernandez","Director","Design Mart LLC","2021","Monument Design","n/a"
+"Pinnacle Financial Corporation","Director","William McDermott","Director","McDermott Financial Solutions,"LLC"","2021","Business Consulting","n/a"
+"Pinnacle Financial Corporation","Director","Tony E. Collins","Director","Collins Advisory Group","2021","Advisory","n/a"
+"Pinnacle Financial Corporation","Director","Connie M. Melear","Director","RW Allen Construction,"LLC"","2021","Real Estate Director","n/a"
+```

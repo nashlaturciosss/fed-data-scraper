@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2021","C.W. Durrence,"Jr."","Common Stock","12150","8%","n/a"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2021","Durrence Family","Common Stock","27090","19%","n/a"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2021","Ruby Jo Durrence","Common Stock","27090","19%","n/a"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2021","W.F. ""Bill"" Durrence,"Jr."","Common Stock","27090","19%","n/a"
+"GB BANK GROUP,"INC."","Glennville,"GA"","2021","Nicholas C. Tatum","Common Stock","27090","19%","n/a"
+"GB BANK GROUP,"INC."","Ft. Lauderdale,"FL"","2021","Anderson Family","Common Stock","26365","19%","n/a"
+"GB BANK GROUP,"INC."","Ft. Lauderdale,"FL"","2021","Trusts/Partnerships/Etc","Common Stock","26365","19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GB BANK GROUP,"INC."","Principal Shareholder","Anderson Family","n/a","None","2021","Trust/Partnerships","n/a"
+"GB BANK GROUP,"INC."","Principal Shareholder","Durrence Family","n/a","None","2021","Retired Homemaker","n/a"
+"GB BANK GROUP,"INC."","Director","W.F. ""Bill"" Durrence,"Jr."","n/a","None","2021","Farmer","n/a"
+"GB BANK GROUP,"INC."","Director","Nicholas C. Tatum","n/a","None","2021","Educator","n/a"
+"GB BANK GROUP,"INC."","Chairman,"Director of Glennville Bank"","C.W. Durrence,"III"","n/a","None","2021","Pharmacist","n/a"
+"GB BANK GROUP,"INC."","Director,"Director of Glennville Bank"","Ronnie A. Barnhill","n/a","None","2021","Accountant","n/a"
+"GB BANK GROUP,"INC."","Director,"Director of Glennville Bank"","Donna K. Tootle","n/a","None","2021","Retired Educator","n/a"
+"GB BANK GROUP,"INC."","Director,"Director of Glennville Bank"","Ricky E. Wilson","n/a","None","2021","Business Owner","n/a"
+"GB BANK GROUP,"INC."","President/CEO,"President/CEO Glennville Bank"","Will J. Sheffield","n/a","None","2021","None","n/a"
+"GB BANK GROUP,"INC."","Vice President,"Statesboro Bank Market President"","John W. Lane","n/a","None","2021","None","n/a"
+"GB BANK GROUP,"INC."","AVP/Secretary,"AVP/Secretary Glennville Bank"","Connie S. Rogers","n/a","None","2021","None","n/a"
+"GB BANK GROUP,"INC."","Director","Reba Woodcock-Baxter","n/a","None","2021","Retired Banker","n/a"
+```

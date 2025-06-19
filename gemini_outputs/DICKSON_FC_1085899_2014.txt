@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2014","CEDE & Co./Depository Trust Co.","common stock","22205","5.65%","108 5299"
+"Dickson Financial Corporation","n/a,"n/a"","2014","Donald Richardson","n/a","4019","n/a","108 5299"
+"Dickson Financial Corporation","n/a,"n/a"","2014","Carney B. Nicks,"Trust-"","n/a","17540","n/a","108 5299"
+"Dickson Financial Corporation","n/a,"n/a"","2014","Donald Richardson,"Trustee"","n/a","646","n/a","108 5299"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director","Jere Bass","Director","n/a","2014","Retired","n/a"
+"Dickson Financial Corporation","Director","William J. Duke","Director","n/a","2014","Real Estate Developer","n/a"
+"Dickson Financial Corporation","Director","Brenda Legg","Director","n/a","2014","Retired","n/a"
+"Dickson Financial Corporation","Director","Lee Marsh","Director","n/a","2014","Real Estate Developer","n/a"
+"Dickson Financial Corporation","Director","Tommy Marvin","Director","Taylor Funeral Home,"Inc."","2014","Mortician","n/a"
+"Dickson Financial Corporation","Director","Wayne McIntire","Director","n/a","2014","Retired","n/a"
+"Dickson Financial Corporation","Director Chairman","Tommy Nicks","Director Chairman & Trust Officer","n/a","2014","Chairman & Trust Officer","n/a"
+"Dickson Financial Corporation","Director","James E. Peeler","Director","n/a","2014","Retired","n/a"
+"Dickson Financial Corporation","Director","Dale Ragan","Director","n/a","2014","Real Estate Broker","n/a"
+"Dickson Financial Corporation","Director President & CEO","Donald Richardson","Director President & CEO","n/a","2014","President & CEO Bank of Dickson","n/a"
+"Dickson Financial Corporation","Director","David Shepard","Director","Community Pharmacy Care,"Inc."","2014","Pharmacist","n/a"
+"Dickson Financial Corporation","Director","Donnie Weiss","Director","n/a","2014","Sales Representative","n/a"
+```

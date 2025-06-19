@@ -1,0 +1,22 @@
+Here are the two tables in CSV format as requested:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRSTSOUTHWEST CORPORATION","McComb,"MS"","2015","James W. Covington","n/a","77828","25.8%","1082692"
+"FIRSTSOUTHWEST CORPORATION","McComb,"MS"","2015","First Bank ESOP","n/a","51388","17.0%","1082692"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRSTSOUTHWEST CORPORATION","Chairman & CEO; Director","James W. Covington","Chairman & CEO","Ybrake Farms,"LLC"","2015","Banker","1082692"
+"FIRSTSOUTHWEST CORPORATION","Chairman & CEO; Director","James W. Covington","Partner","E.D. Covington L.P.","2015","Banker","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","E. G. Covington,"III"","Director","Covington Famil","2015","Owner Hydro(","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","Victor H. Morrish","n/a","Retired","2015","Business Owner","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","Harrell E. Holloway,"Jr"","Partner","Alford Holloway { Smith,"CPA's"","2015","Accountant","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","Lucius Lampton,"MD"","n/a","Physican Magnolia Clinic","2015","Physican","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","Clifton Van Cleave","President","Buffalo Serivces Inc.","2015","Business Manager","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","Johnny H. Nance","Office Manager","Copeland,"Taylor & Bush","Attys"","2015","Business Owner","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","J. P. Doyle","n/a","Retired","2015","Business Owner","1082692"
+"FIRSTSOUTHWEST CORPORATION","Director","L Grant Bennett","n/a","Law Office of L. Grant Be","2015","Attorney","1082692"
+"FIRSTSOUTHWEST CORPORATION","n/a","First Bank Employees Stock Ownership Plan","n/a","n/a","2015","N/A","1082692"
+```

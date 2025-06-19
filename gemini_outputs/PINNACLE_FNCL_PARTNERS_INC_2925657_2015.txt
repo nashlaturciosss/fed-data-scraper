@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Partners,"Inc."","New York,"NY"","2015","BlackRock,"Inc."","n/a","3083084","7.51%","n/a"
+"Pinnacle Financial Partners,"Inc."","Malvern,"PA"","2015","The Vanguard Group,"Inc."","n/a","2683936","6.54%","n/a"
+"Pinnacle Financial Partners,"Inc."","Austin,"TX"","2015","Dimensional Fund Advisors LP","n/a","2098343","5.11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Partners,"Inc."","Director","Sue G. Atkinson","Chairman","Atkinson Public Relations","2015","Public Relations Executive","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank","H. Gordon Bone","Partner","B&B Enterprises","2015","Builder/Developer","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President and CEO-Launch Tennessee"","Charles E. Brack","n/a","n/a","2015","Business Creation Executive","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President"","Renda J. Burkhart","President","Burkhart & Company,"P.C."","2015","Certified Public Accountant","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President and CEO"","Gregory L. Burns","President and CEO","Gregory Burns Consulting Group,"LLC"","2015","Consultant","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank","Colleen Conway-Welch","n/a","n/a","2015","Retired Nursing School Administrator","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"Partner"","James C. Cope","Partner","Cope,"Hudson","Scarlett","Reed and McCreary","PLLC"","2015","Attorney","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President"","Thomas C. Farnsworth,"lil"","President","Farnsworth Investment Company","2015","Real Estate Investor","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President"","Glenda Baskin Glover","President","Tennessee State University","2015","Educator","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"Partner"","William F. Hagerty,"IV"","Partner","Hagerty Peterson & Company","2015","Private Equity investor","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President"","William H. Huddleston,"IV"","President","Huddleston-Steele Engineering,"Inc."","2015","Engineer","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank","Ed C. Loughry,"Jr."","n/a","n/a","2015","Retired Banker","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank,"President"","Reese L. Smith I","President","Haury & Smith Contractors,"Inc."","2015","Builder/ Developer","n/a"
+"Pinnacle Financial Partners,"Inc."","Chairman of the Board- Pinnacle Bank","Robert A. McCabe,"Jr."","n/a","n/a","2015","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Director- Pinnacle Bank","Gary L Scott","n/a","n/a","2015","Retired Banker","n/a"
+"Pinnacle Financial Partners,"Inc."","President and Chief Executive Officer-Pinnacle Bank","M. Terry Turner","n/a","n/a","2015","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Administrative Officer-Pinnacle Bank","Hugh M. Queener","n/a","n/a","2015","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Financial Officer-Pinnacle Bank","Harold R. Carpenter","n/a","n/a","2015","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Credit Officer-Pinnacle Bank","J. Harvey White","n/a","n/a","2015","n/a","n/a"
+```

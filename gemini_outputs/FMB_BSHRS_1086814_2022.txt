@@ -1,0 +1,20 @@
+```csv
+"SECURITIES HOLDERS CSV"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2022","FMB Resolution Investor,"LLC"","Common Stock","35000","6.31%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2022","Jimmy Allen","Common Stock","23823","5.95%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2022","Cameron Hickman","Common Stock","32000","5.77%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2022","Scrub Oaks Investments,"LLC"","Common Stock","21838","5.46%","n/a"
+"FMB Bancshares,"Inc."","Quitman,"GA"","2022","Pickels,"Curtis L. and Ola C."","Common Stock","30000","5.41%","n/a"
+```
+```csv
+"INSIDERS CSV"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","Director / President & CEO,"Farmers and Merchants Bank"","n/a","2022","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","Owner,"Heritage Builders Supply"","Heritage Builders Supply","2022","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","George Lee","Chairman,"Farmers and Merchants Bank"","n/a","2022","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Director,"Farmers and Merchants Bank"","Lee Container Corp.","2022","Lee Container Corp.","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","Director,"Farmers and Merchants Bank"","Advisor,"Lee Container Corp."","2022","Advisor,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Director,"Farmers and Merchants Bank"","Owner,"Cook County Timber"","2022","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Director,"Farmers and Merchants Bank"","Farmer / Owner","2022","Farmer","n/a"
+```

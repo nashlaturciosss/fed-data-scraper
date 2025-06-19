@@ -1,0 +1,22 @@
+Here are your requested CSV extracts:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Four County Bancshares,"Inc."","Danville,"GA"","2020","Richard A. Dykes","Common Stock","45000","18.74%","n/a"
+"Four County Bancshares,"Inc."","Jeffersonville,"GA"","2020","William C. Humphries","Common Stock","30000","12.49%","n/a"
+"Four County Bancshares,"Inc."","Stone Mountain,"GA"","2020","Bruce E. Miller","Common Stock","22500","9.37%","n/a"
+"Four County Bancshares,"Inc."","Dublin,"GA"","2020","Roger W. Miller","Common Stock","22500","9.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Four County Bancshares","Chairman of Board of Directors,"VP & Treasurer"","Ruth Arnold","n/a","n/a","2020","n/a","n/a"
+"Four County Bancshares","Director","Rabun Faulk","n/a","n/a","2020","Attorney at Law General Counsel","n/a"
+"Four County Bancshares","Director,"President & CEO"","Amy S. Orr","n/a","n/a","2020","Four County Bank","n/a"
+"Four County Bancshares","Chairman of Board of Directors","Charles B. Hill","President","Hill Logging,"Inc."","2020","President","n/a"
+"Four County Bancshares","President & CEO","Wallace Miller","Director","Morris Bank","2020","Retired","n/a"
+"Four County Bancshares","Director","James M Brown","n/a","n/a","2020","Vice President","n/a"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","Everett Dykes Grassing Company,"Inc."","2020","Everett Dykes Grassing Company,"Inc."","n/a"
+"Four County Bancshares","Principal Shareholder","William C. Humphries","n/a","n/a","2020","Retired","n/a"
+"Four County Bancshares","Director","Michael Kitchens","Director","n/a","2020","Self-employed Farmer","n/a"
+```

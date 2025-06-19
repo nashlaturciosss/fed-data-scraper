@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Franklin,"LA"","2014","William S. Patout,"III"","Common Stock","1478","12.13%","n/a"
+"Jeanerette First National Bancorp,"Inc."","McKinney,"TX"","2014","Patricia Wentrcek","Common Stock","791","6.49%","n/a"
+"Jeanerette First National Bancorp,"Inc."","Jeanerette,"LA"","2014","Elton J. Beaullieu,"Jr."","Common Stock","928","7.61%","n/a"
+"Jeanerette First National Bancorp,"Inc."","New Iberia,"LA"","2014","Venetia M Patout","Common Stock","1028","8.43%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Vice Chairman & Treasurer","William S. Patout","Director","M.A. Patout & Son","2014","Investor & Rental Property","n/a"
+"Jeanerette First National Bancorp,"Inc."","Vice Chairman & Treasurer","William S. Patout","Director","Patout Brothers","2014","Investor & Rental Property","n/a"
+"Jeanerette First National Bancorp,"Inc."","President & Chairman of the Board","Elton J Beaullieu,"Jr"","Director","Rosedale Subdivision","2014","Retired","n/a"
+"Jeanerette First National Bancorp,"Inc."","Secretary","Gerard Eldridge","Sr. Vice-President & Director","n/a","2014","Banker","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Director","City of Jeanerette","2014","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Director","Chitimacha Tribe Judge","2014","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Total Control Solutions,"Inc."","2014","Insurance & Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Linden Real Estate","2014","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Bee's Real Estate","2014","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Deserta Real Estate","2014","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Bret Bishop","Director","Chaney Lumber CO","2014","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Damon Migues","President & Director","n/a","2014","CEO/FNB of Jeanerette","n/a"
+```

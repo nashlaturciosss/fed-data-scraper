@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2014","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","451528","9.3%","n/a"
+"Citizens Holding Company","Starkville,"MS"","2014","Herbert A. King","Common Stock","273993","5.6%","n/a"
+"Citizens Holding Company","Starkville,"MS"","2014","Herbert A. King","Options on Common Stock","12000","0.25%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Don L. Fulton","Corporate PERT Coordinator","W. G. Yates and Sons","2014","General Construction","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Chalmers","Attorneys"","2014","Business Manager","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","n/a","Adam Mars Realty","2014","Business Manager","n/a"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2014","Engineer","n/a"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2014","N/A","n/a"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2014","Proprietor,"Auto Parts supply store"","n/a"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2014","Physician","n/a"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Phelps Dunbars LLP","2014","Attorney","n/a"
+"Citizens Holding Company","Director","Donald L. Kilgore","Special Assistant Attorney General","State of Mississippi","2014","Attorney","n/a"
+"Citizens Holding Company","Director","A. T. Williams","A. T. Williams,"CPA"","n/a","2014","Certified Public Accountant","n/a"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Moipus Woodlands Group","2014","Chief Financial Officer","n/a"
+"Citizens Holding Company","Treasurer & CFO","Robert T. Smith","Senior Vice-President","n/a","2014","N/A","n/a"
+```

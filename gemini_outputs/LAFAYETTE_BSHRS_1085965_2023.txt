@@ -1,0 +1,21 @@
+"Here are the two CSV tables","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LaFayette Bankshares,"Inc."","LaFayette,"GA"","2023","Charles H. Gilbert","n/a","27572","9.884%","n/a"
+"LaFayette Bankshares,"Inc."","Canton,"GA"","2023","Anne G. Barmes","n/a","27512","9.862%","n/a"
+"LaFayette Bankshares,"Inc."","Lafayette,"GA"","2023","George M. Gilbert","n/a","22668","8.195%","n/a"
+"LaFayette Bankshares,"Inc."","LaFayette,"GA"","2023","Bob D. Gilbert,"Jr."","n/a","17542","6.288%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LaFayette Bankshares,"Inc."","Director","B.D. Gilbert,"Jr."","Chairman","n/a","2023","Banker","n/a"
+"LaFayette Bankshares,"Inc."","President","C.H. Gilbert","Director","n/a","2023","Banker","n/a"
+"LaFayette Bankshares,"Inc."","Director","C.B. Parker","Director","n/a","2023","Retired","n/a"
+"LaFayette Bankshares,"Inc."","Director","W.D. Cunningham","Director","n/a","2023","Retired","n/a"
+"LaFayette Bankshares,"Inc."","Director","W.R. Loughridge","Director","Loughridge Equipment","2023","Merchant","n/a"
+"LaFayette Bankshares,"Inc."","Director","H.N. Florence","Director","Cannon Drugs","2023","Retired/Pharmacist","n/a"
+"LaFayette Bankshares,"Inc."","Director","B.R. Potts","Director","Potts Brothers Land & Auction LLC","2023","Auctioneer","n/a"
+"LaFayette Bankshares,"Inc."","SVP/Secretary","J.S. Ingram","Director","Hammond-Jones Hdw.","2023","Banker","n/a"
+```

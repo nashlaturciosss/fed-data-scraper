@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Burke Banking Company","Waynesboro,"GA"","2015","J. C. Palmer,"III"","Common Stock","3665","33.95%","1137752"
+"First Burke Banking Company","Newnan,"GA"","2015","Leigh O. Jackson","Common Stock","1935","17.92%","1137752"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Burke Bank Company","(Advisory) Director","J. Douglas Cates,"III"","n/a","n/a","2015","Retired","31134"
+"First Burke Bank Company","Director","Roy F. Chalker,"Jr."","n/a","Chalker Publishing","2015","President","31134"
+"First Burke Bank Company","Director","Robert C. Collins","n/a","Collins Farms/Truflame Gas Co.,"Inc."","2015","Collins Farms/Collins Bonded Warehouse","31134"
+"First Burke Bank Company","Director","Robert C. Collins","n/a","Collins Bonded Warehouse","2015","Collins Farms/Collins Bonded Warehouse","31134"
+"First Burke Bank Company","Director","Robert C. Collins","n/a","Collins Gin LLC","2015","Collins Farms/Collins Bonded Warehouse","31134"
+"First Burke Bank Company","Director","Robert C. Collins","n/a","Burke Farm Management Service","2015","Collins Farms/Collins Bonded Warehouse","31134"
+"First Burke Bank Company","Director","Dr. Shelley Griffin","n/a","Physician Medical Specialist","2015","Physician Medical Specialist","31134"
+"First Burke Bank Company","Director","H.C. Hopkins,"III"","n/a","Hopkins Farms","2015","Hopkins Farms President","31134"
+"First Burke Bank Company","Director","Alan W. Jackson","n/a","Glover & Davis P.A.","2015","Glover & Davis P.A. Partner","31134"
+"First Burke Bank Company","Director","C.E. Johnson,"Jr."","n/a","n/a","2015","Retired","31134"
+"First Burke Bank Company","Director","J. C. Palmer,"IV"","n/a","First Burke Insurance Agency,"Inc."","2015","Loan Officer/First National Bank","31134"
+"First Burke Bank Company","President Director Treasurer","J. C. Palmer,"III"","n/a","First Burke Insurance Agency,"Inc."","2015","President/Director First National Bank Chairman of Board","31134"
+"First Burke Bank Company","n/a","Leigh O. Jackson","n/a","n/a","2015","Housewife","31134"
+"First Burke Bank Company","Secretary","Connie Smith","n/a","n/a","2015","A A First National Bank","31134"
+"First Burke Bank Company","Director","Johnny F. Christian","n/a","n/a","2015","Doctor","31134"
+"First Burke Bank Company","Director","Matthew Jenkins","n/a","n/a","2015","Farmer","31134"
+"First Burke Bank Company","Director","John Hardy","n/a","n/a","2015","Business Owner - Hardy Plumbing","31134"
+"First Burke Bank Company","Director","Fredrick Stewart","n/a","n/a","2015","Farmer","31134"
+"First Burke Bank Company","Director","Nan Palmer Lynch","n/a","n/a","2015","Marketing/PR First National Bank","31134"
+```

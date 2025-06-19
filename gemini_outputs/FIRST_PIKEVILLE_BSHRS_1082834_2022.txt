@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Pikeville Bancshares,"Inc."","Pikeville,"TN"","2022","Phillip Crawford","n/a","5394","15.0%","n/a"
+"First Pikeville Bancshares,"Inc."","Pikeville,"TN"","2022","Howard Upchurch","n/a","2901","8.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Pikeville Bancshares,"Inc."","President and Director","Phillip L. Crawford","Director","n/a","2022","Banker","n/a"
+"First Pikeville Bancshares,"Inc."","Chairman","L. Clay Roberson","Chairman","n/a","2022","None","n/a"
+"First Pikeville Bancshares,"Inc."","Director","George S. Hamilton,"Jr."","Director","Hamilton Land and Auction Co.","2022","Realtor","n/a"
+"First Pikeville Bancshares,"Inc."","Secretary and Director","Howard Upchurch","Attorney","Howard Upchurch Attorney","2022","Attorney","n/a"
+"First Pikeville Bancshares,"Inc."","Director","James Willlan Pope,"III"","Assistant District Attorney","n/a","2022","Attorney","n/a"
+"First Pikeville Bancshares,"Inc."","President and Director","Terry Eastwood","n/a","n/a","2022","Banker","n/a"
+```

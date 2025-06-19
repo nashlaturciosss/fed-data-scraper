@@ -1,0 +1,21 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia"","2016","Donald T. Keeter","Common Stock","440,"481"","14.06%","n/a"
+"Community Banks of Georgia,"Inc."","Fredericksburg,"Texas"","2016","Mickey Dunn","Common Stock","375,"884"","11.99%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia"","2016","Robert W. James","Common Stock","289,"785"","9.25%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia"","2016","B. Scott Dobson","Common Stock","193,"333"","6.17%","n/a"
+"Community Banks of Georgia,"Inc."","Acworth,"Georgia"","2016","James E. Freeman","Common Stock","166,"667"","5.32%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director & President/CEO","John T. Trammell","Director & President/CEO","Community Bank of Pickens County","2016","n/a","2943615"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","Director","Community Bank of Pickens County","2016","Retired","2943615"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","Director","Community Bank of Pickens County","2016","Retired","2943615"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","Director","ML Industries,"Inc."","2016","Manufacturing","2943615"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Keeter Farms,"LP"","2016","Consultant","2943615"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Donald T Keeter Family Trust","2016","Consultant","2943615"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Denson Insurance Agency Inc","2016","Insurance Agency Owner","2943615"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Norton-Denson Insurance LLC","2016","Insurance Agency Owner","2943615"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Director","Landrum and Landrum","2016","Attorney","2943615"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Director","SHL Ventures,"LLC"","2016","Attorney","2943615"
+```

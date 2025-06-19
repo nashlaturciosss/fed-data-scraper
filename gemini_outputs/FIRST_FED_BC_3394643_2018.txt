@@ -1,0 +1,30 @@
+"Here are the two tables extracted from the document","formatted as CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Federal Bancorp","Jackson,"MS"","2018","Guy Evans","n/a","21831","6.10%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2018","Christine Fortenberry","n/a","19946","5.57%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2018","Brenda Griner","n/a","66644","18.63%","n/a"
+"First Federal Bancorp","Madison,"MS"","2018","Stephen Griner","n/a","34826","9.73%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2018","Charles Griner Jr.","n/a","33952","9.49%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2018","Sandra McDaniel","n/a","36400","10.17%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Federal Bancorp","Chairman","Thomas D. McNeese","Owner","McNeese & Hahn","2018","Attorney","n/a"
+"First Federal Bancorp","Vice Chairman","I. Randall Wallace","General Manager","PRVEPA","2018","Electric Power Association","n/a"
+"First Federal Bancorp","Director","Charles H. Griner,"Jr."","President & Chairman","Griner Drilling","2018","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director","Charles H. Griner,"Jr."","President & Chairman","Griner Drilling","2018","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director","James R. Price","n/a","Ox-Mar Properties","2018","Investments","n/a"
+"First Federal Bancorp","Secretary","Sandra G. McDaniel","n/a","Griner Sports","2018","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Oil,"Inc"","2018","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Charles H. Griner FLP","2018","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Butane,"Inc."","2018","Homemaker","n/a"
+"First Federal Bancorp","Director","Newton B. Blount","n/a","n/a","2018","n/a","n/a"
+"First Federal Bancorp","Director","Austin D. Wilks","Insurance Agent","n/a","2018","Insurance Agent","n/a"
+"First Federal Bancorp","Director","Austin D. Wilks","Insurance Agent","n/a","2018","Insurance Agent","n/a"
+"First Federal Bancorp","Director","Austin D. Wilks","Insurance Agent","n/a","2018","Insurance Agent","n/a"
+"First Federal Bancorp","Director","Greg Prine","Owner","Beacon Supply Company","2018","Oilfield Supply Company","n/a"
+"First Federal Bancorp","CEO/President","R. Scott Davis","n/a","n/a","2018","n/a","n/a"
+```

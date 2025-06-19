@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMERCIAL CAPITAL CORP","DeKalb,"MS"","2022","T.R. Daws","n/a","18245","6.17%","n/a"
+"COMMERCIAL CAPITAL CORP","Dekalb,"MS"","2022","Margaret S. Womble","n/a","19324","6.53%","n/a"
+"COMMERCIAL CAPITAL CORP","Dekalb,"MS"","2022","James D. Spinks","n/a","20136","6.81%","n/a"
+"COMMERCIAL CAPITAL CORP","Ranson Canyon,"TX"","2022","Louie P Spinks","n/a","15680","5.30%","n/a"
+"COMMERCIAL CAPITAL CORP","Dekalb,"MS"","2022","William Clay","n/a","18725","6.33%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMERCIAL CAPITAL CORP","Bank Board Chairman","William Clay","Director","East Mississippi Electrical Power Assn","2022","Operator of Clay Feeds","n/a"
+"COMMERCIAL CAPITAL CORP","Bank Board Chairman","William Clay","Director","Meridian Stockyard","2022","Operator of Clay Feeds","n/a"
+"COMMERCIAL CAPITAL CORP","Bank Board Chairman","William Clay","Director","Ms. High School Activities Assn.","2022","Operator of Clay Feeds","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","David Sorrels","n/a","Econotax","2022","Retired Insurance","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","David Sorrels","Director Board Member","East Mississippi Electrical Power Assn","2022","Retired Insurance","n/a"
+"COMMERCIAL CAPITAL CORP","Bank CEO/President & Director","Michael Dudley","n/a","n/a","2022","President & CEO Commercial Bank","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","James D. Spinks","Director","Choctaw Area Council - Boy Scouts","2022","Attorney","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","James D. Spinks","Commissioner","Weems Community Mental Health Center","2022","Attorney","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","William M. Pilgrim","n/a","Hopper Street Rental","2022","Owner of Quick Cash","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","William M. Pilgrim","n/a","West Hills Partnership","2022","Owner of Quick Cash","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","William M. Pilgrim","n/a","Pilgrim's Tax Service","2022","Owner of Quick Cash","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Dwight Jackson","n/a","USDA Soil Conservationist","2022","Retired Publications","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Dwight Jackson","n/a","Neshoba County Gin Board","2022","Retired Publications","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Dwight Jackson","n/a","Farm Bureau Board","2022","Retired Publications","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Dwight Jackson","n/a","Kemper County Gas District Board","2022","Retired Publications","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Dwight Jackson","n/a","Kemper County EDA Advisory Committee","2022","Retired Publications","n/a"
+"COMMERCIAL CAPITAL CORP","Bank EVP/CFO & Director","Wyatt Webb","n/a","n/a","2022","CFO,"Commercial Bank"","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Robert Sanford","n/a","Benefits Management Group","2022","President & CEO of:","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Robert Sanford","n/a","Commercial Insurance Agency","2022","President & CEO of:","n/a"
+"COMMERCIAL CAPITAL CORP","Bank director","Kent McLain","n/a","McLain Plumbing & Electrical Service","2022","Owner of:","n/a"
+```

@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bank Holding Company,"Inc."","Orange City,"FL"","2014","Stephen S. Spore","Common Stock","101237","8.41%","3458040"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank Holding Company,"Inc."","Chairman/Director","Raymond A. Biemacki,"Jr."","Partner","Biernacki & Biernacki,"P. A."","2014","Lawyer,"Biernacki & Biernacki","PA"","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director and Pres./CEO","David L. Bridgeman","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","James D. Houck","Owner/General Mgr","Kentucky Fried Chicken","2014","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","James D. Houck","General Partner","Houck Partnership","2014","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Doug Anderson","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Stephen S. Spore,"M.D."","Retired Owner","n/a","2014","Retired","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Pres./CEO","Williams Floor Center,"Inc."","2014","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Pres./CEO","Williams Properties","2014","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Secretary","Anita James","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Bank Holding Company,"Inc."","SVP/CFO","Herbert W. Clark","n/a","n/a","2014","n/a","n/a"
+```

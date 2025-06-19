@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2017","Thomas,"R.D. Jr."","Common Stock","66008","47.31%","n/a"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2017","Barnard,"J.P. Jr."","Common Stock","11938","8.56%","n/a"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2017","Willingham,"Mary T."","Common Stock","14076","10.09%","n/a"
+"Patterson Bankshares,"Inc."","Waycross,"GA"","2017","Strickland,"Devin B"","Common Stock","11987","8.59%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","Director,"Bank"","First Southern Bank","2017","Construction & Real Estate","n/a"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","n/a","The Barnard Co.","2017","Construction & Real Estate","n/a"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","n/a","Barnard Construction Co.","2017","Construction & Real Estate","n/a"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","President","Julie Hat Co. Inc.","2017","Construction & Real Estate","n/a"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Williams E. Hughes,"Jr."","President/CEO & Director,"Bank"","First Southern Bank","2017","n/a","n/a"
+"Patterson Bankshares,"Inc."","n/a","Stipe,"Steve"","CLO/SVP,"Bank"","First Southern Bank","2017","n/a","n/a"
+"Patterson Bankshares,"Inc."","n/a","Stipe,"Steve"","n/a","Stipe Farms,"LLC"","2017","n/a","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Lazybrook Enterprises","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Henway,"Inc."","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Strickland Timber & Land Development Company,"Inc."","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Georgia Block & Brick","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","GA/FL Contracting Co. Inc.,","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Belikin Properties,"Inc."","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Strickland Equipment","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Strickland,"Devin"","n/a","Georgia Redi-Mix","2017","Construction","n/a"
+"Patterson Bankshares,"Inc."","n/a","Thomas,"R.D. Jr."","n/a","R.D. Thomas Farms","2017","n/a","n/a"
+"Patterson Bankshares,"Inc."","n/a","Ronald Thomas","n/a","Thomas & Settle","2017","Attorney","n/a"
+"Patterson Bankshares,"Inc."","n/a","Ronald Thomas","n/a","Tri-T Inc.","2017","Attorney","n/a"
+"Patterson Bankshares,"Inc."","n/a","Willingham,"Mary T."","n/a","n/a","2017","Retired banker (deceased)","n/a"
+```

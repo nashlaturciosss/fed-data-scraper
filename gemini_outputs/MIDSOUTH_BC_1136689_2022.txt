@@ -1,0 +1,37 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MidSouth Bancorporation","Slocomb,"AL"","2022","Hope Johnson,"Successor Trustee for W D Malone","III","C M Wilson and A M Bagby"","common stock","1260","35%","n/a"
+"MidSouth Bancorporation","Slocomb,"AL"","2022","Hope Johnson,"Successor Trustee for W D Malone","Jr Children Trust"","common stock","516","14%","n/a"
+"MidSouth Bancorporation","Dothan,"AL"","2022","W D Malone,"III"","common stock","756","21%","n/a"
+"MidSouth Bancorporation","Woodstock,"GA"","2022","Catherine M Wilson","common stock","648","18%","n/a"
+"MidSouth Bancorporation","Birmingham,"AL"","2022","Alyson D Malone","common stock","454","12%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MidSouth Bancorporation","Chairman,"CEO","President","& Director"","WD Malone,"III"","Director","The Malone Family Foundation","2022","n/a","n/a"
+"MidSouth Bancorporation","Chairman,"CEO","President","& Director"","WD Malone,"III"","Administrative Member","Campbellton Land Management LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Chairman,"CEO","President","& Director"","WD Malone,"III"","Administrative Member","WCA Holdings LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Chairman,"CEO","President","& Director"","WD Malone,"III"","Administrative Member","Crimson Flame LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Vice President,"Secretary & Director"","The Malone Family Foundation","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Member","Campbellton Land Management","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Member","WCA Holdings LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Managing Member","Sweet Magnolia Bakery","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Alyson D Malone","President,"Treasurer & Director"","The Malone Family Foundation","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Alyson D Malone","Member","Campbellton Land Management","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Alyson D Malone","Member","WCA Holdings LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Director","Alyson D Malone","Managing Member","Savor the Sweet LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","n/a","Hope H Johnson","CEO","SNB Holdings Inc.","2022","Bank CEO","n/a"
+"MidSouth Bancorporation","n/a","Jennifer League","n/a","n/a","2022","Senior Vice President & Secretary","n/a","n/a"
+"MidSouth Bancorporation","Director","George Flowers","President","GDF,"Inc"","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Director","George Flowers","President","Pyramid Properties,"Inc"","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Director","George Flowers","Managing Member","Perennial South LLC","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Director","Steven Shaw","President/Vice-Chairman","Couch Aggregates","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Director","Steven Shaw","President","OST,"Inc"","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Director","Steven Shaw","President","CPAC","2022","Business Owner","n/a"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","Carnley 5 LLC","2022","n/a","n/a"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","The Talbot Place,"LLC"","2022","n/a","n/a"
+"MidSouth Bancorporation","Senior Vice President","Mark Siner","n/a","n/a","2022","n/a","n/a"
+```

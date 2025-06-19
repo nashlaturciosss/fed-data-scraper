@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","St Petersburg,"FL"","2023","Raymond James (Spence Limited,"LP owns 274","108 or 9.29%","held at Raymond James)"","n/a","376773","12.77%","n/a"
+"InsCorp,"Inc."","Jersey City,"NJ"","2023","NFS,"LLC (holds multiple shareholders","none of which holds more than 5%)"","n/a","175032","5.93%","n/a"
+"InsCorp,"Inc."","Phoenix,"AZ"","2023","Charles Schwab (holds multiple shareholders,"none of which holds more than 5%)"","n/a","164442","5.57%","n/a"
+"InsCorp,"Inc."","St Louis,"MO"","2023","Wells Fargo (holds multiple shareholders,"none of which holds more than 5%)"","n/a","n/a","5.14%","n/a"
+"InsCorp,"Inc."","St Louis,"MO"","2023","Wells Fargo (holds multiple shareholders,"none of which holds more than 5%)"","n/a","n/a","4.22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","Director","Russell Echlov","Director","MainStreet Bank","2023","Equity & Investments","n/a"
+"InsCorp,"Inc."","Director","James Fields","President","Concept Technology","2023","Information Technology","n/a"
+"InsCorp,"Inc."","Director","Richard Hollis","President","Hollis & Burns,"Inc."","2023","Insurance","n/a"
+"InsCorp,"Inc."","Director","Stacey Garrett Koju","n/a","NONE","2023","Attorney","n/a"
+"InsCorp,"Inc."","Director","Rob Lowe","Executive Managing Director/Partner","Stream Realty Partners","2023","Commercial RE Broker","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Managning Partner","Spence Limited,"LP"","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Vice Chairman","Cecil Bank","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","Gateway Bank FSB","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","Signature Bank of Georgia","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","White River Bancshares","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","42North Private Holdings","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","Qualtik,"Inc."","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","Hope W. Lundt","Director","HeroWear","2023","Investment Management","n/a"
+"InsCorp,"Inc."","Director","C. Louis Patten,"Jr."","n/a","NONE","2023","Insurance","n/a"
+"InsCorp,"Inc."","Chairman","Michael A. Qualls","n/a","NONE","2023","Banking","n/a"
+"InsCorp,"Inc."","Officer - Chairman","James H. Rieniets,"Jr."","Member","Gracious Henry Properties,"LLC"","2023","Banking","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","Manager","Green River Properties","2023","Investments","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","Manager","MPC Properties","2023","Investments","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","Partner","MPC Partners","2023","Investments","n/a"
+```

@@ -1,14 +1,13 @@
-Here are the two tables extracted from the document as requested.
+```csv
 ### SECURITIES HOLDERS CSV
-```csv
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BOL Bancshares,"Inc"","Slidell","2014","G. Harrison Scott","Common Stock","112703","62.91%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BOL Bancshares,"Inc."","Slidell,"LA"","2014","G. Harrison Scott","Common Stock","112703","62.91%","1247594"
 ```
-### INSIDERS CSV
 ```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BOL Bancshares,"Inc"","n/a","G. Harrison Scott","Director,"Chairman & President"","Bank of Louisiana","2014"
-"BOL Bancshares,"Inc"","Insurance Agent","Johnny C. Crow","Director","Bank of Lousiana","2014"
-"BOL Bancshares,"Inc"","Assistant Attorney General","Sharry R. Scott","Director","Bank of Louisiana","2014"
-"BOL Bancshares,"Inc"","n/a","Carlos J. Savona","Director","Bank of Louisiana","2014"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Louisiana","Director,"Chairman & President"","G. Harrison Scott","n/a","n/a","2014","n/a","271136"
+"Bank of Louisiana","Director","Johnny C. Crow","Insurance Agent","New York Life Ins. Co.","2014","Insurance Agent","271136"
+"Bank of Louisiana","Director","Sharry R. Scott","Assistant Attorney General","Lousiana Dept. of Justice","2014","Assitant Attorney General","271136"
+"Bank of Louisiana","Director","Carlos J. Savona","Senior Financial Analyst","Tech-Marine Business","2014","n/a","271136"
 ```

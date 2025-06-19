@@ -1,0 +1,41 @@
+Here are the two tables extracted from the document.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First America Holdings Corporation","Bradenton,"FL"","2014","Robert Spencer","common stock","249703","6.18%","n/a"
+"First America Holdings Corporation","Bradenton,"FL"","2014","Robert Spencer","options on common stock","5278","0.13%","n/a"
+"First America Holdings Corporation","Bradenton,"FL"","2014","Daniel P. McClure","common stock","38937","0.96%","n/a"
+"First America Holdings Corporation","Bradenton,"FL"","2014","Corrine McClure","common stock","38937","0.96%","n/a"
+"First America Holdings Corporation","New York,"New York"","2014","Maltese Capital Management,"LLC:"","common stock","274200","6.78%","n/a"
+"First America Holdings Corporation","New York,"New York"","2014","Malta Offshore,"LTD"","common stock","62400","1.54%","n/a"
+"First America Holdings Corporation","New York,"New York"","2014","Malta Hedge Fund LP","common stock","38400","0.95%","n/a"
+"First America Holdings Corporation","New York,"New York"","2014","Maltese Capital Management,"LLC Total"","common stock","375000","9.28%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First America Holdings Corporation","Director","Paul D. Beitlich,"Esq."","Director","n/a","2014","Attorney","n/a"
+"First America Holdings Corporation","Director","Douglas K. Chapman","Director","n/a","2014","Refired Entrepreneur","n/a"
+"First America Holdings Corporation","Director","Carol B. Green","Director","Wired I","2014","Retired Corporate Executive","n/a"
+"First America Holdings Corporation","Director","Carol B. Green","Director","Wired","2014","Retired Corporate Executive","n/a"
+"First America Holdings Corporation","Chairman of the Board & CEO","Daniel S. Hager","Owner","Hibernation Hideaway,"LLC"","2014","Banker","n/a"
+"First America Holdings Corporation","Executive Vice President/CFO","Michael L. Hogan,"C.P.A."","Executive Vice President/CFO","n/a","2014","Banker","n/a"
+"First America Holdings Corporation","Director and President","W. Allen Langford","Director and President","n/a","2014","Banker","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Jebco Ventures","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Italian Cabinetry Design","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Paulding Exchange LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Midway Station LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Village Grand LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Eastside Village LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Family Dollar1 LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Florida Land Trust GW-1","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Grand Pavillion LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Eastside Village Shops LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Partner","Village Corners","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Ringling Blvd.","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Grand Point LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","AuBel Ra LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Vista Bay","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Palazzi Al Mare LLC","2014","Real Estate Developer","n/a"
+"First America Holdings Corporation","Director","James E. Bridges","Owner","Kimball State LLC","2014","Real Estate Developer","n/a"
+```

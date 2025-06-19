@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2020","Jimmy Allen","Common Stock","23823","6.43%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2020","FMB Resolution Investor,"LLC"","Common Stock","35000","9.45%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2020","Scrub Oaks Investments,"LLC"","Common Stock","19738","5.33%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Bancshares,"Inc."","Vice Chairman Director / President & CEO","Jeff Parrish","n/a","n/a","2020","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","Owner","Heritage Builders Supply","2020","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Chairman Director","George Lee","n/a","n/a","2020","n/a","n/a"
+"FMB Bancshares,"Inc."","Director Vice President Finance","Jeff Brown","Vice President Finance","Lee Container Corp.","2020","n/a","n/a"
+"FMB Bancshares,"Inc."","Director Director","Jeff Brown","President","Lee Container Corp.","2020","n/a","n/a"
+"FMB Bancshares,"Inc."","Director Director","Robert Varnedoe","President","Lee Container Corp.","2020","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Owner","Cook County Timber","2020","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Farmer / Owner","n/a","2020","Farmer","n/a"
+```

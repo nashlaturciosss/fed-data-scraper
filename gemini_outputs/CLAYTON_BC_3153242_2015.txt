@@ -1,0 +1,17 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Clayton HC,"Inc."","Knoxville,"Tennessee"","2015","James Lee Clayton","Common Stock","24,"313","079.29"","98.69%","3153242"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Clayton HC,"Inc."","Chairman","James Lee Clayton","Chairman","Clayton Bank and Trust","2015","n/a","3153242"
+"Clayton HC,"Inc."","President","James Lee Clayton","n/a","n/a","2015","n/a","3153242"
+"Clayton HC,"Inc."","Vice-Chairman","Kevin T. Clayton","President/CEO","Clayton Homes","2015","Manufactured Housing","3153242"
+"Clayton HC,"Inc."","Vice-Chairman","Kevin T. Clayton","n/a","BF 3,"LLC"","2015","Manufactured Housing","3153242"
+"Clayton HC,"Inc."","Vice-Chairman","Kevin T. Clayton","n/a","Home 3,"LLC"","2015","Manufactured Housing","3153242"
+"Clayton HC,"Inc."","Director","Travis Edmondson","CEO","Clayton Bank and Trust","2015","n/a","3153242"
+"Clayton HC,"Inc."","Secretary","Michael LeMarbre","CFO","Clayton Bank and Trust","2015","n/a","3153242"
+```

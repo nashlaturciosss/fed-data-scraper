@@ -1,0 +1,26 @@
+Here are the tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Commerce Bancorp,"Inc."","Lewisburg,"TN"","2017","William B Marsh","Voting Common Stock","73323","6.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Commerce Bancorp,"Inc."","Chairman & CEO","William B. Marsh","n/a","B&C Property Group","2017","n/a","n/a"
+"First Commerce Bancorp,"Inc."","Secretary,"President"","Robert E. Wiles Jr.","n/a","n/a","2017","n/a","n/a"
+"First Commerce Bancorp,"Inc."","Director","David Kennedy","Owner","Southern Carton Co Inc","2017","Manufacturing-Southern Carton Co Inc","n/a"
+"First Commerce Bancorp,"Inc."","Director","David Kennedy","Owner","Trinity","2017","Manufacturing-Southern Carton Co Inc","n/a"
+"First Commerce Bancorp,"Inc."","Director","Allen L. Henderson,"Jr."","Owner","Lewisburg Industrial & Welding","2017","Business Owner","n/a"
+"First Commerce Bancorp,"Inc."","Director","Allen L. Henderson,"Jr."","Owner","NAPA Auto","2017","Business Owner","n/a"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","Agent","Russell Realty","2017","Business Owner/Real Estate Agent","n/a"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","Agent","Russell Car Washes","2017","Business Owner/Real Estate Agent","n/a"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","Owner","Truette Construction Co.","2017","Contractor","n/a"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","Owner","David Jent Realty & Auction","2017","Business Owner/Real Estate Agent","n/a"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","Owner","Jent & Huey","2017","Business Owner/Real Estate Agent","n/a"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","Owner","Jent Huey Richardson Tietgens Partnership","2017","Business Owner/Real Estate Agent","n/a"
+"First Commerce Bancorp,"Inc."","Director","Phyllis L. Brown","CEO","Marshall Medical Center","2017","Business Administrator","n/a"
+"First Commerce Bancorp,"Inc."","Director","Luke T. Buckley","Director,"Executive Vice President & Chief Operating Officer"","n/a","2017","n/a","n/a"
+"First Commerce Bancorp,"Inc."","Associate Director","Catherine Lee Bussart","Judge","Marshall County General Sessions","2017","Judge","n/a"
+"First Commerce Bancorp,"Inc."","Senior Vice President-Executive Officer","Kristen Gold","n/a","n/a","2017","n/a","n/a"
+```

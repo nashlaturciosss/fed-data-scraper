@@ -1,0 +1,24 @@
+"Here are the requested CSV tables based on the provided document","adhering to all specified constraints."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage Financial Group,"Inc."","New York,"NY"","2014","Jacobs Asset Management","Common Stock","821514","8.89%","3846469"
+"Heritage Financial Group,"Inc."","Albany,"GA"","2014","Heritage Financial Group Employee Stock Ownership Plan (ESOP)","Common Stock","625623","6.77%","3846469"
+"Heritage Financial Group,"Inc."","Dallas,"TX"","2014","Clover Partners","Common Stock","523951","5.67%","3846469"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage Financial Group,"Inc."","Director","Antone D. Lehr","Chairman","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","Director","Joseph C. Burger,"Jr."","Vice Chairman","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","CEO","O. Leonard Dorminey","CEO","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","CRAO","Carol W. Slappey","Albany Market President and CRAO","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","Director","J. Keith Land","Planning Manager","Coats and Clark","2014","Textile Manufacturer - Coats and Clark","3846469"
+"Heritage Financial Group,"Inc."","Director","Douglas J. McGinley","n/a","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","Director","J. Lee Stanley","Owner","J. Lee Stanley Real Estate Appraiser","2014","Self Employed - J. Lee Stanley Real Estate Appraiser","3846469"
+"Heritage Financial Group,"Inc."","CFO","T. Heath Fountain","CFO","Thomas & Thomas Holdings,"LLC"","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","CFO","T. Heath Fountain","CFO","Brickhaven Partners,"LLC"","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","CFO","T. Heath Fountain","CFO","Brickhaven Properties,"LLC"","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","CCO","O. Mitchell Smith","CCO","n/a","2014","n/a","3846469"
+"Heritage Financial Group,"Inc."","СВО","David A. Durland","СВО","n/a","2014","n/a","3846469"
+```

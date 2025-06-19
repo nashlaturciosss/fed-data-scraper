@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CITIZENS BANCSHARES INC","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITIZENS BANCSHARES INC","Director","James Acker Jr.","n/a","None","2023","Cattle Farmer","n/a"
+"CITIZENS BANCSHARES INC","Director-The Citizens Bank","James Acker Jr.","n/a","None","2023","Cattle Farmer","n/a"
+"CITIZENS BANCSHARES INC","Director & Chairman","John C Jay Jr","n/a","None","2023","Chairman of Utilities Board City of Greensboro","n/a"
+"CITIZENS BANCSHARES INC","Director & Chairman","John C Jay Jr","n/a","None","2023","Chairman of Utilities Board City of Greensboro","n/a"
+"CITIZENS BANCSHARES INC","Director","Donald Wedgworth","n/a","None","2023","Fish Buyer","n/a"
+"CITIZENS BANCSHARES INC","Director","Donald Wedgworth","n/a","None","2023","Fish Buyer","n/a"
+"CITIZENS BANCSHARES INC","Director","Charles W Thomas","n/a","None","2023","Retired (banker)","n/a"
+"CITIZENS BANCSHARES INC","Secretary","Lisa S Cochran","President","None","2023","N/A","n/a"
+"CITIZENS BANCSHARES INC","Director & President","Lisa S Cochran","President","None","2023","N/A","n/a"
+"CITIZENS BANCSHARES INC","Director","Stephen R Barnette","n/a","Owner","2023","Business Owner (Furniture)","n/a"
+"CITIZENS BANCSHARES INC","Director","Stephen R Barnette","n/a","None","2023","Business Owner (Furniture)","n/a"
+"CITIZENS BANCSHARES INC","Director","Keith H Glover","n/a","None","2023","Cattle Farmer","n/a"
+"CITIZENS BANCSHARES INC","Director","Keith H Glover","n/a","None","2023","Cattle Farmer","n/a"
+```

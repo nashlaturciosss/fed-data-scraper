@@ -1,17 +1,18 @@
-Here are the two tables in CSV format as requested:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2019","Robert E. James","Common Stock","286,"243.7650"","52.37%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2019","Robert E. James","Common Stock","286243.7650","52.37%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","See Attachment A","2019"
-"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Adams Funeral Services","2019"
-"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Director","The Plummer-Hill Group LLC","2019"
-"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Century Investors,"Ltd."","2019"
-"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","See Attachment B","2019"
-"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","n/a","2019"
-"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","St. Paul C.M.E. Church","2019"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & Chairmarı","Robert E. James","Director & President","Carver State Bank","2019","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Funeral Home Director & Owner","Adams Funeral Services","2019","Funeral Home Director & Owner","370833"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","President","The Plummer-Hill Group LLC","2019","President of Business Development Group","370833"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Managing Director","Golden Seeds Inc.","2019","President of Business Development Group","370833"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Century Investors,"Ltd."","2019","Executive Director of a Non-profit Agency","370833"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Anderson Street Associates,"Ltd."","2019","Executive Director of a Non-profit Agency","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Consultant","n/a","2019","Consultant & Attorney","370833"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Retired Educator","n/a","2019","Retired Educator & Healthcare Administrator","370833"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Senior Pastor","St. Paul C.M.Ε. Church","2019","Senior Pastor of C.M.E. Church","370833"
 ```

@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Section,"AL"","2014","Charles L. Willmon","Common","58707","10.91%","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Ft. Payne,"AL"","2014","Benji Willmon","Common","54716","10.17%","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Rainsville,"AL"","2014","First Rainsville Bancshares ESOP","Common","199114","37.00%","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Rainsville,"AL"","2014","Charles A. Willmon","Common","36014","6.69%","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Grant,"AL"","2014","Nixon K. Willmon","Common","31394","5.83%","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Zolfo Springs,"FL"","2014","Marlon Pendergrass","Common","32790","6.09%","2503877"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Trustee","Charles L. Willmon","Chairman & Director","n/a","2014","Banker","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Trustee","Benji Willmon","President & Director","Wilco Drugs,"LLC"","2014","Banker","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Trustee","Benji Willmon","President & Director","Foodland Pharmacy SB,"LLC"","2014","Banker","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Trustee","Anthony Willmon","Presdient & Director","n/a","2014","Banker","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","Trustee","Sherry Wells Willmon","Director","n/a","2014","n/a","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","n/a","Marlon Pendergrass","Director","n/a","2014","Merchant","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","n/a","Nixon Willmon","Director","n/a","2014","Teacher","2503877"
+"First Rainsville Bancshares,"Inc.","Employee Stock Ownersi"","n/a","Firt Rainsville Bancshares,"Inc."","n/a","n/a","2014","Employee Stock Ownership","2503877"
+```

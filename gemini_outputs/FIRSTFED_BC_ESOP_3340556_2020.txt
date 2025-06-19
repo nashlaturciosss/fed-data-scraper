@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstFed Bancorp,"Inc."","St. Louis,"MO"","2020","Stifel Trust Company,"N.A."","Common Stock","n/a","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2020","FirstFed Bancorp,"Inc. Employee Stock Ownership Plan *"","Common Stock","682021","12.84%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2020","James E. Mulkin","Common Stock","790794","14.89%","n/a"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2020","B. K. Goodwin,"III"","Common Stock","413589","7.79%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2020","The Estate of James B. Koikos","Common Stock","308475","5.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstFed Bancorp,"Inc."","Trustee","Stifel Trust Company,"N.A."","n/a","n/a","2020","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Chairman of the Board,"C.Ε.Ο. and President of FirstFed Bancorp","Inc. and First Financial Bank"","B. K. Goodwin,"III"","n/a","n/a","2020","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","R. Shan Paden","n/a","Paden and Paden,"P.C."","2020","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","R. Shan Paden","n/a","Mark Point Properties Inc.","2020","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","R. Shan Paden","n/a","GFP Properties","2020","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","R. Shan Paden","n/a","MCJBS Properties LLC","2020","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Susan Kirkpatrick","Executive Vice President and C.F.O.","Buddy Moore Trucking,"Inc."","2020","C.F.O.","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","William Wes Russell","n/a","Russell & Company,"LLC"","2020","C.P.A.","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","William Wes Russell","n/a","Russell Holdings,"LLC"","2020","C.P.A.","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Highpoint Development,"Inc."","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","White Oak Land Company,"Inc."","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Silver Lakes,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Willow Glenn,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Meadow Ridge,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","TDG Mulkin,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","TDG Cafes,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Carroll Cove,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Joel Mulkin","n/a","Mulkin Holdings,"LLC"","2020","Real estate development","n/a"
+"FirstFed Bancorp,"Inc."","Director,"Executive Vice President and Treasurer of FirstFed Bancorp","Inc.","and Director","Chief Financial Officer and Executive Vice President of First Financial Bank"","Kyle Goodwin","n/a","n/a","2020","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Senior Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Neil Walker","n/a","n/a","2020","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Director Emeritus of First Fed Bancorp Inc and First Financial Bank","James E. Mulkin","n/a","Mulkin Enterprises","2020","Investments","n/a"
+```

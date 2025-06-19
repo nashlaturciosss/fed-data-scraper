@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mountain Valley Bancshares,"Inc."","Cleveland,"GA"","2016","C. Lamar Black","Common Stock","90000","5.3%","n/a"
+"Mountain Valley Bancshares,"Inc."","Clarkesville,"GA"","2016","Edsel Ray Black,"Sr."","Common Stock","83116","4.9%","n/a"
+"Mountain Valley Bancshares,"Inc."","Clarkesville,"GA"","2016","Ruth Black","Common Stock","1616","0.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mountain Valley Bancshares,"Inc."","Director & President","Marc J. Greene","Partner","The Quillan Group LLC","2016","n/a","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & President","Donald E. Allison","Partner","The Quillan Group LLC","2016","n/a","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & President","Donald E. Allison","Partner","Gateway Development","2016","n/a","n/a"
+"Mountain Valley Bancshares,"Inc."","Secretary","Rachel E. Marshall","n/a","n/a","2016","n/a","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Chairman","Edsel Ray Black,"Sr."","Partner","The Quillan Group LLC","2016","Pharmacist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Chairman","Edsel Ray Black,"Sr."","Partner","C.A.R.D,"Inc."","2016","Pharmacist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Chairman","Edsel Ray Black,"Sr."","Partner","Alexander & Black Investments","2016","Pharmacist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Chairman","Edsel Ray Black,"Sr."","Owner","Cleveland Drug Co.","2016","Pharmacist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Vice Chairman","B David Barrett","Partner","The Quillan Group LLC","2016","Dentist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director & Vice Chairman","B David Barrett","Partner","Gateway Development","2016","Dentist","n/a"
+"Mountain Valley Bancshares,"Inc."","Director","Clifford Cox","Partner","C.A.R.D,"Inc."","2016","Retired","n/a"
+"Mountain Valley Bancshares,"Inc."","Director","Joe Campbell","n/a","n/a","2016","Commissioner/ Builder","n/a"
+"Mountain Valley Bancshares,"Inc."","n/a","Lamar(Pinky)Black","Owner","P&B Petroleum","2016","Oil Distributor","n/a"
+"Mountain Valley Bancshares,"Inc."","n/a","Lamar(Pinky)Black","Owner","CLB Rentals","2016","Oil Distributor","n/a"
+"Mountain Valley Bancshares,"Inc."","Director","June Parks","Partner","Partners in Paradise","2016","Retired","n/a"
+"Mountain Valley Bancshares,"Inc."","Director","Gerald Sims","Owner","Simco","2016","Construction","n/a"
+```

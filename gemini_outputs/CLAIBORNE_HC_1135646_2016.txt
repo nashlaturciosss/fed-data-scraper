@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2016","Yoakum Family,"LP"","common stock","70446","40.6%","1135646"
+"Claiborne Holding Company,"Inc."","Nashville,"TN"","2016","Stephanie B. Conner","common stock","10019","5.8%","1135646"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2016","Rob Barger","common stock","16991","9.8%","1135646"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2016","Oliver Adams","common stock","34689","20.0%","1135646"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Director & Chairman of Board","Eleanor Yoakum","Director","Yoakum Family LP","2016","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director & Vice Chairman & President","Rob Barger","Owner","Yoakum Family LP","2016","n/a","1135646"
+"Claiborne Holding Company,"Inc."","n/a","Oliver Adams","Principal Shareholder","n/a","2016","Attorney","1135646"
+"Claiborne Holding Company,"Inc."","n/a","Wesley Minton","Executive VP Chief Operating Officer","n/a","2016","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director","Carroll E. Rose,"MD"","Partner","n/a","2016","Physician & Real Estate Developer","1135646"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jennifer Lovin","Secretary to the Board","n/a","2016","n/a","1135646"
+"Claiborne Holding Company,"Inc."","n/a","Rex Rauhuff","Executive VP Chief Lending Officer","n/a","2016","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director","George Day,"M.D."","Partner","Heartland Pharmacy","2016","Physician","1135646"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","Managing Member","Press Group,"LLC"","2016","N/A","1135646"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","Managing Ptr","Cayenne Rental Properties,"GP"","2016","N/A","1135646"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","President","Press Bldg. Condo Assoc","2016","N/A","1135646"
+"Claiborne Holding Company,"Inc."","Director","Lee Dan Stone III","Owner","n/a","2016","Attorney-at-Law","1135646"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","Director/ consultant","n/a","2016","Business consultant","1135646"
+"Claiborne Holding Company,"Inc."","Director","Howard Phillips","Partner/Member","Powell Auction Realty,"LLC"","2016","Business owner","1135646"
+"Claiborne Holding Company,"Inc."","Director","Howard Phillips","Partner/Member","Phillips Real Estate,"LLC"","2016","Business owner","1135646"
+"Claiborne Holding Company,"Inc."","Director","Howard Phillips","Partner/Member","BMT Properties Partnership","2016","Business owner","1135646"
+"Claiborne Holding Company,"Inc."","n/a","Greg Garren","Operation Manager","Sequatchie Concrete","2016","Operation Manager","1135646"
+```

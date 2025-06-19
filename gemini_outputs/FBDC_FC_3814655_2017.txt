@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Stephen K. Eberhart*","Common Stock","35062","8.97%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Dean Eberhart *","Common Stock","13028","3.33%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2017","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2017","The Estate of Glen Kilgore **","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2017","Eloise Smith **","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Charles Stephens ***","Common Stock","26130","6.69%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Linda Stephens ***","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Johnny Young ****","Common Stock","65600","16.79%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Linda M. Young ****","Common Stock","5600","1.43%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Chris Pierson ****","Common Stock","5166","1.32%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2017","Chris Young ****","Common Stock","5120","1.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","President & CEO","First Federal Bank","2017","N/A","n/a"
+"FBDC Financial Corp.","Director","Johnny David Young","President","Young Steel Stamping,"Inc."","2017","Fabricator\nYoung Steel Stamping,"Inc."","n/a"
+"FBDC Financial Corp.","Director","Charles Ray Stephens","Retired","Dixie Machine Shop,"Inc."","2017","Retired\nMachine Shop,"\nOwner/Operator"","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","Pioneer Credit Company","2017","Retired,"Motel\nOwner/Operator"","n/a"
+"FBDC Financial Corp.","n/a","Eloise J. Smith","Public Relations","1st State Bank","2017","Public Relations","n/a"
+"FBDC Financial Corp.","n/a","Shari Jones,"Administratrix"","Stockholder","Rainsville Church Pew,"Inc."","2017","Merchant\nRainsville Church\nPew,"Inc."","n/a"
+"FBDC Financial Corp.","n/a","Shari Jones,"Administratrix"","Chairman/President","First State Bancshares\nof DeKalb County,"Inc."","2017","Merchant\nRainsville Church\nPew,"Inc."","n/a"
+```

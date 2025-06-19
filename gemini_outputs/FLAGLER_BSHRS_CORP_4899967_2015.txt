@@ -1,0 +1,22 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flagler Bancshares Corporation","Palm Beach,"FL"","2015","Ronald Y Schram","Common","525218","21.35%","4899967"
+"Flagler Bancshares Corporation","Coral Gables,"FL"","2015","Frank Hessel","Common","525217","21.35%","4899967"
+"Flagler Bancshares Corporation","Los Angeles,"CA"","2015","Elliot Horowitz","Common","243482","9.89%","4899967"
+"Flagler Bancshares Corporation","Palm Beach Gardens,"FL"","2015","Arnold Lampert","Common","166666","6.78%","4899967"
+"Flagler Bancshares Corporation","Greenwich,"CT"","2015","John Irwin","Common","133333","5.42%","4899967"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flagler Bancshares Corporation","President/Director","Ronald Y Schram","n/a","Only Flagler Bank","2015","Real Estate","4899967"
+"Flagler Bancshares Corporation","COB/Secretary","Edward Sterling","n/a","Only Flagler Bank","2015","Flagler President","4899967"
+"Flagler Bancshares Corporation","Director","Frank Hessel","n/a","Only Flagler Bank","2015","Real Estate","4899967"
+"Flagler Bancshares Corporation","Director","Ron Mackail","n/a","Only Flagler Bank","2015","Accounting","4899967"
+"Flagler Bancshares Corporation","Director","Gary Walk","n/a","Only Flagler Bank","2015","Attorney","4899967"
+"Flagler Bancshares Corporation","Director","Arnold Lampert","n/a","Only Flagler Bank","2015","Retired","4899967"
+"Flagler Bancshares Corporation","Director","Gerry Goldsmith","n/a","Only Flagler Bank","2015","Retired","4899967"
+"Flagler Bancshares Corporation","Director","Herbert Weiss","n/a","Only Flagler Bank","2015","Furniture","4899967"
+```

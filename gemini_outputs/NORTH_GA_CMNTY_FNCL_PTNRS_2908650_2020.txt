@@ -1,0 +1,35 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"North Georgia Community Financial Partners,"Inc."","Dalton,"GA"","2020","Ernest M. Acree,"Jr."","Common Stock","66150","7.31%","n/a"
+"North Georgia Community Financial Partners,"Inc."","Tunnell Hill,"GA"","2020","Jim Griffin","Common Stock","88500","9.78%","n/a"
+"North Georgia Community Financial Partners,"Inc."","Dalton,"GA"","2020","Thomas M. Kinnamon","Common Stock","196931","21.76%","n/a"
+"North Georgia Community Financial Partners,"Inc."","Dalton,"GA"","2020","John Oxford","Common Stock","50000","5.52%","n/a"
+"North Georgia Community Financial Partners,"Inc."","Dalton,"GA"","2020","Charles Cofield","Common Stock","55000","6.08%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Director","Acree,"Jinright","Leonard & Co. PC"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","President","Acree Realty,"Inc."","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Member","LOMA,"LLC"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Partner","EM Acree I,"LLLP"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Partner","EM Acree Family LTD,"Ptr"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Partner","EM Acree II,"LLLP"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Managing Member","Acree Timber,"LLC"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Ernest M. Acree,"Jr."","Managing Member","Acree Management,"LLC"","2020","C.P.A.","n/a"
+"North Georgia National Bank","Director","Jim T. Griffin","Owner","Griffin Farms & Rentals","2020","Retired CFO","n/a"
+"North Georgia National Bank","Director and Chairman","Thomas M. Kinnamon","President","Accent Yarns & Textile,"Inc."","2020","President","n/a"
+"North Georgia National Bank","Director and Chairman","Thomas M. Kinnamon","Member","PKF,"LLC"","2020","President","n/a"
+"North Georgia National Bank","Director and Chairman","Thomas M. Kinnamon","Member","Spring Place Mobile Home Park","2020","President","n/a"
+"North Georgia National Bank","Director and Chairman","Thomas M. Kinnamon","Member","Kinnamon Enterprises,"LLC"","2020","President","n/a"
+"North Georgia National Bank","Director and Chairman","Thomas M. Kinnamon","President","Accent Air Technologies,"Inc"","2020","President","n/a"
+"North Georgia National Bank","Director","Michael E. Jinright","Partner","S & J Investment Properties,"LLC"","2020","Managing Partner","n/a"
+"North Georgia National Bank","Director","John Oxford","Secretary / Treasurer","Accent Yarns & Textiles,"Inc."","2020","Secretary / Treasurer","n/a"
+"North Georgia National Bank","Director","John Oxford","Secretary / Treasurer","Accent Air Technologies,"Inc."","2020","Secretary / Treasurer","n/a"
+"North Georgia National Bank","Director","John Oxford","Manager / Partner","OF Enterprises LLLP","2020","Secretary / Treasurer","n/a"
+"North Georgia National Bank","Director","Scott Kinnamon","President","Fiber Technologies,"Inc"","2020","President","n/a"
+"North Georgia National Bank","Director","Scott Kinnamon","Managing Member","Crown Materials and Recycling,"LLC"","2020","President","n/a"
+"North Georgia National Bank","President & CEO","Christopher Pierce","Managing Member","Pierce Real Estate Holdings,"LLC"","2020","President & CEO","n/a"
+```

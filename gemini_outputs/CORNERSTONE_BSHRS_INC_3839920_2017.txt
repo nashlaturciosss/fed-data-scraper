@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","New York,"NY"","2017","Yaowu Zhang","Common Stock","786886","9.95%","n/a"
+"Cornerstone Bancshares,"Inc."","Ji Lin,"China"","2017","Yang Zhao","Common Stock","786885","9.95%","n/a"
+"Cornerstone Bancshares,"Inc."","Beijing,"China"","2017","Guomin Sun","Common Stock","632072","7.99%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","Director","Bill Pendleton","Managing Partner","Pen Investments LLC","2017","Investor","n/a"
+"Cornerstone Bancshares,"Inc."","Corporate Secretary","Beth Martin","n/a","n/a","2017","Corporate Secretary and Special Assets Officer Cornerstone Bank","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partner","Atlanta Capital Holdings,"LLC"","2017","Managing Partner Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partner","Urban Security Corporation","2017","Managing Partner Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partner","Urban Parking Corporation","2017","Managing Partner Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partner","Southeast Financial Corporation","2017","Managing Partner Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Hans Kempers","President","Dutch Investment Corporation","2017","Retired","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Clay Snellings","Principal","Snellings Walters Insurance Agency","2017","Principal,"Snellings Walters Insurance Agency"","n/a"
+"Cornerstone Bancshares,"Inc."","Chairman","J. Paul Austin","Manager","Austin & Co. LLC","2017","Chairman Cornerstone Bancshares","n/a"
+"Cornerstone Bancshares,"Inc."","Chairman","J. Paul Austin","Manager","BQS Management LLC","2017","Chairman Cornerstone Bancshares","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ping Lee","Sole owner of","PacificPiers Advisory LLC","2017","Retired","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Thomas Purvis","n/a","n/a","2017","Retired","n/a"
+```

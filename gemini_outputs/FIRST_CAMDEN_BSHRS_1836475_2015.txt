@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Camden Bancshares,"Inc."","Corpus Christi,"TX"","2015","Ballard Ltd. Partnership","Common Stock","9890","5.9%","n/a"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2015","A.L. Johnson,"Jr"","Common Stock","9541","5.7%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","Law Partnership","2015","n/a","466932"
+"First Camden Bancshares,"Inc."","Director","William S. Johnson","Partner","Law Partnership","2015","n/a","466932"
+"First Camden Bancshares,"Inc."","Director & Secretary-Treasurer","Kathryn S. Perryman","none","n/a","2015","n/a","466932"
+"First Camden Bancshares,"Inc."","Director","Sumpter Blackmon","Owner","Dr. Sumpter Blackmon P.A.","2015","Physician","466932"
+"First Camden Bancshares,"Inc."","Director","William B. Malone","Vice President","Holman Insurance","2015","Insurance","466932"
+"First Camden Bancshares,"Inc."","Director","Jimmie L. Travis","Retired President","Wilco Timber Co.","2015","Forester","466932"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","President","Browder Veneer","2015","Wood Products Industry","466932"
+"First Camden Bancshares,"Inc."","Director","William Phillippi,"Jr"","Owner","W.R. Phillippi,"DMD"","2015","Dentist","466932"
+"First Camden Bancshares,"Inc."","Vice President","David Crawford","none","n/a","2015","n/a","466932"
+```

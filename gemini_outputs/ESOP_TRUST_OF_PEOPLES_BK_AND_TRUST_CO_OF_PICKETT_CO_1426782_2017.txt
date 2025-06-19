@@ -1,0 +1,28 @@
+"Here are the two tables in CSV format","following the instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"People's Bank and Trust Co of Pickett Coun","Jamestown,"TN"","2017","Progressive Financial Group,"Inc. (PFG)"","n/a","15362","23.35%","n/a"
+"People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2017","The Employee Stock Ownership Plan Trust of People's Bank and Trust Company of Pickett County (ESOT)","n/a","16158","24.56%","n/a"
+"People's Bank and Trust Co of Pickett Coun","Livingston,"TN"","2017","Charlotte Elder","n/a","3046","4.63%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"People's Bank and Trust Co of Pickett Coun","CEO","Bruce E. Elder","n/a","n/a","2017","Banker","n/a"
+"People's Bank and Trust Co of Pickett Coun","Trustee","Bruce E. Elder","n/a","n/a","2017","Banker","n/a"
+"People's Bank and Trust Co of Pickett Coun","Pres/CFO/Cshr/Director/Sec","Michael D. Officer","n/a","n/a","2017","Banker","n/a"
+"People's Bank and Trust Co of Pickett Coun","Trustee","Michael D. Officer","n/a","n/a","2017","Banker","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Joseph Amonett","n/a","Keisling Insurance Agency,"Inc."","2017","Insurance","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Stephen Bilbrey","n/a","Mullins Lumber Co.,"Inc."","2017","Grocery","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Gale Copeland","n/a","n/a","2017","Retired","n/a"
+"People's Bank and Trust Co of Pickett Coun","Trustee","Gale Copeland","n/a","n/a","2017","Retired","n/a"
+"People's Bank and Trust Co of Pickett Coun","Chairman","John Keisling","Agent/Treasurer","Keisling Insurance Agency,"Inc."","2017","Insurance","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Johnnie A. Keisling","n/a","n/a","2017","Retired","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Bobby H. Mullins","President","Mullins Lumber Co.,"Inc."","2017","Retired","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Larry T. Conner","n/a","n/a","2017","Retired","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","David Reeves","President","Albany Redi-Mix","2017","Concrete plant","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Terry White","President","BWI Pipe and Supply,"Inc."","2017","Pipe Supply","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Terry White","President","White Properties,"Inc."","2017","Pipe Supply","n/a"
+"People's Bank and Trust Co of Pickett Coun","Director","Terry White","President","Crude LLC","2017","Pipe Supply","n/a"
+```

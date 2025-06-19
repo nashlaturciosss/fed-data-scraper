@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mansura Bancshares,"Inc."","n/a","2023","Larry J. Drouin","n/a","n/a","25.00%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Mark A. Drouin","n/a","n/a","13.33%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Karen D. Deshotels","n/a","n/a","13.33%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Stephen L. Drouin","n/a","n/a","13.33%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","John A. Kramer,"III"","n/a","n/a","8.33%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Minh Luu","n/a","n/a","6.67%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Timothy J. Curry","n/a","n/a","6.67%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Scott M. Bolton","n/a","n/a","6.67%","n/a"
+"Mansura Bancshares,"Inc."","n/a","2023","Julie A. Lemoine","n/a","n/a","6.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mansura Bancshares,"Inc."","Director","Larry J. Drouin","Director","Cottonport Bank","2023","President","n/a"
+"Mansura Bancshares,"Inc."","Director","Mark A. Drouin","Director","Cottonport Bank","2023","Executive Vice President","n/a"
+"Mansura Bancshares,"Inc."","Director","Karen D. Deshotels","Director","Cottonport Bank","2023","Bookkeeper","n/a"
+"Mansura Bancshares,"Inc."","Director","Stephen L. Drouin","Director","Cottonport Bank","2023","Vice President","n/a"
+"Mansura Bancshares,"Inc."","Director","John A. Kramer,"III"","Director","Cottonport Bank","2023","Attorney","n/a"
+"Mansura Bancshares,"Inc."","Director","Minh V. Luu","Director","Cottonport Bank","2023","VP & CFO","n/a"
+"Mansura Bancshares,"Inc."","Director","Timothy J. Curry","Director","Cottonport Bank","2023","Attorney","n/a"
+"Mansura Bancshares,"Inc."","Director","Scott M. Bolton","Director","Cottonport Bank","2023","President/CEO","n/a"
+"Mansura Bancshares,"Inc."","Director","Julie A. Lemoine","Director","Cottonport Bank","2023","Assistant Vice President","n/a"
+```

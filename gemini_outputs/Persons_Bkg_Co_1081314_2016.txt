@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2016","Katherine P. Kelly (a)","Shares of Common Stock","3771.25","n/a","212335"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2016","Custodian For Harper Lee Kelly","Shares of Common Stock","489.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2016","G. Ogden Persons,"III (c)"","Shares of Common Stock","6867.75","n/a","212335"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2016","Custodian For Mary K. Persons","Shares of Common Stock","489.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2016","James G. Persons (d)","Shares of Common Stock","3922.25","n/a","212335"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2016","Custodian For James G. Persons,"Jr."","Shares of Common Stock","489.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2016","Custodian For Ropert P. Persons","Shares of Common Stock","489.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2016","Custodian For Jackson T. Persons","Shares of Common Stock","489.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2016","Persons Family Trust (e)","Shares of Common Stock","16397.00","n/a","212335"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2016","Persons Family Trust (e)","Shares of Common Stock","n/a","100.00%","212335"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Persons Banking Co.,"Inc."","Executive Vice President & CFO","Douglas R. Harper","n/a","n/a","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Secretary & Treasurer","Douglas R. Harper","n/a","n/a","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","R O Inc.","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","OJK LLC","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Director","G. Ogden Persons,"II"","n/a","n/a","2016","Retired; personal investments","212335"
+"Persons Banking Co.,"Inc."","Chairman","G. Ogden Persons,"III"","Director & CEO","R O Inc.","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","President & CEO","G. Ogden Persons,"III"","Director & CEO","OJK LLC","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Director","G. Ogden Persons,"III"","Director & CEO","n/a","2016","n/a","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","President","Persons Properties,"Inc."","2016","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","R O Inc.","2016","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","OJK LLC","2016","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Principal shareholder","Persons Family Trust","Principal shareholder","R O Inc.","2016","n/a","212335"
+```

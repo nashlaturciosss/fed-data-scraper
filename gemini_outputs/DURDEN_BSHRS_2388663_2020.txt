@@ -1,0 +1,36 @@
+Here are the tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Durden Bankshares,"Inc."","Twin City,"GA"","2020","DURDEN BANKING CO EMPLOYEE STOCK OWNERSHIP PLAN","n/a","7807","19.71%","n/a"
+"Durden Bankshares,"Inc."","Swainsboro,"GA"","2020","DAL D DURDEN","n/a","2050","5.18%","n/a"
+"Durden Bankshares,"Inc."","Johns Creek,"GA"","2020","JAY FRANKLIN ROWLAND","n/a","2500","6.31%","n/a"
+"Durden Bankshares,"Inc."","Waynesboro,"GA"","2020","MELANY JONES","n/a","2150","5.43%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Durden Bankshares,"Inc."","PRESIDENT/DIRECTOR DURDEN BANKSHARES,"INC."","G. W. JOHNSON,"JR."","n/a","n/a","2020","BANKING","n/a"
+"Durden Bankshares,"Inc."","PRES/CEO/DIRECTOR DURDEN BANKING CO.,"INC."","G. W. JOHNSON,"JR."","n/a","n/a","2020","BANKING","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","EAST GA INVESTMENT CO","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","MAIN STREET DEVELOPMENT CORP","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","SWAINSBORO DEVELOPMENT CORP","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","SOUTH MAIN PROPERTIES","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","FLIGHTCO,"INC."","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","JERRY N. CADLE","JERRY N CADLE,"PC ATTORNEY"","DEER CREEK DEVELOPMENT","2020","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","LOY D. COWART,"JR."","n/a","n/a","2020","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC"","LOY D. COWART,"JR."","n/a","n/a","2020","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","DANNY C. OLLIFF","OLLIFF & FORDHAM CPAS.,"PC PARTNER"","n/a","2020","LAWYER/ACCOUNTANT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","DANNY C. OLLIFF","OLLIFF & FORDHAM CPAS.,"PC PARTNER"","n/a","2020","LAWYER/ACCOUNTANT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","DAL D. DURDEN","n/a","SWAINSBORO SUPPLY","2020","BUILDING SUPPLY OWNER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","DAL D. DURDEN","n/a","DURDEN INVESTMENTS","2020","BUILDING SUPPLY OWNER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","CLAY H. CLARK","n/a","n/a","2020","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO,"INC."","CLAY H. CLARK","n/a","n/a","2020","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","JAMES R. MERCER","n/a","MTMS,"INC."","2020","TIMBER MANAGEMENT/FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","JAMES R. MERCER","n/a","SABO PROPERTIES,"LLC"","2020","TIMBER MANAGEMENT/FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","LACY B FRYE,"III"","n/a","n/a","2020","RETIRED SCHOOL SUPERINTENDENT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","LACY B FRYE,"III"","n/a","n/a","2020","RETIRED SCHOOL SUPERINTENDENT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKSHARES,"INC."","JOHN ROBERT BOWEN,"JR"","n/a","CANDLER PHARMACY,"P. C."","2020","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","JOHN ROBERT BOWEN,"JR"","n/a","PILLMAN ENTERPRISES,"LLC"","2020","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR DURDEN BANKING CO.,"INC."","JOHN ROBERT BOWEN,"JR"","n/a","KENT INVESTMENTS,"LLC"","2020","PHARMACIST","n/a"
+```

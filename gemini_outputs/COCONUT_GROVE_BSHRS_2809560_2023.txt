@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","n/a","2023","Sheldon T. Anderson","n/a","n/a","10.23%","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","2023","Thomas Abraham","n/a","n/a","5.05%","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","2023","John W. Kozyak","n/a","n/a","9.67%","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","2023","Hal J. Lewis,"Jr."","n/a","n/a","11.14%","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","2023","Albert E. Dotson,"Jr."","n/a","n/a","8.93%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Chairman/CEO","Sheldon T. Anderson","Director","Community Health of South Florida,"Inc."","2023","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Hal J. Lewis,"Jr."","n/a","n/a","2023","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Albert E. Dotson,"Jr."","n/a","Bilzin Sumberg,"Attorneys at Law"","2023","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Albert E. Dotson,"Jr."","n/a","Florida Memorial University","2023","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Domingo Callejas","n/a","n/a","2023","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Jeffrey J. Dwyer","n/a","n/a","2023","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","John W. Kozyak","n/a","Kozyak Tropin & Throckmorton,"P.A."","2023","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Thomas Abraham","n/a","n/a","2023","Real Estate Developer","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Gary L. Milano","n/a","n/a","2023","n/a","n/a"
+```

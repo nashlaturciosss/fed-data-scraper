@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First Bank","New Iberia,"LA"","2016","Wayne Porciau","Common Stock","74804","9.5568%","2775179"
+"Community First Bank","New Iberia,"LA"","2016","Greg Inzerella","Common Stock","55305","7.0655%","2775179"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First Bancshares,"Inc."","Director & Secretary","Lynn DeRouen","President","Lynn A. DeRouen,"APLC"","2016","Attorney & Financial Advisor","n/a"
+"Community First Bancshares,"Inc."","Director & Secretary","Lynn DeRouen","President","DeRouen Financial Management LLC","2016","Attorney & Financial Advisor","n/a"
+"Community First Bancshares,"Inc."","Director & Chairman","Darryl Elias","Managing Partner","3E & S LLC","2016","Medical Doctor/Instructor","n/a"
+"Community First Bancshares,"Inc."","Director & Chairman","Darryl Elias","Managing Partner","Silver Oaks,"LLC"","2016","Medical Doctor/Instructor","n/a"
+"Community First Bancshares,"Inc."","Director","James B Falterman,"Jr."","n/a","n/a","2016","Medical Doctor","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","Member/Manager","James A and Kelly S Holleman Family LLC","2016","Retired","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","President","Cardinal Services LLC","2016","Retired","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","President","Hollemire International,"LLC"","2016","Retired","n/a"
+"Community First Bancshares,"Inc."","Director & President","Greg Inzerella","President","Inzerella,"Feldman","& Pourciau","CPA's"","2016","Certified Public Accountant","n/a"
+"Community First Bancshares,"Inc."","Director","Jackie Judice","President","Iberia Discout Tire","2016","MA Patout","n/a"
+"Community First Bancshares,"Inc."","Director","Jackie Judice","Public Relations","MA Patout","2016","MA Patout","n/a"
+"Community First Bancshares,"Inc."","Director","Jackie Judice","President","Sandys Place LLC","2016","MA Patout","n/a"
+"Community First Bancshares,"Inc."","Director & President","Benny Menard","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Director","Wayne Pourciau","Member/Manager","Double Eagle Marine,"LLC"","2016","Marine Transportation","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Producer","Laris Insurance","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Port of Iberia","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Director","W Perry Stokes,"Jr."","n/a","n/a","2016","Medical Doctor","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Joey Danos","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Larry Hensgens","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jimmy Rodrigue","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Terrie Romero","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Dirk Trahan","n/a","n/a","2016","N/A","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jerome Weber","n/a","n/a","2016","N/A","n/a"
+```

@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bank","Lafayette,"USA"","2017","CAP Voiting Trust","n/a","16782","26.23%","n/a"
+"Gulf Coast Bank","Lafayette,"USA"","2017","Paul Patout,"Patrick Patout","and Raymond Patout","Trustee"","n/a","n/a","n/a","n/a"
+"Gulf Coast Bank","Abbeville,"LA USA"","2017","LeBlanc Family irrevocable Trust","n/a","3600","5.80%","n/a"
+"Gulf Coast Bank","Abbeville,"LA USA"","2017","LeBlanc","n/a","n/a","n/a","n/a"
+"Gulf Coast Bank","Abbeville,"LA USA"","2017","Charles E. Dill Jr.","n/a","3517","5.50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bank","Vice Chairman & Director","Richard Dubois","n/a","n/a","2017","n/a","459130"
+"Gulf Coast Bank","Secretary & Director","Lorraine LeBlanc","Secretary","GCB Financila Services Inc","2017","n/a","459130"
+"Gulf Coast Bank","Director & President","Paul Patout","President,"CEO"","n/a","2017","n/a","459130"
+"Gulf Coast Bank","Director & Chairman","Patrick Patout","Chairman of the Board & Director","Gulf","2017","n/a","459130"
+"Gulf Coast Bank","Director & Chief Finance Officer","Jason Patout","Sr. Vice President & Director","Gulf","2017","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","Director","Gulf","2017","n/a","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","Ottinger Hebert,"LLC"","2017","Attorney","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","Magellan Construction LLC","2017","Attorney","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","Magellan Development LLC","2017","Attorney","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","Pinhook Associates LLC","2017","Attorney","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","Jimmy Johns LLC Lafayette","2017","Attorney","459130"
+"Gulf Coast Bank","n/a","Paul Patout,"Patrick Patout","Raymond Patout"","n/a","n/a","2017","n/a","459130"
+"Gulf Coast Bank","Director","EugeneM. Sellers,"Jr."","President","The Sellers Group","2017","Architect","459130"
+"Gulf Coast Bank","Director","Christopher Dardeau","n/a","Gulf","2017","n/a","459130"
+```

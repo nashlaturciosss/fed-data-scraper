@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bank Holding Company","Orange City,"FL"","2016","Stephen S. Spore Trust","Common Stock","2197","7.75%","n/a"
+"Pinnacle Bank Holding Company","Daytona Beach,"FL"","2016","Morteza Hosseini-Kargar Trust","Common Stock","1795","6.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank Holding Company","Chairman/Director","Raymond A. Biernacki,"Jr."","Partner","Biernacki & Biernacki,"P. A."","2016","Lawyer,"Biernacki & Biernacki P. A."","2847142"
+"Pinnacle Bank Holding Company","Director","James D. Houck","Owner/General Mgr","Kentucky Fried Chicken","2016","Owner Chicken franchise(s)","n/a"
+"Pinnacle Bank Holding Company","Director","Doug Anderson","Director","n/a","2016","N/A","n/a"
+"Pinnacle Bank Holding Company","Director","Terry C. Williams","Pres./CEO","Williams Floor Center,"Inc."","2016","Owner","n/a"
+"Pinnacle Bank Holding Company","Director","Terry C. Williams","Pres./CEO","Williams Properties","2016","Owner","n/a"
+"Pinnacle Bank Holding Company","EVP/CFO","Javier Espido","EVP/CFO","n/a","2016","N/A","n/a"
+```

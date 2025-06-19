@@ -1,0 +1,22 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","following all the specified instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin Bancshares,"Inc."","Chevy Chase,"MD"","2014","Patricia M. Bush","Common Stock","189600","32.19%","3674215"
+"Franklin Bancshares,"Inc."","Ridgeland,"MS"","2014","Wade H. Creekmore,"Jr."","Common Stock","50000","8.49%","3674215"
+"Franklin Bancshares,"Inc."","San Diego,"CA"","2014","Cynthia Deane Black","Common Stock","31680","5.41%","3674215"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Bancshares,"Inc."","CEO,"President/Director"","Bradley B. Jones","Member","Sandbar Land & Timber,"LLC"","2014","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Patricia M. Bush","VP/Director","D.R. McGehee Ins Agy,"Inc"","2014","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Robert Harold Dillon","n/a","n/a","2014","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Gregory Grady McLean","Secretary/Treasurer/Director","D.R. McGehee Ins Agy,"Inc"","2014","n/a","3674215"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/Director","D.R. McGehee Ins Agy,"Inc"","2014","Insurance Agent","3674215"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/Director","Garden District Investments,"Inc"","2014","Insurance Agent","3674215"
+"Franklin Bancshares,"Inc."","Director","Patrick Larkin","Owner","Larkin Veterinary Clinic","2014","Veterinarian","3674215"
+"Franklin Bancshares,"Inc."","Vice-Chairman/Director","Edmund E. Prestridge","n/a","n/a","2014","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Daniel M. Scarbrough","Medical Director","Community Health Systems,"Inc."","2014","Medical Doctor","3674215"
+"Franklin Bancshares,"Inc."","Chairman/Director","James A. Torrey,"Jr."","Partner","McGehee,"McGehee & Torrey"","2014","Lawyer","3674215"
+```

@@ -1,0 +1,23 @@
+"Here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covenant Bancgroup,"Inc."","Birmingham,"AL"","2014","Bob Smith","common stock","33305","8.83%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","Hayes Parnell III","common stock","32003","8.48%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","Hayes Parnell III","options on common stock","8280","2.19%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","John Patterson","common stock","15098","4.00%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","John Patterson","options on common stock","14281","3.78%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","Joseph White","common stock","2877","0.76%","2621294"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2014","Joseph White","options on common stock","14281","3.78%","2621294"
+"Covenant Bancgroup,"Inc."","Birmingham,"AL"","2014","Schauer Family Irrevocable Trust","common stock","21491","5.69%","2621294"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covenant Bank","Director,"Chairman President & CEO"","Hayes Parnell III","Partner","S&P Properties,"LLC"","2014","Banker","n/a"
+"Covenant Bank","Director","John R. Patterson","Owner","Patterson Pharmacy","2014","Pharmacist","n/a"
+"Covenant Bank","Director","Joe White","Owner","Curtis White Co","2014","Contractor","n/a"
+"Covenant Bank","Director","Joe White","Partner","Curtis White Dev.,"LLC"","2014","Contractor","n/a"
+"Covenant Bank","Director","Joe White","Partner","Wynn Lake Dev.,"LLC"","2014","Contractor","n/a"
+"Covenant Bank","Director","Johnny Dutton","n/a","n/a","2014","Banker","n/a"
+```

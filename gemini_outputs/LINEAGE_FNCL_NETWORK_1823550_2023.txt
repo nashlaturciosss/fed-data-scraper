@@ -1,0 +1,13 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lineage Financial Network,"Inc."","Director,"Chairman","& President"","Jeff Hausman","Puryear Noonan CPAs","Puryear Noonan CPAs","2023","Partner/Ameritas","n/a"
+"Lineage Financial Network,"Inc."","Lender","Shaun Hewitt","Director","n/a","2023","n/a","n/a"
+"Lineage Financial Network,"Inc."","Director","Michael Dewey","Member/Owner","Dewey Engineering,"LLC"","2023","Owner Small Business","n/a"
+"Lineage Financial Network,"Inc."","Director","Michael Dewey","Member/Owner","Berry Hill Ventures","2023","Owner Small Business","n/a"
+```

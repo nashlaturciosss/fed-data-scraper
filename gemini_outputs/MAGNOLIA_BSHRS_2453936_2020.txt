@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2020","Jolene J. Carroll","Common Stock","42571","48.83%","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2020","John L. Jessup","Common Stock","21411","24.56%","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2020","H.C. Ragan","Common Stock","5514","6.32%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Director & Chairman & President/CEO","Jolene J. Carroll","n/a","n/a","2020","n/a","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director & Bank of Eastman Division Regional President","John L. Jessup","n/a","n/a","2020","n/a","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director","Clark M. Carroll","General Partner","Clark M. Carroll,"DMD P.C."","2020","Dentist","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director","R. Larry Southerland","Finance Director","Middle Georgia Community Action Agency,"Inc."","2020","CPA","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director","William J. Carroll","Doctor","Central Florida Retina & The Macular Degeneration Center","2020","Medical Doctor","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director","Callen A. Carroll","Associate Attorney","Nelson,"Mullins","Riley","& Scarborough","LLP"","2020","Attorney","n/a"
+```

@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mount Vernon Bank","Ailey,"GA"","2018","Donald M. Thigpen","n/a","58805","33.62%","807432"
+"Mount Vernon Bank","Vidalia,"GA"","2018","Mount Vernon Bank 401KSOP Plan D71","n/a","24651","14.09%","807432"
+"Mount Vernon Bank","Vidalia,"GA"","2018","Ronnie Green","n/a","9700","5.55%","807432"
+"Mount Vernon Bank","Glenwood,"GA"","2018","G. M. Joiner,"Jr."","n/a","20000","11.44%","807432"
+"Mount Vernon Bank","Mount Vernon,"GA"","2018","John Roller","n/a","17043","9.74%","807432"
+"Mount Vernon Bank","Vidalia,"GA"","2018","Vernon Sumner","n/a","13277","7.59%","807432"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mount Vernon Bank","President & CEO","Donald M. Thigpen","n/a","n/a","2018","Retired Bank President","807432"
+"Mount Vernon Bank","Shareholder","Mount Vernon Bank 401KSOP Plan D71","n/a","n/a","2018","N/A","807432"
+"Mount Vernon Bank","Chairman","G.M. Joiner,"JR"","n/a","n/a","2018","Retired Furniture store owner","807432"
+"Mount Vernon Bank","Director","Ronnie Green","n/a","n/a","2018","Retired Bank President","807432"
+"Mount Vernon Bank","Secretary","Heather Helms","n/a","n/a","2018","Controller of Mount Vernon Bank","807432"
+```

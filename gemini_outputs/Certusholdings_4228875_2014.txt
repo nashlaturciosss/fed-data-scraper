@@ -1,23 +1,23 @@
-Here are the two CSV tables extracted from the provided document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CertusHoldings,"Inc."","New York","2014","King Street","Class A","541,"327"","8.95%"
-"CertusHoldings,"Inc."","New York","2014","Paulson","Class A","541,"327"","8.95%"
-"CertusHoldings,"Inc."","Harrison","2014","Tricadia","Class A","541,"327"","8.95%"
-"CertusHoldings,"Inc."","New York","2014","Blue Mountain","Class A","541,"327"","8.95%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CertusHoldings,"Inc."","New York,"NY"","2014","King Street","Class A","541327","8.95%","n/a"
+"CertusHoldings,"Inc."","New York,"NY"","2014","Paulson","Class A","541327","8.95%","n/a"
+"CertusHoldings,"Inc."","Harrison,"NY"","2014","Tricadia","Class A","541327","8.95%","n/a"
+"CertusHoldings,"Inc."","New York,"NY"","2014","Blue Mountain","Class A","541327","8.95%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Certus Holdings,"Inc."","Chairman,"President","& CFO"","John Poelker","n/a","n/a","2014"
-"Certus Holdings,"Inc."","Director","J. Veronica Biggins","Managing Director","Hodge Partners","2014"
-"Certus Holdings,"Inc."","Director","Robert J. Brown","Chairman & CEO","B&C Associates,"Inc."","2014"
-"Certus Holdings,"Inc."","Director","Douglas W. Johnson","Retired Audit Partner","Frust & Young","2014"
-"Certus Holdings,"Inc."","Director","Hildy J. Teegen","Professor,"Moore School of Business"","Univ. of S. Carolina","2014"
-"Certus Holdings,"Inc."","Director","Robert L.. Wright","Chairman & CEO","FE Holdings,"Inc."","2014"
-"Certus Holdings,"Inc."","Director","Bruce L. Campbell","Principal","ALCO Partners","2014"
-"Certus Holdings,"Inc."","Director","Louis Spencer Wells","Partner","Drivetrain,"LLC"","2014"
-"Certus Holdings,"Inc."","Director","Bradford B. Kopp","Financial Services Advisor","Various locations","2014"
-"Certus Holdings,"Inc."","Director","Andrew R. Jones","n/a","North Star Partners,"LP"","2014"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CertusHoldings,"Inc."","Chairman,"President","& CFO"","John Poelker","n/a","n/a","2014","n/a","n/a"
+"CertusHoldings,"Inc."","Director","J. Veronica Biggins","Managing Director","Hodge Partners","2014","Managing Director","n/a"
+"CertusHoldings,"Inc."","Director","Robert J. Brown","Chairman & CEO","B&C Associates,"Inc."","2014","Chairman & CEO","n/a"
+"CertusHoldings,"Inc."","Director","Douglas W. Johnson","Retired Audit Partner","Frust & Young","2014","Retired Audit Partner","n/a"
+"CertusHoldings,"Inc."","Director","Hildy J. Teegan","Professor,"Moore School of Business"","Univ. of S. Carolina","2014","Professor,"Moore School of Business"","n/a"
+"CertusHoldings,"Inc."","Director","Robert L.. Wright","Chairman & CEO","FE Holdings,"Inc."","2014","Chairman & CEO","n/a"
+"CertusHoldings,"Inc."","Director","Robert L.. Wright","Chairman & CEO","Workers Compensation Technology","2014","Chairman & CEO","n/a"
+"CertusHoldings,"Inc."","Director","Bruce L. Campbell","Principal","ALCO Partners","2014","Principal","n/a"
+"CertusHoldings,"Inc."","Director","Louis Spencer Wells","Partner","Drivetrain,"LLC"","2014","Partner","n/a"
+"CertusHoldings,"Inc."","Director","Bradford B. Kopp","Financial Services Advisor","Various locations","2014","Financial Services Advisor","n/a"
+"CertusHoldings,"Inc."","Director","Andrew R. Jones","Principal","North Star Partners,"LP"","2014","n/a","n/a"
 ```

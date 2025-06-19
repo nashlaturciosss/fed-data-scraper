@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Crews Banking Corporation","Wauchula,"Florida"","2021","J. W. Crews,"Jr."","n/a","21274","49.70%","1081239"
+"Crews Banking Corporation","Sarasota,"Florida"","2021","W. Markam Crews","n/a","7176","16.77%","1081239"
+"Crews Banking Corporation","Tampa,"Florida"","2021","Dena M. Aloian Crews","n/a","7176","16.77%","1081239"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","n/a","n/a","2021","Banker","1081239"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation.","H. D. Crews","n/a","n/a","2021","Physician/Retired","1081239"
+"Crews Banking Corporation","Director","W. Markam Crews","n/a","JDM Partnership - Citrus Grove","2021","Entrepreneur","1081239"
+"Crews Banking Corporation","Director","W. Markam Crews","n/a","Bowling Green Storage,"Inc."","2021","Entrepreneur","1081239"
+"Crews Banking Corporation","Vice Chairman & President and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","T & C Investments","2021","Banker","1081239"
+"Crews Banking Corporation","Vice Chairman & President and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","Crews Family Holdings,"LLC"","2021","Banker","1081239"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","JDM Partnership - Citrus Grove","2021","n/a","1081239"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","3-C Ranch Limited","2021","n/a","1081239"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","Shorewood Corporation","2021","n/a","1081239"
+```

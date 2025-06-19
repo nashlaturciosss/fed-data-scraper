@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSRA Bank Corp","Wrens,"GA"","2017","Jerry D./Susan O. Dowdy","Common Stock","14495","6.94%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2017","Elaine A. Jones","Common Stock","13875","6.64%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2017","Sarah W. Jefferson","Common Stock","10731","5.14%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2017","Marian Lamb","Common Stock","12812","6.14%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2017","Carolyn Rabun","Common Stock","17394","8.33%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2017","R. A. Lewis,"Estate"","Common Stock","26420","12.65%","1493672"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSRA Bank Corp","Director","Mark D. Davis","Director","First State Bank","2017","Accountant","1493672"
+"CSRA Bank Corp","Director","Mark D. Davis","Partner","Jones,"Jones","Davis","CPAs","LLC"","2017","Accountant","1493672"
+"CSRA Bank Corp","Director","Mark D. Davis","Owner","Red Raider Realty,"LLC"","2017","Accountant","1493672"
+"CSRA Bank Corp","Director","Mark D. Davis","co-owner","Affordable Properties and Rentals","2017","Accountant","1493672"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Director & Chairman","First State Bank","2017","Pecan production","1493672"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Thames Pecan Co.,"Inc."","2017","Pecan production","1493672"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Atwell Pecan Co","2017","Pecan production","1493672"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Member","Orchards Gourment Nuts","2017","Pecan production","1493672"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Partner","Desirable Investments,"LLP"","2017","Pecan production","1493672"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Director","First State Bank","2017","Pharmacist","1493672"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","BFH Projects,"LLC"","2017","Pharmacist","1493672"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","The Louisville Project LLC","2017","Pharmacist","1493672"
+"CSRA Bank Corp","Director","J. Brian Whitaker","Director","First State Bank","2017","Retail hardware sales","1493672"
+"CSRA Bank Corp","Director","J. Brian Whitaker","President/CEO","Avera Industrial Supply,"Inc."","2017","Retail hardware sales","1493672"
+"CSRA Bank Corp","Director","Mac T. Reeves","Director","First State Bank","2017","Timber sales","1493672"
+"CSRA Bank Corp","Director","Mac T. Reeves","President","Green's Cut Properties,"Inc."","2017","Timber sales","1493672"
+"CSRA Bank Corp","Director","James L. Gay","Director","First State Bank","2017","Farmer","1493672"
+"CSRA Bank Corp","Director","James L. Gay","n/a","J & C Farm Inc.","2017","Farmer","1493672"
+"CSRA Bank Corp","Director","Charlotte L. Gilmore","Director","First State Bank","2017","Retired","1493672"
+"CSRA Bank Corp","Director","Charlotte L. Gilmore","Secretary","Rocky Comfort Forest Products","2017","Retired","1493672"
+"CSRA Bank Corp","Director and President","Eugene Lee Clark","Director and President","First State Bank","2017","n/a","1493672"
+"CSRA Bank Corp","Executive VP/CFO","James H. Standard,"Jr."","Executive VP/CFO","First State Bank","2017","n/a","1493672"
+"CSRA Bank Corp","Senior Vice President Senior Lending Officer","David T. Jopling","SVP/Senior Lender","First State Bank","2017","n/a","1493672"
+"CSRA Bank Corp","Senior Vice President Senior Lending Officer","David T. Jopling","Member/Partner","Jopling Investments LLC","2017","n/a","1493672"
+```

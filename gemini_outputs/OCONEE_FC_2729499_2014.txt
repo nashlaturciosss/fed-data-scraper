@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2014","Susan Wells Brodrick","Common Stock","75770","8.42%","2729489"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2014","Hardigree Properties,"LLLP"","Common Stock","47240","5.25%","2729489"
+"Oconee Financial Corporation","Carrboro,"North Carolina"","2014","Caroline Wells Pence","Common Stock","65710","7.30%","2729489"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2014","Virginia S. Wells","Common Stock","189065","21.01%","2729489"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Member","n/a","2014","Retired","2729489"
+"Oconee Financial Corporation","Director","Jimmy L. Christopher","Retired","n/a","2014","Retired","2729489"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","President","Dickens Farms,"Inc."","2014","Farmer,"real estate developer and construction"","2729489"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","President","Dickens Builders,"Inc."","2014","Farmer,"real estate developer and construction"","2729489"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","Vice President","A.E. Carter Funeral Home,"Inc."","2014","Farmer,"real estate developer and construction"","2729489"
+"Oconee Financial Corporation","Director","J. Albert Hale,"Sr."","Owner","Hale's Dairy","2014","Dairy & Poultry Farmer","2729489"
+"Oconee Financial Corporation","Director & President/CEO","B. Amrey Harden","None","n/a","2014","N/A","2729489"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Maxey Brothers,"Inc."","2014","Site development & grading contractor","2729489"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Fie Fays Unlimited,"Inc."","2014","Site development & grading contractor","2729489"
+"Oconee Financial Corporation","Director,"Sr. Exec. VP","& Corp Secy."","Jerry K. Wages","None","n/a","2014","N/A","2729489"
+"Oconee Financial Corporation","Director & Vice Chairperson","Virginia S. Wells","President & CEO","Wells & Company Realtors,"Inc."","2014","Real estate developer & property management","2729489"
+"Oconee Financial Corporation","Director & Vice Chairperson","Virginia S. Wells","Partner","VSC Properties,"LLLP"","2014","Real estate developer & property management","2729489"
+"Oconee Financial Corporation","Director & Vice Chairperson","Virginia S. Wells","Partner","McRee Properties,"LLLP"","2014","Real estate developer & property management","2729489"
+"Oconee Financial Corporation","Director & Executive VP","Tom F. Wilson","None","n/a","2014","N/A","2729489"
+```

@@ -1,0 +1,33 @@
+Here are the two tables extracted from the provided document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Lake Charles,"LA"","2023","J. Michael Veron","Common Stock","244692","11.66%","n/a"
+"Lakeside Bancshares,"Inc"","Beaumont,"TX"","2023","Thomas M. Flanagan","Common Stock","160000","7.63%","n/a"
+"Lakeside Bancshares,"Inc"","Lake Charles,"LA"","2023","Russell Stutes,"Jr."","Common Stock","174620","8.32%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Director & Chairman","J. Michael Veron","Member/Partner","Veron Bice Palermo & Wilson","2023","Attorney","n/a"
+"Lakeside Bancshares,"Inc"","Director & Vice Chairman","Robert Piper","Administrator","Our Lady Queen of Heaven Church","2023","Retired CEO of US Unwired - Public Company","n/a"
+"Lakeside Bancshares,"Inc"","Director & President/CEO","Roy M. Raftery,"Jr."","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Director","James H. Boyer","Managing Partner","Southland Capital,"LLC"","2023","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James H. Boyer","Managing Partner","West River Landing,"LLC"","2023","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James H. Boyer","Managing Partner","CEH LTD","2023","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","D. Keith Duplechin","President","First Capital Group,"LLC"","2023","Private Investments/Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Vincent Gagliano","Executive Vice President","AMERISAFE Inc.","2023","Insurance Executive Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Willie Mount","n/a","n/a","2023","Retired State Senator","n/a"
+"Lakeside Bancshares,"Inc"","Director","Joseph G. Thomas,"Sr."","Operating Partner","Thomas Family Properties","2023","Retired Military/Manufacturing Resin Systems,"Inc"","n/a"
+"Lakeside Bancshares,"Inc"","Advisory Director","M. Shane Chapman","n/a","n/a","2023","Physician","n/a"
+"Lakeside Bancshares,"Inc"","Director","Russell J. Stutes,"Jr."","Managing Partner","Stutes & Lavergne,"LLC"","2023","Attorney","n/a"
+"Lakeside Bancshares,"Inc"","Director","Kenneth J. Phipps","Owner","Phipps Auto Group,"LLC"","2023","Automobile Dealer","n/a"
+"Lakeside Bancshares,"Inc"","Treasurer","Shively H. Verrette","n/a","LA Financial Services,"LLC"","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Treasurer","Shively H. Verrette","n/a","KP's Reinsurance Company,"LTD"","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Aaron LeBoeuf","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Bobby Broussard","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Michael Hardy","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Misti Young","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Renee Lassiter","n/a","n/a","2023","N/A","n/a"
+"Lakeside Bancshares,"Inc"","N/A","Jonathan Boudreaux","Managing Partner","Lambeaux Farm LLC","2023","N/A","n/a"
+```

@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Vernon,"Alabama"","2018","Anthony J Burnett","Common Stock","13387","42%","n/a"
+"Citizens Southern Bancshares,"Inc."","Vernon,"AL"","2018","Tom J Eskridge***","Common Stock","1757","5%","n/a"
+"Citizens Southern Bancshares,"Inc."","Vernon,"AL"","2018","Edwin Collins***","Common Stock","1934","6%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2018","J. STEVEN ROY***","Common Stock","9505","30%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Director and President/CEO CFO","ANTHONY J. BURNETT","n/a","Citizens Investments,"LLC"","2018","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","WILLIAM E. COLLINS,"SR"","n/a","n/a","2018","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Auto Parts","2018","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Trucking Co.,"Inc."","2018","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Board Secretary","BEVERLY D. FARLEY","n/a","n/a","2018","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","n/a","EDWIN COLLINS","n/a","n/a","2018","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director and Chairman","SunSouth Bancshares,"Inc."","2018","CFO of Private Trucking Company","n/a"
+```

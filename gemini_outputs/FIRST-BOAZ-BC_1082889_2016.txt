@@ -1,0 +1,39 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BOAZ BANCORPORATION","Boaz,"AL"","2016","Gary D. Kilpatrick","n/a","243034","29.07%","1082889"
+"FIRST BOAZ BANCORPORATION","Auburn,"AL"","2016","Horace E. Kilpatrick","n/a","241200","28.85%","1082889"
+"FIRST BOAZ BANCORPORATION","Boaz,"AL"","2016","Gerald D. Martin","n/a","63050","7.54%","1082889"
+"FIRST BOAZ BANCORPORATION","Boaz,"AL"","2016","Joseph Paul Abercrombie","n/a","50500","6.04%","1082889"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","President","Boaz Discount Drugs","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","President","Johnson's Hallmark","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Secretary","Mediage Pharmaceuticals,"Inc."","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Owner","Johnson Real Estate Investments,"LLC"","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Owner","Age,"LLC"","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Limited Partner","Paint Rock,"LLC"","2016","Boaz Discount Drugs","n/a"
+"First Bank of Boaz","Director","Joseph Paul Abercrombie","President","Abbie Auto Parts","2016","South Point Systems","n/a"
+"First Bank of Boaz","Director","Joseph Paul Abercrombie","President","South Point Systems","2016","South Point Systems","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Alexander Dodge","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Alexander Ford","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Alexander Rentals","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","Secretary","Tackle Trap","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","Managing Member","Alexander Family Investment","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Chevrolet of Boaz","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Kelley Auto Auction LLC","2016","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Evan Johnson","President/Owner","Family Medicine of Sardis","2016","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Evan Johnson","Board of Directors","Boaz Discount Drugs","2016","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Evan Johnson","Owner","Johnson Properties","2016","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","Owner","Gary's Signs","2016","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","President","Kilpatrick Chevrolet","2016","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","Co-Owner","M & K Signs","2016","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","President","K Properties LLC","2016","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Horace Kilpatrick","n/a","n/a","2016","Retired","n/a"
+"First Bank of Boaz","Director","Gerald Martin","Partner","M & K Signs","2016","Retired","n/a"
+"First Bank of Boaz","President,"Director","C.E.O."","Ricky Ray","n/a","n/a","2016","First Bank of Boaz","n/a"
+"First Bank of Boaz","Director","Craig Rigsby","n/a","n/a","2016","Boaz Gas Board Manager","n/a"
+```

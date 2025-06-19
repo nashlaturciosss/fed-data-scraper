@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FEB Bancshares,"Inc."","Montgomery,"AL"","2016","Slawson,"Jr. Guice"","common stock","35499","31.91%","n/a"
+"FEB Bancshares,"Inc."","Montgomery,"AL"","2016","Slawson,"Joe Stinson"","common stock","35499","31.91%","n/a"
+"FEB Bancshares,"Inc."","Montgomery,"AL"","2016","Slawson,"William Edgar"","common stock","35499","31.91%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FEB Bancshares,"Inc."","Director","Adams,"Dennis"","n/a","Timberline Homes","2016","President/CEO Timberline Homes 60% owner","n/a"
+"FEB Bancshares,"Inc."","Chairman of the Board","Slawson,"Jr. Guice"","Secretary","Slawson Manufacturing Company,"Inc."","2016","Secretary,"Slawson Manufacturing Company","Inc. 33.333% owner"","n/a"
+"FEB Bancshares,"Inc."","Director","Slawson,"Joe Stinson"","Vice President","Slawson Manufacturing Company,"Inc."","2016","Vice President,"Slawson Manufacturing Company","Inc. 33.333% owner"","n/a"
+"FEB Bancshares,"Inc."","Director","Slawson,"William Edgar"","President","Slawson Manufacturing Company,"Inc."","2016","President,"Slawson Manufacturing Company","Inc. 33.333% owner"","n/a"
+"FEB Bancshares,"Inc."","Director","Bowdoin,"Gary D."","President","Price Bros Transport Co.,"Inc.","Louisville","AL"","2016","President and 100% Owner Price Bros Transport Co.,"Inc.","Louisville","AL"","n/a"
+"FEB Bancshares,"Inc."","Director","Grant,"Jr. Edwin P."","n/a","n/a","2016","Retired","n/a"
+"FEB Bancshares,"Inc."","President and CEO","Faison,"Greg"","n/a","n/a","2016","n/a","n/a"
+"FEB Bancshares,"Inc."","Director","Stokes,"William B."","Attorney","Stokes & Stokes,"P.C."","2016","Attorney: Stokes & Stokes,"P.C. 100% Brewton","AL"","n/a"
+```

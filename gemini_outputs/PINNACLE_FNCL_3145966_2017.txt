@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2017","L Jackson McConnell,"Sr."","n/a","200673","22.09%","3145966"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2017","Alice M. Eberhardt","n/a","195263","21.49%","3145966"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","n/a","2017","Retired","3145966"
+"Pinnacle Financial Corporation","Shareholder","Alice M. Eberhardt","n/a","n/a","2017","Homemaker","3145966"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","None","Pinnacle Bank","2017","CEO","3145966"
+"Pinnacle Financial Corporation","Director","Don Fortson","None","n/a","2017","Retired","3145966"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","President","Coldwell Banker Fort Realty","2017","Real Estate","3145966"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","President","University Family Insurance","2017","Real Estate","3145966"
+"Pinnacle Financial Corporation","Director","Steve Williams","CEO","Tri State Distributors","2017","Retail","3145966"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Partner","The Chestnut Company,"LLP"","2017","Medical Dr.","3145966"
+"Pinnacle Financial Corporation","Director","Robert Hardy","None","n/a","2017","Retired","3145966"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","Darnel Quick Recovery","2017","Collections","3145966"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","Dr. Thomas E. McGarity Dental,"LLC"","2017","Dentist Owner","3145966"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","President/Owner","Joe T. Cunningham Interiors","2017","Retail","3145966"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Managing Member","Integrity Valuation Management,"LLC"","2017","Appraisal Order & Review","3145966"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","President/Agent","Elbert Insurance Associates","2017","Insurance","3145966"
+"Pinnacle Financial Corporation","Director","David K. Voyles","None","n/a","2017","President","3145966"
+"Pinnacle Financial Corporation","Director","Michael Fernandez","Owner/Manager","Design Mart LLC","2017","Monument Design","3145966"
+```

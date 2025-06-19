@@ -1,0 +1,13 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Cumming,"Georgia"","2014","Paul D. Donaldson and family","Common Stock","594383","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Cleveland,"Georgia"","2014","John J. Howard and family","Common Stock","546806","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Alpharetta,"Georgia"","2014","J. Paul Maggard and family","Common Stock","1457181","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Duluth,"Georgia"","2014","Monty G. Watson and family","Common Stock","657420","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Atlanta,"Georgia"","2014","Charles P. Stephens and family","Common Stock","2237682","n/a","3812035"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

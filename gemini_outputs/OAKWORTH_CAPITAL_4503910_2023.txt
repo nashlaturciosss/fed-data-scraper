@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2023","Scott B. Reed","Common Stock","319159","6.43%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2023","Scott B. Reed","Options on Common Stock","89171","1.80%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2023","Robert A. Reed","Common Stock","227400","4.65%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2023","Robert A. Reed","Options on Common Stock","15945","0.33%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oakworth Capital,"Inc."","Chairman,"President","& CEO"","Scott B. Reed","Chairman,"President","& CEO"","Director,"ABC Polymer"","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","CFO","Jenifer G. Kimbrough","CFO","None","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chief Operating Officer","Sam A. Scalici,"Jr"","Director & Chief Operating Officer","None","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chief Performance Officer","Forest W. Whatley,"Jr."","Director & Chief Performance Officer","None","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Investments & Thought Leadership","John B. Norris,"V"","Head of Investments & Thought Leadership","Bd. Of Advisors,"Gabriella White"","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Technology","David M. Driscoll","Head of Technology","None","2023","n/a","n/a"
+"Oakworth Capital,"Inc."","Director","Matthew G. Mead","Director","Trustee,"MainGate MLP Fund"","2023","Principal,"Chickasaw Capital Management","LLC"","n/a"
+"Oakworth Capital,"Inc."","Director","William B. Morton","Director","None","2023","Chairman/CEO,"Robins & Morton"","n/a"
+"Oakworth Capital,"Inc."","Director","Robert A. Reed","Director","Director,"MainGate MLP Fund"","2023","President & CEO,"ABC Polymer Industries","LLC"","n/a"
+"Oakworth Capital,"Inc."","Director","Edward Morris Holt","Director","None","2023","Attorney","n/a"
+"Oakworth Capital,"Inc."","Director","Luther J. Strange,"III"","Director","None","2023","Attorney","n/a"
+"Oakworth Capital,"Inc."","Director","E. Lyle Cain,"Jr.","M.D."","Director","None","2023","Orthopedic Surgeon","n/a"
+"Oakworth Capital,"Inc."","Director","Samford T. Myers,"Sr."","Director","Member,"Gnosis LLC"","2023","Managing Director,"ASF Logistics & ASF Global"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Director,"Bimal Properties"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Director,"Bhusra Consulting"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Director,"Elsye"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Director,"Alabama Capital Network"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Managing Member,"BAUFF LLC"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Managing Member,"St. Noil LLC"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Trustee,"2019 Dora E. Singh Irrevocable Trust"","2023","Advisor & Director,"CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Rebekah Elgin-Council","Director","None","2023","Sr. Vice President & Chief Marketing Officer,"Blue Cross"","n/a"
+```

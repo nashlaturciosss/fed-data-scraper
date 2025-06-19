@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2014","Educational Services of America,"Inc."","n/a","n/a","100%","3808131"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthEast Bancorp,"Inc."","CEO/President","John E. Arnold,"Jr"","Director/Chairman","SouthEast Bancorp,"Inc."","2014","n/a","3808131"
+"SouthEast Bancorp,"Inc."","Chairman","Bill Thompson","Director/Secretary/Vice President","SouthEast Bancorp,"Inc."","2014","CFO/EVP","3808131"
+"SouthEast Bancorp,"Inc."","CFO/EVP","Tommy Schumpert","Director","SouthEast Bancorp,"Inc."","2014","Director","3808131"
+"SouthEast Bancorp,"Inc."","n/a","Dwight Kessel","Director of South East Scholar Program","n/a","2014","Director of South East Scholar Program","3808131"
+"SouthEast Bancorp,"Inc."","n/a","Leo Cooper","n/a","n/a","2014","Retired","3808131"
+"SouthEast Bancorp,"Inc."","n/a","John Griess","n/a","Holrob Commercial Realtors,"Inc."","2014","Realtor","3808131"
+"SouthEast Bancorp,"Inc."","n/a","Robert Rosenaum","n/a","Goodwill Industries","2014","President/CEO Emeritus","3808131"
+"SouthEast Bancorp,"Inc."","Chief Operations Officer","Eric Stewart","n/a","n/a","2014","n/a","3808131"
+"SouthEast Bancorp,"Inc."","Chief Information Officer","Jeff Gibbs","n/a","SouthEast Bank","2014","n/a","3808131"
+"SouthEast Bancorp,"Inc."","Chief Compliance Officer/Chief Risk Manager","Greg Sawyers","n/a","SouthEast Bank","2014","n/a","3808131"
+```

@@ -1,0 +1,36 @@
+Here are the two CSV tables as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2023","William Heavener,"Individually"","Common Stock","8832995","1.43%","n/a"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2023","FCG Investors,"LLLP","William Heavener","General Partner"","Common Stock","323870468","52.48%","n/a"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL"","2023","James T Katsur","Common Stock","74727065","12.11%","n/a"
+"Florida Capital Group,"Inc."","Tampa,"FL"","2023","W. Andrew Krusen,"Jr."","Common Stock","44039411","7.14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Group,"Inc."","Director","Charles E. Hughes,"Jr."","n/a","N/A","2023","Retired Banking Executive","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","President","Spartan Development Grp Inc.","2023","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Managing Member","RCR Acquisitions LLC","2023","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","Dominion Financial Group,"Inc."","2023","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","Black Diamond Exploration,"Inc."","2023","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","KTI Energy Corp","2023","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Partner","Krusen Management,"Inc."","2023","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Chairman of the Board","W. Andrew Krusen,"Jr."","Managing Member","Krusen Brothers Interests","2023","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","P. Bruce Culpepper","Managing Member","Culpepper Kurland,"PLLC"","2023","Attorney","n/a"
+"Florida Capital Group,"Inc."","Director","James W. Heavener","President/Owner","The Heavener Company","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Officer & Director","Katsur Management Group,"Inc."","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Officer & Director","Dr. James T. Katsur & Associates,"P.C."","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Member","Advanced Dental Materials,"LLC"","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Partner","Landings Executive Center,"LTD"","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Officer & Director","Landings Executive Center,"Inc."","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Officer & Director","Katsur Dental of Arizona,"Inc."","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Member","The Registry at Western Kentucky,"LLC"","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Member","Thornton Commons,"LLC"","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Officer & Director","Katsur Mortgage Holdings,"Inc."","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","Partner","Shadow Bay Family Limited Partnership","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Director and President and CEO","Mark Johnson","n/a","N/A","2023","n/a","n/a"
+"Florida Capital Group,"Inc."","Director","Alexander M. Crenshaw","n/a","N/A","2023","Investor","n/a"
+"Florida Capital Group,"Inc."","Secretary and CFO","T. Keith Perry","Director","Trivergent Trust Company,"LLC"","2023","n/a","n/a"
+```

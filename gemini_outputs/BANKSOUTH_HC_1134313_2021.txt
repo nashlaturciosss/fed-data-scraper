@@ -1,17 +1,28 @@
-Here are the extracted CSV tables from the document:
+Here are the two CSV tables extracted from the document as requested:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BankSouth Holding Company","Greensboro","2021","Marguerite McInteer","n/a","2762","16.47%"
-"BankSouth Holding Company","Greensboro","2021","Harold Reynolds","n/a","5128","30.58%"
-"BankSouth Holding Company","Greensboro","2021","James Reynolds IV","n/a","2669","15.92%"
-"BankSouth Holding Company","Greensboro","2021","Frances Strickland","n/a","2978","17.76%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BankSouth Holding Company","Greensboro,"GA"","2021","Marguerite McInteer","n/a","2762","16.47%","n/a"
+"BankSouth Holding Company","Greensboro,"GA"","2021","Harold Reynolds","n/a","5128","30.58%","n/a"
+"BankSouth Holding Company","Greensboro,"GA"","2021","James Reynolds IV","n/a","2669","15.92%","n/a"
+"BankSouth Holding Company","Greensboro,"GA"","2021","Frances Strickland","n/a","2978","17.76%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BankSouth Holding Company","Chairman","Marguerite Mcinteer","Jackson Quarter - Partner","BankSouth-Board","2021"
-"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Reynolds Development Company-President","44 Holdings-Chairman","2021"
-"BankSouth Holding Company","n/a","James Reynolds IV","Managing Partner-Avenir Growth Mgt.,"LLC"","n/a","2021"
-"BankSouth Holding Company","Director & Secretary","Frances Strickland","Jackson Quarter - Partner","BankSouth-Board","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BankSouth Holding Company","Chairman","Marguerite McInteer","Partner","Jackson Quarter","2021","n/a","n/a"
+"BankSouth Holding Company","Chairman","Marguerite McInteer","Partner","Ward Place","2021","n/a","n/a"
+"BankSouth Holding Company","Chairman","Marguerite McInteer","Partner","Timber Ridge","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","President","Reynolds Development Company","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Director","Timber Ridge Properties,"Inc."","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Managing Member","Ward Place Partners,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Managing Member","Linger Longer Road Investors,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Member","Vintage Land,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Managing Member","Soldiers Crossing,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Managing Member","Atkinson Development","2021","n/a","n/a"
+"BankSouth Holding Company","Director/ President & CEO","Harold Reynolds","Managing Member","ReMur Properties,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","n/a","James Reynolds IV","Managing Partner","Avenir Growth Mgt.,"LLC"","2021","n/a","n/a"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Jackson Quarter","2021","n/a","n/a"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Ward Place","2021","n/a","n/a"
+"BankSouth Holding Company","Director & Secretary","Frances Strickland","Partner","Timber Ridge","2021","n/a","n/a"
 ```

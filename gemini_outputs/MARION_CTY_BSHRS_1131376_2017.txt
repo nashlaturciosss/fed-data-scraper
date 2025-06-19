@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2017","B.W. Rollins Children's Trust","Common Stock","36019","39.71%","330239"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2017","Rebecca R. Creel","Common Stock","11939","13.15%","330239"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2017","Rebecca R. Creel","Common Stock","50",".06%","330239"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2017","Patricia R. Duke","Common Stock","12040","13.28%","330239"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2017","Patricia R. Duke","Common Stock","55",".06%","330239"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2017","Jennifer R. Thompson","Common Stock","12040","13.28%","330239"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2017","Judith F. Wilson","Common Stock","5776","6.37%","330239"
+"Marion County Bancshares,"Inc."","Ellenton,"FL"","2017","John R. and Mary Lee Rollins","Common Stock","7572","8.34%","330239"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marlon County Bancshares,"Inc."","Director Chairman of the Board","B.W. Rollins","n/a","Rollins Farm,"LLC"","2017","Farmer","330239"
+"Marlon County Bancshares,"Inc."","Director CEO & COO","Patricia R. Duke","n/a","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Director President","Brent Thompson","n/a","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","n/a","Jennifer R. Thompson","Teacher","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Director","Rebecca R. Creel","Dietician","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","CFO","Scott D. Canterbury","n/a","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Director","Dwayne R. Lewis","Manufacturing","River Birch Homes","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Director","Robert F. Page","Mayor","City of Hamilton,"AL"","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Sr. VP Chlef Loan Officer","Dale McCreless","n/a","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Sr. VP Loan Officer","Jill Cox","n/a","n/a","2017","n/a","330239"
+"Marlon County Bancshares,"Inc."","Cashier","Shella Peoples","n/a","n/a","2017","n/a","330239"
+```

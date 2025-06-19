@@ -1,16 +1,18 @@
-Here are the two tables extracted from the document in valid CSV format:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CCB Bancshares,"Inc."","Chairman of the Board","Starling H. Waldron","Chairman,"Executive Officer","CFO of Citizens Community Bank"","Lone Oak LLLP general partner 33.133%","2023"
-"CCB Bancshares,"Inc."","President","Glenn L. Copeland","Director,"Executive Officer","CEO/President of Citizens Community Bank"","n/a","2023"
-"CCB Bancshares,"Inc."","n/a","David K Hollis Hollis","n/a","n/a","2023"
-"CCB Bancshares,"Inc."","n/a","JR FBO Miller Waldron","n/a","Lone Oak LLLP limited partner less than 1%","2023"
-"CCB Bancshares,"Inc."","n/a","S Hollis TR Mason","Director,"Secretary"","n/a","2023"
-"CCB Bancshares,"Inc."","n/a","David K. Hollis,"III"","Director,"VP of Citizens Community Bank"","Lone Oak LLLP general partner 33.133%","2023"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CCB Bancshares,"Inc."","Chairman","Starling H. Waldron","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","Director,"President"","Glenn L. Copeland","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","Director,"Secretary"","U.W. Hahira","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","n/a","David K Hollis Hollis JR FBO Miller Waldron S Hollis TR","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","n/a","David K Hollis Hollis JR FBO Miller Waldron S Hollis TR","n/a","Lone Oak LLLP","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","n/a","Mason Hollis,"III"","n/a","n/a","2023","Retired","n/a"
+"CCB Bancshares,"Inc."","n/a","Mason Hollis,"III"","n/a","Lone Oak LLLP","2023","Retired","n/a"
+"CCB Bancshares,"Inc."","Chairman,"Executive Officer","CFO of Citizens Community Bank"","Starling H. Waldron","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","Director,"Executive Officer","CEO/President of Citizens Community Bank"","Glenn L. Copeland","n/a","n/a","2023","n/a","n/a"
+"CCB Bancshares,"Inc."","Director,"VP of Citizens Community Bank"","U.W. Hahira","n/a","n/a","2023","n/a","n/a"
 ```

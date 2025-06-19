@@ -1,0 +1,13 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings,"Inc."","Surfside,"FL"","2022","Michael Blisko","common stock","598388","8.48%","n/a"
+"OptimumBank Holdings,"Inc."","Boca Raton,"FL."","2022","Moishe Gubin","common stock","623336","8.83%","n/a"
+"OptimumBank Holdings,"Inc."","Singapore,"Singapore"","2022","Chan Heng Fai Ambrose","common stock","598000","8.47%","n/a"
+"OptimumBank Holdings,"Inc."","Wilmington,"DE"","2022","GKCC,"LLC"","common stock","335000","4.75%","n/a"
+"OptimumBank Holdings,"Inc."","CHICAGO IL","2022","DAVID GROSS","common stock","225000","3.47%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

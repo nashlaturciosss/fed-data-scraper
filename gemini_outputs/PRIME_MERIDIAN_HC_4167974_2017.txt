@@ -1,0 +1,35 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Prime Meridian Holding Company","Tallahassee,"Florida"","2017","n/a","n/a","n/a","n/a","4167974"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Prime Meridian Holding Company","Director","William D. Crona","Director","ProActive,"Inc"","2017","Certified Public Accountant","4167974"
+"Prime Meridian Holding Company","Director","William D. Crona","Director","C&B Investments,"LLC"","2017","Certified Public Accountant","4167974"
+"Prime Meridian Holding Company","CEO/President,"Director"","Sammie D. Dixon,"Jr."","n/a","n/a","2017","n/a","4167974"
+"Prime Meridian Holding Company","Director","Steven L. Evans","Retired","n/a","2017","Retired Business Executive (IBM)","4167974"
+"Prime Meridian Holding Company","CFO,"Director"","R. Randy Guemple","Retired","n/a","2017","n/a","4167974"
+"Prime Meridian Holding Company","Sr. Lender,"Director"","Chris L. Jensen,"Jr."","n/a","n/a","2017","n/a","4167974"
+"Prime Meridian Holding Company","Director","Kathleen C. Jones","Retired","n/a","2017","n/a","4167974"
+"Prime Meridian Holding Company","Director","Robert H. Kirby","Partner","Rehab Technologies,"LLC"","2017","Rehab Technologies,"LLC"","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","NAI TALCOR","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Frank Langston,"P.A."","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Call Street,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Holdings,"Inc."","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Tennessee Square,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Betton Place,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Properties,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Eastside Commerce Center,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Edgewood Villas,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Urban Housing,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","Talcor Residential,"LLC"","2017","TALCOR","4167974"
+"Prime Meridian Holding Company","Director","Todd A. Patterson,"D.O."","Owner","Magnolia Pediatric Group,"LLC"","2017","Physician","4167974"
+"Prime Meridian Holding Company","Partner & Chief Operating Officer","L. Collins Proctor,"Sr."","n/a","kW Control-Holdings,"LLC"","2017","n/a","4167974"
+"Prime Meridian Holding Company","Director","Garrison A. Rolle,"M.D."","Surgeon","Tallahassee Orthopedic Clinic","2017","Tallahassee Orthopedic Clinic","4167974"
+"Prime Meridian Holding Company","Director","Steven D. Smith","Owner","Krispy Kreme Franchises","2017","Krispy Kreme Franchises","4167974"
+"Prime Meridian Holding Company","Director","Marjorie R. Turnbull","Self-employed","n/a","2017","Educational Consultant","4167974"
+"Prime Meridian Holding Company","Director,"Chairman"","Richard A. Weidner","Executive Committee","Carr,"Riggs & Ingram","LLC"","2017","Certified Public Accountant","4167974"
+```

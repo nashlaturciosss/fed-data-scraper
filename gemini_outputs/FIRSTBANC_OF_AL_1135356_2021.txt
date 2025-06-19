@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2021","William Larkin Coker","Common Capital","40000","5.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Chairman / Director","William Larkin Coker","Chairman","Alabama Bag Co.","2021","Industrialist","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","President","Brown Lumber and Building Supply","2021","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","n/a","Brown Lands,"LLC"","2021","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Julian M. King","n/a","Tri B Associates,"LLC"","2021","Circuit Judge Retired","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Tommy Spears","n/a","n/a","2021","Pharmacist - Retired","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","Barber Properties","2021","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Jonathan Chad Jones","Director,"CEO and President"","n/a","2021","Bank Officer","n/a"
+"FirstBanc of Alabama,"Inc."","CFO","Chad Miller Thomas","CFO and Executive Vice President","n/a","2021","Bank Officer","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Oxford Lumber Company Inc.","2021","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles P. Gaines","President","Gaines & Gaines Law Firm","2021","Attorney at Law","n/a"
+```

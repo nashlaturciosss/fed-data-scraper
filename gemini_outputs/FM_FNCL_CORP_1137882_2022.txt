@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2022","Betty L. Rankin","Shares of Common Stock","24140","14.72%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2022","Franklin W. Latta","Shares of Common Stock","24040","14.66%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2022","Mary L. Woods","Shares of Common Stock","20730","12.64%","n/a"
+"F & M FINANCIAL CORP","Lookout Mountian,"TN"","2022","Norwood E. Green","Shares of Common Stock","22500","13.72%","n/a"
+"F & M FINANCIAL CORP","Centre,"AL"","2022","Margaret L. or Mallory Whorton","Shares of Common Stock","21140","12.89%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2022","Jim D. Smallwood","Shares of Common Stock","13200","8.05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M FINANCIAL CORP","President","Frankiln W. Latta","n/a","n/a","2022","N/A","n/a"
+"F & M FINANCIAL CORP","President","Christopher F. Latta","VP / Director","n/a","2022","N/A","n/a"
+"F & M FINANCIAL CORP","Director","Larry Deason","n/a","n/a","2022","N/A","n/a"
+"F & M FINANCIAL CORP","Secretary","Betty L. Rankin","VP of Human Resources","n/a","2022","N/A","n/a"
+"F & M FINANCIAL CORP","Director","Thomas Brimer","Corporate Executive","Pokey Brimer Auto Sales","2022","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Trudy Lowe","Corporate Executive","Preferred Health Services,"Inc."","2022","n/a","n/a"
+"F & M FINANCIAL CORP","Director","John Bekkers","Corporate Executive","n/a","2022","n/a","n/a"
+"F & M FINANCIAL CORP","Director","David Neisler","Corporate Executive","Deck Foods","2022","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Corporate Executive","NLM Marketing,"LLC"","2022","n/a","n/a"
+"F & M FINANCIAL CORP","n/a","Mary Latta Woods","Teller","n/a","2022","n/a","n/a"
+"F & M FINANCIAL CORP","n/a","Norwood Green","Retired","n/a","2022","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Corporate Executive","LGK Sales & Marketing Inc.","2022","n/a","n/a"
+```

@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2016","William Heavener","Common Stock","332565419","53.90%","n/a"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL"","2016","James TKatsur","Common Stock","74727065","12.11%","n/a"
+"Florida Capital Group,"Inc."","Tampa,"FL"","2016","W. Andrew Krusen,"Jr."","Common Stock","43839903","7.11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Group,"Inc."","Director","Charles E Hughes,"Jr."","n/a","n/a","2016","Retired Banking Executive","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","President","Spartan Development Grp Inc.","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Managing Member","Spartan Development Grp Inc.","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Member","Spartan Development Grp Inc.","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","President","Dos Four LLC","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Managing Member","Dos Four LLC","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R. Dostie","Member","Dos Four LLC","2016","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J Malcolm Jones,"Jr."","President & Owner","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J Malcolm Jones,"Jr."","Partner","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J Malcolm Jones,"Jr."","Partner","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen,"Jr."","Officer & Director","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen,"Jr."","Partner","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen,"Jr."","Managing Member","n/a","2016","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","P. Bruce Culpepper","n/a","Culpepper Kurland,"PLLC"","2016","Attorney","n/a"
+"Florida Capital Group,"Inc."","Director","M.G. Sanchez","n/a","n/a","2016","Retired Banking Executive/Consultant","n/a"
+"Florida Capital Group,"Inc."","Director","James W. Heavener","President/Owner","The Heavener Company","2016","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Linda McGum","Officer & Director","n/a","2016","Attorney / CPA","n/a"
+"Florida Capital Group,"Inc."","Director","Linda McGum","Partner","n/a","2016","Attorney / CPA","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","Managing Member","n/a","2016","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","General Partner","n/a","2016","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","Owner","n/a","2016","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr James T. Katsur","n/a","Katsur Management Group,"Inc."","2016","n/a","n/a"
+"Florida Capital Group,"Inc."","Director & EVP Corporate Strategy","Stephen Kunk","n/a","n/a","2016","n/a","n/a"
+"Florida Capital Group,"Inc."","Director & President","Mark Johnson","n/a","n/a","2016","n/a","n/a"
+```

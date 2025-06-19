@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Floridian Community Holdings,"Inc."","Palm Beach Gardens,"FL"","2014","Harvey Sorkin","Common Stock","190905.00","9.05%","3203884"
+"Floridian Community Holdings,"Inc."","Miami,"Florida"","2014","Martin & Ellen Osmand","Common Stock","130911.00","5.60%","3203884"
+"Floridian Community Holdings,"Inc."","Parkland,"Florida"","2014","Jeffrey Leggett","Common Stock","119359.74","5.37%","3203884"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Floridian Community Holdings,"Inc."","Director","David Zinn","n/a","n/a","2014","Retired Automobile Dealership Owner","3203884"
+"Floridian Community Holdings,"Inc."","Director","Harvey Sorkin","n/a","n/a","2014","Investor","3203884"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","Floridian Community Bank","2014","Automobile Dealership","3203884"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","Floridian Custody Services","2014","Automobile Dealership","3203884"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","See Schedule","2014","Automobile Dealership","3203884"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","Floridian Community Bank","2014","Pharmaceutical Sales","3203884"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","Floridian Custody Services","2014","Pharmaceutical Sales","3203884"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","See Schedule","2014","Pharmaceutical Sales","3203884"
+"Floridian Community Holdings,"Inc."","Director,"CEO."","Joseph Marzouca","n/a","Floridian Community Bank","2014","CEO of Holding Co and Bank","3203884"
+"Floridian Community Holdings,"Inc."","Director,"CEO."","Joseph Marzouca","n/a","Floridian Custody Services","2014","CEO of Holding Co and Bank","3203884"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Floridian Custody Services","2014","Construction Contractor","3203884"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Colonnade Construction","2014","Construction Contractor","3203884"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Mell Flo LLC","2014","Construction Contractor","3203884"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","Floridian Community Bank","2014","President Floridian Community Bank","3203884"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","Floridian Custody Services","2014","President Floridian Community Bank","3203884"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","Floridian Community Holdings","2014","President Floridian Community Bank","3203884"
+```

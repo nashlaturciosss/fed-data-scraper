@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FLORIDA FIRST CITY BANKS,"INC."","Fairhope,"Al"","2016","Norma S. Johansen","common stock","21450","5.11%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fairhope,"Al"","2016","Oscar F. Johansen","common stock","21450","5.11%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John C. McGee","common stock","169650","40.45%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John Christopher McGee Trust Under John McGee Family Trust","common stock","6250","1.49%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John C. McGee Trustee for John Christopher McGee Under Irrevocable Grandchildren's Trust","common stock","14670","3.50%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","Matthew Nelson McGee Trust Under John McGee Family Trust","common stock","6250","1.49%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John C. McGee Trustee for Matthew Nelson McGee Under Irrevocable Grandchildren's Trust","common stock","22830","5.44%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","Pamela Michelle McGee Trust Under John McGee Family Trust","common stock","6250","1.49%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John C. McGee Trustee for Pamela Michelle McGee Under Irrevocable Grandchildren's Trust","common stock","14480","3.45%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","Kathrine C. McGee Irrevocable Trust Agreement dated March 8,"1990"","common stock","33850","8.07%","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Fort Walton Beach,"FL"","2016","John C. McGee Trustee of the McGee Family Irrevocable Trust","common stock","14490","3.45%","1246382"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FLORIDA FIRST CITY BANKS,"INC."","Chairman,"CEO Director"","John C. McGee","Treasurer","Northgate Dev. Co.,"Inc."","2016","Chairman,"CEO First City Bank of Florida"","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","President Director","Robert E. Bennett,"Jr."","n/a","n/a","2016","President,"COO First City Bank of Florida"","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Director","James T. Abernethy","n/a","n/a","2016","Retired","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Director","Frederick L. Pryor","n/a","n/a","2016","General Manager (Retired) Okaloosa Gas District Ft Walton Bch,"FL"","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Director","Larry E. Reeder","Partner","Nicholson,"Reeder & Demski PA","CPAS"","2016","Partner Nicholson,"Reeder & Demski PA","CPAS"","1246382"
+"FLORIDA FIRST CITY BANKS,"INC."","Executive Vice Pres/CFO","Greg Aldridge","n/a","n/a","2016","Executive Vice Pres/CFO First City Bank of Florida","1246382"
+```

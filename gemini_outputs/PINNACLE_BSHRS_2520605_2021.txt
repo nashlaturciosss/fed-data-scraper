@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bank","Russellville,"Al"","2021","Greg Batchelor","n/a","60154","6.20%","n/a"
+"Pinnacle Bank","Russellville,"Al"","2021","John John II LLC","n/a","70032","7.21%","n/a"
+"Pinnacle Bank","New York,"New York"","2021","Tontine Financial Partners,"L.P."","n/a","93325","9.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank","Director","Greg Batchelor","President","Dependable True Value","2021","Businessman","n/a"
+"Pinnacle Bank","Director","O H Brown","Managing Partner","John John II LLC","2021","Retired","n/a"
+"Pinnacle Bank","Director","Sam Walker Murphy","CEO","W&M Enterprises,"LTD"","2021","Businessman","n/a"
+"Pinnacle Bank","President & Director","Robert B Nolen Jr.","n/a","n/a","2021","Banker","n/a"
+"Pinnacle Bank","Director","William H. Humphries","President","Bankhead Land & Timber","2021","Businessman","n/a"
+"Pinnacle Bank","Director","AL H Simmons","Independent Insurance Agent","n/a","2021","Businessman","n/a"
+"Pinnacle Bank","Director","David Kilgore","Appraiser Real Estate Agent","Kilgore Realtors","2021","Businessman","n/a"
+"Pinnacle Bank","Director","Edward Jackson","Partner","Jackson,"Fikes","& Brakefield"","2021","Attorney","n/a"
+"Pinnacle Bank","Director","Robbin Reed Allen","Corporate Paralegal","Reed Energy LLC","2021","Businesswoman","n/a"
+"Pinnacle Bank","Vice President/ Secretary","Bert Hendrix","n/a","n/a","2021","Banker","n/a"
+"Pinnacle Bank","Treasurer","Joe B. Adams,"III"","n/a","n/a","2021","Banker","n/a"
+```

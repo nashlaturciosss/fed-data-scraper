@@ -1,0 +1,24 @@
+"Here are the two tables in CSV format","as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Lafayette,"LA"","2016","Paul Patout,"Patrick Patout","and Raymond Patout","Trustee"","n/a","16782","24.63%","n/a"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2016","Lorraine LeBlanc","n/a","3600","5.44%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Director","Richard Dubois","Vice Chairman & Director","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director & Secretary","Lorraine LeBlanc","Secretary & Director","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director & Secretary","Lorraine LeBlanc","President","GCB Financila Services Inc","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","President","Paul Patout","President,"CEO & Director"","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director & Chairman","Patrick Patout","Director","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director & Chief Finance Officer","Jason Patout","Vice President & Director","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Emmet Putnam III","Director","Gulf Coast Bank","2016","n/a","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Coast Bank","2016","Attorney","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Ottinger Hebert,"LLC"","2016","Attorney","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Magellan Construction LLC","2016","Attorney","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Magellan Development LLC","2016","Attorney","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Gulf Pinhook Associates LLC","2016","Attorney","459130"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Director","Jimmy Johns LLC Lafayette","2016","Attorney","459130"
+```

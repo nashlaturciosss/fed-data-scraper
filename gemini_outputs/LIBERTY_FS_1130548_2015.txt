@@ -1,0 +1,25 @@
+"Okay","I'll extract the data from the FR Y-6 form according to your instructions. Here are the two CSV tables in plain text format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Bank & Trust","New Orleans,"LA"","2015","Liberty Bank & Trust ESOP","Common Stock","32987","18.78%","283438"
+"Liberty Bank & Trust","New Orleans,"LA"","2015","Francis Family Investments,"LLC"","Common Stock","24169","13.76%","283438"
+"Liberty Bank & Trust","New Orleans,"LA"","2015","Norman C. Francis","Common Stock","24169","13.76%","283438"
+"Liberty Bank & Trust","New Orleans,"LA"","2015","Alden McDonald,"Jr."","Common Stock","22056","12.55%","283438"
+"Liberty Bank & Trust","Los Angeles,"CA"","2015","Carolyn C. Dorion","Common Stock","15664","8.92%","283438"
+"Liberty Bank & Trust","Los Angeles,"CA"","2015","Dorion Family Trust","Common Stock","15664","8.92%","283438"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank & Trust","n/a","Liberty Bank & Trust ESOP","n/a","n/a","2015","Employee Benefit Plan","n/a"
+"Liberty Bank & Trust","President/CEO Director","Alden J. McDonald,"Jr."","President/CEO Director","Chart L.L.C.","2015","President of Banking Institution","n/a"
+"Liberty Bank & Trust","Director & Chairman","Norman C. Francis","Chairman","Xavier University","2015","University Administrator","n/a"
+"Liberty Bank & Trust","Director","Carolyn C. Dorion","Director","n/a","2015","Property Manager","n/a"
+"Liberty Bank & Trust","Director","George Dimitri","Director","Dimitri Eye Clinic","2015","Ophthalmologist","n/a"
+"Liberty Bank & Trust","Director","Sybil H. Morial","Director","n/a","2015","Retired University Administrator","n/a"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","President/CEO","Burns Management Group","2015","Owner,"Courier Company"","n/a"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","President/CEO","Quick Courier Services","2015","Owner,"Courier Company"","n/a"
+"Liberty Bank & Trust","Director","Cecil Blache","Director","n/a","2015","Attorney","n/a"
+"Liberty Bank & Trust","Director","James Smith","Director","n/a","2015","Retired/Consultant","n/a"
+```

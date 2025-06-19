@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2016","William Earls","Common Stock","114969","6.31%","1086122"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2016","Dorothy D. & James L. Wilkinson","Common Stock","107879","5.92%","1086122"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2016","Joe and Johnnie Freedle","Common Stock","160000","8.78%","1086122"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Director","Joseph B. (Jack) Freedle","Partner","Hughes,"Elliott & Freedle","Attorneys"","2016","Attorney","1086122"
+"First Farmers Bancshares,"Inc."","Chairman,"Director"","John C. Wilkinson","Sole Proprietorship","Northside Mini Storage","2016","Realtor - Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Chairman,"Director"","John C. Wilkinson","Sole Proprietorship","Portland Mini Storage","2016","Realtor - Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Donald L. Eden","Chief Manager","Spring Creek Ventures,"LP"","2016","Manager,"Spring Creek Ventures"","1086122"
+"First Farmers Bancshares,"Inc."","Director","Daniel H. Green","Owner","Thomas Drugs","2016","Pharmacist","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Owner","Tennessee Realty Partners,"LLC"","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Owner","Quail Ridge Center,"LLC"","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Stockholder","AAA Inc.","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Owner","AAA Leasing,"LLC"","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Owner","Greystone Enterprise,"LLC"","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","Owner","Life Gym","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","Herbert S. Lord","n/a","Colorado Grill","2016","Self Employed- Tennessee Realty Partners","1086122"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Owner","Donoho Nursery","2016","Nurseryman - Owner","1086122"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Partner","Donoho Rentals","2016","Nurseryman - Owner","1086122"
+"First Farmers Bancshares,"Inc."","Director","Jerry L. Taylor","Partner","W/T Partnership","2016","Retired from The Farmers Bank","1086122"
+"First Farmers Bancshares,"Inc."","Director","Jerry L. Taylor","Partner","J & W Partnership","2016","Retired from The Farmers Bank","1086122"
+"First Farmers Bancshares,"Inc."","Director","Randall M. Collins","n/a","None","2016","Veterinarian","1086122"
+"First Farmers Bancshares,"Inc."","President,"CEO","Director"","Tommy G. Whittaker","n/a","None","2016","n/a","1086122"
+"First Farmers Bancshares,"Inc."","Secretary to the Board/ Treasurer","Mickie E. Hodge","n/a","None","2016","n/a","1086122"
+"First Farmers Bancshares,"Inc."","Vice President","William A. Nash","n/a","None","2016","EVP/Loan Administration","1086122"
+```

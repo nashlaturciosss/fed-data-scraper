@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Florida Bancorp,"Inc."","Hot Springs,"AR"","2018","James M. Arthur","Common Stock","833333","13.03%","4521624"
+"First Florida Bancorp,"Inc."","Miramar Beach,"FL"","2018","Frank B. Burge","Common Stock","845834","13.22%","4521624"
+"First Florida Bancorp,"Inc."","Miramar Beach,"FL"","2018","Harroll D. Castle","Common Stock","606500","9.48%","4521624"
+"First Florida Bancorp,"Inc."","Santa Rosa Beach,"FL"","2018","Kevin Logan","Common Stock","353333","5.52%","4521624"
+"First Florida Bancorp,"Inc."","Fort Walton Beach,"FL"","2018","Joe LaDon Dewrell","Common Stock","1183575","18.51%","4521624"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Florida Bancorp,"Inc."","Chairman and Director","Frank B. Burge","Member","Andrews/Blaine,"LTD"","2018","n/a","4521624"
+"First Florida Bancorp,"Inc."","Chairman and Director","Frank B. Burge","Member","BHCRE I & II,"LLCS"","2018","n/a","4521624"
+"First Florida Bancorp,"Inc."","Director","Dewey C. Wilson,"Jr."","Chairman","Regional Utilities","2018","Management Regional Utilities","4521624"
+"First Florida Bancorp,"Inc."","Director","Kevin Logan","Owner","Sportsman Liquor","2018","Real Estate Investor","4521624"
+"First Florida Bancorp,"Inc."","Director","Harroll D. Castle","President","Accent Corporation","2018","Real Estate Investor","4521624"
+"First Florida Bancorp,"Inc."","Director","James M. Arthur","Doctor","Hot Springs Neurosurgery","2018","Neuro-Surgeon","4521624"
+"First Florida Bancorp,"Inc."","Director","S. Brett Wilson","n/a","n/a","2018","n/a","4521624"
+"First Florida Bancorp,"Inc."","Exec. Vice President & CFO","D. Ross Scott","n/a","n/a","2018","n/a","4521624"
+"First Florida Bancorp,"Inc."","Director","Joe LaDon Dewrell","Attorney","Dewrell & Herndon,"PA"","2018","Attorney","4521624"
+"First Florida Bancorp,"Inc."","Director","Jeanie Dailey-Coletta","Owner - Manager","Newman-Dailey Resorts","2018","Management Newman-Dailey","4521624"
+```

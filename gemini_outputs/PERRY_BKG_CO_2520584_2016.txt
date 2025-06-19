@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Perry Banking Company,"Inc."","Newberry,"FL"","2016","Paul W. Dickert","n/a","13585","30.345%","2520584"
+"Perry Banking Company,"Inc."","Sarasota,"FL"","2016","Mark R. Dickert","n/a","17000","37.975%","2520584"
+"Perry Banking Company,"Inc."","Perry,"FL"","2016","John W. Cruce","n/a","6620","14.788%","2520584"
+"Perry Banking Company,"Inc."","Gainesville,"FL"","2016","Michael D. Massey","n/a","5620","12.555%","2520584"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Perry Banking Company,"Inc."","Chairman/Director","Mark Dickert","Chairman/Director","Citizens State Bank","2016","Wilson/Ross","2520584"
+"Perry Banking Company,"Inc."","Chairman/Director","Mark Dickert","VP/Director","Wilson/Ross","2016","Wilson/Ross","2520584"
+"Perry Banking Company,"Inc."","VP/Secretary/Director","Paul Dickert","President/Director","Wilson/Ross","2016","Citizens State Bank","2520584"
+"Perry Banking Company,"Inc."","VP/Secretary/Director","Paul Dickert","President/Director","Probuilt,"Inc."","2016","Citizens State Bank","2520584"
+"Perry Banking Company,"Inc."","Director","John W. Cruce","Owner","John A. Cruce,"Inc."","2016","Logging","2520584"
+"Perry Banking Company,"Inc."","Director","John W. Cruce","Director","Citizens State Bank","2016","Logging","2520584"
+```

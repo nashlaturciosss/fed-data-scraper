@@ -1,16 +1,18 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bank of Erath Holding Company","Alpine","2015","Charles B. Caldwell II,"Trustee"","n/a","n/a","n/a"
-"Bank of Erath Holding Company","Thibodaux","2015","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a"
-"Bank of Erath Holding Company","Abbeville","2015","Paul G. Moresi,"Jr. & Southwest Securities"","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BANK OF ERATH HOLDING COMPANY","Alpine,"CA"","2015","Charles B. Caldwell II,"Trustee Of the Caldwell 2008 Revocable Trust U.D.T dated June 27","2008 And any amendment thereto"","n/a","n/a","n/a","4125152"
+"BANK OF ERATH HOLDING COMPANY","Thibodaux,"LA"","2015","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a","4125152"
+"BANK OF ERATH HOLDING COMPANY","Abbeville,"LA"","2015","Paul G. Moresi,"Jr. & Southwest Securities FBO Paul G. Moresi","Jr."","n/a","n/a","n/a","4125152"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bank of Erath Holding Company","Director & Chairman","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2015"
-"Bank of Erath Holding Company","Director & Executive Vice President","Beth B. Melebeck","Director,"Executive Vice President Treasurer"","n/a","2015"
-"Bank of Erath Holding Company","Director Secretary","James M. Segura III","Director Secretary","n/a","2015"
-"Bank of Erath Holding Company","Director","Dr. Howard Alleman","Director","n/a","2015"
-"Bank of Erath Holding Company","Director","Vemon L. Caldwell III","Director","n/a","2015"
-"Bank of Erath Holding Company","Director","Paul G. Moresi,"III"","Director","n/a","2015"
-"Bank of Erath Holding Company","Director","Charley S. Steen,"III"","Director","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF ERATH HOLDING COMPANY","Director & Chairman","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2015","Bank President/ Attorney","399731"
+"BANK OF ERATH HOLDING COMPANY","Director & Executive Vice President","Beth B. Melebeck","Director,"Executive Vice President Treasurer"","n/a","2015","n/a","399731"
+"BANK OF ERATH HOLDING COMPANY","Director Secretary","James M. Segura III","Director Secretary","n/a","2015","n/a","399731"
+"BANK OF ERATH HOLDING COMPANY","Director","Dr. Howard Alleman","Director","n/a","2015","Retiered Physician","399731"
+"BANK OF ERATH HOLDING COMPANY","Director","Vemon L. Caldwell III","Director","n/a","2015","Real Estate","399731"
+"BANK OF ERATH HOLDING COMPANY","Director","Paul G. Moresi,"III"","Director","n/a","2015","Attorney","399731"
+"BANK OF ERATH HOLDING COMPANY","Director","Charley S. Steen,"III"","Director","n/a","2015","Business Owner","399731"
 ```

@@ -1,0 +1,43 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Financial Corporation of Louisiana","Crowley,"LA"","2021","Financial Corporation of LA ESOP","n/a","150213","18.23%","n/a"
+"Financial Corporation of Louisiana","Crowley,"LA"","2021","NONE","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Financial Corporation of Louisiana","Treasurer","Arlene Albarado","n/a","n/a","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director,"Sr VP & CFO"","Arlene Albarado","n/a","n/a","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Treasurer","Eric Movassaghi","n/a","n/a","2021","Banker","n/a"
+"Financial Corporation of Louisiana","EVP & CFO","Eric Movassaghi","n/a","n/a","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director","William A. Dore'","VP Sales","n/a","2021","Investments","n/a"
+"Financial Corporation of Louisiana","Director","Russell Freeland,"Sr."","Pres. & General Manager","Louisiana Irrigation & Mill Co","2021","Louisiana Irrigation & Mill Co. & First National Farms","n/a"
+"Financial Corporation of Louisiana","Director","Russell Freeland,"Sr."","VP","First National Farms","2021","Louisiana Irrigation & Mill Co. & First National Farms","n/a"
+"Financial Corporation of Louisiana","Director","Greg A. Jones","Vice President","Kalem LLC","2021","Retired; Oil & Gas Investments","n/a"
+"Financial Corporation of Louisiana","Director,"Chairman"","John Randall Prather","Member","Prather Brothers LLC","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Randall Roach","Secretary","Kimira Properties","2021","Attorney","n/a"
+"Financial Corporation of Louisiana","Director","Peter M. John","Pres. LA Bag Co.","n/a","2021","LA Bag Company & LAPAC Manufacturing","n/a"
+"Financial Corporation of Louisiana","Director","Peter M. John","VP LAPAC Manuf.","n/a","2021","LA Bag Company & LAPAC Manufacturing","n/a"
+"Financial Corporation of Louisiana","Director","James M. Cunningham,"III"","Director","Rayne State Bank","2021","Attorney","n/a"
+"Financial Corporation of Louisiana","Director","Lawrence J. Prevost","n/a","n/a","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Vice President,"CFO"","Lawrence J. Prevost","Small Owner","Signal Investment LLC","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Thomas Tucker Johnston","Director","Rayne State Bank","2021","Retired","n/a"
+"Financial Corporation of Louisiana","Director","Thomas Tucker Johnston","Partner","MLBJ,"LLC"","2021","Retired","n/a"
+"Financial Corporation of Louisiana","Director,"President"","Stephen P. Hollier","Director","Rayne State Bank","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director,"President"","Stephen P. Hollier","President","Rayne State Bank","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Director","Rayne State Bank","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Partner","Fred J. Gossen Co","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Owner","Henry Gossen,"Inc."","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Partner","Gossen and Ware,"LLC"","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Partner","ALC Real Estate","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Owner","FJG Properties,"Inc."","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Partner","Gossen Ware Gossen Properties","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Part Owner","Affiliated Medical Supplies,"Inc."","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Owner","FJG,"Sr. Partners","Inc."","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Director","Fred J. Gossen","Partner","F. Gossen & A. Gossen,"Ltd. Partnership"","2021","Real Estate Appraiser","n/a"
+"Financial Corporation of Louisiana","Secretary to the Board","Yvonne D. Menard","n/a","Martha Hanks Dupuis LLC & M.H.Dupuis Farms,"LLC"","2021","Banker","n/a"
+"Financial Corporation of Louisiana","Sr. Vice President,"Sr. Admin. Officer"","Yvonne D. Menard","n/a","Martha Hanks Dupuis LLC & M.H.Dupuis Farms,"LLC"","2021","Banker","n/a"
+"Financial Corporation of Louisiana","n/a","Financial Corporation of LA ESOP","n/a","n/a","2021","n/a","n/a"
+```

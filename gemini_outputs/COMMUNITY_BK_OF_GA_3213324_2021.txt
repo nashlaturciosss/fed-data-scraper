@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2021","W. Jeffrey Turner","Common Stock","30015","5.1%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2021","Marcus C. Long","Common Stock","35000","6.0%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2021","Lamar R. Turner","Common Stock","30000","5.1%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2021","David G. Douglas","Common Stock","45285","7.76%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Director","Mike Cleland","Director","Community Bank of Georgia","2021","Retired Engineer","n/a"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2021","Manufacturing .Distribution","n/a"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","Owner","Matrix Cement LLC DBA Matrix Cabinets","2021","Manufacturing .Distribution","n/a"
+"Community Bank of Georgia,"Inc."","Director","William W. Eason","Director","Community Bank of Georgia","2021","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director/CFO/Secretary","Randy Hicks","Director","Community Bank of Georgia/CFO","2021","CFO of the Bank and HC/Secretary","n/a"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","President","J. Alexander Johnson","2021","Attorney","n/a"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","President","Community Bank of Georgia","2021","Attorney","n/a"
+"Community Bank of Georgia,"Inc."","Chairman/Director","Marcus C. Long","Chairman/Director","Community Bank of Georgia","2021","Certified Public Accountant","n/a"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2021","Trucking Company/Farming","n/a"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Owner & President","Community Bank of Georgia","2021","Trucking Company/Farming","n/a"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Owner & President","Mathews Farms","2021","Trucking Company/Farming","n/a"
+"Community Bank of Georgia,"Inc."","Director","Harold E. Rentz,"DMD"","Owner","Harold E Rentz Jr DMD","2021","Dentist","n/a"
+"Community Bank of Georgia,"Inc."","Director","Harold E. Rentz,"DMD"","Owner","Community Bank of Georgia","2021","Dentist","n/a"
+"Community Bank of Georgia,"Inc."","Director","James R. Rentz","Director/Shareholder","Southeastern Cotton Gin,"Inc."","2021","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","James R. Rentz","Director/Shareholder","Community Bank of Georgia","2021","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","President/CEO","Kelly Stone","President/CEO","Community Bank of Georgia","2021","President/CEO of the Bank and HC","n/a"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turner","Owner of Turner Farms / Director","Community Bank of Georgia","2021","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turner","Owner of Turner Farms / Director","Southeastern Cotton Gin,"Inc."","2021","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","Owner","Southeastern Business Machines,"Inc."","2021","Business Machine/Low Volteage Contractor","n/a"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","Owner","Community Bank of Georgia","2021","Business Machine/Low Volteage Contractor","n/a"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","Owner","Southeastern System Technologies,"Inc."","2021","Business Machine/Low Volteage Contractor","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","Southeastern Cotton Gin,"Inc."","2021","Electrical Contracting Company","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","Community Bank of Georgia","2021","Electrical Contracting Company","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2021","Electrical Contracting Company","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","Rhino MFG.","2021","Electrical Contracting Company","n/a"
+```

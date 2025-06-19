@@ -1,18 +1,23 @@
-Here are the requested CSV tables:
+Here are the two requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BankFlorida Bancorp,"Inc."","Fort Lauderdale","2021","KENNETH R. LEHMAN","Common Stock","335000","10.5%"
-"BankFlorida Bancorp,"Inc."","Lake Mary","2021","JOHN AND ULTIMA MORGAN,"TEN ENT"","Common Stock","200000","6.29%"
-"BankFlorida Bancorp,"Inc."","Boca Raton","2021","C&BL INITIATIVE,"LLC"","Common Stock","200000","6.29%"
-"BankFlorida Bancorp,"Inc."","Dade City","2021","DALE MAGGARD AND ANN MAGGARD,"JTWROS"","Common Stock","167498","5.27%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BankFlorida Bancorp,"Inc."","Fort Lauderdale,"FL"","2021","KENNETH R. LEHMAN","Common","335000","10.5%","n/a"
+"BankFlorida Bancorp,"Inc."","Lake Mary,"FL"","2021","JOHN AND ULTIMA MORGAN,"TEN ENT"","Common","200000","6.29%","n/a"
+"BankFlorida Bancorp,"Inc."","Boca Raton,"FL"","2021","C&BL INITIATIVE,"LLC"","Common","200000","6.29%","n/a"
+"BankFlorida Bancorp,"Inc."","Dade City,"FL"","2021","DALE MAGGARD AND ANN MAGGARD,"JTWROS"","Common","167498","5.27%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Heritage S.E. Bancorp-42.4%","2021"
-"BankFlorida Bancorp,"Inc."","Director","DALE MAGGARD","Director","Sonny's Discount Appliances","2021"
-"BankFlorida Bancorp,"Inc."","Director","DAN KNOWLTON","Director","K&K Glass","2021"
-"BankFlorida Bancorp,"Inc."","Director","ALLEN ALTMAN","Director","n/a","2021"
-"BankFlorida Bancorp,"Inc."","Director & CEO/President","JAMES S. STALNAKER,"JR."","Director,"Chairman & CEO/President"","Covington Farms","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Heritage S.E. Bancorp","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Partner Bancorp","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Village Bank & Trust Financial","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Marine Bancorp of Florida,"Inc."","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Affinity Bancshares","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director & Chairman","KENNETH R. LEHMAN","Director","Persons Banking Company,"Inc."","2021","Entreprenuer","n/a"
+"BankFlorida Bancorp,"Inc."","Director","DALE MAGGARD","Secretary/Treasurer","Sonny's Discount Appliances","2021","Sonny's Discount Appliances","n/a"
+"BankFlorida Bancorp,"Inc."","Director","DAN KNOWLTON","President","K&K Glass","2021","K&K Glass","n/a"
+"BankFlorida Bancorp,"Inc."","Director","ALLEN ALTMAN","n/a","n/a","2021","Insurance Agent","n/a"
+"BankFlorida Bancorp,"Inc."","Director & CEO/President","JAMES S. STALNAKER,"JR."","Owner","Covington Farms","2021","N/A","n/a"
 ```

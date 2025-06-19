@@ -1,23 +1,26 @@
-Here are the two CSV tables extracted from the document:
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Alapaha Holding Company","Director","Luther L Duke,"III"","Director - Bank of Alapaha","Adel Ice Company,"Inc. CEO; Hopeful Ice of South Georgia","Inc. CEO"","2023"
-"Alapaha Holding Company","President","Kenneth E Hughes","President and CEO","n/a","2023"
-"Alapaha Holding Company","Director","Tommy Lee","Director - Bank of Alapaha","Lee Farm Supply,"LLC-Managing Member"","2023"
-"Alapaha Holding Company","Director","Steve McMillan","Director - Bank of Alapaha","Berrien Peanut Co-CEO; Southern Grace Farms,"Inc. CEO; Middle Branch","LLP CEO"","2023"
-"Alapaha Holding Company","Director","C Dane Perkins","Director - Bank of Alapaha","Troutdale Corporation CEO Perkins Warehouse Inc. CEO","2023"
-"Alapaha Holding Company","Director","Sylvia L Roberts","Director Bank of Alapaha","Alapaha Station Celebration Inc CEO","2023"
-"Alapaha Holding Company","Director","Daniel L Studstill","Director - Bank of Alapaha","Daniel L Studstill,"PC CEO"","2023"
-"Alapaha Holding Company","CFO","Erin B Watson","CFO-Bank of Alapaha","n/a","2023"
-"Alapaha Holding Company","Director","Brian E Stone","Director - Bank of Alapaha","Adel Properties,"LLC CEO Stone's Development CEO Water's Edge Construction LLC Stone Ridge Rental","LLC Brian Stone Construction Inc"","2023"
-"Alapaha Holding Company","Secretary","Ellen Brogdon","Vice President- Bank of Alapaha","Dorothy P Ingram Trust,"Trustee"","2023"
-"Alapaha Holding Company","n/a","Angela McMillan","Vice President- Bank of Alapaha","Barry's Deli","2023"
-"Alapaha Holding Company","n/a","Belinda Holbrook","Vice President - Bank of Alapaha","n/a","2023"
-"Alapaha Holding Company","n/a","Jay Funderburke","Chief Compliance Officer","n/a","2023"
-"Alapaha Holding Company","Director","Rudoiph Smith","Director - Bank of Alapaha","Consultant - City of Nashville","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Luther L Duke,"III"","Director","n/a","n/a","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Luther L Duke,"III"","n/a","n/a","n/a","Entrepreneur"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Kenneth E Hughes","President","n/a","n/a","n/a","N/A"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Tommy Lee","Director","n/a","n/a","n/a","Farmer & Entrepreneur"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Steve McMillan","Director","n/a","n/a","n/a","Farmer"
+"ALAPAHA HOLDING COMPANY","n/a","2023","C Dane Perkins","Director","Troutdale Corporation CEO","Troutdale Corporation","2023","Judge","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","C Dane Perkins","Director","Perkins Warehouse Inc. CEO","Perkins Warehouse Inc.","2023","Judge","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Sylvia L Roberts","Director","n/a","n/a","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Daniel L Studstill","Director","Daniel L Studstill,"PC CEO"","Daniel L Studstill,"PC"","2023","Attorney","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Erin B Watson","CFO","n/a","n/a","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Brian E Stone","Director","Adel Properties,"LLC CEO"","Adel Properties,"LLC"","2023","Contractor & Entrepreneur","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Brian E Stone","Director","Stone's Development CEO","Stone's Development","2023","Contractor & Entrepreneur","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Brian E Stone","Director","Water's Edge Construction LLC","Water's Edge Construction","2023","Contractor & Entrepreneur","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Brian E Stone","Director","Stone Ridge Rental,"LLC"","Stone Ridge Rental","2023","Contractor & Entrepreneur","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Brian E Stone","Director","Brian Stone Construction Inc","Brian Stone Construction","2023","Contractor & Entrepreneur","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Ellen Brogdon","Secretary","Dorothy P Ingram Trust,"Trustee"","Dorothy P Ingram Trust","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Angela McMillan","n/a","n/a","Barry's Deli","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Belinda Holbrook","n/a","n/a","None","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Jay Funderburke","n/a","n/a","None","2023","N/A","n/a"
+"ALAPAHA HOLDING COMPANY","n/a","2023","Rudoiph Smith","Director","Consultant - City of Nashville","None","2023","Retired - City Manager","n/a"
 ```

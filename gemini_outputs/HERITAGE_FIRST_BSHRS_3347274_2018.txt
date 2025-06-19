@@ -1,0 +1,36 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Atlanta,"GA"","2018","Andrew Heaner","Common Stock","1558902","27.27%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2018","Wayne Vick","Common Stock","547167","9.57%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2018","Kenneth Davis","Common Stock","496203","8.68%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2018","Larry Martin","Common Stock","358075","6.26%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2018","Helmut Cawthon","Common Stock","332386","5.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Director","Helmut H. Cawthon","n/a","Shoney's of Rome D/B/A The Country Sportman","2018","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Chairman","Dr Kenneth F. Davis","Chairman","Harbin Clinic","2018","Medical","n/a"
+"Heritage First Bancshares,"Inc."","Director & CEO","Ryan P. Ernest","n/a","n/a","2018","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Financial Group","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Carwash LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Crew LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Enterprises I LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Entertainment LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Laundry LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Museums LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","ACH Rental Properties LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Aviation LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Enterprises LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Farms LLC","2018","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Director","Clinton G. Hubbard","Director","IOMAX,"USA","Inc."","2018","Executive","n/a"
+"Heritage First Bancshares,"Inc."","Director","Randal A. Land","CEO","JL Todd Auction Company,"Inc."","2018","CEO","n/a"
+"Heritage First Bancshares,"Inc."","Director","Kimberly G. Mauer","RN","Redmond Medical Center","2018","Medical","n/a"
+"Heritage First Bancshares,"Inc."","Director","Laura H. Mumber","n/a","n/a","2018","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","David M. Parker","Owner","Parker Systems,"LLC"","2018","Telecommunications","n/a"
+"Heritage First Bancshares,"Inc."","CFO","Charles W. Thornton Jr.","n/a","n/a","2018","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Wayne E. Vick","n/a","n/a","2018","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Thad W. Watters Sr.","n/a","n/a","2018","n/a","n/a"
+```

@@ -1,18 +1,25 @@
-Here are the two tables extracted from the document:
 ```csv
-SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2014","Robert E. James","Common Stock","275231.7650","48.70%"
-"CARVER FINANCIAL CORPORATION","Cleveland","2014","Karlene E. Farabee","Common Stock","75090.4000","13.29%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2014","Robert E. James","Common Stock","275231","48.70%","3190023"
+"CARVER FINANCIAL CORPORATION","Cleveland,"TN"","2014","Karlene E. Farabee","Common Stock","75090","13.29%","3190023"
 ```
 ```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2014"
-"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2014"
-"CARVER FINANCIAL CORPORATION","n/a","E. Bruce Adams","Director","Carver State Bank","2014"
-"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Carver State Bank","2014"
-"CARVER FINANCIAL CORPORATION","n/a","David L. Douse","Director","Carver State Bank","2014"
-"CARVER FINANCIAL CORPORATION","n/a","Edward G. Miller","Director","Carver State Bank","2014"
-"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","Carver State Bank","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","Bank Properties,"Ltd."","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","Century Investors,"Limited"","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","Anderson Street Associates,"Limited"","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","United Properties,"Inc."","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","Atlantic Communications of Georgia,"Inc."","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James","See Attachment A","Campus Properties,"LLC"","2014","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2014","n/a","3190023"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","n/a","n/a","2014","Funeral Home Director & Owner","3190023"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Century Investors,"Ltd."","2014","Executive Director of a Non-profit Agency","3190023"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Anderson Street Associates,"Ltd."","2014","Executive Director of a Non-profit Agency","3190023"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","n/a","n/a","2014","Bank Officer","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","n/a","n/a","2014","Retired Educator & Healthcare Administrator","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Robert E. James,"II"","See Attachment B","Coastal Legacy Group,"LLC"","2014","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Robert E. James,"II"","See Attachment B","CLG MLK Savannah,"LLC"","2014","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Robert E. James,"II"","See Attachment B","Golden Holley James,"LLP"","2014","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Robert E. James,"II"","See Attachment B","Bank Properties,"Ltd."","2014","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Robert E. James,"II"","See Attachment B","GHJ Solutions,"LLC"","2014","Consultant & Attorney","3190023"
 ```

@@ -1,0 +1,28 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeff Davis Bancshares,"Inc."","Jennings,"LA"","2014","Dan L. Donald,"Jr."","n/a","142072","9.11%","1833 997"
+"Jeff Davis Bancshares,"Inc."","Jennings,"LA"","2014","David B. Donald","n/a","89000","5.71%","1833 997"
+"Jeff Davis Bancshares,"Inc."","New York,"NY"","2014","Cede & Company","n/a","300337","19.25%","1833 997"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeff Davis Bancshares,"Inc."","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC (Medical Corp)","2014","OB/GYN Physician","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Clarence Berken","Partner","Berken Brothers","2014","Self-employed Farmer","980531"
+"Jeff Davis Bancshares,"Inc."","Director President/CEO","Boyd R. Boudreaux","Owner","Holly Beach Rentals,"LLC"","2014","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2014","Certified Public Accountant","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2014","Certified Public Accountant","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2014","President Oilfield Equipment Sales,"Inc."","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Milton Ray Crochet","President","Calcasieu Rentals,"Inc."","2014","President Calcasieu Rentals,"Inc."","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Milton Ray Crochet","President","SWD,"Inc."","2014","President Calcasieu Rentals,"Inc."","980531"
+"Jeff Davis Bancshares,"Inc."","Director Chairman","Dan L. Donald,"Jr."","President","Niblett Irrigation,"Inc."","2014","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director Vice Chairman","David B. Donald","President","Niblett Irrigation,"Inc."","2014","Manager/Owner Donald Farms","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Ray Hines","President","Scoboco,"Inc."","2014","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Thomas E. Leger","President","Thomas E. Leger,"DDS","Inc."","2014","Dentist","980531"
+"Jeff Davis Bancshares,"Inc."","Director Secretary","Sara A. Roberts","Managing Member","Dunn,"Roberts","and Co.","LLC"","2014","President Sara A. Roberts,"CPA","APAC"","980531"
+"Jeff Davis Bancshares,"Inc."","Director Secretary","Sara A. Roberts","Chairman of Board and CFO","R & R Construction,"Inc."","2014","President Sara A. Roberts,"CPA","APAC"","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Victor T. Stelly","President","Vic Stelly Insurance Agency,"Inc."","2014","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2014","N/A","980531"
+```

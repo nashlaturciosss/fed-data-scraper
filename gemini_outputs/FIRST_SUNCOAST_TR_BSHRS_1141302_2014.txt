@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Suncoast Trust Bancshares,"Inc."","Orange Beach,"AL"","2014","Lisa A. Swift","n/a","2564.895","9.52%","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Atmore,"AL"","2014","G. R. Swift,"III"","n/a","1814.65","6.73%","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Pittsburgh,"PA"","2014","Linda J. Silver","n/a","1418.85","5.26%","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Pittsburgh,"PA"","2014","Leonidas Jones","n/a","1418.85","5.26%","1141302"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Suncoast Trust Bancshares,"Inc."","Director","Robert W. Faircloth","Sec./Treasurer","R & R Restaurant","2014","Restaurant Owner/Mgr.","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Director","Lisa A. Swift","n/a","n/a","2014","Homemaker","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Director","Robert Hendrix","President","Hendrix Tractor","2014","Agriculture","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Secretary/Director","Glen F. Davis","n/a","n/a","2014","N/A","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Board Chairman","Thomas G. Moore,"DVM"","Owner","Atmore Animal Hospital","2014","Veterinarian","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Director","H. William Wasden","Partner","Burr & Foreman,"LLP"","2014","Attorney","1141302"
+"First Suncoast Trust Bancshares,"Inc."","Director","James W. Johnson","Owner","Johnson Ford","2014","Car Dealership","1141302"
+```

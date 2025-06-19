@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Banking Corporation","Monticello,"FL"","2014","FMB Banking Corporation Employee Stock Ownership Plan w/401K Provisions","Common Stock","52797","13.51%","n/a"
+"FMB Banking Corporation","Monticello,"FL"","2014","Edward H. Carraway","Common Stock","48249","12.30%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2014","F. Wilson Carraway,"III"","Common Stock","46956","12.01%","n/a"
+"FMB Banking Corporation","Monticello,"FL"","2014","Renee Carraway Taylor","Common Stock","45945","11.76%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2014","Caroline Carraway Sutton","Common Stock","45708","11.70%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2014","Elisabeth L. Carraway Neilson","Common Stock","44626","11.42%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Banking Corporation","Director","Joseph J. Audie,"Jr."","Director","Farmers & Merchants Bank","2014","Marble Medical","n/a"
+"FMB Banking Corporation","Director","Fred H. Beshears","Director","Farmers & Merchants Bank","2014","Simpson Nurseries President","n/a"
+"FMB Banking Corporation","Director/Treasurer","Edward H. Carraway","n/a","n/a","2014","Vice President","n/a"
+"FMB Banking Corporation","Chairman","F. Wilson Carraway,"III"","Director","Farmers & Merchants Bank","2014","Director","n/a"
+"FMB Banking Corporation","n/a","E. Edward Murray,"Jr."","President/Broker","TALCOR Commercial Real Estate","2014","TALCOR Commercial Real Estate","n/a"
+"FMB Banking Corporation","Director/President/CEO","R. Michael Sims","n/a","n/a","2014","President/CEO","n/a"
+"FMB Banking Corporation","Director/Secretary","Caroline C. Sutton","n/a","n/a","2014","Vice President","n/a"
+"FMB Banking Corporation","n/a","Thomas B. Walker,"Jr."","Director","Farmers & Merchants Bank","2014","Cattleman/Dairyman","n/a"
+"FMB Banking Corporation","n/a","FMB Banking Corporation Employee Stock Ownership Plan w/401K Provisions","n/a","n/a","2014","n/a","n/a"
+"FMB Banking Corporation","n/a","Renee Carraway Taylor","n/a","n/a","2014","n/a","n/a"
+"FMB Banking Corporation","n/a","Elisabeth L. Carraway Neilson","n/a","n/a","2014","n/a","n/a"
+```

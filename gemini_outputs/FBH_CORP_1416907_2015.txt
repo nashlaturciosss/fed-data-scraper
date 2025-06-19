@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F.B.H. Corporation","Fayette,"AL"","2015","William C. Robertson","Common Stock","213.8","10.7%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2015","Thomas H. Robertson,"IV"","Common Stock","375.7","18.8%","1416907"
+"F.B.H. Corporation","Portland,"OR"","2015","Susan E. Robertson","Common Stock","375.7","18.8%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2015","John C. Robertson,"Jr."","Common Stock","380.2","19.1%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2015","Catherine L. Robertson","Common Stock","183.5","9.2%","1416907"
+"F.B.H. Corporation","n/a","2015","None","n/a","None","None","1416907"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F.B.H. Corporation","President/CEO and Director","William C. Robertson","Director","The Citizens Bank of Fayette","2015","n/a","1416907"
+"F.B.H. Corporation","Secretary-Treasurer and Director","John C. Robertson,"Jr."","Sr Vice-President and Director","The Citizens Bank of Fayette","2015","n/a","1416907"
+"F.B.H. Corporation","Principal Securities Holder","Susan E. Robertson","Librarian","Portland Public Schools","2015","Librarian","1416907"
+"F.B.H. Corporation","Principal Securities Holder and Director","Thomas H. Robertson,"IV"","Owner","Tom Robertson Photography","2015","Photographer","1416907"
+"F.B.H. Corporation","Director","Catherine L. Robertson","None","None","2015","Retired Guest Svcs Director","1416907"
+"F.B.H. Corporation","Director","Amy R. Vaden","Development Associate","Southern Alliance for Clean Energy","2015","Development Associate","1416907"
+```

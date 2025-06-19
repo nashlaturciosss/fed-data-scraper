@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","New York,"NY"","2019","CGMI (holds EJF Sidecar Fund Series LLC)","n/a","278093","8.1%","n/a"
+"InsCorp,"Inc."","New York,"NY"","2019","Jefferies (holds Mendon Capital Masters Fund LTD)","n/a","278093","8.1%","n/a"
+"InsCorp,"Inc."","San Francisco,"CA"","2019","Wells Fargo","n/a","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","CFO,"Director"","W. Page Barnes","Director","INSBANK","2019","n/a","n/a"
+"InsCorp,"Inc."","Executive Vice President,"Director"","David P. Crabtree","Director","Brookside Properties,"Inc."","2019","Real Estate Development","n/a"
+"InsCorp,"Inc."","Director","Richard Hollis","President","Hollis & Burns,"Inc."","2019","Insurance","n/a"
+"InsCorp,"Inc."","Director","Richard Hollis","n/a","Hollis & Burns LLC","2019","Insurance","n/a"
+"InsCorp,"Inc."","Director","Stacey Garrett Koju","Director","n/a","2019","Attorney","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Owner","Loventhal Brothers Inc.","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Partner","Loventhal Financial Services,"Inc."","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Owner","Noshville,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Member","Noshville Delicatessen,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Member","Noshville Delicatessen II,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","n/a","Loventhal Land Group,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Partner","Ivy Planning Group","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","n/a","142nd Street Properties","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Partner","LKS,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","President Officer-Chairman,"Director"","Tom Loventhal","Manager","LMV Capital,"LLC"","2019","Investor","n/a"
+"InsCorp,"Inc."","Director,"Officer - Secretary"","C. Louis Patten,"Jr."","n/a","n/a","2019","Insurance","n/a"
+"InsCorp,"Inc."","Director,"Officer-Treasurer"","Dennis Petty","n/a","Dennis W. Petty,"CPA"","2019","CPA","n/a"
+"InsCorp,"Inc."","Director,"Chairman"","Michael A. Qualls","Officer-Chairman","InsBank","2019","Banking","n/a"
+"InsCorp,"Inc."","President/CEO,"Director"","James H. Rieniets,"Jr."","Director","Gracious Henry Properties,"LLC"","2019","Banking","n/a"
+"InsCorp,"Inc."","Director","Charles Tagman,"Jr."","Director","Risko Group,"LLC"","2019","Consulting","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","Director","Green River Properties","2019","Investments","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","n/a","MPC Properties","2019","Investments","n/a"
+"InsCorp,"Inc."","Director","Philip R. Zanone,"Jr."","n/a","MPC Partners","2019","Investments","n/a"
+```

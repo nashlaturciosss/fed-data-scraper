@@ -1,17 +1,24 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Victor D. Bayne","Common Stk","n/a","1.55%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","T. Chris Boyd","Common Stk","n/a","0.81%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Leigh C. Chambers","Common Stk","n/a","0.41%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","William M. Dyer","Common Stk","n/a","0.41%","n/a"
+"Century Bancorp,"Inc."","Eatonton,"GA"","2023","W. Kendrick Farr","Common Stk","n/a","0.41%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Larry R. Garrett","Common Stk","n/a","0.63%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Cheryl P. Pounds","Common Stk","n/a","0.74%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Patricia B. Thompson","Common Stk","n/a","13.58%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2023","Derek B. Williams","Common Stk","n/a","0.43%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Century Bancorp,"Inc."","Director/President/CEO","Victor D. Bayne","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","T. Chris Boyd","Chairman","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","Leigh C. Chambers","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","William M. Dyer","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","W. Kendrick Farr","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","Larry R. Garrett","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","Cheryl P. Pounds","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","Patricia B. Thompson","Director","n/a","2023"
-"Century Bancorp,"Inc."","Director/President/CEO","Derek B. Williams","Director/President/CEO","n/a","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Century Bancorp,"Inc."","Director/President/CEO","Derek B. Williams","n/a","n/a","2023","n/a","n/a"
+"Century Bancorp,"Inc."","Director","Victor D. Bayne","President","Bayne's Army Store","2023","Retail Sporting Goods","n/a"
+"Century Bancorp,"Inc."","Chairman","T. Chris Boyd","EVP/Mng Member","American Tank Maintenance,"LLC"","2023","Municipal Water Storage Maintenance","n/a"
+"Century Bancorp,"Inc."","Director","Leigh C. Chambers","n/a","n/a","2023","Commercial Mortgage Broker-Operations Officer","n/a"
+"Century Bancorp,"Inc."","Director","William M. Dyer","n/a","n/a","2023","Insurance Agent","n/a"
+"Century Bancorp,"Inc."","Director","W. Kendrick Farr","n/a","n/a","2023","n/a","n/a"
+"Century Bancorp,"Inc."","Director","Larry R. Garrett","President/CEO","G&S Gas Service Inc","2023","Propane Retailer","n/a"
+"Century Bancorp,"Inc."","Director","Cheryl P. Pounds","n/a","n/a","2023","n/a","n/a"
+"Century Bancorp,"Inc."","Director","Patricia B. Thompson","n/a","n/a","2023","n/a","n/a"
 ```

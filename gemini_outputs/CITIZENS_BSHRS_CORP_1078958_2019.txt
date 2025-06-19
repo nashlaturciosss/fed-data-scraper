@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2019","Estate of Herman J. Russell","n/a","606789","30.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","n/a","Estate of Herman J. Russell","Principal Shareholder","n/a","2019","Principal Shareholder","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","Retired","n/a","2019","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","Acuity Brands,"Inc"","2019","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","American Airlines","2019","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","Aaron Rents","2019","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","Fortress Transportation","2019","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","GA Aquarium","2019","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","President","C.D. Moody Construction Co.,"Inc"","2019","President of C.D. Moody Construction Co.,"I"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","H.J. Russell & Co.,"and Russell New Urban Development","LLC"","2019","President of H.J. Russell & Company and","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Owner","R.L. Brown & Associates,"Inc"","2019","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore","Founder & Managing Principal","Elmore CPAS,"LLC"","2019","Managing Principal of Elmore CPAs,"LLC"","n/a"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","President & CEO","n/a","2019","President & CEO","n/a"
+"Citizens Bancshares Corporation","Executive VP & CFO","Samuel J. Cox","Executive VP & CFO","n/a","2019","Executive VP & CFO","n/a"
+"Citizens Bancshares Corporation","Executive VP & COO","Frederick L. Daniels,"Jr."","Executive VP & COO","n/a","2019","Executive VP & COO","n/a"
+```

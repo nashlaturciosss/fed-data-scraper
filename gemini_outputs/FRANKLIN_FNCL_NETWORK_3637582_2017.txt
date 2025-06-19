@@ -1,0 +1,32 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin Financial Network","New York,"NY"","2017","Blackrock,"Inc."","n/a","759,"745"","5.7%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Financial Network","Director","Jimmy Allen","Director","Venture Express","2017","Transportation","n/a"
+"Franklin Financial Network","Director","Jimmy Allen","Director","Creative Transportation","2017","Transportation","n/a"
+"Franklin Financial Network","Director","Jimmy Allen","Director","Allen's Cartgage Company","2017","Transportation","n/a"
+"Franklin Financial Network","Director","Jimmy Allen","Director","Center Hill Marina and Yacht Club","2017","Transportation","n/a"
+"Franklin Financial Network","EVP,"Chief Mortgage Bank Officer"","Sally Bowers","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","Henry (Hank) Brockman","n/a","n/a","2017","Private Investor","n/a"
+"Franklin Financial Network","Franklin Synergy Bank EVP,"Loan Review"","Dallas Caudle","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","James W. Cross","Director","Century Construction","2017","Construction","n/a"
+"Franklin Financial Network","Director","James W. Cross","Director","Land Contractors","2017","Construction","n/a"
+"Franklin Financial Network","Franklin Synergy Bank - EVP,"Chief Operating Officer"","Kevin Herrington","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","President,"Chairman","& CEO; Director"","Richard Herrington","Chairman & CEO; Director","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Franklin Synergy Bank - EVP,"Chief Credit Officer"","Myers Jones","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","Dr. David Kemp","Owner","Kemp Orthodontics","2017","Orthodontics","n/a"
+"Franklin Financial Network","EVP,"Chief Adminstrative Officer"","Sally Kimble","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Franklin Synergy Bank - EVP,"Chief Lending Officer"","David McDaniel","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","Lee Moss","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","Paul Pratt,"Jr."","President","Full Service Insurance,"Inc."","2017","Insurance","n/a"
+"Franklin Financial Network","EVP,"Chief Financial Officer"","Sarah Meyerrose","n/a","n/a","2017","n/a","n/a"
+"Franklin Financial Network","Director","Melody Sullivan","Part Owner","Smiley CPAs","2017","CPA","n/a"
+"Franklin Financial Network","Director","Pam Stephens","Funeral Directors/Part Owner","Williamson Memorial Funeral Home","2017","Funeral Home","n/a"
+"Franklin Financial Network","Director","Greg Waldron","Partner,"Managing Member"","Waldron Enterprises","2017","n/a","n/a"
+"Franklin Financial Network","Director","Ben Wynd","Part Owner","Smiley CPAs","2017","CPA","n/a"
+```

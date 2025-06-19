@@ -1,17 +1,19 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bankshares Corporation Of Niceville","Niceville","2016","James W. Powell","n/a","34937","32%"
-"Bankshares Corporation Of Niceville","Niceville","2016","Deborah P. Dye","n/a","34868","32%"
-"Bankshares Corporation Of Niceville","Niceville","2016","Michael R. Floyd","n/a","8307","7.7%"
-"Bankshares Corporation Of Niceville","Crestview","2016","Sibyl Moore","n/a","7360","6.82%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2016","James W. Powell","n/a","34937","32%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2016","Deborah P. Dye","n/a","34868","32%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2016","Michael R. Floyd","n/a","8307","7.7%","n/a"
+"Bankshares Corporation Of Niceville","Crestview,"Florida"","2016","Sibyl Moore","n/a","7360","6.82%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","n/a","Peoples Building Partnership","2016"
-"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","n/a","Peoples Building Partnership","2016"
-"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","n/a","Peoples Building Partnership","2016"
-"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","Exec Vice President COO","n/a","2016"
-"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","n/a","2016"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Peoples Building Partnership","2016","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","W.H. Powell Rentals LLC","2016","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","Partner","Peoples Building Partnership","2016","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building Partnership","2016","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Managing Member","FEMM Enterprises LLC","2016","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","Exec Vice President","n/a","2016","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","n/a","2016","Banker","n/a"
 ```

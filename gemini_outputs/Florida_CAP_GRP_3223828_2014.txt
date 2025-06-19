@@ -1,0 +1,35 @@
+"Here are the two CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Orlando,"FL"","2014","James W. Heavener","Common Stock","332565419","53.89%","n/a"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL"","2014","James T. Katsur","Common Stock","74727065","12.11%","n/a"
+"Florida Capital Group,"Inc."","Tampa,"FL"","2014","W. Andrew Krusen,"Jr."","Common Stock","43839903","7.10%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Group,"Inc."","Director","Charles E. Hughes,"Jr"","n/a","n/a","2014","Retired Banking Executive","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R Dostie","President","Spartan Development Grp Inc","2014","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R Dostie","Managing Member","n/a","2014","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R Dostie","Member","n/a","2014","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director","Richard R Dostie","President","n/a","2014","Real Estate Developer","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J. Malcolm Jones,"Jr"","President & Owner","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J. Malcolm Jones,"Jr"","Partner","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J. Malcolm Jones,"Jr"","Partner","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director & CEO","J. Malcolm Jones,"Jr"","Partner","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen. Jr.","Officer & Director","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen. Jr.","Partner","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","W. Andrew Krusen. Jr.","Managing Member","n/a","2014","Private Investor","n/a"
+"Florida Capital Group,"Inc."","Director","P. Bruce Culpepper","n/a","Bruce Culpepper LLC","2014","Attorney","n/a"
+"Florida Capital Group,"Inc."","Director","M.G. Sanchez","n/a","n/a","2014","Retired Banking Executive/ Consultant","n/a"
+"Florida Capital Group,"Inc."","Director","James W Heavener","n/a","The Heavener Company","2014","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Linda McGum","Officer & Director","n/a","2014","Attorney/CPA","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","Managing Member","n/a","2014","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","General Partner","n/a","2014","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Allan S Martin","Owner","n/a","2014","Investor","n/a"
+"Florida Capital Group,"Inc."","Director","Dr. James T. Katsur","n/a","n/a","2014","n/a","n/a"
+"Florida Capital Group,"Inc."","Director & EVP Corporate Strategy","Stephen Kunk","n/a","n/a","2014","n/a","n/a"
+"Florida Capital Group,"Inc."","Chief Financial Officer","Robert H. Higel","n/a","n/a","2014","n/a","n/a"
+"Florida Capital Group,"Inc."","Chief Credit Officer","J Stewart Baker","n/a","n/a","2014","n/a","n/a"
+```

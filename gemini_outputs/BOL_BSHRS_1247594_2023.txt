@@ -1,14 +1,16 @@
-Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BOL Bancshares,"Inc."","Slidell","2023","Scott Family LLP","n/a","n/a","65.58%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BANK OF LOUISIANA","Slidell,"LA"","2023","Johnny C. Crow","n/a","n/a","1.06%","271136"
+"BANK OF LOUISIANA","Covington,"LA"","2023","Shannon R. Scott","n/a",".73","n/a","271136"
+"BANK OF LOUISIANA","Slidell,"LA"","2023","Sharry R. Scott","n/a","0","n/a","271136"
+"BANK OF LOUISIANA","n/a,"n/a"","2023","Scott Family LLP","n/a","n/a","65.58%","271136"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BOL Bancshares,"Inc."","Director","Johnny C. Crow","Director","New York Life Ins. Co.","2023"
-"BOL Bancshares,"Inc."","Director","A. Glenn Geddis","Director,"Chairman of the Board"","Bank of Louisiana","2023"
-"BOL Bancshares,"Inc."","Director","Shannon R. Scott","Director,"President & Chief Operating Officer"","Bank of Louisiana","2023"
-"BOL Bancshares,"Inc."","Treasurer","Sharry R. Scott","Director","Bank of Louisiana","2023"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF LOUISIANA","Director Secretary","Johnny C. Crow","Insurance Agent","New York Life Ins. Co.","2023","Insurance Agent","271136"
+"BANK OF LOUISIANA","Director Chairman of the Board","A. Glenn Geddis","Director,"Chairman of the Board"","Bank of Louisiana","2023","n/a","271136"
+"BANK OF LOUISIANA","Director","Shannon R. Scott","Director,"President & Chief Operating Officer"","Bank of Louisiana","2023","President & Chief Operating Officer Bank of Louisiana","271136"
+"BANK OF LOUISIANA","Director Treasurer","Sharry R. Scott","Director","Bank of Louisiana","2023","Attorney","271136"
 ```

@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","n/a","2016","n/a","n/a","n/a","n/a","n/a"
+"InsCorp,"Inc."","n/a","2016","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsBank","CFO","W. Page Barnes","Director","INSBANK","2016","Real Estate Development","2877345"
+"InsBank","Director","David P. Crabtree","Director","Brookside Properties,"Inc."","2016","Executive Vice President","2877345"
+"InsBank","Director","Richard Hollis","President","Hollis & Burns,"Inc."","2016","Insurance","2877345"
+"InsBank","Director","Richard Hollis","n/a","Hollis & Burns LLC","2016","Insurance","2877345"
+"InsBank","Director","Stacey Garrett Koju","Director","n/a","2016","Attorney","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Owner","Loventhal Brothers Inc.","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Partner","Loventhal Financial Services","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Owner","Noshville,"LLC"","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Member","Noshville Delicatessen,"LLC"","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Member","Noshville Delicatessen II,"LLC"","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Partner","Ivy Planning Group","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","n/a","Loventhal Land Group,"LLC"","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","n/a","142nd Street Properties","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Partner","LKS,"LLC"","2016","Investor","2877345"
+"InsBank","Officer-Chairman","Tom Loventhal,"President"","Manager","LMV Capital,"LLC"","2016","Investor","2877345"
+"InsBank","Director","C. Louis Patten,"Jr."","Director","n/a","2016","Insurance","2877345"
+"InsBank","Officer-Treasurer","Dennis Petty","Director","Dennis W. Petty,"CPA"","2016","CPA","2877345"
+"InsBank","Officer-Chairman","Michael A. Qualls","Director","n/a","2016","Banking","2877345"
+"InsBank","President/CEO","James H. Rieniets,"Jr."","Member","Gracious Henry Properties,"LLC"","2016","Banking","2877345"
+"InsBank","Director","Charles Tagman,"Jr."","Director","Risko Group,"LLC"","2016","Consulting","2877345"
+"InsBank","Director","Philip R. Zanone,"Jr."","n/a","Green River Properties","2016","Investments","2877345"
+"InsBank","Director","Philip R. Zanone,"Jr."","n/a","MPC Properties","2016","Investments","2877345"
+"InsBank","Director","Philip R. Zanone,"Jr."","n/a","MPC Partners","2016","Investments","2877345"
+```

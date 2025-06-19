@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2017","Jolene J. Carroll","Common Stock","42132","48.33%","n/a"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2017","John L. Jessup","Common Stock","21411","24.56%","n/a"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2017","H.C. Ragan","Common Stock","5514","6.32%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Director & Chairman & Chief Operating Officer","Jolene J. Carroll","Director & Executive Vice President","n/a","2017","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director & Executive Vice President","Jolene J. Carroll","Director & Chairman & Chief Operating Officer","n/a","2017","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director & President","John L. Jessup","Director & Chief Executive Officer","n/a","2017","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director & Chief Executive Officer","John L. Jessup","Director & President","n/a","2017","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director","H.C. Ragan","Director","n/a","2017","Retired","n/a"
+"Magnolia Bankshares,"Inc."","Director","M. Clifton Harrell,"Jr."","Director","n/a","2017","Retired","n/a"
+"Magnolia Bankshares,"Inc."","Director","William J. Carroll","Medical Doctor","n/a","2017","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director","Callen A. Carroll","Attorney","n/a","2017","Attorney","n/a"
+```

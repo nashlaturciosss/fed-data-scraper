@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2016","Paul Ray Estate","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2016","Max Ray","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2016","Delmo Payne","Common Stock","131494","16.44%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2016","Gerald Terrell","Common Stock","131499","16.44%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Director","Charles Babb","n/a","n/a","2016","Holding Company","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Hulsey Logging Owner","n/a","2016","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Johnny Mack Lawler","Lawler & Cole,"CPA Partner"","Lawler & Cole","2016","Lawler & Cole,"CPA"","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","n/a","2016","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Max Ray","Northwest Shoals Advisor","Northwest Shoals","2016","Retired","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Paul Ray Estate","n/a","n/a","2016","*Deceased","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","n/a","2016","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director and President","Randy Whitehead","Chief Executive Offr","n/a","2016","Peoples Trust Bank CEO","n/a"
+"Hometown Bancshares,"Inc."","Secretary","Rebecca Cummings","Chief Operations Offr","n/a","2016","Peoples Trust Bank Chief Operations Officer","n/a"
+"Hometown Bancshares,"Inc."","n/a","Ronnie Ellis","City President","n/a","2016","Peoples Trust Bank City President","n/a"
+"Hometown Bancshares,"Inc."","n/a","Eric Poe","Senior Loan Officer","n/a","2016","Peoples Trust Bank Senior Loan Officer","n/a"
+"Hometown Bancshares,"Inc."","n/a","George R Hibbett Jr","City President","n/a","2016","Peoples Trust Bank City President","n/a"
+```

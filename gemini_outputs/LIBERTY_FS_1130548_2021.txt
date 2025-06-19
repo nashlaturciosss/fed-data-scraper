@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2021","Liberty Bank & Trust ESOP","Common Stock","30035","18.21%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2021","Francis Family Investments,"LLC"","Common Stock","24505","14.86%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2021","Norman C. Francis","Common Stock","n/a","n/a","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2021","Alden McDonald,"Jr."","Common Stock","21669","13.14%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2021","Carolyn C. Dorion","Common Stock","15823","9.59%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2021","Dorion Family Trust","Common Stock","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank & Trust","n/a","Alden J. McDonald,"Jr."","President/CEO Director","6600 Plaza Square,"LLC"","2021","President of Banking Institution","283438"
+"Liberty Bank & Trust","n/a","Alden J. McDonald,"Jr."","President/CEO Director","Chart L.L.C.","2021","President of Banking Institution","283438"
+"Liberty Bank & Trust","n/a","Alden J. McDonald,"Jr."","President/CEO Director","2714 Canal,"LLC"","2021","President of Banking Institution","283438"
+"Liberty Bank & Trust","n/a","Alden J. McDonald,"Jr."","President/CEO Director","ROChart,"LLC"","2021","President of Banking Institution","283438"
+"Liberty Bank & Trust","Chairman & Director","Norman C. Francis","Chairman & Director","n/a","2021","Retired","283438"
+"Liberty Bank & Trust","Director","George Dimitri","Director","n/a","2021","Retired","283438"
+"Liberty Bank & Trust","Director","Sybil H. Morial","Director","n/a","2021","Retired University Administrator","283438"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","Director","Burns Management Group","2021","Owner,"Courier Company"","283438"
+"Liberty Bank & Trust","Director","Cecil Blache","Director","n/a","2021","Attorney","283438"
+"Liberty Bank & Trust","Director","James Smith","Director","n/a","2021","Retired/Consultant","283438"
+"Liberty Bank & Trust","Director","Todd McDonald","Director","TM Management Group","2021","Senior Vice President of Banking Institution","283438"
+"Liberty Bank & Trust","Director","Todd McDonald","Director","Go To Interview","2021","Senior Vice President of Banking Institution","283438"
+"Liberty Bank & Trust","Director","Kim Boyle","Director","n/a","2021","Attorney","283438"
+"Liberty Bank & Trust","Director","David Francis","Director","n/a","2021","Media Executive","283438"
+```

@@ -1,0 +1,21 @@
+"Here are the two CSV tables extracted from the document","following your strict instructions:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heart of Georgia Bancshares,"Inc."","Dublin,"GA"","2014","Thigpen,"Jr.","Robert E",","n/a","60167","24.73%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Mt. Vernon,"GA"","2014","Thigpen,"Donald M."","n/a","58805","24.17%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Mount Vernon,"GA"","2014","Mount Vernon Bank KSOP Plan#D71 Executer/Trustee - Gina Davis,"D Alan Thigpen and Ronnie Green"","n/a","24651","10.13%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Glenwood,"GA"","2014","Joiner Jr.,"G. M."","n/a","19410","7.98%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Mt. Vernon,"GA"","2014","Roller,"John"","n/a","17043","7.01%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Vidalia,"GA"","2014","Sumner,"Vernon"","n/a","13277","5.46%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heart of Georgia Bancshares,"Inc."","President & CEO,"Director"","Donald M. Thigpen","n/a","n/a","2014","see title and position with subsidiary","n/a"
+"Heart of Georgia Bancshares,"Inc."","President & CEO,"Director"","Donald M. Thigpen","n/a","Mount Vernon Bank","2014","see title and position with subsidiary","n/a"
+"Heart of Georgia Bancshares,"Inc."","Chairman,"Director"","Robert E. Thigpen,"Jr."","Owner & President","Thigpen,"Jones","Seaton & Co.","PC"","2014","Certified Public Accountant - (Thigpen,"Jones","Seaton & Co.","PC)"","n/a"
+"Heart of Georgia Bancshares,"Inc."","Director","Ronnie Green","n/a","Mount Vernon Bank","2014","see title and position with subsidiary","n/a"
+"Heart of Georgia Bancshares,"Inc."","Secretary","Gina Davis","n/a","Mount Vernon Bank","2014","see title and position with subsidiary","n/a"
+"Heart of Georgia Bancshares,"Inc."","n/a","Mount Vernon Bank 401 KSOP Plan D71 Executor/Trustees- Gina Davis,"D. Alan Thigpen & Ronnie Green"","n/a","n/a","2014","None","n/a"
+```

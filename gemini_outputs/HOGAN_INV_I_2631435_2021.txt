@@ -1,0 +1,26 @@
+Here are the tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2021","William G. McLees,"Jr."","Common Stock","2366","23.66%","n/a"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2021","Rubert H. McLees","Common Stock","2366","23.66%","n/a"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2021","Beth M. Vaughn","Common Stock","5268","52.68%","n/a"
+"Laurens Bancshares,"Inc."","Forsyth,"GA"","2021","Hogan Investments,"LP"","Common Stock","48460","87.56%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hogan Investments I,"Inc."","Officer/Director","William G. McLees,"Jr."","Director","Hogan Timberlands I,"Inc."","2021","Architect","n/a"
+"Hogan Investments I,"Inc."","Officer/Director","William G. McLees,"Jr."","Partner","Hogan Timberlands,"LP"","2021","Architect","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","President & Chairwoman","Hogan Timberlands I,"Inc."","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","Partner","Hogan Timberlands,"LP"","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","Secretary","Vaughn Land & Cattle Co.","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","CFO & Secretary","Country Oaks Farm & Pet Supply,"Inc."","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","CFO & Secretary","Country Oaks Farm & Home Supply,"Inc."","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","CFO & Secretary","41 Feed Mill,"Inc."","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","CFO & Secretary","341 Feed Mill,"Inc."","2021","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","Director","Rubert H. McLees","Director","Hogan Timberlands I,"Inc."","2021","Principal,"Hogan Holdings and Services LLC"","n/a"
+"Hogan Investments I,"Inc."","Director","Rubert H. McLees","Partner","Hogan Timberlands,"LP"","2021","Principal,"Hogan Holdings and Services LLC"","n/a"
+"Hogan Investments I,"Inc."","Director","Benjamin A. Vaughn","Director","Laurens Bancshares,"Inc."","2021","Attorney","n/a"
+"Hogan Investments I,"Inc."","Director","Benjamin A. Vaughn","Director","Hogan Investments I,"Inc."","2021","Attorney","n/a"
+```

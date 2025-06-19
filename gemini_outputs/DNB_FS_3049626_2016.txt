@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Douglas National Bank","Douglas,"Ga"","2016","Margie Amin","n/a","52000","6.3660%","3049626"
+"Douglas National Bank","Douglas,"Ga"","2016","Dr. Gregory G. Goggans","n/a","58333","7.1414%","3049626"
+"Douglas National Bank","West Green,"Ga"","2016","Kerry Van Moore","n/a","80333","9.8347%","3049626"
+"Douglas National Bank","Douglas,"Ga"","2016","Elton D. Brooks,"Jr."","n/a","100000","12.2424%","3049626"
+"Douglas National Bank","Douglas,"Ga"","2016","Luke E. Morgan","n/a","83000","10.1612%","3049626"
+"Douglas National Bank","Douglas,"Ga"","2016","Stuart S. Smith","n/a","68500","8.3860%","3049626"
+"Douglas National Bank","Douglas,"Ga"","2016","Diann V. Lott","n/a","45000","5.5091%","3049626"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Douglas National Bank","EVP","Luke E. Morgan","n/a","n/a","2016","n/a","3049626"
+"Douglas National Bank","Director & President","Stuart S. Smith","n/a","n/a","2016","n/a","3049626"
+"Douglas National Bank","EVP & CFO","Tonia Guthrie","n/a","n/a","2016","n/a","3049626"
+"Douglas National Bank","EVP","Michael Lott","n/a","n/a","2016","n/a","3049626"
+"Douglas National Bank","Director","Dr. Gregory G. Goggans","n/a","Gregory Goggans,"DMD","MS"","2016","Orthodontist","3049626"
+"Douglas National Bank","Director","Kerry Van Moore","n/a","n/a","2016","Farmer","3049626"
+"Douglas National Bank","Director & Chairman","Elton D. Brooks,"Jr."","n/a","Brooks Aviation,"Inc"","2016","Pres/CEO","3049626"
+"Douglas National Bank","Director & Chairman","Elton D. Brooks,"Jr."","n/a","Advanced Industrial Components,"Inc"","2016","Sec/Treas","3049626"
+"Douglas National Bank","Director & Chairman","Elton D. Brooks,"Jr."","n/a","Douglas Helicopter,"LLC"","2016","Member","3049626"
+"Douglas National Bank","Director & Chairman","Elton D. Brooks,"Jr."","n/a","Tradewind Turbine,"LLC"","2016","Member","3049626"
+"Douglas National Bank","Director","Nathaniel A. Carter,"Jr."","n/a","Specialized Structures,"Inc."","2016","CEO","3049626"
+"Douglas National Bank","Director","Nathaniel A. Carter,"Jr."","n/a","Ware Forest,"Inc"","2016","CEO","3049626"
+"Douglas National Bank","Director","David Lott","n/a","Superior Financial Management Services,"LLC"","2016","n/a","3049626"
+```

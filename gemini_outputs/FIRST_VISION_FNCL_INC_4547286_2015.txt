@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Vision Financial,"Inc."","Tullahoma,"TN"","2015","OC (Ordinary Common Stock)","ordinary common stock","1333148","n/a","4547286"
+"First Vision Financial,"Inc."","Tullahoma,"TN"","2015","SD Class Common Stock","class common stock","249670","n/a","4547286"
+"First Vision Financial,"Inc."","Tullahoma,"TN"","2015","PD Class Common Stock","class common stock","175647","n/a","4547286"
+"First Vision Financial,"Inc."","Tullahoma,"TN"","2015","Treasury Stock","treasury stock","9166","n/a","4547286"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Vision Financial,"Inc."","n/a","Clark,"Coyle O"","Partner","Clark,"Knies","& Crenshaw","PLLC"","2015","Certified Public Accountant","n/a"
+"First Vision Financial,"Inc."","n/a","Daniel,"William Dennis"","Owner","Delta Properties","2015","Family Practitioner","n/a"
+"First Vision Financial,"Inc."","Secretary/CCO/VP","Eckert,"Roy Neal"","n/a","n/a","2015","Banker","n/a"
+"First Vision Financial,"Inc."","n/a","Hatchett,"Kenneth Nelson"","Owner","Hatchett Insurance Agency","2015","Owner-Insurance Agency","n/a"
+"First Vision Financial,"Inc."","n/a","Hatchett,"Kenneth Nelson"","Partner","NLKM Heritage LLP","2015","Owner-Insurance Agency","n/a"
+"First Vision Financial,"Inc."","n/a","Hatchett,"Kenneth Nelson"","Partner","Eagle Bluff Estates","2015","Owner-Insurance Agency","n/a"
+"First Vision Financial,"Inc."","n/a","Keele,"Jeffrey W."","Partner","All Creatures Veterinary","2015","Veterinarian","n/a"
+"First Vision Financial,"Inc."","Chief Financial Officer","Ledford,"Denise"","n/a","n/a","2015","Accountant","n/a"
+"First Vision Financial,"Inc."","n/a","Niederhauser,"Mike"","Partner","C&N Rental","2015","Real Estate Investor","n/a"
+"First Vision Financial,"Inc."","Chairman","Penland,"James J."","Partner","Penland-Vaughn Properties","2015","Banker","n/a"
+"First Vision Financial,"Inc."","n/a","Roberts,"John R."","President/Owner","Roberts Automotive Group","2015","Auto Dealer","n/a"
+"First Vision Financial,"Inc."","n/a","Roberts,"John R."","Partner","Celebration Realty Group","2015","Auto Dealer","n/a"
+"First Vision Financial,"Inc."","n/a","Roberts,"John R."","Partner","Exit Realty","2015","Auto Dealer","n/a"
+"First Vision Financial,"Inc."","n/a","Roberts,"John R."","Partner","RWG Realty","2015","Auto Dealer","n/a"
+"First Vision Financial,"Inc."","n/a","Rose,"Tina M."","Owner","T. Michelle's Clothiers","2015","Retail Manager","n/a"
+"First Vision Financial,"Inc."","President and CEO","Rowland,"Robert M."","n/a","n/a","2015","Banker","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Owner","Robertson-Vaughn Construction","2015","Construction Manager","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Partner","Washington Park Development","2015","Construction Manager","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Partner","Martin-Vaughn","2015","Construction Manager","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Partner","WPD/Collier-Norris","2015","Construction Manager","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Partner","Penland-Vaughn Properties","2015","Construction Manager","n/a"
+"First Vision Financial,"Inc."","n/a","Vaughn,"Gregory A."","Partner","Round Cove Partners","2015","Construction Manager","n/a"
+```

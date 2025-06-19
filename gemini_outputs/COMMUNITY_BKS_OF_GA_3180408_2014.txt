@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia/USA"","2014","Donald T. Keeter","Common Stock","436000","13.91%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia/USA"","2014","Donald T. Keeter","Warrants on Common Stock","250000","7.39%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia/USA"","2014","Robert W. James","Common Stock","358785","11.45%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia/USA"","2014","Robert W. James","Warrants on Common Stock","150000","4.57%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia/USA"","2014","Mickey Dunn","Common Stock","375884","11.99%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia/USA"","2014","Mickey Dunn","Warrants on Common Stock","250000","7.39%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia/USA"","2014","B. Scott Dobson","Common Stock","206778","6.60%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia/USA"","2014","B. Scott Dobson","Warrants on Common Stock","75000","2.34%","n/a"
+"Community Banks of Georgia,"Inc."","Acworth,"Georgia/USA"","2014","James E. Freeman","Common Stock","166667","5.32%","n/a"
+"Community Banks of Georgia,"Inc."","Acworth,"Georgia/USA"","2014","James E. Freeman","Options on Common Stock","50000","1.57%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director & President/CEO","John T. Trammell","Director & President/CEO","n/a","2014","n/a","n/a"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","Director","n/a","2014","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","Director","n/a","2014","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","President","Major League,"Inc."","2014","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Managing Partner","Keeter Farms,"LP"","2014","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director","B. Scott Dobson","President","Dobson Properties Inc.","2014","Real Estate Investor","n/a"
+"Community Banks of Georgia,"Inc."","Director","B. Scott Dobson","Director,"Treasurer"","Systems Atlanta Inc.","2014","Real Estate Investor","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","President","Denson Insurance Agency Inc.","2014","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Sole Proprietor","Landrum and Landrum","2014","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Member","SHL Ventures,"LLC"","2014","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Member","Landrum and Friduss,"LLC"","2014","Attorney","n/a"
+```

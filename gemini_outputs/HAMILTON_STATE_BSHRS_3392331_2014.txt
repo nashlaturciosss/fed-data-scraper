@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","Atlanta,"GA"","2014","BlackRock Fund Advisors","n/a","108477","n/a","n/a"
+"Hamilton State Bancshares,"Inc."","Atlanta,"GA"","2014","The Vanguard Group,"Inc."","n/a","105002","n/a","n/a"
+"Hamilton State Bancshares,"Inc."","Atlanta,"GA"","2014","Dimensional Fund Advisors LP","n/a","76544","n/a","n/a"
+"Hamilton State Bancshares,"Inc."","Hoschton,"GA"","2014","J. P. (Jim)  Grier,"Jr."","common stock","61050","3.55%","n/a"
+"Hamilton State Bancshares,"Inc."","Hoschton,"GA"","2014","Robert C. Oliver","common stock","42109","2.45%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","Chief Executive Officer and Director","Robert C. Oliver","n/a","n/a","2014","n/a","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Robert J. Smola","n/a","n/a","2014","Retired","3292331"
+"Hamilton State Bancshares,"Inc."","Director","J. P. (Jim) Grier,"Jr."","President","Grier Foods,"Inc."","2014","President of Grier Foods,"Inc."","3292331"
+"Hamilton State Bancshares,"Inc."","Director","C. Randall Fox","n/a","Fox-Kinsey Consulting Engineers","2014","President","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Douglas A. Skelton","n/a","Skelton Farms","2014","Owner","3292331"
+"Hamilton State Bancshares,"Inc."","Director","W. Steve Butler","n/a","n/a","2014","Owner of W. Steve Butler,"P.C."","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Timothy P. Peeples","n/a","Peeples Insurance Agency","2014","Insurance","3292331"
+"Hamilton State Bancshares,"Inc."","Director","David James Kirk","n/a","n/a","2014","Attorney","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Jeffrey D. Moon","n/a","Moon Farms,"Inc."","2014","Farming","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Michael E. Banks","n/a","n/a","2014","President/CEO of Banks Septic Tanks","3292331"
+"Hamilton State Bancshares,"Inc."","Director","David A. Strickland","n/a","David A Strickland Attorney At Law,"LLC"","2014","Attorney","3292331"
+"Hamilton State Bancshares,"Inc."","Director","Patrick F. Kelly","n/a","State Farm Insurance Company","2014","Insurance","3292331"
+```

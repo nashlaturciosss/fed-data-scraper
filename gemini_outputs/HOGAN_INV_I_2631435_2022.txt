@@ -1,0 +1,24 @@
+"Here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hogan Investments I,"Inc."","Norcorss,"GA"","2022","William G. McLees,"Jr."","Common Stock","2366","23.66%","n/a"
+"Hogan Investments I,"Inc."","Buford,"GA"","2022","Rubert H. McLees","Common Stock","2366","23.66%","n/a"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2022","Beth M. Vaughn","Common Stock","5268","52.68%","n/a"
+"Laurens Bancshares,"Inc."","Forsyth,"GA"","2022","Hogan Investments,"LP"","Common Stock","48460","87.56%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Laurens Bancshares,"Inc."","Director","Rubert H. McLees","n/a","Hogan Timberlands I,"Inc."","2022","Principal,"Hogan Holdings and Services LLC"","n/a"
+"Laurens Bancshares,"Inc."","Director","Rubert H. McLees","n/a","Hogan Timberlands,"LP"","2022","Principal,"Hogan Holdings and Services LLC"","n/a"
+"Laurens Bancshares,"Inc."","Director","Rubert H. McLees","n/a","Hogan Investments I,"Inc."","2022","Principal,"Hogan Holdings and Services LLC"","n/a"
+"Laurens Bancshares,"Inc."","Director,"Assistant Secretary","Assistant Treasurer"","Samuel W. Beall","Director,"President","CEO"","Beall Farm & Timber","2022","Bank President,"CEO & Director - (Bank of Dudley)"","n/a"
+"Laurens Bancshares,"Inc."","Director,"Assistant Secretary","Assistant Treasurer"","Samuel W. Beall","Director,"President","CEO"","HuKaBe,"LLC"","2022","Bank President,"CEO & Director - (Bank of Dudley)"","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Hogan Timberlands I,"Inc."","2022","Attorney","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Hogan Investments I,"Inc."","2022","Attorney","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Vaughn Sundeen,"P.C."","2022","Attorney","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Vaughn Brothers,"LLC"","2022","Attorney","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Towaliga Investments,"LLC"","2022","Attorney","n/a"
+"Laurens Bancshares,"Inc."","Director","Benjamin A. Vaughn","n/a","Vaughn Land & Cattle Co. Inc. I","2022","Attorney","n/a"
+```

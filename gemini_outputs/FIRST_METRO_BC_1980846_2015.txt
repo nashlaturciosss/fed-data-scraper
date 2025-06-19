@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Metro Bancorp","Tuscumbia,"AL"","2015","Noah Edward Underwood","Common stock","34218","7.64%","1980846"
+"First Metro Bancorp","Muscle Shoals,"AL"","2015","Rodney Howard","Common stock","27617","6.16%","1980846"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Metro Bancorp","Director & President","Rodney Howard","Director & President","JoBabe Properties","2015","Banker","1980846"
+"First Metro Bancorp","Director & President","Rodney Howard","Director & President","Select Properties","2015","Banker","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","Second Creek,"LLC"","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","Martin-Aycock Properties LLC","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","Martin-Aycock-McCoy LLC","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","McCoy,"Aycock","LLC"","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","King Street Properties","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","Riverbluff Properties LLC","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","BAM,"LLC"","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","Harold Gene Aycock","n/a","South Bridge,"LLC"","2015","Pharmacist & Real Estate Developer","1980846"
+"First Metro Bancorp","Director","James D. Hughston","n/a","Black & Hughston PC","2015","Attorney","1980846"
+"First Metro Bancorp","Director","James D. Hughston","n/a","North AL Abstract & Guaranty Co.,"Inc."","2015","Attorney","1980846"
+"First Metro Bancorp","Director","James D. Hughston","n/a","Triple J Investments,"LLC"","2015","Attorney","1980846"
+"First Metro Bancorp","Director","James D. Hughston","n/a","JH Properties,"LLC"","2015","Attorney","1980846"
+"First Metro Bancorp","Director","Noah Edward Underwood","n/a","See 'Schedule 1' attached","2015","Agricultural Equipment Dealer","1980846"
+"First Metro Bancorp","Director","Glenda Bowling","n/a","n/a","2015","Retired","1980846"
+"First Metro Bancorp","Director","Donald L. Lewis","n/a","n/a","2015","Retired","1980846"
+"First Metro Bancorp","Director","Gregg Pounders","n/a","See 'Schedule 2' attached","2015","Commercial R/E Broker & Developer","1980846"
+"First Metro Bancorp","Vice President & Director","Greg Bowling","Exec. VP & Director","n/a","2015","Banker","1980846"
+"First Metro Bancorp","Director","Bobby Irons","n/a","n/a","2015","Retired","1980846"
+"First Metro Bancorp","Treasurer","John Conn","ExecVP&CFO","n/a","2015","CFO","1980846"
+"First Metro Bancorp","Secretary","Donna Patrick Keenum","Exec. Sec.","n/a","2015","Executive Secretary","1980846"
+```

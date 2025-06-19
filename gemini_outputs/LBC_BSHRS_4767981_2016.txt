@@ -1,0 +1,75 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LBC Bancshares,"Inc."","Peachtree City,"GA"","2016","John Hardy Jones","Common Stock","141275","10.5%","4767981"
+"LBC Bancshares,"Inc."","Point Clear,"AL"","2016","Jared T. Jones","Common Stock","99477","7.40%","4767981"
+"LBC Bancshares,"Inc."","LaGrange,"GA"","2016","C. Wesley Smith,"Jr."","Common Shares","129288","9.60%","4767981"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Nancy K. Adam","n/a","n/a","2016","Retired Banker & Bank Regulator","4767981"
+"LBC Bancshares,"Inc."","Calumet Bank","Nancy K. Adam","n/a","n/a","2016","Retired Banker & Bank Regulator","4767981"
+"LBC Bancshares,"Inc."","President & CEO and Director of LBC Bancshares","Leonard H. Bateman,"Jr."","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","President & CEO and Director of Calumet Bank","Leonard H. Bateman,"Jr."","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","Retired CFO of LBC Bancshares,"Inc."","Ann B. Bledsoe","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","Retired CFO of Calumet Bank","Ann B. Bledsoe","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","Secretary of LBC Bancshares,"Inc."","Holly T. Britt","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","SVP & CCO of Calumet Bank","Holly T. Britt","n/a","n/a","2016","Banker","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Dr. George Childress","n/a","George W. Childress,"DMD","PC"","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Dr. George Childress","n/a","George W. Childress,"DMD","PC"","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Dr. Robert Copeland","n/a","n/a","2016","Physician","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Dr. Robert Copeland","n/a","n/a","2016","Physician","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Susan Ferguson","n/a","n/a","2016","Director of Development of West
+"Georgia Health Foundation"","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Susan Ferguson","n/a","n/a","2016","Director of Development of West
+"Georgia Health Foundation"","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","J. T. Jones & Associates Realty Inc.","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","J. T. Jones Development Co.","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","J. T. Jones Co.","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","Jones 118 Gordon,"LLC"","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","Jones 1570 Lukken,"LLC"","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","Driftwood Inn,"LLC"","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","Jones 316 North Lewis,"LLC"","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board of LBC Bancshares,"Inc."","Jared T. Jones","n/a","Jones West Haralson,"LLC"","2016","Realtor","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Dr. John Jackson,"Jr."","n/a","John M. Jackson,"Jr.","DMD","PC"","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Dr. John Jackson,"Jr."","n/a","John M. Jackson,"Jr.","DMD","PC"","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Dr. John Jackson,"Jr."","n/a","Jackson and Jackson Partnership","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Dr. John Jackson,"Jr."","n/a","Jackson and Jackson Partnership","2016","Dentist","4767981"
+"LBC Bancshares,"Inc."","Principal shareholder of LBC Bancshares","John Hardy Jones","n/a","n/a","2016","Real Estate Investor","4767981"
+"LBC Bancshares,"Inc."","Director Emeritus of
+"Calumet Bank"","John Hardy Jones","n/a","n/a","2016","Real Estate Investor","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","Mack Reynolds","n/a","n/a","2016","Attorney","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","Mack Reynolds","n/a","n/a","2016","Attorney","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Southern Forests,"Inc."","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Mack Reynolds Realty,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","ALA Holdings,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Mack's 25% Village Center,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","First Tuesday,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Tin Bridge Properties,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","The Pinnacle at Creek Ridge,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Harden Drive,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Madison,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Market Square,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Calumet M,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Jubilee,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR 240 & 275 Corporate
+"Center Drive 50","LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Coldwater 30,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Rogers Mill,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","MR Seven Hills,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","C. Wesley Smith,"Jr."","n/a","Mr Woodstock 92,"LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","C. Wesley Smith,"Jr."","President & Treasurer of
+Hutchinson Traylor Insurance
+"Agency"","Hutchinson Traylor Insurance Agency","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","C. Wesley Smith,"Jr."","Partner","Another
+"Road","LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","C. Wesley Smith,"Jr."","Partner","Lorie
+"Darling","LLC"","2016","insurance","4767981"
+"LBC Bancshares,"Inc."","Director of LBC Bancshares","James Williams","n/a","n/a","2016","Retired Builder","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet Bank","James Williams","n/a","n/a","2016","Retired Builder","4767981"
+"LBC Bancshares,"Inc."","Director of LBC
+"Bancshares"","John Holt","n/a","n/a","2016","Financial Advisor","4767981"
+"LBC Bancshares,"Inc."","Director of Calumet
+"Bank"","John Holt","n/a","n/a","2016","Financial Advisor","4767981"
+```

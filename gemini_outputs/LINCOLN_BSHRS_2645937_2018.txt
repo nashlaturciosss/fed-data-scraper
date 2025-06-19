@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2018","Nina P Albea,"Trustee"","Common Stock","1090","10.54%","n/a"
+"LINCOLN BANCSHARES INC","Columbia,"SC"","2018","Marilyn L Davis","Common Stock","524","5.07%","n/a"
+"LINCOLN BANCSHARES INC","Abbeville,"SC"","2018","Nancy L Lovelady","Stock","529","5.11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LINCOLN BANCSHARES INC","Director","Thomas Brittan Hammond","Toombs District Superior Court Judge","n/a","2018","Toombs District Superior Court Judge","n/a"
+"LINCOLN BANCSHARES INC","Director","Nina P Albea Trustee of the Nina P Albea Living Trust","None","n/a","2018","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","John S Spratlin III","Partner","J.W. Spratlin & Sons","2018","Partner-Construction Company","n/a"
+"LINCOLN BANCSHARES INC","Director","John S Spratlin III","None","J.W. Spratlin & Sons","2018","Partner-Construction Company","n/a"
+"LINCOLN BANCSHARES INC","Chairman","Edward S Turner","None","n/a","2018","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","James Bruce Turner","None","n/a","2018","President/CEO","n/a"
+"LINCOLN BANCSHARES INC","President/CEO","James Bruce Turner","None","n/a","2018","President/CEO","n/a"
+"LINCOLN BANCSHARES INC","Director","Alice Marie Kavouklis","None","n/a","2018","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Nancy Lovelady","None","n/a","2018","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Marilyn L Davis","None","n/a","2018","Retired","n/a"
+```

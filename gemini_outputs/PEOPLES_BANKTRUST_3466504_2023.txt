@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bank Trust,"Inc."","Buford,"GA"","2023","Larry Cheek","Common Stock","230357","11.6325%","n/a"
+"Peoples Bank Trust,"Inc."","Buford,"GA"","2023","Gary D. Brown","Common Stock","115501","5.3439%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Director/President/ CEO,"PB&T"","Douglas Nichols","n/a","n/a","2023","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","EVP/CLO,"PB&T"","Ted Williams","n/a","n/a","2023","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/ EVP/COO,"PB&T"","Jan Wells","n/a","n/a","2023","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","EVP/CFO,"PB&T"","Adam Allison","n/a","n/a","2023","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"PB&T"","Clayton Bartlett","n/a","n/a","2023","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Phillip Beard","Board Mem","City of Buford","2023","City of Buford","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Robert Bowman,"Jr"","Owner","Premier Homebuilders","2023","Real Estate Investor","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Robert Bowman","n/a","n/a","2023","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Dale Brown","Owner","Gravel Springs Properties","2023","Real Estate Investor","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Larry Cheek","President","Dover & Cheek","2023","Wholesale Elec/Plumb","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Wayne Hill","n/a","n/a","2023","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Garrett Reed","n/a","n/a","2023","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"PB&T"","Garland J. Roberts","n/a","n/a","2023","Retired","n/a"
+```

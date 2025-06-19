@@ -1,0 +1,28 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all the specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBC Bancorp","Inc.","Orlando","Florida","2014","n/a","n/a","n/a","n/a"
+"FBC Bancorp","Inc.","Orlando","Florida","2014","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBC Bancorp","Inc","Director","R. Van Bogan","Chairman","Florida Bank of Commerce","2014","Banker","3396375"
+"FBC Bancorp","Inc","n/a","Michael Coleman","Managing President","Cool-Lake","LLC","2014","Investor","3396375"
+"FBC Bancorp","Inc","n/a","Bjornar Hermansen","n/a","Hermansen Group Invesdtments","LLC","2014","Investor","3396375"
+"FBC Bancorp","Inc","Director","President & CEO","Dana Kilborne","President & CEO","Florida Bank of Commerce","2014","Banker","3396375"
+"FBC Bancorp","Inc","n/a","Malcolm Kirschenbaum","n/a","EKS Inc.","2014","Investor","3396375"
+"FBC Bancorp","Inc","Director","Frederick W. Leonhardt","Attorney","Gray Robinson P.A.","G.K. Aviation","Inc.","2014","Attorney","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","Nunziata Holdings","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","NVB Corp","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","RJ Investing","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","Vanz LLC","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","Appraisal Marketing","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","Sal A. (Joe) Nunziata","CEO","FBC Mortgage","Inlet Marketing","LLRE","2014","Mortgage Banker","3396375"
+"FBC Bancorp","Inc","Director","William S. Orosz","n/a","Hanover Capital Partners","LLC","2014","Residential Construction","3396375"
+"FBC Bancorp","Inc","Director","William S. Orosz","n/a","Cambridge Homes","2014","Residential Construction","3396375"
+"FBC Bancorp","Inc","Director","William S. Orosz","n/a","Cambridge Development","2014","Residential Construction","3396375"
+"FBC Bancorp","Inc","n/a","Philip Tasker","n/a","WJO Family Investments","LLLP","2014","Banker","3396375"
+"FBC Bancorp","Inc","Director","Ernest M. Wilding","President","FAS Windows & Doors","2014","Anderson Windows & Doors franchisee","3396375"
+```

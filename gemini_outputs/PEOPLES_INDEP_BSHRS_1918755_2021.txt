@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2021","Betty B Buchanan","Shares of Common Stock","19486","10.51%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2021","Phillip Amberson","Shares of Common Stock","24747","13.35%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2021","Patty Handley","Shares of Common Stock","10000","5.39%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2021","Tommy Handley","Shares of Common Stock","11496","6.20%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2021","Royce G. Ogle","Shares of Common Stock","20096","10.84%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2021","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2021","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2021","Retail","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","n/a","Ameriprise Financial Service","2021","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President & Chairman of the Board","Royce G. Ogle","n/a","None","2021","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","n/a","None","2021","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Betty B. Buchanan","n/a","None","2021","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Patty Handley","Secretary","None","2021","Construction","n/a"
+```

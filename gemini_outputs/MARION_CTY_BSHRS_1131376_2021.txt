@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2021","B.W. Rollins Children's Trust","Common Stock","35869","41.56%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2021","Rebecca R. Creel*","Common Stock","11789","13.72%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2021","Rebecca R. Creel*","Common Stock","50",".06%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2021","Patricia R. Duke*","Common Stock","12040","13.92%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2021","Patricia R. Duke*","Common Stock","55",".06%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2021","Jennifer R. Thompson*","Common Stock","12040","13.92%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2021","Jennifer R. Thompson*","Common Stock","55",".06%","n/a"
+"Marion County Bancshares,"Inc."","Newnan,"GA"","2021","Jonathan D. Wilson","Common Stock","5645","6.54%","n/a"
+"Marion County Bancshares,"Inc."","Manhattan Beach,"CA"","2021","Rollins Revocable Living Trust","Common Stock","7572","8.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion County Bancshares,"Inc."","Director","Patricia R. Duke","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Chairperson of the Board","Patricia R. Duke","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Brent Thompson","n/a","n/a","2021","President & CEO","n/a"
+"Marion County Bancshares,"Inc."","President & CEO","Brent Thompson","n/a","n/a","2021","President & CEO","n/a"
+"Marion County Bancshares,"Inc."","Director","Jennifer R. Thompson*","n/a","n/a","2021","Retired Teacher","n/a"
+"Marion County Bancshares,"Inc."","Director","Rebecca R. Creel*","n/a","n/a","2021","Retired Dietician","n/a"
+"Marion County Bancshares,"Inc."","Director","Dwayne R. Lewis","n/a","River Birch Homes","2021","Retired Manufacturing Supervisor","n/a"
+"Marion County Bancshares,"Inc."","Director","Chad Harris","n/a","FNBWMI","2021","Investment Advisor","n/a"
+"Marion County Bancshares,"Inc."","CFO","Scott D. Canterbury","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Head of Lending","Mary E. Miller","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Robert F. Page","Mayor","City of Hamilton","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP Commercial Loan Officer","Dale McCreless","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP Loan Officer","Jill Cox","n/a","n/a","2021","n/a","n/a"
+"Marion County Bancshares,"Inc."","Cashier","Sheila Peoples","n/a","n/a","2021","n/a","n/a"
+```

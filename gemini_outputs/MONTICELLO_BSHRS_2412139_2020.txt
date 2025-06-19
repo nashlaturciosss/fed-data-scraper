@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MONTICELLO BANCSHARES,"INC"","Monticello,"GA"","2020","Don B. Kelly","n/a","2723","11.06%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Monticello,"GA"","2020","Louise N. Kelly","n/a","365","1.48%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Bogart,"GA"","2020","D. Bruce Kelly,"Jr."","n/a","795","3.23%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Bogart,"GA"","2020","Melissa A. Kelly","n/a","165","0.67%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Thomasville,"GA"","2020","Elizabeth Ausley Wade","n/a","2320","9.42%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Thomasville,"GA"","2020","Elizabeth A. Wade","n/a","400","1.62%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Macon,"GA"","2020","E. Clyde Kelly,"III"","n/a","2647","10.75%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Cumming,"Ga"","2020","Keryn K. Arnett","n/a","825","3.35%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Smyrna,"GA"","2020","Jennifer Kelly","n/a","825","3.35%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Monticello,"Ga"","2020","W. Dan Roberts","n/a","1340","5.44%","n/a"
+"MONTICELLO BANCSHARES,"INC"","Decatur,"GA"","2020","Louis W. Benton,"Sr. Trust"","n/a","3940","13.79%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MONTICELLO BANCSHARES,"INC"","President Director","Steve Jordan","Ex. VP Director","n/a","2020","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","Chairman Secretary Director","Don Kelly","Chairman Director","n/a","2020","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Joel M. Gaston","Director","n/a","2020","Retired","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","S. Walker Jordan,"Jr."","President Director","n/a","2020","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","E.O. Jordan","Director","n/a","2020","Surveyor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","D. Bruce Kelly,"Jr."","Director","n/a","2020","Investment Manager","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Venture Medical Associates","2020","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Crocus Properties LLC","2020","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Team Bullpen Academy","2020","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","W. Dan Roberts","Director","n/a","2020","Attorney","n/a"
+"MONTICELLO BANCSHARES,"INC"","Principal Shareholder","Dr. E. Clyde Kelly,"III"","n/a","n/a","2020","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Principal Shareholder","Elizabeth Ausley Wade","n/a","n/a","2020","N/A","n/a"
+```

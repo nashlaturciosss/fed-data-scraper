@@ -1,0 +1,37 @@
+Here are the tables extracted from the document as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FineMark Holdings,"Inc."","Fort Myers,"FL"","2014","John Blais,"Jr."","Common Stock","463460","6.92%","3547159"
+"FineMark Holdings,"Inc."","Fort Myers,"FL"","2014","John Blais,"Jr."","Options on Common Stock","82000","1.22%","3547159"
+"FineMark Holdings,"Inc."","Fort Myers,"FL"","2014","David Lucas","Options to purchase common stock Fort Myers","656471","9.80%","3547159"
+"FineMark Holdings,"Inc."","Fort Myers,"FL"","2014","David Lucas","Options to purchase common stock","0","0.00%","3547159"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FineMark Holdings,"Inc."","Director","Richard Beightol","Director","n/a","2014","Consultant for Trustmark Life Insurance Company","3547131"
+"FineMark Holdings,"Inc."","Director","Edward Beimfohr","Director","Windels Marx Lane & Mittendorf LLP","2014","Partner of the law firm","3547131"
+"FineMark Holdings,"Inc."","Director","Aurelia Bell","Director","Arrowhead Partners,"Inc."","2014","President Arrowhead Partners,"Inc."","3547131"
+"FineMark Holdings,"Inc."","Director & Vice Chairman","John Blais,"Jr."","n/a","n/a","2014","Owner of Blaisco a holding company that owns ten companies","3547131"
+"FineMark Holdings,"Inc."","Director","Michael Carron,"M.D."","Director","Radiology Regional Center LLC","2014","Interventional Radiologist","3547131"
+"FineMark Holdings,"Inc."","Director","Michael Carron,"M.D."","Director","805 Del Prado Building Partnership","2014","Interventional Radiologist","3547131"
+"FineMark Holdings,"Inc."","Director","Thomas Case","Director","Case Pearlman Holdings,"Inc"","2014","Chairman the Case Companies","3547131"
+"FineMark Holdings,"Inc."","Director & President & CEO","Joseph Catti","n/a","n/a","2014","n/a","3547131"
+"FineMark Holdings,"Inc."","Director & Chief Financial Officer","Brian Eagleston","n/a","ABDE,"LLC"","2014","n/a","3547131"
+"FineMark Holdings,"Inc."","Director & Chief Financial Officer","Brian Eagleston","n/a","GSE,"LLC"","2014","n/a","3547131"
+"FineMark Holdings,"Inc."","Director","Scott Edmonds","n/a","Mainline Realty","2014","Retired President & CEO of Chico's FAS,"Inc."","3547131"
+"FineMark Holdings,"Inc."","Director","Tracey Galloway","n/a","n/a","2014","District Director of Development for Edison College Foundation,"Inc."","3547131"
+"FineMark Holdings,"Inc."","Director","William Horowitz","n/a","Robb & Stucky Ltd.","2014","Attorney and principal of Cummings & Lockwood LLC.","3547131"
+"FineMark Holdings,"Inc."","Director","William Horowitz","n/a","Derby Rd Ltd","2014","Attorney and principal of Cummings & Lockwood LLC.","3547131"
+"FineMark Holdings,"Inc."","Director","William Horowitz","n/a","Lubner Family Ltd","2014","Attorney and principal of Cummings & Lockwood LLC.","3547131"
+"FineMark Holdings,"Inc."","Director","William Horowitz","n/a","Lubner Kallmeyer Ltd","2014","Attorney and principal of Cummings & Lockwood LLC.","3547131"
+"FineMark Holdings,"Inc."","Director","Clive Lubner","n/a","n/a","2014","CEO of Robb & Stucky,"Inc."","3547131"
+"FineMark Holdings,"Inc."","Director & Chairman","David Lucas","n/a","Bonita Bay Group","2014","Chairman of the Board,"the Bonita Bay Group"","3547131"
+"FineMark Holdings,"Inc."","Director","Vito Manone","n/a","Manone Investments,"Inc."","2014","President of Manone Investments","3547131"
+"FineMark Holdings,"Inc."","Director","Vito Manone","n/a","Cibola Vista LLC","2014","President of Manone Investments","3547131"
+"FineMark Holdings,"Inc."","Director","Alan Reynolds","n/a","WilsonMiller,"Inc."","2014","Chairman and CEO of WilsonMiller,"Inc."","3547131"
+"FineMark Holdings,"Inc."","Director","Lee Seidler","n/a","n/a","2014","Retired professor of Accounting at New York University's Graduate School of Business","3547131"
+"FineMark Holdings,"Inc."","Director","William Turner","n/a","n/a","2014","Former CEO & Chairman of PNC Bank,"Dean of the College of Business at Stony Brook University"","3547131"
+"FineMark Holdings,"Inc."","Director","Martin Wasmer","n/a","Wasmer & Schroeder & Co.","2014","CEO Wasmer Schroeder & Co.","3547131"
+```

@@ -1,0 +1,18 @@
+"Here are the two tables extracted from the document","formatted as CSV and labeled as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Financial Corp.","Savannah,"Georgia"","2014","Sylvan M. Byck,"Jr."","Common Stock","165000","6.4%","3031902"
+"FCB Financial Corp.","Savannah,"Georgia"","2014","Benny Curl","Common Stock","159333","6.2%","3031902"
+"FCB Financial Corp.","Savannah,"Georgia"","2014","Bobby Chu","Common Stock","136284","5.4%","3031902"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Financial Corp.","Director","Jack L. Forehand","n/a","President Savannah Professional Maintenance","2014","President Savannah Professional Maintenance","3031902"
+"FCB Financial Corp.","Interim President & CEO","Ken Farrell","n/a","n/a","2014","n/a","3031902"
+"FCB Financial Corp.","Director,"Chairman of the Board"","Stephen S. Green","Director","First Chatham Bank","2014","President Stephen Green Properties,"Inc."","3031902"
+"FCB Financial Corp.","n/a","Walter N. Lewis","Vice President","J.C. Lewis Motor Company","2014","Vice President J.C. Lewis Motor Co.","3031902"
+"FCB Financial Corp.","Chief Operating Officer","William M. Austin","n/a","First Chatham Bank","2014","n/a","3031902"
+"FCB Financial Corp.","Director","Arnold Tenenbaum","n/a","n/a","2014","Retired","3031902"
+```

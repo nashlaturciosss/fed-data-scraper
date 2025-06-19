@@ -1,0 +1,39 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Cullman,"AL"","2018","S. Wayne Fuller","n/a","135900","10.74","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Cullman,"AL"","2018","David Moss,"Sr."","n/a","123050","9.73","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Cullman,"AL"","2018","Reba Miller","n/a","107505","8.50","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Crane Hill,"AL"","2018","Roy L. Graham","n/a","89370","7.06","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Cullman,"AL"","2018","John T. Williamson","n/a","72810","5.75","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Vinemont,"AL"","2018","Beverly White","n/a","70125","5.54","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Baileyton,"AL"","2018","Billy W. Fletcher","n/a","66000","5.22","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Chairman","Steve Glasscock","Chairman & CEO","n/a","2018","Banking","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Steve Glasscock","n/a","SASG Properties,"LLC"","2018","Banking","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Secretary/Treasurer,"Director"","Reba Miller","Secretary/Director","n/a","2018","Businesswoman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Reba Miller","n/a","Triple A Property Investors","2018","Businesswoman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Vice Chairman","S. Wayne Fuller","Vice Chairman","n/a","2018","Attorney","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","S. Wayne Fuller","n/a","Fuller,"Willingham","Fuller & Carter","LLC"","2018","Attorney","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Director","David Moss,"Sr."","Director","n/a","2018","Businessman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","David Moss,"Sr."","n/a","Cooper Property Mgmt. Inc.","2018","Businessman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","David Moss,"Sr."","n/a","Moss Sr. Moss Jr.,"LLC"","2018","Businessman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","David Moss,"Sr."","n/a","MBH Properties","2018","Businessman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Director","Billy Fletcher","Director","n/a","2018","Farmer","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Director","John T. Williamson","Director","n/a","2018","Veterinarian","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Vice Chairman","Judy P. Butler","Vice Chairman","n/a","2018","Businesswoman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Judy P. Butler","n/a","Southeast Lawn & Tractor Center,"Inc."","2018","Businesswoman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Judy P. Butler","n/a","BJM Company","2018","Businesswoman","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Director","Christopher N. Borden","Director","n/a","2018","Pharmacist","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Christopher N. Borden","n/a","The Borden Company LLC","2018","Pharmacist","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Director","Andrew J. Ratliff","Director","n/a","2018","Business Owner","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Andrew J. Ratliff","n/a","AR & DR Holdings LLC","2018","Business Owner","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","Andrew J. Ratliff","n/a","Farmers Poultry Supply,"Inc."","2018","Business Owner","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","Executive VP","Charles R. NeSmith","President","n/a","2018","Banking","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","EVP & CFO","W. Clark Rainwater","EVP & CFO","n/a","2018","Banking","n/a"
+"MERCHANTS FINANCIAL SERVICES,"INC."","n/a","W. Clark Rainwater","n/a","Rainwater Farms","2018","Banking","n/a"
+```

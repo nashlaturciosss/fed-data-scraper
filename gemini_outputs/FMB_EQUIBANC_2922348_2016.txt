@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Equibanc,"Inc."","Greensboro,"Georgia"","2016","Morris L. Lupton","common stock","200000","8.06%","n/a"
+"FMB Equibanc,"Inc."","Statesboro,"Georgia"","2016","Jeffrey D. Pope","common stock","153000","6.17%","n/a"
+"FMB Equibanc,"Inc."","Statesboro,"Georgia"","2016","Leonard H. Blount","common stock","150000","6.05%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Equibanc,"Inc."","Director","Mark H. Anderson","Partner","Joiner-Anderson Funeral Home","2016","Funeral Director and Real Estate Investor","n/a"
+"FMB Equibanc,"Inc."","Director","Leonard H. Blount","Principal","Capstone Benefits Consulting","2016","Insurance benefits consultant","n/a"
+"FMB Equibanc,"Inc."","Director","F. Wendell Brannen","n/a","n/a","2016","Retired Farm Supply Dealer","n/a"
+"FMB Equibanc,"Inc."","Director","Gary M. Davis","Owner and President","GMD Services,"Inc."","2016","Certified Public Accountant and restaurant franchisee","n/a"
+"FMB Equibanc,"Inc."","Director","Gerald Edenfield","Partner","Edenfield,"Cox","Bruce & Classens PC"","2016","Attorney","n/a"
+"FMB Equibanc,"Inc."","President & CEO","Charles R. Nessmith","n/a","n/a","2016","N/A","n/a"
+"FMB Equibanc,"Inc."","Director","Andrew C. Oliver","CEO","A. M. Braswell,"Jr. Food Co."","2016","President of wholesale & specialty food manufacturer","n/a"
+"FMB Equibanc,"Inc."","Corporate Secretary","Dwayne E. Rocker","n/a","n/a","2016","N/A","n/a"
+"FMB Equibanc,"Inc."","Director","Frank C. Rozier III","n/a","n/a","2016","Retired Auto Dealer","n/a"
+"FMB Equibanc,"Inc."","Director","Bradley M. Williams","Partner","Dabbs-Williams General Contractors,"LLC"","2016","Building Contractor","n/a"
+```

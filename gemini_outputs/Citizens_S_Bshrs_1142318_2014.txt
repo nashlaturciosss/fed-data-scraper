@@ -1,0 +1,38 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2014","MICHAEL A. BEAN","Common Stock","2054","6%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2014","MICHAEL PREWITT MCCANN","Common Stock","2567","8%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2014","GUY FLETCHER MEDLEY","Common Stock","7847","24%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2014","MICHAEL ALAN MEDLEY","Common Stock","7846","24%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2014","J. STEVEN ROY","Common Stock","2703","8%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","EVP/Chief Operating Officer","SunSouth Bancshares,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","EVP/Chief Operating Officer","SunSouth Bank","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","Consultant","Medley Group,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","Managing Director","SunSouth Alabama Financial Group,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","Director and CFO","SunSouth Capital,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","Managing Director","SunSouth Financial Services,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","MICHAEL A. BEAN","EVP/COO/CFO","SunSouth Investments,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director and EVP Chief Financial Officer","ANTHONY J. BURNETT","CFO","Citizens Investments,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","WILLIAM E. COLLINS,"SR"","n/a","n/a","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Auto Parts","2014","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Trucking Co.,"Inc."","2014","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Board Secretary","BEVERLY D. FARLEY","n/a","n/a","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Secretary and Treasurer","GUY FLETCHER MEDLEY","Secretary and Treasurer","Medley Group,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Secretary and Treasurer","GUY FLETCHER MEDLEY","Managing Member","Medley Farms,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Managing Member","MICHAEL ALAN MEDLEY","Managing Member","MMH,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Managing Member","MICHAEL ALAN MEDLEY","Managing Member","Medley Farms,"LLC"","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Managing Member","MICHAEL ALAN MEDLEY","Chairman and CEO","Medley Group,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","ROGER PETERSON","Director","SunSouth Bancshares,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","ROGER PETERSON","Director and Managing Director","SunSouth Bank","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director and Chairman","SunSouth Bancshares,"Inc."","2014","CFO of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director","SunSouth Bank","2014","CFO of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","JEFFREY K. STOUT","Director and Executive Vice President","SunSouth Bancshares,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","JEFFREY K. STOUT","Director and President / Chief Loan Officer","SunSouth Bank","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","JEFFREY K. STOUT","Director and Chairman","SunSouth Capital,"Inc."","2014","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","JEFFREY K. STOUT","Managing Director","Blue Sky,"LLC"","2014","n/a","n/a"
+```

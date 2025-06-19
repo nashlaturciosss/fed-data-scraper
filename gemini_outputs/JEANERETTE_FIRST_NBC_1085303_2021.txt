@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp Inc","Franklin,"LA"","2021","William S. Patout,"III Estate"","Common Stock","1478","12.14%","n/a"
+"Jeanerette First National Bancorp Inc","McKinney,"TX"","2021","Patricia Wentrcek","Common Stock","791","6.50%","n/a"
+"Jeanerette First National Bancorp Inc","New Iberia,"LA"","2021","Venetia M Patout","Common Stock","1028","8.44%","n/a"
+"Jeanerette First National Bancorp Inc","Lafayette,"LA"","2021","Loretta Richard","Common Stock","840","6.90%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Director","Cameron Simmons","Attorney","n/a","2018","Attorney","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Director","Errol J. Delahoussaye","Insurance & Securites","New York Life Agent","2018","Insurance & Securites","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Chairman","Samuel B. Bourgeois","Insurance Salesman","CML Insurance","2018","CML Insurance","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Vice-Chairman","Bret Bishop","President Lumber Company","Chaney Lumber Co","2018","President Lumber Company","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Secretary","Damon Migues","CEO/FNB Jeanerette","Gym Owner","2018","CEO/FNB Jeanerette","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Director","Martin ""Bo"" Duhe","District Attorney","16th Judicial District","2018","District Attorney","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Director","Harry Patin,"Jr."","Insurance Broker","n/a","2018","Insurance Broker","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Director","Errol C Babineaux,"Jr.",","Insurance Broker","n/a","2018","Insurance Broker","622037"
+"FIRST NATIONAL BANK OF JEANERETTE,"THE"","Shareholder","William S Patout III Estate","n/a","n/a","2018","n/a","622037"
+```

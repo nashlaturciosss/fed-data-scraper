@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Shares,"Inc."","Hinesville,"GA"","2014","Frances R. Roberson","Common Stock","210880","5.866%","n/a"
+"Liberty Shares,"Inc."","Hinesville,"GA"","2014","Floyd Stock Holdings LP","Common Stock","508466","14.143%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Medway Group,"Inc."","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Floyd Holdings,"LLC"","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Floyd Real Estate Holdings,"LP"","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","JMF Holdings,"LP"","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Gravel Hill Farms LLC","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","KEFLO Properties LLC","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Floyd Stockholdings,"LP"","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director","James M. Floyd,"Jr."","n/a","Iced Down,"LLC"","2014","Retired","n/a"
+"Liberty Shares,"Inc."","n/a","T. Glenn Fox,"Jr."","n/a","Coastal Discount Pharmacy","2014","Pharmacist","n/a"
+"Liberty Shares,"Inc."","Director","H. Scott Kroell,"Jr."","n/a","None","2014","CEO of Hospital","n/a"
+"Liberty Shares,"Inc."","Director","Barbara S. Smith","n/a","None","2014","Retired","n/a"
+"Liberty Shares,"Inc."","Director,"Acting Chairman"","Brian L. Smith","n/a","None","2014","n/a","n/a"
+"Liberty Shares,"Inc."","Director","Marian E. Smith","n/a","Strategic Commercial RE","2014","Commercial RE Broker","n/a"
+"Liberty Shares,"Inc."","Director","Marian E. Smith","n/a","Strategic Financial Group","2014","Commercial RE Broker","n/a"
+"Liberty Shares,"Inc."","Director","Jeffery L. Arnold","n/a","Jeffery L. Arnold PC","2014","Attorney","n/a"
+"Liberty Shares,"Inc."","Chief Operating Officer","Melissa A. Deal","n/a","None","2014","n/a","n/a"
+"Liberty Shares,"Inc."","Chief Financial Officer","Philip F. Resch","n/a","None","2014","n/a","n/a"
+"Liberty Shares,"Inc."","Chief Credit Officer","Stephen L. Parker","n/a","None","2014","n/a","n/a"
+```

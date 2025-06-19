@@ -1,26 +1,15 @@
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","Spencer J. Coleman,"Sr. MD"","n/a","n/a","2.30%"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","Sheila Spiers","n/a","n/a","2.00%"
-"Central Alabama Bancshares,"Inc."","Prattville","2020","Albert Striplin","n/a","n/a","1.10%"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","Travis Cosby,"III"","n/a","n/a","2.30%"
-"Central Alabama Bancshares,"Inc."","Deatsville","2020","Michael R. Morgan","n/a","n/a","1.40%"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","John R. Williams","n/a","n/a","1.20%"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","Johnny M. Carothers,"Jr."","n/a","n/a","1.80%"
-"Central Alabama Bancshares,"Inc."","Eclectic","2020","Rana S. Futral","n/a","n/a","1.20%"
-"Central Alabama Bancshares,"Inc."","Wetumpka","2020","Brian Barrett","n/a","n/a","0.002%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Alabama Bancshares,"Inc."","Director","Spencer J. Coleman,"Sr. MD"","Physician","None","2020"
-"Central Alabama Bancshares,"Inc."","Director","Sheila Spiers","Retired Banker","None","2020"
-"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","Finance","None","2020"
-"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","Banker","None","2020"
-"Central Alabama Bancshares,"Inc."","CEO","Michael R. Morgan","Banker","None","2020"
-"Central Alabama Bancshares,"Inc."","Director","John R. Williams","Mortgage Lender","Mortgage Corporation of the South","2020"
-"Central Alabama Bancshares,"Inc."","Director","Johnny M. Carothers,"Jr."","Forester","President,"Baseline Forest Services","Inc."","2020"
-"Central Alabama Bancshares,"Inc."","President/CFO/Director","Rana S. Futral","Banker","None","2020"
-"Central Alabama Bancshares,"Inc."","Director","Brian Barrett","Dentist","None","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","Spencer J. Coleman,"Sr."","Director","n/a","2.30%","3034257"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","Sheila Spiers","Director","n/a","2.00%","3034257"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2020","Albert Striplin","Director","n/a","1.10%","3034257"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","Travis Cosby,"III"","Chairman/Director","n/a","2.30%","3034257"
+"Central Alabama Bancshares,"Inc."","Deatsville,"Al"","2020","Michael R. Morgan","CEO\nDirector","n/a","1.40%","3034257"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","John R. Williams","Director","President","Mortgage Corporation of the South","2020","Mortgage Lender","3034257"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","Johnny M. Carothers,"Jr."","Director","President","Baseline Forest Services,"Inc."","2020","Forester","3034257"
+"Central Alabama Bancshares,"Inc."","Eclectic,"Al"","2020","Rana S. Futral","President/CFO/Director","n/a","n/a","2020","Banker","3034257"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2020","Brian Barrett","Director","n/a","n/a","2020","Dentist","3034257"
 ```

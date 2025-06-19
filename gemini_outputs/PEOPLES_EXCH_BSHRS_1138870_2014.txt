@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2014","Thomas A. Black,"III"","n/a","2699","21","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Menomonee Falls,"WI"","2014","James H. Durdan & Doris F. Durdan Trustees of the James H. Durdan & Doris F. Durdan Trust","n/a","1299","9.99","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2014","Claudia B. Smith","n/a","2679","21","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2014","Kenneth M. Smith","n/a","52",".4","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Monroeville,"AL"","2014","Rebecca B. Snyder","n/a","2699","21","113 8870"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Director","Thomas A Black,"III"","Director","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Secretary","Rachael Boutwell","Exec V Pres","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","CEO,"Director"","Harvey J Gaston,"Jr."","CEO,"Director"","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","President","Kevin Norris","President","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","n/a","Bill Rogers","Exec V Pres","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","n/a","Claudia B Smith","None","None","2014","Retired","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Director","Kenneth M Smith","Director","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Chairman","Rebecca B Snyder","Chairman","None","2014","Banker","113 8870"
+"Peoples Exchange Bancshares,"Inc."","Director","Claire B Stallworth","Director","None","2014","Timber","113 8870"
+```

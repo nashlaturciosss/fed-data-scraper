@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Moundville Bancshares","Moundville,"AL"","2019","Madie E. Howell Trust","Common","39042","47.7","n/a"
+"Moundville Bancshares","Moundville,"AL"","2019","Madie H. Poole","Common","9036","11.0","n/a"
+"Moundville Bancshares","Moundville,"AL"","2019","Estate of Victor P. Poole","Common","7199","8.8","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Moundville Bancshares","Director & Chairman","Madie H. Poole","n/a","n/a","2019","n/a","586335"
+"Moundville Bancshares","Director & CEO/President","Howell Poole","President","Carthage Drive","2019","n/a","586335"
+"Moundville Bancshares","Director","Larry P. Taylor","President","Moundville Communications","2019","President and GM,"Moundville Communications","Inc."","586335"
+"Moundville Bancshares","Director","Larry P. Taylor","President","Riverbend Cable","2019","President and GM,"Moundville Communications","Inc."","586335"
+"Moundville Bancshares","Director","Bernard T. Martin","Alfa Area Representative","Alfa Area","2019","Alfa Area Representative","586335"
+"Moundville Bancshares","Director","Bernard T. Martin","Alfa Area Representative","Triple M Farms","2019","Alfa Area Representative","586335"
+"Moundville Bancshares","Director","William A. (Sonny) Ryan","n/a","n/a","2019","Retired Judge,"Hale County"","586335"
+"Moundville Bancshares","Treasurer","Christina G. Mills","Chief Operating Officer","n/a","2019","n/a","586335"
+"Moundville Bancshares","n/a","Madie E. Howell Trust","n/a","n/a","2019","n/a - Trust","586335"
+```

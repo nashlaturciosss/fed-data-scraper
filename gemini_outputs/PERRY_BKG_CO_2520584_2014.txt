@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Perry Banking Company,"Inc."","Newberry,"FL"","2014","Paul W. Dickert","n/a","13460","30.526%","n/a"
+"Perry Banking Company,"Inc."","Sarasota,"FL"","2014","Mark R. Dickert","n/a","12700","28.803%","n/a"
+"Perry Banking Company,"Inc."","Perry,"FL"","2014","John W. Cruce","n/a","5000","11.340%","n/a"
+"Perry Banking Company,"Inc."","Gainesville,"FL"","2014","Michael D. Massey","n/a","5260","12.029%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Perry Banking Company,"Inc."","Chairman/Director","Mark Dickert","VP/Director","Wilson/Ross","2014","Wilson/Ross","n/a"
+"Perry Banking Company,"Inc."","President/Director","Paul Dickert","President/Director","Wilson/Ross","2014","Citizens State Bank","n/a"
+"Perry Banking Company,"Inc."","President/Director","Paul Dickert","President/Director","Probuilt,"Inc."","2014","Citizens State Bank","n/a"
+"Perry Banking Company,"Inc."","Director","John W. Cruce","Owner","John A. Cruce,"Inc."","2014","Logging","n/a"
+"Perry Banking Company,"Inc."","Director","Michael Massey","VP/Director","Probuilt,"Inc."","2014","Citizens State Bank","n/a"
+"Perry Banking Company,"Inc."","Director","Jeffrey Merschman","Owner","Big Top Manufacturing,"Inc."","2014","Big Top Manufacturing,"Inc."","n/a"
+```

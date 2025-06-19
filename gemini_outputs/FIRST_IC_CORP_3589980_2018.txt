@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First IC Corporation","McDonough,"GA"","2018","Chong W Chun and Kyong H Chun","Common Stock","676373","9.28%","n/a"
+"First IC Corporation","McDonough,"GA"","2018","Chong W Chun and Kyong H Chun","Options on Common Stock","41807","0.57%","n/a"
+"First IC Corporation","McDonough,"GA"","2018","Chong W Chun and Kyong H Chun","Family Owned Common Stock","79013","1.08%","n/a"
+"First IC Corporation","Atlanta,"GA"","2018","Choong S Cho and Boksoo Kim Cho","Common Stock","437018","6.00%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2018","Myong Tul Chu","Common Stock","409429","5.62%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2018","Myong Tul Chu","Family Owned Common Stock","52098","0.71%","n/a"
+"First IC Corporation","Huntsville,"AL"","2018","Seung Woo Choi","Common Stock","357929","5.44%","n/a"
+"First IC Corporation","Huntsville,"AL"","2018","Seung Woo Choi","Family Owned Common Stock","162537","2.47%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director,"Chairman"","Chong W Chun","n/a","n/a","2018","n/a","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha Johnsboro Inc","2018","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddah IX Inc","2018","Business Owner","n/a"
+"First IC Corporation","Director","Do Hyun Kim","n/a","n/a","2018","n/a","n/a"
+"First IC Corporation","Director","Eui Suk Lee","n/a","n/a","2018","n/a","n/a"
+"First IC Corporation","Director","Suk Hyun Kim","Co-Owner","Net K,"INC"","2018","Business Owner","n/a"
+"First IC Corporation","Director","Lucio Minn","n/a","n/a","2018","n/a","n/a"
+"First IC Corporation","Director,"President/CEO"","Dong Wook Kim","n/a","n/a","2018","n/a","n/a"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2018","n/a","n/a"
+```

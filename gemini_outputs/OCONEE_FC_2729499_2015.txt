@@ -1,0 +1,31 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2015","Susan Wells Brodrick","Common Stock","87235","9.69%","27 29499"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2015","Hardigree Properties,"LLLP"","Common Stock","47240","5.25%","27 29499"
+"Oconee Financial Corporation","Carrboro,"North Carolina"","2015","Caroline Wells Pence","Common Stock","76850","8.54%","27 29499"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2015","Virginia S. Wells","Common Stock","166785","18.54%","27 29499"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Member","n/a","2015","Retired","27 29499"
+"Oconee Financial Corporation","Director","Jimmy L. Christopher","Retired","n/a","2015","Retired","27 29499"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","President","Dickens Farms,"Inc."","2015","Farmer,"real estate developer and construction"","27 29499"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","President","Dickens Builders,"Inc."","2015","Farmer,"real estate developer and construction"","27 29499"
+"Oconee Financial Corporation","Director & Chairman","Douglas D. Dickens","Vice President","A.E. Carter Funeral Home,"Inc."","2015","Farmer,"real estate developer and construction"","27 29499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","LAD Truck Lines,"Inc."","2015","Transportation,"Logistics","& Warehousing"","27 29499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","LAD Logistics,"Inc."","2015","Transportation,"Logistics","& Warehousing"","27 29499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","Dutch Properties,"Inc."","2015","Transportation,"Logistics","& Warehousing"","27 29499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","Chicken Brothers,"LLC"","2015","Transportation,"Logistics","& Warehousing"","27 29499"
+"Oconee Financial Corporation","Director","J. Albert Hale,"Sr."","Owner","n/a","2015","Dairy & Poultry Farmer","27 29499"
+"Oconee Financial Corporation","Director & President/CEO","B. Amrey Harden","None","n/a","2015","N/A","27 29499"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Maxey Brothers,"Inc."","2015","Site development & grading contractor","27 29499"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Fie Fays Unlimited,"Inc."","2015","Site development & grading contractor","27 29499"
+"Oconee Financial Corporation","Director,"Sr. Exec. VP","& Corp Secy."","Jerry K. Wages","None","n/a","2015","N/A","27 29499"
+"Oconee Financial Corporation","Director & Vice Chairperson Principal S/H","Virginia S. Wells","President & CEO","Wells & Company Realtors,"Inc."","2015","Real estate developer & property management","27 29499"
+"Oconee Financial Corporation","Director & Vice Chairperson Principal S/H","Virginia S. Wells","Partner","VSC Properties,"LLLP"","2015","Real estate developer & property management","27 29499"
+"Oconee Financial Corporation","Director & Vice Chairperson Principal S/H","Virginia S. Wells","Partner","McRee Properties,"LLLP"","2015","Real estate developer & property management","27 29499"
+"Oconee Financial Corporation","Director & Executive VP","Tom F. Wilson","None","n/a","2015","N/A","27 29499"
+```

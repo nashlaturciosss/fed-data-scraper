@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2020","E.J. Vann,"IV"","capital stock of P&C Bank Shares,"Inc."","8312","45.36%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2020","Susan Vann Moss","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Los Angeles,"CA"","2020","E.J. Vann,"V"","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2020","David Lamar Cooper II","capital stock of P&C Bank Shares,"Inc."","1025","5.58%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director,"Shareholder"","Martin Miley Adams","Director","Joe B. Adams & Sons,"Inc."","2020","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director,"Shareholder"","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2020","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director,"Shareholder"","Martin Miley Adams","CEO","Adams Exports,"Inc."","2020","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","President & CEO","Susan V. Moss","n/a","n/a","2020","Director,"Secretary & Principal Shareholder"","n/a"
+"P&C Bank Shares,"Inc."","Executive Chairman","E.J. Vann IV","n/a","n/a","2020","Chairman,"President","Director & Principal Shareholder"","n/a"
+"P&C Bank Shares,"Inc."","n/a","E. J. Vann,"V"","n/a","Johnston & Murphy","2020","Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2020","Retired Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","David Cooper","n/a","David Cooper Engineering","2020","Engineering Consultant","n/a"
+```

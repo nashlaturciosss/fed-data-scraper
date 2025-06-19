@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2018","Brandt J. Dufrene","n/a","50719","43.75%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2018","Brandt J. Dufrene Jr. Trust","n/a","36519","31.50%","n/a"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2018","Brandt J. Dufrene,"Jr."","n/a","11882","10.25%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2018","F.S.C. Trust 1","n/a","8411","7.25%","n/a"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2018","F.S.C. Trust II","n/a","8411","7.25%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Chairman & President","Oceanic Fleet,"Inc."","2018","Chairman & President","n/a"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Chairman & President","Oceanic Fleet,"LLC"","2018","Chairman & President","n/a"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Chairman & President","Audubon Guest House,"LLC"","2018","Chairman & President","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Attorney at Law","Brandt J. Dufrene,"Jr. Attorney at Law"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Audubon Guest House,"LLC"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Oceanic Fleet Management,"LLC"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Partner","Branson Des Allemands Properties,"LLC"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Partner","Brandtsons Partners","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Dufrene Title,"LLC"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Brandt J. Dufrene,"Jr.","LLC"","2018","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Kenneth Soyez","None","None","2018","Retired","n/a"
+"First St. Charles Bancshares,"Inc."","None","Brandt J. Dufrene,"Jr. Trust"","None","None","2018","n/a","n/a"
+```

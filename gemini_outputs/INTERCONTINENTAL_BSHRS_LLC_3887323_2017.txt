@@ -1,0 +1,28 @@
+Here are the two extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Intercontinental Bankshares,"LLC"","Hollywood,"Florida"","2017","Orestes A. Acosta","n/a","29050","7.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Coral Gables,"FL"","2017","Manuel Herгега","n/a","20750","5.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Miami,"Florida"","2017","Angel Meza","n/a","20750","5.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2017","Horacio Pinto","n/a","29050","7.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Aventura,"Florida"","2017","Pedro Torres","n/a","32163","7.75%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2017","Domingo Goncalves","n/a","24059","5.80%","n/a"
+"Intercontinental Bankshares,"LLC"","Miami,"Florida"","2017","Mercedes Weitzmann","n/a","29503","7.11%","n/a"
+"Intercontinental Bankshares,"LLC"","Coral Gables,"Florida"","2017","Alvaro Gorrin Ramos","n/a","41085","9.90%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2017","Operadora Daal,"C.A. (a Venezuelan Company)"","n/a","31196","7.52%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2017","Mauro Libi","n/a","37350","9.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Intercontinental Bankshares,"LLC"","Principal Securities Holder","Alvaro Gorrin Ramos","n/a","n/a","2017","Retired","n/a"
+"Intercontinental Bankshares,"LLC"","Director","Blas I. Betancourt","n/a","n/a","2017","Banker","n/a"
+"Intercontinental Bankshares,"LLC"","Director","Domingo Alonso","President of Alonso & Garcia,"P.A."","Alonso & Garcia","2017","Accountant","n/a"
+"Intercontinental Bankshares,"LLC"","Director & Secretary of the Board of Directors","Felix Montanaro","n/a","n/a","2017","Banker","n/a"
+"Intercontinental Bankshares,"LLC"","Director","Freddy Martinez","President & CEO of Forem Investments LLC & Forem Capital Partners","Forem Investments LLC","2017","Financial Advisor (CFP)","n/a"
+"Intercontinental Bankshares,"LLC"","Director","Freddy Martinez","President & CEO of Forem Investments LLC & Forem Capital Partners","Forem Capital Partners","2017","Financial Advisor (CFP)","n/a"
+"Intercontinental Bankshares,"LLC"","Director","John A. Gelety","Director of Herzfeld Caribbean Basin Fund","Herzfeld Caribbean Basin Fund","2017","Attorney","n/a"
+"Intercontinental Bankshares,"LLC"","Director","John A. Gelety","JAG Realty LLC","JAG Realty LLC","2017","Attorney","n/a"
+"Intercontinental Bankshares,"LLC"","Director","John A. Gelety","President of John A. Gelety,"P.A. (inactive)"","John A. Gelety,"P.A."","2017","Attorney","n/a"
+```

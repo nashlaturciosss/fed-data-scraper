@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NOA Bancorp,"Inc."","Alpharetta,"GA"","2018","Jame Cho","Common Stock","107950","5.61%","n/a"
+"NOA Bancorp,"Inc."","Big Canoe,"GA"","2018","W. Alex Choi","Common Stock","110073","5.72%","n/a"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2018","Francis D. Kim","Common Stock","122250","6.35%","n/a"
+"NOA Bancorp,"Inc."","Franklin Lakes,"NJ"","2018","Younsung Kim","Common Stock","209185","10.87%","n/a"
+"NOA Bancorp,"Inc."","New York,"NY"","2018","Young A. Sohn","Common Stock","121650","6.32%","n/a"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2018","Jungho Kim","Common Stock","75000","3.90%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NOA Bancorp,"Inc."","Chairman / Director","James Cho","Chairman / Director","Am-Ko Building Maintenance Inc.","2018","Business Owner","n/a"
+"NOA Bancorp,"Inc."","Director","W. Alex Choi","Director","n/a","2018","Retired","n/a"
+"NOA Bancorp,"Inc."","Director","Ronald Goodman","Director","Ronald M Goodman,"DO","PA"","2018","M.D.","n/a"
+"NOA Bancorp,"Inc."","Director","Francis D. Kim","Director","n/a","2018","Retired","n/a"
+"NOA Bancorp,"Inc."","Director","Yoonsung Kim","n/a","European Optical Corp","2018","Optometrist","n/a"
+"NOA Bancorp,"Inc."","Director","Jong K. (Jake) Lee","Co-Owner","SR Crossing","2018","Business Owner","n/a"
+"NOA Bancorp,"Inc."","Director","Dohyung (Daniel) Lim","Owner","Twin Peak International Atlanta,"GA"","2018","Business Owner","n/a"
+"NOA Bancorp,"Inc."","Director","Bong U. (Peter) Nam","Director","n/a","2018","Retired","n/a"
+"NOA Bancorp,"Inc."","Director","Young A. Sohn","n/a","n/a","2018","Retired","n/a"
+"NOA Bancorp,"Inc."","Director/Co-CEO & Co-President","Jake D. Park","Director/Co-CEO & Co-President","n/a","2018","n/a","n/a"
+"NOA Bancorp,"Inc."","EVP & Chief Financial Officer","Tammy Jang","n/a","n/a","2018","n/a","n/a"
+"NOA Bancorp,"Inc."","EVP & Chief Credit Officer","Soo Song","n/a","n/a","2018","n/a","n/a"
+"NOA Bancorp,"Inc."","SVP & Chief Operations Administrator","Hyelee Yoon","n/a","n/a","2018","n/a","n/a"
+```

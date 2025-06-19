@@ -1,0 +1,27 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Four County Bancshares,"Inc."","Cochran,"GA"","2015","Jerry Van Dykes","Common Stock","45000","18.74%","1416457"
+"Four County Bancshares,"Inc."","Danville,"GA"","2015","Richard A. Dykes","Common Stock","45000","18.74%","1416457"
+"Four County Bancshares,"Inc."","Jeffersonville,"GA"","2015","William C. Humphries","Common Stock","30000","12.49%","1416457"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Four County Bancshares","Chairman of Board of Directors","Ruth Arnold","n/a","n/a","2015","N/A","1416457"
+"Four County Bancshares","VP & Treasurer","Ruth Arnold","n/a","n/a","2015","N/A","1416457"
+"Four County Bancshares","Director","Rabun Faulk","n/a","n/a","2015","Attorney at Law General Counsel","1416457"
+"Four County Bancshares","President & CEO","Amy S. Orr","n/a","n/a","2015","N/A","1416457"
+"Four County Bancshares","Director,"Secretary"","Amy S. Orr","n/a","n/a","2015","N/A","1416457"
+"Four County Bancshares","Director","Charles B. Hill","President","Hill Logging,"Inc."","2015","President (Hill Logging,"Inc.)"","1416457"
+"Four County Bancshares","Chairman of Board of Directors","Charles B. Hill","President","Hill Logging,"Inc."","2015","President (Hill Logging,"Inc.)"","1416457"
+"Four County Bancshares","Director","Lantz Rogers","n/a","n/a","2015","Retired","1416457"
+"Four County Bancshares","Director,"President & CEO"","Wallace Miller","Director","Morris Bank","2015","Retired","1416457"
+"Four County Bancshares","Principal Shareholder","Jerry Van Dykes","Chairman","n/a","2015","Everett Dykes Grassing Company,"Inc."","1416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","n/a","2015","Everett Dykes Grassing Company,"Inc."","1416457"
+"Four County Bancshares","Principal Shareholder","William C. Humphries","n/a","n/a","2015","Retired","1416457"
+"Four County Bancshares","Director","Michael Kitchens","n/a","n/a","2015","Haeco","1416457"
+"Four County Bancshares","Director","James M Brown","n/a","n/a","2015","Vice President","1416457"
+"Four County Bancshares","Vice Pres/CCO Director","James M Brown","n/a","n/a","2015","Vice President","1416457"
+```

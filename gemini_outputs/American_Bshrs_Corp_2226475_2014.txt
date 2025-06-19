@@ -1,20 +1,25 @@
-"Okay","I can extract the requested tables in CSV format from the provided document."
+"Here are the two requested CSV tables","formatted according to your instructions:"
 ```csv
-SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"AMERICAN BANCSHARES CORP.","Livingston","2014","Johnny F. Coleman","n/a","45.32","17.44%"
-"AMERICAN BANCSHARES CORP.","Livingston","2014","J. Steve Daniels","n/a","42.00","16.41%"
-"AMERICAN BANCSHARES CORP.","Livingston","2014","Buckie D. Parson,"DDS"","n/a","35.36","13.82%"
-"AMERICAN BANCSHARES CORP.","Livingston","2014","Kenneth Copeland","n/a","22.06","8.62%"
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2014","Johnny F. Coleman","n/a","45.32","17.44%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2014","J. Steve Daniels","n/a","42.00","16.41%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2014","Buckie D. Parson,"DDS"","n/a","35.36","13.82%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2014","Kenneth Copeland","n/a","22.06","8.62%","n/a"
 ```
 ```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","Mid-State Construction Co. - Pres","2013"
-"AMERICAN BANCSHARES CORP.","Secretary & Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows,"Attorney at Law"","2013"
-"AMERICAN BANCSHARES CORP.","Chairman/Director","Buckie D. Parsons,"DDS"","Chairman/Director","Buckie D. Parsons,"DDS-owner"","2013"
-"AMERICAN BANCSHARES CORP.","Director","Kenneth Copeland","Director","None","2013"
-"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Director","Mid State Construction Co.-VP","2013"
-"AMERICAN BANCSHARES CORP.","CEO/CFO & Director","Marty Maynord","CEO/CFO & Director","None","2013"
-"AMERICAN BANCSHARES CORP.","President and Director","Ryan Smith","President and Director","None","2013"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Pres","Mid-State Construction Co.","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member/Manager","JFC Properties","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member","Mid State Drilling Co.,"LLC"","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member/Manger","C&M Development","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Secretary & Director","J. Steve Daniels","Attorney at Law","Daniels & Meadows","2013","Attorney","n/a"
+"AMERICAN BANCSHARES CORP.","Chairman/Director","Buckie D. Parsons,"DDS"","owner","Buckie D. Parsons,"DDS"","2013","Dentist","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Kenneth Copeland","n/a","None","2013","Farmer","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","VP","Mid State Construction Co.","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","VP","Mid State Drilling","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Member/Manager","Tri-Coleman Properties","2013","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","CEO/CFO & Director","Marty Maynord","n/a","None","2013","None","n/a"
+"AMERICAN BANCSHARES CORP.","President and Director","Ryan Smith","n/a","None","2013","None","n/a"
 ```

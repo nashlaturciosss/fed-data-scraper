@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2015","Nina P Albea,"Trustee"","Common Stock","1325","12.80%","n/a"
+"LINCOLN BANCSHARES INC","Columbia,"SC"","2015","Marilyn L Davis","Common Stock","704","6.81%","n/a"
+"LINCOLN BANCSHARES INC","Greenwood,"SC"","2015","Nancy L May","Stock","669","6.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LINCOLN BANCSHARES INC","Director","Thomas Brittan Hammond","Attorney at Law","Hammond & Hammond LLC","2015","Attorney","n/a"
+"LINCOLN BANCSHARES INC","Director Shareholder","Nina P Albea Trustee of the Nina P Albea Living Trust","n/a","n/a","2015","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director Secretary","Trudelle P Bentley Leopard","n/a","n/a","2015","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","John S Spratlin III","Owner","J.W. Spratlin & Sons","2015","Owner-Construction Company","n/a"
+"LINCOLN BANCSHARES INC","Chairman","Edward S Turner","n/a","n/a","2015","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","James Bruce Turner","President/CEO","n/a","2015","President/CEO","n/a"
+"LINCOLN BANCSHARES INC","Director","Alice Marie Kavouklis","n/a","n/a","2015","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Nancy May","n/a","n/a","2015","Retired","n/a"
+```

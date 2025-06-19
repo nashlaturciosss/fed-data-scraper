@@ -1,0 +1,26 @@
+"Here are the two requested CSV tables","formatted as specified:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp","McLean,"VA"","2019","FJ Capital Management,"LLC"","Common Stock","657641","7.1%","929978"
+"Home Bancorp","Lafayette,"LA"","2019","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","615836","6.7%","929978"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp","Director","Paul J. Blanchet,"III"","Retired Partner","Broussard Poche' LLP","2019","CPA,"Broussard Poche' LLP"","929978"
+"Home Bancorp","Director,"President & CEO (Home Bank)"","John W. Bordelon","Managing Member","JSOMK Properties,"LLC"","2019","n/a","929978"
+"Home Bancorp","Director","Mark M. Cole","n/a","n/a","2019","Don's Speacialty Meats,"self employed"","929978"
+"Home Bancorp","Director","Daniel G. Guidry","Owner","Don Specialty Meats","2019","Attorney,"Guidry & Guidry"","929978"
+"Home Bancorp","Director","John A. Hendry","Partner","Guidry & Guidry","2019","Pediatric Dentist,"self employed"","929978"
+"Home Bancorp","Director","Michael P. Maraist","n/a","n/a","2019","Investor in various companies","929978"
+"Home Bancorp","Director & Chairman","Chris P. Rader","n/a","n/a","2019","n/a","929978"
+"Home Bancorp","Director","Darren E. Guidry","CEO","Rader Solutions Ltd","2019","Rader Solutions Ltd,"self employed"","929978"
+"Home Bancorp","Director","Darren E. Guidry","Member","White Lake Cattle Co LLC","2019","Rader Solutions Ltd,"self employed"","929978"
+"Home Bancorp","Director","Darren E. Guidry","Managing Member","RAK Holdings,"LLC"","2019","Rader Solutions Ltd,"self employed"","929978"
+"Home Bancorp","Director","Darren E. Guidry","Managing Member","Quantum Real Estate,"LLC"","2019","Rader Solutions Ltd,"self employed"","929978"
+"Home Bancorp","Director","Darren E. Guidry","Managing Member","Hardwear and Software LLC","2019","Rader Solutions Ltd,"self employed"","929978"
+"Home Bancorp","n/a","Darren E. Guidry","n/a","n/a","2019","Executive Vice President,"Chief Credit Officer"","929978"
+"Home Bancorp","n/a","Jason P. Freyou","Executive Vice President,"Chief Operations Officer"","n/a","2019","n/a","929978"
+"Home Bancorp","n/a","Joseph B. Zanco","n/a","n/a","2019","Executive Vice President,"Chief Financial Officer"","929978"
+```

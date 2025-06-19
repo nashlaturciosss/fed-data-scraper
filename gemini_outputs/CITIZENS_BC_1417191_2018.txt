@@ -1,0 +1,15 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CITIZENS BANCORPORATION,"INC"","Valley Head,"AL"","2018","E. N. Jones,"III"","Common Stock","328","32.8%","n/a"
+"CITIZENS BANCORPORATION,"INC"","Valley Head,"AL"","2018","Thomas A. Jones,"Jr."","Common Stock","305","30.5%","n/a"
+"CITIZENS BANCORPORATION,"INC"","Valley Head,"AL"","2018","G. Gordon Jones","Common Stock","304","30.5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITIZENS BANCORPORATION,"INC"","Director & Chairman","E. N. Jones,"III"","Director & President (The Citizens Bank)","n/a","2018","n/a","n/a"
+"CITIZENS BANCORPORATION,"INC"","Director","Deborah L. Padgett","Director","n/a","2018","n/a","n/a"
+"CITIZENS BANCORPORATION,"INC"","Director & President","G. Gordon Jones","Director,"Chairman & CEO (The Citizens Bank)"","n/a","2018","n/a","n/a"
+"CITIZENS BANCORPORATION,"INC"","n/a","Thomas A. Jones,"Jr."","n/a","n/a","2018","n/a","n/a"
+```

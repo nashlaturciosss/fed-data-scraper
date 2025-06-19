@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Landmark Bancshares,"Inc."","Gainesville,"GA"","2017","Joseph D. Chipman","n/a","n/a","1.02%","n/a"
+"Landmark Bancshares,"Inc."","Marietta,"GA"","2017","Stephen D. Cole","n/a","n/a","2.35%","n/a"
+"Landmark Bancshares,"Inc."","Kennesaw,"GA"","2017","Terrence Y. DeWitt","n/a","n/a","1.20%","n/a"
+"Landmark Bancshares,"Inc."","Atlanta,"GA"","2017","Bryan Fields","n/a","n/a","0.46%","n/a"
+"Landmark Bancshares,"Inc."","Atlanta,"GA"","2017","D. Kimbrough King,"Jr."","n/a","n/a","2.11%","n/a"
+"Landmark Bancshares,"Inc."","Atlanta,"GA"","2017","R. Stanley Kryder","n/a","n/a","2.59%","n/a"
+"Landmark Bancshares,"Inc."","Marietta,"GA"","2017","James Z. Pressley,"Jr."","n/a","n/a","1.59%","n/a"
+"Landmark Bancshares,"Inc."","Atlanta,"GA"","2017","David B. Sinyard","n/a","n/a","0.03%","n/a"
+"Landmark Bancshares,"Inc."","Atlanta,"GA"","2017","William D. Smith,"Jr."","n/a","n/a","2.48%","n/a"
+"Landmark Bancshares,"Inc."","Kennesaw,"GA"","2017","David B. Swales","n/a","n/a","3.13%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Landmark Bancshares,"Inc."","Director","Joseph D. Chipman","n/a","n/a","2017","Retired Banker","n/a"
+"Landmark Bancshares,"Inc."","Chairman","Joseph D. Chipman","n/a","n/a","2017","Retired Banker","n/a"
+"Landmark Bancshares,"Inc."","Director","Stephen D. Cole","n/a","n/a","2017","Retired Building Supplies Executive","n/a"
+"Landmark Bancshares,"Inc."","Director","Terrence Y. DeWitt","President","n/a","2017","n/a","n/a"
+"Landmark Bancshares,"Inc."","EVP & CFO","Terrence Y. DeWitt","n/a","n/a","2017","n/a","n/a"
+"Landmark Bancshares,"Inc."","Director","Bryan Fields","n/a","n/a","2017","Investor","n/a"
+"Landmark Bancshares,"Inc."","Director","D. Kimbrough King,"Jr."","President","Kim King Associates LLC","2017","Commercial Real Estate Development","n/a"
+"Landmark Bancshares,"Inc."","Director","R. Stanley Kryder","n/a","n/a","2017","n/a","n/a"
+"Landmark Bancshares,"Inc."","CEO","R. Stanley Kryder","President & CEO","n/a","2017","n/a","n/a"
+"Landmark Bancshares,"Inc."","Director","James Z. Pressley,"Jr."","Chairman of the Board","Unified AV Systems","2017","Multi Media/Audio Visual","n/a"
+"Landmark Bancshares,"Inc."","Director","David B. Sinyard","Principal","Corporate Finance Associates","2017","Investment Advisory","n/a"
+"Landmark Bancshares,"Inc."","Director","William D. Smith,"Jr."","President","Little & Smith,"Inc."","2017","Insurance","n/a"
+"Landmark Bancshares,"Inc."","Director","David B. Swales","President","Province Properties,"Inc."","2017","Residential Real Estate Builder/Developer","n/a"
+```

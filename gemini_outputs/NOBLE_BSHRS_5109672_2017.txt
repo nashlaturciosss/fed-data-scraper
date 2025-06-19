@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Noble Bancshares,"Inc."","Anniston,"AL"","2017","Aaron P. and Debora T. Acker","n/a","65628","4.48","n/a"
+"Noble Bancshares,"Inc."","Anniston,"AL"","2017","Andrew A. Acker","n/a","3000","0.20","n/a"
+"Noble Bancshares,"Inc."","Ohatchee,"AL"","2017","Mark D. Acker","n/a","25000","1.71","n/a"
+"Noble Bancshares,"Inc."","Ohatchee,"AL"","2017","Mary Emma Acker","n/a","2000","0.14","n/a"
+"Noble Bancshares,"Inc."","Ohatchee,"AL"","2017","Lane McNew and Carol A. McNew","n/a","3000","0.20","n/a"
+"Noble Bancshares,"Inc."","Franklin,"TN"","2017","Anna Lee Hooper","n/a","3000","0.20","n/a"
+"Noble Bancshares,"Inc."","McCalla,"AL"","2017","Abigail A. Workman","n/a","3000","0.20","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Noble Bancshares,"Inc."","Director,"Treasurer"","Aaron Acker","President","Acker Electric Company","2017","President","3385744"
+"Noble Bancshares,"Inc."","Director & Treasurer","Aaron Acker","President","Acker Electric Company","2017","President","3385744"
+"Noble Bancshares,"Inc."","Director,"Secretary"","Greg Brown","President","B R Williams Trucking,"Inc"","2017","President","3385744"
+"Noble Bancshares,"Inc."","Director & Secretary","Greg Brown","President","B R Williams Trucking,"Inc"","2017","President","3385744"
+"Noble Bancshares,"Inc."","Director,"Chairman"","William R Smith","n/a","n/a","2017","None-retired","3385744"
+"Noble Bancshares,"Inc."","Director","Kenneth L Vandervoort","Doctor/partner","Anniston Orthopedics Assoc,"РА"","2017","Doctor/partner","3385744"
+"Noble Bancshares,"Inc."","Director","Phil Webb","Owner","Webb Concrete & Bldg Materials","2017","Owner","3385744"
+"Noble Bancshares,"Inc."","Director","Patricia M King","President","Sunny King Automotive Group","2017","President","3385744"
+"Noble Bancshares,"Inc."","Director","Mike Burford","Owner","MB Properties","2017","Owner","3385744"
+"Noble Bancshares,"Inc."","Director","Mike Lipscomb","Owner","Lipscomb Auto Sales","2017","Owner","3385744"
+"Noble Bancshares,"Inc."","Director","Anthony Humphries","n/a","n/a","2017","N/A","3385744"
+"Noble Bancshares,"Inc."","Director/President & CEO","Anthony Humphries","n/a","n/a","2017","N/A","3385744"
+"Noble Bancshares,"Inc."","Sr. EVP/Sr Lending Officer","Keith McCullough","n/a","n/a","2017","N/A","3385744"
+"Noble Bancshares,"Inc."","EVP/CFO","Kerry R Holt","n/a","n/a","2017","N/A","3385744"
+"Noble Bancshares,"Inc."","EVP & Chief Risk Officer","Lynda Dyar","n/a","n/a","2017","N/A","3385744"
+"Noble Bancshares,"Inc."","Sr EVP/Market President","Paul Z Rogers","n/a","n/a","2017","N/A","3385744"
+```

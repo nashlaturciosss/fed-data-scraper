@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Crews Banking Corporation","Wauchula,"Florida"","2015","J. W. Crews,"Jr."","n/a","19108","44.64%","1081239"
+"Crews Banking Corporation","St,"Florida"","2015","W. Markam Crews","n/a","7176","16.77%","1081239"
+"Crews Banking Corporation","Tampa,"Florida"","2015","Dena M. Crews Aloian","n/a","7176","16.77%","1081239"
+"Crews Banking Corporation","Florida,"Florida"","2015","Jeraldine F. Crews","n/a","2166","5.06%","1081239"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Crews Banking Corporation","President and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","Chairman of the Board and Director ","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","Chairman and Director ","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","Chairman and Director","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","Chairman and Director ","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","President and Director","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","President and Director","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","President and Director","J. W. Crews,"Jr."","n/a","n/a","2015","Banker","1081239"
+"Crews Banking Corporation","President and Director --- Shorewood Corporation","J. W. Crews,"Jr."","n/a","Shorewood Corporation","2015","Banker","1081239"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation..","H. D. Crews","Vice President and Director ","Shorewood Corporation","2015","Physician/Retired","1081239"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation..","H. D. Crews","Partner","Seven Mountains High,"LLC"","2015","Physician/Retired","1081239"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation..","H. D. Crews","Partner","CBC Affiliates,"LLC"","2015","Physician/Retired","1081239"
+"Crews Banking Corporation","n/a","W. Markam Crews","Partner","JDM Partnership - Citrus Grove","2015","Entrepreneur","1081239"
+"Crews Banking Corporation","n/a","W. Markam Crews","Stockholder","Bowling Green Storage,"Inc."","2015","Entrepreneur","1081239"
+"Crews Banking Corporation","n/a","W. Markam Crews","Partner","3-C Ranch,"Limited"","2015","Entrepreneur","1081239"
+"Crews Banking Corporation","n/a","W. Markam Crews","Partner","Crews Family Holdings,"LLC"","2015","Entrepreneur","1081239"
+"Crews Banking Corporation","n/a","W. Markam Crews","Partner","Shorewood Corporation","2015","Entrepreneur","1081239"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","Michael Aloian","n/a","n/a","2015","Trust Banker","1081239"
+```

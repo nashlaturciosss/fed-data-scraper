@@ -1,0 +1,29 @@
+Here are the requested CSV tables in plain text format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Pine Mountain,"GA"","2017","Mack H. Clements,"MD"","Common","13405","8.46%","n/a"
+"First Peoples Bankshares,"Inc."","Tallahassee,"FL"","2017","Capital City Bank Group,"Inc."","Common","31200","19.70%","n/a"
+"First Peoples Bankshares,"Inc."","Greenville,"GA"","2017","Ann A. Hill","Common","21441","13.54%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Carlisle Services","2017","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/CEO","Disaster Services","2017","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Shiloh Construction","2017","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/CEO","Tower Rock,"LLC"","2017","Construction","n/a"
+"First Peoples Bankshares,"Inc."","VP/SLO\nExecutive","Doug Etheridge","n/a","n/a","2017","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Alex A. Hill","General Partner","Hill Family Holdings,"LLLP"","2017","VP of Operations","n/a"
+"First Peoples Bankshares,"Inc."","Director","Alex A. Hill","Owner","Hila Holdings,"LLC"","2017","VP of Operations","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Yellow Jacket Rivers Rats,"LLC"","2017","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Pine Mountain Flyers","2017","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Owner","Cotton Alley Holdings,"LLC"","2017","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Secretary\nDirector","Jane J. Lawson","Secretary","Jenkins Company","2017","Banking","n/a"
+"First Peoples Bankshares,"Inc."","VP/CFO\nExecutive","J. Randal McKoon","Co-Owner","CaCo Management","2017","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Sally Sharpless","n/a","n/a","2017","Retired","n/a"
+"First Peoples Bankshares,"Inc."","President","Charles Sweat","n/a","n/a","2017","Banking","n/a"
+"First Peoples Bankshares,"Inc."","n/a","Capital City Bank Group,"Inc."","n/a","n/a","2017","n/a","n/a"
+"First Peoples Bankshares,"Inc."","Director Emeritus","Mack H. Clements,"MD"","n/a","n/a","2017","Physician","n/a"
+"First Peoples Bankshares,"Inc."","n/a","Ann Hill","n/a","n/a","2017","n/a","n/a"
+```

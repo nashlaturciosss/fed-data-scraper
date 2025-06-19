@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Atlanta,"GA"","2014","Andrew Heaner","Common Stock","750000","17.37%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2014","Larry Martin","Common Stock","358075","8.29%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2014","Kenneth Davis","Common Stock","349616","8.10%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2014","Wayne Vick","Common Stock","291667","6.75%","3347274"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage First Bancshares,"Inc."","CFO","Rebecca A. Agnew","CFO","Heritage First Bank","2014","n/a","3347274"
+"Heritage First Bancshares,"Inc."","CFO","Rebecca A. Agnew","n/a","Agnew Family Farms,"LLC"","2014","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","Helmut H. Cawthon","Director","Heritage First Bank","2014","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","Helmut H. Cawthon","n/a","Shoney's of Rome D/B/A The Country Sportman","2014","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Chairman","Dr Kenneth F. Davis","Chairman","n/a","2014","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Chairman","Dr Kenneth F. Davis","President & CEO","Harbin Clinic","2014","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO/COO","Allstar Financial Group","2014","Insurance","3347274"
+"Heritage First Bancshares,"Inc."","President & Director","Ryan P. Ernest","n/a","n/a","2014","n/a","3347274"
+"Heritage First Bancshares,"Inc."","COO","Clinton G. Hubbard","n/a","IOMAX,"USA","Inc."","2014","Executive","3347274"
+"Heritage First Bancshares,"Inc."","Director","Kimberly G. Mauer","Director","Heritage First Bank","2014","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Director","Kimberly G. Mauer","RN","Redmond Medical Center","2014","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Director","Laura H. Mumber","Director","Heritage First Bank","2014","N/A","3347274"
+"Heritage First Bancshares,"Inc."","Director","David M. Parker","President & CEO","Parker Systems,"LLC"","2014","Telecommunications","3347274"
+"Heritage First Bancshares,"Inc."","Director","David M. Parker","President & CEO","Parker Fibernet,"LLC"","2014","Telecommunications","3347274"
+"Heritage First Bancshares,"Inc."","Director","Wayne E. Vick","Director","Heritage First Bank","2014","Cargo Securement","3347274"
+"Heritage First Bancshares,"Inc."","Director","Wayne E. Vick","President","Southern Bracing Systems,"Inc."","2014","Cargo Securement","3347274"
+"Heritage First Bancshares,"Inc."","Director","Thad W. Watters","Director","Heritage First Bank","2014","N/A","3347274"
+"Heritage First Bancshares,"Inc."","Director & CEO","Gregory C. Wilkes","Director & CEO","Heritage First Bank","2014","N/A","3347274"
+```

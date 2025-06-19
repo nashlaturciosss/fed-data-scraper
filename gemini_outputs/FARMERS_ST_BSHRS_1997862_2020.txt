@@ -1,0 +1,23 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2020","John Howard Muse","n/a","3508","6.65%","n/a"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2020","Catherine L. Muse","n/a","2922","5.54%","n/a"
+"Farmers State Bancshares,"Inc."","Elizabethton,"TN"","2020","James B. Muse","n/a","2937","5.57%","n/a"
+"Farmers State Bancshares,"Inc."","Knoxville,"TN"","2020","Thomas R. Muse","n/a","2947","5.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Director","Dr. Sam B. Adams,"Jr."","Owner Pharmacist","Adams Pharmacy","2020","Owner Adams Pharmacy","n/a"
+"Farmers State Bancshares,"Inc."","Director","William P. McGuire","Partner","Cunningham & McGuire","2020","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director/Chairman & President","John Howard Muse","President & CEO/Director and Chairman of the Board","n/a","2020","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","James W Vincill","n/a","n/a","2020","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Dorothy Shupe","n/a","n/a","2020","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Daniel Cullop","Owner","Mountain City Funeral Home","2020","Funeral Home Owner","n/a"
+"Farmers State Bancshares,"Inc."","Director/Executive Vice President","David D. Arnold","n/a","n/a","2020","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Joseph D. Herman","Owner Danny Herman Trucking","n/a","2020","Owner- Danny Herman Trucking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Joseph D. Herman","Owner DHT Leasing","n/a","2020","Owner- Danny Herman Trucking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Samuel E. Icenhour","Owner- Iron Mountain Construction","n/a","2020","Owner- Iron Mountain Construction","n/a"
+```

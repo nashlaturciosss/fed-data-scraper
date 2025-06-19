@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2017","Geoffrey Post","n/a","6489","6.267%","n/a"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2017","Geoffrey Post (voting member)","n/a","10261","9.457%","n/a"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2017","Tower Community Bank (FKA Citizens State Bank) Employee Stock Ownership Plan","n/a","10261","9.457%","n/a"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2017","Clara Brown","n/a","5523.25","5.090%","n/a"
+"General Bancshares,"Inc."","Monteagle,"Tennessee"","2017","Robert R. Thomas","n/a","9893.50","9.118%","n/a"
+"General Bancshares,"Inc."","Signal Mountain,"Tennessee"","2017","Robert Reece Thomas,"Jr."","n/a","6751.00","6.222%","n/a"
+"General Bancshares,"Inc."","South Pittsburg,"Tennessee"","2017","David Thomas","n/a","6443.00","5.938%","n/a"
+"General Bancshares,"Inc."","Whitwell,"Tennessee"","2017","Howard & Nancy Rigsby","n/a","8118.00","7.481%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"General Bancshares,"Inc."","Chairman","Robert R. Thomas","n/a","n/a","2017","Retired","n/a"
+"General Bancshares,"Inc."","n/a","Susan Thomas","n/a","n/a","2017","Retired","n/a"
+"General Bancshares,"Inc."","Board Member","Robert Reece Thomas,"Jr."","Board Member/Owner","Sequatchie Concrete Services,"Inc."","2017","Manufacturing","n/a"
+"General Bancshares,"Inc."","Board Member","David Thomas","Board Member/Owner","Sequatchie Concrete Services,"Inc."","2017","Manufacturing","n/a"
+"General Bancshares,"Inc."","n/a","Frank Rogers Thomas Estate","n/a","n/a","2017","Deceased","n/a"
+"General Bancshares,"Inc."","Board Member/Secretary","Henry Lodge","Officer of Lodge Manufacturing","n/a","2017","Manufacturing","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post","President/CEO","n/a","2017","Banking","n/a"
+"General Bancshares,"Inc."","Board Member","Jerry Don Thomas","Owner","First Community Financial,"Inc."","2017","Mortgage Broker","n/a"
+"General Bancshares,"Inc."","Board Member","Richard Moody","Executive Vice President","n/a","2017","Banking","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post (voting member)","President/CEO","n/a","2017","Banking","n/a"
+```

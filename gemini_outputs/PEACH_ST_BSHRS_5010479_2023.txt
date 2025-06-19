@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEACH STATE BANCSHARES,"INC."","Gainesville,"Georgia"","2023","Alvin Gibson","Common Stock","178182","6.16%","n/a"
+"PEACH STATE BANCSHARES,"INC."","Gainesville,"Georgia"","2023","Stewart Teaver","Common Stock","359181","12.43%","n/a"
+"PEACH STATE BANCSHARES,"INC."","Clermont,"Georgia"","2023","William House","Common Stock","213700","7.39%","n/a"
+"PEACH STATE BANCSHARES,"INC."","Marco Island,"Florida"","2023","Steve McKibbon","Common Stock","269500","9.32%","n/a"
+"PEACH STATE BANCSHARES,"INC."","Gainesville,"Georgia"","2023","Wesley Martin","Common Stock","143182","4.95%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEACH STATE BANCSHARES,"INC."","President,"President Area Realty Board","Manager CPE Realty","Manager CPE Realty I","Manager"","Stewart Teaver","President","City Plumbing","2023","City Plumbing and Electric Supply","n/a"
+"PEACH STATE BANCSHARES,"INC."","President,"President Area Realty Board","Manager CPE Realty","Manager CPE Realty I","Manager"","Stewart Teaver","n/a","Area Realty","2023","City Plumbing and Electric Supply","n/a"
+"PEACH STATE BANCSHARES,"INC."","CEO/CFO","Wesley Martin","CEO/CFO","Jake Martin & Son Contractors,"Inc."","2023","CEO/CFO Of Jake Martin & Son Contractors,"Inc."","n/a"
+"PEACH STATE BANCSHARES,"INC."","CEO/CFO","Wesley Martin","President","Martin Realty,"Inc."","2023","CEO/CFO Of Jake Martin & Son Contractors,"Inc."","n/a"
+"PEACH STATE BANCSHARES,"INC."","CEO/CFO","Wesley Martin","President","Chestatee Wildlife Resources,"Inc."","2023","CEO/CFO Of Jake Martin & Son Contractors,"Inc."","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","SP McKibbon Sr. LLLP","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","M & R Developments,"Inc"","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","M & R Rental Properties,"LLC"","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","A H Development Partners,"LLC"","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","McKibbon Land Holdings,"LLC"","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","Manager","Steve McKibbon","n/a","129 M H P,"LLC"","2023","Investor","n/a"
+"PEACH STATE BANCSHARES,"INC."","President & CEO","Ron Quinn","n/a","n/a","2023","n/a","n/a"
+"PEACH STATE BANCSHARES,"INC."","Director","Andy Fuller","n/a","n/a","2023","Retired Superior Court Judge for the Northeastern Judicial Circuit for Hall and Dawson Counties","n/a"
+"PEACH STATE BANCSHARES,"INC."","Director","Clifton Hastings","n/a","n/a","2023","Cardiovascular and Thoracic Surgeon at Northeast Georgia Medical Center","n/a"
+"PEACH STATE BANCSHARES,"INC."","Vice Chairman","Joe Hatfield","Vice Chairman","Fieldale Farms","2023","n/a","n/a"
+"PEACH STATE BANCSHARES,"INC."","Director","Ricky Presley","n/a","n/a","2023","Founder of Presco Steel,"Inc."","n/a"
+"PEACH STATE BANCSHARES,"INC."","Director","Nancy Norton","n/a","Kimbrough Investment Partners,"LLC"","2023","Vice President and System Relocation Director at The Norton Agency","n/a"
+"PEACH STATE BANCSHARES,"INC."","Director","Tracy Vardeman","n/a","n/a","2023","Retired Chief Strategy Executive of Northeast Georgia Health System","n/a"
+"PEACH STATE BANCSHARES,"INC."","EVP/Assistant Secretary","Terry Baker","n/a","n/a","2023","n/a","n/a"
+"PEACH STATE BANCSHARES,"INC."","EVP/CFO/ Secretary","Charles Blair","n/a","n/a","2023","n/a","n/a"
+```

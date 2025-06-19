@@ -1,0 +1,17 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2019","James C. Jones,"III"","n/a","n/a","22.538%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2019","Patrick C. Jones","n/a","n/a","22.538%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2019","The Jones Company","n/a","n/a","17.830%","n/a"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2019","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","18.527%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2019","JCJ Investments,"Irrevocable Trust"","n/a","n/a","18.562%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Principal Shareholder","Jones Bancshares,"L.P."","n/a","n/a","2019","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","n/a","J.C. Jones,"Jr. Estate"","n/a","n/a","2019","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2019","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","Director","Patrick Jones","Vice President","Jones Company","2019","n/a","n/a"
+"PrimeSouth Bancshares,"Inc."","n/a","James A. Walker,"Jr."","President","Jones Company","2019","President Jones Company","n/a"
+"PrimeSouth Bancshares,"Inc."","Secretary","W. Nick Taylor","n/a","n/a","2019","n/a","n/a"
+```

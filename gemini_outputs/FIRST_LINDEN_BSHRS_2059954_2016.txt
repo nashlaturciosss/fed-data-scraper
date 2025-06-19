@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Linden Bancshares,"Inc."","Virginia Beach,"VA"","2016","Mr. Clyde G. Jeffrey,"Jr."","Common Stock","2070","8.66%","2059954"
+"First Linden Bancshares,"Inc."","Charlotte,"NC"","2016","Mrs. Sharon Scott McKnight","Common Stock","4008","16.77%","2059954"
+"First Linden Bancshares,"Inc."","Linden,"AL"","2016","Miller Family Partnership","Common Stock","3033","12.69%","2059954"
+"First Linden Bancshares,"Inc."","Linden,"AL"","2016","Mrs. Ann Scott Yelverton","Common Stock","4879","20.42%","2059954"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Linden Bancshares,"Inc."","Director","Mr. Terry Barr","Director","Bogue South,"Inc."","2016","Insurance Agent (retired)","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Boggs,"Jr."","Partner","Lloyd,"Dinning","Boggs"","2016","Attorney","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Wayne Lewis","Director","Lewis LLC","2016","Procurement for Linden Lumber Co. (retired)","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Miller,"Jr."","Partner","Miller Farms","2016","Cattle farmer","2059954"
+"First Linden Bancshares,"Inc."","Director","Mr. Thomas H. Miller,"Jr."","Partner","Thomas & Miller Lumber Co.","2016","Cattle farmer","2059954"
+"First Linden Bancshares,"Inc."","Executive Vice President,"Director"","Mr. John M. Robinson","n/a","n/a","2016","Banker","2059954"
+"First Linden Bancshares,"Inc."","Chairman/CEO/President,"Director"","Mrs. Ann S. Yelverton","Retired Instructor","Alabama Southern College","2016","Banker","2059954"
+"First Linden Bancshares,"Inc."","n/a","Miller Family Prtnrship","n/a","n/a","2016","Partnership","2059954"
+"First Linden Bancshares,"Inc."","n/a","Mrs. Sharon Scott McKnight","n/a","n/a","2016","Social Worker","2059954"
+```

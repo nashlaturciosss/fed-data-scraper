@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2017","Johnny Wayne Farris","n/a","133335","25.2%","4166397"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2017","Keith D Rugel","n/a","110000","20.8%","4166397"
+"First Peoples Bancorp,"Inc."","Knoxville,"Tennessee"","2017","Timothy F. Neal","n/a","133335","25.2%","4166397"
+"First Peoples Bancorp,"Inc."","New Market,"Tennessee"","2017","Jack A Hodgson","n/a","58187","11.0%","4166397"
+"First Peoples Bancorp,"Inc."","New Market,"Tennessee"","2017","Melanie T. Hodgson","n/a","29813","5.6%","4166397"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2017","Eli N. Matijevich","n/a","44000","8.3%","4166397"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Director and Chairman","Johnny Wayne Farris","Director and Chairman","Farris Motor Company","2017","Auto Dealer","4166397"
+"First Peoples Bancorp,"Inc."","Director","Keith D Rugel","Director","Rugel Church Furnishings,"Inc."","2017","Executive","4166397"
+"First Peoples Bancorp,"Inc."","Director","Timothy F. Neal","Director","Fairfax Development,"Inc."","2017","Development","4166397"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","Director","TN Heritage Company","2017","Aerospace Sales and Marketing","4166397"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","Director","Integrated Resources","2017","Aerospace Sales and Marketing","4166397"
+"First Peoples Bancorp,"Inc."","Director","Eli N. Matijevich","Director","n/a","2017","Retired","4166397"
+"First Peoples Bancorp,"Inc."","Director and President","Jeff Pratt","Director and President","n/a","2017","Banker","4166397"
+"First Peoples Bancorp,"Inc."","Secretary","Carla A. Hickey","Senior Vice President and Cashier","n/a","2017","Banker","4166397"
+```

@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Crews Banking Corporation","Wauchula,"Florida"","2016","J. W. Crews,"Jr."","Crews Banking Corporation","21274","49.70%","n/a"
+"Crews Banking Corporation","St,"Arcadia","Florida"","2016","W. Markam Crews","Crews Banking Corporation","7176","16.77%","n/a"
+"Crews Banking Corporation","Tampa,"Florida"","2016","Dena M. Crews Aloian","Crews Banking Corporation","7176","16.77%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Crews Banking Corporation","President; Director","J. W. Crews,"Jr."","n/a","n/a","2016","Banker","n/a"
+"Crews Banking Corporation","Chairman; Director","J. W. Crews,"Jr."","n/a","n/a","2016","Banker","n/a"
+"Crews Banking Corporation","Director","H. D. Crews","n/a","n/a","2016","Physician/Retired","n/a"
+"Crews Banking Corporation","Vice President; Director","H. D. Crews","n/a","n/a","2016","Physician/Retired","n/a"
+"Crews Banking Corporation","Director","W. Markam Crews","n/a","JDM Partnership - Citrus Grove","2016","Entrepreneur","n/a"
+"Crews Banking Corporation","Director","W. Markam Crews","n/a","Bowling Green Storage,"Inc."","2016","Entrepreneur","n/a"
+"Crews Banking Corporation","Director","W. Markam Crews","n/a","3-C Ranch,"Limited"","2016","Entrepreneur","n/a"
+"Crews Banking Corporation","Director","J. W. Crews,"IV"","n/a","T & C Investments","2016","Banker","n/a"
+"Crews Banking Corporation","Director","J. W. Crews,"IV"","n/a","3-C Ranch,"Limited"","2016","Banker","n/a"
+"Crews Banking Corporation","Director","J. W. Crews,"IV"","n/a","Crews Family Holdings,"LLC"","2016","Banker","n/a"
+"Crews Banking Corporation","Director","J. W. Crews,"IV"","n/a","Shorewood Corporation","2016","Banker","n/a"
+"Crews Banking Corporation","Director","Dena M. Crews Aloian","n/a","n/a","2016","Real Estate Agent","n/a"
+"Crews Banking Corporation","Vice Chairman; Director","Michael Aloian","Trust Banker","n/a","2016","Trust Banker","n/a"
+```

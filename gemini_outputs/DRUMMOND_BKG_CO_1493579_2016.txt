@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Drummond Banking Company","Chiefland,"FL"","2016","Graham Luther Drummond Irrevocable Trust","common stock","57075","57%","n/a"
+"Drummond Banking Company","Chiefland,"FL"","2016","Jack Mann Revocable Trust","common stock","5000","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Drummond Community Bank","Chairman","Luther Drummond","Chairman","Drummond Community Bank","2016","Bank Chairman","1436071"
+"Drummond Community Bank","CEO/Director","Gray Drummond","Director","Drummond Community Bank","2016","Bank CEO","1436071"
+"Drummond Community Bank","President/Director","Gray Drummond","Director","Bankers Title of the Nature Coast","2016","Bank CEO","1436071"
+"Drummond Community Bank","SVP/CFO","Todd Battle","Secretary/Treasurer","Drummond Community Bank","2016","Bank CFO","1436071"
+```

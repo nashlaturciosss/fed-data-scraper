@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBG FINANCIAL SERVICES","Graceville,"FL"","2016","Scott Howell","common stock","1351","6.76%","n/a"
+"PBG FINANCIAL SERVICES","Jacksonville,"FI"","2016","Suzanne M. Sheffield & Joseph A. Sheffield","common stock","2324","11.62%","n/a"
+"PBG FINANCIAL SERVICES","Graceville,"USA"","2016","C. Finley McRae","common stock","1088","5.44%","n/a"
+"PBG FINANCIAL SERVICES","Graceville,"USA"","2016","Donald R. & Anne Graham","common stock","1100","5.51%","n/a"
+"PBG FINANCIAL SERVICES","Graceville,"USA"","2016","Robert F. McRae,"Jr."","common stock","2761","13.81%","n/a"
+"PBG FINANCIAL SERVICES","Graceville,"USA"","2016","C. Finley McRae","common stock","4096","20.48%","n/a"
+"PBG FINANCIAL SERVICES","Dunedin,"Fl. USA"","2016","David M. Pelham","common stock","338","1.69%","n/a"
+"PBG FINANCIAL SERVICES","Immokalee,"Fl.USA"","2016","John Clifford Pelham","common stock","338","1.69%","n/a"
+"PBG FINANCIAL SERVICES","Maitland,"Fl. USA"","2016","Kenneth Boyd Pelham","common stock","337","1.69%","n/a"
+"PBG FINANCIAL SERVICES","Orlando,"Fl. USA"","2016","Robert Frank Pelham","common stock","338","1.69%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBG FINANCIAL SERVICES","Pres. /Chrm. & Director","Donald R. Graham","Chrm. & Director","Peoples Bank of Graceville","2016","Chairman,"Inv. Officer"","717232"
+"PBG FINANCIAL SERVICES","Director","Michael T Smith","Director","Peoples Bank of Graceville","2016","Comptroller Rex Lumber & Related Companies","717232"
+"PBG FINANCIAL SERVICES","Director","Joseph Jernigan","Director","Peoples Bank of Graceville","2016","CEO Arnold Lumber Co.","717232"
+"PBG FINANCIAL SERVICES","Director","Joseph Jernigan","CEO","Jernigan Co. LLC","2016","CEO Arnold Lumber Co.","717232"
+"PBG FINANCIAL SERVICES","Director","Joseph Jernigan","Chrm. CEO","Arnold Lumber Co","2016","CEO Arnold Lumber Co.","717232"
+"PBG FINANCIAL SERVICES","Director","Joseph Jernigan","Mg. Member","Jernigan Forest Products,"LLC"","2016","CEO Arnold Lumber Co.","717232"
+"PBG FINANCIAL SERVICES","Director","Ronald Barber","Director","Peoples Bank of Graceville","2016","Mgr. /Owner Campbellton Farm Service","717232"
+"PBG FINANCIAL SERVICES","Director","C. Finley McRae","Director","Peoples Bank of Graceville","2016","Independent Sawmill Owner","717232"
+"PBG FINANCIAL SERVICES","VP/Director","David M. Watford","Pres.,"CEO","V. Chrm. Director"","Peoples Bank of Graceville","2016","President Peoples Bank Graceville","717232"
+"PBG FINANCIAL SERVICES","Director Secretary","John B. Turner","Sec/Director","Peoples Bank of Graceville","2016","Auditor Peoples Bank Graceville","717232"
+"PBG FINANCIAL SERVICES","Treasurer","Carol C. Smith","EVP & Cashier","Peoples Bank Graceville","2016","EVP/Cashier Peoples Bank of Graceville","717232"
+```

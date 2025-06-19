@@ -1,0 +1,17 @@
+"Here are the two tables extracted from the document","in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First St Charles Bancshares,"Inc"","n/a","2023","R. Brandt Dufrene","n/a","n/a","n/a","n/a"
+"First St Charles Bancshares,"Inc"","n/a","2023","Gregory M. Stock","n/a","n/a","n/a","n/a"
+"First St Charles Bancshares,"Inc"","n/a","2023","William S. Eschete,"Jr."","n/a","n/a","n/a","n/a"
+"First St Charles Bancshares,"Inc"","n/a","2023","Mark J. Maheu","n/a","n/a","n/a","n/a"
+"First St Charles Bancshares,"Inc"","n/a","2023","Glenn J. Remondet","n/a","n/a","n/a","n/a"
+"First St Charles Bancshares,"Inc"","n/a","2023","David E. Fabre","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First St Charles Bancshares,"Inc"","President","Brandt Dufrene","n/a","n/a","2023","n/a","n/a"
+"First St Charles Bancshares,"Inc"","CFO","Mark Maheu","n/a","n/a","2023","n/a","n/a"
+```

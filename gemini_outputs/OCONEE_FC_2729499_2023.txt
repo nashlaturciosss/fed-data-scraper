@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2023","Wells Family (Virginia S. Wells)","Common Stock","263773","25.23%","n/a"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2023","Hardigree-Stephenson Family","Common Stock","83701","8.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oconee Financial Corporation","Executive VP","Philip A. Bernardi","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","n/a","2023","Retired","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","n/a","Fifteen Properties,"LLC"","2023","Retired","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","n/a","KBB,"LLC"","2023","Retired","n/a"
+"Oconee Financial Corporation","Director","Brian J. Brodrick","Partner & Board Member","Jackson Spalding","2023","Marketing & Communications","n/a"
+"Oconee Financial Corporation","Director & Vice Chairman","J. Albert Hale,"Sr."","Retired","n/a","2023","Retired","n/a"
+"Oconee Financial Corporation","Director","Laura Whitaker","Chief Executive Officer","Extra Special People,"Inc."","2023","Social Services","n/a"
+"Oconee Financial Corporation","Director Principal S/H","Holly H Stephenson","County Clerk - Oconee County Board of Commissioners","n/a","2023","County Clerk","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Physician/Cardiologist-Piedmont Heart Institute","n/a","2023","Cardiologist & Professor","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Professor - Medical College of Georgia","n/a","2023","Cardiologist & Professor","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","CEO","Infrared RX,"Inc."","2023","Cardiologist & Professor","n/a"
+"Oconee Financial Corporation","Director","W. Toby Smith","Shareholder","Trinity Accounting Group,"P.C."","2023","Certified Public Accountant","n/a"
+"Oconee Financial Corporation","Director","W. Toby Smith","Member","TSR,"LLP"","2023","Certified Public Accountant","n/a"
+"Oconee Financial Corporation","Director & President/CEO","T. Neil Stevens","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","President & CEO","Wells & Company Realtors,"Inc."","2023","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","Limited Partner","VSC Properties,"LLLP"","2023","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","Limited Partner","McRee Properties,"LLLP"","2023","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director","Tony Powell","President","Powell Home Builders,"Inc."","2023","Residential Construction","n/a"
+"Oconee Financial Corporation","Director","Tony Powell","President","TKP Development,"LLC"","2023","Residential Construction","n/a"
+"Oconee Financial Corporation","Executive VP","Jim McLemore","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Executive VP","Cristi Donahue","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Executive VP","Tom Wilson","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Executive VP","Selena B. Ruth","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Executive VP","John Davis","n/a","n/a","2023","N/A","n/a"
+"Oconee Financial Corporation","Director","Robert E Paul,"Jr."","General Manager","Eagle Granite Company","2023","General Manager","n/a"
+```

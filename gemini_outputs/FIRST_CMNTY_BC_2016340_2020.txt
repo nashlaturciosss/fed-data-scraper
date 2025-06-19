@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC"","Shelbyville,"Tennessee"","2020","J.T. Darnell","Common Stock","130886","10.73%","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Shelbyville,"Tennessee"","2020","Kathleen Coldwell McGrew Canady","Common Stock","102095","8.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC"","Director","David E. McGee","Owner","McGee's Prescription Shop","2020","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","David E. McGee","Owner","D & E Alarm","2020","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","David E. McGee","Owner","Tullahoma Drugs","2020","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","K. Brent Canady","None","None","2020","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","President / Director","Scott Cocanougher","None","None","2020","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","William T. Clifford","None","None","2020","Retired Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","Barry D. Cooper","1/2 owner","Cooper Properties","2020","Steel Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Principal Shareholder","J. T. Darnell","Retired","None","2020","Retired Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","Thurman Lee Adcock","Chief Manager","Adcock Design Build and Lease LLC","2020","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","Thurman Lee Adcock","Part Owner","ARD Properties","2020","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","Thurman Lee Adcock","Part Owner","Popular Hill LLC","2020","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","James Clark Shelbyville","None","None","2020","Retired Dentist","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Director","Mark Cannon","Cannon Properties","Cannon Properties","2020","Retired from Verizon","n/a"
+```

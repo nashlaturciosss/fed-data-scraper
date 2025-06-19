@@ -1,0 +1,28 @@
+"Here are the two CSV tables extracted from the provided FR Y-6 form","adhering to the specified format and instructions."
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"JD Bancshares,"Inc."","Jennings,"LA"","2019","Dan L. Donald,"Jr."","n/a","142072","9.11%","n/a"
+"JD Bancshares,"Inc."","Jennings,"LA"","2019","David B. Donald","n/a","89800","5.76%","n/a"
+"JD Bancshares,"Inc."","New York,"NY"","2019","Cede & Company","n/a","612798","39.28%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"JD Bancshares,"Inc."","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC (Medical Corp)","2019","OB/GYN Physician","n/a"
+"JD Bancshares,"Inc."","Director","Clarence Berken","Partner","Berken Brothers","2019","Self-employed Farmer","n/a"
+"JD Bancshares,"Inc."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2019","Certified Public Accountant","n/a"
+"JD Bancshares,"Inc."","Director","Daryl Burckel","President","Burckel Family,"LLC"","2019","Certified Public Accountant","n/a"
+"JD Bancshares,"Inc."","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2019","President Oilfield Equipment Sales,"Inc."","n/a"
+"JD Bancshares,"Inc."","Director","Andrew Cormier","President","Oilfield Equipment Sales,"Inc."","2019","President Oilfield Equipment Sales,"Inc."","n/a"
+"JD Bancshares,"Inc."","Director","Milton Ray Crochet","President","SWD,"Inc."","2019","President Calcasieu Rentals,"Inc."","n/a"
+"JD Bancshares,"Inc."","Director Chairman","Dan L. Donald,"Jr."","n/a","n/a","2019","n/a","n/a"
+"JD Bancshares,"Inc."","Director Vice Chairman","David B. Donald","n/a","n/a","2019","Manager/Owner Donald Farms","n/a"
+"JD Bancshares,"Inc."","President & CEO","Bruce Elder","n/a","n/a","2019","N/A","n/a"
+"JD Bancshares,"Inc."","Director","Ray Hines","President","Scoboco,"Inc."","2019","n/a","n/a"
+"JD Bancshares,"Inc."","Director","Thomas E. Leger","President","Thomas E. Leger,"DDS","Inc."","2019","Dentist","n/a"
+"JD Bancshares,"Inc."","Director Secretary","Sara A. Roberts","President","Sara A. Roberts,"CPA","APAC"","2019","President Sara A. Roberts,"CPA","APAC"","n/a"
+"JD Bancshares,"Inc."","Director","Victor T. Stelly","President","Vic Stelly Insurance Agency,"Inc."","2019","N/A","n/a"
+"JD Bancshares,"Inc."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2019","N/A","n/a"
+"JD Bancshares,"Inc."","n/a","Cede & Company","n/a","n/a","2019","N/A","n/a"
+```

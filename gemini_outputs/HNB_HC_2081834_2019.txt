@@ -1,0 +1,21 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"HNB FIRST Bank","Headland,"Al"","2019","Marilyn E. McClendon Family Trust","n/a","1000","8.33%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2019","Don F. McClendon","n/a","687","5.73%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2019","Sam R. Vann,"III"","n/a","942","7.85%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2019","Mark Espy Sr. Family Trust","n/a","790","6.58%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2019","Natalie E. Woods","n/a","826","6.88%","n/a"
+"HNB FIRST Bank","Auburn,"AL"","2019","Valarie Smith","n/a","871","7.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"HNB FIRST Bank","Chairman and President","Don F. McClendon","Director and Vice Chairman","Espy Mercantile","2019","Chairman of the Board of HNB FIRST Bank","n/a"
+"HNB FIRST Bank","Vice Chairman and Vice President","Miles V. Espy,"Sr."","Partner","Draffin & Tucker","2019","CPA","n/a"
+"HNB FIRST Bank","Secretary and Treasury","Dwight L. Gamble","President","GambleTown Farm Inc.","2019","President/CEO of HNB FIRST Bank","n/a"
+"HNB FIRST Bank","Secretary and Treasury","Dwight L. Gamble","n/a","CADA Properties,"LLC"","2019","President/CEO of HNB FIRST Bank","n/a"
+"HNB FIRST Bank","Director","William E. Woods","Chairman/President","Espy Mercantile Company,"Inc."","2019","n/a","n/a"
+"HNB FIRST Bank","Director","Rimson Solomon","Owner and President","Solomon Insurance","2019","n/a","n/a"
+```

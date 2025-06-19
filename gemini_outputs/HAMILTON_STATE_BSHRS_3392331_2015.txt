@@ -1,0 +1,22 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","following all specified instructions."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","New York,"New York"","2015","Angela,"Gordon & Co.","L.P."","common stock","n/a","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","New York,"New York"","2015","Tailwind Capital Group LLC","common stock","n/a","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","Columbus,"Ohio"","2015","State Teachers Retirement System of Ohio","common stock","n/a","n/a","3392331"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","Chairman,"Chief Executive Officer and Director"","Robert C. Oliver","n/a","n/a","2015","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","Secretary","Neal W. Booth,"Sr."","n/a","n/a","2015","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","Executive Vice President,"Chief Financial Officer"","Jeffrey A. Powell","n/a","n/a","2015","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Raymond R. Christman","SVP","The Trust for Public Land","2015","Non-Pro Executive","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","Fiserv Inc.","2015","Financial Executive","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","Crowdstrike Inc.","2015","Financial Executive","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","The Warranty Group","2015","Financial Executive","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Arthur J. Peponis","Managing Partner","Encore Financial Partners Inc.","2015","n/a","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Donald J. Heroman","Retired Attorney Simpson Thacher & Bartlett LLP","n/a","2015","Retired Executive","3392331"
+"Hamilton State Bancshares,"Inc."","Director","Steven M. Shafran","Executive Director","Sun Valley Ski Academy","2015","n/a","3392331"
+```

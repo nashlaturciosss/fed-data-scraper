@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2020","Geneva Blackburn","n/a","13500","11.06%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2020","Robert Walthall","n/a","8031","6.58%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2020","Charles Dunkin","n/a","7403","6.06%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2020","Mary King Dunkin","n/a","6274","5.14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion Bancshares,"Inc."","Chairman","Sam Givhan","Farmer","n/a","2020","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Sam Givhan","n/a","Givhan Land and Cattle Company","2020","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Roy Barnett,"Jr."","Retired Business Owner","n/a","2020","Retired Business Owner","n/a"
+"Marion Bancshares,"Inc."","Director","Charles Dunkin","CEO","Dunkin / Lewis,"Inc."","2020","CEO - Dunkin / Lewis,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","Bruce Fuller","CEO","Fuller Building & Supply Co.,"Inc."","2020","CEO - Fuller Building & Supply Co.,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","Robert C. Walthall","Partner","Jones Walker","2020","Attorney","n/a"
+"Marion Bancshares,"Inc."","Director","R. Guy Davis","Banker","n/a","2020","Banker","n/a"
+"Marion Bancshares,"Inc."","Pres/CEO/Director","R. Guy Davis","Banker","n/a","2020","Banker","n/a"
+"Marion Bancshares,"Inc."","Director","James L. Parnell","Partner","Parnell,"Inc."","2020","n/a","n/a"
+"Marion Bancshares,"Inc."","Director","James L. Parnell","President","Alfa Insurance","2020","n/a","n/a"
+"Marion Bancshares,"Inc."","Director","Geneva Blackburn","Retired Medical Technologist","UAB Hospital","2020","Retired Medical Technologist,"UAB Hospital"","n/a"
+"Marion Bancshares,"Inc."","Director","E.R. Richardson","n/a","n/a","2020","NA","n/a"
+```

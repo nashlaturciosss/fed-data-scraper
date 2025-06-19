@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Bancshares,"Inc."","Baton Rouge,"LA"","2014","Ann S. Keogh","Common Stock","922","10.54%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2014","David Kessler","Common Stock","1243","14.21%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2014","Paul Buckley Kessler","Common Stock","853","9.75%","3135471"
+"Commerce Bancshares,"Inc."","Atlanta,"GA"","2014","Alison C. Sample","Common Stock","488","5.58%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2014","Melvin Schudmak","Common Stock","1372","15.69%","3135471"
+"Commerce Bancshares,"Inc."","Gulf Breeze,"Florida"","2014","Lisa Tidwell","Common Stock","763","8.72%","3135471"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Bancshares,"Inc."","Director","Scott Kessler","Director","Cora Texas Manufacturing,"LLC"","2014","Manufacturing","3135471"
+"Commerce Bancshares,"Inc."","Director","James E. Abadie,"Jr."","Director","n/a","2014","Bank of Commerce","3135471"
+"Commerce Bancshares,"Inc."","Director & President/Chairman of the Board","David Kessler","Director & President/Chairman of the Board","n/a","2014","Bank of Commerce","3135471"
+"Commerce Bancshares,"Inc."","Director","Melvin Schudmak","Director","Cora Texas Manufacturing,"Inc."","2014","n/a","3135471"
+"Commerce Bancshares,"Inc."","Director","Ann Keogh","Director","n/a","2014","n/a","3135471"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","President","Villon Drug Co.,"Inc."","2014","Pharmacist","3135471"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","President","Pharmaceuticals,"Inc."","2014","Pharmacist","3135471"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Member","VVM. LLC","2014","Pharmacist","3135471"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Member","Stematix,"Inc."","2014","Pharmacist","3135471"
+"Commerce Bancshares,"Inc."","Director","James Dupont","Director","Dupont & Dupont","2014","Attorney","3135471"
+"Commerce Bancshares,"Inc."","Director","James Dupont","President","James Dupont,"Inc."","2014","Attorney","3135471"
+"Commerce Bancshares,"Inc."","Director","Alton Landry Sr.","Director","n/a","2014","n/a","3135471"
+"Commerce Bancshares,"Inc."","Director","Charles Schudmak","Director","Cora Texas Manufacturing,"LLC"","2014","Business Owner","3135471"
+"Commerce Bancshares,"Inc."","Director & Secretary","Harold Shexnayder","Director & Secretary/Assistant Manager","Cora Texas Manufacturing,"LLC"","2014","Manufacturing","3135471"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr"","Director","EJS,"Inc."","2014","n/a","3135471"
+"Commerce Bancshares,"Inc."","Director","Paul Bradley Kessler","Director","n/a","2014","Manufacturing","3135471"
+```

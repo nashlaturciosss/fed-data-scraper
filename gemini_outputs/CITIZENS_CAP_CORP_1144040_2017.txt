@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens' Capital Corporation","Robertsdale,"Alabama"","2017","Linda W. Gulledge","Common Stock","19114","20.72%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2017","Robert I. Gulledge Revocable Trust","Common Stock","16739","18.14%","n/a"
+"Citizens' Capital Corporation","Mobile,"Alabama"","2017","Robert I. Gulledge,"II"","Common Stock","7784","8.44%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2017","Thomas W. Gulledge","Common Stock","7784","8.44%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2017","John A. Nelson,"II"","Common Stock","5000","5.42%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2017","Beverly J. Potter","Common Stock","5629","6.10%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2017","Robert I. Gulledge","Common Stock","16739","18.14%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens' Capital Corporation","None","Robert I. Gulledge","Retired","n/a","2017","None","n/a"
+"Citizens' Capital Corporation","Director","Paul E. Hollingsworth","Retired","n/a","2017","Retired Educator","n/a"
+"Citizens' Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","n/a","2017","Law Enforcement","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Methodist Church","2017","Minister","n/a"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secour Fisheries","2017","Seafood Processing","n/a"
+"Citizens' Capital Corporation","Secretary","Ryan Gerstenschlager","n/a","n/a","2017","Banker","n/a"
+"Citizens' Capital Corporation","Director","Linda W. Gulledge","n/a","n/a","2017","Retired Educator","n/a"
+"Citizens' Capital Corporation","None","Robert E. Wilters","District Attorney","n/a","2017","District Attorney","n/a"
+"Citizens' Capital Corporation","Vice President Treasurer","Andrea N. Noonan","n/a","n/a","2017","Banker","n/a"
+"Citizens' Capital Corporation","None","Donna M. Vereen","Chief Operations Officer","n/a","2017","Banker","n/a"
+"Citizens' Capital Corporation","Director","Thomas W. Gulledge","President and Chairman","n/a","2017","Banker","n/a"
+```

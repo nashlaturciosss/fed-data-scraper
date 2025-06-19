@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","New York,"NY"","2018","CGMI (holds EJF Sidecar Fund Series LLC)","n/a","278093","9.5%","n/a"
+"InsCorp,"Inc."","New York,"NY"","2018","Jefferies (holds Mendon Capital Masters Fund LTD)","n/a","278093","9.5%","n/a"
+"InsCorp,"Inc."","San Francisco,"CA"","2018","Wells Fargo","n/a","183312","6.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","CFO","W. Page Barnes","Director","INSBANK","2018","Director","n/a"
+"InsCorp,"Inc."","Executive Vice President","David P. Crabtree","Director","Brookside Properties,"Inc."","2018","Real Estate Development","n/a"
+"InsCorp,"Inc."","n/a","Richard Hollis","Director","Hollis & Burns,"Inc."","2018","Insurance","n/a"
+"InsCorp,"Inc."","n/a","Stacey Garrett Koju","Director","n/a","2018","Attorney","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Loventhal Brothers Inc.","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Loventhal Financial Services,"Inc."","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Noshville,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Noshville Delicatessen,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Noshville Delicatessen II,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Loventhal Land Group,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","Ivy Planning Group","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","142nd Street Properties","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","LKS,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","Director Officer-Chairman","Tom Loventhal,"President"","Director","LMV Capital,"LLC"","2018","Investor","n/a"
+"InsCorp,"Inc."","n/a","C. Louis Patten,"Jr."","Director","n/a","2018","Insurance","n/a"
+"InsCorp,"Inc."","Officer - Secretary Officer-Treasurer","Dennis Petty","Director","Dennis W. Petty,"CPA"","2018","CPA","n/a"
+"InsCorp,"Inc."","Chairman","Michael A. Qualls","Director Officer-Chairman","InsBank","2018","Banking","n/a"
+"InsCorp,"Inc."","President/CEO Officer-Pres/CEO","James H. Rieniets,"Jr."","Director","Gracious Henry Properties,"LLC"","2018","Banking","n/a"
+"InsCorp,"Inc."","n/a","Charles Tagman,"Jr."","Director","Risko Group,"LLC"","2018","Consulting","n/a"
+"InsCorp,"Inc."","n/a","Philip R. Zanone,"Jr."","Director","Green River Properties","2018","Investments","n/a"
+"InsCorp,"Inc."","n/a","Philip R. Zanone,"Jr."","Director","MPC Properties","2018","Investments","n/a"
+```

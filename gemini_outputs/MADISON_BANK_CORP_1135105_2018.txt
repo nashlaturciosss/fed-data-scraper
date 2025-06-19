@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Bank Corp.","Madison,"GA"","2018","Lambert Family Investment Holdings,"LLLP"","Common Stock","4461","16.80%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2018","Old Post Road,"LP Family Partnership"","Common Stock","6665","25.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp.","n/a","James W. Boyd,"Jr."","Director","Jim Boyd Agency,"Inc."","2018","Insurance Agent","752831"
+"Madison Bank Corp.","Director","Lowry W Hunt,"Jr."","n/a","Godfrey's Warehouse","2018","Agriculture Product","752831"
+"Madison Bank Corp.","Director","Floyd C. Newton,"III"","Partner","King & Spalding","2018","Attorney","752831"
+"Madison Bank Corp.","President / CEO","Charles H Haney,"III"","n/a","n/a","2018","n/a","752831"
+"Madison Bank Corp.","Chairman","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2018","Certified Public Accountant","752831"
+"Madison Bank Corp.","Sr Vice Pres. / CFO,"Secretary"","L. Clifton Hanes","n/a","Hanes & White Inc","2018","n/a","752831"
+"Madison Bank Corp.","Director","Robert T Prior","n/a","Prior & Daniel LLC","2018","Attorney","752831"
+"Madison Bank Corp.","n/a","Estate of Floyd C Newton,"Jr"","n/a","n/a","2018","n/a","752831"
+"Madison Bank Corp.","Director","Ann Lambert Trulock","n/a","n/a","2018","Not Employed","752831"
+"Madison Bank Corp.","n/a","John M Moore","n/a","n/a","2018","Owner Madison Car Care","752831"
+"Madison Bank Corp.","Senior Lender,"Director"","H. Vinson DeLaigle","n/a","n/a","2018","n/a","752831"
+```

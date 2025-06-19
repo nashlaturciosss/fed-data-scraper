@@ -1,0 +1,25 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2015","Paul Ray","Common Stock","110173","13.77%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2015","Max Ray","Common Stock","110173","13.77%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2015","Delmo Payne","Common Stock","123994","15.50%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2015","Gerald Terrell","Common Stock","131299","16.41%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Director","Charles Babb","n/a","n/a","2015","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Hulsey Logging Owner","Hulsey Logging","2015","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Johnny Mack Lawler","Lawler & Cole,"CPA Partner"","Lawler & Cole","2015","Lawler & Cole,"CPA"","n/a"
+"Hometown Bancshares,"Inc."","Director,"Riverbirch Homes President"","Delmo Payne","Riverbirch Homes President","Riverbirch Homes","2015","n/a","n/a"
+"Hometown Bancshares,"Inc."","Director","Max Ray","Northwest Shoals Advisor","Northwest Shoals","2015","Retired","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Paul Ray","n/a","n/a","2015","*Deceased","n/a"
+"Hometown Bancshares,"Inc."","Director,"Riverbirch Homes Vice President"","Gerald Terrell","Riverbirch Homes Vice President","Riverbirch Homes","2015","Riverbirch Homes Vice President","n/a"
+"Hometown Bancshares,"Inc."","Director and President","Randy Whitehead","Chief Executive Offr","Peoples Trust Bank","2015","Peoples Trust Bank CEO","n/a"
+"Hometown Bancshares,"Inc."","Secretary","Rebecca Cummings","Chief Operations Offr","Peoples Trust Bank","2015","PeoplesTrust Bank Chief Operations Officer","n/a"
+"Hometown Bancshares,"Inc."","n/a","Ronnie Ellis","City President","Peoples Trust Bank","2015","PeoplesTrust Bank City President","n/a"
+"Hometown Bancshares,"Inc."","n/a","Eric Poe","Senior Loan Officer","Peoples Trust Bank","2015","PeoplesTrust Bank Senior Loan Officer","n/a"
+"Hometown Bancshares,"Inc."","n/a","George R Hibbett Jr","City President","Peoples Trust Bank","2015","PeoplesTrust Bank City President","n/a"
+```

@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commercial Bank","DeKalb,"MS"","2019","T.R. Daws","n/a","18245","6.06%","700430"
+"Commercial Bank","DeKalb,"MS"","2019","Margaret S. Womble","n/a","19324","6.42%","700430"
+"Commercial Bank","DeKalb,"MS"","2019","James D. Spinks","n/a","20136","6.68%","700430"
+"Commercial Bank","Ranson Canyon TX","2019","Louie P Spinks","n/a","15680","5.21%","700430"
+"Commercial Bank","DeKalb,"MS"","2019","William Clay","n/a","18725","6.22%","700430"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commercial Bank","Pres. CEO","Michael Dudley","President & CEO","Commercial Bank","2019","n/a","700430"
+"Commercial Bank","Chairman","Bill Clay","Operator of Clay Feeds","n/a","2019","Operator of Clay Feeds","700430"
+"Commercial Bank","Vice President","Wyatt Webb","n/a","n/a","2019","n/a","700430"
+"Commercial Bank","n/a","David Sorrels","Retired Insurance Agent","n/a","2019","Retired Insurance Agent","700430"
+"Commercial Bank","n/a","Robert Sanford","n/a","Benefits Management Group","2019","President & CEO","700430"
+"Commercial Bank","n/a","Robert Sanford","n/a","Commercial Insurance Agency","2019","President & CEO","700430"
+"Commercial Bank","n/a","Mike Pilgrim","Owner of Quick Cash","n/a","2019","Owner of Quick Cash","700430"
+"Commercial Bank","Secretary","James D. Spinks","Attorney","n/a","2019","Attorney","700430"
+"Commercial Bank","Vice Chairman","Margaret Womble","n/a","n/a","2019","Retired Publications Editor/teacher","700430"
+"Commercial Bank","n/a","Kent McClain","n/a","McLain Plumbing & Electrical Service","2019","Owner of","700430"
+```

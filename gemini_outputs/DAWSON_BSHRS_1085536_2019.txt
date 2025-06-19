@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2019","H. P. Smith","n/a","19219","50.46%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2019","Jack Laing","n/a","2360","6.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Barry N. Lyle","n/a","n/a","2019","n/a","193537"
+"Dawson Bancshares,"Inc."","Secretary & Treasurer,"Dawson Bancshares","Inc."","Barry N. Lyle","n/a","n/a","2019","n/a","193537"
+"Dawson Bancshares,"Inc."","President and CEO,"Bank of Dawson"","Barry N. Lyle","n/a","n/a","2019","n/a","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","W.T. Gamble,"Jr."","Owner/operator","Gamble Farms,"Inc."","2019","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Jack Laing","n/a","n/a","2019","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","William Thomas Rountree","Owner/Editor","Dawson News","2019","Owner/Editor of Dawson News","193537"
+"Dawson Bancshares,"Inc."","Director & Chairman,"Dawson Bancshares","Inc."","H.P. Smith","n/a","n/a","2019","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Phonso Donaldson","n/a","n/a","2019","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Milton F. Foster","n/a","Foster Easypay Tire","2019","Owner - tire business","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Brad Stafford","President","Brad Stafford,"Inc."","2019","Owner - furniture store","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Charles Scott","n/a","Dawson Pharmacy","2019","Pharmacist","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","John Leach","Managing Partner","Flo-Rob,"Inc."","2019","Real Estate Investments","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc."","Edward Collier","Partner","CollierGamble","2019","Attorney","193537"
+```

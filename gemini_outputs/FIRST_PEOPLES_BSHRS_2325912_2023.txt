@@ -1,0 +1,32 @@
+Here are the two CSV tables in plain text format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bankshares","Inc.","n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","Director","Carlisle Service Company,"LLC"","2023","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President / CEO","Carlisle Construction Company,"LLC"","2023","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Shiloh Investment property","2023","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Tower Rock Raceway,"LLC"","2023","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Valley Pallet and Crating,"LLC"","2023","Construction","n/a"
+"First Peoples Bankshares,"Inc."","EVP/SLO\nExecutive","Doug Etheridge","EVP/SLO\nExecutive","n/a","2023","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Alex A. Hill","General Partner","Hill Family Holdings,"LLLP"","2023","Retired","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Yellow Jacket Rivers Rats,"LLC"","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Pine Mountain Flyers","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Owner","Cotton Alley Holdings,"LLC"","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Donna Lyn Clements","n/a","n/a","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","Partner","Camp Investments,"LP"","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","President","Camp Investments,"(G.P.)","Inc."","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","Partner","Premier South Investments,"LLC"","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Secretary\nDirector","Jane J. Lawson","Secretary","Jenkins Company","2023","Banking","n/a"
+"First Peoples Bankshares,"Inc."","EVP/CFO\nExecutive","J. Randal McKoon","n/a","n/a","2023","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Sally Sharpless","Owner","Harris City,"LLC"","2023","Investor","n/a"
+"First Peoples Bankshares,"Inc."","EVP/CSO","Casey Smith","n/a","n/a","2023","Banking","n/a"
+"First Peoples Bankshares,"Inc."","President","Charles Sweat","n/a","n/a","2023","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Principal Shareholder","Capital City Bank Group,"Inc."","n/a","n/a","2023","N/A","n/a"
+"First Peoples Bankshares,"Inc."","Principal Shareholder","Ann Hill","n/a","n/a","2023","N/A","n/a"
+"First Peoples Bankshares,"Inc."","Director Emeritus","Mack H. Clements,"MD"","n/a","n/a","2023","Retired","n/a"
+```

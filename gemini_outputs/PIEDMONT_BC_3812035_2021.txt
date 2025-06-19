@@ -1,0 +1,24 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Atlanta,"GA"","2021","J. Paul Maggard and family","Common Stock","1669649","7.74%","n/a"
+"Piedmont Bancorp,"Inc."","Atlanta,"GA"","2021","Charles P. Stephens and family","Common Stock","2205925","8.75%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Director,"Director"","W. Ray Barnes","Chairman & CEO","Efficiency Lodge,"Inc."","2021","Hotel Owner","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","C. Lamar Black","Owner","P&B Petroleum","2021","Oil Distributor","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","E. Ray Black,"Sr."","Owner","Cleveland Drugs","2021","Pharmacist","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","Robert D. Cheeley","President and Owner","Cheeley Investments","2021","Attorney","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","Robert D. Cheeley","Attorney","Cheeley Law Group,"LLC"","2021","Attorney","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","Paul D. Donaldson","n/a","n/a","2021","Retired","3489035"
+"Piedmont Bancorp,"Inc."","Vice Chairman & Director,"Vice Chairman & Director"","John J. Howard","President and Co-owner","Howard Brothers","2021","Retail hardware store owner","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","J. Paul Maggard","n/a","Maggard Ventures,"LLC"","2021","Real estate investor","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","J. Paul Maggard","n/a","Maggard Investments,"LLC"","2021","Real estate investor","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","J. Paul Maggard","n/a","Maggard Enterprises","2021","Real estate investor","3489035"
+"Piedmont Bancorp,"Inc."","n/a","T. Michael Tennant","Senior Counsel","Alston & Bird LLP","2021","Retired Attorney","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Chairman and CEO","Director","Chairman and CEO"","Monty G. Watson","n/a","n/a","2021","n/a","3489035"
+"Piedmont Bancorp,"Inc."","SVP and CFO,"Secretary","SVP and CFO","Secretary"","Kelly J. Johnson","n/a","n/a","2021","n/a","3489035"
+"Piedmont Bancorp,"Inc."","Director,"Director"","Charles P. Stephens","n/a","n/a","2021","n/a","3489035"
+```

@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OGS Investments,"Inc."","Gainesville,"FL"","2014","Linda C. Quincy","n/a","21693","8.33%","2744232"
+"OGS Investments,"Inc."","Palatka,"FL"","2014","Quintus Irving Roberts","n/a","23920","9.18%","2744232"
+"OGS Investments,"Inc."","Gainesville,"FL"","2014","Michael E. & Phyllis P. Warren","n/a","22743","8.73%","2744232"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OGS Investments,"Inc."","Director","G. Terrence Crawford","President","Conimar Corp.","2014","Businessman","2744232"
+"OGS Investments,"Inc."","Director","Joseph W. Davis","President","Davis Monk Financial Grp. Inc.","2014","CPA/PFS","2744232"
+"OGS Investments,"Inc."","Director","Joseph W. Davis","Partner","Carr,"Riggs & Ingram"","2014","CPA/PFS","2744232"
+"OGS Investments,"Inc."","Director","Joseph W. Davis","Board Member","Santa Fe Health","2014","CPA/PFS","2744232"
+"OGS Investments,"Inc."","Director","Joseph W. Davis","President","Joseph W. Davis,"CPA","PA"","2014","CPA/PFS","2744232"
+"OGS Investments,"Inc."","Director","Jonathan S. Dean","Owner","Dean & Dean","2014","Attorney","2744232"
+"OGS Investments,"Inc."","Director","Larry T. Ellis","n/a","Owners Primes & Subs.","2014","Retired","2744232"
+"OGS Investments,"Inc."","Director","Franklin K. Lentz Sr.","Owner","Lentz Financial Group","2014","Chartered Financial Consultant","2744232"
+"OGS Investments,"Inc."","Director","Carroll E. Lewis","n/a","CEL Consulting,"Inc."","2014","Businessman","2744232"
+"OGS Investments,"Inc."","Director","Carroll E. Lewis","n/a","Bobcat of Ocala","2014","Businessman","2744232"
+"OGS Investments,"Inc."","Director","Winfred M. Phillips","Sr. Vice President & Chief Operating Officer","University of Florida","2014","Sr. Vice President University of Florida","2744232"
+"OGS Investments,"Inc."","Director","Christopher E. Smith","Vice President","Sullivan Auto Group","2014","Sales","2744232"
+"OGS Investments,"Inc."","Director","Marilyn L. Tubb","Assoc. VP Special Projects","Santa Fe College","2014","Public Relations Management","2744232"
+"OGS Investments,"Inc."","Director/Chairman","Benny L. Walker","Owner","Walker Furniture","2014","Entreprenuer","2744232"
+"OGS Investments,"Inc."","Director/President","Carl F. Walls","n/a","n/a","2014","Bank President","2744232"
+"OGS Investments,"Inc."","Director","Michael E. Warren","President","AMJ Inc.","2014","Developer","2744232"
+"OGS Investments,"Inc."","CFO/Treasurer/ Secretary","Sheri Higginbotham","SVP/Comptroller","n/a","2014","CPA","2744232"
+"OGS Investments,"Inc."","Chief Operations Officer","Debra Gray","SVP/Cashier","n/a","2014","Banker","2744232"
+```

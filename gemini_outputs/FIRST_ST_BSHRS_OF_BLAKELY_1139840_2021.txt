@@ -1,0 +1,31 @@
+Here are the two CSV tables you requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Lexington,"KY"","2021","Lucy Y. Boutin","Common","4038","07.98%","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Key Largo,"FL"","2021","Blair M. Bynum","Common","5556","10.98%","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Tampa,"FL"","2021","Michael H. Bynum","Common","11336","22.40%","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Tampa,"FL"","2021","Samuel G. Bynum","Common","10271","20.30%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Samuel G. Bynum","Director","TFS Holdings,"Inc."","2021","Investments","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","President/CEO","William D. Lanford","President/CEO","n/a","2021","First State Bank of Blakely","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Kim Warren","n/a","n/a","2021","First State Bank of Blakely","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Michael H. Bynum","Chairman President","TFS Holdings,"Inc."","2021","Investments","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Phil Clinkscales","Director","n/a","2021","Retired","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","James F. Hattaway III","Director President","Hattaway Motors,"Inc."","2021","Automobile Sales","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","James F. Hattaway III","Director President","Hardrock Farms,"LLC"","2021","Automobile Sales","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Robert E. McLendon","Director President","Sunshine Warehouse,"Inc."","2021","Farmer","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Robert E. McLendon","Director President","Albany Cold Storage,"Inc."","2021","Farmer","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Jack Nelson Hattaway","Director Partner","Hattaway Motors,"Inc."","2021","Farmer","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Jack Nelson Hattaway","Director Partner","S.N.L. Farms","2021","Farmer","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Alex Howell,"Jr."","Director","n/a","2021","Retired","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Martin T. Howard,"III"","Director President","Early Tractor Co.,"Inc."","2021","Manager","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Harold Still","Director President","Southern Agcom,"Inc."","2021","Contractor","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Ike Newberry","Director","n/a","2021","Retired","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","n/a","Blair M. Bynum","n/a","TFS Holdings,"Inc."","2021","Investments","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director","Jimmy Loyless","Director","Sycamore Tree Consulting","2021","Bank Consulting","n/a"
+"FIRST STATE BANCSHARES OF BLAKELY,"INC."","Director Attorney","Thomas H. Baxley","Director","n/a","2021","Attorney","n/a"
+```

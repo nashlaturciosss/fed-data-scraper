@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Nokomis,"FL"","2021","Walter Russell Bogart III","Common","12976","8.14%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Stevenson,"AL"","2021","Carolyn Hall","Common","12500","7.84%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Newnan,"GA"","2021","Holbert & Julia Hale","Common","12347","7.74%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Scottsboro,"AL"","2021","Jack B Lovelady","Common","12000","7.53%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Hollywood,"AL"","2021","Dorothy Williams Trust","Common","10000","6.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director FBS-Pres","Mike Ellenburg","Director FBS-Pres.","n/a","2021","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Chairman","Carolyn Hall","Director","n/a","2021","Sales Rep.","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Randy Wright","Director","n/a","2021","Farmer","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Tommy Harding","President","Harding Insurance","2021","Insurance","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Pres/CEO","Jack Lovelady","n/a","n/a","2021","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Danny Crownover","Director","n/a","2021","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Ralph Hall","Director","n/a","2021","Retired Educator","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Lindsey Brothers","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Morton Bend Farms LLC","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Coosa River Land Co.","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Osceola Farms LLC","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Kershaw Quarters LLC","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Farm & Land Management LLC","2021","Business Owner","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director EVP","Scott Kirk","Owner","Sandmont Specialty","2021","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Lowell Galloway","Director","n/a","2021","Retired Banker","n/a"
+```

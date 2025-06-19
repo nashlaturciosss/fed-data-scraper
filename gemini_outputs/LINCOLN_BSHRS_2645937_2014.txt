@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lincoln Bancshares Inc.","SNELLVILLE,"GA"","2014","WILLIAM R HAWKINS,"TRUSTEE OF THE GEORGE C LEVERETT JR TRUST"","COMMON STOCK","947","9.15%","n/a"
+"Lincoln Bancshares Inc.","LINCOLNTON,"GA"","2014","NINA P ALBEA,"TRUSTEE OF THE NINA P ALBEA LIVING TRUST"","COMMON STOCK","1325","12.80%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lincoln Bancshares Inc.","Director","Thomas Brittan Hammond","Attorney","Hammond & Hammond LLC","2014","Attorney","n/a"
+"Lincoln Bancshares Inc.","Director","Thomas Brittan Hammond","Attorney","Hammond & Hammond LLC","2014","Attorney","n/a"
+"Lincoln Bancshares Inc.","Director","Nina P Albea Trustee of the Nina P Albea Living Trust","Shareholder","n/a","2014","Retired","n/a"
+"Lincoln Bancshares Inc.","Director","Trudelle P Bentley Leopard","Secretary","n/a","2014","Retired","n/a"
+"Lincoln Bancshares Inc.","Director","John S Spratlin 111","Owner-Construction","J.W. Spratlin & Sons","2014","Director","n/a"
+"Lincoln Bancshares Inc.","Director","John S Spratlin 111","Owner-Construction","J.W. Spratlin & Sons","2014","Director","n/a"
+"Lincoln Bancshares Inc.","Chairman","James Bruce Turner","Director","n/a","2014","Retired","n/a"
+"Lincoln Bancshares Inc.","President/CEO","Alice Marie Kavouklis","Director","n/a","2014","President/CEO","n/a"
+"Lincoln Bancshares Inc.","Director","Edward S Tumer","Director","n/a","2014","Retired","n/a"
+"Lincoln Bancshares Inc.","Director","Nancy Lovelady","Director","n/a","2014","Retired","n/a"
+```

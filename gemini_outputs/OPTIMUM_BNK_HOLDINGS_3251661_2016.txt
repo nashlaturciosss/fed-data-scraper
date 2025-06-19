@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings,"Inc."","Singapore,"Singapore"","2016","Chan Heng Fai Ambrose","common stock","104480","9.47%","3251661"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2016","Midwest Torah Center","common stock","94425","8.56%","3251661"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2016","Midwest Kosher & Deli,"LLC"","common stock","77626","7.03%","3251661"
+"OptimumBank Holdings,"Inc."","Chicago,"IL"","2016","Ari Haas","common stock","75000","6.80%","3251661"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2016","Moishe Gubin","common stock","71387","6.47%","3251661"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings Inc.","CEO","Moishe Gubin","Director","various nursing homes","2016","Chairman of the Board (Optimum Bank)","n/a"
+"OptimumBank Holdings Inc.","n/a","Joel Klein","Director","Retired","2016","Director (OptimumBank)","n/a"
+"OptimumBank Holdings Inc.","n/a","Martin Schmidt","Director","Financial Planner","2016","Director (OptimumBank)","n/a"
+"OptimumBank Holdings Inc.","n/a","John Clifford","Director","Retired Banker","2016","Director (OptimumBank)","n/a"
+```

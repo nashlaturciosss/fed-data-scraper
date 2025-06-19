@@ -1,0 +1,27 @@
+"Here are the two CSV tables you requested","extracted from the document and formatted as specified."
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Robert C. Cragon","Common Stock","14358","10.52%","n/a"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Lynn C. Frazier,"Trust Gwendolyn B. Cragon Robert C. Cragon","Trustee"","Common Stock","13959","10.52%","n/a"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Blythe B. Cragon,"Jr.","Trust Gwendolyn B. Cragon Robert C. Cragon","Trustee"","Common Stock","13959","10.52%","n/a"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Robert C. Cragon","Common Stock","14358","10.52%","n/a"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Lynn C. Frazier,"Trust Gwendolyn B. Cragon Robert C. Cragon","Trustee"","Common Stock","13959","10.52%","n/a"
+"COPIAH BANCSHARES,"INC."","Jackon,"MS"","2020","Blythe B. Cragon,"Jr.","Trust Gwendolyn B. Cragon Robert C. Cragon","Trustee"","Common Stock","13959","10.52%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2020","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Director","George R. Marx","n/a","n/a","2020","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2020","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Partner","Alco Farms","2020","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2020","Banker","n/a"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Partner","Cornea Clinic","2020","Attorney","n/a"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Partner","Urgent Care,"LLC"","2020","Attorney","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Carolyn C. Loftin","n/a","n/a","2020","Businesswoman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","Mississippi Machinery","2020","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Victor L. Smith","n/a","n/a","2020","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Donald R. Thompson","n/a","n/a","2020","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2020","Businessman","n/a"
+```

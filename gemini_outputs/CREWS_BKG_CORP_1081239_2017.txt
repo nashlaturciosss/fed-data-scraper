@@ -1,0 +1,27 @@
+Here are the two requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Crews Banking Corporation","Wauchula,"FL"","2017","J. W. Crews,"Jr."","n/a","21274","49.70%","n/a"
+"Crews Banking Corporation","Sarasota,"FL"","2017","W. Markam Crews","n/a","7176","16.77%","n/a"
+"Crews Banking Corporation","Tampa,"FL"","2017","Dena M. Crews Aloian","n/a","7176","16.77%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Crews Banking Corporation","President and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","n/a","T & C Investments,"Inc."","2017","Banker","n/a"
+"Crews Banking Corporation","President and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","n/a","CBC Affiliates,"LLC"","2017","Banker","n/a"
+"Crews Banking Corporation","President and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","n/a","Crews Family Holdings,"LLC"","2017","Banker","n/a"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation.","H. D. Crews","n/a","Shorewood Corporation","2017","Physician/Retired","n/a"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation.","H. D. Crews","n/a","Seven Mountains High,"LLC"","2017","Physician/Retired","n/a"
+"Crews Banking Corporation","Vice President and Director of Crews Banking Corporation.","H. D. Crews","n/a","CBC Affiliates,"LLC"","2017","Physician/Retired","n/a"
+"Crews Banking Corporation","n/a","W. Markam Crews","n/a","JDM Partnership - Citrus Grove","2017","Entrepreneur","n/a"
+"Crews Banking Corporation","n/a","W. Markam Crews","n/a","Bowling Green Storage,"Inc."","2017","Entrepreneur","n/a"
+"Crews Banking Corporation","n/a","W. Markam Crews","n/a","3-C Ranch,"Limited"","2017","Entrepreneur","n/a"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","T & C Investments","2017","Banker","n/a"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","3-C Ranch,"Limited"","2017","Banker","n/a"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","Crews Family Holdings,"LLC"","2017","Banker","n/a"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","J. W. Crews,"IV"","n/a","Shorewood Corporation","2017","Banker","n/a"
+"Crews Banking Corporation","n/a","Michael Aloian","n/a","n/a","2017","Trust Banker","n/a"
+"Crews Banking Corporation","Vice Chairman and Director of Crews Banking Corporation","Michael Aloian","n/a","n/a","2017","Trust Banker","n/a"
+```

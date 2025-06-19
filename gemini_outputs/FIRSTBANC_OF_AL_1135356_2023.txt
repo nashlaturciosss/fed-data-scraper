@@ -1,0 +1,30 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2023","William Larkin Coker","Common Capital","40000","5.74%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","President","Brown Lumber and Building Supply","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","n/a","Brown Lands,"LLC"","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Julian M. King","Circuit Judge","n/a","2023","Retired","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Tommy Spears","n/a","n/a","2023","Pharmacist - Retired","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","President","Barber Properties","2023","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","n/a","Mini Storage,"LLC"","2023","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","n/a","Woodland Hills,"LLC"","2023","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","n/a","R. T. Barber Properties,"LLC"","2023","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","n/a","RBJR Barber Properties","2023","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director and President","Jonathan Chad Jones","n/a","New Direction Development","2023","Bank Officer","n/a"
+"FirstBanc of Alabama,"Inc."","CFO","Chad Miller Thomas","n/a","n/a","2023","Bank Officer","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Oxford Lumber Company","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Roanoke Home Center,"Inc."","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Talladega Home Center,"Inc."","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Jacksonville Home Center,"Inc."","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Charles W. Newman,"Jr."","Owner / President","Lincoln Lumber & Hardware,"LLC"","2023","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Charles P. Gaines","President","Gaines & Gaines Law Firm","2023","Attorney at Law","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Charles P. Gaines","n/a","Battle Street Rentals,"LLC"","2023","Attorney at Law","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Charles P. Gaines","n/a","Lincoln Harbor Rentals,"LLC"","2023","Attorney at Law","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Charles P. Gaines","n/a","M-5 Group","2023","Attorney at Law","n/a"
+```

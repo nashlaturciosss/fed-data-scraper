@@ -1,0 +1,39 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancshares,"Inc."","Knoxville,"TN"","2021","William Y. Carroll,"Sr."","n/a","700","6.87%","n/a"
+"CNB Bancshares,"Inc."","Knoxville,"TN"","2021","Clara Carroll","n/a","697","6.87%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","J. S. Eledge","n/a","1296","6.38%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","Billy G. Kilpatrick and Georgia Kilpatrick","n/a","1312","6.46%","n/a"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2021","Kyle Swaggerty","n/a","4298","21.15%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","David C. Verble","n/a","1223","6.02%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","Lynn T. Webb","n/a","2268","22.32%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","Penny S. Webb","n/a","2268","22.32%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","Rebecca Atchley Busmann","n/a","857","5.09%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2021","Thomas G. Busmann","n/a","177","5.09%","n/a"
+"CNB Bancshares,"Inc."","Largo,"FL"","2021","Donna W. Berg Trust","n/a","1027","5.05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB Bancshares,"Inc."","Director/Chairman","Billy Kilpatrick","President","The Apple Barn & Cider Mill,"Inc."","2021","Retail Business Owner","n/a"
+"CNB Bancshares,"Inc."","Director/Chairman","Billy Kilpatrick","President","Apple Barn Winery,"Inc."","2021","Retail Business Owner","n/a"
+"CNB Bancshares,"Inc."","Director/Chairman","Billy Kilpatrick","Chief Manager","Christmas and Candles,"LLC."","2021","Retail Business Owner","n/a"
+"CNB Bancshares,"Inc."","Director/Chairman","Billy Kilpatrick","Partner","Kilpatrick and Hicks Partnership","2021","Retail Business Owner","n/a"
+"CNB Bancshares,"Inc."","Director","Kevin Kilpatrick","Vice President","The Apple Barn & Cider Mill,"Inc."","2021","Retail Business Owner","n/a"
+"CNB Bancshares,"Inc."","Director/Vice President","Kyle Swaggerty","Chairman","Swaggerry Sausage Company","2021","Food Vendor","n/a"
+"CNB Bancshares,"Inc."","Director/Vice President","Kyle Swaggerty","Parter","WPCC Development Properties","2021","Food Vendor","n/a"
+"CNB Bancshares,"Inc."","Director/Vice President","Kyle Swaggerty","President","Swaggerty Farms,"Inc."","2021","Food Vendor","n/a"
+"CNB Bancshares,"Inc."","Director","Douglas Swaggerty","President/CEO","Swaggerty Sausage Company","2021","Food Vendor","n/a"
+"CNB Bancshares,"Inc."","Director","David Verble","Partner","WPCC Development Properties","2021","Banker","n/a"
+"CNB Bancshares,"Inc."","Director/President","Lynn T. Webb","Partner","WPCC","2021","n/a","n/a"
+"CNB Bancshares,"Inc."","n/a","Penny S. Webb","n/a","n/a","2021","n/a","n/a"
+"CNB Bancshares,"Inc."","Director","Seth Webb","Partner","LD&S,"LLC"","2021","n/a","n/a"
+"CNB Bancshares,"Inc."","Director","Daniel Webb","Partner","LD&S,"LLC"","2021","n/a","n/a"
+"CNB Bancshares,"Inc."","Director,"Secretary/Treasurer"","Jason Holliman","n/a","n/a","2021","Banker","n/a"
+"CNB Bancshares,"Inc."","Director","Larry Waters","n/a","n/a","2021","County Mayor","n/a"
+"CNB Bancshares,"Inc."","Director","Logan Coykendall","President","Hospitality Solutions","2021","Hotelier","n/a"
+"CNB Bancshares,"Inc."","Director","Kevin Blalock","Vice-President","Blalock Concrete & Paving","2021","Construction","n/a"
+"CNB Bancshares,"Inc."","Director","Paul Willson","n/a","n/a","2021","Entrepreneur","n/a"
+```

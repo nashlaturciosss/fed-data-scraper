@@ -1,22 +1,22 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Winfield","2016","Russell Carothers","Common Stock","1162","46%"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Winfield","2016","Robert L. Carothers","Common Stock","1030","40%"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Tuscaloosa","2016","William A. Hill,"Jr."","Common Stock","132","5%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2016","Russell Carothers (William R Carothers II)","Class A Common Stock","1162","46%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2016","Robert L. Carothers","Class A Common Stock","1030","40%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Tuscaloosa,"AL"","2016","William A. Hill,"Jr."","Class A Common Stock","132","5%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director,"Chairman & CEO"","Russell Carothers","Director,"Chairman","& CEO"","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director & Vice President","Robert L. Carothers","Director & Senior Vice President","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director,"Vice Chairman & President"","Christian Hill Carothers","Director,"Vice Chairman & President"","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","M. L. Hamric","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director & Lead Director","Jimmy Dickinson","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","C. E. Bryant,"Jr."","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","Paul B Wilson","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","Raymond C Spann,"Jr."","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","William A Hill,"Jr."","Director","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director & Corporate Sec","Tamra P Trull","Director,"Senior Vice President","Cashier & Corporate Sec"","Citizens Bank","2016"
-"CITIZENS BANCORP OF WINFIELD,"INC."","Director","John S Garner","Director","Citizens Bank","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Chairman & CEO"","Russell Carothers","n/a","n/a","2016","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Senior Vice President","Robert L. Carothers","n/a","n/a","2016","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman & President"","Christian Hill Carothers","n/a","n/a","2016","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","M. L. Hamric","n/a","n/a","2016","retired banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","Comptroller","Continental Conveyor & Equipment Co","2016","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","C. E. Bryant,"Jr."","President","Continental Conveyor & Equipment Co","2016","Retired manufact. president","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","CFO","Baymont Inc.","2016","Retired manufact. CFO","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","n/a","Spann Hardware","2016","Retail business","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","n/a","Cardiology Consultants","2016","Physician","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Corporate Sec","Tamra P Trull","n/a","n/a","2016","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","n/a","Cavalier Home Bldrs","2016","Sales Manufact.","n/a"
 ```

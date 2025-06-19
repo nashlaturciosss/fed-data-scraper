@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","n/a","2019","None","n/a","n/a","n/a","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2019","Donald Richardson","common stock","5135","n/a","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2019","Carney B. Nicks,"Trust-"","common stock","17540","n/a","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2019","Donald Richardson,"Trustee"","common stock","17540","n/a","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2019","CEDE & Co./Depository Trust Co.","common stock","2582","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director","Jeff Corlew","Partner","C&I Design,"Inc"","2019","Construction Project Manager","n/a"
+"Dickson Financial Corporation","Director","Steve DeLoach","Owner","Center of Dental Excellence","2019","Dentistry","n/a"
+"Dickson Financial Corporation","Director","Tommy Marvin","Pres.","Taylor Funeral Home,"Inc."","2019","Mortician","n/a"
+"Dickson Financial Corporation","Director","Wayne McIntire","None","n/a","2019","Retired","n/a"
+"Dickson Financial Corporation","Director,"Chairman"","Tommy Nicks","None","n/a","2019","Chairman of the Board","n/a"
+"Dickson Financial Corporation","Director","Benny Noland","None","n/a","2019","Retired","n/a"
+"Dickson Financial Corporation","Director","James E. Peeler","None","n/a","2019","Retired","n/a"
+"Dickson Financial Corporation","Director","Teddy Pruett","None","n/a","2019","Retired","n/a"
+"Dickson Financial Corporation","Director","Dale Ragan","None","n/a","2019","Real Estate Broker","n/a"
+"Dickson Financial Corporation","Director,"President & CEO"","Donald Richardson","None","n/a","2019","President & CEO Bank of Dickson","n/a"
+"Dickson Financial Corporation","Director","David Shepard","President","Shepard Properties,"Inc"","2019","Pharmacist","n/a"
+"Dickson Financial Corporation","Director,"COO"","Jamie Snyder","None","n/a","2019","COO Bank of Dickson","n/a"
+```

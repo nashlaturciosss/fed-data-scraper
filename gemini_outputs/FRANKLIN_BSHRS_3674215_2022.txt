@@ -1,0 +1,19 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Bancshares,"Inc."","n/a","2022","Bradley B. Jones","CEO,"President & Director"","n/a","n/a","n/a"
+"Franklin Bancshares,"Inc."","CEO/President/Director","Bradley B. Jones","Member","Sandbar Land & Timber,"LLC"","2022","n/a","n/a"
+"Franklin Bancshares,"Inc."","Director","Dorothea Bush Frye","President","Rio Vista Properties","2022","n/a","n/a"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/","D.R. McGehee Ins Agy","2022","Insurance Agent","n/a"
+"Franklin Bancshares,"Inc."","Vice-Chairman/Director","Edmund E. Prestridge","n/a","n/a","2022","n/a","n/a"
+"Franklin Bancshares,"Inc."","Director","Daniel M. Scarbrough","Medical Director","Community Health Systems,"Inc."","2022","Medical Doctor","n/a"
+"Franklin Bancshares,"Inc."","n/a","Danielle Reaves Bush","n/a","n/a","2022","Design Build Assistant","n/a"
+"Franklin Bancshares,"Inc."","Director","Thomas D. Griffin","n/a","n/a","2022","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Steven West","n/a","n/a","2022","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Mary Helen Miller","Owner","MW2,"LLC"","2022","CPA","n/a"
+"Franklin Bancshares,"Inc."","n/a","Wade H. Creekmore,"Jr."","n/a","n/a","2022","Telecomm","n/a"
+"Franklin Bancshares,"Inc."","Director","Angela Y. Cockerham","n/a","n/a","2022","Attorney","n/a"
+```

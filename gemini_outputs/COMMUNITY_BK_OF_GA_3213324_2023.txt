@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2023","W. Jeffrey Turner","Common Stock","30015","5.1%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2023","Marcus C. Long","Common Stock","40000","6.9%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2023","Lamar R. Turner","Common Stock","30000","5.1%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2023","David G. Douglas","Common Stock","49119","8.4%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2023","Manufacturing .Distribution","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Matrix Cement LLC","2023","Manufacturing .Distribution","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Matrix Cabinets","2023","Manufacturing .Distribution","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Matrix Real Estate Holding","2023","Manufacturing .Distribution","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","William W. Eason","n/a","n/a","2023","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director/CFO/Secretary","Randy Hicks","n/a","n/a","2023","CFO of the Bank and HC/Secretary","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","J. Alexander Johnson,"PC"","2023","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","JAJ Properties,"Inc."","2023","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","Atlas Investments,"LLC"","2023","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","Johnson Floyd LLP","2023","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","SSI Beachview,"LLC"","2023","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Chairman/Director","Marcus C. Long","n/a","Fernandina Properties Inc.","2023","Certified Public Accountant","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2023","Trucking Company/Farming","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Mathews Farms","2023","Trucking Company/Farming","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Harold E. Rentz,"DMD"","Owner","Harold E. Rentz,"Jr. DMD"","2023","Dentist","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","James R. Rentz","Farmer","n/a","2023","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","President/CEO of the Bank and HC","Kelly Stone","n/a","n/a","2023","n/a","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Jeffery Turner","Owner","W. J. Turner & Sons Farm","2023","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Business Machine/Low Volteage Contractor","n/a","2023","Business Machine/Low Volteage Contractor","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Owner","Southeastern Business Machines,"Inc."","2023","Business Machine/Low Volteage Contractor","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Owner","Southeastern System Technologies,"Inc."","2023","Business Machine/Low Volteage Contractor","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2023","Electrical Contracting Company
+"Fiberglass Mfg. Co."","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","President-Co-Owner","Rhino MFG.","2023","Electrical Contracting Company
+"Fiberglass Mfg. Co."","n/a"
+```

@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Equibanc,"Inc."","Greensboro,"GA"","2015","Morris L. Lupton","common stock","200000","8.06%","n/a"
+"FMB Equibanc,"Inc."","Statesboro,"GA"","2015","Jeffrey D. Pope","common stock","153000","6.17%","n/a"
+"FMB Equibanc,"Inc."","Statesboro,"GA"","2015","Leonard H. Blount","common stock","150000","6.05%","n/a"
+"FMB Equibanc,"Inc."","Statesboro,"GA"","2015","Edward W. Curl,"Jr."","common stock","68122","5.54%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Equibanc,"Inc."","Director","Mark H. Anderson","Partner","Joiner-Anderson Funeral Home","2015","Funeral Director and Real Estate Investor","2922348"
+"FMB Equibanc,"Inc."","Director","Leonard H. Blount","Principal","Capstone Benefits Consulting","2015","Insurance benefits consultant","2922348"
+"FMB Equibanc,"Inc."","Director","F. Wendell Brannen","n/a","n/a","2015","Retired Farm Supply Dealer","2922348"
+"FMB Equibanc,"Inc."","Director","Gary M. Davis","Owner and President","GMD Services,"Inc."","2015","Certified Public Accountant and restaurant franchisee","2922348"
+"FMB Equibanc,"Inc."","Director","Gerald Edenfield","Partner","Edenfield,"Cox","Bruce & Classens PC"","2015","Attorney","2922348"
+"FMB Equibanc,"Inc."","Director,"President & CEO"","Charles R. Nessmith","n/a","n/a","2015","N/A","2922348"
+"FMB Equibanc,"Inc."","Director","Andrew C. Oliver","CEO","A. M. Braswell,"Jr. Food Co."","2015","President of wholesale & specialty food manufacturer","2922348"
+"FMB Equibanc,"Inc."","Corporate Secretary","Dwayne E. Rocker","n/a","n/a","2015","N/A","2922348"
+"FMB Equibanc,"Inc."","Director","Frank C. Rozier III","n/a","n/a","2015","Retired Auto Dealer","2922348"
+"FMB Equibanc,"Inc."","Director","Bradley M. Williams","Partner","Dabbs-Williams General Contractors,"LLC"","2015","Building Contractor","2922348"
+```

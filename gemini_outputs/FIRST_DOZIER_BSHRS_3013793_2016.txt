@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2016","W. B. Smith,"Jr.","Trustee William R. McGhee Trust"","Common Stock","34685","19.87%","3013793"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2016","W. B. Smith,"Jr."","Common Stock","2850","1.63%","3013793"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2016","Janice P. Biggers","Common Stock","24730","14.17%","3013793"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2016","R. R. Johnson Estate Amy J. Goodson,"Executrix"","Common Stock","19500","11.17%","3013793"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Director,"Chairman","CEO","President"","W. B. Smith,"Jr"","n/a","n/a","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","Director","Perrin Collier Trotter,"Jr."","Client Services Manager","MSN Healthcare Solutions","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","Director,"Secretary","Exec V. P."","Linda R. Colquett","n/a","n/a","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","Director","Earl McBryde","n/a","n/a","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","Director,"Vice-president"","Shaun M. Wilcox","n/a","n/a","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","n/a","R. R. Johnson Estate Amy J. Goodson,"Executrix"","n/a","n/a","2016","n/a","3013793"
+"First Dozier Bancshares,"Inc."","n/a","Janice P. Biggers","n/a","n/a","2016","n/a","3013793"
+```

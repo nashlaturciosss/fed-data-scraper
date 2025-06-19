@@ -1,0 +1,37 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all the instructions."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2018","L Jackson McConnell,"Sr."","n/a","200673","22.03%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2018","Alice M. Eberhardt","n/a","195263","21.44%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","McConnell & Co,"LLC"","2018","Retired","n/a"
+"Pinnacle Financial Corporation","Shareholder","Alice M. Eberhardt","n/a","n/a","2018","Homemaker","n/a"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","n/a","n/a","2018","CEO","n/a"
+"Pinnacle Financial Corporation","Director","Steve Williams","CEO","Tri State Distributors,"Inc."","2018","Retail Owner","n/a"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Partner","The Chestnut Company,"LLP"","2018","Medical Dr.","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Rentals,"LLC"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Farm,"LLC"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Restaurant,"LLC-Buckeye's I"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Restaurant,"LLC-Buckeye's II"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","Buckeyes Plantation,"LLC"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","Dr. Thomas E. McGarity Dental,"LLC"","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Family Partnership","2018","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","B. Scott Fogle","President","Advocate Networks,"LLC"","2018","Services","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","Darnel Quick Recovery","2018","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","Allied Property Management,"LLC"","2018","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","Newton Diversified Investments,"LLC"","2018","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","H&K Property,"LLC"","2018","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","President/Owner","Joe T. Cunningham Interiors","2018","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","President/Owner","Bond Properties,"LLP"","2018","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Managing Member","Integrity Valuation Management,"LLC"","2018","Appraisal Order & Review","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","President/Agent","Lee Insurance Agency","2018","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","President/Agent","Elbert Insurance Associates","2018","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","David K. Voyles","n/a","n/a","2018","President","n/a"
+"Pinnacle Financial Corporation","Director","Michael Fernandez","Owner/Manager","Design Mart LLC","2018","Monument Design","n/a"
+"Pinnacle Financial Corporation","Director","Michael Fernandez","Owner/Manager","Fernandez Properties,"LLC"","2018","Monument Design","n/a"
+"Pinnacle Financial Corporation","Director","William McDermott","CEO","McDermott Financil Solutions,"LLC"","2018","Business Consulting","n/a"
+```

@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Financial Holding Company,"Inc."","Buford,"GA"","2016","Isa Guven","8% Common Stock","250000","n/a","n/a"
+"Community Financial Holding Company,"Inc."","Buford,"GA"","2016","Isa Guven","Class B Stock","2201818","n/a","n/a"
+"Community Financial Holding Company,"Inc."","Buford,"GA"","2016","Isa Guven","Class AA Stock","828964","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Financial Holding Company,"Inc."","Director","Frank W. Bell,"Jr"","Director","Woody's Nursery","2017","Horticultunst","n/a"
+"Community Financial Holding Company,"Inc."","Director and CEO","Leonard D. Davenport","Director and CEO","n/a","2017","n/a","n/a"
+"Community Financial Holding Company,"Inc."","Director","J. Terry Gordon","Director","n/a","2017","Certified Public Accountant","n/a"
+"Community Financial Holding Company,"Inc."","Director","J. Terry Gordon","Director","J.Terry Gordon & Co.","2017","Certified Public Accountant","n/a"
+"Community Financial Holding Company,"Inc."","Director and President","John T. Martin","Director,"President and Chief Lending Officer"","n/a","2017","n/a","n/a"
+"Community Financial Holding Company,"Inc."","Director","Miles H. Mason,"III MD"","Director","n/a","2017","Physician","n/a"
+"Community Financial Holding Company,"Inc."","Chairman of the Board and Director","Don F Phillips. Jr.","Director","Atlanta Flooring and Design Centers,"Inc."","2017","Business Owner","n/a"
+"Community Financial Holding Company,"Inc."","Director","Franklin M. Rinker","Director","Yaffe & Company,"Inc."","2017","Retired Hospital Administrator","n/a"
+"Community Financial Holding Company,"Inc."","Chief Credit Officer","Donald W. Tew","Executive Vice President Chief Credit Officer","n/a","2017","n/a","n/a"
+```

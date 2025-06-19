@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSRA Bank Corp","Wrens,"GA"","2021","Jerry D./Susan O. Dowdy","Common Stock","19000","9.10%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2021","Elaine A. Jones","Common Stock","13875","6.64%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2021","Marian Lamb","Common Stock","12812","6.14%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2021","Atwell-Rabun Properties LLC","Common Stock","17394","8.33%","n/a"
+"CSRA Bank Corp","Wrens,"GA"","2021","Robert B. Lewis","Common Stock","17424","8.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSRA Bank Corp","Director","Robert W. Culpepper","Realtor","DeFoor Realty Group","2021","Realtor","n/a"
+"CSRA Bank Corp","Director","Mark D. Davis","Partner","Jones,"Jones","Davis","CPAS","LLC"","2021","Accountant","n/a"
+"CSRA Bank Corp","Director","Mark D. Davis","Owner","Red Raider Realty,"LLC"","2021","Accountant","n/a"
+"CSRA Bank Corp","Director","Mark D. Davis","co-owner","Affordable Properties and Rentals","2021","Accountant","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Thames Pecan Co,"Inc."","2021","Pecan production/Retired","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Atwell Pecan Co.","2021","Pecan production/Retired","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Member","Orchards Gourment Nuts","2021","Pecan production/Retired","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Partner","Desirable Investments,"LLP"","2021","Pecan production/Retired","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","BFH Projects,"LLC"","2021","Pharmacist","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","The Louisville Project LLC","2021","Pharmacist","n/a"
+"CSRA Bank Corp","Director","J. Brian Whitaker","President/CEO","Avera Industrial Supply,"Inc."","2021","Retail hardware sales","n/a"
+"CSRA Bank Corp","Director","Mac T. Reeves","President","Green's Cut Properties,"Inc."","2021","Timber sales","n/a"
+"CSRA Bank Corp","Director","James L. Gay","n/a","J & C Farms Inc.","2021","Farmer","n/a"
+"CSRA Bank Corp","Director","Charlotte L Gilmore","Secretary","Rocky Comfort Forest Products","2021","Retired","n/a"
+"CSRA Bank Corp","Director and President","Eugene Lee Clark","n/a","n/a","2021","n/a","n/a"
+"CSRA Bank Corp","Executive VP/CFO","James H. Standard,"Jr."","n/a","n/a","2021","n/a","n/a"
+"CSRA Bank Corp","Senior Lending Officer","David T. Jopling","Member/Partner","Jopling Investments LLC","2021","n/a","n/a"
+```

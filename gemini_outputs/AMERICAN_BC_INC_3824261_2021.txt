@@ -1,16 +1,29 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Pride Bank","n/a","2021","None","n/a","n/a","n/a"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Pride Bank","Director & Vice-Chairman","Michael Gilstrap","Director & Vice Chairman","n/a","2021"
-"American Pride Bank","Director","Ajitkumar Patel","Director","n/a","2021"
-"American Pride Bank","Director","Dipesh Patel","Director","n/a","2021"
-"American Pride Bank","Director","Maneklal Patel","Director","n/a","2021"
-"American Pride Bank","Director","Rasikbhai Patel","Director","n/a","2021"
-"American Pride Bank","Director & Chairman","Piyush K. Patel","Director & Chairman","n/a","2021"
-"American Pride Bank","Bank director,"CEO","& President"","John F. Hall","Director","n/a","2021"
-"American Pride Bank","Bank CFO","Rebecca P. Bell","Bank CFO","n/a","2021"
-"American Pride Bank","Bank COO","Andy Flowers","Bank COO","n/a","2021"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Byron,"GA"","2021","Michael Gilstrap","n/a","10000","0.5%","n/a"
+"American Bancorp,"Inc."","Byron,"GA"","2021","Michael Gilstrap","warrants","4126","0.5%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Ajitkumar Patel","n/a","51666","2.4%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Ajitkumar Patel","warrants","20629","2.4%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Dipesh Patel","n/a","41000","2.0%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Dipesh Patel","warrants","19629","2.0%","n/a"
+"American Bancorp,"Inc."","Byron,"GA"","2021","Maneklal Patel","n/a","52500","2.4%","n/a"
+"American Bancorp,"Inc."","Byron,"GA"","2021","Maneklal Patel","warrants","20629","2.4%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Rasikbhai Patel","n/a","54167","2.5%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Rasikbhai Patel","warrants","20629","2.5%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Piyush K. Patel","n/a","54167","2.5%","n/a"
+"American Bancorp,"Inc."","Macon,"GA"","2021","Piyush K. Patel","warrants","20629","2.5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Pride Bank","Director & Vice-Chairman","Michael Gilstrap","Director & Vice Chairman","n/a","2021","Retired","n/a"
+"American Pride Bank","Director","Ajitkumar Patel","Director","n/a","2021","Hotel Owner","n/a"
+"American Pride Bank","Director","Dipesh Patel","Director","n/a","2021","Doctor","n/a"
+"American Pride Bank","Director","Maneklal Patel","Director","n/a","2021","Hotel Owner","n/a"
+"American Pride Bank","Director","Rasikbhai Patel","Director","n/a","2021","Hotel Owner","n/a"
+"American Pride Bank","Director & Chairman","Piyush K. Patel","Director & Chairman","n/a","2021","Hotel Owner","n/a"
+"American Pride Bank","Director","John F. Hall","Director","n/a","2021","Bank director,"CEO","& President"","n/a"
+"American Pride Bank","Bank CFO","Rebecca P. Bell","Bank CFO","n/a","2021","Bank CFO","n/a"
+"American Pride Bank","Bank COO","Andy Flowers","Bank COO","n/a","2021","Bank COO","n/a"
 ```

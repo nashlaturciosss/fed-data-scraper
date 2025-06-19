@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Northwest Florida Holding Company","Fort Walton Beach,"Florida"","2015","Albert P. Qualls,"Jr."","common stock","1500737","99.965%","1246784"
+"First Northwest Florida Holding Company","Panama City,"Florida"","2015","n/a","Common Stock","105","0.00699%","1246784"
+"First Northwest Florida Holding Company","n/a","2015","None","n/a","n/a","n/a","1246784"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Conquistador","2015","Banker Real Estate Investor","1246784"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Blue Horizon","2015","Banker Real Estate Investor","1246784"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Poldon","2015","Banker Real Estate Investor","1246784"
+"First Northwest Florida Holding Company","Director,"Chairman of the Board"","Albert P. Qualls,"Jr."","President","Quallsco","2015","Banker Real Estate Investor","1246784"
+"First Northwest Florida Holding Company","Director,"President & CEO"","Angie Barger","n/a","n/a","2015","n/a","1246784"
+"First Northwest Florida Holding Company","Secretary,"Treasurer"","Collette Jones","n/a","n/a","2015","n/a","1246784"
+```

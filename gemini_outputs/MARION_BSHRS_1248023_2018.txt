@@ -1,0 +1,23 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion Bancshares,"INC."","Birmingham,"Alabama"","2018","Geneva Blackburn","n/a","13500","11%","1248023"
+"Marion Bancshares,"INC."","Birmingham,"Alabama"","2018","Mary King Dunkin","n/a","6274","5%","1248023"
+"Marion Bancshares,"INC."","Birmingham,"Alabama"","2018","Robert c. Walthall","n/a","7031","5%","1248023"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion Bancshares,"INC."","Director","Geneva Blackburn","n/a","n/a","2018","Retired medical Technologist","1248023"
+"Marion Bancshares,"INC."","Director","Sam Givhan","n/a","Givhan Land and Cattle Company","2018","Farmer","1248023"
+"Marion Bancshares,"INC."","Director","Sam Givhan","n/a","Sam P. Givhan,"Partnership","LP"","2018","Farmer","1248023"
+"Marion Bancshares,"INC."","Director","Roy Barnett,"Jr"","n/a","n/a","2018","Retired Businessman","1248023"
+"Marion Bancshares,"INC."","Director,"Chairman"","Charles Dunkin","CEO","Dunkin/Lewis,"Inc."","2018","n/a","1248023"
+"Marion Bancshares,"INC."","Director","Bruce Fuller","n/a","n/a","2018","CEO Fuller Building & Supply Company,"Inc."","1248023"
+"Marion Bancshares,"INC."","Director","Robert C. Walthall","Partner","Bradley,"Arant","Boult & Cummings","LLP"","2018","Attorney","1248023"
+"Marion Bancshares,"INC."","Board of Directors","E. R. Richardson","n/a","n/a","2018","n/a","1248023"
+"Marion Bancshares,"INC."","President/Director","F. Conrad Taylor","n/a","n/a","2018","n/a","1248023"
+"Marion Bancshares,"INC."","Vice President/Cashier/CFO","Will H. Stewart","n/a","n/a","2018","n/a","1248023"
+"Marion Bancshares,"INC."","Director","James L Parnell","President- Alfa","Alfa","2018","n/a","1248023"
+```

@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Stephen A. Farrar","Common Stock","36868","10.3%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","William (Bill) R. Looney,"III"","Common Stock","29743","8.3%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","C. Ray Talbert","Common Stock","21412","6.0%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","John W. Duncan","Common Stock","15591","4.4%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Gary A. Rigney","Common Stock","14609","4.1%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Timothy C. Gill","Common Stock","13576","3.8%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Jeffrey D. Jones","Common Stock","12872","3.6%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Michael D. Corcoran","Common Stock","12396","3.5%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","John W. Baker","Common Stock","10288","2.9%","n/a"
+"Homeland Community Bancorp,"Inc."","McMinnville,"TN"","2022","Herman H. Sneed,"Jr."","Common Stock","10052","2.8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Homeland Community Bancorp,"Inc."","Director/President & CEO","C. Ray Talbert","n/a","n/a","2022","n/a","n/a"
+"Homeland Community Bancorp,"Inc."","Sr. VP & CFO","John W Duncan","n/a","n/a","2022","n/a","n/a"
+```

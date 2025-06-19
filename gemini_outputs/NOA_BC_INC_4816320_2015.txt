@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NOA Bancorp,"Inc."","Alpharetta,"GA"","2015","Jame Cho","Common Stock","103750","5.98%","4816320"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2015","Francis D. Kim","Common Stock","111250","6.42%","4816320"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2015","Jay (Jungho) Kim","Common Stock","32000","1.85%","4816320"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2015","Jay (Jungho) Kim","Warrants on Common Stock","22500","1.30%","4816320"
+"NOA Bancorp,"Inc."","Duluth,"GA"","2015","Jay (Jungho) Kim","Options on Common Stock","45000","2.60%","4816320"
+"NOA Bancorp,"Inc."","Franclin Lakes,"NJ"","2015","Younsung Kim","Common Stock","163450","9.43%","4816320"
+"NOA Bancorp,"Inc."","New York,"NY"","2015","Young A. Sohn","Common Stock","90750","5.23%","4816320"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NOA Bancorp,"Inc."","Chairman","W. Alex Choi","Chairman","W. Alex Choi CPA PC","2015","CPA","4816320"
+"NOA Bancorp,"Inc."","Director/CEO/CFO & President","Jungho Kim","n/a","n/a","2015","n/a","4816320"
+"NOA Bancorp,"Inc."","Director","James Cho","President","Am-Ko Building Maintenance Inc.","2015","Business Owner","4816320"
+"NOA Bancorp,"Inc."","Director","Ronald Goodman","M.D.","Total Care Physicians","2015","M.D.","4816320"
+"NOA Bancorp,"Inc."","Director","Francis D. Kim","n/a","n/a","2015","Retired","4816320"
+"NOA Bancorp,"Inc."","Director","Yoonsung Kim","Owner","European Optical Corp","2015","Optometrist","4816320"
+"NOA Bancorp,"Inc."","Director","Jong K. (Jake) Lee","Co-Owner","SR Crossing","2015","Business Owner","4816320"
+"NOA Bancorp,"Inc."","Director","Dohyung (Daniel) Lim","Owner","Twin Peak International","2015","Business Owner","4816320"
+"NOA Bancorp,"Inc."","Director","Bong U. (Peter) Nam","Retired","n/a","2015","Retired","4816320"
+"NOA Bancorp,"Inc."","Director","Young A. Sohn","Retired","n/a","2015","Retired","4816320"
+"NOA Bancorp,"Inc."","Director","Jake D. Park","Consultant","ERP Accessories","2015","Consultant","4816320"
+"NOA Bancorp,"Inc."","EVP & CCO","Soo Song","EVP & CCO","n/a","2015","n/a","4816320"
+```

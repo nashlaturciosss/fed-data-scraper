@@ -1,0 +1,22 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flagler Bank","Palm Beach,"FL"","2020","Ronald Y Schram","common","570218","23.09%","n/a"
+"Flagler Bank","Miami,"FL"","2020","Frank Hessel","common","535217","21.30%","n/a"
+"Flagler Bank","Los Angeles,"CA"","2020","Elliot Horowitz","common","243482","9.69%","n/a"
+"Flagler Bank","Palm Bch Gdns,"FL"","2020","Lampert Family Tr","common","216666","8.64%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flagler Bank","President/Director","Ronald Y. Schram","n/a","Real Estate","2020","n/a","n/a"
+"Flagler Bank","COB/Secretary","Edward Sterling","n/a","FB President","2020","n/a","n/a"
+"Flagler Bank","Director","Frank Hessel","n/a","Real Estate","2020","n/a","n/a"
+"Flagler Bank","Director","Ron Mackail","n/a","Accounting","2020","n/a","n/a"
+"Flagler Bank","Director","Gary Walk","n/a","Attorney","2020","n/a","n/a"
+"Flagler Bank","Director","Arnold Lampert","n/a","Retired","2020","n/a","n/a"
+"Flagler Bank","Director","Herbert Weiss","n/a","Retired","2020","n/a","n/a"
+"Flagler Bank","Director","Sally Benson","n/a","Attorney","2020","n/a","n/a"
+"Flagler Bank","Director","Keith Stock","n/a","Investments","2020","n/a","n/a"
+```

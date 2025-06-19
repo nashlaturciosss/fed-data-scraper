@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2018","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","433419","8.8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Don L. Fulton","n/a","n/a","2018","Retired","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2018","Business Manager","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","n/a","MMM Investments LLC","2018","Business Manager","n/a"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2018","Engineer","n/a"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2018","N/A","n/a"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2018","Proprietor,"Auto Parts supply store"","n/a"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2018","Physician","n/a"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2018","Attorney","n/a"
+"Citizens Holding Company","Director","Donald L Kilgore","Assistant Attorney General","State of Mississippi","2018","Attorney","n/a"
+"Citizens Holding Company","Director","A. T. Williams","CPA,"of Counsel"","Rea,"Shaw","Giffin & Stuart"","2018","Certified Public Accountant","n/a"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2018","Chief Financial Officer","n/a"
+"Citizens Holding Company","Treasurer & CFO","Robert T. Smith","Senior Vice-President & CFO","n/a","2018","N/A","n/a"
+```

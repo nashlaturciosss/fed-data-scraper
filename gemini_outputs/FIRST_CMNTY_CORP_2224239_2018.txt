@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"TN"","2018","Sidney K. Lawson","n/a","99400","6.10%","n/a"
+"First Community Corporation","Rogersville,"TN"","2018","Tommy W. Young","n/a","94198","5.78%","n/a"
+"First Community Corporation","Nashville,"TN"","2018","John Spence","n/a","163080","9.9999%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Corporation","President","Tyler K. Clinch","Owner","Katharine Square Partnership","2018","n/a","n/a"
+"First Community Corporation","Director","Dr. David R. Johnson","Partner","Kingsport Veterinary Hospital","2018","Veterinarian","n/a"
+"First Community Corporation","Director","Sidney K. Lawson","Owner","Lawson Construction","2018","President","n/a"
+"First Community Corporation","Director","Tommy W. Young","Retired","n/a","2018","Retired","n/a"
+"First Community Corporation","EVP and Director","Steve L. Droke","n/a","n/a","2018","n/a","n/a"
+"First Community Corporation","Director","David L. Lunceford","Retired","n/a","2018","Retired","n/a"
+"First Community Corporation","Director","Kathy Richards","Owner","Balancing Pro Consulting,"LLC"","2018","n/a","n/a"
+"First Community Corporation","Director","Matthew Cleek","Owner","Intellithought,"Inc."","2018","n/a","n/a"
+"First Community Corporation","Director","Gregory DePriest","Director of Development","Mountain Mission School","2018","n/a","n/a"
+"First Community Corporation","Treasurer","James Maddox","n/a","n/a","2018","n/a","n/a"
+```

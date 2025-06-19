@@ -1,0 +1,18 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","Guin,"AL"","2017","Estate of Donald E. Bussey","common stock","14694.00","23%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Guin,"AL"","2017","Brenda J. Bussey","common stock","14694.00","23%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2017","Sherrian McDaniel Logan","common stock","15376.00","24%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2017","Dana M. Peoples","common stock","14012.00","22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","None","Estate of Donald E. Bussey","n/a","n/a","2017","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","Marketing","Brenda J. Bussey","n/a","n/a","2017","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","Marketing Director & Director","Sherrian M. Logan","n/a","n/a","2017","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","CEO & Director","Dana M. Peoples","n/a","n/a","2017","Director","n/a"
+"PEOPLES BANCORPORATION,"INC."","Chairman of Board","Bret Bussey","Livestock & Farm Equipment Surveyor","n/a","2017","Director","n/a"
+"PEOPLES BANCORPORATION,"INC."","COO,"Cashier","& Director"","Sally Holloway","n/a","n/a","2017","Secretary","n/a"
+```

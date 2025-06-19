@@ -1,0 +1,18 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CITIZENS BANCSHARES INC","Greensboro,"Alabama"","2020","John C Jay,"Jr."","Common Stock","4136","5.91%","n/a"
+"CITIZENS BANCSHARES INC","Greensboro,"Alabama"","2020","Sue Seale","Common Stock","3990","5.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITIZENS BANCSHARES INC","Director-Citizens BancShares,"Director-The Citizens Bank"","James Acker Jr.","n/a","n/a","2020","Cattle Farmer","n/a"
+"CITIZENS BANCSHARES INC","Director & Chairman Citizens BancShares Inc,"Director & Chairman The Citizens Bank"","John C Jay Jr","n/a","n/a","2020","Chairman of Utilities Board City of Greensboro","n/a"
+"CITIZENS BANCSHARES INC","Director-Citizens BancShares,"Director-The Citizens Bank"","Donald Wedgworth","n/a","n/a","2020","Fish Buyer","n/a"
+"CITIZENS BANCSHARES INC","Director Citizens BancShares Inc.,"Director The Citizens Bank"","Charles W Thomas","n/a","n/a","2020","Retired (banker)","n/a"
+"CITIZENS BANCSHARES INC","Director-Secretary Citizens BancShares,"Director & President The Citizens Bank"","Lisa S Cochran","n/a","n/a","2020","N/A","n/a"
+"CITIZENS BANCSHARES INC","Director-Citizens BancShares,"Director-The Citizens Bank"","Stephen R Barnette","Owner","n/a","2020","Business Owner (Furniture)","n/a"
+"CITIZENS BANCSHARES INC","Director-Citizens BancShares,"Director-The Citizens Bank"","Keith H Glover","n/a","n/a","2020","Farm Manager/Cattle Farmer","n/a"
+```

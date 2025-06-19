@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2019","Robert D. Watson","Common Stock","72262","34.59%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2019","William R. Marin,"Jr."","Common Stock","37875","18.13%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2019","Peter J. Lipari","Common Stock","21800","10.44%","n/a"
+"Patterson Bancshares,"Inc."","Factoryville,"PA"","2019","Susan Jennings","Common Stock","16398","7.85%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bancshares,"Inc."","Director & Chairman Emeritus","Robert D. Watson","n/a","n/a","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & Chairman,"Executive V.P."","William R. Marin,"Jr."","n/a","n/a","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & President","Peter J. Lipari","Secretary","Waveland Plantation","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Robert M. Marin","n/a","n/a","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & Treasurer","Jason H. Watson","n/a","n/a","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Robert S. Carter","n/a","Kolder,"Champagne","Slaven and Company"","2019","Public Accounting (Partner)","85931"
+"Patterson Bancshares,"Inc."","Director & Senior V.P.","Dennis W. Taylor","n/a","n/a","2019","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Russel J. Cremaldi","n/a","Biggs,"Supple","Cremaldi & Curet","LLP"","2019","Attorney at Law (Partner)","85931"
+```

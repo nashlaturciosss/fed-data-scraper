@@ -1,0 +1,26 @@
+Here are the requested CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Betty B Buchanan","common stock","19486","10.29%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Phillip Amberson","common stock","22687","11.88%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Patty Handley","common stock","17210","9.09%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Tommy Handley","common stock","11596","6.12%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Wendell Glassco","common stock","8619","4.55%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Bonnie Glassco","common stock","8619","4.55%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2018","Royce G. Ogle","common stock","20096","10.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2018","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2018","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2018","CEO,"Amberson Clothing","Inc."","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","Ameriprise Financial Service,"Certified Financial Planner"","Peoples Independent Bank","2018","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President / Director","Royce G. Ogle","n/a","n/a","2018","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary","Jack Hancock","n/a","n/a","2018","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Betty B Buchanan","n/a","n/a","2018","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Wendell Glassco","n/a","n/a","2018","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Bonnie Glassco","n/a","n/a","2018","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Patty Handley","Secretary","n/a","2018","Construction","n/a"
+```

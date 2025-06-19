@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2017","John J. Mullins","n/a","70286","42.99%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2017","John J. Mullins","KSOP Plan","25406","42.99%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2017","Dan J. Willingham","n/a","33562","20.53%","n/a"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2017","E.O. Browder,"Jr."","n/a","25851","15.81%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2017","FCB Bancshares,"Inc. KSOP Plan"","n/a","37752","23.09%","n/a"
+"FCB Bancshares,"Inc."","Eutaw,"AL"","2017","C. Woody Browder","n/a","9742","5.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Premier Bank of the South","Director","E.O. Browder Jr.","President","Browder & Associates PC","2017","Browder & Associates PC","n/a"
+"Premier Bank of the South","Director","E.O. Browder Jr.","n/a","Ft Morgan Beach House LLC","2017","Browder & Associates PC","n/a"
+"Premier Bank of the South","Director","E.O. Browder Jr.","n/a","Gulf Coast Investments LLC","2017","Browder & Associates PC","n/a"
+"Premier Bank of the South","Director","E.O. Browder Jr.","n/a","Realty MgrsLLC","2017","Browder & Associates PC","n/a"
+"Premier Bank of the South","Director","E.O. Browder Jr.","n/a","O & J Development LLC","2017","Browder & Associates PC","n/a"
+"Premier Bank of the South","Director","Edna Earle Hicks","n/a","n/a","2017","Retired","n/a"
+"Premier Bank of the South","Director","John J. Mullins","JAM Investors Partner","JAM Investors LLC","2017","NA","n/a"
+"Premier Bank of the South","Chairman,"President","CEO"","John J. Mullins","JAM Investors Partner","JAM Investors LLC","2017","NA","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Fuller & Willingham","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","S&D Properties","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Willingham Brothers LLC","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Nadan,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Willingham Properties,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","MCode,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Leehigh,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Copia Factorem,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Willingham Financial,"LLC"","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Fuller & Willingham Partner","Baltar LLC","2017","Attorney","n/a"
+"Premier Bank of the South","Director","Ann Mullins","JAM Investors LLC Partner","JAM Investors LLC","2017","Retired","n/a"
+"Premier Bank of the South","Director","Russell W. Morrow","Cullman Business Services -Owner","Cullman Business Services,"Inc."","2017","Cullman Business Services,"Inc.-Owner"","n/a"
+"Premier Bank of the South","Director","Russell W. Morrow","Cullman Business Services -Owner","Greenhead Sales","2017","Cullman Business Services,"Inc.-Owner"","n/a"
+```

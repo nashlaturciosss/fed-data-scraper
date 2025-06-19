@@ -1,0 +1,18 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Financial Corp.","Savannah,"GA"","2017","Sylvan M. Byck,"Jr."","Common Stock","165000","6.57%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2017","Benny Curl","Common Stock","159333","6.35%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2017","Bobby Chu","Common Stock","208784","8.3%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Financial Corp.","Director","Jack L. Forehand","n/a","President Savannah Professional Maintenance","2017","President Savannah Professional Maintenance","n/a"
+"FCB Financial Corp.","Interim President & CEO","Ken Farrell","n/a","n/a","2017","n/a","n/a"
+"FCB Financial Corp.","Director,"Chairman of the Board"","Stephen S. Green","Director","Stephen Green Properties,"Inc."","2017","President Stephen Green Properties,"Inc."","n/a"
+"FCB Financial Corp.","Director","Arnold Tenenbaum","n/a","n/a","2017","Retired","n/a"
+"FCB Financial Corp.","Director","Bobby Chu","n/a","President Chu Construction","2017","President Chu Construction","n/a"
+"FCB Financial Corp.","Director","Benny Curl","n/a","n/a","2017","Retired","n/a"
+```

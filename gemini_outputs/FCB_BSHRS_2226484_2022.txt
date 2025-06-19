@@ -1,0 +1,15 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc"","Cullman,"AL"","2022","John D. Hunt","Common Stock","16531","14.73%","n/a"
+"FCB Bancshares,"Inc"","Cullman,"AL"","2022","Donny R. Crain","Common Stock","11399","10.15%","n/a"
+"FCB Bancshares,"Inc"","Cullman,"AL"","2022","Charles E. Gunter","Common Stock","9546","8.51%","n/a"
+"FCB Bancshares,"Inc"","Cullman,"AL"","2022","Jacob M. Mullins","Common Stock","7432","6.63%","n/a"
+"FCB Bancshares,"Inc"","Cullman,"AL"","2022","Greg A. Brannon","Common Stock","6883","6.14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Bancshares,"Inc"","President","Jacob M. Mullins","n/a","n/a","2022","n/a","n/a"
+```

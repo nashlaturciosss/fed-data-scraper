@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2023","John Robert Lancaster","common stock","131927","4.54%","n/a"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2023","John Robert Lancaster","vested stock options","54300","1.87%","n/a"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2023","John High Bradshaw","common stock","92410","3.18%","n/a"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2023","John High Bradshaw","vested stock options","66300","2.28%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Director,"Chairman & CEO"","John Robert Lancaster","Partner","Teeley Pole Assets GP","2023","Chairman & CEO First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director,"Chairman & CEO"","John Robert Lancaster","Secretary/Treasurer","American Rental Solutions,"Inc."","2023","Chairman & CEO First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director,"Chairman & CEO"","John Robert Lancaster","Trustee","Timeout Capital Trust","2023","Chairman & CEO First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director,"Chairman & CEO"","John Robert Lancaster","Managing Member","231 Investments,"LLC"","2023","Chairman & CEO First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director,"Chairman & CEO"","John Robert Lancaster","Co-Owner","American Trailer Solutions,"LLC"","2023","Chairman & CEO First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director,"President & COO"","John High Bradshaw","Partner","Cedar City Investors,"GP"","2023","President,"COO & CLO First Freedom Bank""
+"First Freedom Bancshares,"Inc."","Director,"President & COO"","John High Bradshaw","Co-Owner","American Rental Solutions,"Inc."","2023","President,"COO & CLO First Freedom Bank""
+"First Freedom Bancshares,"Inc."","Director,"President & COO"","John High Bradshaw","Partner","Northside Investors,"GP"","2023","President,"COO & CLO First Freedom Bank""
+"First Freedom Bancshares,"Inc."","Director,"President & COO"","John High Bradshaw","Co-Owner","American Trailer Solutions,"LLC"","2023","President,"COO & CLO First Freedom Bank""
+"First Freedom Bancshares,"Inc."","Director,"Executive Vice President"","Joshua Brandon Owens","n/a","n/a","2023","Executive Vice President & Director of Commercial Banking First Freedom Bank"
+"First Freedom Bancshares,"Inc."","Director","Robert Cameron Woods","n/a","n/a","2023","Physician"
+"First Freedom Bancshares,"Inc."","Director","Veronica Rochell Bender","Principal","Friendship Christian Middle School","2023","School Administrator"
+"First Freedom Bancshares,"Inc."","Director","Charles Richard Haskins","Owner","Triple HHH Farms","2023","Farmer/Chemical Supply Co. Owner"
+"First Freedom Bancshares,"Inc."","Director","Charles Richard Haskins","Vice President","Lebanon Chemical,"Inc."","2023","Farmer/Chemical Supply Co. Owner"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Member","Wilson Investors,"LLC"","2023","Real Estate Investor"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Member","Legends Properties,"LLC"","2023","Real Estate Investor"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Scliars","Partner","DJS Partnership","2023","Funeral Director"
+"First Freedom Bancshares,"Inc."","Director","Randy Gill Laine","n/a","n/a","2023","Engineer"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrells","Private Medical Practice Owner","n/a","2023","Physician"
+"First Freedom Bancshares,"Inc."","CFO","Kevin David Busbey","n/a","n/a","2023","CFO-First Freedom Bank"
+```

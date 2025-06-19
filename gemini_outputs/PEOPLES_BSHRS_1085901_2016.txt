@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Amelia A. Wilson","Common Stock","749","27.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Amelia Wilson","Common Stock","174.25","6.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Amelia Wilson","Common Stock","174.25","6.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Harvey L. Wilson,"Sr."","Common Stock","136","4.97%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Amelia W. Haley","Common Stock","348.5","12.73%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2016","Amelia W. Haley","Common Stock","639","23.34%","1085901"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bankshares Inc.","Director and Chairman","Amelia A. Wilson","n/a","n/a","2016","Retired","1085901"
+"Peoples Bankshares Inc.","Director/Vice-Chairman CEO","Harvey L. Wilson,"Sr."","n/a","n/a","2016","Retired","1085901"
+"Peoples Bankshares Inc.","Director and Secretary","Amelia W. Haley","n/a","n/a","2016","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","Director","W. Michael Roustree","n/a","n/a","2016","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","Director/President","Charles R. Haley","n/a","n/a","2016","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","Director","Clayton R. Lancaster,"Jr."","Director","Lancaster Fertilizer Services,"Inc."","2016","Fertilizer Services","1085901"
+"Peoples Bankshares Inc.","Director","Randall F. Daniel","Owner","Daniel Development Inc.","2016","Contractor/Builder","1085901"
+"Peoples Bankshares Inc.","Director","Harvey C. Walker,"Jr."","n/a","n/a","2016","Mobile Home Sales","1085901"
+"Peoples Bankshares Inc.","Director","Steve W. Culberson","n/a","n/a","2016","The Peoples Bank","1085901"
+```

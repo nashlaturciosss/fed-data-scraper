@@ -1,0 +1,21 @@
+"Here are the two tables extracted from the document in CSV format","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Upper Cumberland Bancshares,"Inc."","Jamestown,"TN"","2018","Progressive Financial Group,"Inc. (PFG)"","n/a","15362","23.57%","n/a"
+"Upper Cumberland Bancshares,"Inc."","Byrdstown,"TN"","2018","The Employee Stock Ownership Plan Trust of People's Bank and Trust Company of Pickett County (ESOT)","n/a","16158","24.79%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Upper Cumberland Bancshares,"Inc."","CEO","Bruce E. Elder","Trustee","ESOT","2018","Banker","n/a"
+"Upper Cumberland Bancshares,"Inc."","Pres/CFO/Cshr/Director/Sec","Michael D. Officer","Trustee","ESOT","2018","Banker","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Joseph Amonett","n/a","Insurance Agency,"Inc."","2018","Insurance","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Stephen Bilbrey","n/a","n/a","2018","Grocery","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Gale Copeland","Trustee","ESOT","2018","Retired","n/a"
+"Upper Cumberland Bancshares,"Inc."","Chairman","John Keisling","Agent/Treasurer","Keisling Insurance Agency,"Inc."","2018","Insurance","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Bobby H. Mullins","President","Mullins Lumber Co.,"Inc."","2018","Retired","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Larry T. Conner","n/a","n/a","2018","Retired","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","David Reeves","President","Albany Redi-Mix","2018","Concrete plant","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","BWI Pipe and Supply,"Inc."","2018","Pipe Supply","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","White Properties,"Inc."","2018","Pipe Supply","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","Crude LLC","2018","Pipe Supply","n/a"
+```

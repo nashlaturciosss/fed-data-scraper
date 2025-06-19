@@ -1,25 +1,25 @@
-Here are the extracted CSV tables:
+Here are the requested CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"AMERICAN BANCSHARES CORP.","Livingston","2017","Johnny F. Coleman","n/a","44.32","16.92%"
-"AMERICAN BANCSHARES CORP.","Livingston","2017","J. Steve Daniels","n/a","42.00","16.03%"
-"AMERICAN BANCSHARES CORP.","Livingston","2017","Buckie D. Parson,"DDS"","n/a","35.36","13.50%"
-"AMERICAN BANCSHARES CORP.","Livingston","2017","Kenneth Copeland","n/a","22.06","8.42%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2017","Johnny F. Coleman","n/a","44.32","16.92%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2017","J. Steve Daniels","n/a","42.00","16.03%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2017","Buckie D. Parson,"DDS"","n/a","35.36","13.50%","n/a"
+"AMERICAN BANCSHARES CORP.","Livingston,"TN"","2017","Kenneth Copeland","n/a","22.06","8.42%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2017"
-"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","JFC Properties","2017"
-"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","Mid State Drilling Co.,"LLC"","2017"
-"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","C&M Development","2017"
-"AMERICAN BANCSHARES CORP.","Secretary & Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows,"Attorney at Law"","2017"
-"AMERICAN BANCSHARES CORP.","Chairman/Director","Buckie D. Parsons,"DDS"","Chairman/Director","Buckie D. Parsons,"DDS"","2017"
-"AMERICAN BANCSHARES CORP.","Director","Kenneth Copeland","Director","n/a","2017"
-"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Director","Mid State Construction Co.","2017"
-"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Director","Mid State Drilling","2017"
-"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Director","Tri-Coleman Properties","2017"
-"AMERICAN BANCSHARES CORP.","CEO/CFO & Director","Marty Maynord","CEO/CFO & Director","n/a","2017"
-"AMERICAN BANCSHARES CORP.","President and Director","Ryan Smith","President and Director","n/a","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member/Manager","JFC Properties","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member","Mid State Drilling Co.,"LLC"","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Johnny F. Coleman","Member/Manger","C&M Development","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Secretary & Director","J. Steve Daniels","Attorney at Law","Daniels & Meadows","2017","Attorney","n/a"
+"AMERICAN BANCSHARES CORP.","Chairman/Director","Buckie D. Parsons,"DDS"","owner","Buckie D. Parsons,"DDS"","2017","Dentist","n/a"
+"AMERICAN BANCSHARES CORP.","Director","Kenneth Copeland","n/a","n/a","2017","Farmer","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","VP","Mid State Construction Co.","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","VP","Mid State Drilling","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","Director","John Kelly Coleman","Member/Manager","Tri-Coleman Properties","2017","Construction & Oil Co. Owner","n/a"
+"AMERICAN BANCSHARES CORP.","CEO/CFO & Director","Marty Maynord","n/a","n/a","2017","n/a","n/a"
+"AMERICAN BANCSHARES CORP.","President and Director","Ryan Smith","n/a","n/a","2017","n/a","n/a"
 ```

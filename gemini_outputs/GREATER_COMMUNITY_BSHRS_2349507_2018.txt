@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Greater Community Bancshares,"Inc."","Atlanta,"GA"","2018","Joe W. Rogers,"Jr."","n/a","77.6000","8.27%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2018","M. Wayne Robinson","n/a","60.6737","6.46%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2018","Martha B. Walstad","n/a","55.3646","5.90%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2018","Frank A. Brown. Jr.","n/a","54.3677","5.79%","n/a"
+"Greater Community Bancshares,"Inc."","Calhoun,"GA"","2018","David J. Lance","n/a","45.0000","6.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Greater Community Bancshares,"Inc."","Director","Robert L. Berry","Surgeon","Brinson,"Askew","Berry","Seigler","Richardson & Davis"","2018","Partner in law firm","n/a"
+"Greater Community Bancshares,"Inc."","Director","Paul B. Brock. Sr.","Director","n/a","2018","n/a","n/a"
+"Greater Community Bancshares,"Inc."","Vice Chairman\nDirector","Frank A. Brown,"Jr."","Director","n/a","2018","Account Executive - Insurance Agy","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Barry R. Henderson","President/CEO","Henderson & Sons Funeral Home,"Inc."","2018","President/CEO of Henderson &\nSons Funeral Home","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Barry R. Henderson","President/CEO","Rome Memorial Park,"Inc."","2018","President/CEO of Henderson &\nSons Funeral Home","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Barry R. Henderson","Partner","Memorial Investors,"LP"","2018","President/CEO of Henderson &\nSons Funeral Home","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Barry R. Henderson","General Partner","H. Investments,"LLC"","2018","President/CEO of Henderson &\nSons Funeral Home","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Kenneth Wayne Jones,"Jr.","M.D."","Member","KAMBS. LLC","2018","Physician with\nFloyd Medical Center","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Kenneth Wayne Jones,"Jr.","M.D."","Member","FPMD Partners,"LLC"","2018","Physician with\nFloyd Medical Center","n/a"
+"Greater Community Bancshares,"Inc."","Pres/CEO\nDirector","David J. Lance,"Sr."","n/a","n/a","2018","President/CEO\nGreater Community Bank","n/a"
+"Greater Community Bancshares,"Inc."","Director","Donna E. McEntyre","n/a","n/a","2018","COO/Calhoun City President\nGreater Community Bank","n/a"
+"Greater Community Bancshares,"Inc."","Director","M. Wayne Robinson","Partner","Robinson/Temple","2018","President","n/a"
+"Greater Community Bancshares,"Inc."","Director","M. Wayne Robinson","President","M. Wayne Robinson Builder Developer Inc.","2018","President","n/a"
+"Greater Community Bancshares,"Inc."","Director","Russell Shepherd Smith","President","Northwest Georgia Paving,"Inc."","2018","President","n/a"
+"Greater Community Bancshares,"Inc."","Director","William B. Temple","Member","Cooper Haley Partners,"LLC"","2018","Real estate agent","n/a"
+"Greater Community Bancshares,"Inc."","Director","William B. Temple","Member","Whitbrook Holdings. LLC","2018","Real estate agent","n/a"
+"Greater Community Bancshares,"Inc."","Director","William B. Temple","Member","Sawhorse Group LLC","2018","Real estate agent","n/a"
+"Greater Community Bancshares,"Inc."","Director","William B. Temple","Vice President","Toles,"Temple & Wright","Inc."","2018","Real estate agent","n/a"
+"Greater Community Bancshares,"Inc."","Director","Martha B. Walstad","Partner","Lake Toccoa Development Co.","2018","Personal investment managment","n/a"
+"Greater Community Bancshares,"Inc."","Director","Edwin C. Watters","President","Watters & Assoc. Landscape,"Inc."","2018","President,"Watters &\nAssociates Landscape","Inc."","n/a"
+"Greater Community Bancshares,"Inc."","Director\nDirector","Peter M. Weber","Director","n/a","2018","President/CEO\nAdvent Health Gordon","n/a"
+```

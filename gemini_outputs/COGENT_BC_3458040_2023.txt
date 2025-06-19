@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2023","Lee E. Hanna","Common","2973750.00","5%","n/a"
+"Cogent Bancorp,"Inc."","Orlando,"FL"","2023","Chirag J. Bhavsar","Common","4753648.00","9%","n/a"
+"Cogent Bancorp,"Inc."","Tampa,"FL"","2023","Vijay Patel","Common","1551196.00","3%","n/a"
+"Cogent Bancorp,"Inc."","Tampa,"FL"","2023","Hudson Investment One LLC","Common","1551197.00","3%","n/a"
+"Cogent Bancorp,"Inc."","Tampa,"FL"","2023","M&R United Holding LLC","Common","1849304.00","3%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cogent Bancorp,"Inc."","Director","Lee E. Hanna","Chairman","Cogent Bank","2023","Chairman and CEO of Cogent Bank","n/a"
+"Cogent Bancorp,"Inc."","Chairman","Lee E. Hanna","CEO","Cogent Bank","2023","Chairman and CEO of Cogent Bank","n/a"
+"Cogent Bancorp,"Inc."","Director","Chirag J. Bhavsar","President","Cogent Bank","2023","President of Cogent Bank,"Co-CEO of CNL Financial Group","Inc"","n/a"
+"Cogent Bancorp,"Inc."","President","Chirag J. Bhavsar","CEO","CNL Financial Group,"Inc."","2023","President of Cogent Bank,"Co-CEO of CNL Financial Group","Inc"","n/a"
+"Cogent Bancorp,"Inc."","Director","Mitchel Laskey","Managing Partner","DeepWork Capital,"LLC"","2023","Managing Partner of DeepWork Capital,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director","Paul Ellis","CEO","Foundry Commercial,"LLC"","2023","CEO of Foundry Commercial,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director","Heath Ritenour","Chairman","IOA Group LLC","2023","Chairman & CEO of Insurance Office of America","n/a"
+"Cogent Bancorp,"Inc."","Director","C. Daniel Rice","President","Maypot Venture Partners,"LLC"","2023","President & CEO of Maypot Venture Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director","Christophen B. Pillay","CEO","Meridian Technologies Holdings,"Inc."","2023","CEO of Meridian Technologies Holdings,"Inc."","n/a"
+"Cogent Bancorp,"Inc."","Director","Christophen B. Pillay","Director","Consulting Solutions,"LLC"","2023","CEO of Meridian Technologies Holdings,"Inc."","n/a"
+"Cogent Bancorp,"Inc."","Director","Avani M. Desai","CEO","Shellman & Company,"LLC"","2023","CEO of Schellman Compliance,"LLC & Shellman & Company","LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director","Avani M. Desai","CEO","Schellman Compliance,"LLC"","2023","CEO of Schellman Compliance,"LLC & Shellman & Company","LLC"","n/a"
+```

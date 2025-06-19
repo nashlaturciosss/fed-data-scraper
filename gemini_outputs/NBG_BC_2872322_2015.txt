@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2015","John H. Barrett","Common Stock","208799","14.91%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2015","Robert E. Burton","Common Stock","176390","12.60%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2015","Ted Ridlehuber","Common Stock","83830","5.99%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2015","Tommy E. Warner","Common Stock","114913","8.21%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NBG BANCORP,"INC."","Director","John H. Barrett","President","Barrett Properties,"Inc."","2015","Real Estate Developer/Property Manager","n/a"
+"NBG BANCORP,"INC."","Director","Robert E. Burton","President","Flowers,"Inc."","2015","Co-Founder & 50% owner of Flowers,"Inc.","a wholesaler of balloons and gift items"","n/a"
+"NBG BANCORP,"INC."","Director","Michael S. Gautreaux","Agent","Regions Insurance","2015","Regions Insurance Agent","n/a"
+"NBG BANCORP,"INC."","Director","Willliam Glosson","n/a","n/a","2015","n/a","n/a"
+"NBG BANCORP,"INC."","CFO & Secretary","Chadwick B. Hargrove","n/a","n/a","2015","n/a","n/a"
+"NBG BANCORP,"INC."","Chairman of the Board President & CEO","William C. Hopper,"III"","Owner","Associated Restraurant Ventures","2015","n/a","n/a"
+"NBG BANCORP,"INC."","Director","Thomas Johnson","Owner","Associated Restraurant Ventures","2015","n/a","n/a"
+"NBG BANCORP,"INC."","Director","Thomas Z. Lanier,"III"","Owner","Parker & Associates Property Management Co","2015","n/a","n/a"
+"NBG BANCORP,"INC."","Director","Kennneth J. Parker","n/a","n/a","2015","n/a","n/a"
+"NBG BANCORP,"INC."","Director","Ted R. Ridlehuber","n/a","n/a","2015","Retired","n/a"
+"NBG BANCORP,"INC."","Director","Scott Saucier","Partner","Trinity Accounting","2015","CPA Partner Trinity Accounting","n/a"
+"NBG BANCORP,"INC."","Director","Frank N. Simpson","n/a","n/a","2015","Owner","n/a"
+"NBG BANCORP,"INC."","Director","Tommy E. Warner","President","Warner-Bair Videos","2015","Owner Warner Properties","n/a"
+```

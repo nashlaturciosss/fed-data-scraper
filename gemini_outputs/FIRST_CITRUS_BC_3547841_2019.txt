@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Citrus Bancorporation,"Inc."","Tampa,"FL"","2019","John M. Barrett","Common Stock","70027","3%","n/a"
+"First Citrus Bancorporation,"Inc."","Tampa,"FL"","2019","John M. Barrett","Options on Common Stock","55556","3%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Citrus Bancorporation,"Inc."","Director","C. Russell Adams","President","Russell Adams Realty,"Inc."","2019","Business Owner Realtor","n/a"
+"First Citrus Bancorporation,"Inc."","Director & Chairman","Michael Adcock","President","Adcock-Adcock Insurance Agency,"Inc."","2019","Business Owner Insurance","n/a"
+"First Citrus Bancorporation,"Inc."","President & CEO","John M. Barrett","n/a","n/a","2019","n/a","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Robert K. Beard","CEO","Aegis Business Credit LLC","2019","Business Owner","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Robert K. Beard","President","B & B Capital Ventures,"Inc."","2019","Business Owner","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Robert K. Beard","President","Envirocap LLC","2019","Business Owner","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Robert K. Beard","Principal","Aileron LLC","2019","Business Owner","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Sharon Docherty Danco","President","Sharon Docherty Danco,"PLLC"","2019","Attorney","n/a"
+"First Citrus Bancorporation,"Inc."","Director","James G. Hatton","President & CEO","BCI Industries,"Inc."","2019","Business Owner Construction/Engineering","n/a"
+"First Citrus Bancorporation,"Inc."","Director","James G. Hatton","President & CEO","Sun Metals Systems,"Inc."","2019","Business Owner Construction/Engineering","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Rodney O. Horton","Consultant","Med Ops,"Inc."","2019","Business Owner Manufacturer","n/a"
+"First Citrus Bancorporation,"Inc."","Director","Gerald L. Kolar","President","Kolar Systems International","2019","Business Owner Computer Equipment","n/a"
+"First Citrus Bancorporation,"Inc."","Executive Officer","John T. Linton","n/a","n/a","2019","n/a","n/a"
+"First Citrus Bancorporation,"Inc."","Director","J. Roger Moyer","n/a","n/a","2019","Retired Banker","n/a"
+```

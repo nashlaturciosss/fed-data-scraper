@@ -1,0 +1,28 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Partners,"Inc."","New York,"NY"","2014","BlackRock,"Inc."","n/a","2812216","7.85%","n/a"
+"Pinnacle Financial Partners,"Inc."","Malvern,"PA"","2014","The Vanguard Group,"Inc."","n/a","2223250","6.21%","n/a"
+"Pinnacle Financial Partners,"Inc."","Austin,"TX"","2014","Dimensional Fund Advisors LP","n/a","2151167","6.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Partners,"Inc."","Director","Sue G. Atkinson","Chairman","Atkinson Public Relations","2014","Public Relations Executive","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","H. Gordon Bone","Partner","B&B Enterprises","2014","Builder/Developer","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Gregory L. Burns","President and CEO","Gregory Burns Consulting Group,"LLC"","2014","Consultant","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Colleen Conway-Welch","n/a","n/a","2014","Retired Nursing School Administrator","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","James C. Cope","Partner","Cope,"Hudson","Scarlett","Reed and McCreary","PLLC"","2014","Attorney","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Glenda Baskin Glover","President","Tennessee State University","2014","Educator","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","William H. Huddleston,"IV"","President","Huddleston-Steele Engineering,"Inc."","2014","Engineer","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Ed C. Loughry,"Jr."","n/a","n/a","2014","Retired Banker","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Reese L. Smith III","President","Haury & Smith Contractors,"Inc."","2014","Builder/Developer","n/a"
+"Pinnacle Financial Partners,"Inc."","Chairman of the Board","Robert A. McCabe,"Jr."","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Hal N. Pennington","n/a","n/a","2014","Retired Manufacturing Executive","n/a"
+"Pinnacle Financial Partners,"Inc."","Director","Gary L. Scott","n/a","n/a","2014","Retired Banker","n/a"
+"Pinnacle Financial Partners,"Inc."","President and Chief Executive Officer","M. Terry Turner","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Administrative Officer","Hugh M. Queener","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Financial Officer","Harold R. Carpenter","n/a","n/a","2014","n/a","n/a"
+"Pinnacle Financial Partners,"Inc."","Executive Vice President and Chief Credit Officer","J. Harvey White","n/a","n/a","2014","n/a","n/a"
+```

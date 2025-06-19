@@ -1,0 +1,28 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Individually Owned","6083","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Voting Control","2330","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Voting Control","4458","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Joint Owner","4034","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Voting Control","1250","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","Anne S. Hammack","Voting Control","1250","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2021","James Albert Hammack","Individually Owned","8876","5.51%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2021","James A Hammack III","Son","2515","1.56%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2021","Margaret Long","Daughter","535","0.33%","n/a"
+"One South Financial,"Inc."","n/a","2021","Margaret Long","Granddaughter","878","0.54%","n/a"
+"One South Financial,"Inc."","n/a","2021","James A Hammack III","Grandson","878","0.54%","n/a"
+"One South Financial,"Inc."","n/a","2021","James A Hammack III","Granddaughter","878","0.54%","n/a"
+"One South Financial,"Inc."","n/a","2021","James A Hammack III","Grandson","878","0.54%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"One South Financial,"Inc."","Director","Garrett N. Bennett","Physician","Miller County Hospital","2021","Physician","n/a"
+"One South Financial,"Inc."","Director","Patricia M. Cleveland","Retired","n/a","2021","Retired","n/a"
+"One South Financial,"Inc."","Director","D. Ronald Davis","Retired","n/a","2021","Retired","n/a"
+"One South Financial,"Inc."","Director","Richard D. Grist,"Jr."","Oil Jobber","Grist Oil Co.","2021","Oil Jobber","n/a"
+"One South Financial,"Inc."","Director","Alfred D. Guettler","President","Guettler & Guettler,"Inc."","2021","Highway construction business","n/a"
+"One South Financial,"Inc."","Chairman","J. Albert Hammack","Retired","Jolly Textiles,"Inc."","2021","President,"Jolly Textiles","Inc."","n/a"
+"One South Financial,"Inc."","Director","James Stephen Singletary","Farmer","Singletary Properties,"LLC dba Singletary Farms"","2021","Farmer","n/a"
+"One South Financial,"Inc."","Director","William A. Smith","Farmer","Cherokee Rose Farm","2021","Farmer","n/a"
+"One South Financial,"Inc."","President,"CEO","& Director"","Kim Davis Wilson","President,"CEO & Director"","n/a","2021","None","n/a"
+```

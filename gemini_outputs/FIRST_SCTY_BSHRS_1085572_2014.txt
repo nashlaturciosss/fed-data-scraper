@@ -1,0 +1,37 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","CHARLES BENNETT TRUST","n/a","1289.0","3.38%","1085572"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","GENEVA BENNETT","n/a","1476.0","3.87%","1085572"
+"First Security Bankshares,"Inc."","Lavonia,"GA"","2014","MARY PATSY GILBERT","n/a","4969.0","13.02%","1085572"
+"First Security Bankshares,"Inc."","Lavonia,"GA"","2014","HW WHITWORTH IRRV TRUST","n/a","2946.0","7.72%","1085572"
+"First Security Bankshares,"Inc."","n/a","2014","CAROLINE LOUISE KELLY","n/a","624.0","1.63%","1085572"
+"First Security Bankshares,"Inc."","n/a","2014","LEIGH W KELLY","n/a","2074.0","5.43%","1085572"
+"First Security Bankshares,"Inc."","n/a","2014","MATTHEW THOMAS KELLY","n/a","624.0","1.63%","1085572"
+"First Security Bankshares,"Inc."","n/a","2014","WESLEY WILLIAM KELLY","n/a","624.0","1.63%","1085572"
+"First Security Bankshares,"Inc."","Conyers,"GA"","2014","THOMAS F KELLY","n/a","335.0","0.88%","1085572"
+"First Security Bankshares,"Inc."","Anderson,"SC"","2014","JANIECE M. WHITE","n/a","2000.0","5.24%","1085572"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","BARRY S WHITWORTH","n/a","1891.0","4.95%","1085572"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","SARAH ELIZABETH WHITWORTH","n/a","480.0","1.26%","1085572"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","STEVEN JARRETT WHITWORTH","n/a","498.0","1.30%","1085572"
+"First Security Bankshares,"Inc."","Toccoa,"GA"","2014","LAURA J WHITWORTH","n/a","263.0","0.69%","1085572"
+"First Security Bankshares,"Inc."","Lavonia,"GA"","2014","RACHEL M WHITWORTH","n/a","1220.0","3.20%","1085572"
+"First Security Bankshares,"Inc."","Lavonia,"GA"","2014","SHURATT WHITWORTH","n/a","5145.0","13.48%","1085572"
+"First Security Bankshares,"Inc."","Lavonia,"GA"","2014","HW WHITWORTH IRR TRUST","n/a","3329.0","8.72%","1085572"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Security Bankshares,"Inc."","CHAIRMAN","SHURATT WHITWORTH","CHAIRMAN","SECT/TREAS,"FRANKLIN INSURANCE AGENCY"","2014","INSURANCE AGENT","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","GROOMS JOHNSON","DIRECTOR","RETIRED","2014","RETIRED","1085572"
+"First Security Bankshares,"Inc."","PRESIDENT/CEO DIRECTOR","JOHN C. SEAY","PRESIDENT/CEO DIRECTOR","NONE","2014","BANKING","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","BARRY WHITWORTH","DIRECTOR","PRESIDENT","2014","INSURANCE AGENT","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","BARRY WHITWORTH","PRESIDENT","FRANKLIN INSURANCE AGENCY","2014","INSURANCE AGENT","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","GERALD VOYLES","DIRECTOR","NONE","2014","RETIRED","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","RICHARD A BASINGER,"JR"","EVP/DIRECTOR","NONE","2014","BANKING","1085572"
+"First Security Bankshares,"Inc."","PRINCIPAL SHAREHOLDER","MARY PATSY GILBERT","NONE","NONE","2014","RETIRED","1085572"
+"First Security Bankshares,"Inc."","DIRECTOR","BOBBY LEE VAUGHN","SVP/DIRECTOR","NONE","2014","BANKING","1085572"
+"First Security Bankshares,"Inc."","CFO/DIRECTOR","ROBERT E CURRY","CFO/DIRECTOR","NONE","2014","BANKING","1085572"
+"First Security Bankshares,"Inc."","PRINCIPAL SHAREHOLDER","LEIGH W KELLY","NONE","NONE","2014","HOME-MAKER","1085572"
+```

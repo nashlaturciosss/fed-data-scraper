@@ -1,0 +1,19 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLESSOUTH BANCSHARES,"INC."","Headland,"Alabama"","2020","Rickey E. Stuckey,"et. al."","n/a","335364","13.02%","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Albany,"GA"","2020","J. Alvin Newton,"Jr."","n/a","237438","9.22%","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Colquitt,"Georgia"","2020","Ronald H. Rentz,"et. al."","n/a","227979","8.85%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLESSOUTH BANCSHARES,"INC."","CEO,"President and Director"","Rickey E. Stuckey","n/a","n/a","2020","n/a","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","C. E. Grow,"Jr."","n/a","n/a","2020","Retired","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Corporate Sec & Treas & Vice President","Sandra Womble","n/a","n/a","2020","Chief Financial Officer","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","Ronald H. Rentz","Owner","Ronald H. Rentz Attorney at Law","2020","Attorney","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","J. Alvin Newton,"Jr."","CPA","Burke,"Worsham & Harrell LLC"","2020","Attorney","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","Joseph W. Grimsley","n/a","n/a","2020","Retired Dentist","n/a"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","Jana Cobb","Pharmacist","Phoebe Putney Mem Hospital","2020","Pharmacist","n/a"
+```

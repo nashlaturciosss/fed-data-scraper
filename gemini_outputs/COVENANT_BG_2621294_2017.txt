@@ -1,0 +1,18 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covenant Bancgroup,"Inc."","Birmingham,"AL"","2017","Bob Smith","common stock","33305","8.83%","n/a"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2017","Hayes Parnell III","common stock","32003","8.48%","n/a"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2017","Hayes Parnell III","options on common stock","8280","2.15%","n/a"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2017","John Patterson","common stock","15098","4.00%","n/a"
+"Covenant Bancgroup,"Inc."","Leeds,"AL"","2017","John Patterson","options on common stock","8280","2.15%","n/a"
+"Covenant Bancgroup,"Inc."","Birmingham,"AL"","2017","Schauer Family Irrevocable Trust","common stock","21491","5.69%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covenant Bancgroup,"Inc."","Director,"Chairman President & CEO"","Hayes Parnell III","Partner","S&P Properties,"LLC"","2017","Banker","2621285"
+"Covenant Bancgroup,"Inc."","Director","John R. Patterson","Owner","Patterson Pharmacy","2017","Pharmacist","2621285"
+"Covenant Bancgroup,"Inc."","Director","Bob Smith","President and Chairman","Precision Husky","2017","Manufacturer","2621285"
+"Covenant Bancgroup,"Inc."","Director","Ron Whitehead","Chief Financial Officer","Blue Cross Blue Shield of Alabama","2017","Healthcare Executive","2621285"
+```

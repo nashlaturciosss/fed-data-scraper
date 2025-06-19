@@ -1,21 +1,35 @@
-Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Alabama Bancshares,"Inc."","n/a","2015","None","n/a","n/a","n/a"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Earl Ryser","n/a","n/a","0.86%","n/a"
+"Central Alabama Bancshares,"Inc."","Deatsville,"Al"","2015","Robert M. Barrett","n/a","n/a","2.30%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Spencer J. Coleman,"Sr. MD"","n/a","n/a","2.30%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Sheila Spiers","n/a","n/a","2.00%","n/a"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2015","Albert Striplin","n/a","n/a","1.10%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Travis Cosby,"III"","n/a","n/a","2.30%","n/a"
+"Central Alabama Bancshares,"Inc."","Deatsville,"Al"","2015","Michael R. Morgan","n/a","n/a","1.40%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","John R. Williams","n/a","n/a","1.20%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Johnny M. Carothers,"Jr."","n/a","n/a","1.80%","n/a"
+"Central Alabama Bancshares,"Inc."","Eclectic,"Al"","2015","Rana S. Futral","n/a","n/a","1.20%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2015","Brian Barrett","n/a","n/a","0.002%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Alabama Bancshares,"Inc."","n/a","Earl Ryser","Contractor","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Robert M. Barrett","Retired","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Spencer J. Coleman,"Sr. MD"","Physician","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Sheila Spiers","Banker","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Albert Striplin","Finance","KeyFinance Co. Inc. (>5%)ALMA LLC (>5%)Striplin Family LLC (>5%)Twatt LLC (>5%)","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Travis Cosby,"III"","Banker","Trico Financial Services LLC (30%)","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Michael R. Morgan","Banker","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","John R. Williams","Mortgage Lender","Mortgage Corporation of the South","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Johnny M. Carothers,"Jr."","Forester","Baseline Forest Services,"Inc."","2015"
-"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","Banker","n/a","2015"
-"Central Alabama Bancshares,"Inc."","n/a","Brian Barrett","Dentist","n/a","2015"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Director","Earl Ryser","n/a","n/a","2015","Contractor","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Robert M. Barrett","n/a","Trico Financial Serv.,"LLC"","2015","Retired","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Robert M. Barrett","n/a","Tallapoosa River Plaza LLC","2015","Retired","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Robert M. Barrett","n/a","Bartram Properties LLC","2015","Retired","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Spencer J. Coleman,"Sr. MD"","n/a","n/a","2015","Physician","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Sheila Spiers","n/a","n/a","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","KeyFinance Co. Inc.","2015","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Albert Striplin","n/a","ALMA LLC","2015","Finance","n/a"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","n/a","Striplin Family LLC","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","n/a","Twatt LLC","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Chairman/Director","Travis Cosby,"III"","n/a","Trico Financial Services LLC","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","President and CEO/Director","Michael R. Morgan","n/a","n/a","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","John R. Williams","President","Mortgage Corporation of the South","2015","Mortgage Lender","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Johnny M. Carothers,"Jr."","President","Baseline Forest Services,"Inc."","2015","Forester","n/a"
+"Central Alabama Bancshares,"Inc."","EVP/CFO/Director","Rana S. Futral","n/a","n/a","2015","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","Director","Brian Barrett","n/a","Brian E. Barrett DMD PC","2015","Dentist","n/a"
 ```

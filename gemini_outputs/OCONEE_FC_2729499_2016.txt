@@ -1,0 +1,34 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2016","Susan Wells Brodrick","Common Stock","87468","9.72%","2729499"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2016","Hardigree Properties,"LLLP"","Common Stock","47240","5.25%","2729499"
+"Oconee Financial Corporation","Carrboro,"North Carolina"","2016","Caroline Wells Pence","Common Stock","76850","8.54%","2729499"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2016","Virginia S. Wells","Common Stock","166785","18.54%","2729499"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oconee Financial Corporation","Executive VP","Philip A. Bernardi","n/a","None","2016","N/A","2729499"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","n/a","2016","Retired","2729499"
+"Oconee Financial Corporation","Director","Brian J. Brodrick","Manager","Jackson Spalding","2016","Marketing & Communications","2729499"
+"Oconee Financial Corporation","Director","Brian J. Brodrick","Owner","New High Shoals Properties,"LLC"","2016","Marketing & Communications","2729499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","CEO","LAD Truck Lines,"Inc."","2016","Transportation,"Logistics","& Warehousing"","2729499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","CEO","LAD Logistics,"Inc."","2016","Transportation,"Logistics","& Warehousing"","2729499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","CEO","Dutch Properties,"Inc."","2016","Transportation,"Logistics","& Warehousing"","2729499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","CEO","Chicken Bros. Leasing,"Inc."","2016","Transportation,"Logistics","& Warehousing"","2729499"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","CEO","Holland-Oconee,"LLC"","2016","Transportation,"Logistics","& Warehousing"","2729499"
+"Oconee Financial Corporation","Vice Chairman","J. Albert Hale,"Sr."","Owner","Hale's Dairy","2016","Dairy & Poultry Farmer","2729499"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Maxey Brothers,"Inc."","2016","Site development & grading contractor","2729499"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Fie Fays Unlimited,"Inc."","2016","Site development & grading contractor","2729499"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Physician","Athens Regional Cardiology Group","2016","Medical Doctor/ Cardiologist & Associate Professor","2729499"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Associate Dean of Research","Augusta University/UGA Medical Partnership","2016","Medical Doctor/ Cardiologist & Associate Professor","2729499"
+"Oconee Financial Corporation","Executive VP","Steven A. Rogers","n/a","None","2016","N/A","2729499"
+"Oconee Financial Corporation","Director","T. Neil Stevens","n/a","None","2016","N/A","2729499"
+"Oconee Financial Corporation","Director","Jerry K. Wages","n/a","None","2016","N/A","2729499"
+"Oconee Financial Corporation","Director","Virginia S. Wells","President & CEO","Wells & Company Realtors,"Inc."","2016","Real estate developer & property management","2729499"
+"Oconee Financial Corporation","Director","Virginia S. Wells","Limited Partner","VSC Properties,"LLLP"","2016","Real estate developer & property management","2729499"
+"Oconee Financial Corporation","Director","Virginia S. Wells","Limited Partner","McRee Properties,"LLLP"","2016","Real estate developer & property management","2729499"
+"Oconee Financial Corporation","Director","Tom F. Wilson","n/a","None","2016","N/A","2729499"
+```

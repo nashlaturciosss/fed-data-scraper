@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LaFayette Bankshares,"Inc."","LaFayette,"GA"","2020","Charles H. Gilbert","n/a","27419","9.680%","n/a"
+"LaFayette Bankshares,"Inc."","Canton,"GA"","2020","Anne G. Barnes","n/a","27412","9.677%","n/a"
+"LaFayette Bankshares,"Inc."","LaFayette,"GA"","2020","Bob D. Gilbert,"Jr."","n/a","17775","6.275%","n/a"
+"LaFayette Bankshares,"Inc."","LaFayette,"GA"","2020","George M. Gilbert","n/a","22557","7.963%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LaFayette Bankshares,"Inc."","Director","B.D. Gilbert,"Jr."","Chairman","n/a","2020","Banker","n/a"
+"LaFayette Bankshares,"Inc."","Chairman","B.D. Gilbert,"Jr."","Chairman","n/a","2020","Banker","n/a"
+"LaFayette Bankshares,"Inc."","Director","C.H. Gilbert*","n/a","n/a","2020","Banker","n/a"
+"LaFayette Bankshares,"Inc."","President","C.H. Gilbert*","n/a","n/a","2020","Banker","n/a"
+"LaFayette Bankshares,"Inc."","Director","C.B. Parker","Owner,"Insurance Agency"","Stiles Parker & Co.","2020","Insurance Agent","n/a"
+"LaFayette Bankshares,"Inc."","Director","W.D. Cunningham","Attorney","Retired","2020","Attorney","n/a"
+"LaFayette Bankshares,"Inc."","Director","W.R. Loughridge","Owner,"Farm Equipment Sales"","Loughridge Equipment","2020","Merchant","n/a"
+"LaFayette Bankshares,"Inc."","Director","R.B. Forester","n/a","n/a","2020","Retired","n/a"
+"LaFayette Bankshares,"Inc."","Director","H.N. Florence","Pharmacist","Medi Thrift,"Inc."","2020","Pharmacist","n/a"
+"LaFayette Bankshares,"Inc."","Director","B.R. Potts","Partner - Auction Co.","Potts Brothers Land & Auction LLC","2020","Auctioneer","n/a"
+"LaFayette Bankshares,"Inc."","Vice Pres./Secretary","J.S. Ingram","Partner - Hardware Store","Hammond-Jones Hdw.","2020","Banker","n/a"
+"LaFayette Bankshares,"Inc."","Sr. Vice Pres./Cashier","J.S. Ingram","Partner - Hardware Store","Hammond-Jones Hdw.","2020","Banker","n/a"
+```

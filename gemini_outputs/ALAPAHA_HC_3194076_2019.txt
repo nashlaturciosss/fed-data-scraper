@@ -1,19 +1,28 @@
-```csv
+Here are the two CSV tables requested:
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Alapaha Holding Company","Alapaha","2019","Marguerite J. Gaskins Trust","n/a","2200","6.33%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Alapaha","Alapaha,"Georgia"","2019","Marguerite J. Gaskins Trust","n/a","2200","6.33%","n/a"
 ```
-```csv
+```text
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Alapaha Holding Company","Director","Luther L Duke,"III"","Director","Adel Ice Company,"Inc. CEO; Hopeful Ice of South Georgia","Inc. CEO"","2019"
-"Alapaha Holding Company","n/a","Cecil W Hill","Director/Consultant","n/a","2019"
-"Alapaha Holding Company","President","Kenneth E Hughes","President and CEO","n/a","2019"
-"Alapaha Holding Company","Director","Tommy Lee","Director","Lee Farm Supply,"LLC-Managing Member"","2019"
-"Alapaha Holding Company","Director","Steve McMillan","Director","Berrien Peanut Co-CEO; Southern Grace Farms,"Inc. CEO Middle Branch","LLP CEO"","2019"
-"Alapaha Holding Company","Director","C Dane Perkins","Director","Troutdale Corporation CEO","2019"
-"Alapaha Holding Company","Director","Sylvia L Roberts","Director","Alapaha Station Celebration Inc CEO","2019"
-"Alapaha Holding Company","Director","Daniel L Studstill","Director","Daniel L Studstill,"PC CEO Studstill Firm","LLP Member"","2019"
-"Alapaha Holding Company","n/a","Erin B Watson","CFO-Bank","n/a","2019"
-"Alapaha Holding Company","Director","Brian E Stone","Director","Adel Properties,"LLC CEO Stone's Development CEO Water's Edge Construction LLC Stone Ridge Rental","LLC Brian Stone Construction Inc"","2019"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Alapaha","Director","Luther L Duke,"III"","CEO","Adel Ice Company,"Inc."","2019","Entrepreneur","n/a"
+"Alapaha","Director","Luther L Duke,"III"","CEO","Hopeful Ice of South Georgia,"Inc."","2019","Entrepreneur","n/a"
+"Alapaha","Director/Consultant","Cecil W Hill","n/a","n/a","2019","n/a","n/a"
+"Alapaha","President","Kenneth E Hughes","President and CEO","n/a","2019","n/a","n/a"
+"Alapaha","Director","Tommy Lee","Managing Member","Lee Farm Supply,"LLC"","2019","Farmer & Entrepreneur","n/a"
+"Alapaha","Director","Steve McMillan","CEO","Berrien Peanut Co","2019","Farmer","n/a"
+"Alapaha","Director","Steve McMillan","CEO","Southern Grace Farms,"Inc."","2019","Farmer","n/a"
+"Alapaha","Director","Steve McMillan","CEO","Middle Branch,"LLP"","2019","Farmer","n/a"
+"Alapaha","Director","C Dane Perkins","CEO","Troutdale Corporation","2019","Judge","n/a"
+"Alapaha","Director","Sylvia L Roberts","CEO","Alapaha Station Celebration Inc","2019","n/a","n/a"
+"Alapaha","Director","Daniel L Studstill","CEO","Daniel L Studstill,"PC"","2019","Attorney","n/a"
+"Alapaha","Director","Daniel L Studstill","Member","Studstill Firm,"LLP"","2019","Attorney","n/a"
+"Alapaha","n/a","Erin B Watson","n/a","n/a","2019","n/a","n/a"
+"Alapaha","Director","Brian E Stone","CEO","Adel Properties,"LLC"","2019","Contractor & Entrepreneur","n/a"
+"Alapaha","Director","Brian E Stone","CEO","Stone's Development","2019","Contractor & Entrepreneur","n/a"
+"Alapaha","Director","Brian E Stone","n/a","Water's Edge Construction LLC","2019","Contractor & Entrepreneur","n/a"
+"Alapaha","Director","Brian E Stone","n/a","Stone Ridge Rental,"LLC"","2019","Contractor & Entrepreneur","n/a"
+"Alapaha","Director","Brian E Stone","n/a","Brian Stone Construction Inc","2019","Contractor & Entrepreneur","n/a"
 ```

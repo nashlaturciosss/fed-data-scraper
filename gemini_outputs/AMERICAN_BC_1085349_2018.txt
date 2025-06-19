@@ -1,18 +1,25 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2018","The Diesi Family Trusts","Common Stock","16000","20.51%"
-"American Bancorp,"Inc."","Opelousas","2018","Ronald J. Lashute","Common Stock","17821","22.84%"
-"American Bancorp,"Inc."","Clearwater","2018","Diane F Brown","Common Stock","5969","7.65%"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","n/a","The Diesi Family Trust","None","n/a","2018"
-"American Bancorp,"Inc."","n/a","Samuel C. Diesi","Director","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","President & CEO","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2018"
-"American Bancorp,"Inc."","Vice President & CFO","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2018"
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2018","The Diesi Family Trusts","Common Stock","16000","20.51%","n/a"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2018","Ronald J. Lashute","Common Stock","17821","22.84%","n/a"
+"American Bancorp,"Inc."","Clearwater,"Florida"","2018","Diane F Brown","Common Stock","5969","7.65%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","n/a","2018","Farmer","n/a"
+"American Bancorp,"Inc."","Assistant VP & Branch ManagerDirector","Elaine E. Diesi","Secretary and Treasurer o:","Little Capitol of Louisiana,"Inc."","2018","n/a","n/a"
+"American Bancorp,"Inc."","Assistant VP & Branch ManagerDirector","Elaine E. Diesi","Secretary and Treasurer o:","Diesi Development Corporation","2018","n/a","n/a"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","President","Little Capitol of Louisiana,"Inc."","2018","Owner/Manager","n/a"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","Vice President","Diesi Development Corporation","2018","Owner/Manager","n/a"
+"American Bancorp,"Inc."","None","The Diesi Family Trust","None","n/a","2018","None","n/a"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2018","Clergy","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc."","2018","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Haynes Family Funerals,"Inc."","2018","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","CoB Williams Progressive Life Insurance Company","2018","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","n/a","2018","Clerk of Court of St. Landy Parish of Louisiana","n/a"
+"American Bancorp,"Inc."","President & CEO","Ronald J. Lashute","Director","n/a","2018","n/a","n/a"
+"American Bancorp,"Inc."","Vice President & CFO","George H. Comeau","Vice President","n/a","2018","n/a","n/a"
 ```

@@ -1,0 +1,29 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all the specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director","Russell Carothers","n/a","n/a","2023","Retired banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","Robert L. Carothers","n/a","n/a","2023","Retired banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Chairman","President & CEO"","Christian Hill Carothers","n/a","n/a","2023","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"President & CEO (Citizens Bank)"","Christian Hill Carothers","n/a","n/a","2023","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","retired Comptroller","Continental Conveyor & Equipment Co","2023","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director (Citizens Bank)","Jimmy Dickinson","retired Comptroller","Continental Conveyor & Equipment Co","2023","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Retired CFO","Baymont Inc.","2023","retired manufact. CFO","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","Paul B Wilson","Retired CFO","Baymont Inc.","2023","retired manufact. CFO","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","Retail","Spann Hardware & Equip,"Inc."","2023","Retail Business","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","Raymond C Spann,"Jr."","Retail","Spann Hardware & Equip,"Inc."","2023","Retail Business","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","n/a","n/a","2023","Physician","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","William A Hill,"Jr."","n/a","n/a","2023","Physician","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman & Corporate Sec"","Tamra P Trull","n/a","n/a","2023","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman; EVP","CFO","Cashier & Corporate Sec"","Tamra P Trull","n/a","n/a","2023","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman; EVP","CFO","Cashier & Corporate Sec (Citizens Bank)"","Tamra P Trull","n/a","n/a","2023","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","Sales","Timber Creek Housing","2023","Sales Mgr Manufact.","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","John S Garner","Sales","Timber Creek Housing","2023","Sales Mgr Manufact.","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Robert L. Carothers,"Jr"","Partner","Jones Walker LLP","2023","Attorney","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","Robert L. Carothers,"Jr"","Partner","Jones Walker LLP","2023","Attorney","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Martis P Parish","Partner","Guin & Parish LLC","2023","CPA","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director (Citizens Bank)","Martis P Parish","Partner","Guin & Parish LLC","2023","CPA","n/a"
+```

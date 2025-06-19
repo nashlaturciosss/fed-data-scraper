@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pilot Bank","Tampa,"FL"","2019","George L. Southworth","common stock","2932472","19.07%","318835"
+"Pilot Bank","Tampa,"FL"","2019","George L. Southworth","options","2000","0.02%","318835"
+"Pilot Bank","New York,"NY"","2019","Cede & Company","common stock","3936906","25.61%","318835"
+"Pilot Bank","Chicago,"IL"","2019","Mendon Capital Master Fund LTD","common stock","1510029","9.82%","318835"
+"Pilot Bank","Tampa,"FL"","2019","Ignacio A. Ferras III","common stock","823809","5.36%","318835"
+"Pilot Bank","Tampa,"FL"","2019","Ignacio A. Ferras III","options","4000","0.02%","318835"
+"Pilot Bank","n/a","2019","AB Financial Services Opportunities","common stock","885714","5.76%","318835"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pilot Bank","Secretary & Director","Ann M. Ross","n/a","Fowler Store L.C.","2019","Retired Executive Performing Arts Center","n/a"
+"Pilot Bank","Vice Chairman & Director - Pilot Bank","William O. DeWeese","n/a","Fowler Store L.C.","2019","Retired Physician-Neurosurgery","n/a"
+"Pilot Bank","Vice Chairman & Director - Pilot Bank","William O. DeWeese","n/a","MB Aero LLC","2019","Retired Physician-Neurosurgery","n/a"
+"Pilot Bank","Director,"NAFCO"","Alan D. Harvill","n/a","EMI Industries","2019","President & CEO EMI Industries","n/a"
+"Pilot Bank","Director,"NAFCO"","Alan D. Harvill","n/a","Harvill Groves","2019","President & CEO EMI Industries","n/a"
+"Pilot Bank","Director,"NAFCO"","Ignacio A. Ferras,"III"","n/a","Huff Ferras,"LLC"","2019","Chairman & CEO Huff Ferras,"LLC"","n/a"
+"Pilot Bank","Director,"NAFCO"","Ignacio A. Ferras,"III"","n/a","Huff Ferras & Assoc.,"Inc."","2019","Chairman & CEO Huff Ferras,"LLC"","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","Concrete Impressions of Florida,"Inc."","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","LLC,"Inc."","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","JY Ranch,"Inc."","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","Precast Piling Technology,"Inc."","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","Southworth Trust","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","MLW-GLS Limited Partnership","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank"","George L. Southworth","n/a","3KS Family Limited Partnership","2019","President Concrete Impressions of Florida,"Inc."","n/a"
+"Pilot Bank","Director,"Pilot Bank","NAFCO"","Timothy M. Smith","n/a","State Contracting & Engineering Corporation","2019","President State Contracting & Engineering Corp","n/a"
+"Pilot Bank","Director,"Pilot Bank"","Robert E. Johnston","n/a","REJ Shipping LLC","2019","Retired Business Owner","n/a"
+"Pilot Bank","Director,"Pilot Bank"","Robert E. Johnston","n/a","Argentum","2019","Retired Business Owner","n/a"
+"Pilot Bank","Director,"Pilot Bank"","Robert E. Johnston","n/a","Tampa Blockchain Innovations LLC","2019","Retired Business Owner","n/a"
+"Pilot Bank","Pilot Bank President","Rita Lowman","n/a","n/a","2019","n/a","n/a"
+```

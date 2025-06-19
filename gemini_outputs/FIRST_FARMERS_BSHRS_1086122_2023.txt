@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Director","Joseph B. (Jack) Freedle","Attorney","Highers & Freedle,"Attorneys at Law"","2023","Attorney","n/a"
+"First Farmers Bancshares,"Inc."","Director","John C. Wilkinson","Owner","Northside Mini Storage","2023","Realtor - Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Chairman of the Board Director","John C. Wilkinson","Owner","Northside Mini Storage","2023","Realtor - Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Director","Daniel H. Green","n/a","n/a","2023","Pharmacist- Retired","n/a"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Owner","J.B. Donoho Nursery","2023","Nurseryman - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Randall M. Collins","n/a","n/a","2023","Veterinarian","n/a"
+"First Farmers Bancshares,"Inc."","Director","Talbott L. Plumlee","Owner","Tal Plumlee Insurance Agency","2023","Insurance Agency - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Clif E. Hutson","n/a","n/a","2023","Retired Business Owner","n/a"
+"First Farmers Bancshares,"Inc."","President,"CEO","Director"","William A. Nash","n/a","n/a","2023","n/a","n/a"
+"First Farmers Bancshares,"Inc."","Treasurer","Kim Monday","n/a","n/a","2023","n/a","n/a"
+"First Farmers Bancshares,"Inc."","Vice President","Justin Nipper","n/a","n/a","2023","n/a","n/a"
+"First Farmers Bancshares,"Inc."","Director","Brittany E. Jepson","Physician Assistant","White House Primary Care","2023","Physician Assistant","n/a"
+```

@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2017","John D. McLanahan,"Jr."","n/a","88701","25.68%","1138188"
+"First American Bancorp","Athens,"GA"","2017","John D. McLanahan,"Jr."","n/a","8131","2.35%","1138188"
+"First American Bancorp","Athens,"GA"","2017","John D. McLanahan,"Jr."","n/a","79298","22.96%","1138188"
+"First American Bancorp","Athens,"GA"","2017","John D. McLanahan,"Jr."","n/a","1272",".37%","1138188"
+"First American Bancorp","Athens,"GA"","2017","The McLanahan Children's Irv. Trust Agreement","n/a","79298","22.96%","1138188"
+"First American Bancorp","New York,"NY"","2017","CEDE and Co","n/a","20519","5.94%","1138188"
+"First American Bancorp","Gainesville,"GA"","2017","Catherine M. Nix","n/a","20000","5.79%","1138188"
+"First American Bancorp","Ponte Vedra Beach,"FL"","2017","John L. and Dorothy M. Watson","n/a","20856","6.04%","1138188"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","Director","Maxine H. Burton","President","Burton & BURTON","2017","International Gift Retailer","n/a"
+"First American Bancorp","Director","Catherine M. Nix","n/a","n/a","2017","n/a","n/a"
+"First American Bancorp","Director","Robert D. Heath","n/a","n/a","2017","Retired President of the Bank","n/a"
+"First American Bancorp","Director","Larry L. Medders","President","Athens Orthopedic Associates","2017","Orthopedic Surgeon (Retired)","n/a"
+"First American Bancorp","Director","L. Gerry Whitworth","President","Whitworth Land Corp.","2017","Real Estate Broker","n/a"
+"First American Bancorp","Director","Mike Power","President","Power Building Products","2017","Construction Supplier","n/a"
+"First American Bancorp","Director","T. Michael Devore","n/a","Devore and Johnson,"Inc."","2017","General Manager Plumbing and Electrical Contractor","n/a"
+"First American Bancorp","Director General Counsel","John D. McLanahan,"Jr."","Attorney","n/a","2017","Attorney","n/a"
+"First American Bancorp","Director President/CEO","C. Rhodes McLanahan","President & CEO","n/a","2017","President & CEO First American Bank","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2017","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.Α."","2017","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","n/a","Akins Ford","2017","Owner","n/a"
+"First American Bancorp","Chairman of the Board","John D. McLanahan,"Jr."","n/a","n/a","2017","Attorney","n/a"
+```

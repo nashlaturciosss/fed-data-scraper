@@ -1,24 +1,29 @@
-Here are the extracted CSV tables from the provided document:
+Here are the requested extractions in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Atlantic National Corporation","St. Simons Island","2015","John J.Rogers","Common Stock","83375","6.42%"
-"Atlantic National Corporation","Brunswick","2015","Robert G.Boone","Common Stock","83246","6.41%"
-"Atlantic National Corporation","Charlotte","2015","W.W.Walker,"Jr."","Common Stock","68075","5.24%"
-"Atlantic National Corporation","St. Simons Island","2015","J.Dewey Benefield","Common Stock","65363","5.03%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Atlantic National Corporation","St. Simons Island,"Ga"","2015","John J.Rogers","Common Stock","83375","6.42%","2939739"
+"Atlantic National Corporation","Brunswick,"Ga"","2015","Robert G.Boone","Common Stock","83246","6.41%","2939739"
+"Atlantic National Corporation","Charlotte,"N.C."","2015","W.W.Walker,"Jr."","Common Stock","68075","5.24%","2939739"
+"Atlantic National Corporation","St. Simons Island,"Ga"","2015","J.Dewey Benefield","Common Stock","65363","5.03%","2939739"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Atlantic National Corporation","Director","James F. Barger","Director","Coastal CPA's","2015"
-"Atlantic National Corporation","Director & Chairman","J. Dewey Benefield","Director & Chairman","n/a","2015"
-"Atlantic National Corporation","Director","Robert G. Boone","Director","Boone/Richardson & Associates,"Inc."","2015"
-"Atlantic National Corporation","Director","James H. Gash","Director","n/a","2015"
-"Atlantic National Corporation","Director","C.H.Leavy,"IV"","Director","The Brunswick News","2015"
-"Atlantic National Corporation","Director","T.Gillis,"II Morgan"","Director","Tidewater Equipment Company","2015"
-"Atlantic National Corporation","Director","Patrick B. Parker","Director","J.H.Parker Company,"Inc."","2015"
-"Atlantic National Corporation","Director & President","John J. Rogers","Director & President","n/a","2015"
-"Atlantic National Corporation","Director","Gordon T. Strother","Director","J.C. Strother Company","2015"
-"Atlantic National Corporation","Director","Lisa Lane Torbett","Director","Lisa Torbett Interiors,"Inc."","2015"
-"Atlantic National Corporation","n/a","Robert B. Sams","n/a","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Atlantic National Corporation","Director","James F. Barger","Partner","Coastal CPA's","2015","Certified Public Accountant","2939739"
+"Atlantic National Corporation","Director","James F. Barger","Partner","Hanover Ventures","2015","Certified Public Accountant","2939739"
+"Atlantic National Corporation","Director & Chairman","J. Dewey Benefield","Director & Chairman","Sea Island Company","2015","Retired Executive","2939739"
+"Atlantic National Corporation","Director","Robert G. Boone","Owner","Boone/Richardson & Associates,"Inc."","2015","Real Estate Development","2939739"
+"Atlantic National Corporation","Director","Robert G. Boone","Owner","Boone/Richardson Investments,"Inc."","2015","Real Estate Development","2939739"
+"Atlantic National Corporation","Director","Robert G. Boone","Owner","Allstate Homebuilders,"Inc."","2015","Real Estate Development","2939739"
+"Atlantic National Corporation","Director","Robert G. Boone","Owner","Seacoast Properties,"Inc."","2015","Real Estate Development","2939739"
+"Atlantic National Corporation","Director","Robert G. Boone","Owner","Blue Ribbon Marketable Ideas,"Inc."","2015","Real Estate Development","2939739"
+"Atlantic National Corporation","Director","James H. Gash","Banking,"Retired"","n/a","2015","Banking,"Retired"","2939739"
+"Atlantic National Corporation","Director","C.H.Leavy,"IV"","President","The Brunswick News","2015","Newspaper Publishing","2939739"
+"Atlantic National Corporation","Director","T.Gillis,"II Morgan"","n/a","Tidewater Equipment Company","2015","Forestry Equipment Distribution","2939739"
+"Atlantic National Corporation","Director","Patrick B. Parker","President","J.H.Parker Company,"Inc."","2015","Retail Gas & Convenience Stores","2939739"
+"Atlantic National Corporation","Director & President","John J. Rogers","n/a","n/a","2015","n/a","2939739"
+"Atlantic National Corporation","Director","Gordon T. Strother","Vice President,"Owner"","J.C. Strother Company","2015","Retail Hardware & Lumber","2939739"
+"Atlantic National Corporation","Director","Lisa Lane Torbett","President/Owner","Lisa Torbett Interiors,"Inc."","2015","Interior Designer","2939739"
+"Atlantic National Corporation","Sr.V.P. CFO","Robert B. Sams","n/a","n/a","2015","N/A","2939739"
 ```

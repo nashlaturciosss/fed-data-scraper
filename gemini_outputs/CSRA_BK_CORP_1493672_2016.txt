@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSRA Bank Corp","Wrens,"GA"","2016","Jerry D./Susan O. Dowdy","Common Stock","14495","6.94%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2016","Elaine A. Jones","Common Stock","13655","6.54%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2016","Marian Lamb","Common Stock","12812","6.14%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2016","R. G. Rabun","Common Stock","12612","6.04%","1493672"
+"CSRA Bank Corp","Wrens,"GA"","2016","R. A. Lewis,"Estate"","Common Stock","26420","12.65%","1493672"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Thames Pecan Co.,"Inc."","2016","Pecan production","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","President","Atwell Pecan Co","2016","Pecan production","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Member","Orchards Gourment Nuts","2016","Pecan production","n/a"
+"CSRA Bank Corp","Director & Chairman","Jerry D. Dowdy","Partner","Desirable Investments,"LLP"","2016","Pecan production","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","BFH Projects,"LLC"","2016","Pharmacist","n/a"
+"CSRA Bank Corp","Director","James E. Fleming,"Jr."","Co-owner","The Louisville Project LLC","2016","Pharmacist","n/a"
+"CSRA Bank Corp","Director","J. Brian Whitaker","President/CEO","Avera Industrial Supply,"Inc."","2016","Retail hardware sales","n/a"
+"CSRA Bank Corp","Director","Mac T. Reeves","President","Green's Cut Properties,"Inc."","2016","Timber sales","n/a"
+"CSRA Bank Corp","Director","James L. Gay","n/a","J & C Farm Inc.","2016","Farmer","n/a"
+"CSRA Bank Corp","Director","Charlotte L. Gilmore","Secretary","Rocky Comfort Forest Products","2016","Referral representative","n/a"
+"CSRA Bank Corp","Director and President","Eugene Lee Clark","n/a","None","2016","n/a","n/a"
+"CSRA Bank Corp","Executive VP/CFO","James H. Standard,"Jr."","n/a","None","2016","n/a","n/a"
+"CSRA Bank Corp","SVP/Senior Lender","David T. Jopling","n/a","n/a","2016","n/a","n/a"
+```

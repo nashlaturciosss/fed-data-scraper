@@ -1,19 +1,21 @@
-Here are the extracted CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Alabama Bancshares,"Inc."","Physician","Spencer J. Coleman,"Sr. MD"","Director","n/a","2021"
-"Central Alabama Bancshares,"Inc."","Retired Banker","Sheila Spiers","Director","n/a","2021"
-"Central Alabama Bancshares,"Inc."","Finance","Albert Striplin","Director","Twatt LLC (>5%)","2021"
-"Central Alabama Bancshares,"Inc."","Banker","Travis Cosby,"III"","Chairman/Director","KeyFinance Co. Inc. (>5%)","2021"
-"Central Alabama Bancshares,"Inc."","Banker","Michael R. Morgan","CEO Director","n/a","2021"
-"Central Alabama Bancshares,"Inc."","Mortgage Lender","John R. Williams","Director","Mortgage Corporation of the South","2021"
-"Central Alabama Bancshares,"Inc."","Forester","Johnny M. Carothers,"Jr."","Director","Baseline Forest Services,"Inc."","2021"
-"Central Alabama Bancshares,"Inc."","Banker","Rana S. Futral","President/CFO/Director","n/a","2021"
-"Central Alabama Bancshares,"Inc."","Dentist","Brian Barrett","Director","n/a","2021"
-"Central Alabama Bancshares,"Inc."","Business owner","David Gray","Director","Owner of Gray's Tire","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","Spencer J. Coleman,"Sr. MD"","Director","n/a","2.30%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","Sheila Spiers","Director","n/a","2.00%","n/a"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2021","Albert Striplin","Director","n/a","1.10%","n/a"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2021","Albert Striplin","Director","n/a","1.10%","Twatt LLC (>5%)"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2021","Albert Striplin","Director","n/a","1.10%","KeyFinance Co. Inc. (>5%)"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2021","Albert Striplin","Director","n/a","1.10%","ALMA LLC (>5%)"
+"Central Alabama Bancshares,"Inc."","Prattville,"Al"","2021","Albert Striplin","Director","n/a","1.10%","Striplin Family LLC (>5%)"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","Travis Cosby,"III"","Chairman/Director","n/a","2.30%","n/a"
+"Central Alabama Bancshares,"Inc."","Deatsville,"Al"","2021","Michael R. Morgan","CEO\nDirector","n/a","1.40%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","John R. Williams","Director","President","Mortgage Corporation of the South","2021","Mortgage Lender","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","Johnny M. Carothers,"Jr."","Director","President","Baseline Forest Services,"Inc."","2021","Forester","n/a"
+"Central Alabama Bancshares,"Inc."","Eclectic,"Al"","2021","Rana S. Futral","President/CFO/Director","n/a","n/a","1.20%","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","Brian Barrett","Director","n/a","n/a","0.002%","Dentist","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","David Gray","Director","Owner","Gray's Tire","2021","Business owner","n/a"
+"Central Alabama Bancshares,"Inc."","Wetumpka,"Al"","2021","David Gray","Director","Owner","Delaware Properties","2021","Business owner","n/a"
 ```

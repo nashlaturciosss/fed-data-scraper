@@ -1,0 +1,20 @@
+Here are the tables in valid CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Financial Corp.","Savannah,"Georgia"","2023","Sylvan M. Byck,"Jr."","Common Stock","166771","5.6%","n/a"
+"FCB Financial Corp.","Savannah,"Georgia"","2023","Benny Curl","Common Stock","207861","6.9%","n/a"
+"FCB Financial Corp.","Savannah,"Georgia"","2023","Stephen S. Green","Common Stock","280087","9.3%","n/a"
+"FCB Financial Corp.","Savannah,"Georgia"","2023","Bobby Chu","Common Stock","293923","9.8%","n/a"
+"FCB Financial Corp.","Savannah,"Georgia"","2023","Donald A. Kole","Common Stock","164269","5.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Financial Corp.","Director","Jack L. Forehand","n/a","n/a","2023","Retired","n/a"
+"FCB Financial Corp.","President & CEO","Ken Farrell","n/a","n/a","2023","N/A","n/a"
+"FCB Financial Corp.","President Stephen Green Properties,"Inc."","Stephen S. Green","President Stephen Green Properties,"Inc."","Stephen Green Properties,"Inc."","2023","N/A","n/a"
+"FCB Financial Corp.","Director","Bobby Chu","President Chu Construction","Chu Construction","2023","Construction","n/a"
+"FCB Financial Corp.","Director","Benny Curl","n/a","n/a","2023","Retired","n/a"
+"FCB Financial Corp.","Director","Jim Lientz","n/a","n/a","2023","Retired","n/a"
+```

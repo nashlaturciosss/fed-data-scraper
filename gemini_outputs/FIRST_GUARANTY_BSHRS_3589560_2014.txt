@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2014","Marshall T. Reynolds","n/a","1497575","23.8%","3589960"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2014","Douglas V. Reynolds","n/a","521269","8.3%","3589960"
+"First Guaranty Bancshares,"Inc."","Pepper Pike,"OH"","2014","Daniel P. Harrington","n/a","379070","6.0%","3589960"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2014","William K. Hood","n/a","401716","6.4%","3589960"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","First Guaranty Bank","2014","President of Hood Automotive Group","n/a"
+"First Guaranty Bancshares,"Inc."","CEO/President","Alton B. Lewis","CEO/President","First Guaranty Bank","2014","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","Chief Financial Officer,"Treasurer & Secretary"","Eric J. Dosch","Chief Financial Officer","First Guaranty Bank","2014","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Premier Financial Bancorp","2014","Chairman,"President & CEO of Champion Industries","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Director","Summit State Bank","2014","Chairman,"President & CEO of Champion Industries","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Manager","Harrah & Reynolds Corp","2014","Chairman,"President & CEO of Champion Industries","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Energy Services of America Corp.","2014","Chairman,"President & CEO of Champion Industries","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","River City Associates,"Inc."","2014","Chairman,"President & CEO of Champion Industries","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Director","Glenda B. Glover","Director","First Guaranty Bank","2014","President,"Tennessee State University"","n/a"
+"First Guaranty Bancshares,"Inc."","Director","Glenda B. Glover","Director","Pinnacle Financial Partners","2014","President,"Tennessee State University"","n/a"
+"First Guaranty Bancshares,"Inc."","Director","Edgar R. Smith","Director","First Guaranty Bank","2014","President and CEO Smitty's Supply Inc.","n/a"
+```

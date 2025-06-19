@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2022","James E. Kirkley II","Common Stock","10604","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2022","Hazlehurst Bancorp,"Inc."","Common Stock","10254","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hazlehurst Investors,"Inc."","President & CEO","James E. Kirkley II","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Vice President & Controller","Cathy T. Carter","n/a","n/a","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","James E. Kirkley III","President & CEO","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","James E. Kirkley III","n/a","The Peoples Bank","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","William B. Findley,"Jr."","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","William B. Findley,"Jr."","President","J & W Lumber Co.","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","Alvin Stone,"Jr."","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","Alvin Stone,"Jr."","n/a","n/a","2022","Owner - Stone Insurance Agency","n/a"
+"Hazlehurst Investors,"Inc."","Director","Edward R. McMillan","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","Edward R. McMillan","Partner","McMillan Farms","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","Donald J. McRae","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","Donald J. McRae","n/a","Self Employed Logging","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","William L. Roberts","Director","Hazlehurst Bancorp,"Inc."","2022","n/a","n/a"
+"Hazlehurst Investors,"Inc."","Director","William L. Roberts","President","Roberts Insurance Agency","2022","n/a","n/a"
+```

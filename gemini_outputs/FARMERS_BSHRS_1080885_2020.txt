@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers Bancshares,"Inc."","McRae,"GA"","2020","Kenneth S. Dowling","n/a","38.6369","17.23%","n/a"
+"Farmers Bancshares,"Inc."","McRae,"GA"","2020","Estate of W.E. Dowling Family Trust FBO Kenneth S. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","33.3015","14.85%","n/a"
+"Farmers Bancshares,"Inc."","Dublin,"GA"","2020","Edward E. Morris","n/a","15.1796","6.77%","n/a"
+"Farmers Bancshares,"Inc."","Douglas,"GA"","2020","Heather Cliett","n/a","13.8801","6.19%","n/a"
+"Farmers Bancshares,"Inc."","Douglas,"GA"","2020","Patrick Dowling","n/a","13.8801","6.19%","n/a"
+"Farmers Bancshares,"Inc."","Waycross,"GA"","2020","Robert E. Dowling,"Jr."","n/a","13.8801","6.19%","n/a"
+"Farmers Bancshares,"Inc."","Ashburn,"GA"","2020","Shawn Dowling","n/a","13.8801","6.19%","n/a"
+"Farmers Bancshares,"Inc."","McRae,"GA"","2020","Robert E. Dowling – Family Trust","n/a","28.5204","12.72%","n/a"
+"Farmers Bancshares,"Inc."","McRae,"GA"","2020","Estate of W.E. Dowling Family Trust – FBO Robert E. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","27.0000","12.04%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers Bancshares,"Inc."","n/a","Estate of W.E. Dowling Family Trust","None","None","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Chairman of the Board & Director","Kenneth S. Dowling","Director","Security State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Chairman of the Board & Director","Kenneth S. Dowling","Director","Farmers State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","President & Director","Edward E. Morris","Director","Security State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","President & Director","Edward E. Morris","Director","Farmers State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Director","Earl Merritt","Director & President","Security State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Director","Earl Merritt","Director","Farmers State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Director","Brett Bowden","Director & President","Farmers State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Director","Kent Dowling","Director","Security State Bank","2020","None","n/a"
+"Farmers Bancshares,"Inc."","Director","Kent Dowling","Director","Farmers State Bank","2020","None","n/a"
+```

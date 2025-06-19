@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","n/a","2022","W. L. Douglas","Common Stock","16531","14.73%","n/a"
+"Peoples Bancorporation,"Inc."","n/a","2022","W. L. Douglas","Class A Voting Shares","17461","15.55%","n/a"
+"Peoples Bancorporation,"Inc."","n/a","2022","Carolyn S. Dillard","Common Stock","12045","10.73%","n/a"
+"Peoples Bancorporation,"Inc."","n/a","2022","Carolyn S. Dillard","Class A Voting Shares","12163","10.84%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Director","Dana Peoples","n/a","n/a","2022","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","W. L. Douglas","n/a","n/a","2022","President,"State Bank and Trust"","n/a"
+"Peoples Bancorporation,"Inc."","Director","Carolyn S. Dillard","n/a","n/a","2022","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","J. Robert Moore,"Jr."","n/a","n/a","2022","President,"Moore Funeral Home","Inc."","n/a"
+"Peoples Bancorporation,"Inc."","Director","Ronald K. Fancher","n/a","n/a","2022","President,"Fancher Properties","LLC"","n/a"
+"Peoples Bancorporation,"Inc."","Director","James F. Guin,"Jr."","n/a","n/a","2022","Attorney","n/a"
+"Peoples Bancorporation,"Inc."","Director","Jeffery G. McDowell","n/a","n/a","2022","Executive Vice President State Bank and Trust","n/a"
+"Peoples Bancorporation,"Inc."","Secretary","Sally Holloway","n/a","n/a","2022","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","James R. Baker","n/a","n/a","2022","Owner,"Baker Funeral Home"","n/a"
+"Peoples Bancorporation,"Inc."","Director","Kenneth C. Guin","n/a","n/a","2022","Owner,"Guin Service Company"","n/a"
+```

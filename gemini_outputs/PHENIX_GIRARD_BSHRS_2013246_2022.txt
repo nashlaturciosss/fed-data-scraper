@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2022","John M Dudley,"Sr Irrevocable Family Trust"","Common Stock","2159900","99.99%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2022","Menza Dudley","n/a","2","less than 1%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2022","Leslie Dudley","n/a","2","less than 1%","432432"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","President,"Treasurer","Director Phenix-Girard Bancshares",","Menza Dudley","n/a","Lumberperson","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","CEO,"President","Director Phenix-Girard Bank"","Leslie Dudley","n/a","n/a","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","Girard Partners Management,"Inc"","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","Crawford Partners Management Inc","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","JDB Partners","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","MDLD,"LLC"","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","GGG Partners","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","Crawford Partners","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","EDEH Landings LLC","2022","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","John M Dudley,"Sr"","n/a","EDEH LLC","2022","n/a","432432"
+```

@@ -1,0 +1,20 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","adhering to all the specified formatting and content requirements:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Tuscaloosa,"AL"","2020","Anna Laurie Bryant McKibbens","n/a","38833","22.25%","n/a"
+"First Dozier Bancshares,"Inc."","Tuscaloosa,"AL"","2020","Mae Martin Bryant Murray","n/a","35831","20.53%","n/a"
+"First Dozier Bancshares,"Inc."","Tuscaloosa,"AL"","2020","Stella Gray Bryant Sykes","n/a","32831","18.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Director","W.B. Smith,"Jr"","Director","The First National Bank of Dozier","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director","Perrin Collier Trotter,"Jr."","Director","MSN Healthcare Solutions","2020","MEDICAL BILLING","n/a"
+"First Dozier Bancshares,"Inc."","Director,"Chairman","CEO & President"","Linda R. Colquett","Director/Chairman,"Pres."","The First National Bank of Dozier","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director","Earl McBryde","Director","The First National Bank of Dozier","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director/Secretary Executive VP","Shaun M. Wilcox","Director/Secretary,"Ex VP"","The First National Bank of Dozier","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","n/a","Anna Laurie Bryant McKibbens","n/a","n/a","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","n/a","Mae Martin Bryant Murray","n/a","n/a","2020","n/a","n/a"
+"First Dozier Bancshares,"Inc."","n/a","Stella Gray Bryant Sykes","n/a","n/a","2020","n/a","n/a"
+```

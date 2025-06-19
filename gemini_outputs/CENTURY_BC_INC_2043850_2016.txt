@@ -1,20 +1,21 @@
+Here are the two tables extracted from the document in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Century Bancorp,"Inc."","Bogart","2016","Estelle Brown","Common Stock","47735","6.38%"
-"Century Bancorp,"Inc."","Milledgeville","2016","Patricia B Thompson","Common Stock","83781","11.19%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Century Bancorp,"Inc."","Bogart,"GA"","2016","Estelle Brown","n/a","47735","6.38%","n/a"
+"Century Bancorp,"Inc."","Milledgeville,"GA"","2016","Patricia B Thompson","n/a","83781","11.19%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Century Bancorp,"Inc."","Director","Victor D. Bayne","President","Bayne's Army Store","2016"
-"Century Bancorp,"Inc."","Director","T. Chris Boyd","EVP/Mng Member","American Tank Maintenance,"LLC"","2016"
-"Century Bancorp,"Inc."","Director","Leigh C. Chambers","n/a","n/a","2016"
-"Century Bancorp,"Inc."","Director","William M. Dyer","n/a","n/a","2016"
-"Century Bancorp,"Inc."","Director","W. Kendrick Farr","n/a","n/a","2016"
-"Century Bancorp,"Inc."","Director","Larry R. Garrett","President/CEO","G&S Gas Service Inc","2016"
-"Century Bancorp,"Inc."","Director","C. Steve McQuaig","President","Family Eye Care Associates","2016"
-"Century Bancorp,"Inc."","Director","Cheryl P. Pounds","n/a","n/a","2016"
-"Century Bancorp,"Inc."","Director","Patricia B. Thompson","n/a","n/a","2016"
-"Century Bancorp,"Inc."","Director/President/CEO","Derek B. Williams","n/a","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Century Bancorp,"Inc."","Director","Victor D. Bayne","President","Bayne's Army Store","2016","Retail Sporting Goods","n/a"
+"Century Bancorp,"Inc."","Director","T. Chris Boyd","EVP/Mng Member","American Tank Maintenance,"LLC"","2016","Municipal Water Storage Maintenance","n/a"
+"Century Bancorp,"Inc."","Director","Leigh C. Chambers","n/a","n/a","2016","CPA","n/a"
+"Century Bancorp,"Inc."","Director","William M. Dyer","n/a","n/a","2016","Insurance Agent","n/a"
+"Century Bancorp,"Inc."","Director","W. Kendrick Farr","n/a","n/a","2016","College Professor","n/a"
+"Century Bancorp,"Inc."","Chairman","Larry R. Garrett","President/CEO","G&S Gas Service Inc","2016","Propane Retail","n/a"
+"Century Bancorp,"Inc."","Director","C. Steve McQuaig","President","Family Eye Care Associates","2016","Ophthalmology Practice","n/a"
+"Century Bancorp,"Inc."","Director","Cheryl P. Pounds","n/a","n/a","2016","n/a","n/a"
+"Century Bancorp,"Inc."","Director","Patricia B. Thompson","n/a","n/a","2016","n/a","n/a"
+"Century Bancorp,"Inc."","Director/President/CEO","Derek B. Williams","n/a","n/a","2016","n/a","n/a"
 ```

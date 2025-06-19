@@ -1,0 +1,30 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"Tennessee"","2023","Estate of Tommy Young","n/a","98698","5.98%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2023","Sidney K. Lawson","n/a","99400","6.02%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2023","Sidney K. Lawson","n/a","6000","6.38%","n/a"
+"First Community Corporation","Nashville,"TN"","2023","Spence Limited,"LP"","n/a","144863","8.77%","n/a"
+"First Community Corporation","New York,"NY"","2023","Alliance Bernstein","n/a","179344","10.86%","n/a"
+"First Community Corporation","Knoxville,"Tennessee"","2023","Matt Daniels","n/a","188456","11.41%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Corporation","President and Director","Tyler K. Clinch","Owner","Katharine Square Partnership","2023","Banker","n/a"
+"First Community Corporation","Director","Dr. David R. Johnson","Owner","Grand Oaks Center,"LLC"","2023","Veterinarian","n/a"
+"First Community Corporation","Director","Sidney K. Lawson","Owner/President","Lawson Construction","2023","Construction","n/a"
+"First Community Corporation","Director","Steve L. Droke","n/a","n/a","2023","Retired Banker","n/a"
+"First Community Corporation","Director","Kathy Richards","n/a","n/a","2023","CPA","n/a"
+"First Community Corporation","Chairman and Director","Matthew Cleek","Owner","Intellithought,"Inc."","2023","IT Professional","n/a"
+"First Community Corporation","Chairman and Director","Matthew Cleek","n/a","Wyvern Capital Group,"LLC"","2023","IT Professional","n/a"
+"First Community Corporation","Chairman and Director","Matthew Cleek","n/a","Striking 7","2023","IT Professional","n/a"
+"First Community Corporation","Chairman and Director","Matthew Cleek","n/a","Cleek Properties","2023","IT Professional","n/a"
+"First Community Corporation","Director","Bobby Stoffle","n/a","n/a","2023","Retired Banker","n/a"
+"First Community Corporation","Director","Greg DePriest","Owner","Strategic Growth Logistics,"LLC"","2023","Logistics","n/a"
+"First Community Corporation","n/a","Alliance Bernstein","n/a","n/a","2023","Global Asset Management Firm","n/a"
+"First Community Corporation","n/a","Matt Daniels","President,"CEO"","Apex Bank","2023","Banker","n/a"
+"First Community Corporation","CFO,"Executive Officer"","Matthew Cradic","n/a","n/a","2023","CPA,"Banker"","n/a"
+"First Community Corporation","CLO,"Executive Officer"","Michael Estes","n/a","n/a","2023","Banker","n/a"
+```

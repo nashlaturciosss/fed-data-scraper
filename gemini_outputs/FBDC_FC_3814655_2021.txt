@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Stephen K. Eberhart","Common Stock","35167","9.00%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Dean Eberhart","Common Stock","13028","3.33%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2021","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2021","The Estate of Glen Kilgore","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2021","Eloise Smith","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Charles Stephens","Common Stock","26530","6.79%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Linda Stephens","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Johnny Young","Common Stock","69716","17.84%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Linda M. Young","Common Stock","5600","1.43%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Chris Pierson","Common Stock","2833","0.73%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Nathan Pierson","Common Stock","2333","0.60%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2021","Chris Young","Common Stock","5120","1.31%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","n/a","Capstone Properties,"LLC"","2021","N/A","420877"
+"FBDC Financial Corp.","Director & Chairman","Johnny David Young","n/a","Young Steel Stamping,"Inc."","2021","Retired","420877"
+"FBDC Financial Corp.","Director & Vice-Chairman","Charles Ray Stephens","n/a","Dixie Machine Shop,"Inc."","2021","Retired Machine Shop,"Owner/Operator"","420877"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","Pioneer Credit Company","2021","Retired,"Motel Owner/Operator"","420877"
+"FBDC Financial Corp.","Director & Secretary,"Vice President"","Diane Shankles","n/a","n/a","2021","N/A","420877"
+"FBDC Financial Corp.","Director","Nathan Pierson","n/a","n/a","2021","N/A","420877"
+"FBDC Financial Corp.","n/a","Eloise J. Smith","n/a","Public Relations,"1st State Bank"","2021","Public Relations","420877"
+"FBDC Financial Corp.","n/a","Shari Jones","n/a","Rainsville Church Pew,"Inc."","2021","Merchant Rainsville Church Pew,"Inc."","420877"
+```

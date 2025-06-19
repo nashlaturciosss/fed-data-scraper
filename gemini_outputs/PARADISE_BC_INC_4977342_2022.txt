@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PARADISE BANCORP,"INC."","Boca Raton,"FL"","2022","Goldsmith 2012 Irrevocable Trust","n/a","215020","5.62%","n/a"
+"PARADISE BANCORP,"INC."","Long Boat Key,"FL"","2022","William Burke","n/a","203089","5.03%","n/a"
+"PARADISE BANCORP,"INC."","Davie,"FL"","2022","Allen D. McGee","n/a","88936","3.04%","n/a"
+"PARADISE BANCORP,"INC."","Boca Raton,"FL"","2022","Ward Kellogg","n/a","74542","5.13%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PARADISE BANCORP,"INC."","Chairman,"CEO; Director; Chairman of the Board"","Ward Kellogg","Director","n/a","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","CCO,"Director"","Dennis Gavin","Managing Member","Conch Retreat Tools,"LLC"","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Vice Chairman; President,"COO; Director"","William Burke","Director","Burke Corporate Properties,"LLC"","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Vice Chairman; President,"COO; Director"","William Burke","Trustee","Goldsmith Investments","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Chief Credit Officer; Director","David Englert","n/a","n/a","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","EVP,"Director"","Kevin Rafferty","n/a","n/a","2022","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","CFO,"Director; Chief Financial Officer; EVP/CFO"","Kevin M. Sacket","n/a","n/a","2022","n/a","n/a"
+"PARADISE BANCORP,"INC."","Director","David D. Dickenson","Retired Attorney","n/a","2022","Retired Attorney","n/a"
+"PARADISE BANCORP,"INC."","Director","David D. Dickenson","Managing Member","Dickenson BeachHouse,"LLC"","2022","Retired Attorney","n/a"
+"PARADISE BANCORP,"INC."","Director","Howard Goldsmith","Retired Investor; Director","Spin Label Technologies,"Inc."","2022","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Howard Goldsmith","Managing Member","Goldsmith Investment Group,"LLC"","2022","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Allen D. McGee","n/a","n/a","2022","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Thomas McMurrain","n/a","n/a","2022","Hospitality","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","Partner","Watchstander,"LLC."","2022","Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","Partner","ST Liberty,"LLC"","2022","Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","Owner","Toney Capital Holdings,"LLC"","2022","Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","Lisa R. Wheeler","Owner","National Maritime Services,"Inc."","2022","Retired - Finance","n/a"
+```

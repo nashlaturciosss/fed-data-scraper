@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2017","W. Jeffrey Turner","Common Stock","50015","8.60%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2017","Marcus C. Long","Common Stock","30635","5.30%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2017","Lamar R. Turner","Common Stock","30000","5.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Samuel Cain","n/a","n/a","2017","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Mike Cleland","n/a","n/a","2017","Retired Engineer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2017","Manufacturing Distribution","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","William W. Eason","n/a","TLE Foods,"Inc."","2017","Pizza Franchise","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","William W. Eason","n/a","Papa OK,"Inc."","2017","Pizza Franchise","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","President/Director","Lloyd E. Gunter","President-CEO","Community Bank of Georgia","2017","President,"Chief Exec Officer or the Company and Bank"","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Alex Johnson","President","J. Alexander Johnson","2017","Attorney","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Chairman/Director","Marcus C. Long","Accountant","Byrt CPA's,"LLC"","2017","Certified Public Accountant","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2017","Trucking Company/Farming","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Robert E. Mathews","Owner & President","Mathews Farms","2017","Trucking Company/Farming","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Harold E. Rentz,"DMD"","Owner","Harold E Rentz Jr DMD","2017","Dentist","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","James R. Rentz","n/a","n/a","2017","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Jeffery Turner","Owner of Turner Farms","Southeastern Cotton Gin,"Inc."","2017","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Jeffery Turner","Owner of Turner Farms","n/a","2017","Farmer","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Owner of Southeastern Business Machines,"Inc."","Southeastern Business Machines,"Inc."","2017","Business Machine/Low Volteage Contractor","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Lamar Turner","Owner of Southeastern Business Machines,"Inc."","Southeastern System Technologies,"Inc."","2017","Business Machine/Low Volteage Contractor","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2017","Electrical Contracting Company","n/a"
+"COMMUNITY BANK OF GEORGIA,"INC."","Director","Ronnie White","President-Co-Owner","Rhino MFG.","2017","Electrical Contracting Company","n/a"
+```

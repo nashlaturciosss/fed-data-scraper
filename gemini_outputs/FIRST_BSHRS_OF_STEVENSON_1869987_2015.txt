@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Nokomis,"FL"","2015","Walter Russell Bogart Trust","Common","11564","5.78%","1869987"
+"First Bancshares of Stevenson,"Inc."","Stevenson,"AL"","2015","Carolyn Hall","Common","12024","6.01%","1869987"
+"First Bancshares of Stevenson,"Inc."","Newnan,"GA"","2015","Holbert & Julia Hale","Common","12347","6.17%","1869987"
+"First Bancshares of Stevenson,"Inc."","Scottsboro,"AL"","2015","Jack B Lovelady","Common","12000","6.00%","1869987"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Director Pres/CEO","Mike Ellenburg","n/a","None","2015","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director Chairman","Carolyn Hall","n/a","None","2015","Sales Rep.","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","John E. Rudder","President","Rudder Funeral Home","2015","Funeral Director","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Bryan Hicks","n/a","Exhibit D","2015","Pharmacist","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Randy Wright","n/a","n/a","2015","Farmer","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Tommy Harding","President","Harding Insurance","2015","Insurance","1869987"
+"First Bancshares of Stevenson,"Inc."","Director Secretary","Jack Lovelady","n/a","Exhibit D","2015","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Danny Crownover","n/a","None","2015","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Ralph Hall","n/a","None","2015","Retired","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Exhibit D","2015","State Representative","1869987"
+```

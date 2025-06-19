@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST TRUST CORPORATION","Metairie,"LA"","2021","Joseph C. Canizaro","n/a","4745979","44%"
+"FIRST TRUST CORPORATION","Metairie,"LA"","2021","Joseph C. Canizaro","Options","15000","n/a"
+"FIRST TRUST CORPORATION","Metairie,"LA"","2021","Joseph C. Canizaro","n/a","403733","4%"
+"FIRST TRUST CORPORATION","New Orleans,"LA"","2021","Corte Trust","n/a","3232250","30%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST TRUST CORPORATION","CEO and Chairman of the Board","Joseph C. Canizaro","n/a","n/a","2021","Real Estate Developer","n/a"
+"FIRST TRUST CORPORATION","Director","Gary Blossman","n/a","n/a","2021","Businessman/ Banking","n/a"
+"FIRST TRUST CORPORATION","Director","David Guidry","President of GUICO Machine Works GUICO Marine Services,"LLC GUICO Farms","LLC GUICO Properties","LLC Harvey Specialty","Inc."","GUICO Machine Works","2021","Businessman/ Oilfield Equipment","n/a"
+"FIRST TRUST CORPORATION","Director","David Guidry","President of GUICO Machine Works GUICO Marine Services,"LLC GUICO Farms","LLC GUICO Properties","LLC Harvey Specialty","Inc."","GUICO Marine Services,"LLC"","2021","Businessman/ Oilfield Equipment","n/a"
+"FIRST TRUST CORPORATION","Director","David Guidry","President of GUICO Machine Works GUICO Marine Services,"LLC GUICO Farms","LLC GUICO Properties","LLC Harvey Specialty","Inc."","GUICO Farms,"LLC"","2021","Businessman/ Oilfield Equipment","n/a"
+"FIRST TRUST CORPORATION","Director","David Guidry","President of GUICO Machine Works GUICO Marine Services,"LLC GUICO Farms","LLC GUICO Properties","LLC Harvey Specialty","Inc."","GUICO Properties,"LLC"","2021","Businessman/ Oilfield Equipment","n/a"
+"FIRST TRUST CORPORATION","Director","David Guidry","President of GUICO Machine Works GUICO Marine Services,"LLC GUICO Farms","LLC GUICO Properties","LLC Harvey Specialty","Inc."","Harvey Specialty,"Inc."","2021","Businessman/ Oilfield Equipment","n/a"
+"FIRST TRUST CORPORATION","Chairman of the Board","Donald Bollinger","President & CEO","Bollinger,"LLC"","2021","Businessman/Entrepreneur","n/a"
+"FIRST TRUST CORPORATION","Chairman of Loan Committee","Ralph C. Cox,"Jr."","n/a","Bourgeois Bennett,"LLC"","2021","Retired Partner at Bourgeois Bennett,"LLC"","n/a"
+"FIRST TRUST CORPORATION","Director","Randall Howard","n/a","n/a","2021","Private Investor","n/a"
+"FIRST TRUST CORPORATION","Director","Ryan Lopiccolo","Co-owner of Pie-Not LLC","Pie-Not LLC","2021","Businessman/ EVP,"Columbus Properties"","n/a"
+"FIRST TRUST CORPORATION","Shareholder","Corte Trust","n/a","n/a","2021","Trust","n/a"
+"FIRST TRUST CORPORATION","Director","John Georges","CEO","Georges Enterprises","2021","Businessman/ Entrepreneur","n/a"
+```

@@ -1,0 +1,15 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mansura Bancshares,"Inc"","Marksville,"LA"","2020","Anthony J. Roy,"III"","n/a","155000","52.05%%","472020"
+"Mansura Bancshares,"Inc"","Marksville,"LA"","2020","A J Roy,"III","Children's Trust"","n/a","77349","25.98%","472020"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mansura Bancshares,"Inc"","President/CEO/Director/Chairman of the Board","A.J. Roy III","Director/President/CEO","C'port Bank","2020","Banker/Attorney","472020"
+"Mansura Bancshares,"Inc"","President/CEO/Director/Chairman of the Board","A.J. Roy III","Director/President/CEO","Eagle American Life Ins. Co.","2020","Banker/Attorney","472020"
+"Mansura Bancshares,"Inc"","Shareholder","A J Roy,"III Children's Trust"","n/a","n/a","2020","Trust","472020"
+"Mansura Bancshares,"Inc"","Executive Vice President","Keith Miller","Director/Executive V.P.","Cport Bank","2020","Banker","472020"
+"Mansura Bancshares,"Inc"","Executive Vice President","Keith Miller","Director/Executive V.P.","Eagle American Life Ins. Co","2020","Banker","472020"
+```

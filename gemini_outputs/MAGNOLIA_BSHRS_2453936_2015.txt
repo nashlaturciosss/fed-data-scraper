@@ -1,0 +1,15 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2015","Jolene J. Carroll","Common Stock","42079","48.27%","2453936"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2015","John L. Jessup","Common Stock","21411","24.56%","2453936"
+"Magnolia Bankshares,"Inc."","Eastman,"Georgia"","2015","H.C. Ragan","Common Stock","5514","6.32%","2453936"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Director & Chairman & Chief Operating Officer,"Director & Executive Vice President"","Jolene J. Carroll","n/a","n/a","2015","n/a","2453936"
+"Magnolia Bankshares,"Inc."","Director & President,"Director & Chief Executive Officer"","John L. Jessup","n/a","n/a","2015","n/a","2453936"
+"Magnolia Bankshares,"Inc."","Director,"Director"","H.C. Ragan","n/a","n/a","2015","Retired","2453936"
+```

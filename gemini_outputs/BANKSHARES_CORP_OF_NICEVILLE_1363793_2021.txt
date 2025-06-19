@@ -1,19 +1,22 @@
-Here are the two requested CSV tables:
+Here are the two CSV tables you requested:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bankshares Corporation Of Niceville","Niceville","2021","James W. Powell","n/a","34937","32.39%"
-"Bankshares Corporation Of Niceville","Niceville","2021","Deborah P. Dye","n/a","34365","31.86%"
-"Bankshares Corporation Of Niceville","Niceville","2021","Michael R. Floyd","n/a","8307","7.70%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2021","James W. Powell","n/a","34937","32.39%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2021","Deborah P. Dye","n/a","34365","31.86%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2021","Michael R. Floyd","n/a","8307","7.70%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","Partner","Peoples Building General Partnership,"Powell & Dye","LLC"","2021"
-"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building General Partnership","2021"
-"Bankshares Corporation Of Niceville","Director","Billy L. Gann","President & CEO","PNB Community Bank","2021"
-"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","EVP/COO","PNB Community Bank","2021"
-"Bankshares Corporation Of Niceville","Director","Casee L. Laflin","VP","Spot On Lawn Care,"LLC"","2021"
-"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Peoples Building General Partnership,"W. H. Powell Rentals","LLC","Powell & Dye","LLC"","2021"
-"Bankshares Corporation Of Niceville","Director","Freida L. Spence","Partner","S&R Properties LLC","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","Partner","Peoples Building General Partnership","2021","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director Chairman","Deborah P. Dye","Partner","Powell & Dye,"LLC"","2021","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building General Partnership","2021","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director President & CEO","Billy L. Gann","n/a","n/a","2021","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director Vice Chairman","Cynthia M. Harrison","n/a","n/a","2021","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director VP","Casee L. Laflin","Managing Mmbr","Spot On Lawn Care,"LLC"","2021","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Peoples Building General Partnership","2021","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","W. H. Powell Rentals,"LLC"","2021","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Powell & Dye,"LLC"","2021","N/A","n/a"
+"Bankshares Corporation Of Niceville","Director","Freida L. Spence","Managing Mmbr","S&R Properties LLC","2021","N/A","n/a"
 ```

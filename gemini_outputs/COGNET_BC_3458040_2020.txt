@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Lee E. Hanna","Common","n/a","5%","n/a"
+"Cogent Bancorp,"Inc."","Orlando,"FL"","2020","Chirag J. Bhavsar","Common","n/a","7%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Rice Financial Holdings,"LLC"","Common","n/a","3%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Dianne T. Rice Rev. Trust DTD 10/13/98","Common","n/a","1%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Clemson Investments,"LLC"","Common","n/a","1%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Century Strategic Investment Fund,"LP"","Common","n/a","1%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","C. Dan Rice","Common","n/a","1%","n/a"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2020","Mayport Venture Partners III,"LLLP"","Common","n/a","1%","n/a"
+"Cogent Bancorp,"Inc."","Winter Springs,"FL"","2020","James M. Seneff,"Jr."","Common","n/a","5%","n/a"
+"Cogent Bancorp,"Inc."","New Port Richey,"FL"","2020","Vijay Patel","Common","n/a","3%","n/a"
+"Cogent Bancorp,"Inc."","New Port Richey,"FL"","2020","Hudson Investment One LLC","Common","n/a","3%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cogent Bancorp,"Inc."","Director,"Director"","Lee E. Hanna","Director","Cogent Bank","2020","Chairman and CEO of Cogent Bank","n/a"
+"Cogent Bancorp,"Inc."","Director,"President"","Chirag J. Bhavsar","Currency Exchange International,"Corp. -Chairman"","Currency Exchange International,"Corp."","2020","President of Cogent Bank,"Co-CEO of CNL Financial Group","Inc"","n/a"
+"Cogent Bancorp,"Inc."","Director,"President"","Chirag J. Bhavsar","Currency Exchange International,"Corp. -Chairman"","CNL Financial Group,"Inc"","2020","President of Cogent Bank,"Co-CEO of CNL Financial Group","Inc"","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Mitchel Laskey","FAN Management Partners,"LLC - CEO","Manager"","FAN Management Partners,"LLC"","2020","Co-Founder and Managing Partner of DeepWork Capital Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Mitchel Laskey","FAN Management Partners,"LLC - CEO","Manager"","MJL Advisors,"Inc."","2020","Co-Founder and Managing Partner of DeepWork Capital Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Paul Ellis","CEO of Foundry Commercial,"LLC"","Foundry Commercial,"LLC"","2020","CEO of Foundry Commercial,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Heath Ritenour","CEO of Insurance Office of America","IOA Group LLC","2020","CEO of Insurance Office of America","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","C. Daniel Rice","CEO of Maypot Venture Partners,"LLC"","Mayport Venture Partners,"LLC"","2020","CEO of Maypot Venture Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Christophen B. Pillay","CEO of Meridian Technologies Holdings,"Inc."","Meridian Technologies Holdings,"Inc."","2020","CEO of Meridian Technologies Holdings,"Inc."","n/a"
+"Cogent Bancorp,"Inc."","Director,"Director"","Avani M. Desai","President of Schellman & Co","Data Aggregators","2020","President of Schellman & Co","n/a"
+```

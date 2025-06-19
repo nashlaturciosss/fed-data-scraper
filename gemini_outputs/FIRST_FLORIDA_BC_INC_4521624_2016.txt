@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Florida Bancorp,"Inc."","Hot Springs,"AR"","2016","James M. Arthur","Common Stock","833333","13.05%","4521624"
+"First Florida Bancorp,"Inc."","Miramar Beach,"FL"","2016","Frank B. Burge","Common Stock","850000","13.32%","4521624"
+"First Florida Bancorp,"Inc."","Freeport,"FL"","2016","Harroll D. Castle","Common Stock","554000","8.68%","4521624"
+"First Florida Bancorp,"Inc."","Santa Rosa Beach,"FL"","2016","Kevin Logan","Common Stock","353333","5.53%","4521624"
+"First Florida Bancorp,"Inc."","Fort Walton Beach,"FL"","2016","Joe LaDon Dewrell","Common Stock","1183575","18.54%","4521624"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Florida Bancorp,"Inc."","Chairman and Director,"Director"","Frank B. Burge","Member","Andrews/Blaine,"LTD"","2016","n/a","4521624"
+"First Florida Bancorp,"Inc."","Chairman and Director,"Director"","Frank B. Burge","Member","BHCRE I & II,"LLCS"","2016","n/a","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","Dewey C. Wilson,"Jr."","Chairman","Regional Utilities","2016","Management Regional Utilities","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","Kevin Logan","Owner","Sportsman Liquor","2016","Real Estate Investor","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","Harroll D. Castle","President","Accent Corporation","2016","Real Estate Investor","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","James M. Arthur","Doctor","Hot Springs Neurosurgery","2016","Neuro-Surgeon","4521624"
+"First Florida Bancorp,"Inc."","Director,"President & Director"","S. Brett Wilson","n/a","n/a","2016","n/a","4521624"
+"First Florida Bancorp,"Inc."","Exec. Vice President & CFO,"Exec. Vice President & CFO"","D. Ross Scott","n/a","n/a","2016","n/a","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","Joe LaDon Dewrell","Attorney","Dewrell & Herndon,"PA"","2016","Attorney","4521624"
+"First Florida Bancorp,"Inc."","Director,"Director"","Jeanie Dailey-Coletta","Owner - Manager","Newman-Dailey Resorts","2016","Management Newman-Dailey","4521624"
+```

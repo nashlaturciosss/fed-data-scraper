@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares,"Inc."","Ville Platte,"LA"","2014","Carl W. Fontenot","Common Stock","11984","10.96%","1085312"
+"Citizens Bancshares,"Inc."","Ville Platte,"LA"","2014","Eugene S Fontenot","Common Stock","8396","7.68%","1085312"
+"Citizens Bancshares,"Inc."","Ville Platte,"LA"","2014","Bryan L. Fontenot","Common Stock","7699","7.04%","1085312"
+"Citizens Bancshares,"Inc."","Ville Platte,"LA"","2014","Anita Fontenot","Common Stock","19190","17.56%","1085312"
+"Citizens Bancshares,"Inc."","Ville Platte,"LA"","2014","LaFourche Resources,"Inc."","Common Stock","11478","10.50%","1085312"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares,"Inc."","Director","C. Brent Coreil","President","C.Brent Coreil Ltd.","2014","Attorney at Law","n/a"
+"Citizens Bancshares,"Inc."","Director","C. Brent Coreil","President","Coreil Inc.","2014","Attorney at Law","n/a"
+"Citizens Bancshares,"Inc."","Director","C. Brent Coreil","Secretary","OSCO,"Inc."","2014","Attorney at Law","n/a"
+"Citizens Bancshares,"Inc."","Director","C. Brent Coreil","President/Member","LA Monitors LLC","2014","Attorney at Law","n/a"
+"Citizens Bancshares,"Inc."","Director","C. Brent Coreil","Secretary/Treasury","Bayou Self Storage,"Inc."","2014","Attorney at Law","n/a"
+"Citizens Bancshares,"Inc."","Director & President","Carl W. Fontenot","See Attachment","n/a","2014","President & CEO of Bank Holding Co. and Bank","n/a"
+"Citizens Bancshares,"Inc."","Director & Secretary","Eugene S Fontenot","President","Euco Finance","2014","President","n/a"
+"Citizens Bancshares,"Inc."","Director","Bryan Fontenot","Director","Ville Platte Rice Drier","2014","Farmer","n/a"
+"Citizens Bancshares,"Inc."","Director","Steven Phillips","President","F Phillips General Contractor","2014","General Contractor","n/a"
+"Citizens Bancshares,"Inc."","Director","Steven Phillips","President","Phils Store & Loc,"Inc."","2014","General Contractor","n/a"
+"Citizens Bancshares,"Inc."","Director","Brod Veillon","None","n/a","2014","Retired Brigadier General","n/a"
+"Citizens Bancshares,"Inc."","Director","Joseph West","Owner","Joseph West Contruction","2014","General and Residential Contractor","n/a"
+"Citizens Bancshares,"Inc."","Director","Joseph West","Managing Member","R & W Development LLC","2014","General and Residential Contractor","n/a"
+"Citizens Bancshares,"Inc."","Director","Anita Fontenot","See Attachment","n/a","2014","General Manager Southwest Fidelity Corp.","n/a"
+"Citizens Bancshares,"Inc."","Treasurer","Wayne Vidrine","None","n/a","2014","Banker","n/a"
+"Citizens Bancshares,"Inc."","Principal Shareholder","LaFourche Resources,"Inc."","NA","NA","2014","NA","n/a"
+```

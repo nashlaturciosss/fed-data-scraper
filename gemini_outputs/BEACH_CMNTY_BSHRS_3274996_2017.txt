@@ -1,19 +1,19 @@
-Here are the requested extractions from the document:
+Here are the two requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Beach Community Bancshares,"Inc."","Lake Mary","2017","JBN Real Estate,"Inc."","Common Stock","393105","16.54%"
-"Beach Community Bancshares,"Inc."","Destin","2017","Charles W. Clary III","Common Stock","214775","8.942%"
-"Beach Community Bancshares,"Inc."","Gulf Breeze","2017","Julian MacQueen","Common Stock","136076","5.665%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Beach Community Bancshares,"Inc."","Lake Mary,"FL"","2017","JBN Real Estate,"Inc."","Common Stock","393105","16.54%","n/a"
+"Beach Community Bancshares,"Inc."","Destin,"FL"","2017","Charles W. Clary III","Common Stock","214,"775"","8.942%","n/a"
+"Beach Community Bancshares,"Inc."","Gulf Breeze,"FL"","2017","Julian MacQueen","Common Stock","136,"076"","5.665%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Beach Community Bancshares,"Inc."","Director","C. LeDon Anchors","Director,"Beach Community Bank"","Anchors,"Smith P.A."","2017"
-"Beach Community Bancshares,"Inc."","Vice Chairman & Director","Charles W. Clary III","Vice Chairman & Director,"Beach Community Bank"","DAG Architects","2017"
-"Beach Community Bancshares,"Inc."","Chairman & Director","Joseph W. Henderson","Chairman & Director,"Beach Community Bank"","Warren Averett O'Sullivan Creel","2017"
-"Beach Community Bancshares,"Inc."","President & CEO","A. Anthony Hughes","Director,"President & CEO","Beach Community Bank"","n/a","2017"
-"Beach Community Bancshares,"Inc."","EVP & CFO","Gary E. Johns","EVP & CFO,"Beach Community Bank"","n/a","2017"
-"Beach Community Bancshares,"Inc."","Director","Julian B. MacQueen","Director,"Beach Community Bank"","Innisfree Hotels,"Inc"","2017"
-"Beach Community Bancshares,"Inc."","Principal Shareholder","JPN Real Estate,"Inc."","n/a","Investment Company","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Beach Community Bancshares,"Inc."","Director","C. LeDon Anchors","Attorney","Anchors,"Smith P.A."","2017","Attorney","n/a"
+"Beach Community Bancshares,"Inc."","Vice Chairman & Director","Charles W. Clary III","Principal","DAG Architects","2017","Architect","n/a"
+"Beach Community Bancshares,"Inc."","Chairman & Director","Joseph W. Henderson","CPA/Partner","Warren Averett","2017","CPA/Partner","n/a"
+"Beach Community Bancshares,"Inc."","President & CEO","A. Anthony Hughes","n/a","n/a","2017","n/a","n/a"
+"Beach Community Bancshares,"Inc."","EVP & CFO","Gary E. Johns","n/a","n/a","2017","n/a","n/a"
+"Beach Community Bancshares,"Inc."","Director","Julian B. MacQueen","Hotelier","Innisfree Hotels,"Inc"","2017","Hotelier","n/a"
+"Beach Community Bancshares,"Inc."","Principal Shareholder","JPN Real Estate,"Inc."","Investment Company","n/a","2017","Investment Company","n/a"
 ```

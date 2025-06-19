@@ -1,0 +1,28 @@
+"Here are the two tables in CSV format","as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Community Bancshares Corporation","Greenville,"Florida"","2014","William D. Rutherford","Common Shares","39936","7.12%","3619702"
+"Madison Community Bancshares Corporation","n/a","2014","J. K. Johnson","Common Shares","34322","6.12%","3619702"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Owner/Mgr","D&D Farms","2014","County Manager Madison County Florida","n/a"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Gen Partner","Ravenswood Timber","2014","County Manager Madison County Florida","n/a"
+"Madison Community Bancshares Corporation","Director","Carson Cherry","Supervisor","Pilgrims Pride Poultry","2014","Supervisor","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr.","PB&J of Madison","2014","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr.","Coleburn Enter.","2014","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr.","J&P Land Svcs.","2014","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","Cary A. Hardee,"II"","Owner","Hardee Law Firm","2014","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","Gordon Alvin Henderson","Owner","Henderson Farms","2014","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","John Lewis","Owner","Madison Vet Clinic","2014","Veterinarian","n/a"
+"Madison Community Bancshares Corporation","Director & President/CEO","D. Edward Meggs,"Sr."","n/a","n/a","2014","Banking","n/a"
+"Madison Community Bancshares Corporation","Director","Robert Mendheim","n/a","n/a","2014","Retired","n/a"
+"Madison Community Bancshares Corporation","Director","Lowell D. Robinson","n/a","n/a","2014","Retired automobile sales & service","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","Pres.","Clemons/Rutherford Architects","2014","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","Clay Schnitker","Managing. Partner","Davis,"Schnitker","Reeves & Browning Law Firm"","2014","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","Fred Williams","n/a","n/a","2014","Retired - concrete construction","n/a"
+"Madison Community Bancshares Corporation","Director","Jimmy Williams","n/a","n/a","2014","Retired - Printing & Supplies","n/a"
+"Madison Community Bancshares Corporation","Executive VP/CFO","Howard O. Phillips","Gen Partner","Ravenswood Timber","2014","Banking","n/a"
+```

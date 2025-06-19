@@ -1,0 +1,22 @@
+"Okay","I will extract the data from the FR Y-6 form and format it into two CSV tables as per your instructions."
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin Bancshares,"Inc."","Rockville,"MD"","2020","Danielle Reaves Bush","Common Stock","96400","16.88%","n/a"
+"Franklin Bancshares,"Inc."","Ridgeland,"MS"","2020","Wade H. Creekmore,"Jr."","Common Stock","50000","8.76%","n/a"
+"Franklin Bancshares,"Inc."","Annapolis,"MD"","2020","Dorothea Bush Frye","Common Stock","96900","16.97%","n/a"
+"Franklin Bancshares,"Inc."","Natchez,"MS"","2020","A. Vidal Davis","Common Stock","29680","5.20%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Bancshares,"Inc."","CEO,"President/Director"","Bradley B. Jones","Member","Sandbar Land & Timber,"LLC"","2020","n/a","n/a"
+"Franklin Bancshares,"Inc."","Director","Dorothea Bush Frye","President","Rio Vista Properties","2020","n/a","n/a"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/","D.R. McGehee Ins Agy","2020","Insurance Agent","n/a"
+"Franklin Bancshares,"Inc."","Vice-Chairman/ Director","Edmund E. Prestridge","n/a","n/a","2020","n/a","n/a"
+"Franklin Bancshares,"Inc."","Director","Daniel M. Scarbrough","Medical Director","Community Health Systems,"Inc."","2020","Medical Doctor","n/a"
+"Franklin Bancshares,"Inc."","n/a","Danielle Reaves Bush","n/a","n/a","2020","Design Build Assistant","n/a"
+"Franklin Bancshares,"Inc."","Director","Thomas D. Griffin","n/a","n/a","2020","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Steven West","n/a","n/a","2020","Manager","n/a"
+"Franklin Bancshares,"Inc."","Director","Mary Helen Miller","Owner","MW2,"LLC"","2020","CPA","n/a"
+```

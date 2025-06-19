@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Hulsey Investments LLC","common stock","13097","11.69%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Charles Edward Mixon & Shirley Anne Mixon","common stock","12568","11.22%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Barry N. Lyle & Karen P. Lyle","common stock","11584","10.33%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","First State Bank","common stock","9109","8.13%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Michael H. Espey & Linda L. Espey","common stock","8722","7.78%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Teresa O. Hall","common stock","7600","6.78%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","David B. Hall & Barbara B. Hall","common stock","6974","6.22%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","John C. Crawford","common stock","6889","6.15%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","Larry W. Varnum","common stock","5840","5.21%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2022","William E. Stone,"Jr."","common stock","4375","3.90%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dawson Bancshares,"Inc."","President | CEO","Barry N. Lyle","n/a","n/a","2022","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","John C. Crawford","President","Crawford Farms,"Inc."","2022","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","John C. Crawford","Partner","Crawford & Crawford Farms","2022","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","Michael H. Espey","President","Espey Gin,"Inc."","2022","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","Michael H. Espey","Partner","Espey Farms","2022","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","Teresa O. Hall","n/a","n/a","2022","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","William E. Stone,"Jr."","n/a","n/a","2022","Retired","n/a"
+"Dawson Bancshares,"Inc."","Director","Larry W. Varnum","n/a","n/a","2022","n/a","n/a"
+```

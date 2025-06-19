@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Birmingham,"AL"","2014","FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","common stock","783457","17.37%","3340556"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Bessemer,"AL"","2014","James E. Mulkin","common stock","770794","15.85%","3340556"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Birmingham,"AL"","2014","B. K. Goodwin,"III"","common stock","413589","8.77%","3340556"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Bessemer,"AL"","2014","James B. Koikos","common stock","303475","6.59%","3340556"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Morris,"AL"","2014","Henry A. Parker","common stock","286451","6.34%","3340556"
+"FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","McCalla,"AL"","2014","Patricia P. Russell","common stock","265257","5.78%","3340556"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstFed Bancorp,"Inc."","Chairman of the Board,"C.Ε.Ο. and President of FirstFed Bancorp","Inc. and First Financial Bank."","B. K. Goodwin,"III"","n/a","n/a","2014","n/a","3340556"
+"FirstFed Bancorp,"Inc."","Director*","James B. Koikos","n/a","Bright Star Restaurant,"Inc."","2014","Restaurant Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","James B. Koikos","n/a","Bright Star Realty,"Inc."","2014","Restaurant Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","James B. Koikos","n/a","Bright Star Investments Partnership","2014","Restaurant Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","James B. Koikos","n/a","G.K. Properties","2014","Restaurant Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","E. H. Moore,"Jr."","n/a","Buddy Moore Trucking,"Inc."","2014","Trucking Company Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","James E. Mulkin","n/a","Mulkin Enterprises","2014","Investments","3340556"
+"FirstFed Bancorp,"Inc."","Director*","Henry Parker","n/a","Black Belt Outfitters,"L.L.C."","2014","Manufacturing Company Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","Henry Parker","n/a","Black Belt Whitetails,"L.L.C."","2014","Manufacturing Company Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","Henry Parker","n/a","Parker Family Farms,"L.L.C."","2014","Manufacturing Company Owner","3340556"
+"FirstFed Bancorp,"Inc."","Director*","R. Shan Paden","n/a","Paden and Paden,"P.C."","2014","Attorney","3340556"
+"FirstFed Bancorp,"Inc."","Director*","R. Shan Paden","n/a","Mark-Point Properties,"Inc."","2014","Attorney","3340556"
+"FirstFed Bancorp,"Inc."","Director*","R. Shan Paden","n/a","GFP Properties,"L.L.C."","2014","Attorney","3340556"
+"FirstFed Bancorp,"Inc."","Chief Financial Officer and Executive Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Kyle Goodwin","n/a","n/a","2014","n/a","3340556"
+"FirstFed Bancorp,"Inc."","Chief Operating Officer and Executive Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Paul Province","n/a","n/a","2014","n/a","3340556"
+"FirstFed Bancorp,"Inc."","Senior Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Neil Walker","n/a","n/a","2014","n/a","3340556"
+```

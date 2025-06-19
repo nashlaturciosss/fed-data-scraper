@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2021","George W. Baker,"Jr."","Common Stock","636296","15.82%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2021","E. David Hart,"Jr."","Common Stock","396238","9.85%","n/a"
+"Community Bankshares,"Inc."","LaGrange GA","2021","C. Christopher Joseph","Common Stock","655796","16.30%","n/a"
+"Community Bankshares,"Inc."","Hogansville,"GA"","2021","William C. Stankiewicz","Common Stock","636296","15.82%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2021","William R. Stump,"Jr."","Common Stock","648266","16.11%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2021","Nancy H. Stovall","Common Stock","320695","7.97%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2021","Wingate Family","Common Stock","501000","12.45%","n/a"
+"Community Bankshares,"Inc."","n/a","2021","None","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","Director","George W. Baker,"Jr."","Director","Community Bank & Trust-West Georgia","2021","Dentist","n/a"
+"Community Bankshares,"Inc."","Director","C. Christopher Joseph","Director","Community Bank & Trust-West Georgia","2021","Retired","n/a"
+"Community Bankshares,"Inc."","Director","William C. Stankiewicz","Mayor","City of Hogansville","2021","Mayor,"City of Hogansville","GA"","n/a"
+"Community Bankshares,"Inc."","President & CEO,"Director (Chairman)"","William R. Stump,"Jr."","Pres.,"CEO and Chairman of BOD"","Community Bank & Trust - West Georgia","2021","n/a","n/a"
+"Community Bankshares,"Inc."","n/a","Linda H. Wingate","n/a","n/a","2021","Principal Securities Holder","n/a"
+"Community Bankshares,"Inc."","EVP/AL Division","Dave G. Bryant","Pres.,"CEO and Director"","Community Bank & Trust - Alabama","2021","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & CFO","Emily A. Lowery","EVP & CFO","Community Bank & Trust - West GA","2021","n/a","n/a"
+"Community Bankshares,"Inc."","SVP,"Corp Sec. & Dir HR"","Kay L. Carlisle","SVP,"Corp. Sec. & Dir HA"","Community Bank & Trust - West GA","2021","n/a","n/a"
+```

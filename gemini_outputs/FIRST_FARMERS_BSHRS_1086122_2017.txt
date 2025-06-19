@@ -1,0 +1,25 @@
+"Okay","I will extract the requested data and format it as two CSV tables."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2017","William Earls","Common Stock","114969","6.31%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2017","Dorothy D. & James L. Wilkinson","Common Stock","107879","5.92%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2017","Joe and Johnnie Freedle","Common Stock","160000","8.78%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Director","Joseph B. (Jack) Freedle","Partner","Hughes,"Elliott & Freedle"","2017","Attorney","n/a"
+"First Farmers Bancshares,"Inc."","Chairman Director","John C. Wilkinson","Sole Proprietorship","Northside Mini Storage","2017","Realtor Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Chairman Director","John C. Wilkinson","Sole Proprietorship","Portland Mini Storage","2017","Realtor Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Director","Donald L. Eden","Chief Manager","Spring Creek Ventures,"LP"","2017","Manager,"Spring Creek Ventures"","n/a"
+"First Farmers Bancshares,"Inc."","Director","Daniel H. Green","Owner","Thomas Drugs","2017","Pharmacist","n/a"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Owner","Donoho Nursery","2017","Nurseryman - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Partner","Donoho Rentals","2017","Nurseryman - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Randall M. Collins","n/a","n/a","2017","Veterinarian","n/a"
+"First Farmers Bancshares,"Inc."","Director","Talbott L. Plumlee","Owner","Tal Plumlee Insurance Agency","2017","Insurance Agency - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Clif E. Hutson","Owner","C.E. Hutson Electric Co. Inc.","2017","Electric Company - Owner","n/a"
+"First Farmers Bancshares,"Inc."","President,"CEO","Director"","Tommy G. Whittaker","n/a","n/a","2017","The Farmers Bank- President,"CEO","Director"","n/a"
+"First Farmers Bancshares,"Inc."","Secretary to the Board/ Treasurer","Mickie E. Hodge","n/a","n/a","2017","The Farmers Bank- EVP/CAO","n/a"
+"First Farmers Bancshares,"Inc."","Vice President","William A. Nash","n/a","Plateau Insurance Group","2017","The Farmers Bank - EVP/Loan Administration","n/a"
+```

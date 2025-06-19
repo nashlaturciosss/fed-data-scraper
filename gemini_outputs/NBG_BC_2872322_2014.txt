@@ -1,0 +1,26 @@
+Here are the two tables in CSV format based on the provided documents:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2014","John H. Barrett","Common Stock","208799","15.02%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2014","Robert E. Burton","Common Stock","176390","12.69%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2014","Ted Ridlehuber","Common Stock","82927","5.97%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2014","Ted Ridlehuber","Common Stock Options","3967","6.23%","n/a"
+"NBG BANCORP,"INC."","Athens,"Georgia"","2014","Tommy E. Warner","Common Stock","114913","8.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"NBG BANCORP,"INC."","Director","John H. Barrett","President","Barrett Properties,"Inc."","2014","Real Estate Developer Property Manager","n/a"
+"NBG BANCORP,"INC."","Director","Robert E. Burton","President","Flowers,"Inc."","2014","Co-Founder & 50% owner of Flowers,"Inc.","a wholesaler of balloons and gift items"","n/a"
+"NBG BANCORP,"INC."","Director","Michael S. Gautreaux","Agent","Regions Insurance","2014","Regions","n/a"
+"NBG BANCORP,"INC."","Director","Willliam Glosson","n/a","n/a","2014","N/A","n/a"
+"NBG BANCORP,"INC."","CFO,"& Secretary"","Chadwick B. Hargrove","n/a","n/a","2014","N/A","n/a"
+"NBG BANCORP,"INC."","Chairman of the Board President & CEO","William C. Hopper,"III"","n/a","n/a","2014","N/A","n/a"
+"NBG BANCORP,"INC."","Director","Thomas Johnson","Owner","Associated Restaurant Ventures","2014","Owner Associated Restaurant Ventures","n/a"
+"NBG BANCORP,"INC."","EVP,"Chief Credit Officer & Director"","Thomas Z Lanier,"III"","n/a","n/a","2014","N/A","n/a"
+"NBG BANCORP,"INC."","Director","Kennneth J Parker","Owner","Parker & Associates Property Management Co","2014","Owner Parker & Associates Property Management Co","n/a"
+"NBG BANCORP,"INC."","Director","Ted R Ridlehuber","n/a","n/a","2014","Owner Cannon Financial Institute,"a bank consulting firm"","n/a"
+"NBG BANCORP,"INC."","Director","Scott Saucier","Partner","Trinity Accounting","2014","CPA","n/a"
+"NBG BANCORP,"INC."","Director","Tommy E Warner","President","Warner-Bair Videos","2014","Owner Blockbuster franchises & Warner Properties","n/a"
+```

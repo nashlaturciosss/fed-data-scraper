@@ -1,0 +1,39 @@
+Here are the CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancshares,"Inc."","Knoxville,"TN"","2022","William Y. Carroll,"Sr."","n/a","700","6.87%","n/a"
+"CNB Bancshares,"Inc."","Knoxville,"TN"","2022","Clara Carroll","n/a","697","6.87%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","J. S. Eledge","n/a","1296","6.38%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","Billy G. Kilpatrick and Georgia Kilpatrick","n/a","1312","6.46%","n/a"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2022","Douglas K. Swaggerty 2022 Trust","n/a","4198","20.66%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","David C. Verble","n/a","1223","6.02%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","Lynn T. Webb","n/a","2268","22.32%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","Penny S. Webb","n/a","2268","22.32%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","Rebecca Atchley Busmann","n/a","857","5.09%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2022","Thomas G. Busmann","n/a","177","5.09%","n/a"
+"CNB Bancshares,"Inc."","Largo,"FL"","2022","Donna W. Berg Trust","n/a","1027","5.05%","n/a"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2022","Kyle Swaggerty","n/a","100","0.49%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB Bancshares,"Inc."","DIRECTOR/CHAIRMAN","BILLY KILPATRICK","PRESIDENT","THE APPLE BARN & CIDER MILL,"INC."","2022","RETAIL BUSINESS OWNER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/CHAIRMAN","BILLY KILPATRICK","PRESIDENT","APPLE BARN WINERY,"INC."","2022","RETAIL BUSINESS OWNER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/CHAIRMAN","BILLY KILPATRICK","CHIEF MANAGER","CHRISTMAS AND CANDLES,"LLC."","2022","RETAIL BUSINESS OWNER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/CHAIRMAN","BILLY KILPATRICK","PARTNER","KILPATRICK AND HICKS PARTNERSHIP","2022","RETAIL BUSINESS OWNER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","KEVIN KILPATRICK","VICE PRESIDENT","THE APPLE BARN & CIDER MILL,"INC."","2022","RETAIL BUSINESS OWNER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/VICE PRESIDENT","KYLE SWAGGERTY","CHAIRMAN","SWAGGERTY SAUSAGE COMPANY","2022","FOOD VENDOR","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/VICE PRESIDENT","KYLE SWAGGERTY","PARTER","WPCC DEVELOPMENT PROPERTIES","2022","FOOD VENDOR","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/VICE PRESIDENT","KYLE SWAGGERTY","PRESIDENT","SWAGGERTY FARMS,"INC."","2022","FOOD VENDOR","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","DOUGLAS SWAGGERTY","PRESIDENT/CEO","SWAGGERTY SAUSAGE COMPANY","2022","FOOD VENDOR","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR/PRESIDENT","LYNN T. WEBB","PARTNER","WPCC DEVELOPMENT PROPERTIES","2022","n/a","n/a"
+"CNB Bancshares,"Inc."","n/a","PENNY S. WEBB","n/a","n/a","2022","n/a","n/a"
+"CNB Bancshares,"Inc."","n/a","SETH WEBB","DIRECTOR","LD&S,"LLC"","2022","n/a","n/a"
+"CNB Bancshares,"Inc."","n/a","DANIEL WEBB","DIRECTOR","LD&S,"LLC"","2022","n/a","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR SECRETARY/TREASURER","JASON HOLLIMAN","n/a","n/a","2022","BANKER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","LARRY WATERS","n/a","n/a","2022","COUNTY MAYOR","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","LOGAN COYKENDALL","PRESIDENT","HOSPITALITY SOLUTIONS","2022","HOTELIER","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","KEVIN BLALOCK","VICE-PRESIDENT","BLALOCK CONCRETE & PAVING","2022","CONSTRUCTION","n/a"
+"CNB Bancshares,"Inc."","DIRECTOR","PAUL WILLSON","n/a","n/a","2022","ENTREPRENEUR","n/a"
+```

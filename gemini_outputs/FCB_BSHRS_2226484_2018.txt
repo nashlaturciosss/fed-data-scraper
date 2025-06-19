@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2018","John J. Mullins","n/a","70286","42.99%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2018","John J. Mullins","n/a","25406","n/a","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2018","Dan J. Willingham","n/a","33562","20.53%","n/a"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2018","E.O. Browder,"Jr."","n/a","24000","14.68%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2018","FCB Bancshares,"Inc."","n/a","37752","23.09%","n/a"
+"FCB Bancshares,"Inc."","Tuscaloosa,"AL"","2018","Cletis L. Browder","n/a","10242","6.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Bancshares,"Inc."","Director","E.O. Browder Jr.","President","Browder & Associates PC","2018","Browder & Associates PC","n/a"
+"FCB Bancshares,"Inc."","Chairman,"President","Director"","John J. Mullins","Partner","JAM Investors","2018","n/a","n/a"
+"FCB Bancshares,"Inc."","Director","Dan J. Willingham","Partner","Fuller & Willingham","2018","Attorney","n/a"
+"FCB Bancshares,"Inc."","Director","Ann Mullins","Partner","JAM Investors LLC","2018","Retired","n/a"
+"FCB Bancshares,"Inc."","Director","Russell W. Morrow","Owner","Cullman Business Services","2018","Cullman Business Services,"Inc.-Owner"","n/a"
+"FCB Bancshares,"Inc."","Director","Russell W. Morrow","Owner","Greenhead Sales","2018","Cullman Business Services,"Inc.-Owner"","n/a"
+```

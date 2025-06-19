@@ -1,0 +1,28 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","following all your instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Baneshares","Dublin,"GA"","2014","Livingston Dynasty Trust","n/a","150500","8.59%","n/a"
+"Morris State Baneshares","Dublin,"GA"","2014","Livingston Dynasty Trust FBO Lisa Livingston","n/a","150500","8.59%","n/a"
+"Morris State Baneshares","Dublin,"GA"","2014","Lisa Livingston","n/a","106695","6.09%","n/a"
+"Morris State Baneshares","Dublin,"GA"","2014","Claire Livingston","n/a","101159","5.78%","n/a"
+"Morris State Baneshares","Dublin,"GA"","2014","Benefit Trust Company","n/a","127783","7.30%","n/a"
+"Morris State Baneshares","Dublin,"GA"","2014","Roger Miller","n/a","94482","5.39%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris State Baneshares","Chairman/Director","Livingston Dynasty Trust FBO-Lisa Livingston","Chairman/Director","n/a","2014","None","n/a"
+"Morris State Baneshares","Chairman/Director","Lisa L. Black","Chairman/Director","n/a","2014","None","n/a"
+"Morris State Baneshares","Director","Spence Mullis","Director/President & CEO","n/a","2014","President/CEO Morris Bank","n/a"
+"Morris State Baneshares","n/a","Melton Tyson","Director","n/a","2014","None","n/a"
+"Morris State Baneshares","n/a","Claire Livingston","Owner","n/a","2014","Interior Design","n/a"
+"Morris State Baneshares","n/a","Robert J. Walker","Director","Heart of Georgia Development","2014","Real Estate / Rental","n/a"
+"Morris State Baneshares","n/a","O.D. Cullen,"III"","Director","Cullen Equipment","2014","Executive","n/a"
+"Morris State Baneshares","n/a","F. Scott Beasley","Director","Duncan Tire","2014","Mechanic","n/a"
+"Morris State Baneshares","n/a","Ben Hall,"Jr"","Director","Dublin Construction","2014","Construction","n/a"
+"Morris State Baneshares","Director","Roger Miller","Executive Vice President","n/a","2014","None","n/a"
+"Morris State Baneshares","n/a","Wallace Miller","Director","n/a","2014","None","n/a"
+"Morris State Baneshares","n/a","Susan Brandon","Executive Vice President","n/a","2014","None","n/a"
+"Morris State Baneshares","n/a","Bent Gay","Director","n/a","2014","Executive","n/a"
+"Morris State Baneshares","n/a","Kate Allgood","Director","n/a","2014","Sale Representative","n/a"
+"Morris State Baneshares","n/a","Phillip Faircloth","Director","Farmers Furniture","2014","Executive","n/a"
+```

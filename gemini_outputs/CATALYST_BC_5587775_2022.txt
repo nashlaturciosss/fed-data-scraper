@@ -1,20 +1,20 @@
-Here are the two requested tables in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Catalyst Bancorp,"Inc."","Opelousas","2022","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","422260","8%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Opelousas,"Louisiana"","2022","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","422260","8%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Chairman of the Board of Directors","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","Director","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Director","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","Director","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Director","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director","Matthew I. Scruggins","Director","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","Director,"President & CEO"","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jacques Bourque","Vice President & Chief Financial Officer","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","n/a","Simone S. Perry","Senior Vice President & Chief Credit Officer","Catalyst Bank","2022"
-"Catalyst Bancorp,"Inc."","n/a","Amanda B. Quebedeaux","Senior Vice President & Director of Operations","Catalyst Bank","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Engineering Technician","Louisiana State Dept. of Transportation","2022","Engineering technician","n/a"
+"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","President & Owner","Targil,"Inc."","2022","President & owner of food product companies","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","K&G on the Geaux,"LLC"","2022","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","Kleiser Enterprises","2022","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","President & CEO","Savoie's Sausage & Food Products,"Inc."","2022","President & CEO,"Savoie's Sausage & Food Products","Inc."","n/a"
+"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Partner","Going,"Sebastien","Fisher & LeBouef","LLP"","2022","Certified Public Accountant","n/a"
+"Catalyst Bancorp,"Inc."","Director","Matthew I. Scruggins","Supervisor of Personnel","St. Landry Parish School System","2022","Supervisor of Personnel","n/a"
+"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","n/a","n/a","2022","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jacques Bourque","n/a","n/a","2022","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Senior Vice President & Chief Credit Officer","Simone S. Perry","n/a","n/a","2022","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Senior Vice President & Director of Operations","Amanda B. Quebedeaux","n/a","n/a","2022","n/a","n/a"
 ```

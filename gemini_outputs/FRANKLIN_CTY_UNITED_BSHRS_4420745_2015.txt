@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin County United Bancshares,"Inc."","Winchester,"TN"","2015","Vernon E. Miller","n/a","93000","7.98%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin County United Bancshares,"Inc."","Director and Chairman","Clinton Swafford","Senior Partner","Swafford,"Peters","Priest","and Hall"","2015","Lawyer","n/a"
+"Franklin County United Bancshares,"Inc."","Director and Secretary","Julie E. ""Beth"" Steadmon","n/a","n/a","2015","Teacher","n/a"
+"Franklin County United Bancshares,"Inc."","Director","Clarence R. ""Bob"" Cortner","President","Moore-Cortner Funeral Home,"Inc."","2015","Funeral Director","n/a"
+"Franklin County United Bancshares,"Inc."","Director","Clarence R. ""Bob"" Cortner","President","Franklin Memorial Gardens,"Inc."","2015","Funeral Director","n/a"
+"Franklin County United Bancshares,"Inc."","Director","James F. ""Jim"" Cunningharn","Director","Consumers Insurance USA,","2015","Retired","n/a"
+"Franklin County United Bancshares,"Inc."","Director,"President","and CEO"","Charles E. Gleghorn","Bank Director,"President","and CEO"","Bank of Lincoln County","2015","Banker","n/a"
+"Franklin County United Bancshares,"Inc."","Director,"President","and CEO"","Charles E. Gleghorn","Bank Director,"President","and CEO"","North Alabama Bank","2015","Banker","n/a"
+"Franklin County United Bancshares,"Inc."","Director","Ralph C. Sanders","Owner","Factory Furniture Co.","2015","Retired","n/a"
+"Franklin County United Bancshares,"Inc."","Director","Helen L. Tinnerman","n/a","n/a","2015","Certified Public Accountant","n/a"
+"Franklin County United Bancshares,"Inc."","CFO/COO","Hubert G. ""Greg"" Perry","n/a","n/a","2015","Banker","n/a"
+```

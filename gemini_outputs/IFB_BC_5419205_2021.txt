@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"IFB BANCORP,"INC."","Madrid,"Spain"","2021","Guillermo Fierro Eleta","Common Stock","3197518","88.49%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"IFB BANCORP,"INC."","n/a","Guillermo Fierro Eleta","n/a","n/a","2021","Businessman/Entepreneur","n/a"
+"IFB BANCORP,"INC."","Director and President","Jose Cueto","n/a","n/a","2021","n/a","n/a"
+"IFB BANCORP,"INC."","Director","Hector Rivera","Owner","HL Rivera Consulting Inc.","2021","Consultant","n/a"
+"IFB BANCORP,"INC."","Director","John McGuire","Senior Partner","McGuire and McGuire Banking Consultants","2021","Banking Consultant","n/a"
+"IFB BANCORP,"INC."","Director and Chairman","Carlos Singer","Managing Director","ACP Capital Management","2021","Executive","n/a"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Iberoamericana de Fomento","2021","Finance Executive","n/a"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Interamericana de Fomento S.A.","2021","Finance Executive","n/a"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Agropecuaria del Membrillar","2021","Finance Executive","n/a"
+"IFB BANCORP,"INC."","Director","Victor Laso","Director","Rio Estena S.A.","2021","Finance Executive","n/a"
+```

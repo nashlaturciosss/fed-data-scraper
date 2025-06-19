@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Edison Bancshares","Fort Myers,"FL"","2020","Daniel E. and Celia B. Dosoretz","Common Stock","488620","36.7%","n/a"
+"Edison Bancshares","Fort Myers,"FL"","2020","Howard M. and Brenda B. Sheridan","Common Stock","488620","36.7%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Edison Bancshares","Director","Daniel E. Dosoretz","n/a","See Attached","2020","Medical Doctor","n/a"
+"Edison Bancshares","Director","Daniel E. Dosoretz","n/a","n/a","2020","Medical Doctor","n/a"
+"Edison Bancshares","Chairman","Howard M. Sheridan","n/a","See Attached","2020","Retired","n/a"
+"Edison Bancshares","Chairman","Howard M. Sheridan","n/a","n/a","2020","Retired","n/a"
+"Edison Bancshares","President","Geoffrey W. Roepstorff","Partner","B & D of Southwest Florida,"L.C."","2020","Bank CEO","n/a"
+"Edison Bancshares","Vice Chairman","David M. DuVall","Managing Partner","B & D of Southwest Florida,"L.C."","2020","Bank Chairman","n/a"
+"Edison Bancshares","Secretary/Treasurer","Robbie B. Roepstorff","Partner","B & D of Southwest Florida,"L.C."","2020","Bank President","n/a"
+```

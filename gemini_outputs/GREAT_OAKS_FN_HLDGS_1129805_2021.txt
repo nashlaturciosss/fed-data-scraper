@@ -1,0 +1,41 @@
+Here are the two requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Great Oaks Financial Holdings,"Inc."","University Park,"MD"","2021","WSS Family Trust","n/a","6542.00","20.90%","n/a"
+"Great Oaks Financial Holdings,"Inc."","St. Simons Island,"GA"","2021","Lynda S. Franklin","n/a","6331.00","20.25%","n/a"
+"Great Oaks Financial Holdings,"Inc."","Los Angeles,"CA"","2021","Jay-Gould W. Stuckey","n/a","2455","7.90%","n/a"
+"Great Oaks Financial Holdings,"Inc."","Tallahassee,"FL"","2021","Russell D. Franklin,"III"","n/a","1549","5.00%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Stuckey Timberland,"Inc."","2021","Business Executive","n/a"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Franklin,"Inc."","2021","Business Executive","n/a"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Franklin Investments,"LP"","2021","Business Executive","n/a"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Tijuana Trading Co.","2021","Business Executive","n/a"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Saunders Stuckey & Mullis,"Inc."","2021","Business Executive","n/a"
+"Great Oaks Bank","n/a","Lynda S. Franklin","Director Emeritus","Southern Hills Dev LLC","2021","Business Executive","n/a"
+"Great Oaks Bank","Director","Russell D. Franklin,"III"","n/a","Stuckey Timberland,"Inc."","2021","Professor","n/a"
+"Great Oaks Bank","Director","Russell D. Franklin,"III"","n/a","Franklin Investments,"LP"","2021","Professor","n/a"
+"Great Oaks Bank","Director","Russell D. Franklin,"III"","n/a","Franklin,"Inc."","2021","Professor","n/a"
+"Great Oaks Bank","Director","Jay-Gould Stuckey","n/a","Stuckey Timberland,"Inc."","2021","Artist","n/a"
+"Great Oaks Bank","Director","Wade B. Hall","n/a","Stuckey Timberland,"Inc."","2021","Forester","n/a"
+"Great Oaks Bank","Director","Wade B. Hall","n/a","Non-Typical Properties,"LLC"","2021","Forester","n/a"
+"Great Oaks Bank","Director","Henry Barclay,"III"","n/a","Stuckey Timberland,"Inc."","2021","CPA","n/a"
+"Great Oaks Bank","Chairman/CEO","G. Mike Odom,"Jr."","n/a","Stuckey Timberland,"Inc."","2021","Banker","n/a"
+"Great Oaks Bank","Chairman/CEO","G. Mike Odom,"Jr."","n/a","The Mulberry Company,"LLC"","2021","Banker","n/a"
+"Great Oaks Bank","Chairman/CEO","G. Mike Odom,"Jr."","n/a","Great Oaks Holdings,"LLC"","2021","Banker","n/a"
+"Great Oaks Bank","Chairman/CEO","G. Mike Odom,"Jr."","n/a","17 Ventures,"LLC"","2021","Banker","n/a"
+"Great Oaks Bank","Chairman/CEO","G. Mike Odom,"Jr."","n/a","Briarcrest Enterprises,"LLC"","2021","Banker","n/a"
+"Great Oaks Bank","Director","John C. Wright","n/a","Stuckey Timberland,"Inc."","2021","Retired","n/a"
+"Great Oaks Bank","Director","John C. Wright","n/a","Stuckey Holdings,"LLC"","2021","Retired","n/a"
+"Great Oaks Bank","Director","John McGoldrick","n/a","Stuckey Timberland,"Inc."","2021","Attorney","n/a"
+"Great Oaks Bank","Director","John McGoldrick","n/a","The Lewis Foundation","2021","Attorney","n/a"
+"Great Oaks Bank","Director","John McGoldrick","n/a","Martin Snow LLP","2021","Attorney","n/a"
+"Great Oaks Bank","Director","John McGoldrick","n/a","Martin and Snow Building,"LLC"","2021","Attorney","n/a"
+"Great Oaks Bank","Director","John McGoldrick","n/a","Martin and Snow Building Partnership II","2021","Attorney","n/a"
+"Great Oaks Bank","Director - Great Oaks Bank","Lynda S. Franklin","n/a","n/a","2021","Business Executive","n/a"
+"Great Oaks Bank","Director - Great Oaks Bank","Wade B. Hall","n/a","n/a","2021","Forester","n/a"
+"Great Oaks Bank","Vice Chairman & President & CEO - Great Oaks Bank","G. Mike Odom,"Jr."","n/a","n/a","2021","Bank Executive","n/a"
+```

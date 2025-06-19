@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2014","Douglas & Irene Williams","Common Stock","197950","10.66%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2014","William Earls","Common Stock","114969","6.19%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2014","Dorothy D. & James L. Wilkinson","Common Stock","107879","5.81%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2014","Joe and Johnnie Freedle","Common Stock","118525","6.38%","n/a"
+"First Farmers Bancshares,"Inc."","Portland,"TN"","2014","Randall Collins","Common Stock","84000","4.52%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers Bancshares,"Inc."","Director","Jack Freedle","Attorney","Hughes,"Elliott & Freedle","Attorneys"","2014","Attorney","n/a"
+"First Farmers Bancshares,"Inc."","Chairman","John C. Wilkinson","Realtor","Northside Mini Storage","2014","Realtor - Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Director","John C. Wilkinson","Realtor","Portland Mini Storage","2014","Realtor - Tennessee Realty Partners","n/a"
+"First Farmers Bancshares,"Inc."","Director","Donald L. Eden","Manager","Spring Creek Ventures,"LP"","2014","Manager,"Spring Creek Ventures"","n/a"
+"First Farmers Bancshares,"Inc."","Director","Daniel H. Green","Owner","Thomas Drugs","2014","Pharmacist","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","AAA Inc.","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","AAA Leasing,"LLC"","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","AAA Storage LLC","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","Greystone Enterprise,"LLC"","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","Life Gym","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","Terry's Market","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","Herbert Lord","Self Employed-","DC Fitness Center","2014","Self Employed-","n/a"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Nurseryman - Owner","Donoho Nursery","2014","Nurseryman - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","James B. Donoho,"III"","Nurseryman - Owner","Donoho Rentals","2014","Nurseryman - Owner","n/a"
+"First Farmers Bancshares,"Inc."","Director","Jerry Taylor","Retired from","W/T Partnership","2014","Retired from","n/a"
+"First Farmers Bancshares,"Inc."","Director","Jerry Taylor","Retired from","J & W Partnership","2014","Retired from","n/a"
+"First Farmers Bancshares,"Inc."","Director","Randall M. Collins","Veterinarian","None","2014","Veterinarian","n/a"
+"First Farmers Bancshares,"Inc."","President,"CEO","Director"","Tommy Whittaker","None","None","2014","The Farmers Bank-President,"CEO","Director"","n/a"
+"First Farmers Bancshares,"Inc."","Secretary to the Board/Treasurer","Mickie E. Hodge","None","None","2014","The Farmers Bank-EVP/CAO","n/a"
+"First Farmers Bancshares,"Inc."","Vice President","William A. Nash","None","None","2014","EVP/Loan Administration","n/a"
+"First Farmers Bancshares,"Inc."","Principal Shareholder","Douglas & Irene Williams","None","None","2014","Self Employed - Agriculture","n/a"
+```

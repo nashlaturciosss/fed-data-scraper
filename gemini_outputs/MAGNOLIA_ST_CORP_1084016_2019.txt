@@ -1,0 +1,32 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Magnolia State Corporation","Madison,"MS"","2019","Robert L. Abney,"III"","Common Stock","5944","18.95%"
+"The Magnolia State Corporation","Bay Springs,"MS"","2019","Barbara Brown","Common Stock","21447","68.38%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Magnolia State Corporation","Director,"Chairman"","Barbara Brown","Teacher","n/a","2019","Retired","34434"
+"Magnolia State Corporation","Director,"Vice President"","Robert L. Abney,"III"","Medical Doctor","n/a","2019","Retired","34434"
+"Magnolia State Corporation","Director,"Secretary & Treasurer"","Lillous A. Shoemaker","Banker","n/a","2019","n/a","34434"
+"Magnolia State Corporation","Director","Andrew V. Brown","Banker","n/a","2019","n/a","34434"
+"Magnolia State Corporation","Director","Tom G. Brown","Banker","n/a","2019","n/a","34434"
+"Magnolia State Corporation","Director","Joseph Neely","Banker","n/a","2019","n/a","34434"
+"Magnolia State Corporation","Director","Kristofer T. Mangum","Banker","n/a","2019","n/a","34434"
+"Magnolia State Corporation","Chairman & President","Barbara Brown","Teacher","Magnolia State Bank","2019","Retired","34434"
+"Magnolia State Corporation","Director","Robert L. Abney,"III"","Medical Doctor","Magnolia State Bank","2019","Retired","34434"
+"Magnolia State Corporation","Secretary & Treasurer","Lillous A. Shoemaker","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","Director","Andrew V. Brown","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","Director","Tom G. Brown","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","Director","Joseph Neely","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","Director","Kristofer T. Mangum","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","n/a","Barbara Brown","Teacher","Magnolia State Bank","2019","Retired","34434"
+"Magnolia State Corporation","n/a","Robert L. Abney,"III"","Medical Doctor","Magnolia State Bank","2019","Retired","34434"
+"Magnolia State Corporation","President & General Counsel","Lillous A. Shoemaker","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","n/a","Andrew V. Brown","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","Security Officer","Tom G. Brown","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","n/a","Joseph Neely","Banker","Magnolia State Bank","2019","n/a","34434"
+"Magnolia State Corporation","CEO","Kristofer T. Mangum","Banker","Magnolia State Bank","2019","n/a","34434"
+```

@@ -1,0 +1,18 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COVINGTON CAPITAL CORPORATION","Meridian,"MS"","2021","Daniel L. Broadfoot","Common Stock","2679","5.36%","n/a"
+"COVINGTON CAPITAL CORPORATION","Collins,"MS"","2021","John B. Pope,"Jr."","Common Stock","10284","20.61%","n/a"
+"COVINGTON CAPITAL CORPORATION","Magee,"MS"","2021","Bobby T. Sullivan","Common Stock","9871","19.78%","n/a"
+"COVINGTON CAPITAL CORPORATION","Jackson,"MS"","2021","Jack R. Gibson","Common Stock","3467","6.94%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COVINGTON CAPITAL CORPORATION","Director","Daniel L. Broadfoot","n/a","None","2021","Sales","n/a"
+"COVINGTON CAPITAL CORPORATION","Director","John B. Pope,"Jr."","President","Pope Co. Inc,","2021","Merchant","n/a"
+"COVINGTON CAPITAL CORPORATION","Director,"Owner"","Bobby T. Sullivan","n/a","Sullivan Ready Mix","2021","n/a","n/a"
+"COVINGTON CAPITAL CORPORATION","Director","Jack R. Gibson","n/a","None","2021","Retired","n/a"
+"COVINGTON CAPITAL CORPORATION","Director","John B. Pope. III","n/a","None","2021","Fire Chief","n/a"
+"COVINGTON CAPITAL CORPORATION","Director","Robert G. Sullivan","n/a","None","2021","Truck/Business","n/a"
+```

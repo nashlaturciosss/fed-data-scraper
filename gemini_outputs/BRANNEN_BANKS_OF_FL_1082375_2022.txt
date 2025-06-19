@@ -1,21 +1,22 @@
+Here are the two tables extracted from the document in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Brannen Banks of Florida,"Inc."","Inverness","2022","Joseph S. Brannen","n/a","n/a","67.6%"
-"Brannen Banks of Florida,"Inc."","Inverness","2022","Margaret Brannen Hagar","n/a","n/a","32.4%"
-"Brannen Banks of Florida,"Inc."","Inverness","2022","G. Matt Brannen","n/a","n/a","N/A"
-"Brannen Banks of Florida,"Inc."","Inverness","2022","Michael T. Fitzpatrick","n/a","n/a","N/A"
-"Brannen Banks of Florida,"Inc."","Inverness","2022","John W. Agee","n/a","n/a","N/A"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Inverness,"Florida"","2022","Joseph S. Brannen","n/a","n/a","67.6%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"Florida"","2022","Margaret Brannen Hagar","n/a","n/a","32.4%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"Florida"","2022","G. Matt Brannen","n/a","n/a","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"Florida"","2022","Michael T. Fitzpatrick","n/a","n/a","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"Florida"","2022","John W. Agee","n/a","n/a","N/A","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2022"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/President/Treasurer","Brannen Properties,"Inc."","2022"
-"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Brannen Bank","2022"
-"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","Brannen Bank","2022"
-"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Vice President","Brannen Properties,"Inc."","2022"
-"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2022"
-"Brannen Banks of Florida,"Inc."","COO","John W. Agee","EVP/COO","Brannen Bank","2022"
-"Brannen Banks of Florida,"Inc."","COO","John W. Agee","Managing Member","Agee Holdings LLC","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","n/a","Brannen Properties,"Inc."","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Brannen Bank","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","Brannen Bank","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Vice President","Brannen Properties,"Inc."","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","COO","John W. Agee","EVP/COO","Brannen Bank","2022","N/A","n/a"
+"Brannen Banks of Florida,"Inc."","COO","John W. Agee","Managing Member","Agee Holdings LLC","2022","N/A","n/a"
 ```

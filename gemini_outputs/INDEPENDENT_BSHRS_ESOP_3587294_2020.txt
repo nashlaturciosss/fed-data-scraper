@@ -1,0 +1,37 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all the instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","Billy M. Bolton","Common Stock","350","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","Bradley Bolton","Common Stock","528","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Florence,"AL"","2020","Marc Dempsey","Common Stock","577","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Golden,"MS"","2020","Tammy Montgomery","Common Stock","200","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","Patricia A. Nelson","Common Stock","1029","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","David Tiffin","Common Stock","1345","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","William Weatherford","Common Stock","50","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Fulton,"MS"","2020","Bobby J. Canup Jr.","Common Stock","802","12.50% Voting Power for H/C","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2020","Employee Stock Ownership Plan","Common Stock","10895","n/a","n/a"
+"Independent Bancshares,"Inc. Employee Stock Ownership Plan"","Red Bay,"AL"","2020","Billy M. Bolton","Voting Power","n/a","50% Voting Power","n/a"
+"Independent Bancshares,"Inc. Employee Stock Ownership Plan"","Red Bay,"AL"","2020","Tammy Montgomery","Voting Power","n/a","50% Voting Power","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Independent Bancshares,"Inc."","Chairman/President & Director; President/Dir. Of BIIA,"Inc.; Chairman/Director/MemberLnC","CSB Trustee","ESOP"","Billy M. Bolton","n/a","n/a","2020","Chairman/Director Community Spirit Bank","n/a"
+"Independent Bancshares,"Inc."","Vice-Chair/ Director; V-Pres/Dir of BIIA,"Inc. Dir/V-Ch/Member Loan C-CSB"","Patricia A. Nelson","Owner","Pat's Arboretum Inn","2020","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","Director; Pres/CEO/Senior Lender/ Member Loan C,"CSB"","Bradley Bolton","n/a","n/a","2020","President/CEO/Senior Lender/Director/ Community Spirit Bank","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Marc Dempsey","VP & Shareholder,"Partner"","Craig Construction Company","2020","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Marc Dempsey","Partner","Craig Partners,"LLC"","2020","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Marc Dempsey","Owner","D&M Holdings,"LLC"","2020","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director/ Secretary to Board; Ex.VP/COO/Dir HR/Director/ Sec to Bd,"CSB Trustee","ESOP"","Tammy Montgomery","n/a","n/a","2020","EX.VP/COO/Dir of HR Director/Sec to Board/ Community Spirit Bank","n/a"
+"Independent Bancshares,"Inc."","Director; Director/Chm Audit C/Member of Loan Committee,"CSB"","David Tiffin","Pres","Tiffin Supply,"Inc"","2020","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","Director; Director/Chm Audit C/Member of Loan Committee,"CSB"","David Tiffin","Sec","City Auto Parts,"Inc"","2020","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","William Weatherford","Owner","Belmont Pharmacy,"LLC"","2020","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","William Weatherford","Owner","Red Bay Pharmacy","2020","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","William Weatherford","n/a","Cashion/Weatherford Properties,"LLC"","2020","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Bobby Canup,"Jr."","President","Tremont Floral,"Inc"","2020","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Bobby Canup,"Jr."","VP","Design World,"Inc."","2020","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Director; Dir/Member Audit Committee,"CSB"","Bobby Canup,"Jr."","Owner","Golden Eagle Sales","2020","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc. Employee Stock Ownership Plan"","Trustee; Chairman/Pres/Director,"IB","Inc. Pres/Director.","BIIA","Inc. Chairman/Director","CSB"","Billy M. Bolton","n/a","n/a","2020","Chairman/Director Community Spirit Bank","n/a"
+"Independent Bancshares,"Inc. Employee Stock Ownership Plan"","Trustee; Director/Sec. to Board/IB,"Inc. EX.VP/COO/Dir of HR/ Director/Sec. to Board","CSB"","Tammy Montgomery","n/a","n/a","2020","EX.VP/COO/Dir of HR Director/Sec. to Board/ Community Spirit Bank","n/a"
+```

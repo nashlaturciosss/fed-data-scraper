@@ -1,0 +1,29 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Crews Banking Corporation","n/a","2023","J. W. Crews,"Jr."","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","Vice Chairman of the Board and Director","Crews Bank & Trust","2023","Banker","n/a"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","Vice Chairman of the Board and Director","3192 Golf,"Inc."","2023","Banker","n/a"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","President and Director","Shorewood Corporation","2023","Banker","n/a"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","President and Director","Newport Groves","2023","Banker","n/a"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","President and Director","Arcadia Groves","2023","Banker","n/a"
+"Crews Banking Corporation","Chairman & CEO and Director of Crews Banking Corporation.","J. W. Crews,"Jr."","President and Director","T & C Investments,"Inc."","2023","Banker","n/a"
+"Crews Banking Corporation","Vice President & Director","W. Markam Crews","Director of Crews Bank & Trust","JDM Partnership - Citrus Grove","2023","Banker","n/a"
+"Crews Banking Corporation","Vice President & Director","W. Markam Crews","Director of Crews Bank & Trust","Bowling Green Storage,"Inc."","2023","Banker","n/a"
+"Crews Banking Corporation","Vice President & Director","W. Markam Crews","Director of Crews Bank & Trust","3-C Ranch,"Limited"","2023","Banker","n/a"
+"Crews Banking Corporation","Vice President & Director","W. Markam Crews","Director of Crews Bank & Trust","Shorewood Corporation","2023","Banker","n/a"
+"Crews Banking Corporation","Vice President & Director","W. Markam Crews","Director of Crews Bank & Trust","EarthPlat,"LLC"","2023","Banker","n/a"
+"Crews Banking Corporation","Vice Chairman & President and Director of Crews Banking Corporation","J. W. Crews,"IV"","Chairman,"CEO","Director and President"","Crews Bank & Trust","2023","Banker","n/a"
+"Crews Banking Corporation","n/a","James W. Crews,"III Trust"","n/a","n/a","2023","None","n/a"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","Director of Culture and Engagement","Crews Bank & Trust","2023","Director of Culture and Engagement -- Crews Bank & Trust","n/a"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","JDM Partnership - Citrus Grove","2023","Director of Culture and Engagement -- Crews Bank & Trust","n/a"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","3-C Ranch Limited","2023","Director of Culture and Engagement -- Crews Bank & Trust","n/a"
+"Crews Banking Corporation","Director,"Secretary and Treasurer"","Dena M. Aloian Crews","n/a","Shorewood Corporation","2023","Director of Culture and Engagement -- Crews Bank & Trust","n/a"
+"Crews Banking Corporation","Chief Financial Officer","Bradley L. Wilson","EVP,"Chief Financial Officer","and Investment Officer"","Crews Bank & Trust","2023","Banker","n/a"
+"Crews Banking Corporation","Chief Banking Officer","M.L. McLaren,"IV"","EVP,"Chief Banking Officer"","Crews Bank & Trust","2023","Banker","n/a"
+"Crews Banking Corporation","n/a","Matthew A. Crews","n/a","n/a","2023","Real Estate Investor","n/a"
+"Crews Banking Corporation","n/a","Patrick M. Crews","n/a","n/a","2023","Student","n/a"
+"Crews Banking Corporation","n/a","Keelin Anne Crews Stauffer","n/a","n/a","2023","Homemaker","n/a"
+```

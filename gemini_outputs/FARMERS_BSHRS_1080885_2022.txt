@@ -1,0 +1,10 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers Bancshares,"Inc."","Chairman","Kenneth S. Dowling","n/a","n/a","2022","n/a","n/a"
+"Farmers Bancshares,"Inc."","Corporate Secretary","Sharon Bass","n/a","n/a","2022","n/a","n/a"
+```

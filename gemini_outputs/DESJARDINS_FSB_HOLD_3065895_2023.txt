@@ -1,0 +1,15 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","n/a","2023","Fédération des caisses Desjardins du Québec","Sole shareholder","n/a","100%","n/a"
+"Desjardins FSB Holdings,"Inc."","Director,"Chair of the Board & Chief Executive Officer"","Cormier,"Guy"","Officer and director of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","President and Chief Executive Officer,"Desjardins Group","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director,"Vice-Chairman of the Board"","Jodoin,"Dominique"","Director of Fédération des caisses Desjardins du Québec and Officer and director of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","President of a technology compagny","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Bachand,"Luc"","Director and Member of Commitees of Fédération des caisses Desjardins du Québec and director of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","Retraite","n/a"
+"Desjardins FSB Holdings,"Inc."","Director,"Treasurer and Assistant Secretary of the Board"","Mailhot,"Alexandre"","Advisory Member and chief financial Officer of Desjardins Bank,"National Association"","Desjardins Bank,"National Association"","2023","Vice-President Banking Services Finance Division,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Bellemare,"Réal"","Officer and director of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","Senior Executive Vice-President and Chief Operating Officer,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director,"Secretary of the board"","Groulx,"Nadine"","Director of Fédération des caisses Desjardins du Québec and Officer and director of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","Farmer","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Corporate Secretary","Fadous,"Karine"","Officer of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","Senior Management Team Legal Affairs,"Projects and Financing","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Corporate Secretary","Boucher,"Luc"","Officer of some of the subsidiaries of the Fédération des caisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2023","Vice-President Legal Affairs,"Fédération des caisses Desjardins du Québec"","n/a"
+```

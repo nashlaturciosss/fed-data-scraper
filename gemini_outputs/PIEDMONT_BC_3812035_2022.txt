@@ -1,0 +1,28 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Atlanta,"GA"","2022","Charles P. Stephens,"et al"","Common Stock","2205925","8.67%","n/a"
+"Piedmont Bancorp,"Inc."","Atlanta,"GA"","2022","J. Paul Maggard,"et al"","Common Stock","1960859","7.62%","n/a"
+"Piedmont Bancorp,"Inc."","Duluth,"Georgia"","2022","Monty G. Watson,"et al"","Common Stock","1370344","5.32%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Director","W. Ray Barnes","Director","n/a","2022","Hospitality","n/a"
+"Piedmont Bancorp,"Inc."","Director","C. Lamar Black","Director","n/a","2022","Oil Distributor","n/a"
+"Piedmont Bancorp,"Inc."","Owner","C. Lamar Black","n/a","P& B Petroleum","2022","Oil Distributor","n/a"
+"Piedmont Bancorp,"Inc."","Director","E. Ray Black,"Sr."","Director","n/a","2022","Pharmacist","n/a"
+"Piedmont Bancorp,"Inc."","Owner","E. Ray Black,"Sr."","n/a","Cleveland Drugs","2022","Pharmacist","n/a"
+"Piedmont Bancorp,"Inc."","Director","Robert D. Cheeley","Director","President","2022","Attorney","n/a"
+"Piedmont Bancorp,"Inc."","Director","Robert D. Cheeley","Director","Attorney","2022","Attorney","n/a"
+"Piedmont Bancorp,"Inc."","Director","Robert D. Cheeley","Director","Cheeley Law Group,"LLC"","2022","Attorney","n/a"
+"Piedmont Bancorp,"Inc."","Director","Paul D. Donaldson","Director","n/a","2022","Real Estate Developer - retired","n/a"
+"Piedmont Bancorp,"Inc."","Vice Chair - Director","John J. Howard","Vice Chair - Director","President / Co-owner","2022","Retail hardware - Owner","n/a"
+"Piedmont Bancorp,"Inc."","Vice Chair - Director","John J. Howard","Vice Chair - Director","Howard Brothers","2022","Retail hardware - Owner","n/a"
+"Piedmont Bancorp,"Inc."","Director","J. Paul Maggard","Director","Maggard Ventures LLC","2022","Real Estate - Investor","n/a"
+"Piedmont Bancorp,"Inc."","Director","J. Paul Maggard","Director","Maggard Investments LLC","2022","Real Estate - Investor","n/a"
+"Piedmont Bancorp,"Inc."","Director","J. Paul Maggard","Director","Maggard Enterprises LLC","2022","Real Estate - Investor","n/a"
+"Piedmont Bancorp,"Inc."","Director","T. Michael Tennant","Director","n/a","2022","Attorney - retired","n/a"
+"Piedmont Bancorp,"Inc."","Director","T. Michael Tennant","Director","Hampton Park,"Inc."","2022","Attorney - retired","n/a"
+"Piedmont Bancorp,"Inc."","Chairman & CEO Director","Monty G. Watson","Chairman & CEO Director","n/a","2022","n/a","n/a"
+"Piedmont Bancorp,"Inc."","SVP/CFO/Secretary & Director","Kelly J. Johnson","SVP/CFO/None Secretary & Director","n/a","2022","n/a","n/a"
+"Piedmont Bancorp,"Inc."","SVP/CCO","Christopher S. Elsevier","n/a","n/a","2022","n/a","n/a"
+```

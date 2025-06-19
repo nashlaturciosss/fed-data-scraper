@@ -1,0 +1,19 @@
+"Here are the two tables extracted from the document in CSV format","as requested:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2020","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","365629","6.5%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Don L. Fulton","Retired","n/a","2020","Retired","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2020","Business Manager","n/a"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2020","Engineer","n/a"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2020","n/a","n/a"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2020","Proprietor,"Auto Parts supply store"","n/a"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2020","Physician","n/a"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2020","Attorney","n/a"
+"Citizens Holding Company","Director","Donald L Kilgore","Attorney","Private","2020","Attorney","n/a"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2020","Chief Financial Officer","n/a"
+"Citizens Holding Company","Director","Jane D. Crosswhite","Executive Vice Preside","Williams Brothers Incorporated","2020","Executive Vice President","n/a"
+"Citizens Holding Company","Director","Gregory E. Cronin","Director,"Regional President"","n/a","2020","N/A","n/a"
+```

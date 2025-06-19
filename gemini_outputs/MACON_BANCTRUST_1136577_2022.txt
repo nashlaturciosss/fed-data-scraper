@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Macon Banctrust,"Inc."","Red Boiling Springs,"TN"","2022","Donald Ray Birdwell","n/a","n/a","0.277%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Ben Bray","n/a","n/a","0.144%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Eddie K. Chitwood","n/a","n/a","2.870%","n/a"
+"Macon Banctrust,"Inc."","Red Boiling Springs,"TN"","2022","Hugh Wayne Clark","n/a","n/a","10.010%","n/a"
+"Macon Banctrust,"Inc."","Red Boiling Springs,"TN"","2022","Melvin Grace","n/a","n/a","0.415%","n/a"
+"Macon Banctrust,"Inc."","Gallatin,"TN"","2022","Odric Gregory","n/a","n/a","11.543%","n/a"
+"Macon Banctrust,"Inc."","Elizabethtown,"KY"","2022","Olin Jent,"Jr."","n/a","n/a","0.004%","n/a"
+"Macon Banctrust,"Inc."","Westmoreland,"TN"","2022","Jerry Kirby","n/a","n/a","0.098%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Chad Shoulders","n/a","n/a","0.084%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Johnathan West","n/a","n/a","0.094%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Radford West","n/a","n/a","3.70%","n/a"
+"Macon Banctrust,"Inc."","Lafayette,"TN"","2022","Chrissy Smith","n/a","n/a","0.310%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Macon Banctrust,"Inc."","Director,"EVP"","Donald Ray Birdwell","n/a","n/a","2022","Retired Banker","n/a"
+"Macon Banctrust,"Inc."","Director","Ben Bray","Owner","Ben Bray R/E & Auction","2022","R/E Auctioner","n/a"
+"Macon Banctrust,"Inc."","Director","Ben Bray","Owner","Macon Mini Sotrage","2022","R/E Auctioner","n/a"
+"Macon Banctrust,"Inc."","Director","Eddie K. Chitwood","President","TMC Group,"Inc."","2022","Pharmacist","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Pres.","Clark Lumber Co.,"Inc."","2022","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Partner","Clark Lumber Co.,"LLC"","2022","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Pres.","Bran-Em Trucking","2022","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Melvin Grace","President","Grace Discount Foods","2022","Retail Merchant","n/a"
+"Macon Banctrust,"Inc."","Director","Odric Gregory","Member","Gregory Investments,"LLC"","2022","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Odric Gregory","Member","Gregory Real Estate,"LLC"","2022","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Odric Gregory","Member","Gallatin Warehousing","2022","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Olin Jent,"Jr."","n/a","n/a","2022","Pharmacist","n/a"
+"Macon Banctrust,"Inc."","Director","Jerry Kirby","Owner","Kirby & Kirby","2022","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Chad Shoulders","n/a","n/a","2022","Banking","n/a"
+"Macon Banctrust,"Inc."","Director,"President & CEO"","Johnathan West","n/a","n/a","2022","Banking","n/a"
+"Macon Banctrust,"Inc."","Chairman","Radford West","n/a","n/a","2022","Retired Banker","n/a"
+"Macon Banctrust,"Inc."","Secretary & Treasurer,"Vice President & Personnel Director"","Chrissy Smith","n/a","n/a","2022","Banking","n/a"
+```

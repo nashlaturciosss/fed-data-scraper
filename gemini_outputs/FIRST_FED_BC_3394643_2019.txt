@@ -1,0 +1,34 @@
+"Okay","here are the two CSV tables extracted from the document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Federal Bancorp","Jackson,"MS"","2019","Guy Evans","n/a","21831","6.08%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2019","Christine Fortenberry","n/a","19946","5.55%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2019","Brenda Griner","n/a","66644","18.55%","n/a"
+"First Federal Bancorp","Madison,"MS"","2019","Stephen Griner","n/a","34826","9.79%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2019","Charles Griner Jr.","n/a","34052","9.48%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2019","Sandra McDaniel","n/a","36500","10.16%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Federal Bancorp","Vice Chairman,"Vice Chairman - Dir. First Southern Bank"","I. Randall Wallace","General Manager","PRVEPA","2019","Electric Power Association","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Charles H. Griner,"Jr."","President & Chairman","Griner Drilling","2019","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Charles H. Griner,"Jr."","n/a","Charles H. Griner FLP","2019","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Charles H. Griner,"Jr."","n/a","Griner Sports","2019","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","James R. Price","n/a","Ox-Mar Properties","2019","Investments","n/a"
+"First Federal Bancorp","Secretary,"Secretary - Director First Southern Bank"","Sandra G. McDaniel","n/a","Charles H. Griner FLP","2019","Homemaker","n/a"
+"First Federal Bancorp","Secretary,"Secretary - Director First Southern Bank"","Sandra G. McDaniel","n/a","Griner Sports","2019","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Oil,"Inc"","2019","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Butane,"Inc."","2019","Homemaker","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Newton B. Blount","n/a","n/a","2019","n/a","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Austin D. Wilks","Insurance Agent","ADW Rentals,"LLC"","2019","Insurance Agent","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Austin D. Wilks","Insurance Agent","Agri Insurance Specialist,"LLC"","2019","Insurance Agent","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","Beacon Supply Company Inc.","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","Beacon Fastners LLC","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","Prine Properties LLC","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","Pressure Services Inc.","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","Prine Resources LLC","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","Director,"Director First Southern Bank"","Greg Prine","Beacon Supply Company Owner","J&P Real Estate LLC","2019","Oilfield Supply Company","n/a"
+"First Federal Bancorp","CEO/President,"Director First Southern Bank"","R. Scott Davis","n/a","n/a","2019","n/a","n/a"
+```

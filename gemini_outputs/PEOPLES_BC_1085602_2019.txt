@@ -1,0 +1,15 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2019","Sherrian McDaniel Logan","common stock","15302.00","47%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2019","Dana M. Peoples","common stock","14036.00","43%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2019","Jimmy Burleson","common stock","2697.00","8%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Marketing Director","Sherrian M. Logan","Director","State Bank & Trust","2019","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","Dana M. Peoples","CEO,"President"","State Bank & Trust","2019","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","Collins Davis","CFO","State Bank & Trust","2019","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Secretary","Sally Holloway","COO,"Cashier"","State Bank & Trust","2019","n/a","n/a"
+```

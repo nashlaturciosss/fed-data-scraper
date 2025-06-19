@@ -1,0 +1,33 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MidSouth Bancorporation","Slocomb,"AL"","2021","Hope Johnson,"Successor Trustee for W D Malone","III","C M Wilson and A M Bagby"","common stock","1260","35%","n/a"
+"MidSouth Bancorporation","Slocomb,"AL"","2021","Hope Johnson,"Successor Trustee for W D Malone","Jr Children Trust"","common stock","516","14%","n/a"
+"MidSouth Bancorporation","Dothan,"AL"","2021","W D Malone,"III"","common stock","756","21%","n/a"
+"MidSouth Bancorporation","Woodstock,"GA"","2021","Catherine M Wilson","common stock","648","18%","n/a"
+"MidSouth Bancorporation","Birmingham,"AL"","2021","Alyson D Malone","common stock","454","12%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MidSouth Bancorporation","Chairman,"CEO","President","& Director"","WD Malone,"III"","Director","The Malone Family Foundation","2021","n/a","929932"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Vice President,"Secretary & Director"","The Malone Family Foundation","2021","n/a","929932"
+"MidSouth Bancorporation","Director","Alyson D Malone","President,"Treasurer & Director"","The Malone Family Foundation","2021","n/a","929932"
+"MidSouth Bancorporation","n/a","Hope H Johnson","CEO","SNB Holdings Inc.","2021","Bank CEO","929932"
+"MidSouth Bancorporation","n/a","Hope H Johnson","CEO","Friend Bank","2021","Bank CEO","929932"
+"MidSouth Bancorporation","Senior Vice President & Secretary","Jennifer League","n/a","n/a","2021","n/a","929932"
+"MidSouth Bancorporation","Director","George Flowers","President","GDF,"Inc"","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","George Flowers","President","Pyramid Properties,"Inc"","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","George Flowers","Managing Member","Perennial South LLC","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President/Vice-Chairman","Couch Aggregates","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President","OST,"Inc"","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President","CPAC","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","Board","Realtime Support","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President/Chairman","CTTE West Bay","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","Secretary","Spann Farm Development","2021","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","Chairman","Keystone LLC","2021","Business Owner","929932"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","Carnley 5 LLC","2021","n/a","929932"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","The Talbot Place,"LLC"","2021","n/a","929932"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Trustee","Terry David Carnley Estate","2021","n/a","929932"
+```

@@ -1,0 +1,16 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2014","W. B. Smith,"Jr.","Trustee"","Common Stock","34685","19.87%","n/a"
+"First Dozier Bancshares,"Inc."","Brantley,"AL"","2014","W. B. Smith,"Jr."","Common Stock","2850","1.63%","n/a"
+"First Dozier Bancshares,"Inc."","Columbus,"GA"","2014","Janice P. Biggers","Common Stock","25000","14.32%","n/a"
+"First Dozier Bancshares,"Inc."","Dozier,"AL"","2014","R. R. Johnson Estate","Common Stock","19500","11.17%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Director,"Chairman","CEO","and President"","W. B. Smith,"Jr"","Director,"Chairman","President"","The First National Bank of Dozier","2014","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director","Janice P. Biggers","Director","The First National Bank of Dozier","2014","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director,"Secretary","Exec V. P."","Linda R. Colquett","Director,"Secretary","Exec V. P."","The First National Bank of Dozier","2014","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director","Earl McBryde","Director","The First National Bank of Dozier","2014","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Director,"Vice-president"","Shaun M. Wilcox","Director,"Vice-president"","The First National Bank of Dozier","2014","n/a","n/a"
+"First Dozier Bancshares,"Inc."","n/a","R. R. Johnson Estate","n/a","n/a","2014","n/a","n/a"
+```

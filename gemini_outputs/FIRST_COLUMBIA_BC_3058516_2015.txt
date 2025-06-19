@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Columbia Bancorp,"Inc."","Lake City,"FL"","2015","S.Lester Scaff","common stock","3985100","91.33%","3058514"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Columbia Bancorp,"Inc."","Director","Gordon P. Summers","Manager","Pineroots,"LLC"","2015","Attorney at Law","n/a"
+"First Columbia Bancorp,"Inc."","Director","Gordon P. Summers","Co-Manager","Summers,"Summers & Allbritton","LLC"","2015","Attorney at Law","n/a"
+"First Columbia Bancorp,"Inc."","CEO & President","KC Trowell","CEO & President","n/a","2015","n/a","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","Managing Member","Scaff's Supermarkets,"LLC"","2015","Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","Managing Member","Drawdy Enterprises,"LLC"","2015","Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","Managing Member","Bright & White Laundromat,"LLC"","2015","Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","C&G Manufactured Homes","2015","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","Normandy Homes of Jacksonville","2015","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","C&G Homes of Chiefland","2015","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","Collins Investments","2015","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","R&R,"Inc."","2015","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Dr. Ronald Foreman","President & Owner","North Florida Eye Care","2015","(Owner Eye Care Center","n/a"
+"First Columbia Bancorp,"Inc."","Director","Dr. Ronald Foreman","Owner","Suwannee County Holdings,"LLC"","2015","(Owner Eye Care Center","n/a"
+"First Columbia Bancorp,"Inc."","Director","Norbie Ronsonet","President & Owner","Ronsonet Buick-GMC","2015","Owner Automobile Dealership","n/a"
+"First Columbia Bancorp,"Inc."","Vice Chairman & Director","Richard Johnson","Owner/Managing Member","Richard J. Johnson,"CPA PLLC"","2015","CPA","n/a"
+"First Columbia Bancorp,"Inc."","Chairman & Director","S. Lester Scaff","Owner/Director","Lester & Ann Scaff Foundation,"Inc."","2015","Management","n/a"
+"First Columbia Bancorp,"Inc."","Chairman & Director","S. Lester Scaff","President","Sandy Pines of Madison,"Inc."","2015","Management","n/a"
+"First Columbia Bancorp,"Inc."","Chairman & Director","S. Lester Scaff","CEO","Wen-One of Florida,"Inc."","2015","Management","n/a"
+"First Columbia Bancorp,"Inc."","Chairman & Director","S. Lester Scaff","President","Scaff's Inc.","2015","Management","n/a"
+```

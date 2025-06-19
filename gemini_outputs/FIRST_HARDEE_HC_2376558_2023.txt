@@ -1,0 +1,16 @@
+"Here are the two tables extracted from the document as requested","in CSV format."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","President","Florida Fence Post Co","2023","Manufact uring","n/a"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","n/a","F L Revell,"Inc."","2023","Manufact uring","n/a"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","n/a","F L Revell Ranch & Groves","2023","Manufact uring","n/a"
+"First Hardee Holding Corporation","Director","M. E. Wilkins","n/a","n/a","2023","Retired","n/a"
+"First Hardee Holding Corporation","Chairman","Kenneth B. Evers","Owner","Kenneth B. Evers PA","2023","Attorney","n/a"
+"First Hardee Holding Corporation","Director","Richard K. Justice","n/a","n/a","2023","Banker","n/a"
+"First Hardee Holding Corporation","Director","William R. Lambert,"Jr."","n/a","n/a","2023","Retired","n/a"
+"First Hardee Holding Corporation","SVP,"COO"","W. Lee Mikell","n/a","n/a","2023","FNB Wauchula","n/a"
+"First Hardee Holding Corporation","Director","Timothy C. Nunez","n/a","n/a","2023","Episcopal Priest","n/a"
+```

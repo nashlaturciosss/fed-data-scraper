@@ -1,0 +1,26 @@
+Here are the requested extractions in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Madison,"MS"","2015","Blythe B. & Gwendolyn B. Cragon","Common Stock","48528","12.87%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","President","George R. Marx","n/a","n/a","2015","n/a","398837"
+"COPIAH BANCSHARES,"INC."","Director","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2015","Executive VP","398837"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Partner","Alco Farms","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2015","Banker","398837"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Attorney","Henley,"Lotterhos & Henley"","2015","Attorney","398837"
+"COPIAH BANCSHARES,"INC."","Director","Carolyn C. Loftin","Executive","Follow One International,"Inc."","2015","Businesswoman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Principle","Williford Gearhart & Knight Inc.","2015","Engineer","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","WGK Leasing,"Inc."","2015","Engineer","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","Wolf Hollow Development","2015","Engineer","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","Community Property Development","2015","Engineer","398837"
+"COPIAH BANCSHARES,"INC."","Director","Victor L. Smith","Senior Vice-Pres.","Missco Corp.","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Donald R. Thompson","Former Executive Director","MS Dept. of Human Services","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Guy E. Evans","Insurance Executive","Eastover Insurance Agency","2015","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","n/a","Blythe B. & Gwendolyn B. Cragon","n/a","n/a","2015","Business Consultant","398837"
+```

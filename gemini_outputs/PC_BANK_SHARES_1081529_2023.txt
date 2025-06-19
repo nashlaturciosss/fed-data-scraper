@@ -1,0 +1,12 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2023","Susan V. Moss","Common Stock","2315","12.59%","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2023","E.J. Vann IV","Common Stock","8388","45.36%","n/a"
+"P & C Bank Shares,"Inc."","Orlando,"FL"","2023","E. J. Vann,"V"","Common Stock","2315","12.59%","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2023","David Cooper","Common Stock","1025","5.58%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

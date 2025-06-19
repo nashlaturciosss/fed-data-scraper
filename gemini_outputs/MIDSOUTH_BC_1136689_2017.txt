@@ -1,0 +1,30 @@
+Here are the CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MidSouth Bancorporation","Slocomb,"AL"","2017","Hope Johnson,"Successor Trustee for W D Malone","III","C M Wilson and A M Bagby"","common stock","1260","35%","n/a"
+"MidSouth Bancorporation","Slocomb,"AL"","2017","Hope Johnson,"Successor Trustee for W D Malone","Jr Children Trust"","common stock","516","14%","n/a"
+"MidSouth Bancorporation","Dothan,"AL"","2017","W D Malone,"III"","common stock","756","21%","n/a"
+"MidSouth Bancorporation","Woodstock,"GA"","2017","Catherine M Wilson","common stock","648","18%","n/a"
+"MidSouth Bancorporation","Birmingham,"AL"","2017","Alyson D Malone","common stock","454","12%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MidSouth Bancorporation","Chairman,"CEO","President & Director"","WD Malone,"III"","Director","The Malone Family Foundation","2017","n/a","n/a"
+"MidSouth Bancorporation","Director","Catherine M Wilson","Vice President,"Secretary & Director"","The Malone Family Foundation","2017","n/a","n/a"
+"MidSouth Bancorporation","Director","Alyson D Malone","President,"Treasurer & Director"","The Malone Family Foundation","2017","n/a","n/a"
+"MidSouth Bancorporation","Bank CEO","Hope H Johnson","CEO","SNB Holdings Inc.","2017","Bank CEO","n/a"
+"MidSouth Bancorporation","Bank CEO","Hope H Johnson","CEO","Slocomb National Bank","2017","Bank CEO","n/a"
+"MidSouth Bancorporation","Senior Vice President & Secretary","Jennifer League","n/a","n/a","2017","n/a","n/a"
+"MidSouth Bancorporation","Senior Vice President","Andy Hart","Managing Member","Log Growers LLC","2017","n/a","n/a"
+"MidSouth Bancorporation","n/a","George Flowers","President","GDF,"Inc"","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","George Flowers","President","Pyramid Properties,"Inc"","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","George Flowers","Managing Member","Perennial South LLC","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","President/Vice-Chairman","Couch Aggregates","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","President","OST,"Inc"","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","President","CPAC","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","Board","Realtime Support","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","President/Chairman","CTTE West Bay","2017","Business Owner","n/a"
+"MidSouth Bancorporation","n/a","Steven Shaw","Secretary","Spann Farm Development","2017","Business Owner","n/a"
+```

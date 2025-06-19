@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"USA"","2017","Estate of Herman J. Russell","n/a","606789","30.15%","n/a"
+"Citizens Bancshares Corporation","Bala Cynwyd,"USA"","2017","Context BH Capital Management,"LP"","n/a","143996","7.15%","n/a"
+"Citizens Bancshares Corporation","Chicago,"USA"","2017","National Community Investment Fund","n/a","101244","5.03%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Trust Bank","Principal Shareholder","Estate of Herman J. Russell","n/a","n/a","2017","n/a","680130"
+"Citizens Trust Bank","Serves as director of Acuity Brands,"Inc","American Airlines; Aaron Rents","Fortress Transportation"","Ray Robinson","Director","GA Aquarium","2017","Retired","680130"
+"Citizens Trust Bank","President Williams Communications Systems","James E. Williams","Director","n/a","2017","President of AT&T Business & Consumer Services","680130"
+"Citizens Trust Bank","President","C. David Moody","Director","C.D. Moody Construction Co.,"Inc"","2017","President of C.D. Moody Construction Co.,"Inc"","680130"
+"Citizens Trust Bank","President","H. Jerome Russell","Director","Gartell Court,"Inc."","2017","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","680130"
+"Citizens Trust Bank","President","H. Jerome Russell","Director","20 West Terrain,"LLC"","2017","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","680130"
+"Citizens Trust Bank","Owner","Robert Brown","Director","R.L. Brown & Associates,"Inc"","2017","Principal,"R.L. Brown & Assoc."","680130"
+"Citizens Trust Bank","Founder & Managing Principal","Steven A. Elmore,"Sr."","Director","Elmore CPAs,"LLC"","2017","Managing Principal of Elmore CPAs,"LLC"","680130"
+"Citizens Trust Bank","President & CEO","Cynthia Day","President & CEO","Citizens Trust Bank","2017","n/a","680130"
+"Citizens Trust Bank","Executive VP & CFO","Samuel J. Cox","Executive VP & CFO","Citizens Trust Bank","2017","n/a","680130"
+"Citizens Trust Bank","Executive VP & COO","Frederick L. Daniels,"Jr."","n/a","Citizens Trust Bank","2017","n/a","680130"
+```

@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce One Financial Corporation","Birmingham,"AL"","2023","Bill I Smith","Common Stock","605994","11.92%","n/a"
+"Commerce One Financial Corporation","Birmingham,"AL"","2023","Bill I Smith","Warrants on Common Stock","200000","3.93%","n/a"
+"Commerce One Financial Corporation","Clayton,"AL"","2023","Gail B. Cooper","Common Stock","200844","4.03%","n/a"
+"Commerce One Financial Corporation","Clayton,"AL"","2023","Gail B. Cooper","Warrants on Common Stock","100000","2.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce One Financial Corporation","Director & President","Arthur M. Freeman IV","Director & President","n/a","2023","n/a","n/a"
+"Commerce One Financial Corporation","Director","Benjamin H. Slaughter","Managing Director","1919 Investment Counsel","2023","Investment Advisor","n/a"
+"Commerce One Financial Corporation","Director","Gail B. Cooper","Director","n/a","2023","Retired","n/a"
+"Commerce One Financial Corporation","Director & Chief Lending Officer","J. David Sizemore","Director & Chief Lending Officer","n/a","2023","n/a","n/a"
+"Commerce One Financial Corporation","Director","Bill I. Smith","Director","Landing","2023","Executive","n/a"
+"Commerce One Financial Corporation","Chief Financial Officer","Judson Spooner","Chief Financial Officer","n/a","2023","n/a","n/a"
+"Commerce One Financial Corporation","Director & Chief Executive Officer","Kenneth W. Till","Director & Chief Executive Officer","n/a","2023","n/a","n/a"
+"Commerce One Financial Corporation","Chairman","Ronald C. Jackson","Chairman","n/a","2023","Retired","n/a"
+"Commerce One Financial Corporation","Director & Chief Credit Officer","Scott Mathews","Director & Chief Credit Officer","n/a","2023","n/a","n/a"
+"Commerce One Financial Corporation","Director","Samuel D. Haskell","Managing Member and Chief Investment Officer","Colarion,"LLC"","2023","Investment Advisor","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","Featheringill Capital","2023","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Board Chair","Experlogic","2023","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Board Chair","Eagle Automation","2023","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Board Chair","InvestEdge","2023","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Board Chair","Completecase","2023","Executive","n/a"
+"Commerce One Financial Corporation","Director","Travis A. Meyer","President","30A Investment Partners","2023","Developer","n/a"
+"Commerce One Financial Corporation","Director","Kevin Kynerd","President","Bradford Building Company,"Inc."","2023","General Contractor/Real Estate Development","n/a"
+```

@@ -1,0 +1,17 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mechants & Farmers Bancshares,"Inc"","Eutaw,"AL"","2023","Mary B Garnand","n/a","7839","14.6275%","n/a"
+"Mechants & Farmers Bancshares,"Inc"","Eutaw,"AL"","2023","Family Trust of James Oliver Banks,"Jr."","n/a","3121","5.8237%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mechants & Farmers Bancshares,"Inc."","Director","Kevin Jockisch","n/a","Joe's Repair Shop","2023","Automobile and Equipment Repair Service Owner","n/a"
+"Mechants & Farmers Bancshares,"Inc."","Director","Alvis Storey","n/a","n/a","2023","Retired Banker","n/a"
+"Mechants & Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","n/a","n/a","2023","Retired Attorney","n/a"
+"Mechants & Farmers Bancshares,"Inc."","Director","Gavin Edgar","n/a","n/a","2023","Retired Merchant","n/a"
+"Mechants & Farmers Bancshares,"Inc."","CEO & Board Chairman","Daniel M. Garnand","n/a","n/a","2023","Banker","n/a"
+"Mechants & Farmers Bancshares,"Inc."","President & Director","Andrew Harrison Banks","n/a","n/a","2023","Banker","n/a"
+```

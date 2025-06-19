@@ -1,19 +1,24 @@
-Here are the two tables extracted from the document in CSV format as requested.
-```text
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2015","The Diesi Family Trusts","Common Stock","16000","20.36%"
-"American Bancorp,"Inc."","Opelousas","2015","Ronald J. Lashute","Common Stock","17755","22.67%"
-"American Bancorp,"Inc."","Clearwater","2015","Diane F Brown,"Family Trust"","Common Stock","4069","5.18%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Opelousas,"LA"","2015","The Diesi Family Trusts (1)","Common Stock","16000","20.36%","1085349"
+"American Bancorp,"Inc."","Opelousas,"LA"","2015","Ronald J. Lashute","Common Stock","17755","22.67%","1085349"
+"American Bancorp,"Inc."","Clearwater,"FL"","2015","Diane F Brown,"Family Trust"","Common Stock","4069","5.18%","1085349"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","n/a","2015"
-"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","Little Capitol of Louisiana,"Inc. and Diesi Development Corporation"","2015"
-"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","Little Capitol of Louisiana,"Inc.","Diesi Development Corporation"","2015"
-"American Bancorp,"Inc."","Director","The Diesi Family Trust","None","n/a","2015"
-"American Bancorp,"Inc."","Director","Samuel C. Diesi","Director","Diesi Realty","2015"
-"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","Williams Funeral Home,"Inc.","Haynes Family Funerals","Inc. and COB Williams Progressive Life Insurance Company"","2015"
-"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","n/a","2015"
-"American Bancorp,"Inc."","CEO & President","Ronald J. Lashute","Director,"CEO & President"","n/a","2015"
-"American Bancorp,"Inc."","n/a","George H. Comeau","Vice President,"CFO & Cashier"","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","n/a","n/a","2015","Farmer","1085349"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Elaine E. Diesi","Secretary and Treasurer","Little Capitol of Louisiana,"Inc."","2015","Assistant VP & Branch Manager of American Bank & Trust Company","1085349"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Elaine E. Diesi","Secretary and Treasurer","Diesi Development Corporation","2015","Assistant VP & Branch Manager of American Bank & Trust Company","1085349"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","President","Little Capitol of Louisiana,"Inc."","2015","Independent Land Man","1085349"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","Vice President","Diesi Development Corporation","2015","Independent Land Man","1085349"
+"American Bancorp,"Inc."","Director","The Diesi Family Trust","n/a","n/a","2015","None","1085349"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2015","Clergy","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc."","2015","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Haynes Family Funerals,"Inc."","2015","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","COB Williams Progressive Life Insurance Company","2015","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","n/a","n/a","2015","Clerk of Court of St. Landy Parish of Louisiana","1085349"
+"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","n/a","n/a","2015","President & CEO of American Bank & Trust Company","1085349"
+"American Bancorp,"Inc."","Vice President & CFO","George H. Comeau","n/a","n/a","2015","n/a","1085349"
 ```

@@ -1,0 +1,23 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2019","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","433419","7.8%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Don L. Fulton","n/a","n/a","2019","Retired","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2019","Business Manager","n/a"
+"Citizens Holding Company","Director","Daniel Adam Mars","n/a","MMM Investments LLC","2019","Business Manager","n/a"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2019","Engineer","n/a"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2019","N/A","n/a"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2019","Proprietor,"Auto Parts supply store"","n/a"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2019","Physician","n/a"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2019","Attorney","n/a"
+"Citizens Holding Company","Director","Donald L Kilgore","Attorney","Private Practice","2019","Attorney","n/a"
+"Citizens Holding Company","Director","A. T. Williams","Retired CPA","n/a","2019","Certified Public Accountant","n/a"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2019","Chief Financial Officer","n/a"
+"Citizens Holding Company","Director","Gregory E. Cronin","Director,"Regional President"","n/a","2019","N/A","n/a"
+"Citizens Holding Company","Treasurer & CFO","Robert T. Smith","Senior Vice-President & CFO","n/a","2019","N/A","n/a"
+```

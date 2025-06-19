@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director","Russell Carothers","n/a","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director Investment Officer","Russell Carothers","n/a","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Robert L. Carothers","n/a","n/a","2022","Retired banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Christian Hill Carothers","n/a","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Chairman","Christian Hill Carothers","n/a","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","President & CEO","Christian Hill Carothers","n/a","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Jimmy Dickinson","retired Comptroller","Continental Conveyor & Equipment Co","2022","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Lead Director","Jimmy Dickinson","retired Comptroller","Continental Conveyor & Equipment Co","2022","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Retired CFO","Baymont Inc. Mississippi","2022","Retired manufact. CFO","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","Retail","Spann Hardware","2022","Retail Business","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","Cardiologist","Cardiology Consultants","2022","Physician","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman & Corporate Sec"","Tamra P Trull","none","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman; EVP","Cashier & Corporate Sec"","Tamra P Trull","none","n/a","2022","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","Sales","Timber Creek Housing","2022","Sales Manufact.","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Robert L. Carothers,"Jr"","Partner","Jones Walker LLP","2022","Attorney","n/a"
+```

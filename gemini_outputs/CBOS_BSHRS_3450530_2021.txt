@@ -1,23 +1,26 @@
-Here are the two CSV tables requested:
+Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","William T. Taylor","Common Stock","37963","6.93%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","William T. Taylor","Other","1333","0.24%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","William T. Taylor","Other","1333","0.24%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","William T. Taylor","Other","1334","0.24%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","William T. Taylor","Other","43769","8.00%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","CBOS Bankshares,"Inc Employee Stock Ownership Plan (w/401k Provisions)"","Common Stock","66653","12.18%"
-"CBOS Bankshares,"Inc."","Merritt Island","2021","Maheshchandra R. Shah and Rashmi M. Shah","Common Stock","58832","10.75%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","William T. Taylor","Common Stock","37963","6.93%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","William T. Taylor","Long Trust","1333","0.24%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","William T. Taylor","Bouck Trust","1333","0.24%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","William T. Taylor","Goodson Trust","1334","0.24%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","William T. Taylor","CBOS Bankshares ESOP (w/401K Prov)","43769","8.00%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","CBOS Bankshares,"Inc Employee Stock Ownership Plan (w/401k Provisions)"","Common Stock","66653","12.18%","n/a"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2021","Maheshchandra R. Shah and Rashmi M. Shah","Common Stock","58832","10.75%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CBOS Bankshares,"Inc."","Director & CEO","William T. Taylor","n/a","n/a","2021"
-"CBOS Bankshares,"Inc."","Director","Harold T. Bistline","President","Harold T. Bistline,"PA"","2021"
-"CBOS Bankshares,"Inc."","Director","Stephen D. Crisafulli","Owner","Crisafulli Enterprises","2021"
-"CBOS Bankshares,"Inc."","Director","Kevin Markey","President","Kevin P. Markey,"P.L."","2021"
-"CBOS Bankshares,"Inc."","Director","Kevin Steele","President","Bob Steele Chevrolet","2021"
-"CBOS Bankshares,"Inc."","Director","Dr. Carlos Woodward","n/a","n/a","2021"
-"CBOS Bankshares,"Inc."","Shareholder","Maheshchandra R. Shah and Rashmi M. Shah","President","Southeast Petro Distributors","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBOS Bankshares,"Inc"","Director & CEO","William T. Taylor","n/a","n/a","2021","n/a","n/a"
+"CBOS Bankshares,"Inc"","Director","Harold T. Bistline","President","Stromire,"Bistline","Miniclier"","2021","Attorney","n/a"
+"CBOS Bankshares,"Inc"","Director","Stephen D. Crisafulli","n/a","Crisafulli Enterprises","2021","Business Owner","n/a"
+"CBOS Bankshares,"Inc"","Director","Stephen D. Crisafulli","n/a","Crisafulli Builders","2021","Business Owner","n/a"
+"CBOS Bankshares,"Inc"","Director","Stephen D. Crisafulli","n/a","Crisafulli Consulting","2021","Business Owner","n/a"
+"CBOS Bankshares,"Inc"","Director","Stephen D. Crisafulli","n/a","Crisafulli Cattle Company","2021","Business Owner","n/a"
+"CBOS Bankshares,"Inc"","Director","Kevin Markey","President","Kevin P. Markey,"P.L."","2021","Attorney","n/a"
+"CBOS Bankshares,"Inc"","Director","Kevin Steele","President","Bob Steele Chevrolet","2021","Car Dealer","n/a"
+"CBOS Bankshares,"Inc"","Director","Dr. Carlos Woodward","n/a","n/a","2021","Retired","n/a"
+"CBOS Bankshares,"Inc"","Shareholder","Maheshchandra R. Shah and Rashmi M. Shah","President","Southeast Petro Distributors","2021","Petroleum Distributor","n/a"
 ```

@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bank Holding Company,"Inc."","Orange City,"FL"","2017","Stephen S. Spore Trust","Common Stock","2197","8.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank Holding Company,"Inc."","Chairman/Director","Raymond A. Biernacki,"Jr."","Chairman/Director","Biernacki & Biernacki,"P. A."","2017","Lawyer,"Biernacki & Biernacki P. A."","2847142"
+"Pinnacle Bank Holding Company,"Inc."","Chairman/Director","Raymond A. Biernacki,"Jr."","Chairman/Director","SAVOL,"LLC"","2017","Lawyer,"Biernacki & Biernacki P. A."","2847142"
+"Pinnacle Bank Holding Company,"Inc."","Director","James D. Houck","Owner","King Neptune Inc.","2017","Owner","2847142"
+"Pinnacle Bank Holding Company,"Inc."","Director","James D. Houck","Owner","Houck Family Partnership","2017","Owner","2847142"
+"Pinnacle Bank Holding Company,"Inc."","Director","James D. Houck","Owner","James Thomas/John Houck Partnership","2017","Owner","2847142"
+"Pinnacle Bank Holding Company,"Inc."","EVP/CFO","Javier Espido","EVP/CFO","n/a","2017","n/a","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Pres./CEO","Williams Floor Center,"Inc."","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Pres./CEO","Williams Properties","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Managing Member","Williams Family Lmtd Partnership","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Managing Member","SAVOL,"LLC"","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Managing Member","RTR of Deland","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Managing Member","LBS-TCW,"LLC"","2017","Owner","n/a"
+"Pinnacle Bank Holding Company,"Inc."","Director","Terry C. Williams","Managing Member","LBS-TCW TWO,"LLC"","2017","Owner","n/a"
+```

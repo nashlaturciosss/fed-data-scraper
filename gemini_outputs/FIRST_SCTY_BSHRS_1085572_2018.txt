@@ -1,0 +1,39 @@
+Here are the two tables extracted from the document in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","CHARLES BENNETT TRUST","n/a","1289.0","3.38%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","GENEVA BENNETT","n/a","1476.0","3.87%","1085572"
+"First Security Bankshares,"Inc"","Simpsonville,"SC"","2018","TRACIE DOWIS","n/a","909.0","2.38%","1085572"
+"First Security Bankshares,"Inc"","Simpsonville,"SC"","2018","GRANT DOWIS","n/a","487.0","1.28%","1085572"
+"First Security Bankshares,"Inc"","Simpsonville,"SC"","2018","MADELINE DOWIS","n/a","531.0","1.39%","1085572"
+"First Security Bankshares,"Inc"","Simpsonville,"SC"","2018","MARY PATSY GILBERT","n/a","4909.0","12.86%","1085572"
+"First Security Bankshares,"Inc"","Simpsonville,"SC"","2018","HW WHITWORTH IRRV TRUST","n/a","2946.0","7.72%","1085572"
+"First Security Bankshares,"Inc"","Monroe,"GA"","2018","CAROLINE LOUISE KELLY","n/a","730.0","1.91%","1085572"
+"First Security Bankshares,"Inc"","Monroe,"GA"","2018","LEIGH W KELLY","n/a","3174.0","8.32%","1085572"
+"First Security Bankshares,"Inc"","Monroe,"GA"","2018","MATTHEW THOMAS KELLY","n/a","723.0","1.89%","1085572"
+"First Security Bankshares,"Inc"","Monroe,"GA"","2018","WESLEY WILLIAM KELLY","n/a","730.0","1.91%","1085572"
+"First Security Bankshares,"Inc"","Monroe,"GA"","2018","THOMAS F KELLY","n/a","402.0","1.05%","1085572"
+"First Security Bankshares,"Inc"","Anderson,"SC"","2018","JANIECE M. WHITE","n/a","2000.0","5.24%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","BARRY S WHITWORTH","n/a","2991.0","7.84%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","SARAH ELIZABETH WHITWORTH","n/a","565.0","1.48%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","STEVEN JARRETT WHITWORTH","n/a","583.0","1.53%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","LAURA J WHITWORTH","n/a","330.0","0.86%","1085572"
+"First Security Bankshares,"Inc"","Toccoa,"GA"","2018","HW WHITWORTH IRR TRUST","n/a","3501.0","9.17%","1085572"
+"First Security Bankshares,"Inc"","Liburn,"GA"","2018","WENDY WHITWORTH","n/a","2446.0","6.41%","1085572"
+"First Security Bankshares,"Inc"","n/a","2018","SHURATT WHITWORTH","n/a","4132.0","10.83%","1085572"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Security Bankshares,"Inc"","DIRECTOR","JOHN C SEAY","DIRECTOR","n/a","2018","RETIRED","1085572"
+"First Security Bankshares,"Inc"","CHAIRMAN","BARRY WHITWORTH","CHAIRMAN","FRANKLIN INSURANCE AGENCY","2018","INSURANCE AGENT","1085572"
+"First Security Bankshares,"Inc"","DIRECTOR","GERALD VOYLES","DIRECTOR","n/a","2018","RETIRED","1085572"
+"First Security Bankshares,"Inc"","PRESIDENT/CEO DIRECTOR","RICHARD A BASINGER,"JR"","PRESIDENT/CEO DIRECTOR","n/a","2018","BANKING","1085572"
+"First Security Bankshares,"Inc"","PRINCIPAL SHAREHOLDER","MARY PATSY GILBERT","n/a","n/a","2018","RETIRED","1085572"
+"First Security Bankshares,"Inc"","SVP/DIRECTOR","BOBBY LEE VAUGHN","n/a","n/a","2018","BANKING","1085572"
+"First Security Bankshares,"Inc"","CFO/DIRECTOR","ROBERT E CURRY","n/a","n/a","2018","BANKING","1085572"
+"First Security Bankshares,"Inc"","PRINCIPAL SHAREHOLDER","LEIGH W KELLY","DIRECTOR","n/a","2018","HOME-MAKER","1085572"
+"First Security Bankshares,"Inc"","DIRECTOR","WILLIAM P HOGAN,"SR"","SENIOR CREDIT OFFICER/DIRECTOR","n/a","2018","BANKING","1085572"
+"First Security Bankshares,"Inc"","SVP/DIRECTOR","SHADE W STOREY","n/a","n/a","2018","BANKING","1085572"
+```

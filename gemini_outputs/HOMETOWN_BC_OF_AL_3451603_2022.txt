@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancorp of Alabama,"Inc."","Oneonta,"USA"","2022","Derrick Phillips","n/a","n/a","12.14%","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Oneonta,"USA"","2022","Hometown Bank ESOP","n/a","n/a","9.78%","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Oneonta,"USA"","2022","Ronald R Tidwell","n/a","n/a","8.62%","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Oneonta,"USA"","2022","Timothy W. Gargus","n/a","n/a","6.93%","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Oneonta,"USA"","2022","D Lee Guyton,"Jr."","n/a","n/a","6.07%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancorp of Alabama,"Inc."","Director","B. Martin Copeland","Partner","Carr,"Riggs","& Ingram","LLC"","2022","CPA","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Director","Ronald R Tidwell","Sole Proprietor","Tidwell Citgo","2022","Retired","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Director","D Lee Guyton,"Jr."","Owner","Guyton Investments,"LLC"","2022","Retired","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Director","Charles M Morrison,"Jr."","Manager & Co-Owner","Miller Soda Shop","2022","Co-Owner & Manager","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Director","Tim Gargus","n/a","n/a","2022","Retired VP","n/a"
+"Hometown Bancorp of Alabama,"Inc."","CEO","Danny J Kelly","n/a","n/a","2022","N/A","n/a"
+"Hometown Bancorp of Alabama,"Inc."","CFO","Patti M Young","n/a","n/a","2022","N/A","n/a"
+"Hometown Bancorp of Alabama,"Inc."","Shareholder","Derrick Phillips","VP","Marcum Oil Co","2022","N/A","n/a"
+```

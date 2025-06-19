@@ -1,0 +1,33 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","Lafayette,"LA"","2016","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","654623","8.9%","n/a"
+"Home Bancorp,"Inc."","McLean,"VA"","2016","FJ Capital Management,"LLC"","Common Stock","645262","8.8%","n/a"
+"Home Bancorp,"Inc."","Arlington,"VA"","2016","EJF Capital,"LLC"","Common Stock","577709","7.8%","n/a"
+"Home Bancorp,"Inc."","New York,"NY"","2016","Jacobs Asset Management","Common Stock","507642","7.0%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Partner","Broussard Poche' LLP","2016","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Director","Kathy J. Bobbs","n/a","n/a","2016","President and CEO for The Regional Health System of Acadiana","n/a"
+"Home Bancorp,"Inc."","Director","John W. Bordelon","n/a","Liquid N2,"Inc."","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","Richard J. Bourgeois","Chairman","Lafayette Investment Group","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","Richard J. Bourgeois","Chairman","LabelB Investments,"LLC"","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","Richard J. Bourgeois","Chairman","Lasershare,"LLC"","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","John A. Hendry","n/a","n/a","2016","Physician,"Self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","Pediatric Dentist","JHC,"LLC"","2016","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Michael P. Maraist","n/a","n/a","2016","Attorney,"Judice & Adley","PLC"","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Chris P. Rader","CEO","Rader Solutions Ltd","2016","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Chris P. Rader","Member","White Lake Cattle Co LLC","2016","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Chris P. Rader","Managing Member","RAK Holdings,"LLC"","2016","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Chris P. Rader","Managing Member","Quantum Real Estate,"LLC"","2016","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Chris P. Rader","Managing Member","Hardwear and Software LLC","2016","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Donald W. Washington","n/a","n/a","2016","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Darren E. Guidry","Partner","Jones Walker LLP","2016","Attorney,"Jones Walker LLP"","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Credit Officer"","Scott A. Ridley","n/a","n/a","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Banking Officer"","Jason P. Freyou","n/a","n/a","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Operations Officer"","Joseph B. Zanco","n/a","n/a","2016","n/a","n/a"
+"Home Bancorp,"Inc."","Asst. Secretary","n/a","n/a","n/a","2016","Executive Vice President,"Chief Financial Officer"","n/a"
+```

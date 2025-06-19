@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heart of Georgia Bancshares,"Inc."","Ailey,"GA"","2021","Donald M. Thigpen","n/a","58805","34.93%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Vidalia,"GA"","2021","Mount Vernon Bank 401KSOP Plan D71","n/a","24651","14.64%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Vidalia,"GA"","2021","Ronnie Green","n/a","8700","5.17%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Glenwood,"GA"","2021","G. M. Joiner,"Jr."","n/a","20000","11.88%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Mount Vernon,"GA"","2021","Christine Roller","n/a","17043","10.12%","n/a"
+"Heart of Georgia Bancshares,"Inc."","Vidalia,"GA"","2021","Vernon Sumner","n/a","13277","7.89%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heart of Georgia Bancshares,"Inc."","Chairman & CEO","Donald M. Thigpen","Director","n/a","2021","Retired Bank CEO","n/a"
+"Heart of Georgia Bancshares,"Inc."","President","D. Alan Thigpen","President & CEO","n/a","2021","President & CEO of Mount Vernon Bank","n/a"
+"Heart of Georgia Bancshares,"Inc."","President","D. Alan Thigpen","Director","n/a","2021","President & CEO of Mount Vernon Bank","n/a"
+"Heart of Georgia Bancshares,"Inc."","n/a","Mount Vernon Bank 401KSOP Plan D71","n/a","n/a","2021","n/a","n/a"
+"Heart of Georgia Bancshares,"Inc."","n/a","G.M. Joiner,"JR"","Chairman","n/a","2021","Retired Furniture store owner","n/a"
+"Heart of Georgia Bancshares,"Inc."","n/a","Ronnie Green","Director","n/a","2021","Retired Bank President","n/a"
+"Heart of Georgia Bancshares,"Inc."","Secretary","Heather Helms","CFO","n/a","2021","CFO of Mount Vernon Bank","n/a"
+```

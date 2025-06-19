@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Beatrice,"USA"","2019","Thomas A. Black,"III"","n/a","2699","21","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Menomonee Falls,"WI","USA"","2019","James & Doris Durdan Trust","n/a","1299","9.99","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Beatrice,"AL","USA"","2019","Claudia B. Smith","n/a","2679","21","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Monroeville,"AL","USA"","2019","Rebecca B. Snyder","n/a","2699","21","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Thomas A Black,"III"","Director","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Exec V Pres","Marshall Black","Exec V Pres","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Secretary","Rachael Boutwell","Exec V Pres","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Anna Laura Brown","Director","n/a","2019","Retired Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","CEO","Harvey J Gaston,"Jr."","CEO","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Harvey J Gaston,"Jr."","Director","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","President","Kevin Norris","President","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","None","Bill Rogers","Exec V Pres","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Bill Scruggs","Director","n/a","2019","Retired Insurance","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","None","Claudia B Smith","None","n/a","2019","Retired","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Kenneth M Smith","Director","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Chairman","Rebecca B Snyder","Chairman","n/a","2019","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Claire B Stallworth","Director","n/a","2019","Timber","n/a"
+```

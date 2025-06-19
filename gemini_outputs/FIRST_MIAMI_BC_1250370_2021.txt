@@ -1,0 +1,25 @@
+Here are the two CSV tables containing the extracted data from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Miami Bancorp,"Inc."","South Miami,"FL"","2021","Bruce Wirtz MacArthur","n/a","8015","9.20%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2021","James Henry Wirtz","n/a","6281","7.21%","n/a"
+"First Miami Bancorp,"Inc."","Burlington,"WI"","2021","Virginia MacArthur Jenner Trust 07/22/86","n/a","6015","6.90%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2021","Basomi & Compnay","n/a","6000","6.88%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2021","Karen W. Fix,"as Trustee of the Karen W. Fix 1998 Trust u/a/d 3/12/98"","n/a","5375","6.17%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2021","Peter R. Wirtz,"Trust of the Peter R. Wirtz 1998 Trust dated 10/9/1998 (1)"","n/a","10748","12.34%","n/a"
+"First Miami Bancorp,"Inc."","Scottsdale,"AR"","2021","Gail Wirtz Costello","n/a","5155.5","5.92%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Co-Chairman","Breakthru Beverage Group","2021","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","Chicago Blackhawks","2021","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","First Security Trust & Savings Bank","2021","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Vice President & Director","Bruce Wirtz MacArthur","Vice President","Wirtz Realty Company","2021","Chairman of the Board & CEO,"First National Bank of South Miami"","n/a"
+"First Miami Bancorp Inc.","Treasurer & Director","Drew A. Dammeier","n/a","n/a","2021","President,"FNBSM/EVP","First Security Trust and Savings Bank"","n/a"
+"First Miami Bancorp Inc.","Director","Arthur M. Wirtz,"III"","Executive Vice President","Breakthru Beverage Group","2021","Golf,"IL USA"","n/a"
+"First Miami Bancorp Inc.","Director","Daniel R. Wirtz","Vice-Chairman","Breakthru Beverage Group","2021","Chicago,"IL USA"","n/a"
+"First Miami Bancorp Inc.","None","Peter R. Wirtz","President","Bismarck Enterprises","2021","Chicago,"IL USA"","n/a"
+"First Miami Bancorp Inc.","Director","Edwin H. Callison,"Jr."","Executive Vice President","Breakthru Beverage Group","2021","Chicago,"IL USA"","n/a"
+```

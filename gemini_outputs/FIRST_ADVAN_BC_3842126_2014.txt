@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Advantage Bancorp","Salt Lake City,"UT"","2014","M3 Partners LP","Common Stock","306604","7.7%","n/a"
+"First Advantage Bancorp","Clarksville,"TN"","2014","First Advantage Bank ESOP Plan","Common Stock","362752","9.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Advantage Bancorp","CEO/Director","Earl O. Bradley,"III"","CEO (First Advantage Bank)","n/a","2014","n/a","n/a"
+"First Advantage Bancorp","President/Director","John T. Halliburton","President (First Advantage Bank)","n/a","2014","n/a","n/a"
+"First Advantage Bancorp","Executive Vice President (First Advantage Bank)","Jon R. Clouser","n/a","Tennessee Real Estate Group LLC","2014","n/a","n/a"
+"First Advantage Bancorp","Executive Vice President (First Advantage Bank)","Jon R. Clouser","n/a","Titsworth Slough Hunt Club,"KY Partnership"","2014","n/a","n/a"
+"First Advantage Bancorp","Chief Marketing & Delivery Channels Officer (First Advantage Bank)","Cindy D. Rudy","n/a","n/a","2014","n/a","n/a"
+"First Advantage Bancorp","CFO/Corporate Secretary","Gerald L. Cooksey,"Jr."","Chief Financial Officer (First Advantage Bank)","n/a","2014","n/a","n/a"
+"First Advantage Bancorp","n/a","William Lawson Mabry","Broker (Coldwell Banker - Conroy,"Marable","Holleman Clarksville","TN)"","Coldwell Banker - Conroy,"Marable","Holleman Clarksville","TN"","2014","Real Estate Developer","n/a"
+"First Advantage Bancorp","Director","William G. Beach","n/a","Beach Oil Co. Clarksville,"TN"","2014","Business Owner - Oil Sales","n/a"
+"First Advantage Bancorp","Director","Robert E. Durrett,"III"","n/a","Durrett Construction Clarksville,"TN"","2014","Real Estate/Land Developer","n/a"
+"First Advantage Bancorp","Director","Vernon M. Carrigan","n/a","Premier Medical Group Clarksville,"TN"","2014","Medical Doctor","n/a"
+"First Advantage Bancorp","Director","William H. Orgain","n/a","Orgain Building Supply Clarksville,"TN"","2014","Business Owner - Building Supplies","n/a"
+"First Advantage Bancorp","Director","David L. Watson","n/a","n/a","2014","Retired","n/a"
+"First Advantage Bancorp","Director","Michael E. Wallace","n/a","Thurman Campbell CPAs Clarksville,"TN"","2014","CPA,"CVA","PFS","MAC"","n/a"
+```

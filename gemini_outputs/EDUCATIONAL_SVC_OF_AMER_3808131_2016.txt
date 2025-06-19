@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2016","Educational Services of America,"Inc."","n/a","n/a","100%","3110197"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthEast Bank","Director/Chairman/President","John E. Arnold,"Jr"","CEO","South East Bancorp,"Inc."","2016","n/a","3110197"
+"SouthEast Bank","Director/Secretary/CEO","William T. Thompson","Chairman","South East Bancorp,"Inc."","2016","CFO/EVP","3110197"
+"SouthEast Bank","n/a","Tommy Schumpert","Director","n/a","2016","Director of South East Scholar Program","3110197"
+"SouthEast Bank","n/a","Leo Cooper","Independent Director","n/a","2016","Retired","3110197"
+"SouthEast Bank","n/a","Dwight Kessel","Independent Director","n/a","2016","Retired","3110197"
+"SouthEast Bank","n/a","John Griess","Independent Director","Holrob Commercial Realtors,"Inc."","2016","Realtor","3110197"
+"SouthEast Bank","n/a","Robert Rosenaum","Independent Director","Goodwill Industries","2016","President/CEO Emeritus","3110197"
+"SouthEast Bank","n/a","Jeffrey S. Smith","Independent Director","Omnicap Group,"LLC"","2016","President/Founder","3110197"
+"SouthEast Bank","Chief Operations Officer","Eric Stewart","n/a","n/a","2016","n/a","3110197"
+"SouthEast Bank","Chief Information Officer","Jeff Gibbs","n/a","South East Bank","2016","n/a","3110197"
+"SouthEast Bank","Chief Compliance and Risk Officer","T. Wayne Hood","n/a","SouthEast Bank","2016","n/a","3110197"
+"SouthEast Bank","EVP","Barbara Thomas","n/a","SouthEast Bank","2016","n/a","3110197"
+```

@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","Snellville,"GA"","2014","Deirdre Broadfoot Bowers","Common Stock","7396","14.46%","2228590"
+"Covington Capital Corporation","Collins,"MS"","2014","Mary Frances Buffington","Common Stock","3586","7.01%","2228590"
+"Covington Capital Corporation","Collins,"MS"","2014","Jack R. Gibson","Common Stock","3336","6.52%","2228590"
+"Covington Capital Corporation","Collins,"MS"","2014","John B. Pope,"Jr."","Common Stock","10179","19.89%","2228590"
+"Covington Capital Corporation","Magee MS","2014","Bobby T. Sullivan","Common Stock","9767","19.09%","2228590"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Director","Deirdre Broadfoot Bowers","Director","Covington County Bank","2014","Investments","2228590"
+"Covington Capital Corporation","Director","John B. Pope,"Jr."","President","Pope Co. Inc,","2014","Merchant","2228590"
+"Covington Capital Corporation","Director","John B. Pope,"Jr."","Director","Covington County Bank","2014","Merchant","2228590"
+"Covington Capital Corporation","Director","Bobby T. Sullivan","Owner","Sullivan Ready Mix","2014","Owner Sullivan Ready Mix","2228590"
+"Covington Capital Corporation","Director","Bobby T. Sullivan","Director","Covington County Bank","2014","Owner Sullivan Ready Mix","2228590"
+"Covington Capital Corporation","Director","Jack R. Gibson","Director","Covington County Bank","2014","Retired","2228590"
+"Covington Capital Corporation","Director","W. B,"Todd","Jr:"","Director","Covington County Bank","2014","Retired","2228590"
+```

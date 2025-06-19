@@ -1,0 +1,38 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","Estate of Dorothy Cook Way","n/a","150.00","0.18%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","John Daniel Way","n/a","5553.50","6.82%","n/a"
+"Planters First Bancorp","Alexandria,"Va."","2021","Mary Ann Way","n/a","1206.50","1.48%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","S A Way III","n/a","21260.50","26.09%","n/a"
+"Planters First Bancorp","Perry,"Ga."","2021","Robert Franklin Way","n/a","1266.00","1.55%","n/a"
+"Planters First Bancorp","Perry,"Ga."","2021","Robert F Way Family Trust","n/a","4098.00","5.03%","n/a"
+"Planters First Bancorp","Atlanta,"Ga."","2021","Elizabeth Way Chandler","n/a","3534.25","4.34%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","Felton Hatcher Way","n/a","3534.25","4.34%","n/a"
+"Planters First Bancorp","Atlanta,"Ga."","2021","Albert Glover Way","n/a","3534.25","4.34%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","Mary Lynde Way","n/a","235.00","0.29%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","R T Way","n/a","1707.50","2.10%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","Charlotte Way","n/a","3534.25","4.34%","n/a"
+"Planters First Bancorp","Hawkinsville,"Ga"","2021","Allene Daniel","n/a","4516.00","5.54%","n/a"
+"Planters First Bancorp","Warner Robins,"Ga."","2021","R Wayne Lowe","n/a","20082.00","24.65%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Planters First Bancorp","President\nDirector\nChairman\nBoard of Directors","Robert F. Way","EVP","Planters First Bank","2021","NONE","n/a"
+"Planters First Bancorp","Director\nChairman\nBoard of Directors","Robert F Way","EVP","Planters First Bank Board","2021","NONE","n/a"
+"Planters First Bancorp","Director\nVice President","John D. Way","EVP\nChairman","Planters First Bank Board","2021","NONE","n/a"
+"Planters First Bancorp","Director\nVice Chairman\nBoard of Directors","John W. Bembry,"DVM"","Director","Bembry Vet Clinic","2021","VETERINARIAN","n/a"
+"Planters First Bancorp","Director","Elizabeth W. Chandler","SVP Governmental F","Georgia Bankers Association","2021","SVP Governmental Relations\nGeorgia Bankers Association","n/a"
+"Planters First Bancorp","Director","W. Cole Woodroof","EVP","Planters First Bank","2021","NONE","n/a"
+"Planters First Bancorp","Director","Tommy Thompson Jr","Director","Planters First Bank","2021","Appraiser","n/a"
+"Planters First Bancorp","n/a","S A Way III","n/a","n/a","2021","NONE","n/a"
+"Planters First Bancorp","n/a","R.T. Way,"SR"","President","Way Finance Inc.","2021","Auto Dealership","n/a"
+"Planters First Bancorp","n/a","R.T. Way,"SR"","President","Way Brothers,"Inc."","2021","Auto Dealership","n/a"
+"Planters First Bancorp","n/a","R Wayne Lowe","Owner/ Operator","Lowe Toyota","2021","Auto Dealership","n/a"
+"Planters First Bancorp","NONE","Amy Still","CCO","Planters First Bank","2021","NONE","n/a"
+"Planters First Bancorp","NONE","Kay Watson","CFO","Planters First Bank","2021","NONE","n/a"
+"Planters First Bancorp","Chief Banking Officer","Dan Duchnowski","NONE","NONE","2021","NONE","n/a"
+"Planters First Bancorp","NONE","Russell Slade Jr.","Chief Informtion Officer","Planters First Bank","2021","NONE","n/a"
+"Planters First Bancorp","NONE","William Tinsley","President & CEO","Planters First Bank","2021","None","n/a"
+```

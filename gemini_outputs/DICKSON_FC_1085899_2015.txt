@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2015","Donald Richardson","n/a","4600","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2015","Carney B. Nicks,"Trust-"","n/a","17540","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2015","Donald Richardson,"Trustee"","n/a","646","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2015","CEDE & Co./Depository Trust Co.","common stock","22786","5.80%","1085899"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director","Jere Bass","Director","n/a","2015","Retired","1085899"
+"Dickson Financial Corporation","Director","Brenda Legg","Director","n/a","2015","Retired","1085899"
+"Dickson Financial Corporation","Director","Lee Marsh","Director","n/a","2015","Real Estate Developer","1085899"
+"Dickson Financial Corporation","Director","Tommy Marvin","Director","Taylor Funeral Home,"Inc."","2015","Mortician","1085899"
+"Dickson Financial Corporation","Director","Donald Richardson","Director","n/a","2015","President & CEO Bank of Dickson","1085899"
+"Dickson Financial Corporation","President & CEO","Donald Richardson","President & CEO","n/a","2015","President & CEO Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","David Shepard","Director","Community Pharmacy Care,"Inc."","2015","Pharmacist","1085899"
+"Dickson Financial Corporation","Director","Jamie Snyder","Director","n/a","2015","COO Bank of Dickson","1085899"
+"Dickson Financial Corporation","COO","Jamie Snyder","COO","n/a","2015","COO Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","Donnie Weiss","Director","n/a","2015","Sales Representative","1085899"
+"Dickson Financial Corporation","Director","Wayne McIntire","Director","n/a","2015","Retired","1085899"
+"Dickson Financial Corporation","Director","Tommy Nicks","Director","n/a","2015","Chairman & Trust Officer Bank of Dickson","1085899"
+"Dickson Financial Corporation","Chairman","Tommy Nicks","Chairman","n/a","2015","Chairman & Trust Officer Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","James E. Peeler","Director","n/a","2015","Retired","1085899"
+"Dickson Financial Corporation","Director","Dale Ragan","Director","n/a","2015","Real Estate Broker","1085899"
+```

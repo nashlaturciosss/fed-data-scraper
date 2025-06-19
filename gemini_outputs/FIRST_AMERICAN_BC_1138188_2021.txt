@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2021","John D. McLanahan,"Jr."","n/a","90390","27.14%"
+"First American Bancorp","Athens,"GA"","2021","John D. McLanahan,"Jr."","n/a","8991","2.70%"
+"First American Bancorp","Athens,"GA"","2021","John D. McLanahan,"Jr."","n/a","79298","23.81%"
+"First American Bancorp","Athens,"GA"","2021","John D. McLanahan,"Jr."","n/a","2101",".63%"
+"First American Bancorp","Athens,"GA"","2021","The McLanahan Children's Irv. Trust Agreement","n/a","79298","23.81%"
+"First American Bancorp","New York,"NY"","2021","CEDE and Co","n/a","20132","6.04%"
+"First American Bancorp","Gainesville,"GA"","2021","Catherine M. Nix","n/a","20000","6.01%"
+"First American Bancorp","Ponte Vedra Beach,"FL"","2021","John L. and Dorothy M. Watson","n/a","20856","6.26%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","Director","Maxine H. Burton","President","Burton & BURTON","2021","International Gift Retailer","n/a"
+"First American Bancorp","Director","Robert D. Heath","Trust Officer","n/a","2021","Retired President of the Bank","n/a"
+"First American Bancorp","Director","Craig Meeks","President","First American Bank","2021","President","n/a"
+"First American Bancorp","Director","T. Michael Devore","n/a","n/a","2021","President (Retired) DeVore & Johnson","n/a"
+"First American Bancorp","Director","John D. McLanahan,"Jr."","General Counsel","n/a","2021","Attorney","n/a"
+"First American Bancorp","Director","C. Rhodes McLanahan","CEO","n/a","2021","Chief Executive Officer First American Bank","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2021","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.A."","2021","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","Owner","Akins Ford","2021","Akins Ford","n/a"
+"First American Bancorp","Director","Dr. Catherine Marti","n/a","n/a","2021","Cardiologist","n/a"
+"First American Bancorp","Director","George G. Tribble","President","Benson's,"Inc."","2021","President","n/a"
+```

@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Four County Bancshares","Danville,"GA"","2017","Richard A. Dykes","Common Stock","45000","18.74%","n/a"
+"Four County Bancshares","Jeffersonville,"GA"","2017","William C. Humphries","Common Stock","30000","12.49%","n/a"
+"Four County Bancshares","Stone Mountain,"GA"","2017","Bruce E. Miller","Common Stock","22500","9.37%","n/a"
+"Four County Bancshares","Dublin,"GA"","2017","Roger W. Miller","Common Stock","22500","9.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Four County Bancshares","Chairman of Board of Directors,"VP & Treasurer"","Ruth Arnold","n/a","n/a","2017","n/a","n/a"
+"Four County Bancshares","Director,"Secretary"","Ruth Arnold","n/a","n/a","2017","n/a","n/a"
+"Four County Bancshares","Director","Rabun Faulk","n/a","n/a","2017","Attorney at Law General Counsel","n/a"
+"Four County Bancshares","Director,"Secretary"","Amy S. Orr","n/a","n/a","2017","President & CEO Four County Bank","n/a"
+"Four County Bancshares","Director,"President & CEO"","Amy S. Orr","n/a","n/a","2017","President & CEO Four County Bank","n/a"
+"Four County Bancshares","Director","Charles B. Hill","President","Hill Logging,"Inc."","2017","President (Hill Logging,"Inc.)"","n/a"
+"Four County Bancshares","Chairman of Board of Directors","Charles B. Hill","President","Hill Logging,"Inc."","2017","President (Hill Logging,"Inc.)"","n/a"
+"Four County Bancshares","Director","Lantz Rogers","n/a","n/a","2017","Retired","n/a"
+"Four County Bancshares","Director,"President & CEO"","Wallace Miller","n/a","Morris Bank","2017","Retired","n/a"
+"Four County Bancshares","Director","Wallace Miller","n/a","Morris Bank","2017","Retired","n/a"
+"Four County Bancshares","n/a","Richard A. Dykes","Vice President","Dykes Holdings LLC","2017","Everett Dykes Grassing Company,"Inc."","n/a"
+"Four County Bancshares","n/a","Richard A. Dykes","Vice President","RAD Contracting LLC","2017","Everett Dykes Grassing Company,"Inc."","n/a"
+"Four County Bancshares","n/a","Richard A. Dykes","Vice President","Asphalt Operations LLC","2017","Everett Dykes Grassing Company,"Inc."","n/a"
+"Four County Bancshares","n/a","William C. Humphries","n/a","n/a","2017","Retired","n/a"
+"Four County Bancshares","Director","Michael Kitchens","n/a","n/a","2017","Haeco","n/a"
+"Four County Bancshares","Director","James M Brown","n/a","n/a","2017","Vice President","n/a"
+"Four County Bancshares","Vice Pres/CCO Director","James M Brown","n/a","n/a","2017","Vice President","n/a"
+```

@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2016","The Estate of Wayne Shirley","Common Stock","13667","20.22%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2016","Betty A. Shirley","Common Stock","9255","13.69%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2016","Mary Grace Shirley JTC Betty A Shirley","Common Stock","180",".27%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2016","Mary Grace Shirley and Betty A Shirley","Common Stock","365",".54%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2016","George Patrick Shirley","Common Stock","4261","6.30%","1085992"
+"Citizens of Grainger County Corporation","Knoxville,"TN"","2016","Mary Grace Shirley","Common Stock","4001","5.92%","1085992"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens of Grainger County Corporation","Director","Greg Corum","Mgr.,"Meat Dept"","Cox & Wright Grocery","2015","Manager Meat Dept","n/a"
+"Citizens of Grainger County Corporation","Director","Ronald E. Davis","n/a","n/a","2015","Retired Banker","n/a"
+"Citizens of Grainger County Corporation","Director","J. Frank Godwin","Partner","G&M Farms","2015","Farmer","n/a"
+"Citizens of Grainger County Corporation","Director","J. Albert Hodges","n/a","n/a","2015","Retired","n/a"
+"Citizens of Grainger County Corporation","Director","Terry Johnson","VP","Grainger Doors","2015","Cabinet Mfg Jabo's Allwood Products","n/a"
+"Citizens of Grainger County Corporation","Director & President","George P. Shirley","n/a","n/a","2015","N/A","n/a"
+"Citizens of Grainger County Corporation","Director","Margaret A. Stapleton","n/a","n/a","2015","Retired Merchant","n/a"
+"Citizens of Grainger County Corporation","Secretary","Mary Jane Dalton","n/a","n/a","2015","Farmer","n/a"
+"Citizens of Grainger County Corporation","Principal Shareholder","Estate of Wayne Shirley**","n/a","n/a","2015","N/A","n/a"
+"Citizens of Grainger County Corporation","Principal Shareholder","Betty Shirley**","n/a","n/a","2015","N/A","n/a"
+"Citizens of Grainger County Corporation","N/A","Mary Grace Shirley***","n/a","n/a","2015","N/A","n/a"
+```

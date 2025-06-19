@@ -1,0 +1,32 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Oviedo,"Inc."","Winter Park,"FL"","2020","Anna Ondick","n/a","42,"912"","6.72%","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Oviedo,"Florida"","2020","Jonathan S. Lukas","n/a","35,"884"","5.62%","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Oviedo,"Florida"","2020","Arthur Evans","n/a","48,"267"","7.56%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Bernard O. Blackwood","President","Blackwood Construction","2020","Construction","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","President-Citizens Bank of Florida","Richard H. Lee","n/a","Lee Farms LLC","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","President-CBO Properties,"Inc."","Richard H. Lee","n/a","Lee Farms LLC","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director-Citizens Financial Part.,"Inc."","Richard H. Lee","n/a","Lee Farms LLC","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Vice Chair & Director","Anna Ondick","n/a","S.C. Condo","2020","Retired","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","n/a","David Duda","President & CEO","A Duda & Sons Inc.","2020","President & CEO of A Duda & Sons Inc","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Don Drummer","Retired","n/a","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director","W. Rex Clonts","President","Clonts Farms","2020","Farmer","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","n/a","Robert G. Martin","n/a","Neelco,"Inc."","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Louis P. Tulp","n/a","Axel Real Estate","2020","Real Estate Agent","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Chairman-Citizens Bank of Florida","Arthur F. Evans","President of","Nelson & Co.","2020","Mangement of Citrus and Property","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Chairman - СВО Properties,"Inc."","Arthur F. Evans","President of","Nelson & Co.","2020","Mangement of Citrus and Property","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Chairman- Citizens Financial Partners,"Inc"","Arthur F. Evans","President of","Nelson & Co.","2020","Mangement of Citrus and Property","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director-Citizens Bank of Florida","Don Jacobs","Retired","n/a","2020","Retired","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","President- Citizens Financial Partners Inc","Don Jacobs","Retired","n/a","2020","Retired","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Director - CВО Properties Inc","Don Jacobs","Retired","n/a","2020","Retired","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President","Terry Vargo","n/a","n/a","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President","Tim Slattery","n/a","n/a","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President/CFO","Gregory E. Smith","n/a","n/a","2020","None","n/a"
+"Citizens Bancorp of Oviedo,"Inc."","COO","Gregory E. Smith","n/a","n/a","2020","None","n/a"
+```

@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Bancshares,"Inc."","Lake Park,"GA"","2016","Larry Carter","Common Stock","17026","5.12%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2016","Cameron E. Hickman","Common Stock","16652","5.00%","n/a"
+"FMB Bancshares,"Inc."","Lakeland,"GA"","2016","Larry Lee","Common Stock","29309","8.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","Director/President & CEO","Farmers and Merchants Bank","2016","n/a","n/a"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","n/a","F&J,"LLC"","2016","n/a","n/a"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","n/a","PRY","2016","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","Owner","Heritage Builders Supply","2016","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","n/a","Windmill Properties","2016","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","n/a","JBJ,"LLC"","2016","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","George Lee","Chairman","Farmers and Merchants Bank","2016","Pharmacist","n/a"
+"FMB Bancshares,"Inc."","Director","George Lee","Pharmacist","Lakeland Drug Company","2016","Pharmacist","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Director","Farmers and Merchants Bank","2016","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Co-Owner","Lutz,"Brown","Peagler & Manley"","2016","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","n/a","Four Chicks,"Inc"","2016","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","n/a","Cuttings Farm,"LLC"","2016","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","n/a","LBM Investment","2016","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","Director","Farmers and Merchants Bank","2016","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","President","Lee Container Corp.","2016","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","n/a","Lee Property Holdings","2016","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Director","Farmers and Merchants Bank","2016","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Owner","Cook County Timber","2016","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","n/a","F&J,"LLC"","2016","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Director","Farmers and Merchants Bank","2016","Farmer","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Farmer / Owner","Longbridge Peanut","2016","Farmer","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","n/a","Planters Warehouse","2016","Farmer","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","n/a","Watson Farms","2016","Farmer","n/a"
+```

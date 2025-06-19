@@ -1,0 +1,35 @@
+"Here are the two requested CSV tables","extracted from the provided document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"," RSSD_ID"
+"Lowndes Barcshares,"Inc."","Morven,"GA"","2016","John W. Langdale,"Jr."","n/a","12600","49.8%","3839340"
+"Lowndes Barcshares,"Inc."","Valdosta,"GA"","2016","John W. Langdale,"III"","n/a","12600","49.8%","3839340"
+"Lowndes Barcshares,"Inc."","n/a","2016","John W. Langdale,"Jr. and John W. Langdale","III as Co-Trustees of Trust B-1 FBO Harley Langdale","Jr. and the Descendants of John W. Langdale dated December 30","2009"","n/a","100","0.4%","3839340"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commercial Banking Company","Director,"Chairman"","John W. Langdale,"Jr."","Chairman,"CEO"","The Langdale Company","2016","n/a","3839340"
+"Langdale Farms,"LLC"","Operating Manager","John W. Langdale,"Jr."","n/a","n/a","2016","n/a","3839340"
+"Kinderlou Forest Development,"LLC"","Chairman,"Operating Manager"","John W. Langdale,"Jr."","n/a","n/a","2016","n/a","3839340"
+"Southland Forest Products,"Inc."","Director,"Chairman"","John W. Langdale,"Jr."","n/a","n/a","2016","n/a","3839340"
+"John W. Langdale,"Jr. Trust"","Co-Trustee","John W. Langdale,"Jr."","n/a","n/a","2016","n/a","3839340"
+"Harley Langdale Jr. Foundation,"Inc."","Director,"Vice-President"","John W. Langdale,"Jr."","n/a","n/a","2016","n/a","3839340"
+"Commercial Banking Company","Director,"President"","John W. Langdale,"III"","Director","The Langdale Company","2016","n/a","3839340"
+"Langdale Farms,"LLC"","Director,"Member Manager"","John W. Langdale,"III"","n/a","n/a","2016","n/a","3839340"
+"Kinderlou Forest Development,"LLC"","Operating Manager","John W. Langdale,"III"","n/a","n/a","2016","n/a","3839340"
+"Southland Forest Products,"Inc."","Director,"Vice-President"","John W. Langdale,"III"","n/a","n/a","2016","n/a","3839340"
+"John W. Langdale,"Jr. Trust"","Co-Trustee","John W. Langdale,"III"","n/a","n/a","2016","n/a","3839340"
+"Harley Langdale Jr. Foundation,"Inc."","Chairman,"President"","John W. Langdale,"III"","n/a","n/a","2016","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director","Larry K. Fudge","n/a","n/a","2016","n/a","3839340"
+"Commercial Banking Company","Director","Larry K. Fudge","n/a","n/a","2016","n/a","3839340"
+"Langdale Farms,"LLC"","Director,"Vice President"","Larry K. Fudge","n/a","n/a","2016","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory J. Miller","n/a","n/a","2016","n/a","3839340"
+"Commercial Banking Company","Director","Gregory J. Miller","n/a","n/a","2016","n/a","3839340"
+"Langdale Farms,"LLC"","Director,"Member Manager"","Gregory J. Miller","n/a","n/a","2016","n/a","3839340"
+"Lowndes Bancshares,"Inc."","Director","Donald K. Warren","n/a","n/a","2016","n/a","3839340"
+"Commercial Banking Company","Director","Donald K. Warren","n/a","n/a","2016","n/a","3839340"
+"Langdale Farms,"LLC"","Director,"Asst Secy/Treas."","Donald K. Warren","n/a","n/a","2016","n/a","3839340"
+"Commercial Banking Company","Director","George D. Russell","n/a","n/a","2016","n/a","3839340"
+"Harley Langdale Jr. Foundation,"Inc."","Director","George D. Russell","n/a","n/a","2016","n/a","3839340"
+```

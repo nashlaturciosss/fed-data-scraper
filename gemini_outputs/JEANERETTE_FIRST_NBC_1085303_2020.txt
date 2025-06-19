@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","n/a","2020","William S. Patout,"III Estate"","Common Stock","1478","12.15%","n/a"
+"Jeanerette First National Bancorp,"Inc."","n/a","2020","Patricia Wentrcek","Common Stock","791","6.50%","n/a"
+"Jeanerette First National Bancorp,"Inc."","n/a","2020","Venetia M Patout","Common Stock","1028","8.45%","n/a"
+"Jeanerette First National Bancorp,"Inc."","n/a","2020","Loretta Richard","Common Stock","840","6.90%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Director","n/a","2020","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Main Street Property","2020","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Napale Properties","2020","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Sorrell Land Company","2020","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Charenton Crawfish Farm,"LLC"","2020","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Chairman","Samuel B. Bourgeois","Director","Linden Real Estate","2020","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Chairman","Samuel B. Bourgeois","Director","RBB Interests,"LLC"","2020","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Chairman","Samuel B. Bourgeois","Director","Bee's Partnership","2020","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Chairman","Samuel B. Bourgeois","Director","Deserta Properties","2020","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Vice-Chairman","Bret Bishop","Director","Chaney Lumber Co","2020","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc."","Vice-Chairman","Bret Bishop","Director","Cypremort St Lots","2020","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc."","Vice-Chairman","Bret Bishop","Director","Dumbbells and Yoga Pants LLC","2020","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc."","Secretary","Damon Migues","President,"CEO & Director"","Dumbbells and Yoga Pants LLC","2020","CEO/FNB of Jeanerette","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","M. Bofill Duhe,"APLC"","2020","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","M. Bofill Duhe Family Foundation","2020","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","Bo Duhe Community Fund,"Non-Profit"","2020","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","Bo Duhe Campaign","2020","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Harry Patin,"Jr."","Director","n/a","2020","Insurance Broker","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2016","B.W. Rollins Children's Trust","Common Stock","36019","39.60%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2016","Rebecca R. Creel*","Common Stock","11939","13.12%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2016","Rebecca R. Creel*","Common Stock","50","0.05%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2016","Patricia R. Duke*","Common Stock","12040","13.24%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2016","Patricia R. Duke*","Common Stock","55","0.06%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2016","Jennifer R. Thompson*","Common Stock","12040","13.24%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2016","Judith F. Wilson","Common Stock","7694","8.46%","n/a"
+"Marion County Bancshares,"Inc."","Ellenton,"FL"","2016","John R. and Mary Lee Rollins","Common Stock","7572","8.32%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion County Bancshares,"Inc."","Director,"Chairman of the Board"","B.W. Rollins","n/a","Rollins Farm,"LLC"","2016","Farmer","n/a"
+"Marion County Bancshares,"Inc."","Director,"COO"","Patricia R. Duke*","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director,"President"","Brent Thompson","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Jennifer R. Thompson*","n/a","n/a","2016","Teacher","n/a"
+"Marion County Bancshares,"Inc."","Director","Rebecca R. Creel*","n/a","n/a","2016","Dietician","n/a"
+"Marion County Bancshares,"Inc."","CFO","Scott D. Canterbury","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Dwayne R. Lewis","n/a","River Birch Homes","2016","Manufacturing","n/a"
+"Marion County Bancshares,"Inc."","Director","Robert F. Page","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP,"Chief Loan Officer"","Dale McCreless","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP,"Loan Officer"","Jill Cox","n/a","n/a","2016","n/a","n/a"
+"Marion County Bancshares,"Inc."","Cashier","Sheila Peoples","n/a","n/a","2016","n/a","n/a"
+```

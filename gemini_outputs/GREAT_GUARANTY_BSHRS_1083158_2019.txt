@@ -1,0 +1,27 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Great Guaranty Bancshares,"Inc."","Baton Rouge,"LA"","2019","Henry D. H. Olinde,"Jr."","Common Stock","11626","8%","n/a"
+"Great Guaranty Bancshares,"Inc."","New Roads,"LA"","2019","John L. Ewing","Common Stock","11288","8%","n/a"
+"Great Guaranty Bancshares,"Inc."","New Roads,"LA"","2019","Michael Chad Soprano","Common Stock","10438","8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Great Guaranty Bancshares,"Inc."","Director","Hall L. Davis","Owner","Hall Davis Funeral Home","2019","Hall Davis & Son Funeral Home Owner","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Hall L. Davis","Owner","Heavenly Gates Cemetary","2019","Hall Davis & Son Funeral Home Owner","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Dr. Donald W. Doucet","Employee","Baton Rouge Clinic","2019","Physician","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","John Lane Ewing","President/Owner","Ewings of New Roads,"Inc."","2019","Merchant","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","John Lane Ewing","President/Owner","Ewings of Livonia,"LLC"","2019","Merchant","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","John Lane Ewing","Managing Member","JAJ Enterprises,"LLC"","2019","Merchant","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","John C. Hopewell,"III"","Managing Partner","Hopewell Law Firm,"LLC"","2019","Attorney","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","John C. Hopewell,"III"","President/Managing Member","Certain Title,"LLC"","2019","Attorney","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Henry D. H. Olinde,"Jr."","Managing Member","Olinde & Mercer,"LLC"","2019","Attorney","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Henry D. H. Olinde,"Jr."","Director","B. Olinde & Sons","2019","Attorney","n/a"
+"Great Guaranty Bancshares,"Inc."","President & CEO","J. Wade O'Neal,"III"","n/a","n/a","2019","n/a","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Francis Gregory Roy","Managing Partner","P & G Roy Farms","2019","P & G Roy Farms Owner/Manager","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Michael Chad Soprano","Owner","Soprano's Supermarket","2019","Soprano's Supermarket Owner","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Collis Temple,"Jr."","Owner","Collis Temple Contractors","2019","Collis Temple Contractors","n/a"
+"Great Guaranty Bancshares,"Inc."","Director","Collis Temple,"Jr."","CEO","Harmony Center,"Inc."","2019","Collis Temple Contractors","n/a"
+```

@@ -1,0 +1,21 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FSB BANCSHARES,"INC."","Church Point,"Louisiana"","2018","Estate of Francis Burleigh,"Jr."","n/a","13300","25.99%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FSB BANCSHARES,"INC"","Director","Francis Burleigh,"III"","Sales Representative","J&M Industires","2018","Salesman","n/a"
+"FSB BANCSHARES,"INC"","Director","Jeff Daigle","Owner & Manager","n/a","2018","Convenience Store","n/a"
+"FSB BANCSHARES,"INC"","Director","Alfred Daigle","n/a","n/a","2018","Retired","n/a"
+"FSB BANCSHARES,"INC"","Director","Ann Voitier","Attorney","n/a","2018","Attorney","n/a"
+"FSB BANCSHARES,"INC"","Director","Thomas Murrel","n/a","n/a","2018","Retired","n/a"
+"FSB BANCSHARES,"INC"","Director","Steve Barry","n/a","n/a","2018","Retired","n/a"
+"FSB BANCSHARES,"INC"","Director","George Brouillette","President","Evangeline Brokerage","2018","Lumber Yard","n/a"
+"FSB BANCSHARES,"INC"","Director","Phillip Smith","General Manager","Jeff Davis Living Cente","2018","Nursing Home","n/a"
+"FSB BANCSHARES,"INC"","Chairman,"President & CEO"","Daniel Domingue","Chairman,"President & CEO"","n/a","2018","Banker","n/a"
+"FSB BANCSHARES,"INC"","Secretary/Treasurer","Troy Kibodeaux","Ex. VP & CFO","n/a","2018","Banker","n/a"
+"FSB BANCSHARES,"INC"","Vice President","Christine Benoit","Ex. VP","n/a","2018","Banker","n/a"
+```

@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FOURTH STREET BANKING COMPANY","North Palm Beach,"FL"","2019","SME Children LP","common","581637","5.18%","n/a"
+"FOURTH STREET BANKING COMPANY","Miami Beach,"FL"","2019","Bocar Family Holdings Limited Partnership","common","995892","8.92%","n/a"
+"FOURTH STREET BANKING COMPANY","St. Petersburg,"FL"","2019","Kijomo,"LLLP"","n/a","806832","7.19%","n/a"
+"FOURTH STREET BANKING COMPANY","St. Petersburg,"FL"","2019","Richard D. Wilkes,"DVM"","common","641686","5.72%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Fourth Street Banking Company","Director & Vice Chairman","William B. McQueen","Partner/Attorney","Legacy Protection Lawyers,"LLP"","2019","Partner/Attorney","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","William B. McQueen","Partner/Attorney","Legacy Protection Lawyers,"LLP"","2019","Partner/Attorney","3345065"
+"Fourth Street Banking Company","Chief Executive Officer","Christopher S. Moench","Chief Executive Officer","Directed Capital Resources,"LLC"","2019","n/a","3345065"
+"Fourth Street Banking Company","Chief Executive Officer","Christopher S. Moench","Chief Executive Officer","Anchor Insurance Holdings,"Inc."","2019","n/a","3345065"
+"Fourth Street Banking Company","Chief Executive Officer","Christopher S. Moench","Chief Executive Officer","THD LLC","2019","n/a","3345065"
+"Fourth Street Banking Company","Chief Executive Officer","Christopher S. Moench","Chief Executive Officer","THD II LLC","2019","n/a","3345065"
+"Fourth Street Banking Company","Director & Vice Chairman","Christopher S. Moench","Chief Executive Officer","Directed Capital Resources,"LLC"","2019","n/a","3345065"
+"Fourth Street Banking Company","Director & Vice Chairman","Christopher S. Moench","Chief Executive Officer","Anchor Insurance Holdings,"Inc."","2019","n/a","3345065"
+"Fourth Street Banking Company","Director & Vice Chairman","Christopher S. Moench","Chief Executive Officer","THD LLC","2019","n/a","3345065"
+"Fourth Street Banking Company","Director & Vice Chairman","Christopher S. Moench","Chief Executive Officer","THD II LLC","2019","n/a","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Richard D. Wilkes,"DVM"","President","Anderson Ventures,"Inc."","2019","Business Owner","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Frederick L. Bickley","President","Bickley Realty Advisors LLC","2019","Real Estate Investor","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Ronald J. Campbell","Chief Exectutive","Torch View,"LLC"","2019","Business Executive","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Craig H. Sher","Retired Executive Chairman","The Sembler Company","2019","Business Executive","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","John W. Savage","Managing Director","Directed Capital Resources,"LLC"","2019","Senior Executive","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Kern M. Davis","President","Pathology Associates,"PA"","2019","Medical Doctor","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Kern M. Davis","Director","United Insurance Holdings Corp","2019","Medical Doctor","3345065"
+"Fourth Street Banking Company","Director & Chairman of the Board","Neil W. Savage","n/a","n/a","2019","Retired Banker","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Neil W. Savage","n/a","n/a","2019","Retired Banker","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","James A. Montgomery,"Jr."","n/a","n/a","2019","Investment Manager","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Christian D. Ruppel","General Mgr of Wage and Corporate Disbursement","Green Dot Corporation","2019","Entrepreneur","3345065"
+"Fourth Street Banking Company","Director - Freedom Bank","Dennis G. Ruppel","Chairman","American Capital Assurance Corporation","2019","Insurance Co Executive","3345065"
+"Fourth Street Banking Company","CEO - Freedom Bank","Cathy P. Swanson","n/a","n/a","2019","Bank CEO","3345065"
+"Fourth Street Banking Company","CFO - Freedom Bank","C. Peter Bardin","n/a","Bardin LLC","2019","Bank CFO","3345065"
+```

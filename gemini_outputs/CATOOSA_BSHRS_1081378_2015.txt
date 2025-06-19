@@ -1,16 +1,14 @@
-```csv
+```text
 SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CATOOSA BANCSHARES,"INC."","Lookout Mtn.","2015","Joseph M. Haskins,"M.D."","n/a","7","100.00%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Catoosa Bancshares,"Inc."","Lookout Mtn.,"GA"","2015","Joseph M. Haskins,"M.D."","n/a","7","100.00%","n/a"
 INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CATOOSA BANCSHARES,"INC."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","None","2015"
-"CATOOSA BANCSHARES,"INC."","Secretary,"Director"","Rebecca A. Haskins","Director","None","2015"
-"CATOOSA BANCSHARES,"INC."","Vice Chairman,"Vice Pres. Director"","A. Russell Friberg,"Jr."","Vice Chairman,"Director"","Heritage Funeral Home,"LP Consultant"","2015"
-"CATOOSA BANCSHARES,"INC."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","None","2015"
-"CATOOSA BANCSHARES,"INC."","Secretary,"Director"","Rebecca A. Haskins","Director","None","2015"
-"CATOOSA BANCSHARES,"INC."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","None","2015"
-"CATOOSA BANCSHARES,"INC."","Secretary,"Director"","Rebecca A. Haskins","Director","None","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Catoosa Bancshares,"Inc."","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2015","Banker","80936"
+"Catoosa Bancshares,"Inc."","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2015","None","80936"
+"Catoosa Bancshares,"Inc."","Vice Chairman,"Vice Pres","Director"","A. Russell Friberg,"Jr."","Vice Chairman,"Director"","Heritage Funeral Home,"LP"","2015","Funeral Consultant","80936"
+"Capital Bank","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2015","Banker","80936"
+"Capital Bank","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2015","None","80936"
+"Capital Bank","Chairman,"President and Director"","Joseph M. Haskins,"M.D."","Chairman,"CEO and Director"","n/a","2015","Banker","80936"
+"Capital Bank","Secretary,"Director"","Rebecca A. Haskins","Director","n/a","2015","None","80936"
 ```

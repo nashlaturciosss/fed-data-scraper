@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Tallahassee,"FL"","2020","Capital City Bank Group,"Inc."","Common","31200","19.47%","n/a"
+"First Peoples Bankshares,"Inc."","Greenville,"GA"","2020","Ann A. Hill","Common","21441","13.38%","n/a"
+"First Peoples Bankshares,"Inc."","Pine Mountain,"GA"","2020","Mack H. Clements,"MD"","Common","13645","8.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/CEO","Carlisle Service Company,"LLC"","2020","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/CEO","Carlisle Construction Company,"LLC"","2020","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President / CEO","Shiloh Investment property","2020","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President / CEO","Tower Rock Raceway,"LLC"","2020","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director","Chance Carlisle","President/ CEO","Valley Pallet and Crating,"LLC"","2020","Construction","n/a"
+"First Peoples Bankshares,"Inc."","VP/SLO Executive","Doug Etheridge","n/a","n/a","2020","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Alex A. Hill","General Partner","Hill Family Holdings,"LLLP"","2020","Retired","n/a"
+"First Peoples Bankshares,"Inc."","Director","Alex A. Hill","Owner","Hila Holdings,"LLC"","2020","Retired","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Yellow Jacket Rivers Rats,"LLC"","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Partner","Pine Mountain Flyers","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Charles Kimbrough","Owner","Cotton Alley Holdings,"LLC"","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","Partner","Camp Investments,"LP"","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","President","Camp Investments,"(G.P.)","Inc."","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director","Lovell E. Camp","Partner","Premier South Investments,"LLC"","2020","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Secretary Director","Jane J. Lawson","Secretary","Jenkins Company","2020","Banking","n/a"
+"First Peoples Bankshares,"Inc."","VP/CFO Executive","J. Randal McKoon","Co-Owner","CaCo Management","2020","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director","Sally Sharpless","n/a","n/a","2020","Retired","n/a"
+"First Peoples Bankshares,"Inc."","President","Charles Sweat","n/a","n/a","2020","Banking","n/a"
+```

@@ -1,0 +1,23 @@
+Here are the two CSV tables as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LINCOLN BANCSHARES INC","Seneca,"SC"","2023","Patricia Nolan","Common Stock","665","6.43%","n/a"
+"LINCOLN BANCSHARES INC","Abbeville,"SC"","2023","Nancy L Lovelady","Common Stock","525","5.07%","n/a"
+"LINCOLN BANCSHARES INC","Watkinsville,"GA"","2023","Alice Marie Kavouklis","Common Stock","777","7.51%","n/a"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2023","Virginia M Turner,"Trustee"","Common Stock","590","5.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LINCOLN BANCSHARES INC","Director","Thomas Brittan Hammond","Toombs District Superior Court Judge","n/a","2023","Toombs District Superior Court Judge","n/a"
+"LINCOLN BANCSHARES INC","Director","Patricia A Nolan","n/a","n/a","2023","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director,"Chairman"","John S Spratlin III","Partner","Spratlin Hardware Company","2023","Partner-Hardware Company","n/a"
+"LINCOLN BANCSHARES INC","n/a","Virginia M Turner,"Trustee"","Shareholder","Farmers State Bank","2023","Retired","n/a"
+"LINCOLN BANCSHARES INC","President/CEO","James Bruce Turner","Director","Farmers State Bank","2023","n/a","n/a"
+"LINCOLN BANCSHARES INC","Director","Alice Marie Kavouklis","Director","Farmers State Bank","2023","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Nancy Lovelady","Director","Farmers State Bank","2023","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO","Peanuts Inc.","2023","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","Partner","SBKC RE Holdings LLC","2023","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","Partner","Sparkle Wash LLC","2023","Laundry/Car Wash","n/a"
+```

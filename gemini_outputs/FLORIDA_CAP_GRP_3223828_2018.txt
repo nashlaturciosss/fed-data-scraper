@@ -1,0 +1,25 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Winter Park,"USA"","2018","William Heavener,"Individually"","Common Stock","8694951","1.41%","n/a"
+"Florida Capital Group,"Inc."","Winter Park,"USA"","2018","William Heavener,"Individually"","Common Stock","323870468","52.49%","n/a"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL USA"","2018","James T Katsur","Common Stock","74727065","12.11%","n/a"
+"Florida Capital Group,"Inc."","Tampa,"FL USA"","2018","W. Andrew Krusen,"Jr."","Common Stock","43889903","7.11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Bank,"N.A."","Director","Charles E. Hughes,"Jr."","Director","n/a","2018","Retired Banking Executive","n/a"
+"Florida Capital Bank,"N.A."","Director","Richard R. Dostie","President","Spartan Development Grp Inc.","2018","Real Estate Developer","n/a"
+"Florida Capital Bank,"N.A."","CEO","J. Malcolm Jones,"Jr."","President","n/a","2018","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Chairman of the Board","W. Andrew Krusen,"Jr."","Officer & Director","Dominion Financial Group,"Inc."","2018","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","P. Bruce Culpepper","Director","Culpepper Kurland,"PLLC"","2018","Attorney","n/a"
+"Florida Capital Bank,"N.A."","Director","M.G. Sanchez","n/a","n/a","2018","Retired Banking Executive/Consultant","n/a"
+"Florida Capital Bank,"N.A."","Director","James W. Heavener","President/Owner","The Heavener Company","2018","Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","Dr. James T. Katsur","Officer & Director","Katsur Management Group,"Inc."","2018","n/a","n/a"
+"Florida Capital Bank,"N.A."","Director","Mark Johnson","Director","n/a","2018","n/a","n/a"
+"Florida Capital Bank,"N.A."","Director","Glenn W. Jones,"Jr."","Director","CFO/Fintech","2018","Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","Alexander M. Crenshaw","Director","n/a","2018","Investor","n/a"
+"Florida Capital Bank,"N.A."","CFO","T. Keith Perry","EVP","n/a","2018","Secretary and CFO","n/a"
+```

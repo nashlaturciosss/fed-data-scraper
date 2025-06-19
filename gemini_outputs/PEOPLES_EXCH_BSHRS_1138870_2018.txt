@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2018","Thomas A. Black,"III"","n/a","2699","21","1138870"
+"Peoples Exchange Bancshares,"Inc."","Menomonee Falls,"WI"","2018","James & Doris Durdan Trust","n/a","1299","9.99","1138870"
+"Peoples Exchange Bancshares,"Inc."","Beatrice,"AL"","2018","Claudia B. Smith","n/a","2679","21","1138870"
+"Peoples Exchange Bancshares,"Inc."","Monroeville,"AL"","2018","Rebecca B. Snyder","n/a","2699","21","1138870"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Exchange Bancshares,"Inc."","Director","Thomas A Black,"III"","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Exec V Pres","Marshall Black","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Exec V Pres","Rachael Boutwell","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Director","Anna Laura Brown","n/a","n/a","2018","Retired Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","CEO","Harvey J Gaston,"Jr."","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Director","Harvey J Gaston,"Jr."","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","President","Kevin Norris","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Exec V Pres","Bill Rogers","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Director","Bill Scruggs","n/a","n/a","2018","Retired Insurance","1138870"
+"Peoples Exchange Bancshares,"Inc."","Director","Kenneth M Smith","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Chairman","Rebecca B Snyder","n/a","n/a","2018","Banker","1138870"
+"Peoples Exchange Bancshares,"Inc."","Director","Claire B Stallworth","n/a","n/a","2018","Timber","1138870"
+```

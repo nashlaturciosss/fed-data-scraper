@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2016","A. P. Gibbs and Sandra G. Gibbs,"JT Tenants"","Common Stock","125550","12.63%","2552400"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2016","J Lamar Roberts","Common Stock","54310","5.46%","2552400"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2016","Marlene Sumner","Common Stock","56434","5.68%","2552400"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2016","Ernest and Jimmie Peeples","Common Stock","74885","7.53","2552400"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Bancshares,"Inc."","Director & Chairman","A.P. Gibbs","Director & Chairman","First National Bank of Pasco","2016","Retired-Attorney","n/a"
+"Florida Bancshares,"Inc."","Director","John E. Henson","Owner-","John E. Henson,"CPA"","2016","Certified Public Accountant","n/a"
+"Florida Bancshares,"Inc."","Director","Marlene H. Mann","n/a","n/a","2016","Retired Dental Office Manager","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Jovita Insurance,"Inc"","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Paul Midilli Realty,"Inc"","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Four M Properties,"Inc"","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Economy Insurance","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Mart,"Inc."","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director-Vice Chairman","Paul P. Midilli","President-","Midilli Enterprises Inc","2016","Realtor Insurance Salesman Citrus Owner","n/a"
+"Florida Bancshares,"Inc."","Director","Ernest L. Peeples","Owner-","Peeple Groves","2016","Citrus Grower","n/a"
+"Florida Bancshares,"Inc."","Director","Stephen D Carle","Owner-","Hodges & Carle P.A.","2016","Attorney","n/a"
+"Florida Bancshares,"Inc."","Director","Glen Greenfelder","n/a","n/a","2016","Retired Attorney","n/a"
+"Florida Bancshares,"Inc."","President Director","Steve Hickman","n/a","n/a","2016","Banker","n/a"
+"Florida Bancshares,"Inc."","Treasurer","Kerry M Westbrook","n/a","n/a","2016","Banker","n/a"
+"Florida Bancshares,"Inc."","Secretary","Jody Grenville","n/a","n/a","2016","Banker","n/a"
+```

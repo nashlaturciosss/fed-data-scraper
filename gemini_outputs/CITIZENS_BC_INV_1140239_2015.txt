@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2015","Cynthia McClard","n/a","8227","28.08%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2015","Charles E. Darnell","n/a","2277","7.77%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2015","Mike Reese","n/a","2510","8.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Director/Vice President","Charles E. Darnell","Director/Vice Chairman","None","2015","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/Treasurer","Mike Reese","Director","MWR Enterprises,"Inc."","2015","Retail/Grocery","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Director/Secretary","DT McCall Partnership","2015","Retail/Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Director/Secretary","McCall Realty Co. Partenship","2015","Retail/Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","Director","BD Polston & Son Bldg Supply Partnership","2015","Retail/Bldg Supply","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","Director/V-President","Clinical Management Consultants","2015","Consulting","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Gail Srygley","Director","None","2015","Education","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Ransom Jones","Director","None","2015","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/Secretary","Joe Carter","Director/President","None","2015","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/President/ CEO","Peter Williston","Director/Chairman/CEO","None","2015","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","CFO","Arthur Taylor,"Jr."","EVP & CFO","None","2015","Banking","n/a"
+```

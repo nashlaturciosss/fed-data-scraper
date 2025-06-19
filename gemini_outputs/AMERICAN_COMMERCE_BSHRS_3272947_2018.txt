@@ -1,17 +1,27 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Commerce Bancshares,"Inc."","Northbrook","2018","Bixby Bridge Financial Trust,"u/t/a"","Common Stock","4271335","99.98%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Northbrook,"IL"","2018","Bixby Bridge Financial Trust,"u/t/a"","Common Stock","4271335","99.98%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","Director & Chairman","Bixby Bridge Financial Trust u/t/a dated July 19,"2012"","2018"
-"American Commerce Bancshares,"Inc."","Director","J. William Richardson","Director","Richardson Family,"LLC"","2018"
-"American Commerce Bancshares,"Inc."","Director","John Steele","Director","n/a","2018"
-"American Commerce Bancshares,"Inc."","Director & CEO","David A. Tate","Director & CEO","n/a","2018"
-"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Director","Executive Director,"Florida Osteopathic Medical Association"","2018"
-"American Commerce Bancshares,"Inc."","Director","Raymond Burrell","Director & Marketing Coordinator","n/a","2018"
-"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","Director","n/a","2018"
-"American Commerce Bancshares,"Inc."","Treasurer","Robert D. Koncerak","EVP/COO-CFO","n/a","2018"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","n/a","Bixby Bridge Financial Trust","2018","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","n/a","Magthan,"LLC"","2018","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","n/a","Lincolnshire Associates II,"Ltd."","2018","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","n/a","Bixby Bridge Capital,"LLC"","2018","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director & Chairman","David D. Colburn","n/a","DDC 2009 Irrevocable Trust","2018","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director","J. William Richardson","n/a","Richardson Family,"LLC"","2018","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Director","J. William Richardson","n/a","Richardson Land Holdings,"LLC"","2018","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Director","John Steele","n/a","n/a","2018","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Director & CEO","David A. Tate","n/a","n/a","2018","N/A","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Executive Director","Florida Osteopathic Medical Association","2018","Business Executive & Realtor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","Stephen R. Winn Realty Corporation","2018","Business Executive & Realtor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","Andrew Jackson Insurance,"LLC"","2018","Business Executive & Realtor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","East Park Fortress,"LLC"","2018","Business Executive & Realtor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Raymond Burrell","n/a","n/a","2018","Retired Bank President","n/a"
+"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","n/a","Summit,"LLC"","2018","Retired Bank President","n/a"
+"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","n/a","Angel Aircraft,"LLC"","2018","Retired Bank President","n/a"
+"American Commerce Bancshares,"Inc."","Treasurer","Robert D. Koncerak","n/a","Bankforward Consulting,"LLC"","2018","N/A","n/a"
+"American Commerce Bancshares,"Inc."","Treasurer","Robert D. Koncerak","n/a","Keyhole Properties,"LLC"","2018","N/A","n/a"
 ```

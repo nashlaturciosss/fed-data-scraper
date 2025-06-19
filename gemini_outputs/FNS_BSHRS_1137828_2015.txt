@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2015","JOHN W GAY,"JR TRUST"","Common Stock","52490","5.32%","1137828"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2015","J W GAY,"III & MAURINE GAY CO-TRUSTEE"","Common Stock","52490","5.32%","1137828"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2015","JOHN W GAY,"III"","Common Stock","6534","0.66%","1137828"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2015","MAURINE G GAY TRUST","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","Scottsboro,"AL"","2015","JOHN W GAY,"III TRUSTEE"","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Alan K. Gay","Common Stock","18793","1.90%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Alan K. Gay Trust","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Alan K Gay Trustee","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Sharon A. Gay","Common Stock","16858","1.71%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Sharon A. Gay Trust","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","Atlanta,"GA"","2015","Sharon A. Gay Trustee","Common Stock","45000","4.57%","1137828"
+"FNS Bancshares,"Inc."","El Pas,"TX"","2015","Leigh Ponsford Lovelady","Common Stock","49333","5.01%","1137828"
+"FNS Bancshares,"Inc."","El Paso,"TX"","2015","Leigh Ponsford Loveleady Family Trust","Common Stock","23840","2.42%","1137828"
+"FNS Bancshares,"Inc."","El Paso,"TX"","2015","Leigh Ponsford Lovelady,"Trusstee"","Common Stock","23840","2.42%","1137828"
+"FNS Bancshares,"Inc."","El Paso,"TX"","2015","Richard Gay Ponsford","Common Stock","48111","4.88%","1137828"
+"FNS Bancshares,"Inc."","El Paso,"TX"","2015","Richard G Ponsford Family Trust","Common Stock","23840","2.42%","1137828"
+"FNS Bancshares,"Inc."","El Paso,"TX"","2015","Richard G Ponsford,"Trustee"","Common Stock","23840","2.42%","1137828"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNS Bancshares","VP,"Secretary & Treasurer Executive Vice President & CFO and Secretary of the Board"","Steven G. Beaird","n/a","n/a","2015","Executive Vice President & CFO,"FNB BANK"","1137828"
+"FNS Bancshares","Chairman","Alan K Gay","CEO","BuyMetrics","2015","CEO,"BuyMetrics","Atlanta Ga"","1137828"
+"FNS Bancshares","Chairman","John W. Gay III","n/a","n/a","2015","Chairman,"FNB BANK"","1137828"
+"FNS Bancshares","Director","Randall H. Giles","n/a","n/a","2015","Retired,"FNB Bank"","1137828"
+"FNS Bancshares","President","Hoyt E. Harbin III","n/a","n/a","2015","President,"Harbin Motor Co.","Inc. Scottsboro"","1137828"
+"FNS Bancshares","General Agent","Don Webb","n/a","State Farm Insurance Co.","2015","General Agent,"State Farm Insurance Co. Scottsboro"","1137828"
+"FNS Bancshares","President","Stephen J. Livingston","n/a","n/a","2015","President of Dicus Oil Co.,"Inc. Hollywood","AL"","1137828"
+"FNS Bancshares","Owner","Paul L. Storey","n/a","Storey Trucking Co.","2015","Owner/Operator of Storey Trucking Co. and Storey Farms","1137828"
+"FNS Bancshares","Owner","Paul L. Storey","n/a","Storey Farms","2015","Owner/Operator of Storey Trucking Co. and Storey Farms","1137828"
+"FNS Bancshares","Owner","M. Paul Holland","n/a","Holland Optometry","2015","Optometrist","1137828"
+"FNS Bancshares","Owner","James Bergman","n/a","Raymond James Investments","2015","Investment Counselor","1137828"
+"FNS Bancshares","President & CEO","Stephen M Rownd","n/a","n/a","2015","n/a","1137828"
+```

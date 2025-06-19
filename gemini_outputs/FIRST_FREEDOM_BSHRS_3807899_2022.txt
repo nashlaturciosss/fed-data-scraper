@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2022","John Robert Lancaster","common stock","115034.88","4.01%","n/a"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2022","John Robert Lancaster","vested stock options","35500","1.18%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Chairman & CEO","John Robert Lancaster","Partner","Teeley Pole Assets GP","2022","Chairman & CEO","n/a"
+"First Freedom Bancshares,"Inc."","Chairman & CEO","John Robert Lancaster","Secretary/Treasurer","American Rental Solutions,"Inc."","2022","Chairman & CEO","n/a"
+"First Freedom Bancshares,"Inc."","Chairman & CEO","John Robert Lancaster","Trustee","Timeout Capital Trust","2022","Chairman & CEO","n/a"
+"First Freedom Bancshares,"Inc."","Chairman & CEO","John Robert Lancaster","Managing Member","231 Investments,"LLC"","2022","Chairman & CEO","n/a"
+"First Freedom Bancshares,"Inc."","President & COO","John High Bradshaw","Director","First Freedom Bank","2022","President,"COO & CLO"","n/a"
+"First Freedom Bancshares,"Inc."","Executive Vice President & Director of Commercial Banking","Joshua Brandon Owens","Partner","Cedar City Investors,"GP"","2022","Executive Vice President & Director of Commercial Banking","n/a"
+"First Freedom Bancshares,"Inc."","Executive Vice President & Director of Commercial Banking","Joshua Brandon Owens","Owner","American Rental Solutions,"Inc."","2022","Executive Vice President & Director of Commercial Banking","n/a"
+"First Freedom Bancshares,"Inc."","Executive Vice President & Director of Commercial Banking","Joshua Brandon Owens","Partner","Northside Investors,"GP"","2022","Executive Vice President & Director of Commercial Banking","n/a"
+"First Freedom Bancshares,"Inc."","Physician","Robert Cameron Woods","Member","St. Thomas Heart Group","2022","Physician","n/a"
+"First Freedom Bancshares,"Inc."","School Administrator","Veronica Rochell Bender","Principal","Friendship Christian Middle School","2022","School Administrator","n/a"
+"First Freedom Bancshares,"Inc."","Farmer/Chemical Supply Co. Owner","Charles Richard Haskins","Partner","Triple HHH Farms","2022","Farmer/Chemical Supply Co. Owner","n/a"
+"First Freedom Bancshares,"Inc."","Farmer/Chemical Supply Co. Owner","Charles Richard Haskins","Co-owner","Lebanon Chemical,"Inc."","2022","Farmer/Chemical Supply Co. Owner","n/a"
+"First Freedom Bancshares,"Inc."","Real Estate Investor","Jackie Waldon Gaither","Member","Wilson Investors,"LLC"","2022","Real Estate Investor","n/a"
+"First Freedom Bancshares,"Inc."","Real Estate Investor","Jackie Waldon Gaither","Member","Legends Properties,"LLC"","2022","Real Estate Investor","n/a"
+"First Freedom Bancshares,"Inc."","Real Estate Investor","Jackie Waldon Gaither","Partner","G-Team Real Estate Holdings","2022","Real Estate Investor","n/a"
+"First Freedom Bancshares,"Inc."","Funeral Director","Matthew Juddson Sellars","Partner","DJS Partnership","2022","Funeral Director","n/a"
+"First Freedom Bancshares,"Inc."","Engineer","Randy Gill Laine","Member","TUMILA LLC","2022","Engineer","n/a"
+"First Freedom Bancshares,"Inc."","Physician","Hardie Vaughan Sorrels","Private Medical Practice Owner","n/a","2022","Physician","n/a"
+"First Freedom Bancshares,"Inc."","CFO","Michael R. Wiggington","n/a","n/a","2022","CFO First Freedom Bank","n/a"
+```

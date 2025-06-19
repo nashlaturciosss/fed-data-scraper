@@ -1,0 +1,39 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2023","Estate of Herman J. Russell","n/a","112,"319.290"","6.29%","n/a"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2023","Donata Russell Major","n/a","111,"620.680"","6.25%","n/a"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2023","Michael B. Russell","n/a","111,"620.660"","6.25%","n/a"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2023","H. Jerome Russell,"Jr."","n/a","93,"816.964"","5.25%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","Principal Shareholder","Estate of Herman J. Russell","CEO of Concessions Internatinal","Concessions Internatinal","2023","n/a","n/a"
+"Citizens Bancshares Corporation","Principal Shareholder","Donata Russell Major","CEO of H.J. Russell & Company","H.J. Russell & Company","2023","n/a","n/a"
+"Citizens Bancshares Corporation","Principal Shareholder","Donata Russell Major","Vice Chair of Concessions International","Concessions International","2023","n/a","n/a"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","President of AT&T Business & Consumer Services","AT&T Business & Consumer Services","2023","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Chairman & COO of Immersive Solutions","Immersive Solutions","2023","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Chairman & COO of Immersive Solutions","Cheyenne Property Development","2023","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","Chairman & COO of Immersive Solutions","Meharry Medical College","2023","Retired","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Founder and President of C.D. Moody Construction Co.","C.D. Moody Construction Co.","2023","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director at Chick-Fil-A Foundation","Chick-Fil-A Foundation","2023","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director at Goodwill of North Georgia","Goodwill of North Georgia","2023","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","Director at Zoo Atlanta","Zoo Atlanta","2023","President of C.D. Moody Construction Co.,"Inc"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner of H.J. Russell & Company","H.J. Russell & Company","2023","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner of Concessions International","Concessions International","2023","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","Co-owner of Russell New Urban LLC","Russell New Urban LLC","2023","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","President & CEO of R.L. Brown & Associates,"Inc."","R.L. Brown & Associates,"Inc."","2023","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Chairman of Georgia Department of Transportation","Georgia Department of Transportation","2023","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Director of The Partnership for Excellence in Education","The Partnership for Excellence in Education","2023","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Director of The Georgia Historical Society","The Georgia Historical Society","2023","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore,"Sr."","Founder & Managing Principal","Elmore CPAs,"LLC"","2023","Managing Principal of Elmore CPAs,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","C. Howie Hodges,"II"","CEO of CH Hodges,"Inc."","CH Hodges,"Inc."","2023","CEO of CH Hodges,"Inc."","n/a"
+"Citizens Bancshares Corporation","Director","C. Howie Hodges,"II"","Founding Partner of CentriCapital","CentriCapital","2023","CEO of CH Hodges,"Inc."","n/a"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","Director at PROG,"Inc."","PROG,"Inc."","2023","President & CEO","n/a"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","Director at Primerica,"Inc."","Primerica,"Inc."","2023","President & CEO","n/a"
+"Citizens Bancshares Corporation","Executive VP & CFO","Samuel J. Cox","n/a","n/a","2023","Executive VP & CFO","n/a"
+"Citizens Bancshares Corporation","Executive VP & CCO","Frederick L. Daniels,"Jr."","n/a","n/a","2023","Executive VP & CCO","n/a"
+"Citizens Bancshares Corporation","EVP & Director of Sales & Business Development","Farrand Logan","n/a","n/a","2023","EVP & Director of Sale & Business Development","n/a"
+```

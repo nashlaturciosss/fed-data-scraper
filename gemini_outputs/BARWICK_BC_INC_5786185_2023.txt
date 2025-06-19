@@ -1,15 +1,21 @@
-"Okay","I understand. Here are the two CSV tables extracted from the provided document","following your strict instructions:"
+Here are the requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Barwick Bancorp Inc.","Director & Chairman","Kenneth Kresge","Director & Chairman","Barwick Banking Company","2023"
-"Barwick Bancorp Inc.","Director","Robert McLeod","Director","Barwick Banking Company","2023"
-"Barwick Bancorp Inc.","Director","Preston Sloan","Director","Barwick Banking Company","2023"
-"Barwick Bancorp Inc.","Director & CEO","James Bange","CEO & President and Director","Barwick Banking Company","2023"
-"Barwick Bancorp Inc.","Director & President","Chad Bowling","Executive Vice Chairman","Barwick Banking Company","2023"
-"Barwick Bancorp Inc.","CFO","John Hodas","CFO","Flagler Just One More LLC","2023"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Barwick Bancorp Inc.","Director & Chairman","Kenneth Kresge","Director & Chairman","Barwick Banking Company","2023","CPA","n/a"
+"Barwick Bancorp Inc.","Director","Kenneth Kresge","n/a","See Attached List","2023","CPA","n/a"
+"Barwick Bancorp Inc.","Director","Robert McLeod","Director","Barwick Banking Company","2023","Attorney","n/a"
+"Barwick Bancorp Inc.","Director","Robert McLeod","n/a","See Attached List","2023","Attorney","n/a"
+"Barwick Bancorp Inc.","Director","Preston Sloan","Director","Barwick Banking Company","2023","Automotive Dealer","n/a"
+"Barwick Bancorp Inc.","Director","Preston Sloan","n/a","See Attached List","2023","Automotive Dealer","n/a"
+"Barwick Bancorp Inc.","Director & CEO","James Bange","CEO & President and Director","Barwick Banking Company","2023","Banker","n/a"
+"Barwick Bancorp Inc.","Director & CEO","James Bange","n/a","See Attached List","2023","Banker","n/a"
+"Barwick Bancorp Inc.","Executive Vice Chairman","Chad Bowling","n/a","Flagler Just One More LLC","2023","Banker","n/a"
+"Barwick Bancorp Inc.","Executive Vice Chairman","Chad Bowling","n/a","St. Augustine Real Estate Holdings,"LLC"","2023","Banker","n/a"
+"Barwick Bancorp Inc.","Executive Vice Chairman","Chad Bowling","n/a","Cloudview","2023","Banker","n/a"
+"Barwick Bancorp Inc.","CFO","John Hodas","n/a","n/a","2023","n/a","n/a"
 ```

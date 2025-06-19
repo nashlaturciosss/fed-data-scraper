@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Clayton Bancorp,"Inc."","Knoxville,"Tennessee"","2014","James Lee Clayton","Common Stock","24420784.29","99.13%","315 3242"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Clayton Bancorp,"Inc."","Chairman","James Lee Clayton","n/a","n/a","2014","n/a","315 3242"
+"Clayton Bancorp,"Inc."","President","B. Joe Clayton","President","Clayton Volvo","2014","Auto Dealerships","315 3242"
+"Clayton Bancorp,"Inc."","President","B. Joe Clayton","President","Clayton Autos,"Inc"","2014","Auto Dealerships","315 3242"
+"Clayton Bancorp,"Inc."","Director","Kevin T Clavton","President/CEO","Clayton Homes","2014","Manufactured Housing","315 3242"
+"Clayton Bancorp,"Inc."","Director","Kevin T Clavton","President/CEO","Home 3,"LLC"","2014","Manufactured Housing","315 3242"
+"Clayton Bancorp,"Inc."","Director","Tim Williams","President","21st Mortgage Corp.","2014","Manufactured Housing","315 3242"
+"Clayton Bancorp,"Inc."","Director","Kay Clayton","n/a","n/a","2014","n/a","315 3242"
+"Clayton Bancorp,"Inc."","Director","Raja J. Jubran","Chief Executive Officer","Denark Construction,"Inc."","2014","General Construction Contractor","315 3242"
+"Clayton Bancorp,"Inc."","Director","John Kalec","CFO","Clayton Homes","2014","Manufactured Housing","315 3242"
+"Clayton Bancorp,"Inc."","Director","Randy Boyd","President/CEO","Radio Systems Corp","2014","Pet Products","315 3242"
+"Clayton Bancorp,"Inc."","Director","Randy Boyd","President/CEO","LPL Financial","2014","Pet Products","315 3242"
+"Clayton Bancorp,"Inc."","Director","Randy Boyd","President/CEO","Smokey Mt Property","2014","Pet Products","315 3242"
+"Clayton Bancorp,"Inc."","Director","Wallace McClure","Owner","McClure Realty","2014","Realty","315 3242"
+"Clayton Bancorp,"Inc."","Director","Wallace McClure","Owner","Western Plaza Billiard & Bolwing","2014","Realty","315 3242"
+"Clayton Bancorp,"Inc."","Director","Rich Ray","CFO","21st Mortgage Corp.","2014","Manufactured Housing","315 3242"
+"Clayton Bancorp,"Inc."","Director","Troy Martin","President/CEO","American City Bank","2014","Banking","315 3242"
+"Clayton Bancorp,"Inc."","Director","Norman McRae","Owner","Caris Healthcare,"LP"","2014","Healthcare","315 3242"
+```

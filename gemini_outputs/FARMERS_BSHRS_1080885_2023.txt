@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2023","Kenneth S. Dowling","n/a","38.6369","17.37%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2023","Estate of W.E. Dowling Family Trust - FBO Kenneth S. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","33.3015","14.97%","n/a"
+"FARMERS BANCSHARES,"INC."","Dublin,"GA"","2023","Jayne Morris","n/a","18.2988","8.23%","n/a"
+"FARMERS BANCSHARES,"INC."","Douglas,"GA"","2023","Heather Cliett","n/a","13.8801","6.24%","n/a"
+"FARMERS BANCSHARES,"INC."","Douglas,"GA"","2023","Patrick Dowling","n/a","13.8801","6.24%","n/a"
+"FARMERS BANCSHARES,"INC."","Waycross,"GA"","2023","Robert E. Dowling,"Jr."","n/a","13.8801","6.24%","n/a"
+"FARMERS BANCSHARES,"INC."","Ashburn,"GA"","2023","Shawn Dowling","n/a","13.8801","6.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","n/a","Estate of W.E. Dowling Family Trust","n/a","n/a","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","Director & CEO","Security State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","Director & CEO","Farmers State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Vice President & CEO","Earl Merritt","Director & President","Security State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Vice President & CEO","Earl Merritt","Director & President","Farmers State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Brett Bowden","Director & President","Farmers State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Brett Bowden","Director & President","Security State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Vice-Chairman of the Board","Kent Dowling","Director","Security State Bank","2023","None","n/a"
+"FARMERS BANCSHARES,"INC."","Vice-Chairman of the Board","Kent Dowling","Director","Farmers State Bank","2023","None","n/a"
+```

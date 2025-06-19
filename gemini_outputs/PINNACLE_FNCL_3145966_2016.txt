@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2016","L Jackson McConnell,"Sr."","n/a","200673","22.58%","3145966"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2016","Alice M. Eberhardt","n/a","195263","21.97%","3145966"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","n/a","2016","Retired","3145966"
+"Pinnacle Financial Corporation","Shareholder","Alice M. Eberhardt","n/a","n/a","2016","Homemaker","3145966"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","Chairman","Pinnacle Bank","2016","President CEO","3145966"
+"Pinnacle Financial Corporation","Director","Don Fortson","Director","n/a","2016","Retired","3145966"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","Director","Coldwell Banker Fort Realty","2016","Real Estate","3145966"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","Director","University Family Insurance","2016","Real Estate","3145966"
+"Pinnacle Financial Corporation","Director","Steve Williams","CEO","Tri State Distributors","2016","Retail Owner","3145966"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Director","The Chestnut Company,"LLP"","2016","Medical Dr.","3145966"
+"Pinnacle Financial Corporation","Director","Robert Hardy","Director","n/a","2016","Retired","3145966"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Director","Darnel Quick Recovery","2016","Collections Owner","3145966"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","Dr. Thomas E. McGarity Dental,"LLC"","2016","Dentist Owner","3145966"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","Director","Joe T. Cunningham Interiors","2016","Retail","3145966"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Director","Integrity Valuation Management,"LLC"","2016","Appraisal Order & Review","3145966"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","Director","Elbert Insurance Associates","2016","Insurance","3145966"
+"Pinnacle Financial Corporation","Director","David K. Voyles","Director","n/a","2016","EVP","3145966"
+```

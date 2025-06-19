@@ -1,0 +1,24 @@
+Here are the CSV formatted tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2019","Larry Cheek","Common Stock","145427","6.5043%","n/a"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2019","Dover & Cheek","Common Stock","106000","4.7410%","n/a"
+"PEOPLES BANKTRUST,"INC."","Jersey City,"NJ"","2019","Morgan Stanley","Common Stock","139813","6.2533%","n/a"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2019","Gary D. Brown","Common Stock","115501","5.1659%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Director/President/ CEO,"PB&T"","Douglas Nichols","n/a","n/a","2019","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","EVP/CLO,"PB&T"","Ted Williams","n/a","n/a","2019","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/\nEVP/COO,"PB&T"","Jan Wells","n/a","n/a","2019","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","EVP/CFO,"PB&T"","Adam Allison","n/a","n/a","2019","n/a","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"\nPB&T"","Clayton Bartlett","n/a","n/a","2019","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Phillip Beard","Board Mem/City of Buford","City of Buford","2019","City of Buford","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Robert Bowman","n/a","n/a","2019","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Larry Cheek","President/Dover & Cheek","Dover & Cheek","2019","Wholesale Elec/Plumb","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Wayne Hill","n/a","n/a","2019","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director,"PB&T"","Garrett Reed","n/a","n/a","2019","Retired","n/a"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus,"\nPB&T"","Garland J. Roberts","n/a","n/a","2019","Retired","n/a"
+```

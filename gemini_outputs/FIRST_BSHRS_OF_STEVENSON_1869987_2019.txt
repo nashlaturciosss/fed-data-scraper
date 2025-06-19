@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancshares of Stevenson,"Inc"","Nokomis,"FL"","2019","Walter Russell Bogart III","Common","12976","8.05%","n/a"
+"First Bancshares of Stevenson,"Inc"","Stevenson,"AL"","2019","Carolyn Hall","Common","12456","7.73%","n/a"
+"First Bancshares of Stevenson,"Inc"","Newnan,"GA"","2019","Holbert & Julia Hale","Common","12347","7.66%","n/a"
+"First Bancshares of Stevenson,"Inc"","Scottsboro,"AL"","2019","Jack B Lovelady","Common","12000","7.45%","n/a"
+"First Bancshares of Stevenson,"Inc"","Hollywood,"AL"","2019","Dorothy Williams Trust","Common","10000","6.21%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancshares of Stevenson,"Inc"","Director,"FBS-Pres"","Mike Ellenburg","n/a","n/a","2019","Banker","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director","FBS-Pres."","Carolyn Hall","Director Chairman","n/a","2019","Sales Rep.","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Bryan Hicks","Director","n/a","2019","Pharmacist","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Randy Wright","Director","n/a","2019","Farmer","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Tommy Harding","Director President","Harding Insurance","2019","Insurance","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director","Secretary"","Jack Lovelady","Director Pres/CEO","n/a","2019","Banker","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Danny Crownover","Director","n/a","2019","Banker","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Ralph Hall","Director","n/a","2019","Retired","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director"","Richard Lindsey","Director Partner","n/a","2019","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc"","Director,"Director","EVP"","Scott Kirk","Director Owner","n/a","2019","Banker","n/a"
+```

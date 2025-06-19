@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNS Bancshares,"Inc"","Scottsboro,"AL"","2020","JOHN W GAY,"JR TRUST"","Common Stock","52490","4.28%","n/a"
+"FNS Bancshares,"Inc"","Scottsboro,"AL"","2020","JOHN W GAY,"III"","Common Stock","6534","0.53%","n/a"
+"FNS Bancshares,"Inc"","Scottsboro,"AL"","2020","MAURINE G GAY TRUST","Common Stock","45000","3.67%","n/a"
+"FNS Bancshares,"Inc"","Atlanta,"Ga"","2020","Alan K. Gay","Common Stock","18793","1.53%","n/a"
+"FNS Bancshares,"Inc"","Atlanta,"Ga"","2020","Alan K. Gay Trust","Common Stock","45000","3.67%","n/a"
+"FNS Bancshares,"Inc"","Atlanta,"Ga"","2020","Sharon A. Gay","Common Stock","16858","1.37%","n/a"
+"FNS Bancshares,"Inc"","Atlanta,"Ga"","2020","Sharon A. Gay Trust","Common Stock","45000","3.67%","n/a"
+"FNS Bancshares,"Inc"","El Pas,"Tx"","2020","Leigh Ponsford Lovelady","Common Stock","49333","4.02%","n/a"
+"FNS Bancshares,"Inc"","El Paso,"Tx"","2020","Leigh Ponsford Loveleady Family Trust","Common Stock","23840","1.94%","n/a"
+"FNS Bancshares,"Inc"","El Paso,"Tx"","2020","Richard Gay Ponsford","Common Stock","48111","3.92%","n/a"
+"FNS Bancshares,"Inc"","El Paso,"Tx"","2020","Richard G Ponsford Family Trust","Common Stock","23840","1.94%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNS Bancshares,"Inc"","VP,"Secretary & Treasurer"","Steven G. Beaird","Executive Vice President & COO and Secretary of the Board,"FNB BANK"","n/a","2020","n/a","n/a"
+"FNS Bancshares,"Inc"","Director,"Chairman"","Alan K Gay","Chairman,"FNB Bank Director"","BuyMetrics","2020","n/a","n/a"
+"FNS Bancshares,"Inc"","Director","Randall H. Giles","Director,"FNB BANK"","n/a","2020","n/a","n/a"
+"FNS Bancshares,"Inc"","Director","Hoyt E. Harbin III","Director,"FNB BANK"","HARBIN MOTOR","2020","President,"Harbin Motor Co.","Inc. Scottsboro"","n/a"
+"FNS Bancshares,"Inc"","Director","Don Webb","Director,"FNB BANK"","State Farm Insurance Co.","2020","General Agent","n/a"
+"FNS Bancshares,"Inc"","Director","M. Paul Holland","Director,"FNB BANK"","Holland Optometry","2020","Optometrist","n/a"
+"FNS Bancshares,"Inc"","Director","James Bergman","Director,"FNB Bank"","James Bergman Raymond James Investments","2020","Investment Counselor","n/a"
+"FNS Bancshares,"Inc"","President & CEO","Stephen M Rownd","President & CEO and Director,"FNB BANK"","n/a","2020","n/a","n/a"
+"FNS Bancshares,"Inc"","Director","Christopher J Green","Director,"FNB Bank"","Radiology of Huntsville","2020","Doctor of Radiology - Radiology of Huntsville","n/a"
+```

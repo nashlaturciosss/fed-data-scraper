@@ -1,0 +1,30 @@
+Here are the requested CSV tables extracted from the document.
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F&M BANK","Clarksville,"TN"","2021","Gaylon M. Lawrence,"Jr."","Common stock","1270271","100%"
+"F&M BANK","Nashville,"TN"","2021","Gaylon M. Lawrence,"Jr."","Common stock","1270271","100%"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M BANK","Chairman of the Board","William S. Stuard,"Jr."","Partner","D&S Investments Partnership","2021","n/a","741330"
+"F&M BANK","President","William S. Stuard,"Jr."","Partner","D&S Investments Partnership","2021","n/a","741330"
+"F&M BANK","CEO","William S. Stuard,"Jr."","Partner","D&S Investments Partnership","2021","n/a","741330"
+"F&M BANK","Director/Principal Shareholder","Gaylon M. Lawrence,"Jr."","n/a","n/a","2021","Business Owner","741330"
+"F&M BANK","Executive Vice President","William H. Wyatt","Partner","Robmont,"LLC"","2021","n/a","741330"
+"F&M BANK","Executive Vice President","William H. Wyatt","Partner","West End Circle Properties Partnership","2021","n/a","741330"
+"F&M BANK","Executive Vice President","William H. Wyatt","Partner","Triple W. Farm Partnership","2021","n/a","741330"
+"F&M BANK","Executive Vice President","William H. Wyatt","Partner","Country Lane Condos","2021","n/a","741330"
+"F&M BANK","Executive Vice President","William H. Wyatt","Partner","Professional Park Apartment Partnership","2021","n/a","741330"
+"F&M BANK","Executive Vice President","C. DeWayne Olive","n/a","n/a","2021","n/a","741330"
+"F&M BANK","CFO","C. DeWayne Olive","n/a","n/a","2021","n/a","741330"
+"F&M BANK","Director","Jim Myers","Partner","Sills Insurance Agency","2021","50% owner of Sill Insurance Agency,"Dover TN"","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Owner","Pointe West,"LLC"","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Owner","Pointe West Farms","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Owner","JKW Family Ltd Partnership","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Owner","Lifestyle 30-A,"LLC"","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Owner","Old Castor River","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Partner","A&B Developers,"LLC"","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Jason West","Partner","Kansas Webfeet LLC","2021","Executive Manager - Mountain Top Investments","741330"
+"F&M BANK","Outside Lawrence Director","Darren Lingle","n/a","n/a","2021","Lawrence Political Liaison","741330"
+"F&M BANK","Director","Bradley Barrett","n/a","n/a","2021","Consultant","741330"
+```

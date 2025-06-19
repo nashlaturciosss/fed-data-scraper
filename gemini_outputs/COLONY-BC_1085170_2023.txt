@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Colony Bankcorp,"Inc."","St. Louis,"MO"","2023","Fourthstone,"LLC"","common stock","1443357","8.22%","n/a"
+"Colony Bankcorp,"Inc."","Malvern,"PA"","2023","The Vanguard Group","common stock","911129","5.19%","n/a"
+"Colony Bankcorp,"Inc."","New York,"NY"","2023","Blackrock,"Inc."","common stock","1318289","7.51%","n/a"
+"Colony Bankcorp,"Inc."","Chicago,"IL"","2023","1st & Main Growth Partners","common stock","1105072","6.29%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Colony Bankcorp,"Inc."","Director","Scott L. Downing","n/a","SDI Investments","2023","President,"SDI Investments; President","Lowell Packing Co"","n/a"
+"Colony Bankcorp,"Inc."","Director","Scott L. Downing","n/a","Lowell Packing Co","2023","President,"SDI Investments; President","Lowell Packing Co"","n/a"
+"Colony Bankcorp,"Inc."","Chief Executive Officer and Director","T. Heath Fountain","n/a","n/a","2023","None","n/a"
+"Colony Bankcorp,"Inc."","Director","Audrey D. Hollingsworth","n/a","Development Authority","2023","Vice President & Chief Human Resources Officer,"WC Bradley Co."","n/a"
+"Colony Bankcorp,"Inc."","Director","Audrey D. Hollingsworth","n/a","Foundation Board","2023","Vice President & Chief Human Resources Officer,"WC Bradley Co."","n/a"
+"Colony Bankcorp,"Inc."","Director","Audrey D. Hollingsworth","n/a","University of Georgia's J.W. Fanning Institute for Leadership Development Advisory Board","2023","Vice President & Chief Human Resources Officer,"WC Bradley Co."","n/a"
+"Colony Bankcorp,"Inc."","Director","Audrey D. Hollingsworth","n/a","Mayor's Advisory Committee for Public Safety and Law Enforcement","2023","Vice President & Chief Human Resources Officer,"WC Bradley Co."","n/a"
+"Colony Bankcorp,"Inc."","Director","Audrey D. Hollingsworth","n/a","Greater Columbus Georgia Chamber of Commerce","2023","Vice President & Chief Human Resources Officer,"WC Bradley Co."","n/a"
+"Colony Bankcorp,"Inc."","Director","Edward P. Loomis,"Jr."","n/a","n/a","2023","Retired","n/a"
+"Colony Bankcorp,"Inc."","Chairman and Director","Mark H. Massee","n/a","MHM Properties","2023","Owner/Manager,"MHM Properties Owner/President","Dorminy-Massee House","Inc."","n/a"
+"Colony Bankcorp,"Inc."","Chairman and Director","Mark H. Massee","n/a","Dorminy-Massee House,"Inc."","2023","Owner/Manager,"MHM Properties Owner/President","Dorminy-Massee House","Inc."","n/a"
+"Colony Bankcorp,"Inc."","Director","Meagan M. Mowry","n/a","Simcoe Investments","2023","Co-owner,"Simcoe Investments Manager and Marketing Director","Integrity Real Estate","LLC"","n/a"
+"Colony Bankcorp,"Inc."","Director","Meagan M. Mowry","n/a","Integrity Real Estate,"LLC"","2023","Co-owner,"Simcoe Investments Manager and Marketing Director","Integrity Real Estate","LLC"","n/a"
+"Colony Bankcorp,"Inc."","Director","Matthew D. Reed","n/a","Georgia CEO","2023","Owner and CEO,"Georgia CEO"","n/a"
+"Colony Bankcorp,"Inc."","Director","Jonathan W.R. Ross","n/a","Ross Construction Co","2023","President,"Ross Construction Co"","n/a"
+"Colony Bankcorp,"Inc."","Director","Brian D. Schmitt","n/a","n/a","2023","None","n/a"
+"Colony Bankcorp,"Inc."","Director","Harold W. Wyatt,"III"","n/a","Wyatt Capital,"LLC"","2023","Owner,"Wyatt Capital","LLC and Wyatt Realty Company","LLC"","n/a"
+"Colony Bankcorp,"Inc."","Director","Harold W. Wyatt,"III"","n/a","Wyatt Realty Company,"LLC"","2023","Owner,"Wyatt Capital","LLC and Wyatt Realty Company","LLC"","n/a"
+"Colony Bankcorp,"Inc."","Executive Vice President,"Chief Risk Officer","General Counsel","Corporate Secretary"","Edward L. Bagwell,"III"","n/a","n/a","2023","None","n/a"
+"Colony Bankcorp,"Inc."","Executive Vice President and Chief Credit Officer","Leonard Bateman,"Jr."","n/a","n/a","2023","None","n/a"
+"Colony Bankcorp,"Inc."","President","Roy Dallis Copeland,"Jr."","n/a","Board of the Development Authority of Columbus","2023","None","n/a"
+"Colony Bankcorp,"Inc."","Executive Vice President and Chief of Staff","Kimberly C. Dockery","n/a","n/a","2023","None","n/a"
+```

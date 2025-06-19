@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PeoplesSouth Bancshares,"Inc."","Headland,"Alabama"","2023","Rickey E. Stuckey,"et. al."","n/a","385088","14.90%","n/a"
+"PeoplesSouth Bancshares,"Inc."","Albany,"GA"","2023","J. Alvin Newton,"Jr."","n/a","250094","9.67%","n/a"
+"PeoplesSouth Bancshares,"Inc."","Colquitt,"Georgia"","2023","Ronald H. Rentz,"et. al."","n/a","238834","9.24%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PeoplesSouth Bancshares,"Inc."","Chairman of the Board","Rickey E. Stuckey","Chairman of the Board","PeoplesSouth Bank","2023","Retired CEO","518037"
+"PeoplesSouth Bancshares,"Inc."","Co-President / Director","Erin Stuckey","Co-President / Director & Investment Officer","PeoplesSouth Bank","2023","n/a","518037"
+"PeoplesSouth Bancshares,"Inc."","Co-President/Director","Caleb Stuckey","Co-President/ Director","PeoplesSouth Bank","2023","n/a","518037"
+"PeoplesSouth Bancshares,"Inc."","Director","Ronald H. Rentz","Director","PeoplesSouth Bank","2023","Attorney","518037"
+"PeoplesSouth Bancshares,"Inc."","Director","Ronald H. Rentz","Attorney at Law - Owner","Ronald H. Rentz","2023","Attorney","518037"
+"PeoplesSouth Bancshares,"Inc."","Director","J. Alvin Newton,"Jr."","Director","PeoplesSouth Bank","2023","Attorney","518037"
+"PeoplesSouth Bancshares,"Inc."","Director","J. Alvin Newton,"Jr."","CPA","Burke,"Worsham & Harrell LLC"","2023","Attorney","518037"
+"PeoplesSouth Bancshares,"Inc."","Director","Joseph W. Grimsley","Director","PeoplesSouth Bank","2023","Retired Dentist","518037"
+```

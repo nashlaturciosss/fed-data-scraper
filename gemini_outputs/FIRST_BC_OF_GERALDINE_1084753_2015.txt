@@ -1,0 +1,18 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancorporation of Geraldine,"Inc."","Geraldine,"AL"","2015","Coolidge Isbell","Common","5538","10.45%","1084753"
+"First Bancorporation of Geraldine,"Inc."","Geraldine,"AL"","2015","Betty Parris Trust","Common","7730","14.59%","1084753"
+"First Bancorporation of Geraldine,"Inc."","Hixon,"TN"","2015","Vicki Anderson","Common","5868","11.07%","1084753"
+"First Bancorporation of Geraldine,"Inc."","Albertville,"AL"","2015","Robert Decker","Common","2700","5.09%","1084753"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancorporation of Geraldine,"Inc."","President/ CEO","Chris Bailey","n/a","n/a","2015","n/a","1084753"
+"First Bancorporation of Geraldine,"Inc."","Chairman/Director","Robert Decker","Edward D. Jones Investment Broker","Edward D. Jones","2015","Investment Broker","1084753"
+"First Bancorporation of Geraldine,"Inc."","Director","Billy F. Cooper","n/a","n/a","2015","Retired","1084753"
+"First Bancorporation of Geraldine,"Inc."","Director","Joel Murdock","n/a","n/a","2015","Machine Operator","1084753"
+"First Bancorporation of Geraldine,"Inc."","n/a","Betty Parris","n/a","n/a","2015","Housewife","1084753"
+"First Bancorporation of Geraldine,"Inc."","n/a","Coolidge Isbell","BIB Partnerhip","BIB","2015","Real Estate","1084753"
+"First Bancorporation of Geraldine,"Inc."","Director","David Wear","President-Wear & Wear,"P.A."","Wear & Wear,"P.A."","2015","Attorney","1084753"
+"First Bancorporation of Geraldine,"Inc."","Director","Vicki Anderson","Director of Marketing-Chattanooga Business","Chattanooga","2015","Marketing","1084753"
+```

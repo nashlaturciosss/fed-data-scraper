@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST STATE BANK HOLDING CORP.","n/a","2022","JOHN F BOYETT","n/a","n/a","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","n/a","2022","DANNY RAY BARNES","n/a","n/a","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","n/a","2022","CHARLES R ANDERSON","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST STATE BANK HOLDING CORP.","CEO","JOHN F BOYETT","n/a","n/a","2022","n/a","n/a"
+"FIRST STATE BANK HOLDING CORP.","Director","DANNY RAY BARNES","n/a","n/a","2022","Farmer","n/a"
+"FIRST STATE BANK HOLDING CORP.","Director","CHARLES R ANDERSON","n/a","n/a","2022","Real Estate Developer","n/a"
+```

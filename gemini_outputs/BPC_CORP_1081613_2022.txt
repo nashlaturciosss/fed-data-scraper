@@ -1,39 +1,40 @@
-Here are the requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BPC Corporation","Monterey","2022","2006 Jack P. Ray (b) (c)
-"Irrevocable Succession Trust"","n/a","0","57.2607%"
-"BPC Corporation","Monterey","2022","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","100848","42.7380%"
-"BPC Corporation","Cookeville","2022","Elizabeth Ann Ray Fournet (b) (c)","n/a","100850","0.0000%"
-"BPC Corporation","Cookeville","2022","Elizabeth Ann Ray Fournet","n/a","0","0.0013%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BPC Corporation","Monterey,"Tennessee"","2022","2006 Jack P. Ray (b) (c) Irrevocable Succession Trust","n/a","1216051","57.2607%","n/a"
+"BPC Corporation","Monterey,"Tennessee"","2022","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","100848","49.9995%","n/a"
+"BPC Corporation","Monterey,"Tennessee"","2022","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","907632","42.7380%","n/a"
+"BPC Corporation","Cookeville,"Tennessee"","2022","Elizabeth Ann Ray Fournet (b) (c)","n/a","100850","50.0005%","n/a"
+"BPC Corporation","Cookeville,"Tennessee"","2022","Elizabeth Ann Ray Fournet","n/a","27","0.0013%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BPC Corporation","Director
-Chairman of the
-"Board"","Elizabeth Ray Fournet","Director
-Chairman of the
-"Board"","One Bank of Tennessee","2022"
-"BPC Corporation","Director
-Vice Chairman of
-"the Board"","Ammon Hitchcock","Vice Chairman of
-"the Board"","One Bank of Tennessee","2022"
-"BPC Corporation","Director
-"President/CEO"","David Kinchler","President / CEO","One Bank of Tennessee","2022"
-"BPC Corporation","Director
-"EVP/CFO"","Gary Medley","EVP/CFO","One Bank of Tennessee","2022"
-"BPC Corporation","Director
-"EVP/CCO Emeritus"","Gerry Whitehead","EVP/CCO Emeritus","One Bank of Tennessee","2022"
-"BPC Corporation","EVP/COO","Jonathan Medley","EVP/COO","One Bank of Tennessee","2022"
-"BPC Corporation","Director","Norman Copeland","Director","Old Baker Coal Co","2022"
-"BPC Corporation","Director","Randy Bond","Director","n/a","2022"
-"BPC Corporation","Director","William T. Hitchcock","Director","Gearhiser,"Peters","Elliott &"
-"Cannon","PLLC"","2022"
-"BPC Corporation","Director","Randy York","n/a","Moorer,"Rader","Fitzpatrick","& York","PC"","2022"
-"BPC Corporation","Director","Thomas Jones","n/a","Research Electronics Int'l,""
-"LLC"","2022"
-"BPC Corporation","Director","Brenda Allred","n/a","Buckeye Quality Home
-"Health Agency Inc"","2022"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BPC Corporation","Director Chairman of the Board","Elizabeth Ray Fournet","Director Chairman of the Board (1) (2) (3)","Builders Supply","2022","Banker","n/a"
+"BPC Corporation","Director President Builders Supply","Elizabeth Ray Fournet","Director President Builders Supply","Builders Supply","2022","Banker","n/a"
+"BPC Corporation","Director Vice Chairman of the Board","Ammon Hitchcock","Director Vice Chairman of the Board (1) (2) (3)","n/a","2022","Banker","n/a"
+"BPC Corporation","Director President/CEO","David Kinchler","President / CEO (1) (2) (3)","n/a","2022","Banker","n/a"
+"BPC Corporation","Director EVP/CFO","Gary Medley","EVP/CFO (1) (2) (3)","n/a","2022","Banker / CPA","n/a"
+"BPC Corporation","Director EVP/CCO Emeritus","Gerry Whitehead","EVP/CCO Emeritus (1) (2) (3)","n/a","2022","Banker / CPA","n/a"
+"BPC Corporation","EVP/COO","Jonathan Medley","EVP/COO (1)","n/a","2022","Banker/CPA","n/a"
+"BPC Corporation","Director","Norman Copeland","Director (1)","Old Baker Coal Co","2022","Retired Banker","n/a"
+"BPC Corporation","Director","Randy Bond","Director (1)","n/a","2022","Retired Banker","n/a"
+"BPC Corporation","Director","William T. Hitchcock","Director (1)","Gearhiser,"Peters","Elliott & Cannon","PLLC"","2022","Attorney","n/a"
+"BPC Corporation","Director","Randy York","n/a","n/a","2022","Attorney","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","Research Electronics Int'l,"LLC"","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Disc Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","BT Disc Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Exports A Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Exports L Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","SEME Foundation","2022","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","TLSEME LLC","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Buckeye Quality Home Health Agency Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Buckeye Home Health Center Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Volunteer Staffing Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Quality Private Care Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","BaLou's Home Center","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","White Oaks Partners","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Frontier Concepts Inc","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","Home Health Care of Middle TN LLC","2022","Business Owner","n/a"
+"BPC Corporation","Director","Brenda Allred","n/a","All Care Plus Inc","2022","Business Owner","n/a"
 ```

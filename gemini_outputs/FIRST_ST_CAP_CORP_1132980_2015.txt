@@ -1,0 +1,17 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Capital Corporation","Lineville,"AL"","2015","Gail McCord","Shares of Common Stock","14751","6.57%","n/a"
+"First State Capital Corporation","Lineville,"AL"","2015","Ann Vaughn","Shares of Common Stock","13199","5.88%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Capital Corporation","President,"CEO","Director"","Steve Foster","Owner","n/a","2015","Bank President","n/a"
+"First State Capital Corporation","EVP,"CFO","Director","Secretary"","Carlton De Vaughn","n/a","n/a","2015","Bank Vice President","n/a"
+"First State Capital Corporation","Chairman","Don Hogan","Director","n/a","2015","Pharmacist","n/a"
+"First State Capital Corporation","Director","JoAnn Blair","Director","n/a","2015","Education","n/a"
+"First State Capital Corporation","Director","Doyle L Phillips","Director","n/a","2015","Farmer","n/a"
+"First State Capital Corporation","Director","James E. Malone","Director","n/a","2015","Judge","n/a"
+"First State Capital Corporation","Director","Anna Marie Rush","Director","n/a","2015","Farmer","n/a"
+"First State Capital Corporation","Director","Donald Harris","Partner","Harris Plumbing & Electric","2015","Electrical/Plumbing Supply","n/a"
+"First State Capital Corporation","Director","Larry Raughton","Director","n/a","2015","Farmer","n/a"
+```

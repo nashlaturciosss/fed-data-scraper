@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2015","John J. Mullins","n/a","68819","42.09%","2226484"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2015","Dan J. Willingham","n/a","33362","20.40%","2226484"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2015","E.O. Browder,"Jr."","n/a","25651","15.69%","2226484"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2015","FCB Bancshares,"Inc."","n/a","37752","23.09%","2226484"
+"FCB Bancshares,"Inc."","Eutaw,"AL"","2015","C. Woody Browder","n/a","9742","5.96%","2226484"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Bancshares,"Inc."","Director","E.O. Browder Jr.","President","Browder & Associates PC","2015","President","n/a"
+"FCB Bancshares,"Inc."","Director","Edna Earle Hicks","n/a","n/a","2015","Retired","n/a"
+"FCB Bancshares,"Inc."","Director,"Chairman","CEO & President"","John J. Mullins","n/a","n/a","2015","n/a","n/a"
+"FCB Bancshares,"Inc."","Director","Dan J. Willingham","Attorney","Fuller & Willingham","2015","Attorney","n/a"
+"FCB Bancshares,"Inc."","Principal Share Holder","FCB Bancshares,"Inc."","n/a","n/a","2015","N/A","n/a"
+"FCB Bancshares,"Inc."","Director","Ann Mullins","n/a","n/a","2015","Retired","n/a"
+"FCB Bancshares,"Inc."","Director","Russell W. Morrow","Owner","Cullman Business Services,"Inc."","2015","Cullman Business Services,"Inc.-Owner"","n/a"
+"FCB Bancshares,"Inc."","Secretary","Russell D. Payne","CFO & EVP","n/a","2015","CFO & EVP","n/a"
+```

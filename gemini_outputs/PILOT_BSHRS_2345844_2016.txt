@@ -1,0 +1,34 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pilot Bancshares,"Inc."","New York,"NY"","2016","Cede & Company","common stock","1021048","10.57%","n/a"
+"Pilot Bancshares,"Inc."","Tampa,"FL"","2016","Ignacio A. Ferras III","common stock","644685","6.67%","n/a"
+"Pilot Bancshares,"Inc."","Tampa,"FL"","2016","George L. Southworth","common stock","2045000","21.16%","n/a"
+"Pilot Bancshares,"Inc."","Chicago,"IL"","2016","Mendon Capital Master Fund LTD","common stock","724230","7.49%","n/a"
+"Pilot Bancshares,"Inc."","Chicago,"IL"","2016","Taylor International Fund LTD.","common stock","722500","7.48%","n/a"
+"Pilot Bancshares,"Inc."","Tampa,"FL"","2016","John W. Puffer,"III"","common stock","491556","5.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pilot Bancshares,"Inc."","Secretary & Director,"Vice Chairman Pilot Bank"","Ann M. Ross","n/a","Fowler Store L.C.","2016","Retired Executive Performing Arts Center","n/a"
+"Pilot Bancshares,"Inc."","Director,"Vice Chairman and Director Pilot Bank"","William O. DeWeese","n/a","Fowler Store L.C.","2016","Retired Physician-Neurosurgery","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-NAFCO"","Alan D. Harvill","President & CEO EMI Industries","EMI Industries","2016","President & CEO EMI Industries","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","Robert E. Lewis","Corporate Attorney Masonite","Masonite","2016","Corporate Attorney Masonite","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank & NAFCO"","Paul Tomasino","Retired Business Owner","n/a","2016","Retired Business Owner","n/a"
+"Pilot Bancshares,"Inc."","Interim Chairman,"President & CEO Piloi Bank"","Roy N. Hellwege","n/a","n/a","2016","Pilot Bancshares,"Inc President"","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","Owner","Concrete Impressions of Florida,"Inc."","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","Owner","LLC,"Inc."","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","Owner","JY Ranch,"Inc."","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","President/CEO","Precast Piling Technology,"Inc."","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","Trustee","Southworth Trust","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","n/a","Three Holdings,"LLC"","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","General Partner","MLW-GLS Limited Partnership","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","George L. Southworth","General Partner","3KS Family Limited Partnership","2016","Owner Concrete impressions","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","Timothy M. Smith","President","State Contracting & Engineering Corporation","2016","President State Contracting & Engineering Corp","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","Ignacio A. Ferras,"(II"","Chairman & CEO","Huff Ferras,"LLC"","2016","n/a","n/a"
+"Pilot Bancshares,"Inc."","Director,"Director-Pilot Bank"","Ignacio A. Ferras,"(II"","Chairman & CEO","Huff Ferras & Assoc.,"Inc."","2016","n/a","n/a"
+"Pilot Bancshares,"Inc."","Director","Seth Ross Brown","Retired Business Owner","n/a","2016","Retired Business Owner","n/a"
+"Pilot Bancshares,"Inc."","Principal Shareholder","Cede & Company","n/a","n/a","2016","n/a","n/a"
+```

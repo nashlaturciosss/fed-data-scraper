@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Betty B Buchanan","common stock","19486","10.19%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Leamon Buchanan","common stock","19486","10.19%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Phillip Amberson","common stock","22453","11.75%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Patty Handley","common stock","17210","9.00%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Tommy Handley","common stock","11596","6.07%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Wendell Glassco","common stock","20070","10.50%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Bonnie Glassco","common stock","20070","10.50%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2014","Royce G. Ogle","common stock","20096","10.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2014","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2014","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director,"CEO"","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2014","CEO,"Amberson Clothing","Inc."","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","Ameriprise Financial Service,"Certified Financial Planner"","Ameriprise Financial Service","2014","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President/Director","Royce G. Ogle","n/a","n/a","2014","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","n/a","n/a","2014","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Betty B Buchanan","n/a","n/a","2014","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Wendell Glassco","n/a","n/a","2014","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Bonnie Glassco","n/a","n/a","2014","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","n/a","Patty Handley","Secretary","n/a","2014","Construction","n/a"
+```

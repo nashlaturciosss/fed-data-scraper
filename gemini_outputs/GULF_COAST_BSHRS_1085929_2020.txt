@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bank","Abbeville,"LA"","2020","CAP Voiting Trust","n/a","16782","26.51%","n/a"
+"Gulf Coast Bank","Abbeville,"LA"","2020","LeBlanc Family irrevocable Trust","n/a","3600","5.68%","n/a"
+"Gulf Coast Bank","Abbeville,"LA"","2020","Charles E. Dill Jr.","n/a","3517","5.56%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bank","Director","Lorraine LeBlanc","Director","GCB Financial Services Inc","2020","n/a","n/a"
+"Gulf Coast Bank","Director & President","Paul Patout","President,"CEO & Director"","Gulf Coast Bank","2020","n/a","n/a"
+"Gulf Coast Bank","Director & Chairman","Patrick Patout","Director","Gulf Coast Bank","2020","n/a","n/a"
+"Gulf Coast Bank","Director & Chief Finance Officer","Jason Patout","Director","Gulf Coast Bank","2020","n/a","n/a"
+"Gulf Coast Bank","Director","Paul J. Hebert","Member of the Following","Ottinger Hebert,"LLC"","2020","Attorney","n/a"
+"Gulf Coast Bank","Director","Paul J. Hebert","Member of the Following","Magellan Construction LLC","2020","Attorney","n/a"
+"Gulf Coast Bank","Director","Paul J. Hebert","Member of the Following","Magellan Development LLC","2020","Attorney","n/a"
+"Gulf Coast Bank","Director","Paul J. Hebert","Member of the Following","Gulf Pinhook Associates LLC","2020","Attorney","n/a"
+"Gulf Coast Bank","Director","Paul J. Hebert","Member of the Following","Jimmy Johns LLC Lafayette","2020","Attorney","n/a"
+"Gulf Coast Bank","n/a","EugeneM. Sellers,"Jr."","President","The Sellers Group","2020","Architect","n/a"
+"Gulf Coast Bank","n/a","Christopher Dardeau","n/a","n/a","2020","n/a","n/a"
+```

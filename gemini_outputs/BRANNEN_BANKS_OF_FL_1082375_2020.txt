@@ -1,16 +1,20 @@
-Here are the requested extractions in CSV format:
+Here are the two CSV tables as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Brannen Banks of Florida,"Inc."","Inverness","2020","Joseph S. Brannen","Common Stock","6756.09","67.6%"
-"Brannen Banks of Florida,"Inc."","Inverness","2020","Margaret Brannen Hagar","Common Stock","3243.91","32.4%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2020","Joseph S. Brannen","Common","6756.09","67.6%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2020","Margaret Brannen Hagar","Common","3243.91","32.4%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2020"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/President/Treasurer","Brannen Properties,"Inc."","2020"
-"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Brannen Bank","2020"
-"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","Brannen Bank","2020"
-"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","BFLP III,"LLLP"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","BFLP III,"LLC"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Branco Farms,"LLC"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","BFLP I,"LLLP"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","BFLP I,"LLC"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Mag Farms,"LLC"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Timber Land Resources,"LLC"","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","n/a","2020","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","n/a","n/a","2020","n/a","n/a"
 ```

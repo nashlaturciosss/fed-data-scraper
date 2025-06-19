@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Chatsworth,"Georgia"","2023","Donald T. Keeter","Common Stock","607423","17.66%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia"","2023","Robert W. James","Common Stock","393485","11.44%","n/a"
+"Community Banks of Georgia,"Inc."","Fredericksburg,"Texas"","2023","Mickey T. Dunn","Common Stock","358334","10.42%","n/a"
+"Community Banks of Georgia,"Inc."","Ball Ground,"Georgia"","2023","Matthew T. Dunn","Common Stock","304548","8.85%","n/a"
+"Community Banks of Georgia,"Inc."","Athens,"Georgia"","2023","B. Scott Dobson","Common Stock","293333","8.53%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","Director","n/a","2023","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","Director","n/a","2023","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","Director","ML Industries,"Inc."","2023","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","Director","TSML Innovations","2023","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Keeter Farms,"LP"","2023","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Donald T Keeter Family Trust","2023","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Denson Insurance Agency Inc","2023","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Legacy Risk Solutions LLC","2023","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Director","Landrum and Landrum","2023","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Director","Appalachian Mediation Co LLC","2023","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director & President/CEO","Ryan T. Keeter","Director & President/CEO","Keeter Farms,"LP"","2023","n/a","n/a"
+"Community Banks of Georgia,"Inc."","Director","Matthew T. Dunn","Director","ML Industries,"Inc."","2023","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director","Kristi Ledford","Director","Affinity Public Relations LLC","2023","Public Relations","n/a"
+"Community Banks of Georgia,"Inc."","Director","Lorrie L. Shaw","Director & CCO","n/a","2023","n/a","n/a"
+```

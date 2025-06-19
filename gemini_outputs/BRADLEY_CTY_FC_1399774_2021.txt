@@ -1,19 +1,26 @@
-"Okay","here are the two CSV tables extracted from the provided document","following all the instructions:"
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bradley County Financial Corp.","Cleveland","2021","R. Scott Taylor","n/a","96724","31.86%"
-"Bradley County Financial Corp.","Cleveland","2021","Terry Buckner","n/a","18000","5.92%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bradley County Financial Corp.","Cleveland,"TN"","2021","R. Scott Taylor","n/a","96724","31.86%","n/a"
+"Bradley County Financial Corp.","Cleveland,"TN"","2021","Terry Buckner","n/a","18000","5.92%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bradley County Financial Corp.","Chairman CEO President","R. Scott Taylor","None","None","2021"
-"Bradley County Financial Corp.","Director","Gerald Burns","Director","Burns Ornamental Iron & Fabricating,"Inc."","2021"
-"Bradley County Financial Corp.","Director","Fritz G. Harris","Director","Harris Williamsoon & Trewhitt CPA's PC","2021"
-"Bradley County Financial Corp.","Director","Steve Robinson","Director","Cleveland Plywood Company","2021"
-"Bradley County Financial Corp.","Director","Steve Lambert","Director","Bradley Concrete,"Inc."","2021"
-"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","Director President & CFO","None","2021"
-"Bradley County Financial Corp.","Director","Terry J. Buckner","Director","None","2021"
-"Bradley County Financial Corp.","Director","Clint R. Taylor","None","None","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bradley County Financial Corp.","Chairman","R. Scott Taylor","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","CEO","R. Scott Taylor","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","President","R. Scott Taylor","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","Gerald Burns","Owner","Burns Ornamental Iron & Fabricating,"Inc."","2021","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","Owner","Williamson & Trewhitt CPA's PC","2021","Accountant","n/a"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","Owner","Orbit Oil Inc.","2021","Accountant","n/a"
+"Bradley County Financial Corp.","Director","Steve Robinson","Owner","Cleveland Plywood Company","2021","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Bradley Concrete Inc.","2021","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambcon Inc.","2021","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambert Investments Inc","2021","Businessman","n/a"
+"Bradley County Financial Corp.","Treasurer","S. Julian Sullivan III","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","S. Julian Sullivan III","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","President & CFO","S. Julian Sullivan III","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","Terry J. Buckner","None","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","EVP CLO","Terry J. Buckner","None","2021","Banker","n/a"
+"Bradley County Financial Corp.","Director","Clint R. Taylor","None","None","2021","Businessman","n/a"
 ```

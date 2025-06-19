@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2017","B.W. Coleman,"III"","n/a","1827.5","23.56%","1086775"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2017","Jane Arrington","n/a","562.86","7.26%","1086775"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2017","Mary Q. Holmes","n/a","1265","16.31%","1086775"
+"Greensboro Bancshares,"Inc."","Tuscaloosa,"AL"","2017","Amy L. Cooper","n/a","1265","16.31%","1086775"
+"Greensboro Bancshares,"Inc."","Ormand Beach,"Florida"","2017","Aiden W. Tozer,"Jr. and Louise L. Tozer as Co-Trustees of the Tozer Family Revocable Trust dated 4/8/13"","n/a","562.86","7.26%","1086775"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Director","C.R. Lawson,"Jr."","General Partner","C. R. Lawson,"Jr. Family Ltd Partnership"","2017","retired","1086775"
+"Greensboro Bancshares,"Inc."","Director","C.R. Lawson,"Jr."","President","Lawson Catfish Farm","2017","retired","1086775"
+"Greensboro Bancshares,"Inc."","Chairman","B.W. Coleman,"III"","n/a","n/a","2017","retired","1086775"
+"Greensboro Bancshares,"Inc."","Director","J.W. Kynard,"Jr."","n/a","n/a","2017","retired","1086775"
+"Greensboro Bancshares,"Inc."","Director","N.H. Cobbs,"Jr."","attorney","n/a","2017","attorney","1086775"
+"Greensboro Bancshares,"Inc."","Director","John F. Ferguson","n/a","n/a","2017","retired","1086775"
+"Greensboro Bancshares,"Inc."","Director","Michael W. Harrow","n/a","Harrow Realty","2017","realtor","1086775"
+"Greensboro Bancshares,"Inc."","Director","Harris M. Coleman,"Jr."","n/a","n/a","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Director","Karen Whitis","n/a","n/a","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Vice-Chairman","Mary Q. Holmes","Partner","C. R. Lawson,"Jr Family Ltd Partnership"","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Vice-Chairman","Mary Q. Holmes","Owner & VP","Lawson Catfish Farm","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Director","Amy L. Cooper","Partner","C. R. Lawson,"Jr Family Ltd Partnership"","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Director","Amy L. Cooper","Owner","Lawson Catfish Farm","2017","n/a","1086775"
+"Greensboro Bancshares,"Inc."","Director","Rhett Cooper","n/a","n/a","2017","n/a","1086775"
+```

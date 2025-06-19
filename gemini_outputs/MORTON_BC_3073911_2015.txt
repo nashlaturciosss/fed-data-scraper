@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2015","Bennie C. Rogers,"Jr."","Common Stock","5158","14.28%","n/a"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2015","Estate of John M. Rogers,"Sr."","Common Stock","9027.1","25.00%","n/a"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2015","Martha J. Rogers","Common Stock","7550.3","20.94%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Director","Kathleen Bruno","Curr Oviprnt Mgr","Viking Culinary Arts Center","2015","Curriculum Development Manager","n/a"
+"Morton Bancorp,"Inc."","Secretary/Treasurer Director","Tito Echiburu","CFO","Gingerbread House","2015","n/a","n/a"
+"Morton Bancorp,"Inc."","Director","Charles Latham","Director","n/a","2015","Farmer","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J Rogers","Secretary","B.C. Rogers Oil Co. Inc.","2015","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J Rogers","Secretary","Rogers Farms Partnership","2015","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J Rogers","Secretary","B.C. Rogers and Sons","2015","n/a","n/a"
+"Morton Bancorp,"Inc."","Vice President/Director","Kenneth Gordon Jr","n/a","n/a","2015","n/a","n/a"
+"Morton Bancorp,"Inc."","Owner Director","Bennie C Rogers. Jr.","President","B.C. Rogers Oil Co. Inc.","2015","Manager","n/a"
+"Morton Bancorp,"Inc."","Owner Director","Bennie C Rogers. Jr.","President","Rogers Farms Partnership","2015","Manager","n/a"
+"Morton Bancorp,"Inc."","Owner Director","Bennie C Rogers. Jr.","President","B.C. Rogers and Sons","2015","Manager","n/a"
+"Morton Bancorp,"Inc."","Director","Beth Rogers","Director","n/a","2015","Nurse","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","Rogers Dabbs","2015","Investor","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","R.U,"LLC"","2015","Investor","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","Facilities,"Inc."","2015","Investor","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","B.C. Rogers Dit Co,"Inc."","2015","Investor","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","Rogers Farms Partnership","2015","Investor","n/a"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","Owner","B.C Rogers and Sons","2015","Investor","n/a"
+```

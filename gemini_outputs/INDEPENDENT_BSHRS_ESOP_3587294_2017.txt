@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Billy M. Bolton","Voting Power","n/a","50%","3587294"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Tammy Montgomery","Voting Power","n/a","50%","3587294"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Billy M. Bolton","Common Stock","350","1.65%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Bradley Bolton","Common Stock","378","1.76%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Tremont,"MS"","2017","Bobby Canup","Common Stock","201",".95%"
+"Independent Bancshares,"Inc."","Tremont,"MS"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Florence,"AL"","2017","Marc Dempsey","Common Stock","577","2.71%"
+"Independent Bancshares,"Inc."","Florence,"AL"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Golden,"MS"","2017","Tammy Montgomery","Common Stock","200",".94%"
+"Independent Bancshares,"Inc."","Golden,"MS"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Patricia A. Nelson","Common Stock","1029","4.84%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","David Tiffin","Common Stock","1345","6.33%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Voting Power for H/C","n/a","n/a","14.29%"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2017","Employee Stock Ownership Plan","Common Stock","10895","51.25%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Independent Bancshares,"Inc."","Chairman/Pres/Director","Billy M. Bolton","President/Dir. Of","Bay Independent Insurance Agency,"Inc."","2017","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Chairman/Pres/Director","Billy M. Bolton","V-Pres/Dir of","Pat's Arboretum Inn","2017","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Chairman/Pres/Director","Billy M. Bolton","Dir/Member Audit Committee","Canup Properties,"LLC"","2017","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","V-Pres/Dir of","Patricia A. Nelson","President/CEO/Senior Lender/","n/a","2017","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","V-Pres/Dir of","Patricia A. Nelson","Member Loan C","n/a","2017","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","President/CEO/Senior Lender/","Bradley Bolton","Director","n/a","2017","Retired Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Dir/Member Audit Committee","Bobby Canup","VP & Shareholder","Craig Construct.Co.","2017","n/a","n/a"
+"Independent Bancshares,"Inc."","Dir/Member Audit Committee","Bobby Canup","Partner","Craig Partners,"LLC"","2017","n/a","n/a"
+"Independent Bancshares,"Inc."","Dir/Member Audit Committee","Bobby Canup","D&M","D&M Holdings,"LLC"","2017","n/a","n/a"
+"Independent Bancshares,"Inc."","Trustee","Tammy Montgomery","n/a","n/a","2017","EX.VP/COO/Dir of HR","n/a"
+"Independent Bancshares,"Inc."","n/a","David Tiffin","Sec/CityAuto Parts,"Inc"","City Auto Parts,"Inc"","2017","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","n/a","David Tiffin","Pres","Tiffin Supply,"Inc."","2017","Retired & Co-Owner of Building Supply Store","n/a"
+```

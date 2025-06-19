@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2015","Estate of Herman J. Russell","n/a","606790","29.36%","1078958"
+"Citizens Bancshares Corporation","Reno,"Nevada"","2015","Hot Creek Capital,"LLC"","n/a","184850","8.94%","1078958"
+"Citizens Bancshares Corporation","Chicago,"TL"","2015","National Community Investment Fun","n/a","105208","5.09%","1078958"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","Principal Shareholder","Estate of Herman J. Russell","n/a","n/a","2015","n/a","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","director","Avnet,"Inc"","2015","Retired","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","director","Acuity Brands,"Inc"","2015","Retired","1078958"
+"Citizens Bancshares Corporation","Director","James E. Williams","President","Williams Communications Systems","2015","President of Williams Communications Syste","1078958"
+"Citizens Bancshares Corporation","Director","C. David Moody","President","C.D. Moody Construction Co.,"Inc"","2015","President of C.D. Moody Construction Co.,"In"","1078958"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","H.J. Russell & Co.","2015","President of H.J. Russell & Company and","1078958"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","Russell New Urban Development,"LLC"","2015","President of H.J. Russell & Company and","1078958"
+"Citizens Bancshares Corporation","Director","Robert Brown","Owner","R.L. Brown & Associates,"Inc"","2015","Principal,"R.L. Brown & Assoc."","1078958"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore,"Sr.","CPA","СВА"","Founder & Managing Principal","Elmore CPAS,"LLC"","2015","Managing Principal of Elmore CPAS,"LLC"","1078958"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","n/a","n/a","2015","n/a","1078958"
+"Citizens Bancshares Corporation","Executive VP & CFO","Samuel J. Cox","n/a","n/a","2015","n/a","1078958"
+"Citizens Bancshares Corporation","Executive VP & CFO","Frederick L. Daniels,"Jr."","n/a","n/a","2015","n/a","1078958"
+```

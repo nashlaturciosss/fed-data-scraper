@@ -1,26 +1,25 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BPC Corporation","Monterey","2016","Jack P. Ray,"Sr."","Common Stock","100847","49.9990%"
-"BPC Corporation","Monterey","2016","2006 Jack P. Ray Irrevocable Succession Trust","Common Stock","0","0.0000%"
-"BPC Corporation","Monterey","2016","W.T. Ray,"Jr."","Common Stock","100848","49.9995%"
-"BPC Corporation","Cookeville","2016","Elizabeth Ann Ray Fournet 2007 Investment Services Trust","Common Stock","3","0.0015%"
-"BPC Corporation","Cookeville","2016","Elizabeth Ann Ray Fournet","Common Stock","0","0.0000%"
-"BPC Corporation","Monterey","2016","2006 Jack P. Ray Irrevocable Succession Trust","Common Stock","907623","49.9990%"
-"BPC Corporation","Monterey","2016","W.T. Ray,"Jr."","Common Stock","907632","49.9995%"
-"BPC Corporation","Cookeville","2016","Elizabeth Ann Ray Fournet","Common Stock","27","0.0015%"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BPC Corporation","Director & Chairman of Board","Jack P. Ray,"Sr."","n/a","n/a","2016"
-"BPC Corporation","Director & Vice President","W.T. Ray,"Jr."","n/a","n/a","2016"
-"BPC Corporation","Director","Elizabeth Ray Fournet","n/a","n/a","2016"
-"BPC Corporation","Director EVP & Chief Financial Officer","-0-","n/a","n/a","2016"
-"BPC Corporation","Director","David Williamson","Director","Builders Supply","2016"
-"BPC Corporation","Director","Norman Copeland","President","Builders Supply","2016"
-"BPC Corporation","Director","Gerry Whitehead","Partner","Jack P Ray Irrevocable Trust & W T.Ray","2016"
-"BPC Corporation","Director President & CEO","-0-","n/a","n/a","2016"
-"BPC Corporation","Director","Randy Bond","Director","Old Baker Coal Co","2016"
-"BPC Corporation","Director","Randy York","n/a","n/a","2016"
-"BPC Corporation","Director","Thomas Jones","n/a","n/a","2016"
-"BPC Corporation","Director","Bailey Fred Allred","President","Moore,"Rader","Fitzpatrick and York","PC"","2016"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BPC Corporation","Monterey,"Tennessee"","2016","Jack P. Ray,"Sr."","n/a","100847","49.9990%","1081613"
+"BPC Corporation","Monterey,"Tennessee"","2016","2006 Jack P. Ray Irrevocable Succession Trust","n/a","907623","49.9990%","1081613"
+"BPC Corporation","Monterey,"Tennessee"","2016","W.T. Ray,"Jr."","n/a","100848","49.9995%","1081613"
+"BPC Corporation","Monterey,"Tennessee"","2016","W.T. Ray,"Jr."","n/a","907632","49.9995%","1081613"
+"BPC Corporation","Cookeville,"Tennessee"","2016","Elizabeth Ann Ray Fournet 2007 Investment Services Trust","n/a","3","0.0015%","1081613"
+"BPC Corporation","Cookeville,"Tennessee"","2016","Elizabeth Ann Ray Fournet","n/a","27","0.0015%","1081613"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BPC Corporation","Director & Chairman of Board","Jack P. Ray,"Sr."","Partner","Builders Supply","2016","Banker & Attorney","1081613"
+"BPC Corporation","Director & Vice President","W.T. Ray,"Jr."","Director","Jack P Ray Irrevocable Trust & W T.Ray","2016","Building Supply Dealer","1081613"
+"BPC Corporation","Director","Elizabeth Ray Fournet","n/a","n/a","2016","n/a","1081613"
+"BPC Corporation","EVP & Chief Financial Officer","Gary L. Medley","n/a","n/a","2016","n/a","1081613"
+"BPC Corporation","Director & President & CEO","David Williamson","President","Old Baker Coal Co","2016","n/a","1081613"
+"BPC Corporation","Director & Secretary/Treasurer","Norman Copeland","n/a","n/a","2016","n/a","1081613"
+"BPC Corporation","Director","Gerry Whitehead","n/a","n/a","2016","n/a","1081613"
+"BPC Corporation","Director","Randy Bond","n/a","n/a","2016","Banker & CPA","1081613"
+"BPC Corporation","Director","Randy York","n/a","n/a","2016","Banker","1081613"
+"BPC Corporation","Director","Thomas Jones","n/a","n/a","2016","Retired Banker","1081613"
+"BPC Corporation","Director","Bailey Fred Allred","n/a","n/a","2016","Attorney","1081613"
 ```

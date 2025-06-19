@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2014","Hue Counts","Common Stock","28217","16.93%","n/a"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2014","Charles E. Gleghorn","Common Stock","34417","20.65%","n/a"
+"North Alabama Bancshares,"Inc."","Murfreesboro,"TN"","2014","Joe B Ferrell","Common Stock","12859","7.72%","n/a"
+"North Alabama Bancshares,"Inc."","Mulberry,"TN"","2014","James B Ferrell","Common Stock","12858","7.72%","n/a"
+"North Alabama Bancshares,"Inc."","Hazel Green,"AL"","2014","Estate of Joe L Lasater","Common Stock","10834","6.50%","n/a"
+"North Alabama Bancshares,"Inc."","New Market,"AL"","2014","Roger E Jones","Common Stock","11084","6.65%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","n/a","TN Valley Reinsurance","2014","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","n/a","WCS Corporation","2014","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director","Hue Counts","n/a","n/a","2014","n/a","n/a"
+"North Alabama Bancshares,"Inc."","Director","Terry West","EVP","n/a","2014","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director","Roger Jones","n/a","n/a","2014","Commissioner","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","Estate of Joe Lee Lasater","n/a","n/a","2014","n/a","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","Joe B Ferrell","n/a","n/a","2014","n/a","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","James B Ferrell","n/a","n/a","2014","n/a","n/a"
+```

@@ -1,0 +1,21 @@
+Here are the two tables in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2022","Jeff Corlew","Director","426","0.11%","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Steve DeLoach","Director","2200","0.57%","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Steve DeLoach","Owner","2200","0.57%","Center for Dental Excellence,"Inc"","2022","Dentistry","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Tommy Marvin","Director","3152","0.82%","Taylor Funeral Home,"Inc."","2022","Mortician","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2022","Wayne McIntire","Director","11508","2.98%","n/a","2022","Retired","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Tommy Nicks","Director Chairman","15921","4.12%","n/a","2022","Chairman of the Board Bank of Dickson","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","James E. Peeler","Director","4555","1.18%","n/a","2022","Retired","n/a"
+"Dickson Financial Corporation","Vanleer,"TN"","2022","Mike Powell","Secretary/Treasurer","300","0.07%","n/a","2022","CFO Bank of Dickson","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Teddy Pruett","Director","4050","1.05%","n/a","2022","Retired","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2022","Donald Richardson","Director","6516","1.68%","n/a","2022","Vice Chairman & Finance Committee Chairman Bank of Dickson","n/a"
+"Dickson Financial Corporation","Burns,"TN"","2022","Donald Richardson","President & CEO","6516","1.68%","n/a","2022","Vice Chairman & Finance Committee Chairman Bank of Dickson","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Jamie Snyder","Director","122","0.03%","n/a","2022","President & CEO Bank of Dickson","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Jamie Snyder","President & CEO","122","0.03%","n/a","2022","President & CEO Bank of Dickson","n/a"
+"Dickson Financial Corporation","Dickson,"TN"","2022","Don Weiss,"Jr."","Director","2470","0.64%","n/a","2022","Retired","n/a"
+```

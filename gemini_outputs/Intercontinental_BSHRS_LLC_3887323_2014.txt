@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Intercontinental Bankshares,"LLC"","Hollywood,"USA"","2014","Orestes A. Acosta","n/a","29050","7.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Coral Gables,"FL"","2014","Manuel Herrera","n/a","20750","5.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Miami,"Florida"","2014","Angel Meza","n/a","20750","5.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2014","Horacio Pinto","n/a","29050","7.00%","n/a"
+"Intercontinental Bankshares,"LLC"","Aventura,"Florida","USA"","2014","Pedro Torres","n/a","32163","7.75%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2014","Domingo Goncalves","n/a","24059","5.80%","n/a"
+"Intercontinental Bankshares,"LLC"","Miami,"Florida","USA"","2014","Mercedes Weitzmann","n/a","29503","7.11%","n/a"
+"Intercontinental Bankshares,"LLC"","Coral Gables,"Florida","USA"","2014","Alvaro Gorrin Ramos","n/a","41085","9.90%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2014","Operadora Daal,"C.A. (a Venezuelan Company)"","n/a","31196","7.52%","n/a"
+"Intercontinental Bankshares,"LLC"","Caracas,"Venezuela"","2014","Mauro Libi","n/a","37350","9.00%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Intercontinental Bankshares,"LLC"","Principal Securities Holder","Alvaro Gorrin Ramos","None","None","2014","Retired","n/a"
+"Intercontinental Bankshares,"LLC"","Director,"Director & Chairman of BOD of Intercontinental Bank"","Nathan Kutt","Director,"President & Secretary of Kutt Advisory Group","P.A."","Kutt Advisory Group","2014","Attorney","n/a"
+"Intercontinental Bankshares,"LLC"","Director,"Director & Chairman of BOD of Intercontinental Bank"","Nathan Kutt","Partner of Down Annex,"LLC."","Down Annexx LLC","2014","Attorney","n/a"
+"Intercontinental Bankshares,"LLC"","President,"CEO & Director of Intercontinental Bank"","Blas I. Betancourt","Senior Counsel at Womble Carlyle","n/a","2014","Banker","n/a"
+"Intercontinental Bankshares,"LLC"","Director,"Director of Intercontinental Bank"","Domingo Alonso","President of Alonso & Garcia,"P.A."","Alonso & Garcia","2014","Accountant","n/a"
+"Intercontinental Bankshares,"LLC"","Director,"Director of Intercontinental Bank"","Daniel Gorrin","See attached list","See attached list","2014","Investor","n/a"
+"Intercontinental Bankshares,"LLC"","Secretary of the Board of Directors,"Senior Lending Officer","Director & Secretary of the BOD of Intercontinental Bank"","Felix Montanaro","None","n/a","2014","Banker","n/a"
+"Intercontinental Bankshares,"LLC"","Director,"Director of Intercontinental Bank"","Freddy Martinez","President & CEO of Forem Investments LLC","Forem Investments LLC","2014","Financial Advisor (CFP)","n/a"
+```

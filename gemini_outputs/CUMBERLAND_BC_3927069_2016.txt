@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CUMBERLAND BANCORP,"INC."","Dickson,"Tennessee"","2016","Anthony T. Moore","Common Stock","145450","14.9157%","n/a"
+"CUMBERLAND BANCORP,"INC."","Clarksville,"Tennessee"","2016","Don Jenkins","Common Stock","50000","5.1274%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CUMBERLAND BANCORP,"INC."","President/CEO/Director","Ronald Sleigh","General Partner","Sleigh Brothers Ptrshp","2016","n/a","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Kim McMillan","Mayor","City of Clarksville","2016","Mayor,"City of Clarksville"","n/a"
+"CUMBERLAND BANCORP,"INC."","Director & Secretary","William H. Pollard Jr. DVM","Veterinary Medical Practice","Pollard Properties,"LLC"","2016","Veterinarian","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","K. Jean Beauchamp DDS","n/a","Clarksville Pediatric Dentistry,"PC"","2016","Dentist","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Bryce S. Sanders Jr.","n/a","None","2016","Retired Executive - Tobacco Industry","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Brent Parchman","Sole Proprietor","Digest Publications","2016","Advertising/Marketing","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Brent Parchman","Sole Proprietor","Ledbetter Screen Printing","2016","Advertising/Marketing","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Richard H. Swift","General Partner","Center Pointe Partners","2016","Real Estate","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Richard H. Swift","General Partner","BSW Partners","2016","Real Estate","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Richard H. Swift","General Partner","Center Pointe Retail","2016","Real Estate","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Richard H. Swift","General Partner","W-S Partners","2016","Real Estate","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Richard H. Swift","General Partner","DHE Partners","2016","Real Estate","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Don Jenkins","President","Jenkins & Wynne Ford,"Inc."","2016","Owner - Automobile Dealerships","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Don Jenkins","COB","Pennyrile Ford","2016","Owner - Automobile Dealerships","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Don Jenkins","President","Don Mar Properties","2016","Owner - Automobile Dealerships","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Anthony T. Moore","Chairman,"President/CEO"","Southeastern Bancorp,"Inc."","2016","Banking","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Anthony T. Moore","Secretary","Autumn Place,"Inc."","2016","Banking","n/a"
+"CUMBERLAND BANCORP,"INC."","Director","Anthony T. Moore","Director","Putnam 1st Mercantile","2016","Banking","n/a"
+```

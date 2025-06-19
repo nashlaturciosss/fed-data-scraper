@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2020","Liberty Bank & Trust ESOP","n/a","32531","19.75%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2020","Francis Family Investments,"LLC Norman C. Francis"","n/a","24269","14.74%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2020","Alden McDonald,"Jr."","n/a","20887","12.68%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2020","Carolyn C. Dorion Dorion Family Trust","n/a","15823","9.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank & Trust","n/a","Liberty Bank & Trust ESOP","n/a","n/a","2020","Employee Benefit Plan","n/a"
+"Liberty Bank","President/CEO Director","Alden J. McDonald,"Jr."","Managing Partner","6600 Plaza Square,"LLC"","2020","President of Banking Institution","n/a"
+"Liberty Bank","President/CEO Director","Alden J. McDonald,"Jr."","Owner","Chart L.L.C.","2020","President of Banking Institution","n/a"
+"Liberty Bank","President/CEO Director","Alden J. McDonald,"Jr."","Managing Partner","2714 Canal,"LLC"","2020","President of Banking Institution","n/a"
+"Liberty Bank","Chairman & Director","Norman C. Francis","Chairman & Director","Francis Family Investments,"LLC"","2020","Retired","n/a"
+"Liberty Bank","Director","George Dimitri","n/a","n/a","2020","Retired","n/a"
+"Liberty Bank","Director","Sybil H. Morial","n/a","n/a","2020","Retired University Administrator","n/a"
+"Liberty Bank","Director","Ronald V. Burns,"Sr."","President/CEO","Burns Management Group","2020","Owner,"Courier Company"","n/a"
+"Liberty Bank","Director","Cecil Blache","Attorney","n/a","2020","Attorney","n/a"
+"Liberty Bank","Director","James Smith","n/a","n/a","2020","Retired/Consultant","n/a"
+"Liberty Bank","Director","Todd McDonald","Owner","TM Management Group","2020","Senior Vice President of Banking Institution","n/a"
+"Liberty Bank","Director","Todd McDonald","Owner","Go To Interview","2020","Senior Vice President of Banking Institution","n/a"
+"Liberty Bank","Director","Kim Boyle","n/a","n/a","2020","Attorney","n/a"
+"Liberty Bank","Director","David Francis","n/a","DJF,"LLC"","2020","Media Executive","n/a"
+```

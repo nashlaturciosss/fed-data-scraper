@@ -1,18 +1,29 @@
-```text
+Here are the requested CSV tables extracted from the document:
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"ABB FINANCIAL GROUP,"INC."","Arlington","2019","Kenneth R. Lehman","Common","2571250","46.94%"
-"ABB FINANCIAL GROUP,"INC."","Atlanta","2019","Serguei Kouzmine","Common","392500","7.17%"
-"ABB FINANCIAL GROUP,"INC."","Atlanta","2019","Serguei Kouzmine","Preferred","5891","100.00%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ABB Financial Group,"Inc."","Arlington,"VA"","2019","Kenneth R. Lehman","Common","2571250","46.94%","n/a"
+"ABB Financial Group,"Inc."","Atlanta,"GA"","2019","Serguei Kouzmine","Common","392500","7.17%","n/a"
+"ABB Financial Group,"Inc."","Atlanta,"GA"","2019","Serguei Kouzmine","Preferred","5891","100.00%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Affinity Bank","Director","Kenneth R. Lehman","Director","BVC Capital,"LLC"","2019"
-"Affinity Bank","Director/CEO","Edward J. Cooney","President/Director","Affinity Bank","2019"
-"Affinity Bank","Director","Leeman Bennett","Director","n/a","2019"
-"Affinity Bank","n/a","Frank A. Clayton,"DDS."","Director","Affinity Bank","2019"
-"Affinity Bank","SVP/CFO","Brandi Pajot","SVP/CFO","Affinity Bank","2019"
-"Affinity Bank","Director","Jeffrey R. Lake","Director","Dixie Electric Company","2019"
-"Affinity Bank","Chairman","Robert C. McMahan","Chairman","Affinity Bank","2019"
-"Affinity Bank","n/a","Wayne V. Mitsch","Director","Affinity Bank","2019"
-"Affinity Bank","n/a","Clark N. Nelson,"Jr"","EVP/CCO","Affinity Bank","2019"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Affinity Bank","Director","Kenneth R. Lehman","Owner/Managing Member","BVC Capital,"LLC"","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director & Principal Stockholder","CCF Holding Company & Heritage Bank","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Principal Stockholder","Providence Bank","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director & Principal Stockholder","Heritage Bancorporation & The Heritage Bank","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director & Principal Stockholder","Marine Bancorp & Marine Bank & Trust Co.","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director & Principal Stockholder","Virginia Partners Bank","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director & Principal Stockholder","Village Bank & Trust Financial Corporation","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","Director","Kenneth R. Lehman","Director/Managing Member","Delmar Bancorp & The Bank of Delmarva","2019","Owner,"BVC Capital","LLC"","n/a"
+"Affinity Bank","President/Director","Edward J. Cooney","n/a","n/a","2019","n/a","n/a"
+"Affinity Bank","Director","Leeman Bennett","n/a","n/a","2019","n/a","n/a"
+"Affinity Bank","Director","Frank A. Clayton,"DDS."","Owner","Clayton Dental,"PC"","2019","Owner,"Clayton Dental","PC"","n/a"
+"Affinity Bank","Director","Frank A. Clayton,"DDS."","President","WMJ Holdings,"LLC"","2019","Owner,"Clayton Dental","PC"","n/a"
+"Affinity Bank","SVP/CFO","Brandi Pajot","n/a","n/a","2019","n/a","n/a"
+"Affinity Bank","Director","Jeffrey R. Lake","President","Dixie Electric Company","2019","President Dixie Electric Company","n/a"
+"Affinity Bank","Chairman","Robert C. McMahan","n/a","n/a","2019","n/a","n/a"
+"Affinity Bank","Director","Wayne V. Mitsch","n/a","n/a","2019","n/a","n/a"
+"Affinity Bank","EVP/CCO","Clark N. Nelson,"Jr"","n/a","n/a","2019","n/a","n/a"
 ```

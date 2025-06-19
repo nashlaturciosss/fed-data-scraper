@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2015","L Jackson McConnell,"Sr."","n/a","211,"157"","25.56%","3145966"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2015","Alice M. Eberhardt","n/a","197,"763"","23.93%","3145966"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","n/a","2015","Retired","3145966"
+"Pinnacle Financial Corporation","Shareholder","Alice M. Eberhardt","n/a","n/a","2015","Homemaker","3145966"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","Chairman","Pinnacle Bank","2015","President CEO","3145966"
+"Pinnacle Financial Corporation","Director","Don Fortson","Director","n/a","2015","Retired","3145966"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","Director","Coldwell Banker Fort Realty","2015","Real Estate","3145966"
+"Pinnacle Financial Corporation","Director","Steve Williams","Director","Tri State Distributors","2015","Retail Owner","3145966"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Director","The Chestnut Company,"LLP"","2015","Medical Dr.","3145966"
+"Pinnacle Financial Corporation","Director","Robert Hardy","Director","Athens Technical College","2015","Education","3145966"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Director","Darnel Quick Recovery","2015","Collections Owner","3145966"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","Dr. Thomas E. McGarity Dental,"LLC"","2015","Dentist Owner","3145966"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","Director","Joel T. Cunningham Interiors","2015","Retail","3145966"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Director","Integrity Valuation Management,"LLC"","2015","Appraisal Order & Review","3145966"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","Director","Lee Insurance Agency","2015","Insurance","3145966"
+"Pinnacle Financial Corporation","n/a","David K. Voyles","n/a","Pinnacle Bank","2015","EVP","3145966"
+```

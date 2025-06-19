@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","New York,"NY"","2020","CGMI (holds EJF Sidecar Fund Series LLC)","n/a","278093","8.1%","n/a"
+"InsCorp,"Inc."","New York,"NY"","2020","Raymond James (holds multiple shareholders,"none of which holds more than 5%)"","n/a","252205","7.34%","n/a"
+"InsCorp,"Inc."","New York,"NY"","2020","Jefferies (holds Mendon Capital Masters Fund LTD)","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","CFO","W. Page Barnes","Director","INSBANK","2020","Healthcare","n/a"
+"InsCorp,"Inc."","Executive Vice President","David P. Crabtree","Director","Brookside Properties,"Inc."","2020","Real Estate Development","n/a"
+"InsCorp,"Inc."","Portfolio Manager","Russell Echlov","Director","n/a","2020","Equity & Investments","n/a"
+"InsCorp,"Inc."","Director","Richard Hollis","President","Hollis & Burns,"Inc."","2020","Insurance","n/a"
+"InsCorp,"Inc."","Director","Richard Hollis","n/a","Hollis & Burns LLC","2020","Insurance","n/a"
+"InsCorp,"Inc."","Attorney","Stacey Garrett Koju","Director","n/a","2020","Attorney","n/a"
+"InsCorp,"Inc."","Officer - Secretary","C. Louis Patten,"Jr."","Director","n/a","2020","Insurance","n/a"
+"InsCorp,"Inc."","Officer-Treasurer","Dennis Petty","Director","Dennis W. Petty,"CPA"","2020","CPA","n/a"
+"InsCorp,"Inc."","Officer-Chairman","Michael A. Qualls","Director","n/a","2020","Banking","n/a"
+"InsCorp,"Inc."","Officer-Pres/CEO","James H. Rieniets,"Jr."","Director","Gracious Henry Properties,"LLC"","2020","Banking","n/a"
+"InsCorp,"Inc."","n/a","Charles Tagman,"Jr."","Director","Risko Group,"LLC"","2020","Consulting","n/a"
+"InsCorp,"Inc."","President","Philip R. Zanone,"Jr."","Director","Green River Properties","2020","Investments","n/a"
+"InsCorp,"Inc."","President","Philip R. Zanone,"Jr."","Director","MPC Properties","2020","Investments","n/a"
+```

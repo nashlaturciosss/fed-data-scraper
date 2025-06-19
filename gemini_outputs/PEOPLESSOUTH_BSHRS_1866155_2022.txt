@@ -1,0 +1,19 @@
+Here are the two CSV tables in valid CSV format as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLESSOUTH BANCSHARES,"INC."","Headland,"Alabama"","2022","Rickey E. Stuckey,"et. al."","n/a","385088","14.86%","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Albany,"GA"","2022","J. Alvin Newton,"Jr."","n/a","248779","9.60%","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Colquitt,"Georgia"","2022","Ronald H. Rentz,"et. al."","n/a","237037","9.15%","518037"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLESSOUTH BANCSHARES,"INC."","Chairman of the Board","Rickey E. Stuckey","n/a","n/a","2022","Retired CEO","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Co-President/Director","Erin Stuckey","n/a","n/a","2022","n/a","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Co-President/Director","Caleb Stuckey","n/a","n/a","2022","n/a","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Corporate Sec & Treas","Sandra Womble","n/a","n/a","2022","Chief Financial Officer","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","Ronald H. Rentz","Attorney at Law","Ronald H. Rentz","2022","Attorney","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","J. Alvin Newton,"Jr."","n/a","Burke,"Worsham & Harrell LLC"","2022","Attorney","518037"
+"PEOPLESSOUTH BANCSHARES,"INC."","Director","Joseph W. Grimsley","n/a","n/a","2022","Retired Dentist","518037"
+```

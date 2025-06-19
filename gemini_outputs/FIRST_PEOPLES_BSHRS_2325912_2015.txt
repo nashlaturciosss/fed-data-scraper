@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Pine Mountain,"GA"","2015","Mack H. Clements,"MD"","Common","11525","8.49%","n/a"
+"First Peoples Bankshares,"Inc."","Pine Mountain,"GA"","2015","Capital City Bank Group,"Inc."","Common","31200","19.76%","n/a"
+"First Peoples Bankshares,"Inc."","Pine Mountain,"GA"","2015","Ann A. Hill","Common","21441","13.58%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bankshares,"Inc."","Director,"President"","Chance Carlisle","Director","Carlisle Services","2015","Construction","n/a"
+"First Peoples Bankshares,"Inc."","Director,"Chairman","President"","Mack H. Clements,"MD"","Director","Clements Professional Association","2015","Physician","n/a"
+"First Peoples Bankshares,"Inc."","Director,"Chairman","President"","Mack H. Clements,"MD"","Director","Maugarrah & Garrett,"Inc."","2015","Physician","n/a"
+"First Peoples Bankshares,"Inc."","VP/SLO,"N/A"","Doug Etheridge","n/a","n/a","2015","Executive","n/a"
+"First Peoples Bankshares,"Inc."","Director,"N/A"","Alex A. Hill","General Partner","Hill Family Holdings,"LLLP"","2015","VP of Operations","n/a"
+"First Peoples Bankshares,"Inc."","Director,"President","Partner"","Charles Kimbrough","Director","Kimbrough Brother","2015","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director,"President","Partner"","Charles Kimbrough","Director","Yellow Jacket Rivers Rats,"LLC"","2015","Investor","n/a"
+"First Peoples Bankshares,"Inc."","Director,"Secretary"","Jane J. Lawson","Secretary","Jenkins Company","2015","N/A","n/a"
+"First Peoples Bankshares,"Inc."","VP/CFO,"N/A"","J. Randal McKoon","Co-Owner","CaCo Management","2015","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Director,"N/A"","Sally Sharpless","n/a","n/a","2015","Retired","n/a"
+"First Peoples Bankshares,"Inc."","President,"N/A"","Charles Sweat","President","n/a","2015","Banking","n/a"
+"First Peoples Bankshares,"Inc."","Principal Shareholder,"N/A"","Capital City Bank Group,"Inc."","n/a","n/a","2015","N/A","n/a"
+"First Peoples Bankshares,"Inc."","Principal Shareholder,"N/A"","Ann Hill","n/a","n/a","2015","N/A","n/a"
+```

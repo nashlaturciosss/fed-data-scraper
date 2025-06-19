@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Floridian Community Holdings,"Inc."","MacLean,"VA"","2016","FJ CAPITAL MANAGEMENT","n/a","332000","9.74%","3203884"
+"Floridian Community Holdings,"Inc."","New York,"NY"","2016","BASSWOOD CAPITAL MANAGEMENT","n/a","201911","5.92%","3203884"
+"Floridian Community Holdings,"Inc."","Philadelphia,"PA"","2016","PATRIOT FINANCIAL PARTNERS","n/a","332000","9.74%","3203884"
+"Floridian Community Holdings,"Inc."","Palm Beach Gardens,"FL"","2016","HARVEY SORKIN","n/a","239143","7.02%","3203884"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Floridian Community Holdings,"Inc."","Director","David Zinn","n/a","Retired Automobile Dealership Owner","2016","Floridian Community Bank","n/a"
+"Floridian Community Holdings,"Inc."","Director","David Zinn","n/a","Retired Automobile Dealership Owner","2016","Floridian Custody Services","n/a"
+"Floridian Community Holdings,"Inc."","Director","Harvey Sorkin","n/a","Investor","2016","Floridian Community Bank","n/a"
+"Floridian Community Holdings,"Inc."","Director","Harvey Sorkin","n/a","Investor","2016","Floridian Custody Services","n/a"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","Warren Henry Automobiles,"Inc"","2016","Automobile Dealership","n/a"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","K & L Financial Services,"Inc"","2016","Automobile Dealership","n/a"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","CIF,"LLC"","2016","Automobile Dealership","n/a"
+"Floridian Community Holdings,"Inc."","Director","Warren Zinn","Shareholder","Motocars Holdings,"LLC"","2016","Automobile Dealership","n/a"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","CMC Medical","2016","Business man","n/a"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","S.E. Medical Solutions","2016","Business man","n/a"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","Janet Fernandez Insurance","2016","Business man","n/a"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","Axis Healthcare Partners","2016","Business man","n/a"
+"Floridian Community Holdings,"Inc."","Director","Miguel Fernandez","Shareholder","Mijan","2016","Business man","n/a"
+"Floridian Community Holdings,"Inc."","Director,"CEO"","Joseph Marzouca","Director,"CEO."","n/a","2016","CEO of Holding Co and Bank","n/a"
+"Floridian Community Holdings,"Inc."","Director,"CEO"","Joseph Marzouca","Director,"CEO."","n/a","2016","CEO of Holding Co and Bank","Floridian Community Bank"
+"Floridian Community Holdings,"Inc."","Director,"CEO"","Joseph Marzouca","Director,"CEO."","n/a","2016","CEO of Holding Co and Bank","Floridian Custody Services"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Frank Costoya Architect,"Inc"","2016","Construction Contractor","n/a"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Colonnade Construction Gr.","2016","Construction Contractor","n/a"
+"Floridian Community Holdings,"Inc."","Director","Frank Costoya","President","Mell Flo LLC","2016","Construction Contractor","n/a"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","n/a","2016","President","Floridian Community Bank"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","n/a","2016","President","Floridian Custody Services"
+"Floridian Community Holdings,"Inc."","President","Lee Frankhouser","n/a","n/a","2016","President","Floridian Community Holdings"
+```

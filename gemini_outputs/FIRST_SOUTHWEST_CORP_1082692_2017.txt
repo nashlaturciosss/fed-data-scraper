@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANK","McComb,"MS"","2017","James W. Covington","n/a","78440","26.0%","n/a"
+"FIRST BANK","McComb,"MS"","2017","First Bank ESOP","n/a","53287","17.6%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANK","Chairman & CEO","James W. Covington","Member","Covington Family,"LLC"","2017","Banker","875936"
+"FIRST BANK","Chairman & CEO","James W. Covington","Partner","E.D. Covington L.P.","2017","Banker","875936"
+"FIRST BANK","Chairman & CEO","James W. Covington","Member","YBrake Farms,"LLC"","2017","Banker","875936"
+"FIRST BANK","Director","E. G. Covington,"III"","Member","Covington Family,"LLC"","2017","Owner Hydro( Director","875936"
+"FIRST BANK","Director","Victor H. Morrish","Retired","n/a","2017","Business Owner","875936"
+"FIRST BANK","Director","Harrell E. Holloway,"Jr"","Partner","Alford Holloway & Smith,"CPA's"","2017","Accountant Director","875936"
+"FIRST BANK","Director","Lucius Lampton,"MD"","Physican","Physican Magnolia Clinic","2017","Physican Director","875936"
+"FIRST BANK","Director","Clifton Van Cleave","President","Buffalo Serivces Inc.","2017","Business Manager","875936"
+"FIRST BANK","Director","Clifton Van Cleave","President","BKWIK,"LLC"","2017","Business Manager","875936"
+"FIRST BANK","Director","Clifton Van Cleave","President","PFCT,"LLC"","2017","Business Manager","875936"
+"FIRST BANK","Director","Johnny H. Nance","Office Manager","Copeland,"Taylor & Bush","Attys"","2017","Business Owner","875936"
+"FIRST BANK","Director","J. P. Doyle","Retired","n/a","2017","Business Owner","875936"
+"FIRST BANK","Director","L Grant Bennett","Law Office of L. Grant Bennett,"Sr"","n/a","2017","Attorney Director","875936"
+"FIRST BANK","Director","John M Shappley","n/a","n/a","2017","N/A","875936"
+"FIRST BANK","Director","Randy M Burris","n/a","n/a","2017","N/A","875936"
+"FIRST BANK","Sr Vice President","Stella C Dodd","n/a","n/a","2017","N/A","875936"
+"FIRST BANK","Sr Vice President","Vickie M Webb","n/a","n/a","2017","N/A","875936"
+```

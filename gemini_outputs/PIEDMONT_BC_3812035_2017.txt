@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Piedmont Bank","n/a","2017","MONTY WATSON","n/a","16531","14.73%","3812035"
+"The Piedmont Bank","n/a","2017","MICHAEL C. GRIFFIN","n/a","11906","10.62%","3812035"
+"The Piedmont Bank","n/a","2017","JAMES R. JONES","n/a","11312","10.09%","3812035"
+"The Piedmont Bank","n/a","2017","JOSEPH F. SANDERS","n/a","9106","8.12%","3812035"
+"The Piedmont Bank","n/a","2017","JEFFREY M. BALL","n/a","8831","7.87%","3812035"
+"The Piedmont Bank","n/a","2017","ROGER M. TILLMAN","n/a","8656","7.71%","3812035"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Piedmont Bank","Director/ Chairman and CEO","Monty Watson","Director","Peachtree Immediate Care","2017","n/a","3812035"
+"The Piedmont Bank","Director/ Chairman and CEO","Monty Watson","Director","Northeast Georgia Health System","2017","n/a","3812035"
+"The Piedmont Bank","Director","Michael C. Griffin","n/a","n/a","2017","President/CEO,"Griffin Electric Services","Inc."","3812035"
+"The Piedmont Bank","Director","James R. Jones","Owner/Manager","Jones Management Services,"LLC"","2017","n/a","3812035"
+"The Piedmont Bank","Director","Joseph F. Sanders","Executive Vice President","Sanders Funeral Home","2017","n/a","3812035"
+"The Piedmont Bank","Director","Jeffrey M. Ball","President","Ball & Ball,"Inc."","2017","n/a","3812035"
+"The Piedmont Bank","Director","Roger M. Tillman","Attorney","Tillman & Nichols,"P.C."","2017","n/a","3812035"
+```

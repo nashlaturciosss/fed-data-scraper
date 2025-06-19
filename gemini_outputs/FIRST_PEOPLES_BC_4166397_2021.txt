@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2021","Johnny Wayne Farris","n/a","205015","28.1%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2021","Patricia B. Rugel","n/a","110000","15.1%","n/a"
+"First Peoples Bancorp,"Inc."","Knoxville,"Tennessee"","2021","Timothy F. Neal","n/a","225015","30.9%","n/a"
+"First Peoples Bancorp,"Inc."","New Market,"Tennessee"","2021","Jack A Hodgson","n/a","58187","8.0%","n/a"
+"First Peoples Bancorp,"Inc."","New Market,"Tennessee"","2021","Melanie T. Hodgson","n/a","29813","4.1%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"Tennessee"","2021","Eli N. Matijevich","n/a","60640","8.3%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Director and Chairman","Johnny Wayne Farris","Director and Chairman","Farris Motor Company","2021","Auto Dealer","421539"
+"First Peoples Bancorp,"Inc."","Director and Chairman","Johnny Wayne Farris","President","Farris Motor Company","2021","Auto Dealer","421539"
+"First Peoples Bancorp,"Inc."","Director","Timothy F. Neal","Director","Fairfax Development,"Inc."","2021","Development","421539"
+"First Peoples Bancorp,"Inc."","Director","Timothy F. Neal","President","Fairfax Development,"Inc."","2021","Development","421539"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","Director","TN Heritage Company","2021","Aerospace Sales and Marketing","421539"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","Director","Integrated Resources","2021","Aerospace Sales and Marketing","421539"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","President","TN Heritage Company","2021","Aerospace Sales and Marketing","421539"
+"First Peoples Bancorp,"Inc."","Director","Jack A Hodgson","President","Integrated Resources","2021","Aerospace Sales and Marketing","421539"
+"First Peoples Bancorp,"Inc."","Director","Eli N. Matijevich","Director","n/a","2021","Retired","421539"
+"First Peoples Bancorp,"Inc."","Director","Joseph C. Gibson","Director","Rugel Church Furnishings","2021","Accounting","421539"
+"First Peoples Bancorp,"Inc."","NA","Patricia B. Rugel","NA","n/a","2021","Retired","421539"
+"First Peoples Bancorp,"Inc."","Director and President","Steven D. Amos","Director and President","n/a","2021","Banker","421539"
+"First Peoples Bancorp,"Inc."","Secretary","Carla A. Hickey","CEO","n/a","2021","Banker","421539"
+```

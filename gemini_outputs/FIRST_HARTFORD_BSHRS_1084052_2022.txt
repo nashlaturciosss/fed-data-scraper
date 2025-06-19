@@ -1,0 +1,35 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Hartford Bancshares","Hartford,"AL"","2022","Henry J. Hughes","Common Stock","591","14.38%","n/a"
+"First Hartford Bancshares","Birmingham,"AL"","2022","Amy J. Hughes","Common Stock","516","12.55%","n/a"
+"First Hartford Bancshares","Hartford,"AL"","2022","Bill C. Hughes","Common Stock","427","10.39%","n/a"
+"First Hartford Bancshares","Fairhope,"AL"","2022","Ann Avery Pearson","Common Stock","237","5.77%","n/a"
+"First Hartford Bancshares","Dothan,"AL"","2022","Jack Houston Avery","Common Stock","236","5.74%","n/a"
+"First Hartford Bancshares","Santa Rosa Beach,"FL"","2022","Jody Paul Wesley","Common Stock","226","5.50%","n/a"
+"First Hartford Bancshares","Santa Rosa Beach,"FL"","2022","Samuel John Wesley","Common Stock","226","5.50%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hartford Bancshares","Chairman Director","Henry Jackson Hughes","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Director","Amy J. Hughes","n/a","n/a","2022","Homemaker","n/a"
+"First Hartford Bancshares","Director","William A. Hughes","n/a","n/a","2022","Administration","n/a"
+"First Hartford Bancshares","VP,"Controller"","Dell Hughes Murdock","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Vice Chairman Director","John Jackson Hughes","President","Hughes & Associates,"LLC"","2022","Banking","n/a"
+"First Hartford Bancshares","Director","Susan K. Hughes","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Director","Debbie Hamner","n/a","n/a","2022","Accountant","n/a"
+"First Hartford Bancshares","Director","Robert Guilford","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Director","Chandler Cox,"Jr."","n/a","Berkley Industrial","2022","Insurance","n/a"
+"First Hartford Bancshares","Secretary","Marcia A. Solomon","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Compliance Officer","Ashley Wilks","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","n/a","David Bailey","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","VP,"Loan Officer"","Jeffrey A. Sorrells","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","VP,"Information Technology"","Mike Kinman","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","AVP-Bookkeeping Division","Rhoda Kirkland","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","AVP,"Loan Officer"","Eli Dixon","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","AVP,"Loan Processing Division"","Karen Davis","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","Credit Analyst","Ricky Tillman","n/a","n/a","2022","Banking","n/a"
+"First Hartford Bancshares","n/a","Bill C Hughes","n/a","n/a","2022","Retired","n/a"
+```

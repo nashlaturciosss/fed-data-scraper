@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"TN"","2020","Sidney K. Lawson","n/a","99400","6.10%","n/a"
+"First Community Corporation","Rogersville,"TN"","2020","Sidney K. Lawson","n/a","7500","6.34%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2020","Tommy W. Young","n/a","94198","5.78%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2020","Tommy W. Young","n/a","7500","6.03%","n/a"
+"First Community Corporation","Nashville,"TN"","2020","John Spence","n/a","163080","9.9999%","n/a"
+"First Community Corporation","Nashville,"TN"","2020","John Spence","n/a","0","9.67%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Bank of East Tennessee","President Director","Tyler K. Clinch","Chairman and Director","Katharine Square Partnership","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Dr. David R. Johnson","Director","Grand Oaks Center,"LLC"","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Sidney K. Lawson","Director","Lawson Construction","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Chairman/Secretary Director","Tommy W. Young","Secretary and Director","n/a","2020","Retired","2037185"
+"First Community Bank of East Tennessee","Director","Steve L. Droke","EVP and Director","n/a","2020","n/a","2037185"
+"First Community Bank of East Tennessee","Director","David L. Lunceford","Director","n/a","2020","Retired","2037185"
+"First Community Bank of East Tennessee","Director","Kathy Richards","Director","KEP Properties,"LLC"","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Matthew Cleek","Director","Intellithought,"Inc."","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Matthew Cleek","Director","Wyvern Capital Group,"LLC"","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Matthew Cleek","Director","Striking 7","2020","Owner","2037185"
+"First Community Bank of East Tennessee","Director","Matthew Cleek","Director","Cleek Properties","2020","Owner","2037185"
+```

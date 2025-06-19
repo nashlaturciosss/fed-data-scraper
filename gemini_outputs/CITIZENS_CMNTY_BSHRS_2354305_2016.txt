@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Community Bancshares,"Inc."","Estill Springs,"TN"","2016","Eddie Tinsley","Common Stock","76028","10.12%","2354305"
+"Citizens Community Bancshares,"Inc."","Huntland,"TN"","2016","Citizens Community Bank","Common Stock","n/a","n/a","2354305"
+"Citizens Community Bancshares,"Inc."","Decherd,"TN"","2016","Citizens Community Bank","Common Stock","n/a","n/a","2354305"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Owner","Winton Realty","2016","Realtor","2002222"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Owner","Winchester Storage","2016","Realtor","2002222"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Partner","SAW Rental","2016","Realtor","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Steve Collins","None","None","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Phil Hall","Partner","DPK","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Tinsley Asphalt","2016","Road Const.","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Tinsley Asphalt Products","2016","Road Const.","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","TN Valley Ready Mix,"LLC"","2016","Road Const.","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Curbers,"Inc."","2016","Road Const.","2002222"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Partner","B&W Livestock","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Partner","SAW Rental","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Owner","Walker Farm","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Vice-President","Mona Swann","None","None","2016","None","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Randy Cofer","Owner","Retail Rental","2016","Equipment Rental","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Chris Parker","None","None","2016","Banker","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Donnie Worley","Owner","Franklin Co. Lumber Co.","2016","Retail Sales","2002222"
+"Citizens Community Bancshares,"Inc."","Director","David Fandrich","Owner","Fandrich Supply","2016","Retail Agriculture","2002222"
+"Citizens Community Bancshares,"Inc."","Director","Patrick Lynch","Partner","Lynch,"Lynch & Lynch"","2016","Attorney","2002222"
+```

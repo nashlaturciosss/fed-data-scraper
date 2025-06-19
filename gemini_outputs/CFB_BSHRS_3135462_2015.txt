@@ -1,20 +1,22 @@
-"Here are the two tables","extracted from the document:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CFB Bancshares,"Inc."","Oak Ridge","2015","James Wilson","Common Stock","23718","6%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CFB Bancshares,"Inc."","Oak Ridge,"TN"","2015","James Wilson","Common Stock","23,"718"","6%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Citizens First Bank","Director","Mitchell Dyer","Owner","M&G Precision Machinery","2015"
-"Citizens First Bank","Director","David Goodman","Sole Proprietor","Goodman Farms","2015"
-"Citizens First Bank","Director","Joe Cross","n/a","n/a","2015"
-"Citizens First Bank","Director","Vander Murray","Sole Proprietor","VJ's Exxon","2015"
-"Citizens First Bank","Director","Steve Smith","Pres. & Director","Smith & Smith,"P.C."","2015"
-"Citizens First Bank","Director & Chairman","James F. Wilson","Pres. & Chair.","Wilson & Brooks,"P.C."","2015"
-"Citizens First Bank","Director & President","Billy Rice","General Partner","HLR Investors","2015"
-"Citizens First Bank","Director & CFO","Wendell Langley","General Partner","HLR Investors","2015"
-"Citizens First Bank","Director","Larry D Williams","Sole Proprietor","Tubby's Construction","2015"
-"Citizens First Bank","Secretary","Elizabeth Maden","n/a","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens First Bank","Director","Mitchell Dyer","Owner","M&G Precision Machinery","2015","Machine Shop Owner","n/a"
+"Citizens First Bank","Director","David Goodman","Sole Proprietor","Goodman Farms","2015","Timberman/Farmer","n/a"
+"Citizens First Bank","Director","Joe Cross","n/a","n/a","2015","Pharmacist","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","VJ's Exxon","2015","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","Tobacco Town","2015","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","Imprint Impressions","2015","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","General Partner","M4 Investments","2015","Businessman","n/a"
+"Citizens First Bank","Director","Steve Smith","Pres. & Director","Smith & Smith,"P.C."","2015","Dentist","n/a"
+"Citizens First Bank","Director & Chairman","James F. Wilson","Pres. & Chair.","Wilson & Brooks,"P.C."","2015","Attorney","n/a"
+"Citizens First Bank","Director & President","Billy Rice","General Partner","HLR Investors","2015","CEO","n/a"
+"Citizens First Bank","Director & CFO","Wendell Langley","General Partner","HLR Investors","2015","President & CFO","n/a"
+"Citizens First Bank","Director","Larry D Williams","Sole Proprietor","Tubby's Construction","2015","Business Owner","n/a"
+"Citizens First Bank","Secretary","Elizabeth Maden","n/a","n/a","2015","Retired VP of Citizens First Bank","n/a"
 ```

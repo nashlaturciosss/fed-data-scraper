@@ -1,19 +1,25 @@
+Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancshares Corp.","Livingston","2018","Johnny F. Coleman","n/a","44.32","16.73%"
-"American Bancshares Corp.","Livingston","2018","J. Steve Daniels","n/a","42.00","15.85%"
-"American Bancshares Corp.","Livingston","2018","Buckie D. Parson,"DDS"","n/a","35.36","13.35%"
-"American Bancshares Corp.","Livingston","2018","Kenneth Copeland","n/a","22.06","8.33%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancshares Corp.","Livingston,"TN"","2018","Johnny F. Coleman","n/a","44.32","16.73%","2226475"
+"American Bancshares Corp.","Livingston,"TN"","2018","J. Steve Daniels","n/a","42.00","15.85%","2226475"
+"American Bancshares Corp.","Livingston,"TN"","2018","Buckie D. Parson,"DDS"","n/a","35.36","13.35%","2226475"
+"American Bancshares Corp.","Livingston,"TN"","2018","Kenneth Copeland","n/a","22.06","8.33%","2226475"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancshares Corp.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2018"
-"American Bancshares Corp.","Secretary & Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows,"Attorney at Law"","2018"
-"American Bancshares Corp.","Director","Buckie D. Parsons,"DDS"","Director","Buckie D. Parsons,"DDS"","2018"
-"American Bancshares Corp.","Director","Kenneth Copeland","Director","n/a","2018"
-"American Bancshares Corp.","Chairman/Director","John Kelly Coleman","Chairman/Director","Mid State Construction Co.","2018"
-"American Bancshares Corp.","CEO/CFO & Director","Marty Maynord","CEO/CFO & Director","n/a","2018"
-"American Bancshares Corp.","President and Director","Ryan Smith","President and Director","n/a","2018"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","Mid-State Construction Co.","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","JFC Properties","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","Mid State Drilling Co.,"LLC"","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Director","Johnny F. Coleman","Director","C&M Development","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Secretary & Director","J. Steve Daniels","Secretary & Director","Daniels & Meadows","2018","Attorney","2226475"
+"American Bancshares Corp.","Director","Buckie D. Parsons,"DDS"","Owner","n/a","2018","Dentist","2226475"
+"American Bancshares Corp.","Director","Kenneth Copeland","n/a","n/a","2018","Farmer","2226475"
+"American Bancshares Corp.","Chairman/Director","John Kelly Coleman","VP","Mid State Construction Co.","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Chairman/Director","John Kelly Coleman","VP","Mid State Drilling","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","Chairman/Director","John Kelly Coleman","Member/Manager","Tri-Coleman Properties","2018","Construction & Oil Co. Owner","2226475"
+"American Bancshares Corp.","CEO/CFO & Director","Marty Maynord","n/a","n/a","2018","None","2226475"
+"American Bancshares Corp.","President and Director","Ryan Smith","n/a","n/a","2018","None","2226475"
 ```

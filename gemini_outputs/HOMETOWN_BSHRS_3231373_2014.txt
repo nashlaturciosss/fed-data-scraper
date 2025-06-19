@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2014","Paul Ray","Common Stock","110175","13.77%","3231373"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2014","Max Ray","Common Stock","110175","13.77%","3231373"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2014","Delmo Payne","Common Stock","120969","15.12%","3231373"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2014","Gerald Terrell","Common Stock","130474","16.31%","3231373"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Officer / IT","Charles Babb","n/a","Peoples Trust Bank","2014","Peoples Trust Bank Offr/IT","3231373"
+"Hometown Bancshares,"Inc."","n/a","Harold Hulsey","Owner","Hulsey Logging","2014","Hulsey Logging CEO","3231373"
+"Hometown Bancshares,"Inc."","n/a","Johnny Mack Lawler","Partner","Lawler & Cole,"CPA"","2014","Lawler & Cole,"CPA"","3231373"
+"Hometown Bancshares,"Inc."","President","Delmo Payne","President","Riverbirch Homes","2014","Riverbirch Homes President","3231373"
+"Hometown Bancshares,"Inc."","n/a","Max Ray","Advisor","Northwest Shoals","2014","Northwest Shoals Advisor","3231373"
+"Hometown Bancshares,"Inc."","n/a","Gerald Terrell","Vice President","Riverbirch Homes","2014","Riverbirch Homes Vice President","3231373"
+"Hometown Bancshares,"Inc."","n/a","Randy Whitehead","n/a","Peoples Trust Bank","2014","Peoples Trust Bank CEO","3231373"
+"Hometown Bancshares,"Inc."","Chief Operations Officer","Rebecca Cummings","n/a","Peoples Trust Bank","2014","Peoples Trust Bank Chief Operations Officer","3231373"
+"Hometown Bancshares,"Inc."","n/a","Ronnie Ellis","n/a","Peoples Trust Bank","2014","Peoples Trust Bank City President","3231373"
+"Hometown Bancshares,"Inc."","n/a","Eric Poe","n/a","Peoples Trust Bank","2014","Peoples Trust Bank Senior Loan Officer","3231373"
+"Hometown Bancshares,"Inc."","n/a","George R Hibbett Jr","n/a","Peoples Trust Bank","2014","Peoples Trust Bank City President","3231373"
+```

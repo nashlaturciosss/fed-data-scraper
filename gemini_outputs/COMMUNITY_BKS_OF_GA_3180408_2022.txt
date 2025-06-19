@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Chatsworth,"USA"","2022","Donald T. Keeter","Common Stock","607423","17.44%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"USA"","2022","Robert W. James","Common Stock","393485","11.30%","n/a"
+"Community Banks of Georgia,"Inc."","Fredericksburg,"USA"","2022","Mickey T. Dunn","Common Stock","358334","10.29%","n/a"
+"Community Banks of Georgia,"Inc."","Ball Ground,"USA"","2022","Matthew T. Dunn","Common Stock","304548","8.74%","n/a"
+"Community Banks of Georgia,"Inc."","Athens,"USA"","2022","B. Scott Dobson","Common Stock","293333","8.42%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","Director","n/a","2022","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","Director","n/a","2022","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","Director","ML Industries,"Inc."","2022","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Keeter Farms,"LP"","2022","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Donald T Keeter Family Trust","2022","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Insurance Agency Owner","Denson Insurance Agency Inc","2022","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Insurance Agency Owner","Legacy Risk Solutions LLC","2022","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Attorney","Landrum and Landrum","2022","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director & President/CEO","Ryan T. Keeter","Director & President/CEO","Keeter Farms,"LP"","2022","n/a","n/a"
+"Community Banks of Georgia,"Inc."","Director","Matthew T. Dunn","Manufacturing","ML Industries,"Inc."","2022","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director","Kristi Ledford","Consulting","Affinity Public Relations LLC","2022","Consulting","n/a"
+"Community Banks of Georgia,"Inc."","Director","Lorrie L. Shaw","Director & CCO","n/a","2022","n/a","n/a"
+```

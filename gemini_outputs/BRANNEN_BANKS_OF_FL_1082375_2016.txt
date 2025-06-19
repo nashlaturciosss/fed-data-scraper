@@ -1,21 +1,21 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Brannen Banks of Florida,"Inc."","Inverness","2016","George H. Brannen,"II"","Common Stock","3405.33","34.1%"
-"Brannen Banks of Florida,"Inc."","Inverness","2016","Joseph S. Brannen","Common Stock","3350.76","33.5%"
-"Brannen Banks of Florida,"Inc."","Inverness","2016","Margaret Brannen Hagar","Common Stock","3243.91","32.4%"
-"Brannen Banks of Florida,"Inc."","n/a","2016","None","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","George H. Brannen,"II"","Common","3405.33","34.1%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","George H. Brannen,"II"","Stock","3405.33","34.1%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","Joseph S. Brannen","Common","3350.76","33.5%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","Joseph S. Brannen","Stock","3350.76","33.5%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","Margaret Brannen Hagar","Common","3243.91","32.4%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2016","Margaret Brannen Hagar","Stock","3243.91","32.4%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Brannen Banks of Florida,"Inc."","Dir./Chairman and President","George H. Brannen,"II"","Dir./Chairman Brannen Bank","None","2016"
-"Brannen Banks of Florida,"Inc."","Dir./Chairman and President","George H. Brannen,"II"","Director/President Brannen Properties,"Inc."","None","2016"
-"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman and General Counsel","Joseph S. Brannen","Dir./Vice Chairman Brannen Bank","None","2016"
-"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman and General Counsel","Joseph S. Brannen","Dir./Vice Pres./Treasurer Brannen Properties,"Inc."","None","2016"
-"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director,"Brannen Bank"","None","2016"
-"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","Dir./President Brannen Bank","None","2016"
-"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","Vice President Brannen Properties,"Inc."","None","2016"
-"Brannen Banks of Florida,"Inc."","Senior Vice President","Josephine A. Murphy","Secretary,"Brannen Properties"","None","2016"
-"Brannen Banks of Florida,"Inc."","Chief Financial Officer","Michael T. Fitzpatrick,"CPA"","Exe. VicePresident/CFOBrannen Bank","None","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Dir./Chairman","George H. Brannen,"II"","None","Brannen Family Limited Partnership II LLLP","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Dir./Chairman","George H. Brannen,"II"","None","Red Bluff Family Limited Partnership LLLP","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Dir./Vice Chairman","Joseph S. Brannen","None","Brannen Family Limited Partnership III LLLP","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","None","Brannen Family Limited Partnership I LLLP","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Executive Vice President","G. Matt Brannen","None","Timber Land Resources LLC","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Senior Vice President","Josephine A. Murphy","None","n/a","2016","n/a","n/a"
+"Brannen Banks of Florida,"Inc."","Chief Financial Officer","Michael T. Fitzpatrick,"CPA"","None","n/a","2016","n/a","n/a"
 ```

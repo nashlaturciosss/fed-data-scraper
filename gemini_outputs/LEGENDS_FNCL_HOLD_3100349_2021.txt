@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2021","Billy Atkins","common shares","61613","5.43%","n/a"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2021","Pravin (Bob) Patel","common shares","70000","6.17%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Director","George R. Archer,"Jr."","n/a","n/a","2021","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Billy Atkins","n/a","n/a","2021","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Barnett","1/3 Partner","KY-TN Livestock","2021","Livestock Warehouse/ Farmer","n/a"
+"Legends Financial Holdings,"Inc."","Director,"President & CEO"","Tommy Bates","n/a","n/a","2021","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","(Legends Bank)","Goad Construction Co","2021","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Kelly","(Legends Bank)","The Air Assault Team KW","2021","RE Agency","n/a"
+"Legends Financial Holdings,"Inc."","Director","Teresa Kingery","(Legends Bank)","Kingery & Assoc","2021","Recruiting Firm","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Vice-Chairman"","Dick Littleton","(Legends Bank)","n/a","2021","Real Estate agent","n/a"
+"Legends Financial Holdings,"Inc."","Director","Pravin (Bob) Patel","(Legends Bank)","n/a","2021","Retired","n/a"
+"Legends Financial Holdings,"Inc."","EVP/CFO","Lee Pedigo","EVP & CFO (Legends Bank)","n/a","2021","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","Owner/President","Ajax Distributing Co","2021","Ajax Distributing Co Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Chairman"","Doug Weiland","(Legends Bank)","n/a","2021","Retired","n/a"
+```

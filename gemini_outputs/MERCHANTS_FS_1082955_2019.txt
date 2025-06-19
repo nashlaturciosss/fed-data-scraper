@@ -1,0 +1,39 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2019","S. Wayne Fuller","n/a","135900","10.74","n/a"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2019","David Moss,"Sr."","n/a","123050","9.73","n/a"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2019","Reba Miller","n/a","107505","8.50","n/a"
+"Merchants Financial Services,"Inc."","Crane Hill,"AL"","2019","Roy L. Graham","n/a","89370","7.06","n/a"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2019","John T. Williamson","n/a","72810","5.75","n/a"
+"Merchants Financial Services,"Inc."","Vinemont,"AL"","2019","Beverly White","n/a","70125","5.54","n/a"
+"Merchants Financial Services,"Inc."","Baileyton,"AL"","2019","Billy W. Fletcher","n/a","66000","5.22","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants Financial Services,"Inc."","Chairman & CEO","Steve Glasscock","Chairman","n/a","2019","Banking","n/a"
+"Merchants Financial Services,"Inc."","Chairman & CEO","Steve Glasscock","Partner","SASG Properties,"LLC"","2019","Banking","n/a"
+"Merchants Financial Services,"Inc."","Secretary/Director","Reba Miller","Secretary/Treasurer,"Director"","n/a","2019","Businesswoman","n/a"
+"Merchants Financial Services,"Inc."","Secretary/Director","Reba Miller","Partner","Triple A Property Investors","2019","Businesswoman","n/a"
+"Merchants Financial Services,"Inc."","Vice Chairman","S. Wayne Fuller","Vice Chairman","n/a","2019","Attorney","n/a"
+"Merchants Financial Services,"Inc."","Vice Chairman","S. Wayne Fuller","Partner","Fuller,"Willingham & Carter","LLC"","2019","Attorney","n/a"
+"Merchants Financial Services,"Inc."","Director","David Moss,"Sr."","Director","n/a","2019","Businessman","n/a"
+"Merchants Financial Services,"Inc."","Director","David Moss,"Sr."","Director","Cooper Property Mgmt. Inc.","2019","Businessman","n/a"
+"Merchants Financial Services,"Inc."","Director","David Moss,"Sr."","Partner","Moss Sr. Moss Jr.,"LLC"","2019","Businessman","n/a"
+"Merchants Financial Services,"Inc."","Director","David Moss,"Sr."","Shareholder","MBH Properties","2019","Businessman","n/a"
+"Merchants Financial Services,"Inc."","Director","Billy Fletcher","Director","n/a","2019","Farmer","n/a"
+"Merchants Financial Services,"Inc."","Director","John T. Williamson","Director","n/a","2019","Veterinarian","n/a"
+"Merchants Financial Services,"Inc."","Vice Chairman","Judy P. Butler","Vice Chairman","n/a","2019","Businesswoman","n/a"
+"Merchants Financial Services,"Inc."","Vice Chairman","Judy P. Butler","Partner","Southeast Lawn & Tractor Center,"Inc."","2019","Businesswoman","n/a"
+"Merchants Financial Services,"Inc."","Vice Chairman","Judy P. Butler","Partner","BJM Company","2019","Businesswoman","n/a"
+"Merchants Financial Services,"Inc."","Director","Christopher N. Borden","Director","n/a","2019","Pharmacist","n/a"
+"Merchants Financial Services,"Inc."","Director","Christopher N. Borden","Owner","The Borden Company LLC","2019","Pharmacist","n/a"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Director","n/a","2019","Business Owner","n/a"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Partner","AR & DR Holdings LLC","2019","Business Owner","n/a"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Owner","Farmers Poultry Supply,"Inc."","2019","Business Owner","n/a"
+"Merchants Financial Services,"Inc."","EVP & CFO","Charles R. NeSmith","Executive VP","n/a","2019","Banking","n/a"
+"Merchants Financial Services,"Inc."","EVP & CFO","W. Clark Rainwater","EVP & CFO","n/a","2019","Banking","n/a"
+"Merchants Financial Services,"Inc."","EVP & CFO","W. Clark Rainwater","Partner","Rainwater Farms","2019","Banking","n/a"
+```

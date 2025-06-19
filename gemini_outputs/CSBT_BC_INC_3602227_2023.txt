@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","Dr. T. B. Boyd,"III"","CSB&T stock","69946","15.59%","n/a"
+"CSB & T Bancorp,"Inc."","Chicago,"IL"","2023","NCIF","CSB&T stock","25000","5.57%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","Citizens Savings Bank & Trust ESOP","CSB&T stock","29948","6.67%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","Andre Johnson","CSB&T stock","33784","7.53%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","Derrick Morgan","CSB&T stock","33784","7.53%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","Jeffrey and Jessica McGruder","CSB&T stock","33784","7.53%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2023","THG Investments,"LLC"","CSB&T stock","33784","7.53%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Chairman Emeritus","Dr. T.B. Boyd,"III"","Partner","Boyd Partners,"LP"","2023","Retired","n/a"
+"CSB & T Bancorp,"Inc."","Director","LaDonna Boyd","President/CEO","R.H. Boyd Publishing Corp.","2023","President & Chief Executive Officer of R.H. Boyd Publishing Corp.","n/a"
+"CSB & T Bancorp,"Inc."","President & CEO; Director","Sergio S. Ora","n/a","n/a","2023","President & Chief Executive Officer of CSB&T Bancorp,"Inc. and Citizens Savings Bank & Trust Company"","n/a"
+"CSB & T Bancorp,"Inc."","Director","James R. Schmitz","Market Leader","Elliott Davis","2023","Market Leader,"Elliott Davis"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Julie Lilliston","n/a","n/a","2023","Julie Lilliston Communcations","n/a"
+"CSB & T Bancorp,"Inc."","Director","Paul Luter","n/a","n/a","2023","Retired","n/a"
+"CSB & T Bancorp,"Inc."","Director","Laquita Stribling","n/a","n/a","2023","VP of Sales & Customer Experience
+"Randstand US"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Jacky Akbari","n/a","n/a","2023","Managing Principal
+"Worthington Advisory"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Aole Ansari","n/a","n/a","2023","n/a","n/a"
+"CSB & T Bancorp,"Inc."","Director","Charles Sueing","n/a","n/a","2023","Self-Employed","n/a"
+"CSB & T Bancorp,"Inc."","Chairman","Richard Manson,"Esquire"","President","Sourcemark,"LLC"","2023","President of SourceMark,"LLC"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Joseph Walker,"III"","Pastor","Mt. Zion Baptist Church","2023","Pastor","n/a"
+```

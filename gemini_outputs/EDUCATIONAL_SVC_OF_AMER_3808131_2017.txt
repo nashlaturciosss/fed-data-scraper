@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the document:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2017","Educational Services of America,"Inc."","n/a","n/a","100%","3110197"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Director/Chairman/President","John E. Arnold,"Jr"","Director/Chairman","SouthEast Bank","2017","n/a","3110197"
+"SouthEast Bancorp,"Inc."","Director/Secretary/VP","William T. Thompson","Director/Secretary/CEO","SouthEast Bank","2017","n/a","3110197"
+"Educational Services of America,"Inc."","CEO","John E. Arnold,"Jr"","Director","SouthEast Bank","2017","n/a","3110197"
+"Educational Services of America,"Inc."","CFO/EVP","William T. Thompson","Director/Secretary/Vice President","SouthEast Bancorp,"Inc."","2017","n/a","3110197"
+"Educational Services of America,"Inc."","CFO/EVP","William T. Thompson","Director/Secretary/CEO","SouthEast Bank","2017","n/a","3110197"
+"Educational Services of America,"Inc."","Chairman","Tommy Schumpert","Director","SouthEast Scholar Program","2017","n/a","3110197"
+"Educational Services of America,"Inc."","Director","Leo Cooper","n/a","n/a","2017","Retired","3110197"
+"Educational Services of America,"Inc."","Director","Dwight Kessel","n/a","n/a","2017","Retired","3110197"
+"Educational Services of America,"Inc."","Director","Robert Rosenaum","n/a","n/a","2017","President/CEO Emeritus- Goodwill Industries","3110197"
+"Educational Services of America,"Inc."","Director","Jeffrey S. Smith","n/a","n/a","2017","President/Founder - Omnicap Group,"LLC"","3110197"
+"Educational Services of America,"Inc."","Chief Operations Officer","Eric Stewart","n/a","n/a","2017","n/a","3110197"
+"Educational Services of America,"Inc."","Chief Information Officer","Jeff Gibbs","Chief Information Officer","SouthEast Bank","2017","n/a","3110197"
+"Educational Services of America,"Inc."","Chief Compliance and Risk Officer","T. Wayne Hood","Chief Compliance and Risk Officer","SouthEast Bank","2017","n/a","3110197"
+"Educational Services of America,"Inc."","EVP","Barbara Thomas","EVP","South East Bank","2017","n/a","3110197"
+```

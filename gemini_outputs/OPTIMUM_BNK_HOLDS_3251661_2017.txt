@@ -1,0 +1,17 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings Inc","South Bend,"IN"","2017","Midwest Torah Center","common stock","94425","8.42%","n/a"
+"OptimumBank Holdings Inc","Singapore,"Singapore"","2017","Chan Heng Fai Ambrose","common stock","92980","8.29%","n/a"
+"OptimumBank Holdings Inc","Chicago,"IL"","2017","Ari Haas","common stock","75000","6.80%","n/a"
+"OptimumBank Holdings Inc","Chicago,"IL"","2017","NEEROD LLC/NIVARAM LLC","common stock","71430","6.80%","n/a"
+"OptimumBank Holdings Inc","South Bend,"IN"","2017","Moishe Gubin","common stock","71387","6.37%","n/a"
+"OptimumBank Holdings Inc","South Bend,"IN"","2017","Midwest Kosher & Deli,"LLC"","common stock","69702","6.22%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings Inc","Director,"Chairman of the Board"","Moishe Gubin","n/a","Strawberry Fields Management Services,"LLC"","2016","CEO various nursing homes","2953418"
+"OptimumBank Holdings Inc","Director","Joel Klein","n/a","Enterprise Center Corp.","2016","Retired","2953418"
+"OptimumBank Holdings Inc","Director","Martin Schmidt","n/a","n/a","2016","Financial Planner","2953418"
+"OptimumBank Holdings Inc","Director","Thomas Procelli","n/a","TAP Independent Consulting LLC","2016","Consultant","2953418"
+"OptimumBank Holdings Inc","Director","Avi M. Zwelling","n/a","n/a","2016","Attorney","2953418"
+```

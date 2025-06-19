@@ -1,0 +1,18 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Banking Company,"Inc."","Roswell,"GA"","2015","R. Elliott Miller","Common","219975","11.4%","3016338"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2015","H. Ross Arnold,"III"","Common","298953","15.5%","3016338"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Banking Company,"Inc."","President,"CEO and Director"","R. Elliott Miller","President,"CEO and Director"","n/a","2015","n/a","n/a"
+"Georgia Banking Company,"Inc."","Chairman,"Director"","James R. Lientz,"Jr."","Partner","Safe Harbor LLC","2015","Consulting","n/a"
+"Georgia Banking Company,"Inc."","Director","H. Ross Arnold III","President","Quest Capital Corp.","2015","Investment Management Company","n/a"
+"Georgia Banking Company,"Inc."","Director","Winthrop S. Jessup","Retired","n/a","2015","Retired","n/a"
+"Georgia Banking Company,"Inc."","Director","Michael L. Watkins","President","Watkins Associated Ind.","2015","Trucking,"Real Estate & Seafood Processing"","n/a"
+"Georgia Banking Company,"Inc."","Director","Walter F. Reames,"Jr."","Retired","n/a","2015","Retired","n/a"
+"Georgia Banking Company,"Inc."","EVP/COO","Robert Johnson","n/a","n/a","2015","n/a","n/a"
+"Georgia Banking Company,"Inc."","CFO","Matthew M. Blejwas","n/a","n/a","2015","n/a","n/a"
+```

@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Corporation","Gautier,"MS"","2019","John C. Arledge,"III"","n/a","10337","5.91%","n/a"
+"First State Corporation","Waynesboro,"MS"","2019","Ken Rhinehart","n/a","8900","5.09%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Corporation","Director","John C. Arledge,"III"","n/a","n/a","2019","n/a","n/a"
+"First State Corporation","Director","Redell Bonner","n/a","Bonner & Associates,"CPA"","2019","n/a","n/a"
+"First State Corporation","Director & Chairman","Jeff Lacey","President/CEO of First State Bank","n/a","2019","n/a","n/a"
+"First State Corporation","Director & Secretary/Treasurer","James F. Cooley","n/a","Pizza Inn of Waynesboro","2019","n/a","n/a"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Oil","2019","n/a","n/a"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Producing","2019","n/a","n/a"
+"First State Corporation","Director","Ernest W. Joiner","n/a","Joiner-Sigler Insurance Agency","2019","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Industries","2019","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Holding Co.","2019","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelwood Products","2019","n/a","n/a"
+"First State Corporation","Director","Kenneth F. Rhinehart","n/a","n/a","2019","n/a","n/a"
+"First State Corporation","Director","B. B. Rounsaville","n/a","n/a","2019","n/a","n/a"
+"First State Corporation","Director","James Gary Sigler","n/a","Ozmus,"LP"","2019","n/a","n/a"
+"First State Corporation","Director","Ennis King","n/a","n/a","2019","n/a","n/a"
+"First State Corporation","Director","Eric Giles","Vice President-Operations","n/a","2019","n/a","n/a"
+"First State Corporation","Director","Rodney Cockerham","President-Jones County Market","n/a","2019","n/a","n/a"
+"First State Corporation","Director","Ronnie Clark","n/a","Chas. N. Clark Associates","2019","n/a","n/a"
+"First State Corporation","Director","Ronnie Clark","n/a","Clark Bros. Construction","2019","n/a","n/a"
+"First State Corporation","Vice President","Byron Jordan","Chief Credit Officer/EVP Lending","n/a","2019","n/a","n/a"
+"First State Corporation","Vice President","Allen Hodo","CFO/EVP Operations","n/a","2019","n/a","n/a"
+"First State Corporation","Vice President","Sharon Beard","EVP/Compliance and. Loan Operations","n/a","2019","n/a","n/a"
+"First State Corporation","n/a","Darron Dodd","EVP/Retail Banking","n/a","2019","n/a","n/a"
+```

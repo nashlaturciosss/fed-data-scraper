@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2019","John D. McLanahan,"Jr."","n/a","90025","26.39%","n/a"
+"First American Bancorp","Athens,"GA"","2019","John D. McLanahan,"Jr."","n/a","8991","2.63%","n/a"
+"First American Bancorp","Athens,"GA"","2019","John D. McLanahan,"Jr."","n/a","79298","23.25%","n/a"
+"First American Bancorp","Athens,"GA"","2019","John D. McLanahan,"Jr."","n/a","1736","0.51%","n/a"
+"First American Bancorp","Athens,"GA"","2019","The McLanahan Children's Irv. Trust Agreement","n/a","79298","23.25%","n/a"
+"First American Bancorp","New York,"NY"","2019","CEDE and Co","n/a","20132","5.9%","n/a"
+"First American Bancorp","Gainesville,"GA"","2019","Catherine M. Nix","n/a","20000","5.86%","n/a"
+"First American Bancorp","Ponte Vedra Beach,"FL"","2019","John L. and Dorothy M. Watson","n/a","20856","6.11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","Director","Maxine H. Burton","President","Burton & BURTON","2019","International Gift Retailer","n/a"
+"First American Bancorp","Director","Robert D. Heath","n/a","n/a","2019","Retired President of the Bank","n/a"
+"First American Bancorp","Director","Larry L. Medders","President","Athens Orthopedic Associates","2019","Orthopedic Surgeon (Retired)","n/a"
+"First American Bancorp","Director","T. Michael Devore","n/a","Devore and Johnson,"Inc."","2019","General Manager","n/a"
+"First American Bancorp","Director General Counsel","John D. McLanahan,"Jr."","n/a","n/a","2019","Attorney","n/a"
+"First American Bancorp","Director President/CEO","C. Rhodes McLanahan","n/a","n/a","2019","President & CEO First American Bank","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2019","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.A."","2019","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","n/a","Akins Ford","2019","Akins Ford Owner","n/a"
+```

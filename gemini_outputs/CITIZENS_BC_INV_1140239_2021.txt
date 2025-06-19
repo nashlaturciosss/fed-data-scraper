@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment Inc.","Lafayette,"TN"","2021","Cynthia McClard","n/a","1645400","27.40%","n/a"
+"Citizens Bancorp Investment Inc.","Lafayette,"TN"","2021","Marcus Darnell","n/a","461500","7.68%","n/a"
+"Citizens Bancorp Investment Inc.","Lafayette,"TN"","2021","Mike Reese","n/a","589734","9.82%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Investment Inc.","Director","Mike Reese","n/a","MWR Enterprises,"Inc. II"","2021","Grocery/Retail","n/a"
+"Citizens Bancorp Investment Inc.","Director","Mike Reese","n/a","R&P Foods LLC","2021","Grocery/Retail","n/a"
+"Citizens Bancorp Investment Inc.","Director","Mike Reese","n/a","B&R Rentals","2021","Grocery/Retail","n/a"
+"Citizens Bancorp Investment Inc.","Director","Mike Reese","n/a","Mike & Yvonne Reese Farm","2021","Grocery/Retail","n/a"
+"Citizens Bancorp Investment Inc.","Director","Mike Reese","n/a","Mike Reese Rentals","2021","Grocery/Retail","n/a"
+"Citizens Bancorp Investment Inc.","Director","Tom McCall","n/a","DT McCall & Sons","2021","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment Inc.","Director","Tom McCall","n/a","McCall Realty Co.","2021","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment Inc.","Director","Tony Polston","n/a","BD Polston & Son Builders Supply Inc","2021","Building Supply","n/a"
+"Citizens Bancorp Investment Inc.","Director","Cynthia McClard","n/a","McClards Gifts","2021","Consulting","n/a"
+"Citizens Bancorp Investment Inc.","Director","Jon Alan Long","n/a","Dr. Jon Alan Long,"DDS"","2021","Dentist","n/a"
+"Citizens Bancorp Investment Inc.","Director","Eugene R. London,"Jr."","n/a","SIM&S Inc.","2021","Security Systems","n/a"
+"Citizens Bancorp Investment Inc.","Director","Joe Carter","n/a","n/a","2021","Retired Banker","n/a"
+"Citizens Bancorp Investment Inc.","Director/ President/ CEO","Peter Williston","n/a","Williston Family Partnership LTD","2021","Banking","n/a"
+"Citizens Bancorp Investment Inc.","Director/ EVP","Thomas E. Anderton,"Jr."","n/a","n/a","2021","Banking","n/a"
+"Citizens Bancorp Investment Inc.","CFO Treasurer","Arthur Taylor,"Jr."","n/a","n/a","2021","Banking","n/a"
+```

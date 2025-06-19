@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Trust Corporation","Metairie,"LA"","2020","Mr. Joseph C. Canizaro,"Chairman"","n/a","4745979","44%","n/a"
+"First Trust Corporation","Metairie,"LA"","2020","Mr. Joseph C. Canizaro,"Chairman"","Options","12000","n/a","n/a"
+"First Trust Corporation","New Orleans,"LA"","2020","Corte Trust","n/a","3232250","30%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Trust Corporation","CEO and Chairman of the Board,"Director"","Mr. Joseph C. Canizaro,"Chairman"","n/a","n/a","2020","Real Estate Developer","n/a"
+"First Trust Corporation","CEO,"Director"","Gary Blossman","n/a","n/a","2020","Businessman/ Banking","n/a"
+"First Trust Corporation","Director,"Vice Chairman of the Board","Chairman of Audit Committee"","David Guidry","President of GUICO Machine Works","GUICO Machine Works","2020","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director,"Vice Chairman of the Board","Chairman of Audit Committee"","David Guidry","President of GUICO Machine Works","GUICO Marine Services,"LLC"","2020","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director,"Vice Chairman of the Board","Chairman of Audit Committee"","David Guidry","President of GUICO Machine Works","GUICO Farms,"LLC"","2020","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director,"Vice Chairman of the Board","Chairman of Audit Committee"","David Guidry","President of GUICO Machine Works","GUICO Properties,"LLC"","2020","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director,"Vice Chairman of the Board","Chairman of Audit Committee"","David Guidry","President of GUICO Machine Works","Harvey Specialty,"Inc."","2020","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director,"Chairman of the Board"","Donald Bollinger","President & CEO","Bollinger,"LLC"","2020","Businessman/ Entrepreneur","n/a"
+"First Trust Corporation","Director,"Chairman of Loan Committee"","Ralph C. Cox,"Jr.","CPA","CGMA"","Partner at Bourgeois Bennett,"LLC"","Bourgeois Bennett,"LLC"","2020","Retired CPA","n/a"
+"First Trust Corporation","Director","Randall Howard","n/a","n/a","2020","Private Investor","n/a"
+"First Trust Corporation","Director","Ryan Lopiccolo","Co-owner of Pie-Not LLC","Pie-Not LLC","2020","Businessman/ EVP,"Columbus Properties"","n/a"
+"First Trust Corporation","Shareholder","Corte Trust","n/a","n/a","2020","n/a","n/a"
+"First Trust Corporation","Director","John Georges","CEO","Georges Enterprises","2020","Businessman/ Entrepreneur","n/a"
+```

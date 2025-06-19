@@ -1,18 +1,22 @@
-Here are the extracted tables in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"The Bancshares,"Inc."","Jennings","2016","Clarence L Miller","Common Stock","112933","14.40%"
-"The Bancshares,"Inc."","Jennings","2016","Logan L. Nichols","Common Stock","51816","6.60%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Bancshares,"Inc."","Jennings,"LA"","2016","Clarence L Miller","Common Stock","112933","14.40%","2504874"
+"The Bancshares,"Inc."","Jennings,"LA"","2016","Logan L. Nichols","Common Stock","51816","6.60%","2504874"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"The Bancshares,"Inc."","Vice-Chairman/Pres/CEO","Jeff L Boudreaux","Director/CEO of The Bank","Petit Peu De Ciel,"LLC"","2016"
-"The Bancshares,"Inc."","Director","Blaine Boudreaux","Director/President of The Bank","Petit Peu De Ciel,"LLC"","2016"
-"The Bancshares,"Inc."","Director","Chris Thibodeaux","Director of The Bank","Grace Ranch,"Inc."","2016"
-"The Bancshares,"Inc."","Director/Chairman","Clarence L Miller,"M.D."","Director/Chairman of The Bank","Downhole Chemical LLC","2016"
-"The Bancshares,"Inc."","Director","Charles E. Ray,"M.D."","Director of The Bank","Jeff Davis Diagnostics","2016"
-"The Bancshares,"Inc."","Director","Kenneth W. Young,"Sr."","Director of The Bank","Young's Appliance Repair","2016"
-"The Bancshares,"Inc."","Director","Pat Hanley","Director of The Bank","Elite Manuafacturing & Tool,"LLC"","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Bancshares,"Inc."","Vice-Chairman/Pres/CEO of The Bank","Jeff L Boudreaux","n/a","n/a","2016","n/a","2505460"
+"The Bancshares,"Inc."","Director/President of The Bank","Blaine Boudreaux","n/a","Petit Peu De Ciel,"LLC"","2016","n/a","2505460"
+"The Bancshares,"Inc."","Director/President of The Bank","Blaine Boudreaux","n/a","Le Whitetail Hunters,"LLC"","2016","n/a","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Chris Thibodeaux","n/a","Grace Ranch,"Inc."","2016","Physical Therapist","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Chris Thibodeaux","n/a","Southwest LA Sports & Rehab Center,"LLC"","2016","Physical Therapist","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Chris Thibodeaux","n/a","Iowa Therapy Center,"LLC"","2016","Physical Therapist","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Chris Thibodeaux","n/a","Thibodeaux,"Albro & Touchet"","2016","Physical Therapist","2505460"
+"The Bancshares,"Inc."","Director/Chairman of The Bank","Clarence L Miller","n/a","Downhole Chemical LLC","2016","Managing Member -","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Charles E. Ray,"M.D."","Vice-President","Jeff Davis Diagnostics","2016","Self Employed","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Kenneth W. Young,"Sr."","Owner","Young's Appliance Repair","2016","Owner-Young's Appliance Repair","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Pat Hanley","n/a","Elite Manuafacturing & Tool,"LLC"","2016","Self Employed Electrician","2505460"
+"The Bancshares,"Inc."","Director of The Bank","Pat Hanley","n/a","Pat's Electrical Service,"LLC"","2016","Self Employed Electrician","2505460"
 ```

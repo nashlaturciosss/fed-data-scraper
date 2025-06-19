@@ -1,0 +1,49 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","Montréal,"Canada"","2017","Guy Cormier,"Chairman of the Board"
+Fédération Des Caisses Desjardins
+"du Québec"","Common Stock","750","100%","n/a""
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","Sole shareholder","Féderation des caisses Desjardins
+"du Quebec"","n/a","n/a","2017","n/a","n/a"
+"Desjardins FSB Holdings,"Inc."","Director
+Chair of the Board & Chief
+"Executive Officer"","Guy Cormier","n/a","n/a","2017","President of the Desjardins Group,""
+"Chief Executive Officer","Federation"
+"des caisses Desjardins du Quebec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director and
+"Vice-Chairman of the board"","Vinet,"Yvon"","n/a","n/a","2017","Notary","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Chevalier,"Carole"","n/a","Centre Action
+"Benevole du Rivage"","2017","General Manager,"Centre Action"
+"Benevole du Rivage"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Belanger P. Annie","n/a","n/a","2017","Retired","n/a"
+"Desjardins FSB Holdings,"Inc."","Director
+Assistant Secretary of the
+"board"","Lachaîne,"Éric"","Advisory Member,""
+President of the
+"Board"","Desjardins Bank,"National"
+"Association"","2017","Senior Vice-President Caisse Network
+and Member and Client Services
+"Executive Division"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director
+"Secretary of the board"","Jean-Robert Laporte
+","n/a","n/a","2017","Lawyer","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Denis Berthiaume","n/a","n/a","2017","Senior Executive Vice-President,""
+Desjardins Group and Chief Operating
+"Officer"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Serge Rousseau","n/a","n/a","2017","General Manager - Early Childhood
+"CentreParc-en-ciel"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Neil Norman Hawthom","n/a","n/a","2017","General Manager - Caisse Desjardins
+"de Saint-Eustache-Deux-Montagnes"","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Secretary of the
+"board"","Renaud Coulombe","n/a","n/a","2017","Vice-President Legal Affairs","n/a"
+"Desjardins FSB Holdings,"Inc."","Treasurer","Sylvie Béchard","Director","Desjardins Florida
+"Loan Center","Inc"","2017","Vice-President Banking Services
+"Finance Division"","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Treasurer","Wilfredo Tirado","Controller","Desjardins Bank,""
+"National Association"","2017","Controller,"Desjardins Bank"","n/a"
+```

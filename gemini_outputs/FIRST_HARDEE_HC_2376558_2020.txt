@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Hardee Holding Corporation","Wauchula,"FL"","2020","F.L. Revell,"Jr."","Common Stock","6663","80%","n/a"
+"First Hardee Holding Corporation","Wauchula,"FL"","2020","Oneita Revell","Common Stock","600","7%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","President","Florida Fence Post Co","2020","Manufacturing","n/a"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","President","F L Revell,"Inc."","2020","Manufacturing","n/a"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","President","F L Revell Ranch & Groves","2020","Manufacturing","n/a"
+"First Hardee Holding Corporation","Director","F. L. Revell,"Jr."","President","Brushy Creek Corp","2020","Manufacturing","n/a"
+"First Hardee Holding Corporation","Director","M. E. Wilkins","n/a","n/a","2020","Retired","n/a"
+"First Hardee Holding Corporation","Chairman","Kenneth B. Evers","Owner","Kenneth B. Evers PA","2020","Attorney","n/a"
+"First Hardee Holding Corporation","Director","Richard K. Justice","President","n/a","2020","Banker","n/a"
+"First Hardee Holding Corporation","Director","William R. Lambert","Executive Director","n/a","2020","Economic Development Council","n/a"
+"First Hardee Holding Corporation","Director","W. Lee Mikell","n/a","n/a","2020","FNB Wauchula","n/a"
+"First Hardee Holding Corporation","Director","Timothy C. Nunez","Owner","Just Keep Bouncing","2020","Episcopal Priest","n/a"
+```

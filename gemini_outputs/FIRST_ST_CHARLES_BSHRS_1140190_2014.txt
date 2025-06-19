@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2014","Brandt J. Dufrene","Class A & Class D Common Stock","59130","49.71%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2014","Brandt J. Dufrene Jr. Trust","Class A & Class D Common Stock","16524","13.89%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2014","Stephen S. Dufrene,"Trust"","Class A & Class D Common Stock","19995","16.81%","n/a"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2014","Brandt J. Dufrene,"Jr."","Class A & Class D Common Stock","11882","9.99%","n/a"
+"First St. Charles Bancshares,"Inc."","Destrehan,"LA"","2014","Stephen S. Dufrene","Class A & Class D Common Stock","8411","7.07%","n/a"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2014","George Williamson","Class A & Class D Common Stock","1000","0.84%","n/a"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2014","Tim Vial","Class A & Class D Common Stock","1000","0.84%","n/a"
+"First St. Charles Bancshares,"Inc."","Destrehan,"LA"","2014","Ken Soyez","Class A & Class D Common Stock","1000","0.84%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Dormant Company","Oceanic Fleet,"Inc."","2014","n/a","n/a"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Dormant Company","Oceanic Fleet,"LLC"","2014","n/a","n/a"
+"First St. Charles Bancshares,"Inc."","Chairman & President","Brandt J. Dufrene","Owner","Audubon uest House,"LLC"","2014","n/a","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Attorney at Law","Brandt J. Dufrene,"Jr."","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Audubon Guest House,"LLC"","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Dormant Company","Oceanic Fleet management,"LLC"","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Branson Des Allemands Properties,"LLC"","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Partner","Brandtsons Partners","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Dufrene Title,"LLC"","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Owner","Brandt J. Dufrene,"Jr.","LLC"","2014","Attorney","n/a"
+"First St. Charles Bancshares,"Inc."","None","Kenneth Soyez","None","None","2014","Retired","n/a"
+"First St. Charles Bancshares,"Inc."","None","Brandt J. Dufrene,"Jr. Trust (Stephen S. Dufrene - Trustee)"","None","None","2014","n/a","n/a"
+"First St. Charles Bancshares,"Inc."","None","Stephen S. Dufrene,"Trust (Brandt J. Dufrene Jr - Trustee)"","None","None","2014","n/a","n/a"
+```

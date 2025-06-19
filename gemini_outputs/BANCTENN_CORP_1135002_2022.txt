@@ -1,10 +1,11 @@
-"Here are the two requested CSV tables","extracted from the provided document:"
+Here are the two tables extracted from the document in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancTenn Corp.","Johnson City","2022","n/a","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancTenn Corp.","n/a","2022","n/a","n/a","n/a","n/a","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancTenn Corp.","Chairman,"CEO & President"","William B. Greene,"Jr."","n/a","n/a","2022","n/a","n/a"
 ```

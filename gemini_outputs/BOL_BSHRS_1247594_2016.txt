@@ -1,14 +1,13 @@
-Here are the two tables extracted from the document in CSV format:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BOL Bancshares,"Inc."","Slidell","2016","G. Harrison Scott","Common Stock","117480","65.58%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BOL Bancshares,"Inc."","Slidell,"LA"","2016","G. Harrison Scott","Common Stock","117480","65.58%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BOL Bancshares,"Inc."","n/a","G. Harrison Scott","Director,"Chairman & President"","Bank of Louisiana","2016"
-"BOL Bancshares,"Inc."","Director","Johnny C. Crow","Director","New York Life Ins. Co.","2016"
-"BOL Bancshares,"Inc."","Director","Sharry R. Scott","Director","St. Tammany Parish","2016"
-"BOL Bancshares,"Inc."","Director & President","A. Glenn Geddis","Director & President","Bank of Louisiana","2016"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Louisiana","Director,"Chairman &"","G. Harrison Scott","President","n/a","2016","n/a","271136"
+"Bank of Louisiana","Director","Johnny C. Crow","Insurance Agent","New York Life Ins. Co.","2016","Insurance Agent","271136"
+"Bank of Louisiana","Director","Sharry R. Scott","Assistant Attorney General","St. Tammany Parish","2016","Assistant Attorney General","271136"
+"Bank of Louisiana","Director & President","A. Glenn Geddis","n/a","n/a","2016","n/a","271136"
 ```

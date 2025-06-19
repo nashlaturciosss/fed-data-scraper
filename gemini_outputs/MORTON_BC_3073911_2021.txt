@@ -1,0 +1,19 @@
+Here are the two CSV tables as requested:
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2021","Bennie C. Rogers,"Jr."","common stock","5028","13.92%","n/a"
+"Morton Bancorp,"Inc."","Madison,"MS"","2021","Beth Rogers","common stock","4528.1","12.54%","n/a"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2021","Martha J. Rogers","commone stock","7607.8","21.07%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Director & Vice Chair","Kathleen L. Dunnagan","Self Emp.","n/a","2021","Life Coach","n/a"
+"Morton Bancorp,"Inc."","Director","Beth Rogers","n/a","n/a","2021","Retired Nurse","n/a"
+"Morton Bancorp,"Inc."","Director","Tito Echiburu","n/a","n/a","2021","Retired Banker","n/a"
+"Morton Bancorp,"Inc."","Director","Kenneth L. Gordon,"Jr"","n/a","n/a","2021","Bank President","n/a"
+"Morton Bancorp,"Inc."","Director & Chairman","Martha J. Rogers","Secretary *","n/a","2021","Bank CEO","n/a"
+"Morton Bancorp,"Inc."","Director & Chairman","Martha J. Rogers","Treasurer *","n/a","2021","Bank CEO","n/a"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President *","Foresquare,"LLC"","2021","Owner/Mgr","n/a"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President *","Persnickety","2021","Owner/Mgr","n/a"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President *","Persnickety Kitchen","2021","Owner/Mgr","n/a"
+```

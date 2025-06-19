@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Betty B Buchanan","common stock","19486","10.19%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Phillip Amberson","common stock","22453","11.75%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Patty Handley","common stock","17210","9.00%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Tommy Handley","common stock","11596","6.07%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Wendell Glassco","common stock","20070","10.50%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Bonnie Glassco","common stock","20070","10.50%","1918755"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2015","Royce G. Ogle","common stock","20096","10.51%","1918755"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2015","Construction","1918755"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","n/a","Handley Management & Development Co.","2015","Construction","1918755"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","n/a","Property Development of Marshall Co.","2015","Construction","1918755"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2015","Printing","1918755"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2015","CEO,"Amberson Clothing","Inc."","1918755"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","Ameriprise Financial Service,"Certified Financial Planner"","Ameriprise Financial","2015","Certified Financial Planner","1918755"
+"Peoples Independent Bancshares,"Inc."","President / Director","Royce G. Ogle","n/a","None","2015","Bank Management","1918755"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","n/a","None","2015","Bank Management","1918755"
+"Peoples Independent Bancshares,"Inc."","None","Betty B Buchanan","n/a","None","2015","Retired","1918755"
+"Peoples Independent Bancshares,"Inc."","None","Wendell Glassco","n/a","None","2015","Retired","1918755"
+"Peoples Independent Bancshares,"Inc."","None","Bonnie Glassco","n/a","None","2015","Retired","1918755"
+"Peoples Independent Bancshares,"Inc."","Secretary","Patty Handley","n/a","None","2015","Construction","1918755"
+```

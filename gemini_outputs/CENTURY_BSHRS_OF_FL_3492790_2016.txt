@@ -1,17 +1,18 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Century Bancshares of Florida,"Inc."","Tampa","2016","Theodore J. Couch,"Sr.","IRR Tst"","Common Stock","117999","10.470%"
-"Century Bancshares of Florida,"Inc."","Tampa","2016","Jose Vivero","Common Stock","209457","18.585%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Century Bancshares of Florida,"Inc."","Tampa,"FL"","2016","Theodore J. Couch,"Sr.","IRR Tst"","Common Stock","117999","10.470%","n/a"
+"Century Bancshares of Florida,"Inc."","Tampa,"FL"","2016","Jose Vivero","Common Stock","209457","18.585%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Century Bancshares of Florida,"Inc."","Director","Glenda G. Clare","Director","n/a","2016"
-"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","Director","TJC Land,"Inc."","2016"
-"Century Bancshares of Florida,"Inc."","Director & Vice Chairman","W. Hunter Eubanks,"MD"","Director & Vice Chairman","n/a","2016"
-"Century Bancshares of Florida,"Inc."","Director","Laurence W. Hall,"Jr."","Chairman & Treas","Robbins Mfg. Co.","2016"
-"Century Bancshares of Florida,"Inc."","Director","Jose Valiente","Director","n/a","2016"
-"Century Bancshares of Florida,"Inc."","Exec. Vice President","Gabriel J. Vivero","President & COO","n/a","2016"
-"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO"","Jose Vivero","Chairman & CEO Director","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Century Bancshares of Florida,"Inc."","Director","Glenda G. Clare","n/a","n/a","2016","Retired","n/a"
+"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","President","TJC Land,"Inc."","2016","Real Estate","n/a"
+"Century Bancshares of Florida,"Inc."","Director & Vice Chairman","W. Hunter Eubanks,"MD"","n/a","n/a","2016","Retired","n/a"
+"Century Bancshares of Florida,"Inc."","Director","Laurence W. Hall,"Jr."","Chairman & Treas","Robbins Mfg. Co.","2016","Manufacturing","n/a"
+"Century Bancshares of Florida,"Inc."","Director","Jose Valiente","n/a","n/a","2016","Retired","n/a"
+"Century Bancshares of Florida,"Inc."","Exec. Vice President","Gabriel J. Vivero","n/a","n/a","2016","Banker","n/a"
+"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO"","Jose Vivero","n/a","Galicia Ent.,"LLC"","2016","Banker","n/a"
+"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO"","Jose Vivero","n/a","Café' Pepe,"Inc"","2016","Banker","n/a"
 ```

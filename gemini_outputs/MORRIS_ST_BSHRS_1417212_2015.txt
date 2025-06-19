@@ -1,0 +1,26 @@
+Here are the requested CSV tables:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Livingston Dynasty Trust FBO Lisa Livingston","n/a","150500","8.44%","1417212"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Livingston Dynasty Trust FBO Claire Livingston","n/a","150500","8.44%","1417212"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Lisa Livingston","n/a","106695","5.98%","1417212"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Claire Livingston","n/a","101159","5.67%","1417212"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Benefit Trust Company Trustee for Morris Bank","n/a","127783","7.17%","1417212"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2015","Roger Miller","n/a","94482","5.30%","1417212"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris State Bancshares,"Inc."","Chairman/Director","Livingston Dynasty Trust FBO-Lisa Livingston","n/a","n/a","2015","None","1417212"
+"Morris State Bancshares,"Inc."","Chairman/Director","Lisa L. Black","n/a","n/a","2015","None","1417212"
+"Morris State Bancshares,"Inc."","Director Corporate Treasurer","Spence Mullis","Director/President & CEO","n/a","2015","President/CEO Morris Bank","1417212"
+"Morris State Bancshares,"Inc."","n/a","Claire Livingston","Owner","n/a","2015","Interior Design","1417212"
+"Morris State Bancshares,"Inc."","n/a","Bent Gay","Director","n/a","2015","Executive","1417212"
+"Morris State Bancshares,"Inc."","n/a","Phillip Faircloth","President/CEO","Farmers Furniture","2015","Executive","1417212"
+"Morris State Bancshares,"Inc."","n/a","Robert J. Walker","Director","Heart of Georgia Development","2015","Real Estate / Rental","1417212"
+"Morris State Bancshares,"Inc."","n/a","O.D. Cullen,"III"","Owner","Cullen Equipment","2015","Executive","1417212"
+"Morris State Bancshares,"Inc."","n/a","F. Scott Beasley","Owner","Duncan Tire","2015","Mechanic","1417212"
+"Morris State Bancshares,"Inc."","n/a","Ben Hall,"Jr"","Owner","Dublin Construction","2015","Construction","1417212"
+"Morris State Bancshares,"Inc."","Director Executive Vice President","Roger Miller","n/a","Miller Family Partnership","2015","None","1417212"
+"Morris State Bancshares,"Inc."","Director","Wallace Miller","n/a","Wallace & Shirley","2015","None","1417212"
+"Morris State Bancshares,"Inc."","Executive Vice President","Susan Brandon","n/a","n/a","2015","None","1417212"
+```

@@ -1,0 +1,23 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Shelbyville,"Tennessee"","2022","J.T. Darnell","Common Stock","261772","11.71%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","President / Director","Scott Cocanougher","n/a","n/a","2022","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Barry D. Cooper","n/a","Cooper Properties","2022","Retired Steel Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Adcock Design Build and Lease LLC","2022","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Poplar Hill Companies","2022","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Staghorn LLC","2022","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Triple H Construction LLC","2022","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","James Clark","n/a","n/a","2022","Retired Dentist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Mark Cannon","n/a","Cannon Properties","2022","Retired from Verizon","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","CEO","Keith Canter","n/a","Unique Equipment Solutions LLC","2022","CEO First Community Mortgage,"Inc"","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Keith Canter","n/a","262 Robert Rose Partners LLC","2022","CEO First Community Mortgage,"Inc"","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Keith Canter","n/a","Play One LLC","2022","CEO First Community Mortgage,"Inc"","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Megan Trott","n/a","Rambo & Trott Law Office","2022","Attorney","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","President & CFO","Daniel Watson","n/a","n/a","2022","Banker","n/a"
+```

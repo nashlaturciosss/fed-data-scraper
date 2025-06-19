@@ -1,18 +1,21 @@
-Here are the requested CSV files:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Cheaha Financial Group,"Inc."","Oxford","2015","Shad A. Williams","Common Stock","50000","9.61%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cheaha Financial Group,"Inc."","Oxford,"Alabama"","2015","Shad A. Williams","Common Stock","50000","9.61%","2915117"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Cheaha Financial Group,"Inc."","Director","Ronald L. Aderholt","Director - Cheaha Bank","Oxford Eye Clinic","2015"
-"Cheaha Financial Group,"Inc."","Director","Randall A. Beshears","Director - Cheaha Bank","Beshears Auto,"Inc."","2015"
-"Cheaha Financial Group,"Inc."","Director","Donnie J. Borrelli","Director - Cheaha Bank","Borrelli,"Inc."","2015"
-"Cheaha Financial Group,"Inc."","Director","Herbert Cunningham","Director - Cheaha Bank","n/a","2015"
-"Cheaha Financial Group,"Inc."","Director","James W. Justice,"Jr."","Director - Cheaha Bank","Oxford Development","2015"
-"Cheaha Financial Group,"Inc."","Director","Hugh D. Miller,"Sr."","Director - Cheaha Bank","Miller Funeral Home","2015"
-"Cheaha Financial Group,"Inc."","Director/Chairman of the Board","Dwight K. Rice","Director/Chairman of the Board Cheaha Bank","Rice & Rice,"LLP"","2015"
-"Cheaha Financial Group,"Inc."","Director/President","Shad A. Williams","Director/President - Cheaha Bank","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cheaha Financial Group,"Inc."","Director","Ronald L. Aderholt","Owner","Oxford Eye Clinic","2015","Optometrist","n/a"
+"Cheaha Financial Group,"Inc."","Director","Randall A. Beshears","President","Beshears Auto,"Inc."","2015","Automobile Dealer","n/a"
+"Cheaha Financial Group,"Inc."","Director","Randall A. Beshears","President","Beshears,"Inc."","2015","Automobile Dealer","n/a"
+"Cheaha Financial Group,"Inc."","Director","Donnie J. Borrelli","Owner","Borrelli,"Inc."","2015","General Foreman","n/a"
+"Cheaha Financial Group,"Inc."","Director","Donnie J. Borrelli","Partner","Prime Properties","2015","General Foreman","n/a"
+"Cheaha Financial Group,"Inc."","Director","Donnie J. Borrelli","Partner","Oxford Development","2015","General Foreman","n/a"
+"Cheaha Financial Group,"Inc."","Director","Herbert Cunningham","n/a","n/a","2015","Construction","n/a"
+"Cheaha Financial Group,"Inc."","Director","James W. Justice,"Jr."","Partner","Oxford Development","2015","Farming & Development","n/a"
+"Cheaha Financial Group,"Inc."","Director","Hugh D. Miller,"Sr."","Owner","Miller Funeral Home","2015","Personal Services","n/a"
+"Cheaha Financial Group,"Inc."","Director/Chairman of the Board","Dwight K. Rice","Partner","Rice & Rice,"LLP"","2015","Legal Services","n/a"
+"Cheaha Financial Group,"Inc."","Director/Chairman of the Board","Dwight K. Rice","Partner","Silver Run","2015","Legal Services","n/a"
+"Cheaha Financial Group,"Inc."","Director/President","Shad A. Williams","n/a","n/a","2015","Banking","n/a"
 ```

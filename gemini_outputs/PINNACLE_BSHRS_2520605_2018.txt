@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bancshares,"Inc."","Russellville,"Alabama"","2018","Cecil Batchelor","n/a","73587","7.05%","n/a"
+"Pinnacle Bancshares,"Inc."","Chicago,"Illinoise"","2018","Banc Fund LLP","n/a","62565","6.00%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank","Director","Greg Batchelor","President","Dependable True Value Hardware. Inc.","2018","Businessman","288376"
+"Pinnacle Bank","Director","OH Brown","Retired","n/a","2018","Retired","288376"
+"Pinnacle Bank","Director & Chairman","James W Cannon","Retired","n/a","2018","Retired","288376"
+"Pinnacle Bank","Director","Sam Walker Murphy","CEO","W&M Enterprises,"LTD"","2018","Businessman","288376"
+"Pinnacle Bank","President & Director","Robert B Nolen Jr.","n/a","n/a","2018","Banker","288376"
+"Pinnacle Bank","Director","William H. Humphries","President","Bankhead Land & Timber","2018","Businessman","288376"
+"Pinnacle Bank","Director","AL H Simmons","Independent Insurance Agent","n/a","2018","Businessman","288376"
+"Pinnacle Bank","Director","David Kilgore","Appraiser Real Estate Agent","Kilgore Realtors","2018","Businessman","288376"
+"Pinnacle Bank","Director","Edward Jackson","Partner","Jackson,"Fikes","& Brakefield"","2018","Attorney","288376"
+"Pinnacle Bank","Director","Robbin Reed Allen","n/a","Reed Energy LLC","2018","Businesswoman","288376"
+"Pinnacle Bank","Treasurer","Joe B. Adams,"III"","n/a","n/a","2018","Banker","288376"
+```

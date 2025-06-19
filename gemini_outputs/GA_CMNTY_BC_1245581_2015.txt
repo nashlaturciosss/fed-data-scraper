@@ -1,0 +1,25 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Lucie VanLandingham Beeley GST Trust","Class A Common","119558","25.42%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Stevan Reynolds Tuck GST Trust","Class A Common","119557","25.42%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Lucie V. Beeley","Class A Common","39419","8.38%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Stevan Tuck","Class A Common","45342","9.64%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Lucie VanLandingham Beeley GST Trust","Class B Common","157496","13.73%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Stevan Reynolds Tuck GST Trust","Class B Common","157496","13.73%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Lucie V. Beeley","Class B Common","416129","36.27%","1245581"
+"Georgia Community Bancorp","Dawson,"GA"","2015","Stevan Tuck","Class B Common","416129","36.27%","1245581"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Community Bancorp","Director","Jack Tuck","n/a","n/a","2015","n/a","1245581"
+"Georgia Community Bancorp","Director","Jack F. and Mary V. Tuck","n/a","Bank of Terrell","2015","n/a","1245581"
+"Georgia Community Bancorp","Director","Jack F. and Mary V. Tuck","n/a","Commercial State Bank","2015","n/a","1245581"
+"Georgia Community Bancorp","Director","Jack F. and Mary V. Tuck","n/a","The Citizens State Bank of Taylor County","2015","n/a","1245581"
+"Georgia Community Bancorp","Secretary/Treasurer,"President Bank of Terrell"","Scott Beeley","Director & President","Bank of Terrell","2015","n/a","1245581"
+"Georgia Community Bancorp","Secretary/Treasurer,"President Bank of Terrell"","Scott Beeley","n/a","Citizens State Bank of Taylor County","2015","n/a","1245581"
+"Georgia Community Bancorp","Secretary/Treasurer,"President Bank of Terrell"","Scott Beeley","n/a","Commercial State Bank","2015","n/a","1245581"
+"Georgia Community Bancorp","CFO","Lucie V. Beeley","n/a","Citizens State Bank of Taylor County","2015","CFO,"BHC"","1245581"
+"Georgia Community Bancorp","CFO","Lucie V. Beeley","n/a","Bank of Terrell","2015","CFO,"BHC"","1245581"
+"Georgia Community Bancorp","CFO","Lucie V. Beeley","n/a","Commercial State Bank","2015","CFO,"BHC"","1245581"
+"Georgia Community Bancorp","Director","Stevan Tuck","Information Secutity Officer,"BHC"","Bank of Terreil","2015","n/a","1245581"
+```

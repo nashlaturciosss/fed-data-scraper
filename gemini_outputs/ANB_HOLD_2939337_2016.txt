@@ -1,21 +1,17 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"ANB Holdings,"Inc."","Fort Lauderdale","2016","Richard S. Ingham,"Trust"","n/a","1308860","90.70%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ANB Holdings,"Inc."","Fort Lauderdale,"FL"","2016","Richard S. Ingham,"Trust"","n/a","1308860","90.70%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"ANB Holdings,"Inc."","Director","Jay B. Deuschle","Director","American National Bank","2016"
-"ANB Holdings,"Inc."","Director","Jay B. Deuschle","President","Floranada Warehouse & Storage","2016"
-"ANB Holdings,"Inc."","Director","Richard S. Ingham,"Jr."","Director","American National Bank","2016"
-"ANB Holdings,"Inc."","Director","Richard S. Ingham,"Jr."","Vice President & Controller","Asterisk,"Inc."","2016"
-"ANB Holdings,"Inc."","Director & Secretary","Frederick H. Ingham","Director & Secretary","American National Bank","2016"
-"ANB Holdings,"Inc."","Director & Secretary","Frederick H. Ingham","Vice President","Asterisk,"Inc."","2016"
-"ANB Holdings,"Inc."","Director","Richard S. Ingham","Director","American National Bank","2016"
-"ANB Holdings,"Inc."","Director","Richard S. Ingham","Chairman & President","Asterisk,"Inc."","2016"
-"ANB Holdings,"Inc."","Director & Chairman","Timothy C. Ingham","Director & Chairman","American National Bank","2016"
-"ANB Holdings,"Inc."","Director & Chairman","Timothy C. Ingham","Vice President","Asterisk,"Inc."","2016"
-"ANB Holdings,"Inc."","Director","Gary J. Faysash","Director","American National Bank","2016"
-"ANB Holdings,"Inc."","Director","Gary J. Faysash","President","GJF Consulting,"LLC"","2016"
-"ANB Holdings,"Inc."","Director & President","Virginia L. Martin","Director & President & CEO","American National Bank","2016"
-"ANB Holdings,"Inc."","Treasurer","Diane DeLella","EVP-COO/CFO","American National Bank","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ANB Holdings,"Inc."","Director","Jay B. Deuschle","President","Floranada Warehouse & Storage","2016","Storage/Warehouse","481430"
+"ANB Holdings,"Inc."","Director","Richard S. Ingham,"Jr."","Vice President & Controller","Asterisk,"Inc."","2016","Broadcasting","481430"
+"ANB Holdings,"Inc."","Director & Secretary","Frederick H. Ingham","Vice President","Asterisk,"Inc."","2016","Broadcasting","481430"
+"ANB Holdings,"Inc."","Director","Richard S. Ingham","Chairman & President","Asterisk,"Inc."","2016","Broadcasting","481430"
+"ANB Holdings,"Inc."","Director & Chairman","Timothy C. Ingham","Vice President","Asterisk,"Inc."","2016","Broadcasting","481430"
+"ANB Holdings,"Inc."","Director","Gary J. Faysash","President","GJF Consulting,"LLC"","2016","Consultant","481430"
+"ANB Holdings,"Inc."","Director & President","Virginia L. Martin","n/a","n/a","2016","N/A","481430"
+"ANB Holdings,"Inc."","Treasurer","Diane DeLella","n/a","n/a","2016","N/A","481430"
 ```

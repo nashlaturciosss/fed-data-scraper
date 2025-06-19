@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bancshares,"Inc."","Russellville,"AL"","2023","Greg Batchelor","n/a","66303","7.29%","n/a"
+"Pinnacle Bancshares,"Inc."","New York,"NY"","2023","Tontine Financial Partners,"L.P."","n/a","86591","9.52%","n/a"
+"Pinnacle Bancshares,"Inc."","Jasper,"AL"","2023","John Simmons","n/a","46000","5.06%","n/a"
+"Pinnacle Bancshares,"Inc."","Russellville,"AL"","2023","John John II LLC","n/a","39932","4.39%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bancshares,"Inc."","Director","Greg Batchelor","Director","Dependable True Value Hardware. Inc.","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Greg Batchelor","Managing Partner","Cecil and Oliva Batchelor Limited Partnership LTD","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Greg Batchelor","Managing Partner","John John LLC","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Greg Batchelor","Managing Partner","John John II LLC","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Greg Batchelor","President","LIDO,"Inc."","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Greg Reed","State Senator","n/a","2023","State Senator","n/a"
+"Pinnacle Bancshares,"Inc."","President & Director","Robert B Nolen Jr.","President & Director","n/a","2023","Banker","n/a"
+"Pinnacle Bancshares,"Inc."","Director","William H. Humphries","President","Bankhead Land & Timber","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","David Kilgore","Appraiser Real Estate Agent","Kilgore Realtors","2023","Businessman","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Edward Jackson","Partner","Jackson,"Fikes","& Brakefield"","2023","Attorney","n/a"
+"Pinnacle Bancshares,"Inc."","Director","Robbin Reed Allen","Corporate Paralegal","Reed Energy LLC","2023","Businesswoman","n/a"
+```

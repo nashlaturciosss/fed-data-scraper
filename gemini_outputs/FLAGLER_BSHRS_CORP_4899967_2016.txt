@@ -1,0 +1,24 @@
+Here are the extracted tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flagler Bank","Palm Beach,"FL"","2016","Ronald Y. Schram","COMMON","525218","21.35%","4899967"
+"Flagler Bank","Palm Beach,"FL"","2016","Ronald Y. Schram","OPTIONS","25000","n/a","4899967"
+"Flagler Bank","Coral Gables,"FL"","2016","Frank Hessel","COMMON","525217","21.35%","4899967"
+"Flagler Bank","Coral Gables,"FL"","2016","Frank Hessel","OPTIONS","10000","n/a","4899967"
+"Flagler Bank","Los Angeles,"CA"","2016","Elliot Horowitz","COMMON","243482","9.89%","4899967"
+"Flagler Bank","Palm Bch Gdns,"FL"","2016","Lampert Family Trusts","COMMON","216666","8.67%","4899967"
+"Flagler Bank","Greenwich,"CT"","2016","John Irwin","COMMON","133333","5.42%","4899967"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flagler Bank","Pres/Director","Ronald Y. Schram","n/a","Real Estate","2016","Real Estate","4899967"
+"Flagler Bank","COB/Secretary","Edward Sterling","n/a","FB President","2016","FB President","4899967"
+"Flagler Bank","Director","Frank Hessel","n/a","Real Estate","2016","Real Estate","4899967"
+"Flagler Bank","Director","Ron Mackail","n/a","Accounting","2016","Accounting","4899967"
+"Flagler Bank","Director","Gary Walk","n/a","Attorney","2016","Attorney","4899967"
+"Flagler Bank","Director","Arnold Lampert","n/a","Retired","2016","Retired","4899967"
+"Flagler Bank","Director","Gerry Goldsmith","n/a","Retired","2016","Retired","4899967"
+"Flagler Bank","Director","Herbert Weiss","n/a","Furniture","2016","Furniture","4899967"
+```

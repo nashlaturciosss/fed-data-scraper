@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","Montreal,"Canada"","2019","Guy Cormier,"Chairman of the Board"
+Fédération Des Caisses Desjardins
+"du Québec"","Common Stock","750","100%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","Sole shareholder","Fédération des caisses Desjardins du Québec","n/a","n/a","2019","n/a","n/a"
+"Desjardins FSB Holdings,"Inc."","Director Chair of the Board & Chief Executive Officer","Cormier,"Guy"","Officer and director of some of the subsidiaries","Fédération des caisses Desjardins du Québec","2019","President and Chief Executive Officer,"Desjardins Group","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director Vice-Chairman of the Board","Rousseau,"Serge"","Director and Vice-Chairman of the Board","Fédération des caisses Desjardins du Québec","2019","General Manager - Early Childhood Centre Parc-en-ciel","n/a"
+"Desjardins FSB Holdings,"Inc."","Director Secretary of the Board","Tourangeau,"Michel"","Director and Secretary of the Board","Fédération des caisses Desjardins du Québec","2019","Lawyer","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Chevalier,"Carole"","Director","Fédération des caisses Desjardins du None","2019","Retired","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Hawthorn,"Neil Norman"","Director","Fédération des caisses Desjardins du None","2019","General Manager,"Caisse Desjardins de Saint-Eustache-Deux-Montagnes"","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Secretary of the Board","Lachaîne,"Éric"","Officer and director of some
+"of the subsidiaries"","Fédération des caisses Desjardins du Québec","2019","Executive Vice-President,"Caisse Network and Member and Client Services","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Bellemare,"Réal"","Officer and director of some of the
+"subsidiaries"","Fédération des caisses Desjardins du Québec","2019","Senior Executive Vice-President and Chief Operating Officer of Desjardins Group & Executive Vice-President Information Technology (interim),"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Groulx,"Nadine"","Director of some of the subsidiaries of the","Fédération des caisses Desjardins du Québec","2019","Farmer","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Maltais,"Camil"","Director of some of the subsidiaries of the","Fédération des caisses Desjardins du Québec","2019","Agricultural entrepreneur","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Secretary of the Board","Coulombe,"Renaud"","Officer of some of the subsidiaries of the","Fédération des caisses Desjardins du Québec","2019","Vice-President Legal Affairs,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Treasurer Director and Treasurer","Béchard,"Sylvie"","Director of one of the subsidiaries and officer of some of the subsidiaries of the","Fédération des caisses Desjardins du Québec","2019","Vice-President Banking Services Finance Division,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Treasurer Controller,"Desjardins Bank","National Association"","Tirado,"Wilfredo"","n/a","n/a","2019","Controller,"Desjardins Bank"","n/a"
+```

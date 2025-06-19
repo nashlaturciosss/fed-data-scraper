@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Community Bancshares Corporation","Madison,"FL"","2021","William D. Rutherford","Common Stock","76335","13.60%","n/a"
+"Madison Community Bancshares Corporation","Madison,"FL"","2021","Jacob K. Johnson","Common Stock","51273","9.14%","n/a"
+"Madison Community Bancshares Corporation","Madison,"FL"","2021","Jacqueline P. Johnson","Common Stock","51273","9.14%","n/a"
+"Madison Community Bancshares Corporation","Madison,"FL"","2021","John C. Lewis","Common Stock","33340","5.94%","n/a"
+"Madison Community Bancshares Corporation","Madison,"FL"","2021","Thomas J. Beggs,"IV"","Common Stock","32553","5.80%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Community Bancshares Corporation","Officer/Executive Vice President/Senior Lender","John G. Ashey III","n/a","n/a","2021","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Owner/MGR","D&D Farms,"LLC"","2021","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","Carson L. Cherry","n/a","n/a","2021","Retired","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","PB&J of Madison,"LLC"","2021","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGR","Loper Pond Plantation & Estates,"LLC"","2021","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGRM","Coleburn Enterprises,"LLC"","2021","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James H. Coleburn","Owner/MGRM","J&P Land Services,"LLC"","2021","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Senior Vice President/Cashier","Barbara Driggers","n/a","n/a","2021","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Cary A. Hardee,"II"","Owner/MGR","Hardee Law Firm,"PL"","2021","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","Gordon Alvin Henderson","Owner","Henderson Farms","2021","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","John Lewis","Owner/MGR","Madison Veterinary Clinic LLC","2021","Veterinarian","n/a"
+"Madison Community Bancshares Corporation","Director & President/CEO","D. Edward Meggs,"Sr."","n/a","n/a","2021","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Ronnie L. Moore","n/a","n/a","2021","Madison County Commissioner","n/a"
+"Madison Community Bancshares Corporation","Vice President/CFO","William M. Primm","n/a","n/a","2021","Banker","n/a"
+"Madison Community Bancshares Corporation","Director","Lowell D. Robinson","n/a","n/a","2021","Retired","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","President","Clemons,"Rutherford and Associates","Inc."","2021","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","President","Institutioal Construction Management,"Inc."","2021","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","Clay Schnitker","President","Davis,"Schnitker","Reeves & Browning","P.A."","2021","Attorney","n/a"
+```

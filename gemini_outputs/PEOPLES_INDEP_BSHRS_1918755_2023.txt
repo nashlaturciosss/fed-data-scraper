@@ -1,0 +1,24 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Betty B Buchanan","Shares of Common Stock","19486","11.00%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Phillip Amberson","Shares of Common Stock","24265","13.70%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Patty Handley","Shares of Common Stock","10000","5.65%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Tommy Handley","Shares of Common Stock","11396","6.43%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Royce G. Ogle","Shares of Common Stock","20096","11.35%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2023","Bonnie Glassco","Shares of Common Stock","9119","5.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Chase Handley","Vice President","Handley Construction Co.,"Inc."","2023","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Chase Handley","n/a","Property Development of Marshall Co.","2023","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Chase Handley","n/a","Handley Management & Development Co.","2023","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2023","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2023","Retail","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","Certified Financial Planner","Ameriprise Financial Service","2023","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President & Chairman of the Board","Royce G. Ogle","n/a","None","2023","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","n/a","None","2023","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","None","Betty B. Buchanan","n/a","None","2023","Deceased","n/a"
+```

@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2016","John J. Mullins","n/a","69898","42.75%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2016","FCB Bancshares,"Inc. KSOP Plan"","n/a","25018","42.75%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2016","Dan J. Willingham","n/a","33562","20.53%","n/a"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2016","E.O. Browder,"Jr."","n/a","25851","15.81%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2016","FCB Bancshares,"Inc. KSOP Plan"","n/a","37752","23.09%","n/a"
+"FCB Bancshares,"Inc."","Eutaw,"AL"","2016","C. Woody Browder","n/a","9742","5.96%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Premier Bank of the South","Director","E.O. Browder Jr","President","Browder & Associates PC","2016","President","n/a"
+"Premier Bank of the South","Director","Edna Earle Hicks","Director","n/a","2016","Retired","n/a"
+"Premier Bank of the South,"Chairman","CEO & President"","Director","John J. Mullins","Chairman,"President","CEO & Director"","n/a","2016","NA","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Attorney","Fuller & Willingham","2016","Attorney","n/a"
+"Premier Bank of the South","n/a","FCB Bancshares,"Inc. KSOP Plan"","Principal Share Holder","n/a","2016","N/A","n/a"
+"Premier Bank of the South","Director","Ann Mullins","Retired","n/a","2016","Retired","n/a"
+"Premier Bank of the South","Director","Russell W. Morrow","Cullman Business Services,"Inc.-Owner"","Cullman Business Services,"Inc."","2016","Cullman Business Services,"Inc.-Owner"","n/a"
+```

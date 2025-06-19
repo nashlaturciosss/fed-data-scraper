@@ -1,0 +1,18 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Chairman & CEO","John Muse","n/a","n/a","2023","n/a","n/a"
+"Farmers State Bancshares,"Inc."","Vice Chairman of the Board and Director","Sam B. Adams,"Jr."","Owner","Adams Pharmacy","2023","Owner Adams Pharmacy","n/a"
+"Farmers State Bancshares,"Inc."","Director","William P. McGuire","Partner","Cunningham & McGuire","2023","Retired","n/a"
+"Farmers State Bancshares,"Inc."","President & CEO/Director and Chairman of the Board","John Howard Muse","n/a","n/a","2023","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Dorothy Shupe","n/a","n/a","2023","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Daniel Cullop","n/a","n/a","2023","Funeral Home Owner","n/a"
+"Farmers State Bancshares,"Inc."","Director/Executive Vice President","David D. Arnold","n/a","n/a","2023","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Joseph D. Herman","n/a","Danny Herman Trucking","2023","Owner- Danny Herman Trucking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Samuel E. Icenhour","n/a","Iron Mountain Construction","2023","Owner- Iron Mountain Construction","n/a"
+```

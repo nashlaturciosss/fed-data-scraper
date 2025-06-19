@@ -1,0 +1,21 @@
+Here are the tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp Inc","Franklin,"LA"","2023","William S. Patout,"III Estate"","Common Stock","1423","11.68%","n/a"
+"Jeanerette First National Bancorp Inc","McKinney,"TX"","2023","Patricia Wentrcek","Common Stock","791","6.50%","n/a"
+"Jeanerette First National Bancorp Inc","New Iberia,"LA"","2023","Venetia M Patout","Common Stock","1028","8.44%","n/a"
+"Jeanerette First National Bancorp Inc","Lafayette,"LA"","2023","Loretta Richard","Common Stock","840","6.90%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Attorney","n/a","2023","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","n/a","2023","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp,"Inc."","Chairman","Samuel B. Bourgeois","Director","n/a","2023","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc."","Vice-Chairman","Bret Bishop","Director","n/a","2023","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc."","Secretary","Damon Migues","President,"CEO & Director"","Gym Owner","2023","CEO/FNB of Jeanerette","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","16th Judicial District","2023","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Harry Patin,"Jr."","Director","n/a","2023","Insurance Broker","n/a"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol C Babineaux,"Jr."","Director","n/a","2023","Insurance Broker","n/a"
+```

@@ -1,0 +1,53 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GREAT SOUTHERN CAPITAL CORPORATION","Meridian,"MS"","2014","Great Southern
+Captial Corporation
+Employee Stock
+"Ownership Trust"","common stock","27850","20.05%","n/a"
+"GREAT SOUTHERN CAPITAL CORPORATION","Dallas,"TX"","2014","Celia Speed Boisfontaine","common stock","25572","18.41%","n/a"
+"GREAT SOUTHERN CAPITAL CORPORATION","Oxford,"MS"","2014","James Thomas Speed,"Jr."","common stock","24172","17.40%","n/a"
+"GREAT SOUTHERN CAPITAL CORPORATION","Memphis,"TN"","2014","Samuel Carter Speed","common stock","24172","17.40%","n/a"
+"GREAT SOUTHERN CAPITAL CORPORATION","Madison,"MS"","2014","Margaret Speed Robertson","common stock","24172","17.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","Fred H. Blackledge","President","Blackledge,"Inc."","2014","Retired-contract
+"trucking business"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","Celia Boisfontaine","Partner","Pinehaven LLP","2014","Homemaker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","Celia Boisfontaine","Partner","Speedbo,"LLC"","2014","Homemaker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","Celia Boisfontaine","Partner","Derry-D LLC","2014","Homemaker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","Celia Boisfontaine","Partner","Speed Investors LLC","2014","Homemaker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Gilbert E. Carmichael","Partner","Missouth Properties LP","2014","Real estate investor","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Gilbert E. Carmichael","President","Stonewall Manufacturing Co. Inc.","2014","Real estate investor","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Raymond Dearman","Partner","Parks Plaza Partnership","2014","Retired-engineer","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Carl Douglas Deweese","Owner","Deweese Assets Solutions LLC","2014","Trucking","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Carl Douglas Deweese","Partner","Deweese Properties,"LLC"","2014","Trucking","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & President
+"& Chief Executive Officer"","Jeff McCoy","n/a","n/a","2014","Banker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Chairman","S. Carter Speed","Broker","Southern Land Company","2014","Forester & Real
+"Estate Broker"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Chairman","S. Carter Speed","Partner","Pinehaven LLP","2014","Forester & Real
+"Estate Broker"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Chairman","S. Carter Speed","Partner","Speebo LLC","2014","Forester & Real
+"Estate Broker"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Chairman","S. Carter Speed","Partner","Derry-D LLC","2014","Forester & Real
+"Estate Broker"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Chairman","S. Carter Speed","Partner","Speed Investors LLC","2014","Forester & Real
+"Estate Broker"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","James Thomas Speed,"Jr."","Partner","Pinehaven LLP","2014","Free lance writer","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","James Thomas Speed,"Jr."","Partner","Speebo LLC","2014","Free lance writer","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","James Thomas Speed,"Jr."","Partner","Derry-D LLC","2014","Free lance writer","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & Vice President","James Thomas Speed,"Jr."","Partner","Speed Investors LLC","2014","Free lance writer","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Wallace Strickland","President","Rush Health Systems","2014","Hospital Administrator","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director & President","Leslie W. Usher","n/a","n/a","2014","Banker","101738"
+"GREAT SOUTHERN NATIONAL BANK","President &
+"Director"","Teddy Rigdon","n/a","n/a","2014","President - Small
+"Loan Office"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Secretary/Treasurer","Dancy D. Sykes","n/a","n/a","2014","Banker","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Robert F. Longwitz","n/a","n/a","2014","Retired - Investor","101738"
+"GREAT SOUTHERN NATIONAL BANK","Director","Roy Patten","Retired","n/a","2014","Retired auto
+"dealership"","101738"
+"GREAT SOUTHERN NATIONAL BANK","Secretary","Stephanie Dickerson","n/a","n/a","2014","Secretary","101738"
+```

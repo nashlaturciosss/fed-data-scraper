@@ -1,0 +1,30 @@
+Here are the requested CSV files:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2020","Betty L. Rankin","Common Stock","24140","14.62%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2020","Franklin W. Latta","Common Stock","24040","14.56%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2020","Mary L. Woods","Common Stock","22690","13.75%","n/a"
+"F & M FINANCIAL CORP","Lookout Mountian,"TN"","2020","Norwood E. Green","Common Stock","22500","13.63%","n/a"
+"F & M FINANCIAL CORP","Centre,"AL"","2020","Margaret L. or Mallory Whorton","Common Stock","21540","13.05%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2020","Jim D. Smallwood","Common Stock","13200","8.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M FINANCIAL CORP","President","Frankiln W. Latta","CEO","Farmers & Merchants Bank","2020","n/a","434539"
+"F & M FINANCIAL CORP","VP / Director","Christopher F. Latta","President","Farmers & Merchants Bank","2020","n/a","434539"
+"F & M FINANCIAL CORP","Director","Larry Deason","Director","Farmers & Merchants Bank","2020","n/a","434539"
+"F & M FINANCIAL CORP","Secretary","Betty L. Rankin","Human Resources","Farmers & Merchants Bank","2020","VP of Human Resources","434539"
+"F & M FINANCIAL CORP","Director","Arthur Fite","Director","Farmers & Merchants Bank","2020","Attorney","434539"
+"F & M FINANCIAL CORP","Director","Arthur Fite","Owner","Fite Law Firm","2020","Attorney","434539"
+"F & M FINANCIAL CORP","Director","John Bekkers","Director","Farmers & Merchants Bank","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","Director","David Neisler","Director","Farmers & Merchants Bank","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","n/a","David Neisler","Owner","Deck Foods","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Director","Farmers & Merchants Bank","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","n/a","Greg Kernion","Owner","NLM Marketing,"LLC"","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","n/a","Greg Kernion","Owner","LGK Sales & Marketing Inc.","2020","Corporate Executive","434539"
+"F & M FINANCIAL CORP","n/a","Margaret L. or Mallory Whorton","n/a","n/a","2020","Real Estate","434539"
+"F & M FINANCIAL CORP","n/a","Mary Latta Woods","n/a","n/a","2020","Teller","434539"
+"F & M FINANCIAL CORP","n/a","Norwood Green","n/a","n/a","2020","Retired","434539"
+```

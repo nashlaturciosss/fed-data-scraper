@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBD Holding Company Inc.","Dalton,"GA"","2015","G Thomas Peeples","Common Stock","173448","7.86%","2349440"
+"FBD Holding Company Inc.","Dalton,"GA"","2015","Bryan Peeples","Common Stock","111544","5.05%","2349440"
+"FBD Holding Company Inc.","Dalton,"GA"","2015","Shelby Peeples","Common Stock","752786","34.13%","2349440"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBD Holding Company Inc.","Chairman","K. Scott Fletcher","n/a","Textile Management Associates,"Inc"","2015","Textiles","2349440"
+"FBD Holding Company Inc.","Director","Ronald D. Keys","n/a","n/a","2015","Carpet Samples","2349440"
+"FBD Holding Company Inc.","Director","J. Rodney Ownbey","President","Ownbey Enterprises,"Inc."","2015","Retail Fuel Sales","2349440"
+"FBD Holding Company Inc.","Director","G. Thomas Peeples","CEO","Universal Textile Technologies,"Inc."","2015","Textiles","2349440"
+"FBD Holding Company Inc.","CEO/ President/ Director","T. Larry Roye","n/a","n/a","2015","Banking","2349440"
+"FBD Holding Company Inc.","Executive Vice President & Chief Lending Officer","R. Mitch Sanford","n/a","n/a","2015","Banking","2349440"
+```

@@ -1,17 +1,25 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Anchor Bancorp,"Inc."","La Paz","2020","Guido Hinojosa","Common Stock","4512478","96.74%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Anchor Bancorp,"Inc."","La Paz,"Bolivia"","2020","Guido Hinojosa","common stock","4512478","96.74%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Anchor Bancorp Inc.","Chairman of the Board CEO & President","Nelson Hinojosa","Chairman of the Board CEO & President Anchor Bank","NJ Florida Real Estate Investment Inc","2020"
-"Anchor Bancorp Inc.","Vice Chairman","Peter Pantages","Director (Anchor Bank)","See Attached","2020"
-"Anchor Bancorp Inc.","Director","Thomas J Keys","Director (Anchor Bank)","n/a","2020"
-"Anchor Bancorp Inc.","Director","Randy Nobles","Director (Anchor Bank)","n/a","2020"
-"Anchor Bancorp Inc.","Director","George Gentile","Director (Anchor Bank)","Gentile Glas Holloway O'Mahoney &Associates Inc. Landscape Architects,"Planners","Environmental Consultants","Inc"","2020"
-"Anchor Bancorp Inc.","Director","Philippe C. Jeck","Director (Anchor Bank)","Jeck,"Harris","Raynor & Jones","P.A."","2020"
-"Anchor Bancorp Inc.","Director","Steven Sciarretta","Director (Anchor Bank)","Steve A. Sciarretta P.A","2020"
-"Anchor Bancorp Inc.","Director","Alejandro Zegarra","Director (Anchor Bank)","Banco Fortaleza","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Anchor Bancorp Inc.","Chairman of the Board CEO & President","Nelson Hinojosa","n/a","NJ Florida Real Estate Investment Inc","2020","CEO Anchor Bank","n/a"
+"Anchor Bancorp Inc.","Vice Chairman","Peter Pantages","n/a","See Attached","2020","Retired Investor","n/a"
+"Anchor Bancorp Inc.","Director","Thomas J Keys","n/a","n/a","2020","CPA","n/a"
+"Anchor Bancorp Inc.","Director","Randy Nobles","n/a","n/a","2020","Retired/Charitable Organization Executive","n/a"
+"Anchor Bancorp Inc.","Director","George Gentile","n/a","Gentile Glas Holloway O'Mahoney &Associates Inc. Landscape Architects,"Planners","Environmental Consultants","Inc"","2020","Environmental Consultant Land Development","n/a"
+"Anchor Bancorp Inc.","Director","George Gentile","n/a","Plan B,"C","D ....","Inc."","2020","Environmental Consultant Land Development","n/a"
+"Anchor Bancorp Inc.","Director","Philippe C. Jeck","n/a","Jeck,"Harris","Raynor & Jones","P.A."","2020","Attorney","n/a"
+"Anchor Bancorp Inc.","Director","Philippe C. Jeck","n/a","JHJ Investments LLC","2020","Attorney","n/a"
+"Anchor Bancorp Inc.","Director","Philippe C. Jeck","n/a","All Florida Land Title Company","2020","Attorney","n/a"
+"Anchor Bancorp Inc.","Director","Steven Sciarretta","n/a","Steve A. Sciarretta P.A","2020","Attorney","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Banco Fortaleza","2020","Country Club Administration","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Fortaleza Leasing","2020","Country Club Administration","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Fortaleza Caisa","2020","Country Club Administration","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Fortaleza SAFI","2020","Country Club Administration","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Aseguradora Fortaleza","2020","Country Club Administration","n/a"
+"Anchor Bancorp Inc.","Director","Alejandro Zegarra","n/a","Sociedad Controladora Del Grupo Financiero Fortaleza","2020","Country Club Administration","n/a"
 ```

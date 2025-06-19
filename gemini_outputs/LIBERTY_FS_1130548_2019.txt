@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2019","Liberty Bank & Trust ESOP","Common Stock","32227","20.44%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2019","Francis Family Investments,"LLC"","Common Stock","24169","15.33%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2019","Norman C. Francis","Common Stock","24169","15.33%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2019","Alden McDonald,"Jr."","Common Stock","20737","13.16%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2019","Carolyn C. Dorion","Common Stock","15823","10.04%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2019","Dorion Family Trust","Common Stock","15823","10.04%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank & Trust","Employee Benefit Plan","Liberty Bank & Trust ESOP","n/a","n/a","2019","n/a","283438"
+"Liberty Bank & Trust","President of Banking Institution","Alden J. McDonald,"Jr."","President/CEO Director","Chart L.L.C.","2019","n/a","283438"
+"Liberty Bank & Trust","Chairman & Director","Francis Family Investments,"LLC"","Chairman & Director","n/a","2019","Retired","283438"
+"Liberty Bank & Trust","Chairman & Director","Norman C. Francis","Chairman & Director","n/a","2019","Retired","283438"
+"Liberty Bank & Trust","Director","George Dimitri","Director","n/a","2019","Retired","283438"
+"Liberty Bank & Trust","Director","Sybil H. Morial","Director","n/a","2019","Retired University Administrator","283438"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","Director","Burns Management Group","2019","Owner,"Courier Company"","283438"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","Director","Quick Courier Services","2019","Owner,"Courier Company"","283438"
+"Liberty Bank & Trust","Director","Cecil Blache","Director","n/a","2019","Attorney","283438"
+"Liberty Bank & Trust","Director","James Smith","Director","n/a","2019","Retired/Consultant","283438"
+"Liberty Bank & Trust","Director","Todd McDonald","Owner of TM Management Group & Go To Interview","TM Management Group","2019","Senior Vice President of Banking Institution","283438"
+"Liberty Bank & Trust","Director","Kim Boyle","Director","n/a","2019","Attorney","283438"
+"Liberty Bank & Trust","Director","David Francis","Director","DJF,"LLC"","2019","Media Executive","283438"
+```

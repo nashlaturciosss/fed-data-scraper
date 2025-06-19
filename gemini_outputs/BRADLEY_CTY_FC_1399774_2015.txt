@@ -1,19 +1,20 @@
-Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bank of Cleveland","Cleveland","2015","R. Scott Taylor","n/a","92550","34.41%"
-"Bank of Cleveland","Cleveland","2015","None","n/a","n/a","n/a"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bradley County Financial Corp.","Cleveland,"TN"","2015","R. Scott Taylor","n/a","92550","34.41%","1399774"
+"Bradley County Financial Corp.","Cleveland,"TN"","2015","None","n/a","n/a","n/a","1399774"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bank of Cleveland","Chairman,"CEO","President"","R. Scott Taylor","Chairman,"СЕО","Bank of Cleveland"","None","2015"
-"Bank of Cleveland","Director","Gerald Burns","Director,"Bank of Cleveland"","Burns Ornamental Iron & Fabricating,"Inc."","2015"
-"Bank of Cleveland","Director","Fritz G. Harris","Director,"Bank of Cleveland"","Harris,"Williamson","& Trewhtt CPA's PC"","2015"
-"Bank of Cleveland","Director","Steve Robinson","Director,"Bank of Cleveland"","Cleveland Plywood Co.","2015"
-"Bank of Cleveland","Director","Steve Lambert","Director,"Bank of Cleveland"","Bradley Concrete,"Inc. Lambcon","Inc. Lambert Investments","Inc."","2015"
-"Bank of Cleveland","Treasurer","S. Julian Sullivan III","Director,"President & CFO Bank of Cleveland"","None","2015"
-"Bank of Cleveland","Director","Terry J. Buckner","Director,"EVP & CLOBank of Cleveland"","None","2015"
-"Bank of Cleveland","Director","Clint R. Taylor","None","Crescent Builders,"LLC"","2015"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Cleveland","Chairman,"CEO","President"","R. Scott Taylor","None","n/a","2015","Banker","144034"
+"Bank of Cleveland","Director","Gerald Burns","Owner","Burns Ornamental Iron & Fabricating,"Inc."","2015","Businessman","144034"
+"Bank of Cleveland","Director","Fritz G. Harris","Partner","Harris,"Williamson","& Trewhtt CPA's PC"","2015","Accountant","144034"
+"Bank of Cleveland","Director","Steve Robinson","Owner","Cleveland Plywood Co.","2015","Businessman","144034"
+"Bank of Cleveland","Director","Steve Lambert","Owner","Bradley Concrete,"Inc."","2015","Businessman","144034"
+"Bank of Cleveland","Director","Steve Lambert","Owner","Lambcon,"Inc."","2015","Businessman","144034"
+"Bank of Cleveland","Director","Steve Lambert","Owner","Lambert Investments,"Inc."","2015","Businessman","144034"
+"Bank of Cleveland","Treasurer,"Director"","S. Julian Sullivan III","None","n/a","2015","Banker","144034"
+"Bank of Cleveland","Director","Terry J. Buckner","None","n/a","2015","Banker","144034"
+"Bank of Cleveland","Director","Clint R. Taylor","Owner","Crescent Builders,"LLC"","2015","Businessman","144034"
 ```

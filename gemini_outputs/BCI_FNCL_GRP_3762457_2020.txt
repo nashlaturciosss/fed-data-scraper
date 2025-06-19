@@ -1,13 +1,21 @@
-"Okay","I will extract the information and present it in the requested CSV format."
-```text
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BCI Financial Group Inc.","Santiago","2020","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BCI Financial Group,"Inc."","Santiago,"Chile"","2020","Banco de Credito e Inversiones","common stock","927345444","100%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BCI Financial Group Inc.","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2020"
-"BCI Financial Group Inc.","Director & General Manager","Eugenio Von Chrismar","CEO - Banco de Credito e Inversiones","BCI Factoring S.A.","2020"
-"BCI Financial Group Inc.","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2020"
-"BCI Financial Group Inc.","Secretary/General Manager","McHenry Kane","General Counsel","CNB Housing Foundation,"Inc."","2020"
-"BCI Financial Group Inc.","Treasurer","Daniel Kushner","Chief Strategic Advisor","Toni Meurlot Residuary Trust","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BCI Financial Group,"Inc."","Director & General Manager","Jorge Gonzalez","Director","ICA Miami","2020","CEO & Vice Chairman,"City National Bank of Florida"","814430"
+"BCI Financial Group,"Inc."","Director & General Manager","Jorge Gonzalez","Director","United Way of Miami Dade","2020","CEO & Vice Chairman,"City National Bank of Florida"","814430"
+"BCI Financial Group,"Inc."","Director & General Manager","Jorge Gonzalez","Director","Nicklaus Children's Hospital","2020","CEO & Vice Chairman,"City National Bank of Florida"","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2020","CEO - Banco de Credito e Inversiones","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Juan Yarur S.P.A","2020","CEO - Banco de Credito e Inversiones","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2020","CEO - Banco de Credito e Inversiones","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Eugenio Von Chrismar","President","Servicios Financieros y Administracion de Creditos Comerciales S.A.","2020","CEO - Banco de Credito e Inversiones","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2020","CEO - Banco de Credito e Inversiones","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Maria Grisel Vega","Treasurer","Bishop Enrique San Pedro Foundation,"Inc."","2020","General Manager - BCI Miami Branch","814430"
+"BCI Financial Group,"Inc."","Director/General Manager","Maria Grisel Vega","Director","Florida International Banker's Association (FIBA)","2020","General Manager - BCI Miami Branch","814430"
+"BCI Financial Group,"Inc."","Secretary/General Manager","McHenry Kane","President/Director","CNB Housing Foundation,"Inc."","2020","General Counsel - City National Bank of Florida","814430"
+"BCI Financial Group,"Inc."","Treasurer","Daniel Kushner","Trustee","Toni Meurlot Residuary Trust","2020","Consultant- City National Bank of Florida","814430"
 ```

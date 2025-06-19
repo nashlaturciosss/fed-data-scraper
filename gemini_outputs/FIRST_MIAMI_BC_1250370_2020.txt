@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2020","James Henry Wirtz","Common Stock","6281","7.20%","n/a"
+"First Miami Bancorp,"Inc."","South Miami,"FL"","2020","Bruce Wirtz MacArthur","Common Stock","8015","9.19%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2020","Peter R. Wirtz (1)","Common Stock","10748","12.32%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2020","FNBSM As Trustee of the TUIA of V. Wirtz FBO Elizabeth Wirtz","Common Stock","6000","6.88%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2020","Karen Wirtz Fix","Common Stock","5375","6.16%","n/a"
+"First Miami Bancorp,"Inc."","n/a","2020","Virginia MacArthur Jenner Trust 07/22/86","Common Stock","6015","6.90%","n/a"
+"First Miami Bancorp,"Inc."","Scottsdale,"AR"","2020","Gail Wirtz Costello","Common Stock","5155.5","5.91%","n/a"
+"First Miami Bancorp,"Inc."","Golf,"IL"","2020","Arthur Michael Wirtz III","n/a","6281","7.20%","n/a"
+"First Miami Bancorp,"Inc."","Glenview,"IL"","2020","Laura Wirtz Jenkins","n/a","6282","7.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Co-Chairman","Breakthru Beverage Group","2020","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","Chicago Blackhawks","2020","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","First Security Trust & Savings Bank","2020","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Vice President & Director","Bruce Wirtz MacArthur","Vice President","Wirtz Realty Company","2020","Chairman of the Board & CEO,"First National Bank of South Miami"","n/a"
+"First Miami Bancorp Inc.","Treasurer & Director","Drew A. Dammeier","President","First National Bank of South Miami","2020","President,"FNBSM/EVP","First Security Trust and Savings Bank"","n/a"
+"First Miami Bancorp Inc.","Director","Arthur M. Wirtz,"III"","n/a","n/a","2020","Executive Vice President,"Breakthru Beverage Group"","n/a"
+"First Miami Bancorp Inc.","Director","Daniel R. Wirtz","n/a","n/a","2020","Vice-Chairman,"Breakthru Beverage Group"","n/a"
+"First Miami Bancorp Inc.","None","Peter R. Wirtz","n/a","n/a","2020","President,"Bismarck Enterprises"","n/a"
+"First Miami Bancorp Inc.","Director","Edwin H. Callison,"Jr."","n/a","n/a","2020","Executive Vice President,"Breakthru Beverage Group"","n/a"
+```

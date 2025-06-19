@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","n/a","2016","Zachary M. Johnson Jr. Irrevocable Trust","Common Stock","80","40.61%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2016","Zacary M. Johnson Jr.","Common Stock","13","6.60%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2016","Frances D. Pitts","Common Stock","13","6.60%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2016","H.H.L. Investments","Common Stock","13","6.60%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2016","LZ Investments,"LLLP"","Common Stock","15","7.61%","1134041"
+"First Bank Shares of the South East,"Inc."","Atlanta,"GA"","2016","Jonathon Martin Taylor","Common Stock","11","5.58%","1134041"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","President & Director","Zach Johnson","President & Director","Dixieland Farms,"Inc."","2016","n/a","1134041"
+"First Bank Shares of the South East,"Inc."","Director","Lawton Johnson","Director","n/a","2016","Business Consultant","1134041"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","n/a","2016","Business Consultant","1134041"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director / Exe. Vice Pres.","n/a","2016","n/a","1134041"
+"First Bank Shares of the South East,"Inc."","Director/Treasurer & Secretary","Jack Johnson","Vice President","Zachary M Johnson Irrevocable Trust","2016","n/a","1134041"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","n/a","2016","n/a","1134041"
+"First Bank Shares of the South East,"Inc."","Director","Morris Johnson","Vice President","Zachary M Johnson Irrevocable Trust","2016","n/a","1134041"
+```

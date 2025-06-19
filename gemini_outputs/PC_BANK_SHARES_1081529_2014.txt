@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2014","E.J. Vann,"IV"","capital stock ofP&C Bank Shares,"Inc."","8312","44.61%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2014","Susan Vann Keigans","capital stock ofP&C Bank Shares,"Inc."","2315","12.42%","n/a"
+"P&C Bank Shares,"Inc."","Nashville,"TN"","2014","E.J. Vann,"V"","capital stock ofP&C Bank Shares,"Inc."","2315","12.42%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2014","Lamar Cooper","capital stock ofP&C Bank Shares,"Inc."","1000","5.37%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director & Shareholder","Martin Miley Adams","Pres","Joe B. Adams & Sons,"Inc."","2014","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director & Shareholder","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2014","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director & Shareholder","Martin Miley Adams","CEO","Adams Exports,"Inc."","2014","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director","David Lamar Cooper II","Consultant","David Cooper","2014","Electrical Contracting· Consultant","n/a"
+"P&C Bank Shares,"Inc."","Director","David Lamar Cooper II","Partner","Cooper Farms","2014","Electrical Contracting· Consultant","n/a"
+"P&C Bank Shares,"Inc."","Director & Shareholder","Alva E. Crow,"Jr."","Director","n/a","2014","Retired Automobile Dealer","n/a"
+"P&C Bank Shares,"Inc."","Director,"Secretary & Principal Shareholder"","Susan v. Keigans","EVP","Freedom Gunworks,"Inc"","2014","EVP & Corporate Secretary","n/a"
+"P&C Bank Shares,"Inc."","Chairman,"President","CEO & Director"","E.J. Vann IV","n/a","n/a","2014","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","n/a","E.J. Vann,"V"","Visual Director","Genesco,"Inc."","2014","Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2014","Retired Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Principal Shareholder","Lamar Cooper","Partner","Cooper Farms","2014","Retired Farmer","n/a"
+```

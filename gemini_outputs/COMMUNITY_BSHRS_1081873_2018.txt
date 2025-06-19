@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2018","George W. Baker,"Jr."","Common Stock","641115","16.27%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2018","E. David Hart,"Jr."","Common Stock","396238","10.06%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2018","C. Christopher Joseph","Common Stock","660615","16.77%","n/a"
+"Community Bankshares,"Inc."","Union Springs,"AL"","2018","Thomas May","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","Gainsville,"GA"","2018","Thomas W. Sheffield","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","Hogansville,"GA"","2018","William C. Stankiewicz","Common Stock","641115","16.27%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2018","William R. Stump,"Jr."","Common Stock","653085","16.58%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2018","Nancy H. Stovall","Common Stock","320695","8.14%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2018","Wingate Family","Common Stock","501000","12.72%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","Director,"Director","Community Bank & Trust-West Georgia"","George W. Baker,"Jr."","Dentist","n/a","2018","Dentist","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder,"President"","E. David Hart,"Jr."","President","Mountville Mills,"Inc."","2018","President/Mountville Mills,"Inc. (Mfg)"","n/a"
+"Community Bankshares,"Inc."","Director,"Director","Community Bank & Trust-West Georgia"","C. Christopher Joseph","Partner","Gay & Joseph,"PC"","2018","CPA","n/a"
+"Community Bankshares,"Inc."","Director,"Director","Community Bank & Trust-Alabama"","Thomas May","Retired","n/a","2018","Retired","n/a"
+"Community Bankshares,"Inc."","Director,"Director","Community Bank & Trust - West Georgia"","Thomas W. Sheffield","Retired","n/a","2018","Retired","n/a"
+"Community Bankshares,"Inc."","Director,"Director","Community Bank & Trust - West Georgia"","William C. Stankiewicz","Mayor","City of Hogansville","2018","Mayor,"City of Hogansville","GA"","n/a"
+"Community Bankshares,"Inc."","Director,"Pres.","CEO and Chairman of BOD","Community Bank & Trust-West Georgia"","William R. Stump,"Jr."","Pres.,"CEO and Chairman of BOD"","n/a","2018","n/a","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder,"n/a"","Linda H. Wingate","Retired","n/a","2018","Retired","n/a"
+"Community Bankshares,"Inc."","EVP/AL Division,"Pres.","CEO and Director","Community Bank & Trust - Alabama"","Dave G. Bryant","n/a","n/a","2018","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & Chief Credit Officer,"EVP & Chief Credit Officer","Community Bank & Trust-West GA"","George H. Riddle,"III"","n/a","n/a","2018","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & CFO,"EVP & CFO","Community Bank & Trust-West GA"","Emily A. Lowery","n/a","n/a","2018","n/a","n/a"
+"Community Bankshares,"Inc."","SVP,"Corp Sec & Dir HR","SVP","Corp. Sec. & Dir HR","Community Bank & Trust - West GA"","Kay L. Carlisle","n/a","n/a","2018","n/a","n/a"
+```

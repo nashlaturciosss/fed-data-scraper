@@ -1,0 +1,28 @@
+Here are the extracted CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2017","Zachary M. Johnson Jr. Irrevocable Trust","Common Stock","80","40.61%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2017","Zacary M. Johnson Jr.","Common Stock","13","6.60%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2017","Frances D. Pitts","Common Stock","13","6.60%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2017","H.H.L. Investments","Common Stock","13","6.60%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2017","LZ Investments,"LLLP"","Common Stock","15","7.61%","n/a"
+"First Bank Shares of the South East,"Inc."","Atlanta,"GA"","2017","Jonathon Martin Taylor","Common Stock","11","5.58%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","President & Director","Zach Johnson","President & Director","Dixieland Farms,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Lawton Johnson","Director","n/a","2017","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","H.H.L. Investments","2017","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director","Southland Investments,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director","Old School Alma,"LLC"","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director","We Care Family Practice,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director","Liberty Street Properties,"Inc"","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director","FDMI,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director/Treasurer","Jack Johnson","Vice President","Zachary M Johnson Irrevocable Trust Trustee","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Southland Investments,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Old School Alma,"LLC"","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","Southeast Propane,"Inc."","2017","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Morris Johnson","Vice President","Zachary M Johnson Irrevocable Trust Trustee","2017","n/a","n/a"
+```

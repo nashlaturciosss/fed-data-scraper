@@ -1,0 +1,19 @@
+Here are the two tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","Sole shareholder","Fédération des caisses Desjardins du Québec","n/a","n/a","2022","n/a","n/a"
+"Desjardins FSB Holdings,"Inc."","Chairman of the Board and Chief Operating Officer","Cormier,"Guy"","President and Chief Executive Officer","Desjardins Group","2022","President and Chief Executive Officer,"Desjardins Group"","n/a"
+"Desjardins FSB Holdings,"Inc."","n/a","Bellemare,"Réal"","Senior Executive Vice-President and Chief Operating Officer","Fédération des caisses Desjardins du Québec","2022","Senior Executive Vice-President and Chief Operating Officer,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Secretary of the Board","Groulx,"Nadine"","Farmer","Fédération des caisses Desjardins du Québec","2022","Farmer","n/a"
+"Desjardins FSB Holdings,"Inc."","n/a","Lamothe,"Marie-Josée"","President of Tandem International and teacher at McGill University","Fédération des caisses Desjardins du Québec","2022","President of Tandem International and teacher at McGill University","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Secretary of the Board","Lachaîne,"Éric"","Senior Vice-President,"Caisse Network and Member and Client Services"","Fédération des caisses Desjardins du Québec","2022","Senior Vice-President,"Caisse Network and Member and Client Services","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Vice-chairman of the Board","Jodoin,"Dominique"","Co-Founder,"President and CEO"","NoviFlow Inc","2022","Co-Founder,"President and CEO","NoviFlow Inc"","n/a"
+"Desjardins FSB Holdings,"Inc."","Assistant Corporate Secretary","Fadous,"Karine"","Senior Management Team Legal Affairs,"Projects and Financing"","Fédération des caisses Desjardins du Québec","2022","Senior Management Team Legal Affairs,"Projects and Financing","Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Corporate Secretary","Boucher,"Luc"","Vice-President Legal Affairs","Fédération des caisses Desjardins du Québec","2022","Vice-President Legal Affairs,"Fédération des caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Treasurer","Mailhot,"Alexandre"","Vice-President Banking Services Finance Division","Fédération des caisses Desjardins du Québec","2022","Vice-President Banking Services Finance Division,"Fédération des caisses Desjardins du Québec"","n/a"
+```

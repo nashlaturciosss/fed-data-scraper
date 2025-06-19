@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commercial Bank","DeKalb,"MS"","2020","T.R. Daws","n/a","18245","6.11%","700430"
+"Commercial Bank","DeKalb,"MS"","2020","Margaret S. Womble","n/a","19324","6.47%","700430"
+"Commercial Bank","DeKalb,"MS"","2020","James D. Spinks","n/a","20136","6.74%","700430"
+"Commercial Bank","Ranson Canyon,"TX"","2020","Louie P Spinks","n/a","15680","5.25%","700430"
+"Commercial Bank","DeKalb,"MS"","2020","William Clay","n/a","18725","6.27%","700430"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","Clay Feeds","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","B&C Farm Co.","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","Pine Hill Company","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","West Kemper Farm","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","Oak Investment Company","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Bank Board Chairman","William Clay","n/a","Hunters Ridge Subdivision","2020","Operator of Clay Feeds","700430"
+"Commercial Bank","Director","David Sorrels","n/a","Econotax","2020","Agent","700430"
+"Commercial Bank","Director","David Sorrels","n/a","Sorrels Investment Corp","2020","Agent","700430"
+"Commercial Bank","Bank CEO/President & Director","Michael Dudley","n/a","n/a","2020","President & CEO Commercial Bank","700430"
+"Commercial Bank","Bank director","James D. Spinks","n/a","Choctaw Area Council - Boy Scouts","2020","Attorney","700430"
+"Commercial Bank","Bank director","William M. Pilgrim","n/a","Hopper Street Rental","2020","Owner of Quick Cash","700430"
+"Commercial Bank","Bank director","William M. Pilgrim","n/a","West Hills Partnership","2020","Owner of Quick Cash","700430"
+"Commercial Bank","Bank director","William M. Pilgrim","n/a","Pilgrim's Tax Service","2020","Owner of Quick Cash","700430"
+"Commercial Bank","Bank director","Dwight Jackson","n/a","USDA","2020","Retired Publications Editor / teacher","700430"
+"Commercial Bank","Bank director","Dwight Jackson","n/a","Farm Bureau Board","2020","Retired Publications Editor / teacher","700430"
+"Commercial Bank","Bank EVP/CFO & Director","Wyatt Webb","n/a","n/a","2020","CFO,"Commercial Bank"","700430"
+"Commercial Bank","Bank director","Robert Sanford","n/a","Benefits Management Group","2020","President & CEO of:Benefits Management Group Commercial Insurance Agency (Insurance companies)","700430"
+"Commercial Bank","Bank director","Robert Sanford","n/a","Commercial Insurance Agency","2020","President & CEO of:Benefits Management Group Commercial Insurance Agency (Insurance companies)","700430"
+"Commercial Bank","Bank director","Kent McLain","n/a","McLain Plumbing & Electrical Service","2020","Owner of:McLain Plumbing & Electrical Service","700430"
+"Commercial Bank","Bank director","Margaret S. Womble","n/a","n/a","2020","Retired September 2020","700430"
+```

@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2017","Bonnie C. Rogers,"Jr."","Common Stock","5158","14.28%","3073911"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2017","Estate of John M. Rogers,"Sr."","Common Stock","9027.1","25.00%","3073911"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2017","Martha J. Rogers","Common Stock","7550.3","20.94%","3073911"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Director","Kathleen Bruno","Director","n/a","2017","Curriculum Development Manager","3073911"
+"Morton Bancorp,"Inc."","Secretary/Treasurer","Tito Echiburu","Sr. VP Finance","Gingerbread House","2017","n/a","3073911"
+"Morton Bancorp,"Inc."","Director","Charles Latham","Director","n/a","2017","Farmer","3073911"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Chairman of the Board,"CEO & President"","B.C. Rogers Oil Co.,"Inc."","2017","n/a","3073911"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Chairman of the Board,"CEO & President"","Rogers Farms Partnership","2017","n/a","3073911"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Chairman of the Board,"CEO & President"","B.C. Rogers and Sons","2017","n/a","3073911"
+"Morton Bancorp,"Inc."","Vice President/Director","Kennella Gordon Jr.","n/a","n/a","2017","n/a","3073911"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President","B.C. Rogers Oil Co.,"Inc."","2017","Owner. Manager Foursquare,"LLC"","3073911"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President","Rogers Farms Partnership","2017","Owner. Manager Foursquare,"LLC"","3073911"
+"Morton Bancorp,"Inc."","n/a","Bennie C. Rogers,"Jr."","President","B.C Rogers and Sons","2017","Owner. Manager Foursquare,"LLC"","3073911"
+"Morton Bancorp,"Inc."","Director","Beth Rogers","Director","n/a","2017","Nurse","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","Rogers Dabbs","2017","Investor","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","R.U.,"LLC"","2017","Investor","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","Facillitles,"Inc."","2017","Investor","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","B.C. Rogers Ofl Co.,"Inc."","2017","Investor","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","Rogers Fermis Partnership","2017","Investor","3073911"
+"Morton Bancorp,"Inc."","n/a","Estate of John M Rogers. Sr.","n/a","B.C Rogers and Sons","2017","Investor","3073911"
+```

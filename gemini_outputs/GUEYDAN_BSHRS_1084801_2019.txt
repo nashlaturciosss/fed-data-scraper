@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2019","J. C. Petry","Common Stock","35000","17.15%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2019","Mildred H. Hair","Common Stock","22750","11.15%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Broussard,"LA"","2019","Mary Gayle F. Lejeune","Common Stock","11648","5.71%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2019","William C. & Cassie F. McCain","Common Stock","14409","7.06%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Houston,"TX"","2019","Jacqueline F. Robbins","Common Stock","10410","5.10%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF GUEYDAN","Director & Chairman","J. C. Petry","n/a","n/a","2019","Director & Chairman","n/a"
+"BANK OF GUEYDAN","Director & President","Cloyce H. Hammond","n/a","n/a","2019","Director & President","n/a"
+"BANK OF GUEYDAN","Director","William C. McCain","n/a","n/a","2019","Retired","n/a"
+"BANK OF GUEYDAN","Director","J. David Simon","Sole Proprietor Farmer","David Simon Farms","2019","Self Employed","n/a"
+"BANK OF GUEYDAN","Director","Edward G. Saal,"Jr."","Sole Proprietor Attorney","Edward G. Saal,"Jr APLC"","2019","Self Employed","n/a"
+"BANK OF GUEYDAN","Director,"Board Secretary & Ex. Vice President"","Lana T. Broussard","n/a","n/a","2019","n/a","n/a"
+"BANK OF GUEYDAN","Director","Hansford G. Hair","Production Operator","White Oak Operating Company,"LLC"","2019","Production Operator-White Oak Operating Company,"LLC"","n/a"
+"BANK OF GUEYDAN","n/a","Mildred H. Hair","n/a","n/a","2019","Retired","n/a"
+```

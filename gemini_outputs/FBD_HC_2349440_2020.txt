@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2020","Shelby Peeples","Common Stock","772786","35.03%","2349459"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2020","G. Thomas Peeples","Common Stock","173448","7.86%","2349459"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2020","Bryan Peeples","Common Stock","111544","5.05%","2349459"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBD Holding Company,"Inc."","Chairman of FBD Holding Company,"Inc."","K. Scott Fletcher","Executive","Textile Management Associates,"Inc."","2020","Textiles","2349459"
+"FBD Holding Company,"Inc."","Director","J. Rodney Ownbey","President","Ownbey Enterprises,"Inc."","2020","Retail Fuel Sales","2349459"
+"FBD Holding Company,"Inc."","Director","J. Rodney Ownbey","n/a","Ownbey Ventures,"LLC"","2020","Retail Fuel Sales","2349459"
+"FBD Holding Company,"Inc."","Director","J. Rodney Ownbey","n/a","Ownbey Petroleum,"LLC"","2020","Retail Fuel Sales","2349459"
+"FBD Holding Company,"Inc."","Director","J. Rodney Ownbey","n/a","Ownbey Real Estate,"LLC"","2020","Retail Fuel Sales","2349459"
+"FBD Holding Company,"Inc."","Director","G. Thomas Peeples","CEO","Universal Textile Technologies,"Inc."","2020","Textiles","2349459"
+"FBD Holding Company,"Inc."","Director","Fredrick H. Howalt,"III"","President & Chief Operating Officer","Textile Rubber & Chemical Company,"Inc."","2020","Rubber & Chemical Products","2349459"
+"FBD Holding Company,"Inc."","Director","Steve Herndon","President & CEO","Herndon Properties,"LLC"","2020","Construction & Real Estate Investment","2349459"
+"FBD Holding Company,"Inc."","CEO/Director","T. Larry Roye","n/a","n/a","2020","Banking","2349459"
+"FBD Holding Company,"Inc."","President","R. Mitch Sanford","n/a","n/a","2020","Banking","2349459"
+"FBD Holding Company,"Inc."","Executive Vice President & Chief Risk Officer","W. Scott Sellers","n/a","n/a","2020","Banking","2349459"
+"FBD Holding Company,"Inc."","Executive Vice President & Chief Financial Officer","Josh H. McLaurin","n/a","n/a","2020","Banking","2349459"
+```

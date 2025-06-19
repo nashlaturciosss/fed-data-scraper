@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Geraldine,"AL"","2022","Auburn University Foundation","Common","5538","10.59%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Geraldine,"AL"","2022","Betty Parris Trust","Common","5932","11.34%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Hixon,"TN"","2022","Vicki Anderson","Common","5875","11.23%","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Albertville,"AL"","2022","Robert Decker","Common","3660","7.08%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","President/ CEO","Chris Bailey","President/ CEO","n/a","2022","n/a","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Chairman/ Director","Robert Decker","Chairman/ Director","Edward D. Jones","2022","Investment Broker","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Billy F. Cooper","Director","n/a","2022","Retired","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Joel Murdock","Director","n/a","2022","Cattle Farmer","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","None","Betty Parris Irrevocable Trust","None","n/a","2022","Deceased","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","Director","Vicki Anderson","Director","Chattanooga Business","2022","Marketing","n/a"
+"FIRST BANCORPORATION OF GERALDINE,"INC."","None","Auburn University Foundation","None","n/a","2022","n/a","n/a"
+```

@@ -1,0 +1,23 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FOUR COUNTY BANCSHARES,"INC."","Danville,"GA"","2018","Richard A. Dykes","Common Stock","45000","18.74%","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Jeffersonville,"GA"","2018","William C. Humphries","Common Stock","30000","12.49%","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Stone Mountain,"GA"","2018","Bruce E. Miller","Common Stock","22500","9.37%","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Dublin,"GA"","2018","Roger W. Miller","Common Stock","22500","9.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FOUR COUNTY BANCSHARES,"INC."","Chairman of Board of Directors,"VP & Treasurer"","Ruth Arnold","Director,"Secretary"","n/a","2018","n/a","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director","Rabun Faulk","Director","n/a","2018","Attorney at Law General Counsel","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director,"Secretary"","Amy S. Orr","Director,"President & CEO"","n/a","2018","President & CEO Four County Bank","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director","Charles B. Hill","President","Hill Logging,"Inc."","2018","President Hill Logging,"Inc."","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director","Lantz Rogers","Director","n/a","2018","Retired","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director,"President & CEO"","Wallace Miller","Director","Morris Bank","2018","Retired","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Principal Shareholder","Richard A. Dykes","Vice President","Everett Dykes Grassing Company,"Inc."","2018","Everett Dykes Grassing Company,"Inc."","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Principal Shareholder","William C. Humphries","None","n/a","2018","Retired","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director","Michael Kitchens","Director","n/a","2018","Self-employed Farmer","n/a"
+"FOUR COUNTY BANCSHARES,"INC."","Director","James M Brown","Vice Pres/CCO Director","n/a","2018","Vice President","n/a"
+```

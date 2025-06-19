@@ -1,0 +1,26 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Financial Corporation","Salt Lake City,"UT"","2019","Jason A. Stock and William C. Waller","n/a","260022","5.26%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2019","Thomas E. Quave","n/a","433153","8.76%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2019","A. Tanner Swetman","n/a","865575","17.51%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2019","Chevis C. Swetman","n/a","423349","8.56%","n/a"
+"Peoples Financial Corporation","Greenwich,"CT"","2019","Jeffrey L. Gendell","n/a","472701","9.56%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Financial Corporation","Chairman,"President & CEO"","Chevis C. Swetman","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","Director","Drew Allen","President","Allen Beverages,"Inc."","2019","Businessman","n/a"
+"Peoples Financial Corporation","Director","Rex E. Kelly","Corporate Consultant","n/a","2019","Businessman","n/a"
+"Peoples Financial Corporation","Vice-Chairman; Director","Dan Magruder","n/a","n/a","2019","Businessman","n/a"
+"Peoples Financial Corporation","Director","Jeffrey H. O'Keefe","Chief Executive Officer","Bradford-O'Keefe Funeral Home,"Inc."","2019","Businessman","n/a"
+"Peoples Financial Corporation","Director","George J. Sliman,"III"","President","SunStates Holdings,"Inc."","2019","Businessman","n/a"
+"Peoples Financial Corporation","Executive Vice President","A. Wes Fulmer","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","First Vice President","Ann F. Guice","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","Chief Financial Officer","Lauri A. Wood","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","Second Vice President","J. Patrick Wild","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","Vice President","Evelyn R. Herrington","n/a","None","2019","Banker","n/a"
+"Peoples Financial Corporation","Vice President","Andrew Tanner Swetman","n/a","n/a","2019","Banker","n/a"
+```

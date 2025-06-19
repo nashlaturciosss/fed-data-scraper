@@ -1,19 +1,27 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"n/a","n/a","2020","NA","n/a","n/a","n/a"
-"n/a","n/a","2020","NA","n/a","n/a","n/a"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"n/a","n/a","2020","n/a","n/a","n/a","n/a","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Alapaha","Director","Luther L Duke,"III"","Director - Bank of Alapaha","Adel Ice Company,"Inc. CEO; Hopeful Ice of South Georgia","Inc. CEO"","2020"
-"Alapaha","President","Kenneth E Hughes","President and CEO","N/A","2020"
-"Alapaha","Director","Tommy Lee","Director - Bank of Alapaha","Lee Farm Supply,"LLC-Managing Member"","2020"
-"Alapaha","Director","Steve McMillan","Director - Bank of Alapaha","Berrien Peanut Co-CEO; Southern Grace Farms,"Inc. CEO\nMiddle Branch","LLP CEO"","2020"
-"Alapaha","Director","C Dane Perkins","Director - Bank of Alapaha","Troutdale Corporation CEO\nPerkins Warehouse Inc.\nCEO","2020"
-"Alapaha","Director","Sylvia L Roberts","Director - Bank of Alapaha","Alapaha Station Celebration Inc\nCEO","2020"
-"Alapaha","Director","Daniel L Studstill","Director - Bank of Alapaha","Daniel L. Studstill,"PC CEO\nStudstill Firm","LLP Member"","2020"
-"Alapaha","n/a","Erin B Watson","CFO-Bank of Alapaha","N/A","2020"
-"Alapaha","Director","Brian E Stone","Director - Bank of Alapaha","Adel Properties,"LLC CEO\nStone's Development CEO\nWater's Edge Construction LLC\nStone Ridge Rental","LLC\nBrian Stone Construction Inc"","2020"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Alapaha","Director","Luther L Duke,"III"","CEO","Adel Ice Company,","2020","Entrepreneur","n/a"
+"Bank of Alapaha","Director","Luther L Duke,"III"","CEO","Hopeful Ice of South Georgia,"Inc."","2020","Entrepreneur","n/a"
+"n/a","President","Kenneth E Hughes","President and CEO","N/A","2020","N/A","n/a"
+"Bank of Alapaha","Director","Tommy Lee","Managing Member","Lee Farm Supply,"LLC"","2020","Farmer & Entrepreneur","n/a"
+"Bank of Alapaha","Director","Steve McMillan","CEO","Berrien Peanut Co-","2020","Farmer","n/a"
+"Bank of Alapaha","Director","Steve McMillan","CEO","Southern Grace Farms,"Inc."","2020","Farmer","n/a"
+"Bank of Alapaha","Director","Steve McMillan","CEO","Middle Branch,"LLP"","2020","Farmer","n/a"
+"Bank of Alapaha","Director","C Dane Perkins","CEO","Troutdale Corporation","2020","Judge","n/a"
+"Bank of Alapaha","Director","C Dane Perkins","CEO","Perkins Warehouse Inc.","2020","Judge","n/a"
+"Bank of Alapaha","Director","Sylvia L Roberts","CEO","Alapaha Station Celebration Inc","2020","N/A","n/a"
+"Bank of Alapaha","Director","Daniel L Studstill","CEO","Daniel L. Studstill,"PC"","2020","Attorney","n/a"
+"Bank of Alapaha","Director","Daniel L Studstill","Member","Studstill Firm,"LLP"","2020","Attorney","n/a"
+"Bank of Alapaha","CFO","Erin B Watson","n/a","N/A","2020","N/A","n/a"
+"Bank of Alapaha","Director","Brian E Stone","CEO","Adel Properties,"LLC"","2020","Contractor & Entrepreneur","n/a"
+"Bank of Alapaha","Director","Brian E Stone","CEO","Stone's Development","2020","Contractor & Entrepreneur","n/a"
+"Bank of Alapaha","Director","Brian E Stone","n/a","Water's Edge Construction LLC","2020","Contractor & Entrepreneur","n/a"
+"Bank of Alapaha","Director","Brian E Stone","n/a","Stone Ridge Rental,"LLC"","2020","Contractor & Entrepreneur","n/a"
+"Bank of Alapaha","Director","Brian E Stone","n/a","Brian Stone Construction Inc","2020","Contractor & Entrepreneur","n/a"
 ```

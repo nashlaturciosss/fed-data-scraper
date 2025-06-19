@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2020","Education Loan Finance,"Inc."","n/a","n/a","90.1%","n/a"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2020","SouthEast Bancorp,"Inc. ESOP"","n/a","n/a","9.9%","n/a"
+"Education Loan Finance,"Inc."","n/a","2020","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Education Loan Finance,"Inc."","CEO","John E. Arnold,"Jr."","Chairman","SouthEast Bancorp,"Inc."","2020","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Director/Chairman/President","John E. Arnold,"Jr"","Director/Chairman","SouthEast Bank","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","CFO/EVP","William T. Thompson","Director/Secretary/Vice President","SouthEast Bancorp,"Inc."","2020","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Director/Secretary/VP","William T. Thompson","Director/Secretary/CEO","SouthEast Bank","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Director","Dwight Kessel","Independent Director","n/a","2020","Retired","n/a"
+"Education Loan Finance,"Inc."","Director","Leo Cooper","Independent Director","n/a","2020","Retired","n/a"
+"Education Loan Finance,"Inc."","Director","Tommy Schumpert","n/a","n/a","2020","Retired","n/a"
+"Education Loan Finance,"Inc."","Independent Director","Robert Rosenbaum","President/CEO Emeritus","Goodwill Industries","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Independent Director","Jeffrey S. Smith","President/Founder","Omnicap Group,"LLC"","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Independent Director","Stephan Clark","Retired Brigadier General","n/a","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Accounting Officer","Eric Stewart","n/a","n/a","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Information Officer","Jeff Gibbs","n/a","SouthEast Bank","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Compliance and Risk Officer","T. Wayne Hood","n/a","SouthEast Bank","2020","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Operating Officer/EVP","Barbara Thomas","n/a","SouthEast Bank","2020","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Director/Chairman/President","John E. Arnold,"Jr."","n/a","n/a","2020","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Director/Secretary/VP","William T. Thompson","n/a","n/a","2020","n/a","n/a"
+```

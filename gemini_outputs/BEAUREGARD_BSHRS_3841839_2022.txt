@@ -1,19 +1,13 @@
-Here are the requested CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BEAUREGARD BANCSHARES,"INC."","DeRidder","2022","WEBB STARK","Common Stock","16531","14.73%"
-"BEAUREGARD BANCSHARES,"INC."","DeRidder","2022","CHARLES W. CUMMINS","Common Stock","10464","9.33%"
-"BEAUREGARD BANCSHARES,"INC."","DeRidder","2022","DANIEL K. JENKINS","Common Stock","8876","7.91%"
-"BEAUREGARD BANCSHARES,"INC."","DeRidder","2022","LISA KAY KING","Common Stock","8795","7.84%"
-"BEAUREGARD BANCSHARES,"INC."","DeRidder","2022","KENNETH R. HANKS","Common Stock","6056","5.40%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BEAUREGARD BANCSHARES,"INC"","n/a","2022","WEBB STARK","n/a","14528","12.93%","n/a"
+"BEAUREGARD BANCSHARES,"INC"","n/a","2022","TAMMY CRAIN","n/a","11900","10.62%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BEAUREGARD BANCSHARES,"INC."","President & CEO","WEBB STARK","n/a","n/a","2022"
-"BEAUREGARD BANCSHARES,"INC."","DIRECTOR","CHARLES W. CUMMINS","n/a","n/a","2022"
-"BEAUREGARD BANCSHARES,"INC."","DIRECTOR","DANIEL K. JENKINS","n/a","n/a","2022"
-"BEAUREGARD BANCSHARES,"INC."","DIRECTOR","LISA KAY KING","n/a","n/a","2022"
-"BEAUREGARD BANCSHARES,"INC."","DIRECTOR","KENNETH R. HANKS","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BEAUREGARD BANCSHARES,"INC"","PRESIDENT & CEO","WEBB STARK","DIRECTOR","FIRST GUARANTY BANK","2022","n/a","n/a"
+"BEAUREGARD BANCSHARES,"INC"","PRESIDENT & CEO","WEBB STARK","CHAIRMAN","BEAUREGARD MEMORIAL HOSPITAL","2022","n/a","n/a"
+"BEAUREGARD BANCSHARES,"INC"","SECRETARY-TREASURER","TAMMY CRAIN","n/a","n/a","2022","n/a","n/a"
 ```

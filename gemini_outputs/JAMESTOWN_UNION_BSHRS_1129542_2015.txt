@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jamestown Union Bancshares,"Inc."","Houston,"TX"","2015","WMJ/RMJ Family Limited Partnership II","n/a","16728","16.728%","1129542"
+"Jamestown Union Bancshares,"Inc."","Jamestown,"TN"","2015","Fred M. Johnson,"Jr."","n/a","7227","7.227%","1129542"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jamestown Union Bancshares,"Inc."","CEO & President/Director","Thomas B. Duncan","CEO & President/Director","None","2015","Banking","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","William J. Campbell","Director","Highland Manor Winery","2015","Retired Attorney","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","Michael I. Jones","Director","None","2015","Fentress County,"TN Superintendent of Schools"","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","Kenneth Neely","Director","None","2015","Farmer","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","Kevin M. Johnson","Director","None","2015","Nurse","1129542"
+"Jamestown Union Bancshares,"Inc."","CFO & Executive Vice President/Director","Marion Bryant Johnson","CFO & Executive Vice President/Director","None","2015","Banking","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","Robert E. Washburn","Director","PWP Greenhouses,"Inc."","2015","Owner & operator PWP Greenhouses,"Inc."","1129542"
+"Jamestown Union Bancshares,"Inc."","Director","Marti G. Norton","Director","Estate of Bruno Gernt,"Inc."","2015","Director,"US Project Acct. Intergraph Government Solutions"","1129542"
+"Jamestown Union Bancshares,"Inc."","Vice President Senior Lending Officer","Patricia Lynn Stephens","Vice President Senior Lending Officer","None","2015","Banking","1129542"
+"Jamestown Union Bancshares,"Inc."","n/a","WMJ/RMJ Family Limited Partnership","Principal Stockholder","None","2015","Retired Businessman","1129542"
+```

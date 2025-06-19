@@ -1,27 +1,45 @@
-"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all the instructions and constraints specified:"
+Here are the requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BPC Corporation","Monterey","2023","2006 Jack P. Ray (b) (c) Irrevocable Succession Trust","Common Stock","0","0.0000%"
-"BPC Corporation","Monterey","2023","2006 Jack P. Ray (b) (c) Irrevocable Succession Trust","Other","1216051","57.2607%"
-"BPC Corporation","Monterey","2023","W.T. Ray,"Jr. Estate (a) (b) (c)"","Common Stock","100848","49.9995%"
-"BPC Corporation","Monterey","2023","W.T. Ray,"Jr. Estate (a) (b) (c)"","Other","907632","42.7380%"
-"BPC Corporation","Cookeville","2023","Elizabeth Ann Ray Fournet (b) (c) 2007 Investment Services Trust","Common Stock","100850","50.0005%"
-"BPC Corporation","Cookeville","2023","Elizabeth Ann Ray Fournet","Common Stock","0","0.0000%"
-"BPC Corporation","Cookeville","2023","Elizabeth Ann Ray Fournet","Other","27","0.0013%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BPC Corporation","Monterey,"Tennessee"","2023","2006 Jack P. Ray (b) (c)
+"Irrevocable Succession Trust"","n/a","0","0.0000%","n/a"
+"BPC Corporation","Monterey,"Tennessee"","2023","2006 Jack P. Ray (b) (c)
+"Irrevocable Succession Trust"","n/a","1216051","57.2607%","n/a"
+"BPC Corporation","Monterey,"Tennessee"","2023","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","100848","49.9995%","n/a"
+"BPC Corporation","Monterey,"Tennessee"","2023","W.T. Ray,"Jr. Estate (a) (b) (c)"","n/a","907632","42.7380%","n/a"
+"BPC Corporation","Cookeville,"Tennessee"","2023","Elizabeth Ann Ray Fournet (b) (c)
+"2007 Investment Services Trust"","n/a","100850","50.0005%","0.0000%","n/a"
+"BPC Corporation","Cookeville,"Tennessee"","2023","Elizabeth Ann Ray Fournet","n/a","0","0.0000%","n/a"
+"BPC Corporation","Cookeville,"Tennessee"","2023","Elizabeth Ann Ray Fournet","n/a","27","0.0013%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BPC Corporation","Director Chairman of the Board","Elizabeth Ray Fournet","Director President","Builders Supply","2023"
-"BPC Corporation","Director Vice Chairman of the Board","Ammon Hitchcock","Director Vice Chairman of the Board","Builders Supply","2023"
-"BPC Corporation","Director President/ CEO","David Kinchler","Director President/ CEO","n/a","2023"
-"BPC Corporation","Director EVP/CFO","Gary Medley","n/a","n/a","2023"
-"BPC Corporation","Director EVP/CCO Emeritus","Gerry Whitehead","n/a","n/a","2023"
-"BPC Corporation","EVP/COO","Jonathan Medley","EVP/COO","n/a","2023"
-"BPC Corporation","Director","Norman Copeland","Director President","Old Baker Coal Co","2023"
-"BPC Corporation","Director","Randy Bond","Director","n/a","2023"
-"BPC Corporation","Director","William T. Hitchcock","Attorney","Gearhiser,"Peters","Elliott & Cannon","PLLC"","2023"
-"BPC Corporation","Director Emeritus","Randy York","Attorney","Moorer,"Rader","Fitzpatrick","& York","PC"","2023"
-"BPC Corporation","Director","Thomas Jones","President","Research Electronics Int'l,"LLC"","2023"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BPC Corporation","Director
+Chairman of the
+Board
+"Vice Chairman of the Board"","Elizabeth Ray Fournet","Director
+"President"","Builders Supply","2023","Banker","n/a"
+"BPC Corporation","Vice Chairman of the Board","Ammon Hitchcock","n/a","Builders Supply","2023","Banker","n/a"
+"BPC Corporation","Director
+"President/ CEO"","David Kinchler","n/a","n/a","2023","Banker","n/a"
+"BPC Corporation","Director
+"EVP/CFO"","Gary Medley","n/a","n/a","2023","Banker / CPA","n/a"
+"BPC Corporation","Director
+EVP/CCO
+"Emeritus"","Gerry Whitehead","n/a","n/a","2023","Banker / CPA","n/a"
+"BPC Corporation","EVP/COO","Jonathan Medley","n/a","n/a","2023","Banker/CPA","n/a"
+"BPC Corporation","Director","Norman Copeland","President","Old Baker Coal Co","2023","Retired Banker","n/a"
+"BPC Corporation","Director","Randy Bond","n/a","Old Baker Coal Co","2023","Retired Banker","n/a"
+"BPC Corporation","Director","William T. Hitchcock","Attorney","Gearhiser,"Peters","Elliott & Cannon","PLLC"","2023","Attorney","n/a"
+"BPC Corporation","Director Emeritus","Randy York","Partner","Moorer,"Rader","Fitzpatrick","& York","PC"","2023","Attorney","n/a"
+"BPC Corporation","Director","Thomas Jones","President","Research Electronics
+"Int'l","LLC"","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Disc Inc","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","BT Disc Inc","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Exports A Inc","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","REI Exports L Inc","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","SEME Foundation","2023","Business Owner","n/a"
+"BPC Corporation","Director","Thomas Jones","n/a","TLSEME LLC","2023","Business Owner","n/a"
 ```

@@ -1,0 +1,15 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Grand Financial Corporation","Hattiesburg,"Ms"","2018","Edward J. Langton","common stock","215429","95.7879%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Grand Financial Corporation","CEO & Director","Edward J. Langton","n/a","n/a","2018","n/a","n/a"
+"Grand Financial Corporation","President and Director","Rucker W. Howell","Pres","Mortgage Funding Corp","2018","n/a","n/a"
+"Grand Financial Corporation","Vice President & Director","Bill Rogers","n/a","Clean Air Services","2018","Owner- Clean Air Services","n/a"
+"Grand Financial Corporation","Director","Fred T Hight,"Jr."","Retired","n/a","2018","n/a","n/a"
+"Grand Financial Corporation","Secretary & Director","Cary E. Williams","n/a","Williams CPA","2018","Owner - Williams CPA","n/a"
+"Grand Financial Corporation","Director","Wesley Griffin","n/a","Griffin Insurance Services","2018","Owner- Griffin Insurance Services","n/a"
+"Grand Financial Corporation","Director","Robert Cornett","n/a","The Cornett Group","2018","Owner - The Cornett Group","n/a"
+```

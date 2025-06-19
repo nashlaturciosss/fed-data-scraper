@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp.","Atlanta,"GA"","2022","Old Post Road LP","n/a","n/a","25.10%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","Ann Lambert Trulock","n/a","n/a","0.16%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","John M Moore","n/a","n/a","0.23%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","H. Vinson DeLaigle","n/a","n/a","0.64%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","Lowry W Hunt,"Jr."","n/a","n/a","2.00%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","L. Clifton Hanes","n/a","n/a","1.71%","n/a"
+"Madison Bank Corp.","Atlanta,"GA"","2022","Floyd C. Newton,"III"","n/a","n/a","0.04%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","Charles H Haney,"III"","n/a","n/a","0.04%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","Wayne Tamplin","n/a","n/a","0.29%","n/a"
+"Madison Bank Corp.","Greensboro,"GA"","2022","Russell W. Wall","n/a","n/a","0.04%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2022","Lambert Family Investment Holdings,"LLP"","n/a","n/a","16.80%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp.","Director","Ann Lambert Trulock","n/a","n/a","2022","None","n/a"
+"Madison Bank Corp.","Director","John M Moore","n/a","n/a","2022","Owner Madison Car Care","n/a"
+"Madison Bank Corp.","Director","H. Vinson DeLaigle","n/a","n/a","2022","Retired Banker","n/a"
+"Madison Bank Corp.","Director","Lowry W Hunt,"Jr."","n/a","n/a","2022","Retired Ag. Production Business Owner","n/a"
+"Madison Bank Corp.","Director Secretary","L. Clifton Hanes","VP & Sect.","Hanes & White Inc","2022","Retired Banker","n/a"
+"Madison Bank Corp.","Director","Floyd C. Newton,"III"","n/a","n/a","2022","Retired Attorney","n/a"
+"Madison Bank Corp.","Director/ President","Charles H Haney,"III"","n/a","n/a","2022","President / CEO Bank of Madison","n/a"
+"Madison Bank Corp.","Chairman / Director","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2022","Certified Public Accountant","n/a"
+"Madison Bank Corp.","Director","Russell W. Wall","n/a","n/a","2022","Attorney","n/a"
+```

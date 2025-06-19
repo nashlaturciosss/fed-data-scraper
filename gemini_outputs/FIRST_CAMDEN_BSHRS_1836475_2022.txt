@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2022","A.L. Johnson,"Jr"","Common Stock","9291","5.78%","n/a"
+"First Camden Bancshares,"Inc."","Kingsport,"TN"","2022","Anne J Smith Life Trust","Common Stock","8125","5.05%","n/a"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2022","Jane Shelton Dale","Common Stock","8250","5.13%","n/a"
+"First Camden Bancshares,"Inc."","Summerville,"SC"","2022","Carol D. Austin","Common Stock","8250","5.13%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Retired President","Camden National Bank","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","wilcox Investment","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","Law Partnership","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Retired President","Community Neighbor Bank","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","wilcox Investment","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","Law Partnership","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Secretary-Treasurer","Kathryn S. Perryman","Executive Vice Pres. Chief Financial Officer","Community Neighbor Bank","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","Sumpter Blackmon","Physician","n/a","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director Vice President","A.L. Johnson,"III"","President & CEO","Community Neighbor Bank","2022","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","John B. Travis","President","Handiman Building Supply,"Inc."","2022","Retail Business Owner","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","Retired President","Browder Veneer","2022","Wood Products Industry","n/a"
+"First Camden Bancshares,"Inc."","Director","William R. Phillippi,"Jr"","Owner","W.R. Phillippi,"DMD"","2022","Dentist","n/a"
+"First Camden Bancshares,"Inc."","Director","William B. Malone Jr.","President","Holman Insurance Agency,"Inc."","2022","Insurance Agent","n/a"
+```

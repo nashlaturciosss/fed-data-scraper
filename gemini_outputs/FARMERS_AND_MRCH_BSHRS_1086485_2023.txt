@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Barbara King Trustee Marital Trust","Common Stock","22723","9.903%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Vivian H. Tucker","Common Stock","22360","9.744%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Tucker Brothers,"LLC"","Common Stock","27800","12.115%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Mose A. Tucker","Common Stock","670","0.292%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Tucker Brothers,"LLC"","Common Stock","27800","12.115%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Lafayette,"AL"","2023","Wayne Welch","Common Stock","13600","5.927%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Auburn,"AL"","2023","W. Lewis Lowe","Common Stock","1885","0.82%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Auburn,"AL"","2023","The Jo Hightower Lowe Family Trust","Common Stock","10722","4.672%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","Director","Chan Brinson","Member","Mane Event,"LLC"","2023","Retired Lumber","n/a"
+"Farmers & Merchants Bancshares,"Inc."","President/CEO","Stanley Tucker","Member","Tucker Brothers,"LLC"","2023","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Jason R McKay","Member","Tatum Lands LLC","2023","Insurance Benefits Manager","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Jason R McKay","Partner","RLM&F,"LLC"","2023","Insurance Benefits Manager","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Wayne Welch","Sole Manager","4MC Farms,"LLC"","2023","Retired Lumber","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Wayne Welch","Member","RL&M Ag Services,"LLC"","2023","Retired Lumber","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","W. Lewis Lowe","None","None","2023","Retired Pharmacist","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Billy M. Langley","Owner","Billy Langley Logging,"Inc"","2023","Logger","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Billy M. Langley","Owner","Billy Langley Cattle,"LLC"","2023","Logger","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Valerie Gray","Member","Givorns Family Ltd Partnership","2023","Director-Chambers County Industrial Development Authority","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Jeffery Rush McKelvey","Part Owner","McKelvey Chevrolet Corporation","2023","Car Salesman","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Secretary","Tiffany Pitchford","Executive Vice President","Bowtie Property,"LLC"","2023","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","None","Tucker Brothers LLC","None","None","2023","Agriculture/Farming","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Vice President","Kira Dodgen","None","None","2023","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Sr. Vice President","Mike Mann","None","None","2023","Banker","n/a"
+```

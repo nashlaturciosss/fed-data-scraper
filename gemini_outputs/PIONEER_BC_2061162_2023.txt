@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pioneer Bankcorp,"Inc."","Clewiston,"FL"","2023","Miller Couse & Couse Farms,"Inc."","Common Stock","139769","12.159%","n/a"
+"Pioneer Bankcorp,"Inc."","Clewiston,"FL"","2023","First Bank-ESOP","Common Stock","130463","11.349%","n/a"
+"Pioneer Bankcorp,"Inc."","New York,"NY"","2023","AB Financial Services","n/a","60607","5.272%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pioneer Bankcorp,"Inc."","Chairman of the Board","Miller Couse","President","Couse Farms,"Inc."","2023","Chairman of the Board","n/a"
+"Pioneer Bankcorp,"Inc."","President & CEO","Carey Soud","General Partner","Soud Family Partnership","2023","n/a","n/a"
+"Pioneer Bankcorp,"Inc."","Sr. Vice President & CFO","Mark Deitz","n/a","n/a","2023","n/a","n/a"
+"Pioneer Bankcorp,"Inc."","Director","Tommy Perry","Owner","Johnson-Prewitt & Associates","2023","Civil Engineer/Land surveyor","n/a"
+"Pioneer Bankcorp,"Inc."","Director of Community Relations","Jamie Weisinger","n/a","Lipman Family Farms","2023","Agriculture","n/a"
+"Pioneer Bankcorp,"Inc."","Director","Earle E. Edwards III","Retired","n/a","2023","Retired","n/a"
+"Pioneer Bankcorp,"Inc."","Director","Andrew Higginbotham","President-","Labelle CPA,"PA"","2023","CPA","n/a"
+"Pioneer Bankcorp,"Inc."","Director","Karl E Larsen","Retired","n/a","2023","Retired","n/a"
+"Pioneer Bankcorp,"Inc."","Director","Mary Elizabeth Carroll","Partner","Hilliard Brothers of Florida","2023","Agriculture","n/a"
+"Pioneer Bankcorp,"Inc."","Principal Shareholder","First Bank-ESOP","n/a","n/a","2023","n/a","n/a"
+```

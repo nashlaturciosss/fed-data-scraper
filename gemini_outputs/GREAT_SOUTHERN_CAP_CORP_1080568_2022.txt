@@ -1,0 +1,10 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Great Southern Capital Corporation","President / Director","Jeff McCoy","n/a","n/a","2022","n/a","n/a"
+"Great Southern Capital Corporation","Treasurer","Michelle Rowland","n/a","n/a","2022","n/a","n/a"
+```

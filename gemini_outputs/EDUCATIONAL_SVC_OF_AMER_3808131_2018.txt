@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Farragut,"TN"","2018","Educational Services of America,"Inc."","n/a","n/a","95%","n/a"
+"SouthEast Bancorp,"Inc."","Farragut,"TN"","2018","SouthEast Bancorp,"Inc. ESOP"","n/a","n/a","5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Educational Services of America,"Inc."","Director/Chairman/President,"Director/Chairman"","John E. Arnold,"Jr"","n/a","n/a","2018","CEO","n/a"
+"Educational Services of America,"Inc."","Director/Secretary/Vice President,"Director/Secretary/CEO"","William T. Thompson","n/a","n/a","2018","CFO/EVP","n/a"
+"Educational Services of America,"Inc."","Director","Tommy Schumpert","n/a","n/a","2018","Director of South East Scholar Program","n/a"
+"Educational Services of America,"Inc."","Independent Director","Leo Cooper","n/a","n/a","2018","Retired","n/a"
+"Educational Services of America,"Inc."","Independent Director","Dwight Kessel","n/a","n/a","2018","Retired","n/a"
+"Educational Services of America,"Inc."","Independent Director","Robert Rosenaum","n/a","Goodwill Industries","2018","President/CEO Emeritus- Goodwill Industries","n/a"
+"Educational Services of America,"Inc."","Independent Director","Jeffrey S. Smith","n/a","Omnicap Group,"LLC"","2018","President/Founder - Omnicap Group,"LLC"","n/a"
+"Educational Services of America,"Inc."","Chief Operations Officer","Eric Stewart","n/a","SouthEast Bank","2018","n/a","n/a"
+"Educational Services of America,"Inc."","Chief Information Officer","Jeff Gibbs","Chief Information Officer","SouthEast Bank","2018","n/a","n/a"
+"Educational Services of America,"Inc."","Chief Compliance and Risk Officer","T. Wayne Hood","Chief Compliance and Risk Officer","SouthEast Bank","2018","n/a","n/a"
+"Educational Services of America,"Inc."","EVP","Barbara Thomas","EVP","SouthEast Bank","2018","n/a","n/a"
+```

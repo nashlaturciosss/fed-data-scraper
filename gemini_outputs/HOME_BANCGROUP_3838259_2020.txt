@@ -1,0 +1,33 @@
+"Okay","here are the requested tables in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancgroup,"Inc."","Miami Beach,"Florida"","2020","Alexey Kravtsov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2020","Chingiz Askerov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Miami,"Florida"","2020","Tagir Saydkuzhin","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Delray Beach,"Florida"","2020","Vladimir Berkovich","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Bluffton,"South Carolina"","2020","Sergey Khotimskiy and Dmitry Khotimskiy","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Sunny Isles,"Florida"","2020","Mikhail Trakhtenberg","n/a","80","8.4%","n/a"
+"Home Bancgroup,"Inc."","Moscow,"Russia"","2020","Sergey Orlovskiy","n/a","52","5.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancgroup,"Inc."","Director/Chairman/President/CEO","Scott F. Rosenberg","n/a","n/a","2020","Banker and Attorney","n/a"
+"Home Bancgroup,"Inc."","Director/Chairman/President /CEO","Scott F. Rosenberg","n/a","Home Federal Bank of Hollywood","2020","Banker and Attorney","n/a"
+"Home Bancgroup,"Inc."","Sr Vice President","Brian R. Cole","n/a","n/a","2020","Banker","n/a"
+"Home Bancgroup,"Inc."","Director/Executive Vice President","Brian R. Cole","n/a","Home Federal Bank of Hollywood","2020","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Michael Newett","n/a","n/a","2020","Bank Consultant","n/a"
+"Home Bancgroup,"Inc."","Director","Michael Newett","n/a","Home Federal Bank of Hollywood","2020","Bank Consultant","n/a"
+"Home Bancgroup,"Inc."","Director","Marta Villacorta","n/a","n/a","2020","Attorney,"and Retired Florida Department of Corrections Regional Director"","n/a"
+"Home Bancgroup,"Inc."","Director","Marta Villacorta","n/a","Home Federal Bank of Hollywood","2020","Attorney,"and Retired Florida Department of Corrections Regional Director"","n/a"
+"Home Bancgroup,"Inc."","Director","Carlos Rionda","Manager","South East Renewable Fuels,"LLC"","2020","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Carlos Rionda","Director","Home Federal Bank of Hollywood","2020","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Sergey Khotimskiy","n/a","Sovcom Bank","2020","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Sergey Khotimskiy","Director","Home Federal Bank of Hollywood","2020","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Maksim Slyusarchuk","Owner","A&D Mortgage,"LLC"","2020","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Maksim Slyusarchuk","Owner","GOP LLC","2020","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Maksim Slyusarchuk","Partner","Imperial Manager I","2020","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Maksim Slyusarchuk","Director","Home Federal Bank of Hollywood","2020","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Kirill Sokolov","Director","Home Federal Bank of Hollywood","2020","Banker","n/a"
+```

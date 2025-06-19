@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Advantage Bancorp","Salt Lake City,"UT"","2019","M3 Partners,"LP"","Common Stock","254710","6.35%","n/a"
+"First Advantage Bancorp","Clarksville,"TN"","2019","First Advantage Bank ESOP Plan","Common Stock","320811","8.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Advantage Bancorp","CEO/Director","Earl O. Bradley,"III"","CEO","First Advantage Bank","2019","n/a","62772"
+"First Advantage Bancorp","Director","John T. Halliburton","Director","n/a","2019","Retired","62772"
+"First Advantage Bancorp","Executive Vice President","Jon R. Clouser","Executive Vice President","First Advantage Bank","2019","n/a","62772"
+"First Advantage Bancorp","CFO/Corporate Secretary","Gerald L. Cooksey,"Jr."","Chief Financial Officer","First Advantage Bank","2019","n/a","62772"
+"First Advantage Bancorp","Chief Operations Officer","Christy Caudill","Chief Operations Officer","First Advantage Bank","2019","n/a","62772"
+"First Advantage Bancorp","Director","William G. Beach","Director","n/a","2019","Retired Business Owner","62772"
+"First Advantage Bancorp","Director","Robert E. Durrett,"III"","Director","Durrett Construction","2019","General Contractor","62772"
+"First Advantage Bancorp","Director","Vernon M. Carrigan","Director","Premier Medical Group","2019","Medical Administrator","62772"
+"First Advantage Bancorp","Director","William H. Orgain","Director","Orgain Building Supply","2019","Business Owner -Building Supplies","62772"
+"First Advantage Bancorp","Director","David L. Watson","Director","n/a","2019","Retired as self-employed building contractor","62772"
+"First Advantage Bancorp","Director","Michael E. Wallace","Director","Thurman Campbell CPAs","2019","CPA,"CVA","PFS","MAC"","62772"
+"First Advantage Bancorp","Chairman of the Board","William Lawson Mabry","Chairman of the Board","n/a","2019","Real Estate Developer","62772"
+```

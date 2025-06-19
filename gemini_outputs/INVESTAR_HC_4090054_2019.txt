@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Investar Holding Corporation","Chicago,"IL"","2019","The Banc Funds Company,"L.L.C."","Common Stock","657394","5.9%","n/a"
+"Investar Holding Corporation","New York,"NY"","2019","Maltese Capital Management LLC","Common Stock","531904","4.7%","n/a"
+"Investar Holding Corporation","Arlington,"VA"","2019","EJF Capital LLC","Common Stock","399800","3.6%","n/a"
+"Investar Holding Corporation","Chicago,"IL"","2019","RMB Capital Holdings,"LLC"","Common Stock","379407","3.4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Investar Holding Corporation","Director","James M. Baker","n/a","TOPCOR,"LLC"","2019","Vice President - Structural","n/a"
+"Investar Holding Corporation","Director","Thomas C. Besselman,"Sr."","n/a","n/a","2019","Licensed Health,"Life and Accident Insurance Professional"","n/a"
+"Investar Holding Corporation","Director","James H. Boyce,"III"","n/a","n/a","2019","Business Owner - Convenience Stores and Consumer Loan Companies","n/a"
+"Investar Holding Corporation","Director","Robert Boyce,"Sr."","n/a","n/a","2019","Retired","n/a"
+"Investar Holding Corporation","President and Chief Executive Officer,"Director"","John J. D'Angelo","n/a","n/a","2019","n/a","n/a"
+"Investar Holding Corporation","Chairman of the Board Director","William H. Hidalgo","Chairman of the Board","Halimar Shipvard. LLC","2019","Marine Consulting Engineer - Managing member & Owner of","n/a"
+"Investar Holding Corporation","Director","Gordon H. Joffrion,"III"","n/a","Joffrion Construction Co.","2019","General Manager of","n/a"
+"Investar Holding Corporation","Director","Robert Chris Jordan","n/a","Vermillion Business Group","2019","Managing Member of","n/a"
+"Investar Holding Corporation","Director","David J. Lukinovich","n/a","David J. Lukinovich,"APLC"","2019","Board Certified Tax & Estate Planning and Administration Attorney","n/a"
+"Investar Holding Corporation","Director","Suzanne O. Middleton","n/a","Credit One,"LLC"","2019","Chief Financial Officer of","n/a"
+"Investar Holding Corporation","Director","Andrew C. Nelson M.D.","Partner with","Gastroenterology Associates","2019","Board Certified Gastroenterologist","n/a"
+"Investar Holding Corporation","Director","Frank L. Walker","n/a","JP Oil Holdings,"LLC"","2019","Chief Financial Officer","n/a"
+"Investar Holding Corporation","Executive Vice President and Chief Operations Officer","Dane M. Babin","n/a","n/a","2019","n/a","n/a"
+"Investar Holding Corporation","Executive Vice President,"Chief Accounting Officer","Treasurer"","Rachel P. Cherco","n/a","n/a","2019","n/a","n/a"
+"Investar Holding Corporation","Executive Vice President and Chief Financial Officer","Christopher L. Hufft","n/a","n/a","2019","n/a","n/a"
+"Investar Holding Corporation","Executive Vice President and General Counsel","Randolf F. Kassmeier","n/a","n/a","2019","n/a","n/a"
+```

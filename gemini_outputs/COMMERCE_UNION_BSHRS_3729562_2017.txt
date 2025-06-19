@@ -1,0 +1,22 @@
+Here are the two requested CSV tables:
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Union Bancshares,"Inc."","Rochester,"New York"","2017","Mendon Capital Advisors Corp.","Common Stock","638400","7.07%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Union Bancshares,"Inc."","Director","Homayoun Aminmadani","n/a","See Confidential Ex. A","2017","Restaurateur","3415463"
+"Commerce Union Bancshares,"Inc."","Director,"Chairman and CEO"","DeVan D. Ard","n/a","n/a","2017","n/a","3415463"
+"Commerce Union Bancshares,"Inc."","President","Charles Trimble Beasley","Director","Center Star,"Inc."","2017","Materials Research","3415463"
+"Commerce Union Bancshares,"Inc."","Director","John Bourne","n/a","n/a","2017","Agriculture Production","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Ron DeBerry","n/a","n/a","2017","n/a","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Sharon H. Edwards","Finance Director/CFO","Willis Towers Watson North America","2017","Financial Services","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Sharon H. Edwards","Finance Director/CFO","Willis North America,"Inc."","2017","Financial Services","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Farzin Ferdowsi","Chief Executive Officer","See also Confidential Ex. A","2017","Restaurateur","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Darrell S. Freeman,"Sr."","n/a","n/a","2017","Information Technology Services","3415463"
+"Commerce Union Bancshares,"Inc."","Director","James Gilbert Hodges","n/a","Hodges Group,"Inc."","2017","Construction","3415463"
+"Commerce Union Bancshares,"Inc."","Director","James R. Kelley","Member","Neal & Harwell,"PLC"","2017","Attorney","3415463"
+"Commerce Union Bancshares,"Inc."","Director","Don R. Sloan","n/a","See Confidential Ex. A","2017","Pharmacist","3415463"
+"Commerce Union Bancshares,"Inc."","Chief Financial Officer","James Daniel Dellinger","n/a","n/a","2017","n/a","3415463"
+"Commerce Union Bancshares,"Inc."","Chief Accounting Officer","Michael S. McKeown","Chief Financial Officer","n/a","2017","n/a","3415463"
+```

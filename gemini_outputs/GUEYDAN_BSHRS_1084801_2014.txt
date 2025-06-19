@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2014","J. C. Petry","Common Stock","34202","18.44%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2014","Estate of T. J. Fontenot","Common Stock","32467","17.51%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2014","Mildred H. Hair","Common Stock","22750","12.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Gueydan","CEO,"President & Director"","J. C. Petry","CEO,"President & Director"","n/a","2014","President","1084801"
+"Bank of Gueydan","n/a","Estate of T. J. Fontenot","n/a","n/a","2014","Deceased","1084801"
+"Bank of Gueydan","Director","J. David Simon","Farmer","David Simon Farms","2014","Self Employed","1084801"
+"Bank of Gueydan","Director","Edward G. Saal,"Jr."","Attorney/Owner of Private Law Practice","Edward G. Saal,"Jr","APLC (Law Firm)"","2014","Self Employed","1084801"
+"Bank of Gueydan","Sr V/P,"Secretary","Director"","Steven J. Richard.","Sr. V/P,"Secretary","Director"","n/a","2014","n/a","1084801"
+"Bank of Gueydan","n/a","Mildred H. Hair","n/a","n/a","2014","Retired","1084801"
+"Bank of Gueydan","Director","Hansford G. Hair","Production Operator White Oak Operating Co.,"LLC"","n/a","2014","Production Operator White Oak Operating Co.,"LLC"","1084801"
+```

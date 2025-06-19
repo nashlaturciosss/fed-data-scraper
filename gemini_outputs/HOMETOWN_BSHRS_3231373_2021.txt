@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2020","Paul Ray Estate","Common Stock","95173","11.90%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2020","Max Ray Estate","Common Stock","96173","12.02%","n/a"
+"Hometown Bancshares,"Inc."","Hackleburg,"AL"","2020","Keith Brumley","Common Stock","96173","12.02%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2020","Delmo Payne","Common Stock","136309","17.04%","n/a"
+"Hometown Bancshares,"Inc."","Hamilton,"AL"","2020","Gerald Terrell","Common Stock","149178","18.65%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Director","Charles Babb","n/a","n/a","2021","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","CEO","Hulsey Logging","2021","Hulsey Logging","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","CEO","Grand Trucking","2021","Hulsey Logging","n/a"
+"Hometown Bancshares,"Inc."","Director","Johnny Mack Lawler","CPA","Guin & Parrish CPA","2021","Lawler & Cole,"CPA"","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","Big One Travel","2021","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","1st Quality Homes","2021","Retired","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Max Ray Estate","n/a","n/a","2021","*Deceased","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Paul Ray Estate","n/a","n/a","2021","*Deceased","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","Big One Travel","2021","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","1st Quality Homes","2021","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director and President,"Chief Executive Offr"","Randy Whitehead","n/a","n/a","2021","Peoples Trust Bank CEO","n/a"
+"Hometown Bancshares,"Inc."","Secretary,"Chief Operations Offr"","Rebecca Cummings","n/a","n/a","2021","Peoples Trust Bank Chief Operations Officer","n/a"
+"Hometown Bancshares,"Inc."","Director,"Senior Loan Officer"","Eric Poe","n/a","n/a","2021","Peoples Trust Bank Senior Loan Officer","n/a"
+"Hometown Bancshares,"Inc."","Director","Keith Brumley","n/a","n/a","2021","Marion County Board of Education","n/a"
+```

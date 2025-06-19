@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dickson Financial Corporation","Burns,"TN"","2016","Donald Richardson","common stock","4750","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2016","Carney B. Nicks,"Trust-"","common stock","17540","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2016","Donald Richardson,"Trustee"","common stock","646","n/a","1085899"
+"Dickson Financial Corporation","Burns,"TN"","2016","CEDE & Co./Depository Trust Co.","common stock","n/a","5.93%","1085899"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dickson Financial Corporation","Director","Donald Richardson","Director","Bank of Dickson","2016","President & CEO","1085899"
+"Dickson Financial Corporation","President & CEO","Donald Richardson","Director","Bank of Dickson","2016","President & CEO","1085899"
+"Dickson Financial Corporation","n/a","David Shepard","President","Shepard Properties,"Inc"","2016","Pharmacist","1085899"
+"Dickson Financial Corporation","Director","David Shepard","President","Shepard Properties,"Inc"","2016","Pharmacist","1085899"
+"Dickson Financial Corporation","COO","Jamie Snyder","n/a","n/a","2016","Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","Jamie Snyder","n/a","n/a","2016","Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","Donnie Weiss","n/a","n/a","2016","Sales Representative","1085899"
+"Dickson Financial Corporation","n/a","Wayne McIntire","n/a","n/a","2016","Retired","1085899"
+"Dickson Financial Corporation","Director","Wayne McIntire","n/a","n/a","2016","Retired","1085899"
+"Dickson Financial Corporation","Chairman","Tommy Nicks","n/a","n/a","2016","Trust Officer Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","Tommy Nicks","n/a","n/a","2016","Trust Officer Bank of Dickson","1085899"
+"Dickson Financial Corporation","Director","James E. Peeler","n/a","n/a","2016","Retired","1085899"
+"Dickson Financial Corporation","Director","Dale Ragan","n/a","n/a","2016","Real Estate Broker","1085899"
+"Dickson Financial Corporation","Director","Jeff Corlew","Partner","n/a","2016","Construction Project Manager","1085899"
+"Dickson Financial Corporation","Director","Steve DeLoach","n/a","n/a","2016","Dentistry","1085899"
+"Dickson Financial Corporation","Director","Brenda Legg","n/a","n/a","2016","Retired","1085899"
+"Dickson Financial Corporation","Director","Tommy Marvin","Pres.","Taylor Funeral Home,"Inc"","2016","Mortician","1085899"
+```

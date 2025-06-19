@@ -1,0 +1,32 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2023","Amelia W. Haley","Common Stock","378511","14.90%","n/a"
+"Peoples Bankshares Inc.","Carrolton,"GA"","2023","Ken Barber","Common Stock","182204","7.17%","n/a"
+"Peoples Bankshares Inc.","Atlanta,"GA"","2023","Eric L. Johnson","Common Stock","159705","6.29%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bankshares Inc.","Director & CEO","Ken Barber","Director & Chairman","n/a","2023","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director,"Chairman & Secretary"","Gregary L. Lee","CEO","n/a","2023","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director","Eric L. Johnson","CEO","Status Development","2023","ESOP Administrator","n/a"
+"Peoples Bankshares Inc.","Director","Eric L. Johnson","CEO","Facility Solutions","2023","ESOP Administrator","n/a"
+"Peoples Bankshares Inc.","Director","Johnny Blankenship","None","JLB Development","2023","Developer/Builder","n/a"
+"Peoples Bankshares Inc.","Director","Johnny Blankenship","None","Blankenship Homes,"Inc."","2023","Developer/Builder","n/a"
+"Peoples Bankshares Inc.","Director","Johnny Blankenship","None","Accurate Builders,"Inc"","2023","Developer/Builder","n/a"
+"Peoples Bankshares Inc.","Director & President","Charles R. Haley","N/A","n/a","2023","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director","Jeff D. Couey","CEO","Paulding Skating Center","2023","Roller Skating Rink Owner","n/a"
+"Peoples Bankshares Inc.","Director","Jeff D. Couey","CEO","Skating Clubs of N/America","2023","Roller Skating Rink Owner","n/a"
+"Peoples Bankshares Inc.","Director","Jeff D. Couey","CEO","All Skate Hunting Properties & Supplies","2023","Roller Skating Rink Owner","n/a"
+"Peoples Bankshares Inc.","Director","Jeff D. Couey","CEO","Couey Real Estate Investmnt","2023","Roller Skating Rink Owner","n/a"
+"Peoples Bankshares Inc.","Director","P. David Orr","Orr & Associates","n/a","2023","CPA","n/a"
+"Peoples Bankshares Inc.","Director","Douglas C. Davidson","n/a","NSC Investments","2023","Commercial General Contractor","n/a"
+"Peoples Bankshares Inc.","Director","Douglas C. Davidson","n/a","Seven Oaks Cattle Company","2023","Commercial General Contractor","n/a"
+"Peoples Bankshares Inc.","Director","Douglas C. Davidson","n/a","Regatta Marine & Storage","2023","Commercial General Contractor","n/a"
+"Peoples Bankshares Inc.","Director","Douglas C. Davidson","n/a","Prime Real Estate","2023","Commercial General Contractor","n/a"
+"Peoples Bankshares Inc.","None","Randall F. Daniel","Owner,"Daniel Development Inc"","R&K Daniel Co.","2023","Contractor/Builder","n/a"
+"Peoples Bankshares Inc.","None","Randall F. Daniel","Owner,"Daniel Development Inc"","Daniel Development","2023","Contractor/Builder","n/a"
+"Peoples Bankshares Inc.","None","Amelia Haley","None","n/a","2023","Homemaker","n/a"
+```

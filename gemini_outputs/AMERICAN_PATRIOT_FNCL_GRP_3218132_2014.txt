@@ -1,15 +1,13 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Patriot Financial Group,"Inc."","Greeneville","2014","William Smead","Common Stock","135166","5.66%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Patriot Financial Group,"Inc."","Greeneville,"TN"","2014","William Smead","common stock","135166","5.66%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Patriot Financial Group,"Inc."","Director Chairman","Wendy Warner","Director Chairman","American Patriot Bank","2014"
-"American Patriot Financial Group,"Inc."","n/a","William Smead","Director","American Patriot Bank","2014"
-"American Patriot Financial Group,"Inc."","n/a","T. Don Waddell","CFO and SVP Secretary","American Patriot Bank","2014"
-"American Patriot Financial Group,"Inc."","n/a","Melissa Cobble","CFO and Senior Vice President Secretary","American Patriot Bank","2014"
-"American Patriot Financial Group,"Inc."","n/a","Roger Woolsey","Director","American Patriot Bank","2014"
-"American Patriot Financial Group,"Inc."","n/a","James Randal Hall","Director,"CEO and President"","American Patriot Bank","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Patriot Financial Group,"Inc."","Director Chairman","Wendy Warner","Warner Realty Owner","Warner Realty","2014","Realtor","n/a"
+"American Patriot Financial Group,"Inc."","Director","William Smead","President","Greeneville Aviation","2014","Physician","n/a"
+"American Patriot Financial Group,"Inc."","CFO and Secretary","T. Don Waddell","n/a","n/a","2014","n/a","n/a"
+"American Patriot Financial Group,"Inc."","CFO and Secretary","Melissa Cobble","n/a","n/a","2014","n/a","n/a"
+"American Patriot Financial Group,"Inc."","Director","Roger Woolsey","n/a","n/a","2014","Attorney","n/a"
+"American Patriot Financial Group,"Inc."","Director,"CEO and President"","James Randal Hall","n/a","n/a","2014","n/a","n/a"
 ```

@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens National Bancorp,"Inc."","Niota,"TN"","2015","Mintie C. Willson","n/a","11326","7.615%","1249589"
+"Citizens National Bancorp,"Inc."","Athens,"TN"","2015","Meredith Willson","n/a","24504","16.475%","1249589"
+"Citizens National Bancorp,"Inc."","Athens,"TN"","2015","Hugh M. Willson S Corp","n/a","16354","10.996%","1249589"
+"Citizens National Bancorp,"Inc."","Niota,"TN"","2015","Paul G. Willson","n/a","25268","16.989%","1249589"
+"Citizens National Bancorp,"Inc."","Niota,"TN"","2015","Hugh M. Willson,"III"","n/a","2070","1.392%","1249589"
+"Citizens National Bancorp,"Inc."","Knoxville,"TN"","2015","Robert M. Goodfriend","n/a","10890","7.322%","1249589"
+"Citizens National Bancorp,"Inc."","Athens,"TN"","2015","Hugh M. Willson S Corp","n/a","2551","1.715%","1249589"
+"Citizens National Bancorp,"Inc."","Niota,"TN"","2015","Debra McKenzie Willson","n/a","341","0.229%","1249589"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Bancorp,"Inc."","Treasurer/Director","Jack B Allen","Director/President & CEO","n/a","2015","Banking","1249589"
+"Citizens National Bancorp,"Inc."","Director","William P. Biddle,"III"","Director","n/a","2015","Attorney","1249589"
+"Citizens National Bancorp,"Inc."","Director","Charles B. Cox,"MD"","Director","Spring Place,"LLC"","2015","Surgeon","1249589"
+"Citizens National Bancorp,"Inc."","Director","Charles B. Cox,"MD"","Director","Four Maples Farm","2015","Surgeon","1249589"
+"Citizens National Bancorp,"Inc."","Director","Charles B. Cox,"MD"","Director","Tsali Notch,"LLC"","2015","Surgeon","1249589"
+"Citizens National Bancorp,"Inc."","Director","Charles B. Cox,"MD"","Director","Cox Creek Throughbreds","2015","Surgeon","1249589"
+"Citizens National Bancorp,"Inc."","Director","Robert M. Goodfriend","Director","n/a","2015","Retired","1249589"
+"Citizens National Bancorp,"Inc."","Director","Rebecca O Jaquish","Director","n/a","2015","n/a","1249589"
+"Citizens National Bancorp,"Inc."","Director","Richard E. Lay","Director","Lay Realty","2015","Realtor","1249589"
+"Citizens National Bancorp,"Inc."","Vice President","Meredith Willson","n/a","n/a","2015","Banking","1249589"
+"Citizens National Bancorp,"Inc."","Secretary/Director","Mintie C. Willson","Director","n/a","2015","n/a","1249589"
+"Citizens National Bancorp,"Inc."","n/a","Debra McKenzie Willson","n/a","n/a","2015","n/a","1249589"
+"Citizens National Bancorp,"Inc."","n/a","Hugh M. Willson S Corp","n/a","n/a","2015","n/a","1249589"
+"Citizens National Bancorp,"Inc."","n/a","Hugh M. Willson S Corp","n/a","n/a","2015","n/a","1249589"
+"Citizens National Bancorp,"Inc."","Chairman","Paul G. Willson","Director/Chairman","n/a","2015","Banking","1249589"
+```

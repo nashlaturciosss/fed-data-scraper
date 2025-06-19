@@ -1,0 +1,30 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MidSouth Bancorporation","Slocomb,"AL"","2018","Hope Johnson,"Successor Trustee for W D Malone","III","C M Wilson and A M Bagby"","common stock","1260","35%","n/a"
+"MidSouth Bancorporation","Slocomb,"AL"","2018","Hope Johnson,"Successor Trustee for W D Malone","Jr Children Trust"","common stock","516","14%","n/a"
+"MidSouth Bancorporation","Dothan,"AL"","2018","W D Malone,"III"","common stock","756","21%","n/a"
+"MidSouth Bancorporation","Woodstock,"GA"","2018","Catherine M Wilson","common stock","648","18%","n/a"
+"MidSouth Bancorporation","Birmingham,"AL"","2018","Alyson D Malone","common stock","454","12%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MidSouth Bancorporation","Chairman,"CEO","President & Director"","WD Malone,"III"","Director","The Malone Family Foundation","2018","n/a","929932"
+"MidSouth Bancorporation","Director","Catherine M Wilson","n/a","The Malone Family Foundation","2018","n/a","929932"
+"MidSouth Bancorporation","Director","Alyson D Malone","President,"Treasurer & Director"","The Malone Family Foundation","2018","n/a","929932"
+"MidSouth Bancorporation","N/A","Hope H Johnson","CEO","SNB Holdings Inc.","2018","Bank CEO","929932"
+"MidSouth Bancorporation","Senior Vice President & Secretary","Jennifer League","n/a","N/A","2018","n/a","929932"
+"MidSouth Bancorporation","Senior Vice President","Andy Hart","Managing Member","Log Growers LLC","2018","n/a","929932"
+"MidSouth Bancorporation","Director","George Flowers","President","GDF,"Inc"","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","George Flowers","President","Pyramid Properties,"Inc"","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","George Flowers","Managing Member","Perennial South LLC","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President/Vice-Chairman","Couch Aggregates","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President","OST,"Inc"","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President","CPAC","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","n/a","Realtime Support","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","President/Chairman","CTTE West Bay","2018","Business Owner","929932"
+"MidSouth Bancorporation","Director","Steven Shaw","Secretary","Spann Farm Development","2018","Business Owner","929932"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","Carnley S. LLC","2018","n/a","929932"
+"MidSouth Bancorporation","Senior Vice President","Mason Morrow","Managing Member","The Talbot Place,"LLC"","2018","n/a","929932"
+```

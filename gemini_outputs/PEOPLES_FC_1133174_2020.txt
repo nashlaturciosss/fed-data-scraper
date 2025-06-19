@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Financial Corporation","New York,"NY"","2020","Joseph Stilwell","n/a","484645","9.93%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2020","Thomas E. Quave","n/a","392067","8.04%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2020","A. Tanner Swetman","n/a","865578","17.74%","n/a"
+"Peoples Financial Corporation","Biloxi,"MS"","2020","Chevis C. Swetman","n/a","426102","8.73%","n/a"
+"Peoples Financial Corporation","Greenwich,"CT"","2020","Jeffrey L. Gendell","n/a","484645","9.93%","n/a"
+"Peoples Financial Corporation","Salt Lake City,"UT"","2020","Jason A. Stock and William C. Waller","n/a","260022","5.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Peoples Bank","Chairman,"President & CEO"","Chevis C. Swetman","None","None","2020","Banker","870539"
+"The Peoples Bank","Director","Ronald G. Barnes","President and CEO","Coast Electric Power Association","2020","Businessman","870539"
+"The Peoples Bank","Director","Padrick D. Dennis","Vice President","Specialty Contractors and Associates,"Inc."","2020","Businessman","870539"
+"The Peoples Bank","Director","George J. Sliman,"III"","President","SunStates Holdings,"Inc."","2020","Businessman","870539"
+"The Peoples Bank","Director","Jeffrey H. O'Keefe","Chief Executive Officer","Bradford-O'Keefe Funeral Home,"Inc."","2020","Businessman","870539"
+"The Peoples Bank","Executive Vice President","A. Wes Fulmer","None","None","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","Ann F. Guice","None","None","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","Lauri A. Wood","None","None","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","J. Patrick Wild","None","None","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","Evelyn R. Herrington","None","None","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","Andrew Tanner Swetman","None","n/a","2020","Banker","870539"
+"The Peoples Bank","Senior Vice President","Brian J. Kozlowski","None","None","2020","Banker","870539"
+```

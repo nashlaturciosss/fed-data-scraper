@@ -1,0 +1,40 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bank and Trust","Vacherie,"Louisiana"","2018","J.B. Falgoust family","n/a","299422","14.42%","101037"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bank and Trust","President & CEO,"Director"","Ronald J. Falgoust","President & CEO,"Director"","First American Bank & Trust","2018","n/a","101037"
+"First American Bank and Trust","Director","Craig G. Brazan","Director","Bedrock Petroleum Services","2018","Petroleum Engineer","101037"
+"First American Bank and Trust","Director","Michael J. Cazenave","Director","West St. James Pharmacy","2018","Pharmacist","101037"
+"First American Bank and Trust","Director","Steven G. Cazenave","Sales Manager","Cazenave Motor Company,"Inc."","2018","Retailer","101037"
+"First American Bank and Trust","Director","Dean T. Falgoust","Vice President","Freeport - McMoran Inc.","2018","Attorney","101037"
+"First American Bank and Trust","Director","J. B. Falgoust","President","Anita Planting Co.","2018","n/a","101037"
+"First American Bank and Trust","Director","J. B. Falgoust","President","J. B. Falgoust Farm,"L.L.C."","2018","n/a","101037"
+"First American Bank and Trust","Director","J. B. Falgoust","President","Shell Hill Planting","2018","n/a","101037"
+"First American Bank and Trust","Executive Vice President","Malcolm J. Peytavin","n/a","n/a","2018","n/a","101037"
+"First American Bank and Trust","Director","Marcel T. Graugnard,"Jr."","President","Graugnard,"Inc."","2018","Retailer","101037"
+"First American Bank and Trust","Director","Marcel T. Graugnard,"Jr."","President","Graugnard Bros.","2018","Retailer","101037"
+"First American Bank and Trust","Director","Marcel T. Graugnard,"Jr."","n/a","Cabonahasse,"LLC"","2018","Retailer","101037"
+"First American Bank and Trust","Director","Ozane J. Gravois,"III"","President","Gravois Farms","2018","Farmer","101037"
+"First American Bank and Trust","Director","Ozane J. Gravois,"III"","President","Armant Plantation,"Inc."","2018","Farmer","101037"
+"First American Bank and Trust","Director","Ozane J. Gravois,"III"","President","Sweet Home,"Inc."","2018","Farmer","101037"
+"First American Bank and Trust","Director","Ozane J. Gravois,"III"","President","Edgard Farms","2018","Farmer","101037"
+"First American Bank and Trust","Director","Ozane J. Gravois,"III"","President","Belmont Farms","2018","Farmer","101037"
+"First American Bank and Trust","Director","Dr. Randall C. Poche","Coroner","St James Parish,"LA"","2018","Physician","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","St. Charles Hotel,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","Jackie Bee Investments-Holding,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","Esperanza Investments,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","Esperanza Land-Holding,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","414 Properties,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Debra Dufresne Vial","Management Team","Green & Gold Properties,"LLC"","2018","Manager","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","President","Waguespack Oil Co.","2018","Oil Distributor","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","President","Wag-A-Pak","2018","Oil Distributor","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","Secretary","Wag-A-Pak VIII","2018","Oil Distributor","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","President","Wag-A-Pak IX","2018","Oil Distributor","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","President","Wag-A-Pak X","2018","Oil Distributor","101037"
+"First American Bank and Trust","Director","Albert J. Waguespack,"Jr."","President","Wag-A-Pak III","2018","Oil Distributor","101037"
+```

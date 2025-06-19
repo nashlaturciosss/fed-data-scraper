@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Stephen K. Eberhart","Common Stock","35087","8.98%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Dean Eberhart","Common Stock","13028","3.33%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2019","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2019","The Estate of Glen Kilgore","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2019","Eloise Smith","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Charles Stephens","Common Stock","26530","6.79%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Linda Stephens","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Johnny Young","Common Stock","66150","16.93%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Linda M. Young","Common Stock","5600","1.43%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Chris Pierson","Common Stock","5166","1.32%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2019","Chris Young","Common Stock","5120","1.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","President & CEO","First Fidelity Bank","2019","N/A","n/a"
+"FBDC Financial Corp.","Director","Johnny David Young","Director","First Fidelity Bank","2019","Retired","n/a"
+"FBDC Financial Corp.","Director","Johnny David Young","Retired","Young Steel Stamping,"Inc."","2019","Retired","n/a"
+"FBDC Financial Corp.","Director","Charles Ray Stephens","Director","First Fidelity Bank","2019","Retired","n/a"
+"FBDC Financial Corp.","Director","Charles Ray Stephens","Retired","Dixie Machine Shop,"Inc."","2019","Retired","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","First Fidelity Bank","2019","Retired,"Motel Owner/Operator"","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","Pioneer Credit Company","2019","Retired,"Motel Owner/Operator"","n/a"
+"FBDC Financial Corp.","Director","Diane Shankles","Senior Loan Officer","First Fidelity Bank","2019","N/A","n/a"
+"FBDC Financial Corp.","N/A","Eloise J. Smith","Public Relations","1st State Bank","2019","Public Relations","n/a"
+"FBDC Financial Corp.","N/A","Shari Jones,"Administratrix"","Stockholder","Rainsville Church Pew,"Inc."","2019","Merchant","n/a"
+"FBDC Financial Corp.","N/A","Shari Jones,"Administratrix"","Chairman/President","First State Bancshares of DeKalb County,"Inc."","2019","Merchant","n/a"
+```

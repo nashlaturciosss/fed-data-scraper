@@ -1,0 +1,9 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","n/a","12/31/2022","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","President and Director","John V Barker","n/a","n/a","12/31/2022","n/a","n/a"
+```

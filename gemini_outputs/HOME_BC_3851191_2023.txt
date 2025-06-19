@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","J. Scott Ballard","CEO and Owner","Ballard Hopsitality,"LLC"","2023","Ballard Hospitality,"LLC","self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Retired Partner","Broussard Poche' LLP","2023","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Chairman of the Board of Directors","John W. Bordelon","Chairman of the Board of Directors","JSOMK Properties,"LLC"","2023","n/a","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","Daniel G. Guidry","Retired Partner","Guidry & Guidry","2023","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director","John A. Hendry","Retired Pediatric Dentist","John A. Hendry,"LLC"","2023","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Rader Solutions LLC","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","RAK Holdings,"LLC"","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Quantum Real Estate,"LLC"","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","838 Coolidge LLC","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","OLC Holdings,"LLC"","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Trunis Holding,"Inc."","2023","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Ann Forte Trappey","n/a","Forte & Tablada","2023","VP Outreach of Forte & Tablada","n/a"
+"Home Bancorp,"Inc."","Director","Donald W. Washington","Partner","Jones Walker LLP","2023","Attorney,"Jones Walker LLP"","n/a"
+"Home Bancorp,"Inc."","n/a","Darren E. Guidry","n/a","n/a","2023","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","David T. Kirkley","n/a","n/a","2023","n/a","n/a"
+```

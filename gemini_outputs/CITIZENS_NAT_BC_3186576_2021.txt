@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens National Banc Corp.","Meridian,"MS"","2021","The 2021 Mary Z. McCauley McDonnell Irrevocable Trust","Common Stock","9632","6.83%","n/a"
+"Citizens National Banc Corp.","Memphis,"TN"","2021","Elizabeth W. Williamson","Common Stock","10272","7.29%","n/a"
+"Citizens National Banc Corp.","Memphis,"TN"","2021","Garnett W. Hutton","Common Stock","10592","7.51%","n/a"
+"Citizens National Banc Corp.","Ridgeland,"MS"","2021","Richard E. Wilbourn III","Common Stock","10202","7.24%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2021","Catherine M. Hall","Common Stock","8341","5.92%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2021","The Deanna A. Wilbourn Marital Trust B","Common Stock","41910","29.72%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2021","Mary M. McDonnell","Common Stock","9632","6.83%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Banc Corp.","Chairman","Russell H. Williamson","n/a","n/a","2021","n/a","69333"
+"Citizens National Banc Corp.","Director and President","Archie R. McDonnell,"Jr."","n/a","n/a","2021","n/a","69333"
+"Citizens National Banc Corp.","Principal Shareholder","Deanna A. Wilbourn","Executrix of the Estate of Richard E. Wilbourn","n/a","2021","n/a","69333"
+"Citizens National Banc Corp.","Director","Garnett W. Hutton","n/a","n/a","2021","n/a","69333"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Attorney At Law","Inn Serve Corporation","2021","Attorney","69333"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Attorney At Law","Richard E. Wilbourn III,"Attorney At Law"","2021","Attorney","69333"
+"Citizens National Banc Corp.","Director","David B. Hall","n/a","Halltree,"Inc."","2021","Forester","69333"
+"Citizens National Banc Corp.","Director","David B. Hall","n/a","Hallforest,"L.P."","2021","Forester","69333"
+"Citizens National Banc Corp.","Director","David B. Hall","n/a","Halltimber,"LLC"","2021","Forester","69333"
+```

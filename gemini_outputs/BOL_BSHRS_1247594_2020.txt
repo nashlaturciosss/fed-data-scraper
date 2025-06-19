@@ -1,13 +1,12 @@
-Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BOL Bancshares,"Inc."","Slidell","2020","G. Harrison Scott","Common Stock","118732","66.28%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BOL Bancshares,"Inc."","Slidell,"LA"","2020","G. Harrison Scott","Common Stock","118732","66.28%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BOL Bancshares,"Inc."","Director,"Chairman &"","G. Harrison Scott","Director,"Chairman & President"","Bank of Louisiana","2020"
-"BOL Bancshares,"Inc."","Director","Johnny C. Crow","Director","New York Life Ins. Co.","2020"
-"BOL Bancshares,"Inc."","Director","Sharry R. Scott","Director","Bank of Louisiana","2020"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Louisiana","Director,"Chairman &"","G. Harrison Scott","Director,"Chairman & President"","n/a","2020","n/a","271136"
+"Bank of Louisiana","Director","Johnny C. Crow","Insurance Agent","New York Life Ins. Co.","2020","Insurance Agent","271136"
+"Bank of Louisiana","Director","Sharry R. Scott","Director","n/a","2020","Attorney","271136"
 ```

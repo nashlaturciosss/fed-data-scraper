@@ -1,0 +1,24 @@
+"Here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Sherrian McDaniel Logan","common stock","2883","8%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Dana M. Peoples","common stock","14008","43%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Collins Davis","common stock","93","1%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Jeffery C. Davis,"Jr."","common stock","9171","28%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Ann Elizabeth Murphy","common stock","25","1%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Ann Elizabeth Murphy","common stock","3276","10%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","Marilyn Burleson","common stock","2680","8%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2021","James T. Burleson","common stock","17","1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","Marketing Director & Director","Sherrian M. Logan","n/a","None","2021","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","Director","Dana M. Peoples","n/a","None","2021","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","Director","Collins Davis","n/a","None","2021","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","Secretary","Sally Holloway","n/a","None","2021","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","n/a","Jeffery C. Davis,"Jr."","n/a","N/A","2021","N/A","n/a"
+"PEOPLES BANCORPORATION,"INC."","n/a","Ann Elizabeth Murphy","n/a","N/A","2021","Pediatrician","n/a"
+"PEOPLES BANCORPORATION,"INC."","n/a","Ann Elizabeth Murphy","n/a","N/A","2021","N/A","n/a"
+```

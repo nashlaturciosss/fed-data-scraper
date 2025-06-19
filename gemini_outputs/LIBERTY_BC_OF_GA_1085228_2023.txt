@@ -1,0 +1,29 @@
+"Here are the two tables extracted from the document as requested","in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Bancorp of Georgia,"Inc."","Tallulah Falls,"GA"","2023","Johnny Mark Irvin","n/a","305752","36.740%","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Clarkesville,"GA"","2023","David Irvin","n/a","81988","9.852%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Director & President","North Ga. Foods,"Inc."","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Director & President","Southland Foods,"Inc."","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Member","Lake Rabun Properties,"LLC"","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Member","31 Irvin,"Irvin","& Irvin","LLC"","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Member","DJ Irvin Properties,"LLC"","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Member","J&D Irvin Holdings,"LLC"","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Chairman,"CEO & Director"","Johnny Mark Irvin","Member & Manager","Tallulah Point,"LLC"","2023","Co-CEO","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Wanda Hutchison","n/a","n/a","2023","Retired","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director & Secretary","Greg W. Funkhouser","Director","City of Clayton Downtown Dev. Authority","2023","Pres. - Rabun County Bank","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director & CFO","George G. Krivsky","Board Member","Rabun County Water Sewer Authority","2023","Retired","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Claude Rickman","Owner","Claude Rickman Construction,"Inc."","2023","Building Contractor","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Samuel R. Beck","Coroner","Rabun County,"Ga."","2023","Funeral Home Director/Mortician","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Samuel R. Beck","Chairman","Rabun County Water & Sewer Authority","2023","Funeral Home Director/Mortician","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Samuel R. Beck","Commissioner","Clayton Housing Authority","2023","Funeral Home Director/Mortician","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Stephen R. Arbitter","Chief Executive Officer","Cathey Arbitter Farms Bus Park LLC","2023","Veterinarian","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Stephen R. Arbitter","Chief Executive Officer","Arbitter Veterinary Hospital LLC","2023","Veterinarian","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Co-CEO","Melanie I. Silvestri","Manager","DMTS,"LLC"","2023","n/a","n/a"
+"Liberty Bancorp of Georgia,"Inc."","Director","Robert E. Tritt","Senior Counsel","Dentons US,"LLP"","2023","Attorney","n/a"
+```

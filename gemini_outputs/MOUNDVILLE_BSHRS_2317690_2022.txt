@@ -1,0 +1,20 @@
+"Here are the two tables in valid CSV format","following all instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2022","Madie E. Howell Trust","n/a","39042","49.5","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2022","Howell Poole,"Trustee"","n/a","16235","20.6","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2022","Howell Poole","n/a","810","1.0","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Moundville Bancshares,"Inc."","Director,"Chairman","CEO/President"","Howell Poole","President","Carthage Drive,"Inc."","2022","n/a","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Moundville Communications,"Inc."","2022","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Riverbend Cable","2022","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Bernard T. Martin","Representative","Alfa Area Representative","2022","Alfa Area Representative","n/a"
+"Moundville Bancshares,"Inc."","Director","William A. (Sonny) Ryan","n/a","n/a","2022","Retired Judge,"Hale County"","n/a"
+"Moundville Bancshares,"Inc."","Director","Robert C. Lake","SVP","Randall-Reilly Publishing","2022","SVP,"Randall-Reilly Publishing"","n/a"
+"Moundville Bancshares,"Inc."","Director","Robert C. Lake","Chairman","Awards Company of America","2022","SVP,"Randall-Reilly Publishing"","n/a"
+"Moundville Bancshares,"Inc."","Treasurer","Christina G. Mills","Chief Operating Officer","n/a","2022","n/a","n/a"
+"Moundville Bancshares,"Inc."","N/A","Howell Poole,"trustee of The Family Trust"","N/A","N/A","2022","N/A","n/a"
+"Moundville Bancshares,"Inc."","N/A","Madie E.Howell Trust","N/A","N/A","2022","N/A","n/a"
+```

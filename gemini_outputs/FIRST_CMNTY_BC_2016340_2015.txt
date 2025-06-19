@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Shelbyville,"Tennessee"","2015","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Director","J. T. Darnell","n/a","n/a","2015","Retired","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","J. C. Gordon","n/a","n/a","2015","Retired","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","David E. McGee","Owner","McGee's Prescription Shop","2015","Pharmacist","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","David E. McGee","Owner","The Pomegrante","2015","Pharmacist","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","David E. McGee","Owner","Tullahoma Drugs","2015","Pharmacist","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Andrew C. Rambo","Owner","Andrew C. Rambo,"P. C."","2015","Attorney","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Garrett Winnette","n/a","n/a","2015","Retired","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","President/Director","Scott Cocanougher","n/a","n/a","2015","Banker","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","William T. Clifford","n/a","n/a","2015","Banker","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Barry D. Cooper","CFO","Cooper Steel Fabricator,"Inc."","2015","Steel Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Barry D. Cooper","n/a","Cooper Properties","2015","Steel Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","President","Lee Adcock Construction Co.,"Inc."","2015","Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Adcock Design Build and Lease LLC","2015","Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","n/a","ARD Properties","2015","Contractor","1188772"
+```

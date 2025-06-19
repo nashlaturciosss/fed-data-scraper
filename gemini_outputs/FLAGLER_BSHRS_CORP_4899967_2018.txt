@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flagler Bank","Palm Beach,"FL"","2018","Ronald Y Schram","COMMON","560218","22.43%","n/a"
+"Flagler Bank","Palm Beach,"FL"","2018","Ronald Y Schram","OPTIONS","25000","n/a","n/a"
+"Flagler Bank","Miami,"FL"","2018","Frank Hessel","COMMON","535217","21.43%","n/a"
+"Flagler Bank","Miami,"FL"","2018","Frank Hessel","OPTIONS","10000","n/a","n/a"
+"Flagler Bank","Los Angeles,"CA"","2018","Elliot Horowitz","COMMON","243482","9.75%","n/a"
+"Flagler Bank","Palm Bch Gdns,"FL"","2018","Lampert Family Tr","COMMON","216666","8.67%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flagler Bank","President/Director","Ronald Y. Schram","n/a","Only Flagler Bank","2018","Real Estate","n/a"
+"Flagler Bank","COB/Secretary","Edward Sterling","n/a","n/a","2018","FB President","n/a"
+"Flagler Bank","Director","Frank Hessel","n/a","Only Flagler Bank","2018","Real Estate","n/a"
+"Flagler Bank","Director","Ron Mackail","n/a","Only Flagler Bank","2018","Accounting","n/a"
+"Flagler Bank","Director","Gary Walk","n/a","Only Flagler Bank","2018","Attorney","n/a"
+"Flagler Bank","Director","Arnold Lampert","n/a","Only Flagler Bank","2018","Retired","n/a"
+"Flagler Bank","Director","Gerry Goldsmith","n/a","Only Flagler Bank","2018","Retired","n/a"
+"Flagler Bank","Director","Herbert Weiss","n/a","Only Flagler Bank","2018","Retired","n/a"
+"Flagler Bank","Director","Sally Benson","n/a","Only Flagler Bank","2018","Attorney","n/a"
+```

@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merit Holdings LLC","Decatur,"AL"","2019","James Chad Falciani","n/a","455000","14.45%","n/a"
+"Merit Holdings LLC","Huntsville,"AL"","2019","Robert Hill Womble","n/a","145000","5.01%","n/a"
+"Merit Bancorporation Inc","Huntsville,"AL"","2019","Merit Holdings LLC","n/a","1000","100%","n/a"
+"Merit Bancorporation Inc","Valley Head,"AL"","2019","E N Jones,"III"","n/a","328","32.8%","n/a"
+"Merit Bancorporation Inc","Valley Head,"AL"","2019","Thomas A Jones,"Jr"","n/a","305","30.5%","n/a"
+"Merit Bancorporation Inc","Valley Head,"AL"","2019","G Gordon Jones","n/a","304","30.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merit Holdings LLC","President/CEO","Robert Hill Womble","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","Director","Frank Aldag","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","COO","Frank Aldag","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","Director","Mark McIntyre","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","EVP","Mark McIntyre","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","Director","Charles W Heaps","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","EVP","Charles W Heaps","n/a","n/a","2019","Banker","n/a"
+"Merit Holdings LLC","Director","Steven Cost","n/a","Intergraph Corp","2019","President - Intergraph Corp","n/a"
+"Merit Holdings LLC","Director","James Chad Falciani","n/a","Strategix Medical Solutions Inc","2019","CEO Strategix Medical Solutions Inc","n/a"
+"Merit Holdings LLC","Director","Kevin Heronimus","Chairman of the Board","TMC Corporation","2019","CEO/President of Technical Micronics Control Corporation","n/a"
+"Merit Holdings LLC","Director","Jeff Huntley","n/a","T-H Marine","2019","CEO/President of T-H Marine","n/a"
+"Merit Holdings LLC","Director","Brent Romine","n/a","Nou Systems Inc","2019","President of Nou Systems Inc","n/a"
+```

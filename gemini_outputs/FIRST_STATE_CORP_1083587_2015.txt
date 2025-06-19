@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Corporation","Gautier,"USA"","2015","John C. Arledge,"III"","n/a","10337","5.91%","1083587"
+"First State Corporation","Waynesboro,"USA"","2015","Ben C. Daws","n/a","10171","5.82%","1083587"
+"First State Corporation","Waynesboro,"USA"","2015","Ken Rhinehart","n/a","8900","5.09%","1083587"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Corporation","Director","John C. Arledge,"III"","n/a","n/a","2015","n/a","1083587"
+"First State Corporation","Director","Redell Bonner","n/a","Bonner & Associates,"CPA"","2015","n/a","1083587"
+"First State Corporation","Director & Chairman","Joel C. Clements","President/CEO of First State Bank","n/a","2015","n/a","1083587"
+"First State Corporation","Director & Secretary/ Treasurer","James F. Cooley","n/a","Pizza Inn of Waynesboro","2015","n/a","1083587"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Oil","2015","n/a","1083587"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Producing","2015","n/a","1083587"
+"First State Corporation","Director","Emest W. Joiner","n/a","Joiner-Sigler Insurance Agency","2015","n/a","1083587"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Industries","2015","n/a","1083587"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Holding Co.","2015","n/a","1083587"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelwood Products","2015","n/a","1083587"
+"First State Corporation","Director","Kenneth F. Rhinehart","n/a","n/a","2015","n/a","1083587"
+"First State Corporation","Director","B. B. Rounsaville","n/a","n/a","2015","n/a","1083587"
+"First State Corporation","Director","James Gary Sigler","n/a","Ozmus,"LP"","2015","n/a","1083587"
+"First State Corporation","Director","Ennis King","n/a","n/a","2015","n/a","1083587"
+"First State Corporation","Director","Vice President-Operations","Eric Giles","n/a","2015","n/a","1083587"
+"First State Corporation","Director","Rodney Cockerham","President-Jones County Market","n/a","2015","n/a","1083587"
+"First State Corporation","Director","Ronnie Clark","n/a","Chas. N. Clark Associates","2015","n/a","1083587"
+"First State Corporation","Director","Ronnie Clark","n/a","Clark Bros. Construction","2015","n/a","1083587"
+"First State Corporation","Vice President","Byron Jordan","Community Bank Pres./ EVP Lending","n/a","2015","n/a","1083587"
+"First State Corporation","Vice President","Allen Hodo","CFO/EVP Operations","n/a","2015","n/a","1083587"
+"First State Corporation","Vice President","Sharon Beard","EVP/Compliance and. Loan Operations","n/a","2015","n/a","1083587"
+```

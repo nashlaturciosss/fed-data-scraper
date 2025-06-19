@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2021","A.L. Johnson,"Jr"","Common Stock","9291","5.75%","n/a"
+"First Camden Bancshares,"Inc."","Kingsport,"TN"","2021","Anne J Smith Life Trust","Common Stock","8125","5.03%","n/a"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2021","Jane Shelton Dale","Common Stock","8250","5.10%","n/a"
+"First Camden Bancshares,"Inc."","Summerville,"SC"","2021","Carol D. Austin","Common Stock","8250","5.10%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Retired President","Camden National Bank","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","wilcox Investment","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","Law Partnership","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Retired President","wilcox Investment","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","Law Partnership","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Secretary-Treasurer","Kathryn S. Perryman","Executive Vice Pres. Chief Financial Officer","n/a","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","Sumpter Blackmon","Physician","Dr. Blackmon,"P.A."","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Vice President","A.L. Johnson,"III"","President & CEO","n/a","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","John B. Travis","Retail Business Owner","Handiman Building Supply,"Inc."","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","Wood Products Industry","Browder Veneer","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","Wood Products Industry","B&B Condo","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","Wood Products Industry","Sandy Keys Condo","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","William R. Phillippi,"Jr"","Dentist","W.R. Phillippi,"DMD"","2021","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","William B. Malone Jr.","Insurance Agent","Holman Insurance Agency,"Inc."","2021","n/a","n/a"
+```

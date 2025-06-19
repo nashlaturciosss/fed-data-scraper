@@ -1,0 +1,36 @@
+"Here are the two CSV tables with the extracted data","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Sam E. Upchurch,"Jr."","Common Stock","101428","2.60%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Sam E. Upchurch,"Jr."","Options,"Warrants","& Restricted Shares"","198155","5.08%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Scott B. Reed","Common Stock","152857","3.91%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Scott B. Reed","Options,"Warrants","& Restricted Shares"","206726","5.28%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Robert A. Reed","Common Stock","113644","3.02%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2014","Robert A. Reed","Warrants","55000","1.46%","n/a"
+"Oakworth Capital,"Inc."","Memphis,"TN"","2014","Matthew G. Mead","Common Stock","180000","4.82%","n/a"
+"Oakworth Capital,"Inc."","Memphis,"TN"","2014","Matthew G. Mead","Warrants","25000","0.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director & Chairman","Security Engineers,"Inc."","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director & Chairman","Denson & Denson,"LLC"","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director & Chairman","Grey Rocks Ranch,"LLC"","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director & Chairman","Grey Rocks Investors,"LLC"","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director,"President","& CEO"","Scott B. Reed","Director,"President","& CEO"","ABC Polymer Industries,"LLC"","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director,"President","& CEO"","Scott B. Reed","Director,"President","& CEO"","Proventix Systems,"Inc."","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & CFO","Ronald C. Jackson","Director & CFO","n/a","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Head of Banking","Sam A. Scalici,"Jr"","Director & Head of Banking","n/a","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Head of Risk & Credit","Forest W. Whatley,"Jr."","Director & Head of Risk & Credit","n/a","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Wealth Management","John B. Norris,"V"","Head of Wealth Management","n/a","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Technology & Operations","David M. Driscoll","Head of Technology & Operations","n/a","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director","Matthew G. Mead","Trustee","MainGate MLP Fund","2014","Principal,"Chicksaw Capital Management"","n/a"
+"Oakworth Capital,"Inc."","Director","Matthew G. Mead","Director","Agri,"Inc."","2014","Principal,"Chicksaw Capital Management"","n/a"
+"Oakworth Capital,"Inc."","Director","William B. Morton","Director","Robins & Morton","2014","n/a","n/a"
+"Oakworth Capital,"Inc."","Director","Robert A. Reed","Director","MainGate MLP Fund","2014","President & CEO,"ABC Polymer Industries","LLC"","n/a"
+"Oakworth Capital,"Inc."","Director","Richard D. Horsley","Director","Longleaf Pines,"LLC"","2014","Retired","n/a"
+"Oakworth Capital,"Inc."","Director","Luther J. Strange,"III"","Director","n/a","2014","State of Alabama Attorney General","n/a"
+"Oakworth Capital,"Inc."","Director","E. Lyle Cain,"Jr.","M.D."","Director","n/a","2014","Orthopedic Surgeon","n/a"
+"Oakworth Capital,"Inc."","Director","John McPherson","Director","n/a","2014","Executive Vice President,"CFO & Strategy Officer","Vulcan Materials Co."","n/a"
+```

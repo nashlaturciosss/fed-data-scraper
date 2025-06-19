@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants & Southern Banks of Florida,"Inc."","Fort Lauderdale,"Florida"","2014","Dennis R. O'Neil","common stock","25000","100%","1082469"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Chairman","O'Neil Management Services,"Inc."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Chairman","The First Gainesville Corporation","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Shareholder","Kill Kare,"Inc."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Shareholder","Nash Creek,"Inc."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Shareholder","Aurora Vineyards,"Inc."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Shareholder","Checkerboard Vineyards,"LLC."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Gator Village Apartments,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Pine Rush Apartments,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Shady Nook,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Summer Place Apartments,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Sunrise Apartments of Gainesville,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Sundowne Apartments,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Valley View,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Chairman/CEO","Dennis R. O'Neil","Partner","Woods Apartments,"Ltd."","2014","Businessman","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Director/President","G. Thomas Mallini","Managing Director","O'Neil Management Services,"Inc."","2014","Banker","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Director/President","G. Thomas Mallini","President","The First Gainesville Corporation","2014","Banker","1082469"
+"Merchants & Southern Banks of Florida,"Inc."","Director/President","G. Thomas Mallini","President","Southern Building Structures,"Inc."","2014","Banker","1082469"
+```

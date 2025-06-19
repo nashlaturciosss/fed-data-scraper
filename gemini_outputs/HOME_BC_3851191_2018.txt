@@ -1,0 +1,30 @@
+"Here are the two tables extracted from the document","in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","McLean,"VA","USA"","2018","FJ Capital Management,"LLC"","Common Stock","808619","8.5%","3851191"
+"Home Bancorp,"Inc."","Lafayette,"LA","USA"","2018","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","632438","6.7%","3851191"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Retired Partner","Broussard Poche' LLP","2018","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","John W. Bordelon","Managing Member","JSOMK Properties,"LLC"","2018","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Richard J. Bourgeois","n/a","n/a","2018","n/a","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","Mark M. Cole","Chairman and Managing Member","LabelB Investments,"LLC"","2018","Physician,"Self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Daniel G. Guidry","Owner","Don's Speacialty Meats","2018","Don's Speacialty Meats,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","John A. Hendry","Partner","Guidry & Guidry","2018","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","President","Judice & Adley,"PLC"","2018","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","President","MJMA,"LLC"","2018","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director & Chairman","Michael P. Maraist","n/a","n/a","2018","Investor in various companies","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Rader Solutions Ltd","2018","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","White Lake Cattle Co LLC","2018","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","RAK Holdings,"LLC"","2018","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Quantum Real Estate,"LLC"","2018","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Hardwear and Software LLC","2018","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Donald W. Washington","Partner","Jones Walker LLP","2018","Attorney,"Jones Walker LLP"","n/a"
+"Home Bancorp,"Inc."","n/a","Darren E. Guidry","n/a","n/a","2018","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","Scott A. Ridley","n/a","n/a","2018","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","Jason P. Freyou","n/a","n/a","2018","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","Joseph B. Zanco","n/a","n/a","2018","n/a","n/a"
+```

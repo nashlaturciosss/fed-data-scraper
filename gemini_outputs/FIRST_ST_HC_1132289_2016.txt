@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST STATE HOLDING CORP","Sulligent,"AL"","2016","Ted Boyett","Common Stock","12677","16.09%","1132289"
+"FIRST STATE HOLDING CORP","Jackson,"MS"","2016","Carol B. Hamm","Common Stock","10528","13.36%","1132289"
+"FIRST STATE HOLDING CORP","Sulligent,"AL"","2016","John F. Boyett","Common Stock","7802","9.90%","1132289"
+"FIRST STATE HOLDING CORP","Hamilton,"AL"","2016","Brent Boyett","Common Stock","6683","8.48%","1132289"
+"FIRST STATE HOLDING CORP","Kansas City,"MO"","2016","Patrick Boyett","Common Stock","6838","8.68%","1132289"
+"FIRST STATE HOLDING CORP","Sulligent,"AL"","2016","Ruth E. Boyett","Common Stock","7043","8.94%","1132289"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Holding Corp","Director & Chairman","Judge Ted Boyett","n/a","n/a","2016","Retired Judge","1132289"
+"First State Holding Corp","Director","Basel Mixon","n/a","n/a","2016","Retired Banker","1132289"
+"First State Holding Corp","Director/CEO","John F. Boyett","CEO","Kolding Corp","2016","Banker","1132289"
+"First State Holding Corp","Director","Kermit Minga","n/a","n/a","2016","Retired","1132289"
+"First State Holding Corp","Director","Jerry Williams","Branch Manager","Winfield First State Bank","2016","Banker","1132289"
+"First State Holding Corp","Director","Rita Grayson","n/a","n/a","2016","Retired","1132289"
+"First State Holding Corp","n/a","Carol 8. Hamm","n/a","n/a","2016","Housewife","1132289"
+"First State Holding Corp","Director","Ruth Boyett","n/a","n/a","2016","Retired","1132289"
+"First State Holding Corp","Director","Jim Northington","Co-owner","WEJ Owner of My Classic","2016","Trucking","1132289"
+"First State Holding Corp","Director Secretary/Treasurer","J. Scott Boman","President","First State Bank","2016","Banker","1132289"
+"First State Holding Corp","Director","Hugh Windle","n/a","n/a","2016","Retired","1132289"
+```

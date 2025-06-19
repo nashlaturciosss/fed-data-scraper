@@ -1,0 +1,22 @@
+"Okay","I can provide the requested data extraction in CSV format as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2019","Charles H. Gilbert","n/a","27419","9.555%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2019","Anne G. Barnes","n/a","27412","9.553%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2019","Bob D. Gilbert,"Jr."","n/a","17810","6.207%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2019","George M. Gilbert","n/a","22557","7.861%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LAFAYETTE BANKSHARES,"INC."","Director Chairman","B.D. Gilbert,"Jr."","n/a","None","2019","Banker","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director President","C.H. Gilbert","n/a","None","2019","Banker","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","C. B. Parker","n/a","Stiles Parker & Co.","2019","Insurance Agent","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","W. D. Cunningham","n/a","n/a","2019","Attorney","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","W. R. Loughridge","n/a","Loughridge Equipment","2019","Merchant","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","R. B. Forester","n/a","None","2019","Retired","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","H. N. Florence","n/a","Medi Thrift,"Inc."","2019","Pharmacist","944739"
+"LAFAYETTE BANKSHARES,"INC."","Director","B. R. Potts","n/a","Potts Brothers Land & Auction LLC","2019","Auctioneer","944739"
+"LAFAYETTE BANKSHARES,"INC."","Vice Pres./Secretary","J.S. Ingram","n/a","Hammond-Jones Hdw.","2019","Banker","944739"
+```

@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Financial Corp.","Savannah,"GA"","2022","Sylvan M. Byck,"Jr."","Common Stock","166771","5.6%","3075474"
+"FCB Financial Corp.","Savannah,"GA"","2022","Benny Curl","Common Stock","207291","7.0%","3075474"
+"FCB Financial Corp.","Savannah,"GA"","2022","Stephen S. Green","Common Stock","279517","9.4%","3075474"
+"FCB Financial Corp.","Savannah,"GA"","2022","Bobby Chu","Common Stock","293353","9.88%","3075474"
+"FCB Financial Corp.","Savannah,"GA"","2022","Donald A. Kole","Common Stock","164269","5.5%","3075474"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Financial Corp.","Director","Jack L. Forehand","n/a","n/a","2022","Retired","3075474"
+"FCB Financial Corp.","President & CEO","Ken Farrell","n/a","n/a","2022","n/a","3075474"
+"FCB Financial Corp.","Director,"Chairman of the Board"","Stephen S. Green","President","Stephen Green Properties,"Inc."","2022","President Stephen Green Properties,"Inc."","3075474"
+"FCB Financial Corp.","Director","Bobby Chu","President","Chu Construction","2022","President Chu Construction","3075474"
+"FCB Financial Corp.","Director","Benny Curl","n/a","n/a","2022","Retired","3075474"
+"FCB Financial Corp.","Director","Jim Lientz","n/a","n/a","2022","Retired","3075474"
+```

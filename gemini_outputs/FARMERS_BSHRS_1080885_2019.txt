@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2019","Kenneth S. Dowling","n/a","38.6369","17.23%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2019","Estate of W.E. Dowling – Family Trust – FBO Kenneth S. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","33.3015","14.85%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2019","Robert E. Dowling - Family Trust","n/a","28.5204","12.72%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2019","Estate of W.E. Dowling – Family Trust - FBO Robert E. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","27.0000","12.04%","n/a"
+"FARMERS BANCSHARES,"INC."","Dublin,"GA"","2019","Edward E. Morris","n/a","15.1796","6.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","n/a","Estate of W.E. Dowling Family Trust","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","n/a","Estate of W.E. Dowling Family Trust","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","n/a","Robert E. Dowling Family Trust","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director & CEO","Edward E. Morris","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Earl Merritt","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Brett Bowden","n/a","n/a","2019","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Kent Dowling Sumner","n/a","n/a","2019","None","n/a"
+```

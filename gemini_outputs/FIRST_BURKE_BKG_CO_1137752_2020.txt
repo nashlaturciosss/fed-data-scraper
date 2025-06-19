@@ -1,0 +1,28 @@
+"Here are the two tables extracted from the document in CSV format","as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BURKE BANKING COMPANY,"INC"","Waynesboro,"GA"","2020","J. C. Palmer,"III"","Common Stock","3665","35.70%","n/a"
+"FIRST BURKE BANKING COMPANY,"INC"","Newnan,"GA"","2020","Leigh O. Jackson","Common Stock","1935","18.85%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BURKE BANK COMPANY","Director","Roy F. Chalker,"Jr."","President","Chalker Publishing","2019","President Chalker Publishing","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","President","Collins Farms/ Truflame Gas Co.,"Inc."","2019","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","n/a","Collins Bonded Warehouse","2019","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","n/a","Collins Gin LLC","2019","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","n/a","Burke Farm Management Service","2019","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Dr. Shelley Griffin","Physician","Physician Medical Specialist","2019","Physician Medical Specialist","n/a"
+"FIRST BURKE BANK COMPANY","Director","H.C. Hopkins,"III"","n/a","Hopkins Farms","2019","Hopkins Farms President","n/a"
+"FIRST BURKE BANK COMPANY","Director","Alan W. Jackson","n/a","Glover & Davis P.A.","2019","Glover & Davis P.A. Partner","n/a"
+"FIRST BURKE BANK COMPANY","Director","Ashley Hammett","n/a","NA","2019","Business Owner - C & H Services","n/a"
+"FIRST BURKE BANK COMPANY","Director","J. C. Palmer,"IV"","n/a","Rock Creek Properties,"LLC"","2019","Loan Officer/","n/a"
+"FIRST BURKE BANK COMPANY","President/Director","J. C. Palmer,"III"","n/a","First Burke Banking Company","2019","President/Director First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","Director","Monica M Tinley","Secretary","NA","2019","AVP First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","Director","Johnny F. Christian","n/a","NA","2019","Doctor","n/a"
+"FIRST BURKE BANK COMPANY","Director","Matthew Jenkins","n/a","NA","2019","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","John Hardy","n/a","NA","2019","Business Owner - Hardy Plumbing","n/a"
+"FIRST BURKE BANK COMPANY","Director","Fredrick Stewart","n/a","NA","2019","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","Nan Palmer Lynch","n/a","NA","2019","Farmer Marketing/PR First National Bank","n/a"
+```

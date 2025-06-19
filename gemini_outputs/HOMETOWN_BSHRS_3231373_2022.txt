@@ -1,0 +1,24 @@
+"Here are the two CSV tables","following your specifications:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown Bancshares,"Inc."","Director","Charles Babb","n/a","n/a","2022","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Owner","Hulsey Logging","2022","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Harold Hulsey","Owner","Grand Trucking","2022","Hulsey Logging CEO","n/a"
+"Hometown Bancshares,"Inc."","Director","Johnny Mack Lawler","n/a","Guin & Parrish CPA","2022","Lawler & Cole,"CPA"","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","Big One Travel","2022","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Delmo Payne","n/a","1st Quality Homes","2022","Retired","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Max Ray Estate","n/a","n/a","2022","Deceased","n/a"
+"Hometown Bancshares,"Inc."","Former Director","Paul Ray Estate","n/a","n/a","2022","Deceased","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","Big One Travel","2022","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director","Gerald Terrell","n/a","1st Quality Homes","2022","Retired","n/a"
+"Hometown Bancshares,"Inc."","Director and President","Randy Whitehead","Chier Executive Offr","Peoples Trust Bank","2022","Peoples Trust Bank CEO","n/a"
+"Hometown Bancshares,"Inc."","Secretary","Rebecca Cummings","n/a","Peoples Trust Bank","2022","Peoples Trust Bank Chief Operations Officer","n/a"
+"Hometown Bancshares,"Inc."","Director","Eric Poe","n/a","Peoples Trust Bank","2022","Peoples Trust Bank Senior Loan Officer","n/a"
+"Hometown Bancshares,"Inc."","Director","Keith Brumley","n/a","Marion County","2022","Peoples Trust Bank Senior Loan Officer","n/a"
+"Hometown Bancshares,"Inc."","Director","Keith Brumley","n/a","Board of Education","2022","Peoples Trust Bank Senior Loan Officer","n/a"
+```

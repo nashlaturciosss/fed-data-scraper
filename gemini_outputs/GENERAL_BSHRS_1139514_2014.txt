@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2014","Geoffrey Post (voting member)","Employee Stock Ownership Plan","9731","12.26%","1239514"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2014","Clara Brown","n/a","5523.25","6.96%","1239514"
+"General Bancshares,"Inc."","Monteagle,"Tennessee"","2014","Robert R. Thomas","n/a","11819.50","12.04%","1239514"
+"General Bancshares,"Inc."","South Pittsburg,"Tennessee"","2014","Geoffrey Post","n/a","7592","7.11%","1239514"
+"General Bancshares,"Inc."","Signal Mountain,"Tennessee"","2014","Robert Reece Thomas,"Jr."","n/a","6493","8.18%","1239514"
+"General Bancshares,"Inc."","South Pittsburg,"Tennessee"","2014","David Thomas","n/a","5539","6.98%","1239514"
+"General Bancshares,"Inc."","Nashville,"Tennessee"","2014","William & Carolyn Shofner","n/a","4168","5.25%","1239514"
+"General Bancshares,"Inc."","Whitwell,"Tennessee"","2014","Howard & Nancy Rigsby","n/a","6986","8.80%","1239514"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"General Bancshares,"Inc."","Chairman","Robert R. Thomas","n/a","n/a","2014","Retired","n/a"
+"General Bancshares,"Inc."","n/a","Susan Thomas","n/a","n/a","2014","Retired","n/a"
+"General Bancshares,"Inc."","Vice President","Robert Reece Thomas,"Jr."","n/a","Sequatchie Concrete Services,"Inc."","2014","Manufacturing","n/a"
+"General Bancshares,"Inc."","President","David Thomas","n/a","Sequatchie Concrete Services,"Inc."","2014","Manufacturing","n/a"
+"General Bancshares,"Inc."","n/a","Frank Rogers Thomas","n/a","Sequatchie Concrete Services,"Inc."","2014","Retired","n/a"
+"General Bancshares,"Inc."","Board Member/Secretary","Henry Lodge","Officer of Lodge","Manufacturing","2014","Manufacturing","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post","President/CEO","n/a","2014","Banking","n/a"
+"General Bancshares,"Inc."","Board Member","Jerry Don Thomas","Owner","First Community Financial,"Inc."","2014","Mortgage Broker","n/a"
+"General Bancshares,"Inc."","Board Member","Gregory P. Luna","n/a","Housholder Artman,"PLLC"","2014","Accountant","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post (voting member)","President/CEO","n/a","2014","Banking","n/a"
+```

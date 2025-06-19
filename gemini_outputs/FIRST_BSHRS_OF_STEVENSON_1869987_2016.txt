@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Nokomis,"FL"","2016","Walter Russell Bogart III","Common","12976","7.89%","1869987"
+"First Bancshares of Stevenson,"Inc."","Stevenson,"AL"","2016","Carolyn Hall","Common","12456","7.57%","1869987"
+"First Bancshares of Stevenson,"Inc."","Newnan,"GA"","2016","Holbert & Julia Hale","Common","12347","7.50%","1869987"
+"First Bancshares of Stevenson,"Inc."","Scottsboro,"AL"","2016","Jack B Lovelady","Common","12000","7.29%","1869987"
+"First Bancshares of Stevenson,"Inc."","Hollywood,"AL"","2016","Dorothy Williams Trust","Common","10000","6.08%","1869987"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Director Pres/CEO","Mike Ellenburg","n/a","n/a","2016","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director Chairman","Carolyn Hall","n/a","n/a","2016","Sales Rep.","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","John E. Rudder","President","Rudder Funeral Home","2016","Funeral Director","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Bryan Hicks","n/a","n/a","2016","Pharmacist","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Randy Wright","n/a","n/a","2016","Farmer","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Tommy Harding","President","Harding Insurance","2016","Insurance","1869987"
+"First Bancshares of Stevenson,"Inc."","Director Secretary","Jack Lovelady","n/a","n/a","2016","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director SVP","Jack Lovelady","n/a","n/a","2016","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Danny Crownover","n/a","n/a","2016","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director SVP","Danny Crownover","n/a","n/a","2016","Banker","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Ralph Hall","n/a","n/a","2016","Retired","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Lindsey Brothers","2016","State Representative","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Morton Bend Farms LLC","2016","State Representative","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Coosa River Land Co.","2016","State Representative","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Osceola Farms LLC","2016","State Representative","1869987"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","Partner","Kershaw Quarters LLC","2016","State Representative","1869987"
+```

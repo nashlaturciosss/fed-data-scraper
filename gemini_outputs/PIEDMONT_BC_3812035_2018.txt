@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Piedmont Bancorp,"Inc."","n/a","2018","Monty Watson","n/a","2412890","66.54%","3812035"
+"Piedmont Bancorp,"Inc."","n/a","2018","William Paul Black,"Jr."","n/a","655337","18.06%","3812035"
+"Piedmont Bancorp,"Inc."","n/a","2018","John Howard Cushing,"III"","n/a","653173","17.99%","3812035"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Director/Chairman and CEO","Monty Watson","n/a","n/a","2018","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Director","William Paul Black,"Jr."","n/a","n/a","2018","n/a","3812035"
+"Piedmont Bancorp,"Inc."","Director","John Howard Cushing,"III"","n/a","n/a","2018","n/a","3812035"
+```

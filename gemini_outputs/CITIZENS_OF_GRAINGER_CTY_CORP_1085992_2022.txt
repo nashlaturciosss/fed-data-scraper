@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2022","J. George Shirley","n/a","6836","16.40%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2022","Steve Beets","n/a","5349","12.85%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2022","Jared Corum","n/a","2375","5.70%","n/a"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2022","Citizens of Grainger County Employee Stock Ownership Plan and Trust","n/a","8636","20.74%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens of Grainger County Corporation","Chairman and Director","J. George Shirley","n/a","n/a","2022","n/a","n/a"
+"Citizens of Grainger County Corporation","President & CEO","Steve Beets","n/a","n/a","2022","n/a","n/a"
+"Citizens of Grainger County Corporation","COO","Jared Corum","n/a","n/a","2022","n/a","n/a"
+"Citizens of Grainger County Corporation","Chief Financial Officer","Amanda Dalton","n/a","n/a","2022","n/a","n/a"
+"Citizens of Grainger County Corporation","VP of Retail & Marketing","Ashley Winstead","n/a","n/a","2022","n/a","n/a"
+```

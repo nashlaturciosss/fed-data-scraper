@@ -1,0 +1,24 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2015","Hue Counts","Common Stock","28217","16.93%","3711857"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2015","Charles E. Gleghorn","Common Stock","34317","20.59%","3711857"
+"North Alabama Bancshares,"Inc."","Murfreesboro,"TN"","2015","Joe B Ferrell","Common Stock","12859","7.72%","3711857"
+"North Alabama Bancshares,"Inc."","Mulberry,"TN"","2015","James B Ferrell","Common Stock","12858","7.72%","3711857"
+"North Alabama Bancshares,"Inc."","Hazel Green,"AL"","2015","Estate of Joe L Lasater","Common Stock","10834","6.50%","3711857"
+"North Alabama Bancshares,"Inc."","New Market,"AL"","2015","Roger E Jones","Common Stock","11084","6.65%","3711857"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","n/a","TN Valley Reinsurance","2015","Banker","3711857"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","n/a","WCS Corporation","2015","Banker","3711857"
+"North Alabama Bancshares,"Inc."","Director","Hue Counts","n/a","n/a","2015","n/a","3711857"
+"North Alabama Bancshares,"Inc."","Director","Terry West","n/a","n/a","2015","Banker","3711857"
+"North Alabama Bancshares,"Inc."","Director","Roger Jones","Commissioner","n/a","2015","Commissioner","3711857"
+"North Alabama Bancshares,"Inc."","Director","Joe L Lasater,"Jr"","Farmer","n/a","2015","Farmer","3711857"
+"North Alabama Bancshares,"Inc."","Shareholder","Estate of Joe Lee Lasater","n/a","n/a","2015","n/a","3711857"
+"North Alabama Bancshares,"Inc."","Shareholder","Joe B Ferrell","n/a","n/a","2015","n/a","3711857"
+"North Alabama Bancshares,"Inc."","Shareholder","James B Ferrell","n/a","n/a","2015","n/a","3711857"
+```

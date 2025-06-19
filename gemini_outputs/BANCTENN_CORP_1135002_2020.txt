@@ -1,19 +1,23 @@
 ```csv
 SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BANCTENN CORP","Elizabethton","2020","William B. Greene,"Jr."","Common Stock","1807187","71.17"
-"BANCTENN CORP","Kingsport","2020","Valerie G. Ketron","Common Stock","213687","8.42"
-"BANCTENN CORP","Elizabethton","2020","Rebecca Greene","Common Stock","277906","10.94"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancTenn Corp","Elizabethton,"TN"","2020","William B. Greene,"Jr."","common stock","1807187","71.17","n/a"
+"BancTenn Corp","Kingsport,"TN"","2020","Valerie G. Ketron","common stock","213687","8.42","n/a"
+"BancTenn Corp","Elizabethton,"TN"","2020","Rebecca Greene","common stock","277906","10.94","n/a"
 ```
 ```csv
 INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BANCTENN CORP","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Chairman of the Bank of Tennessee Board of Directors","Huntington Hills,"WBG Aviation","LLC"","2020"
-"BANCTENN CORP","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director of Bank of Tennessee","Strategic Resources Group,"Inc.","Aviation Strategies Group","Inc. and Tanasi Oil & Gas","Inc.; General Partner of GREE-SEE Technology","GP"","2020"
-"BANCTENN CORP","Director of the Company","Kenneth H. Maness","Director of Bank of Tennessee","n/a","2020"
-"BANCTENN CORP","Vice-President and Director of the Company","James W. Holmes","Director of Bank of Tennessee","n/a","2020"
-"BANCTENN CORP","Director of the Company","William R. Barrett","Director and COO of Bank of Tennessee","n/a","2020"
-"BANCTENN CORP","Director of the Company","Raymond Dale Fair","Director,"President and CEO of Bank of Tennessee"","n/a","2020"
-"BANCTENN CORP","Director of the Company","Nell King Bieger","Director of Bank of Tennessee","Jones,"King","Downs & Peel","P.C."","2020"
-"BANCTENN CORP","CFO of the Company","Darla M. Scott","EVP and CFO of Bank of Tennessee","n/a","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","President","Huntington Hills","2020","n/a","n/a"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","President","WBG Aviation,"LLC"","2020","n/a","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","President","Strategic Resources Group,"Inc."","2020","President of Strategic Resources Group,"Inc.","Tanasi Oil & Gas","Inc.","and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","President","Aviation Strategies Group,"Inc."","2020","President of Strategic Resources Group,"Inc.","Tanasi Oil & Gas","Inc.","and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","President","Tanasi Oil & Gas,"Inc."","2020","President of Strategic Resources Group,"Inc.","Tanasi Oil & Gas","Inc.","and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","General Partner","GREE-SEE Technology,"GP"","2020","President of Strategic Resources Group,"Inc.","Tanasi Oil & Gas","Inc.","and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Director of the Company","Kenneth H. Maness","n/a","n/a","2020","Investor/Consultant","n/a"
+"BancTenn Corp","Vice-President and Director of the Company","James W. Holmes","n/a","n/a","2020","Retired","n/a"
+"BancTenn Corp","Director of the Company","William R. Barrett","n/a","n/a","2020","n/a","n/a"
+"BancTenn Corp","Director of the Company","Raymond Dale Fair","n/a","n/a","2020","n/a","n/a"
+"BancTenn Corp","Director of the Company","Nell King Bieger","President","Jones,"King","Downs & Peel","P.C."","2020","Attorney","n/a"
+"BancTenn Corp","CFO of the Company","Darla M. Scott","n/a","n/a","2020","n/a","n/a"
 ```

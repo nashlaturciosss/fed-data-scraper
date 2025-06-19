@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Bancshares,"Inc."","Lake Park,"GA"","2015","Larry Carter","Common Stock","16,"856"","5.03%","n/a"
+"FMB Bancshares,"Inc."","Lakeland,"GA"","2015","Larry Lee","Common Stock","29,"309"","8.74%","n/a"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2015","Larry Rodgers","Common Stock","17,"000"","5.07%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","Director/President & CEO","Farmers and Merchants Bank","2015","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","Owner","Heritage Builders Supply","2015","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","George Lee","Chairman","Farmers and Merchants Bank","2015","Pharmacist","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Director","Farmers and Merchants Bank","2015","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Co-Owner","Lutz,"Brown","Peagler & Manley"","2015","Insurance Broker","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","Director","Farmers and Merchants Bank","2015","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","President","Lee Container Corp.","2015","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Director","Farmers and Merchants Bank","2015","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Director","Farmers and Merchants Bank","2015","Farmer / Owner","n/a"
+```

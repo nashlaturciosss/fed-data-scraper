@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","St Petersburg,"FL"","2021","Raymond James (Spence Limited,"LP owns 274","108 or 9.4%","held at Raymond James)"","n/a","366429","12.61%","n/a"
+"InsCorp,"Inc."","St Louis,"MO","USA"","2021","Wells Fargo Clearing (holds multiple shareholders,"none of which holds more than 5%)"","n/a","168180","5.8%","n/a"
+"InsCorp,"Inc."","Jersey City,"NJ","USA"","2021","Jefferies,"LLC (holds multiple shareholders","none of which holds more than 5%)"","n/a","151627","5.2%","n/a"
+"InsCorp,"Inc."","Jersey City,"NJ","USA"","2021","NFS LLC (holds multiple shareholders,"none of which holds more than 5%)"","n/a","148504","5.1%","n/a"
+"InsCorp,"Inc."","New York,"NY","USA"","2021","Citigroup Global Markets (which held EJF Sidecar Fund Series LLC)","n/a","n/a","9%","n/a"
+"InsCorp,"Inc."","New York,"NY","USA"","2021","Citigroup Global Markets (which held EJF Sidecar Fund Series LLC)","n/a","n/a","0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","CFO,"Director"","W. Page Barnes","n/a","n/a","2021","Healthcare","n/a"
+"InsCorp,"Inc."","Executive Vice President,"Director"","David P. Crabtree","n/a","Brookside Properties,"Inc."","2021","Real Estate Development","n/a"
+"InsCorp,"Inc."","Portfolio Manager,"Director"","Russell Echlov","n/a","Concept Technology","2021","Equity & Investments","n/a"
+"InsCorp,"Inc."","n/a,"Director"","James Fields","n/a","n/a","2021","Information Technology","n/a"
+"InsCorp,"Inc."","Insurance,"Director"","Richard Hollis","President","Hollis & Burns,"Inc."","2021","Insurance","n/a"
+"InsCorp,"Inc."","Insurance,"Director"","Richard Hollis","n/a","Hollis & Burns LLC","2021","Insurance","n/a"
+"InsCorp,"Inc."","Attorney,"Director"","Stacey Garrett Koju","n/a","n/a","2021","Attorney","n/a"
+"InsCorp,"Inc."","Insurance,"Director"","C. Louis Patten,"Jr."","n/a","n/a","2021","n/a","n/a"
+"InsCorp,"Inc."","Officer - Secretary,"Director"","Dennis Petty","n/a","Dennis W. Petty,"CPA"","2021","CPA","n/a"
+"InsCorp,"Inc."","Chairman,"Director"","Michael A. Qualls","n/a","n/a","2021","Banking","n/a"
+"InsCorp,"Inc."","President/CEO,"Director"","James H. Rieniets,"Jr."","Member","Gracious Henry Properties,"LLC"","2021","Banking","n/a"
+"InsCorp,"Inc."","n/a,"Director"","Charles Tagman,"Jr."","n/a","Risko Group,"LLC"","2021","Consulting","n/a"
+"InsCorp,"Inc."","n/a,"Director"","Philip R. Zanone,"Jr."","n/a","Green River Properties","2021","Investments","n/a"
+"InsCorp,"Inc."","n/a,"Director"","Philip R. Zanone,"Jr."","n/a","MPC Properties","2021","Investments","n/a"
+```

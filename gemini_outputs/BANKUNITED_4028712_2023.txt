@@ -1,25 +1,31 @@
+Here are the two CSV tables generated according to your instructions:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BankUnited,"Inc."","New York","2023","BlackRock Inc.","n/a","10802312","14.5%"
-"BankUnited,"Inc."","Malvern","2023","The Vanguard Group","n/a","9202637","12.4%"
-"BankUnited,"Inc."","Malvern","2023","T. Rowe Price Associates,"Inc."","n/a","7423083","10.0%"
-"BankUnited,"Inc."","Boston","2023","State Street","n/a","4592209","6.2%"
-"BankUnited,"Inc."","Austin","2023","Dimensional Fund Advisors","n/a","4756263","6.4%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BankUnited,"Inc."","New York,"NY"","2023","BlackRock Inc.","n/a","10802312","14.5%","n/a"
+"BankUnited,"Inc."","Malvern,"PA"","2023","The Vanguard Group","n/a","9202637","12.4%","n/a"
+"BankUnited,"Inc."","Malvern,"PA"","2023","T. Rowe Price Associates,"Inc."","n/a","7423083","10.0%","n/a"
+"BankUnited,"Inc."","Boston,"MA"","2023","State Street","n/a","4592209","6.2%","n/a"
+"BankUnited,"Inc."","Austin,"TX"","2023","Dimensional Fund Advisors","n/a","4756263","6.4%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bankunited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","None","n/a","2023"
-"Bankunited,"Inc."","Director","Leslie N. Lunak","Chief Financial Officer,"BankUnited","N.A."","n/a","2023"
-"Bankunited,"Inc."","Chief Financial Officer","Thomas M. Cornish","Director and Treasurer: Pinnacle Public Finance,"Inc."","Bridge Funding Group,"Inc"","2023"
-"Bankunited,"Inc."","Director","Tere Blanca","Chairman and CEO,"Blanca Commercial Real Estate"","n/a","2023"
-"Bankunited,"Inc."","Director","John N. DiGiacomo","Owner,"Placid Times Photography","LLC"","n/a","2023"
-"Bankunited,"Inc."","Director","Michael Dowling","CEO,"President and Trustee Northwell Health"","n/a","2023"
-"Bankunited,"Inc."","Director","Douglas J. Pauls","Director,"Essent Group"","n/a","2023"
-"Bankunited,"Inc."","Director","The Honorable A. Gail Prudenti (ret)","Director,"The Global Atlantic Financial Group","LLC"","n/a","2023"
-"Bankunited,"Inc."","Director","William S. Rubenstein,"Esq."","None","n/a","2023"
-"Bankunited,"Inc."","Director","Germaine Smith Baugh","President & CEO,"the Urban League of Broward County","FL"","n/a","2023"
-"Bankunited,"Inc."","Director","Sanjiv Sobti,"Ph.D."","Director,","n/a","2023"
-"Bankunited,"Inc."","Director","Lynne Wines","None","n/a","2023"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BankUnited,"Inc."","Chairman,"President & CEO Director"","Rajinder P. Singh","None","n/a","2023","n/a","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Leslie N. Lunak","Chief Financial Officer","Pinnacle Public Finance,"Inc."","2023","Director","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Leslie N. Lunak","Chief Financial Officer","Bridge Funding Group,"Inc."","2023","Director","3938186"
+"BankUnited,"Inc."","Chief Financial Officer,"BankUnited","N.A."","Thomas M. Cornish","Director","BU Delaware,"Inc."","2023","Chief Operating Officer","3938186"
+"BankUnited,"Inc."","Chief Financial Officer,"BankUnited","N.A."","Thomas M. Cornish","Treasurer","Pinnacle Public Finance,"Inc."","2023","Chief Operating Officer","3938186"
+"BankUnited,"Inc."","Chief Financial Officer,"BankUnited","N.A."","Thomas M. Cornish","Treasurer","Bridge Funding Group,"Inc."","2023","Chief Operating Officer","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Tere Blanca","Chairman and CEO","Blanca Commercial Real Estate","2023","Commercial Real Estate","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","John N. DiGiacomo","Owner","Placid Times Photography,"LLC"","2023","Retired,"North Fork Bank"","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Michael Dowling","CEO,"President and Trustee"","Northwell Health","2023","Health Care Executive","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Douglas J. Pauls","Director","Essent Group","2023","Retired Chief Financial Officer","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","The Honorable A. Gail Prudenti (ret)","n/a","n/a","2023","Dean,"Hofstra Univ School of Law"","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","William S. Rubenstein,"Esq."","n/a","n/a","2023","Retired Partner,"Skadden Arps"","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Germaine Smith Baugh","President & CEO","the Urban League of Broward County,"FL"","2023","Executive,"Non-Profit"","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Sanjiv Sobti,"Ph.D."","n/a","Janak Services Corp.","2023","Former Investment Banker","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Sanjiv Sobti,"Ph.D."","n/a","VSNAP LLC","2023","Former Investment Banker","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Sanjiv Sobti,"Ph.D."","n/a","VSNAPI,"LLC"","2023","Former Investment Banker","3938186"
+"BankUnited,"Inc."","Director,"BankUnited","N.A."","Lynne Wines","n/a","n/a","2023","Retired Bank President & CEO","3938186"
 ```

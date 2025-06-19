@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Haven Capital Corporation","Brookhaven,"MS"","2017","William D. Sones","Common Stock","36852","8.51%","n/a"
+"Haven Capital Corporation","Brookhaven,"MS"","2017","Carl Aycock","Common Stock","24000","5.54%","n/a"
+"Haven Capital Corporation","Brookhaven,"MS"","2017","Linda P. Ebbers","Common Stock","39850","9.20%","n/a"
+"Haven Capital Corporation","Brookhaven,"MS"","2017","G. Dale Smith","Common Stock","40750","9.41%","n/a"
+"Haven Capital Corporation","Brookhaven,"MS"","2017","Verna Smith","Common Stock","27000","6.23%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Haven Capital Corporation","Chairman/CEO/Director","William D. Sones","CEO/Director","n/a","2017","n/a","2877831"
+"Haven Capital Corporation","President/Director","Shannon E. Aker","President","n/a","2017","n/a","2877831"
+"Haven Capital Corporation","Secretary/Director","Robert C. Massengill,"II"","Executive Vice President/CFO","Scrub-A-Dub,"Inc."","2017","n/a","2877831"
+"Haven Capital Corporation","Director","Carl Aycock","Director","Pathway Planning","2017","Investor","2877831"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Covenant Resources","2017","Investor","2877831"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Ample Properties,"LLC"","2017","Investor","2877831"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Danny Dunnaway,"LLC"","2017","Investor","2877831"
+"Haven Capital Corporation","Director","Danny M. Dunnaway","Director","Brookhaven Coin,"LLC"","2017","Investor","2877831"
+"Haven Capital Corporation","Director","George P. Hennington","Director","n/a","2017","Retired Retail","2877831"
+"Haven Capital Corporation","Director","G. Dale Smith","Director","Greenbriar Digging Services,"Inc."","2017","Construction","2877831"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","Oddee Smith Construction","2017","Construction","2877831"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","Oddee Smith & Sons,"Inc."","2017","Construction","2877831"
+"Haven Capital Corporation","Director","J. Ronny Smith","Director","PRJ,"Investments","LLC"","2017","Construction","2877831"
+"Haven Capital Corporation","Director","Dan T. Keel","Director","n/a","2017","Retired Physician","2877831"
+"Haven Capital Corporation","Vice-Chairman/Director","Robert V. Massengill","Director","Consulting Solutions,"Inc"","2017","Consultant","2877831"
+"Haven Capital Corporation","Director","Steve Mills","Physician","Brookhaven OB/GYN Associates,"P.A."","2017","Physician","2877831"
+"Haven Capital Corporation","Director","Steve Mills","Physician","Gloster Creek Village,"LLC"","2017","Physician","2877831"
+"Haven Capital Corporation","Director","Steve Mills","Physician","J&J Productions,"LLC"","2017","Physician","2877831"
+"Haven Capital Corporation","Director","Steve Mills","Physician","MSRG Properties,"LLC"","2017","Physician","2877831"
+"Haven Capital Corporation","Director","Steve Mills","Physician","Mississippi Staff Healing,"LLC"","2017","Physician","2877831"
+"Haven Capital Corporation","Director","Ryan Holmes","Vice President","Dungan Engineering","2017","Engineer","2877831"
+```

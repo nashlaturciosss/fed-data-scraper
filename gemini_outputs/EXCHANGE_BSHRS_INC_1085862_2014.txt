@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2014","William D. Morrison,"Jr."","n/a","45456","7%","n/a"
+"Exchange Bankshares,"Inc."","New York,"NY"","2014","CEDE & Co.","n/a","53264","8.25%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2014","Morrison Family Partnership LP","n/a","89080","13.72%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Contractor","Allen Construction Co.","2014","Contractor","n/a"
+"Exchange Bankshares,"Inc."","n/a","CEDE & CO.","n/a","n/a","2014","N/A","n/a"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","Funeral Director","Moores Funeral Home","2014","Funeral Director and Cemeterian","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. Thomas L. Davidson,"Jr."","Dentist","Dr. Thomas L. Davidson,"Jr. DDS","PC"","2014","Dentist","n/a"
+"Exchange Bankshares,"Inc."","Director","John W. Grant,"III"","Jeweler","J. C. Grant Co.","2014","Georgia College Director of Community Engagement","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. John F. Harrington,"Jr."","Dentist","Dr. John F. Harrington,"Jr. DDS","PC"","2014","Dentist","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. J. Wesley King,"Jr."","Physician","Oconee Medical Associates","2014","Physician","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Retail Merchant","Baynes Army Store","2014","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Retail Merchant","B&N Investments","2014","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Retail Merchant","BNS Properties","2014","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","President/CEO,"Director"","Henry J. Pope,"Jr."","President/CEO","Exchange Bank","2014","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","n/a","2014","Physician","n/a"
+"Exchange Bankshares,"Inc."","Secretary","Arthur T. Gunn","n/a","n/a","2014","Retired from Exchange Bank","n/a"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2014","Retired BASF","n/a"
+"Exchange Bankshares,"Inc."","n/a","Morrison Family Partnership LP","n/a","n/a","2014","N/A","n/a"
+"Exchange Bankshares,"Inc."","n/a","William D. Morrison,"Jr."","n/a","n/a","2014","N/A","n/a"
+```

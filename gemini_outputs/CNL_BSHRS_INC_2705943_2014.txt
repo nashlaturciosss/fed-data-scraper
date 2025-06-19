@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNLBancshares,"Inc."","Winter Park,"FL"","2014","James Seneff Jr","Voting Common Stock","5912941","30.54%","n/a"
+"CNLBancshares,"Inc."","Winter Park,"FL"","2014","James Seneff Jr","Options on Common Stock","167500","0%","n/a"
+"CNLBancshares,"Inc."","Winter Park,"FL"","2014","Robert Bourne","Voting Common Stock","1211468","6.26%","n/a"
+"CNLBancshares,"Inc."","Winter Park,"FL"","2014","Robert Bourne","Options on Common Stock","55000","0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNLBancshares,"Inc."","Chairman of the Board,"Vice Chairman"","James M. Seneff,"Jr."","Executive Chairman","CNL Financial Group,"Inc"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director,"CNLBank"","Robert A. Bourne","Chairman & Chief Executive Officer","Bourne Financial Group,"LLC"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","President","Lee E. Hanna","President","KGI Capital,"Inc"","2014","n/a","n/a"
+"CNLBancshares,"Inc."","Chief Financial Officer","Chirag J. Bhavsar","Chief Financial Officer","CNLBank","2014","n/a","n/a"
+"CNLBancshares,"Inc."","Executive Vice President","Rafael E. Martinez","Managing Partner","McEwan,"Martinez & Dukes","PA"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","Dianna F Morgan","Partner","McEwan,"Martinez & Dukes","PA"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director,"CNLBank"","Charles W. Newman","Chairman","n/a","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","John D. Race","n/a","DePrince,"Race & Zollo","Inc."","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director,"CNLBank"","Tracy G. Schmidt","Chief Financial Officer","DePrince,"Race & Zollo","inc"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","MayPort Venture Partners LLC","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","MayPort Ventura Partners LLC","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","Contender Management,"Inc."","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","Contender Investments,"LP"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","Viking Strategic Investment Management,"LLC"","2014","Business Executive","n/a"
+"CNLBancshares,"Inc."","Director","C. Daniel Rice","President & CEO","Clemson Investments,"LLC"","2014","Business Executive","n/a"
+```

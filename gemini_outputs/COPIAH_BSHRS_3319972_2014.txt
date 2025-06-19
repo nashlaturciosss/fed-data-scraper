@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Copiah Bancshares,"Inc."","Madison,"Mississippi"","2014","Blythe B. & Gwendolyn B. Cragon","Common Stock","48508","12.91%","3319972"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Copiah Bancshares,"Inc."","Chairman/Pres./CEO","George R. Marx","President","Copiah Bank","2014","n/a","3319972"
+"Copiah Bancshares,"Inc."","Vice-Pres./ Secretary/ Treasurer/ Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc"","2014","n/a","3319972"
+"Copiah Bancshares,"Inc."","Vice-Pres./ Secretary/ Treasurer/ Director","Alford M. Cooley","Partner","Alco Farms","2014","n/a","3319972"
+"Copiah Bancshares,"Inc."","Director","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2014","Businessman","3319972"
+"Copiah Bancshares,"Inc."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2014","Banker","3319972"
+"Copiah Bancshares,"Inc."","Director","James W. Henley","Attorney","Henley,"Lotterhos & Henley"","2014","Attorney","3319972"
+"Copiah Bancshares,"Inc."","Director","Carolyn C. Loftin","Executive","Follow One International,"Inc."","2014","Businesswoman","3319972"
+"Copiah Bancshares,"Inc."","Director","Jeffery T. Knight","Principle","Williford Gearhart & Knight Inc.","2014","Engineer","3319972"
+"Copiah Bancshares,"Inc."","Director","Jeffery T. Knight","Partner","WGK Leasing,"Inc."","2014","Engineer","3319972"
+"Copiah Bancshares,"Inc."","Director","Jeffery T. Knight","Partner","Wolf Hollow Development","2014","Engineer","3319972"
+"Copiah Bancshares,"Inc."","Director","Jeffery T. Knight","Partner","Community Property Development","2014","Engineer","3319972"
+"Copiah Bancshares,"Inc."","Director","Victor L. Smith","Senior Vice-Pres.","Missco Corp.","2014","Businessman","3319972"
+"Copiah Bancshares,"Inc."","Director","Donald R. Thompson","Former Executive Director","MS Dept. of Human Services","2014","Businessman","3319972"
+"Copiah Bancshares,"Inc."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2014","Businessman","3319972"
+"Copiah Bancshares,"Inc."","Director","Guy E. Evans","Insurance Executive","Eastover Insurance Agency","2014","Businessman","3319972"
+"Copiah Bancshares,"Inc."","n/a","Blythe B. & Gwendolyn B. Cragon","n/a","n/a","2014","Business Consultant","3319972"
+```

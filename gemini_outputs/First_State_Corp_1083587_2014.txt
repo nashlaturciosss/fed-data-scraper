@@ -1,0 +1,32 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Corporation","Gautier,"MS"","2014","John C. Arledge,"III"","n/a","10337","7.63%","n/a"
+"First State Corporation","Waynesboro,"MS"","2014","Ben C. Daws","n/a","10171","7.51%","n/a"
+"First State Corporation","Waynesboro,"MS"","2014","T.O. Kelley,"Jr."","n/a","7141","5.27%","n/a"
+"First State Corporation","Waynesboro,"MS"","2014","Ken Rhinehart","n/a","8900","6.57%","n/a"
+"First State Corporation","Waynesboro,"MS"","2014","Eric Giles","n/a","7936","5.86%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Corporation","Director","John C. Arledge,"III"","n/a","n/a","2014","n/a","n/a"
+"First State Corporation","Director","Redell Bonner","n/a","Bonner & Associates,"CPA"","2014","n/a","n/a"
+"First State Corporation","Director & Chairman","Joel C. Clements","President/CEO of First State Bank","n/a","2014","n/a","n/a"
+"First State Corporation","Director & Secretary/ Treasurer","James F. Cooley","n/a","Pizza Inn of Waynesboro","2014","n/a","n/a"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Oil","2014","n/a","n/a"
+"First State Corporation","Director","Ben C. Daws","n/a","Southeastern Producing","2014","n/a","n/a"
+"First State Corporation","Director","Ernest W. Joiner","n/a","Joiner-Sigler Insurance Agency","2014","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Industries","2014","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelley Holding Co.","2014","n/a","n/a"
+"First State Corporation","Director","T. O. Kelley,"Jr."","n/a","Kelwood Products","2014","n/a","n/a"
+"First State Corporation","Director","Kenneth F. Rhinehart","n/a","n/a","2014","n/a","n/a"
+"First State Corporation","Director","B. B. Rounsaville","n/a","n/a","2014","n/a","n/a"
+"First State Corporation","Director","James Gary Sigler","n/a","Ozmus,"LP"","2014","n/a","n/a"
+"First State Corporation","Director","Ennis King","n/a","n/a","2014","n/a","n/a"
+"First State Corporation","Director","Eric Giles","Vice President-Operations","n/a","2014","n/a","n/a"
+"First State Corporation","Vice President","Byron Jordan","Community Bank Pres./ EVP Lending","n/a","2014","n/a","n/a"
+"First State Corporation","Vice President","Allen Hodo","CFO/EVP Operations","n/a","2014","n/a","n/a"
+"First State Corporation","Vice President","Sharon Beard","EVP/Compliance and Loan Operations","n/a","2014","n/a","n/a"
+```

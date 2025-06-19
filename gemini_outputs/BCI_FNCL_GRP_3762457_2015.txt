@@ -1,15 +1,16 @@
-Here are the tables in CSV format:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BCI FINANCIAL GROUP,"INC."","Santiago","2015","Banco de Credito e Inversiones","Common Stock","927345444","100%"
-"BCI FINANCIAL GROUP,"INC."","Madrid","2015","Bankia Inversiones Financieras S.A.U.","Common Stock","927345444","100%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BCI FINANCIAL GROUP,"INC."","Santiago,"Chile"","2015","Banco de Credito e Inversiones","common stock","927345444","100%","n/a"
+"BCI FINANCIAL GROUP,"INC."","Madrid,"Spain"","2015","Bankia Inversiones Financieras S.A.U.","common stock","927345444","100%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","n/a","City National Bank","2015"
-"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Eugenio Von Chrismar","n/a","City National Bank","2015"
-"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Maria Grisel Vega","n/a","City National Bank","2015"
-"BCI FINANCIAL GROUP,"INC."","Secretary","S. Marshall Martin","n/a","Ridgemark Holdings LLC","2015"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITY NATIONAL BANK OF FLORIDA","Manager/Director","Jorge Gonzalez","President & CEO","City National Bank of Florida","2015","President & CEO,"City National Bank of Florida"","3762457"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Eugenio Von Chrismar","CEO","Banco de Credito e Inversiones","2015","CEO - Banco de Credito e Inversiones","n/a"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Maria Grisel Vega","General Manager","Bci Miami Branch","2015","General Manager - Bci Miami Branch","n/a"
+"CITY NATIONAL BANK OF FLORIDA","Secretary","S. Marshall Martin","Enterprise Risk Executive & Co-General Counsel","City National Bank of Florida","2015","Enterprise Risk Executive & Co-General Counsel - City National Bank of Florida","n/a"
+"CITY NATIONAL BANK OF FLORIDA","n/a","S. Marshall Martin","n/a","Ridgemark Holdings LLC","2015","Enterprise Risk Executive & Co-General Counsel - City National Bank of Florida","n/a"
+"CITY NATIONAL BANK OF FLORIDA","n/a","S. Marshall Martin","n/a","Ridgemark One LLC","2015","Enterprise Risk Executive & Co-General Counsel - City National Bank of Florida","n/a"
 ```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","New York,"NY"","2020","Yaowu Zhang","Common Stock","786886","9.86%","n/a"
+"Cornerstone Bancshares,"Inc."","Ji Lin,"China"","2020","Yang Zhao","Common Stock","786885","9.86%","n/a"
+"Cornerstone Bancshares,"Inc."","Beijing,"China"","2020","Guomin Sun","Common Stock","632072","7.92%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","Director","William Pendleton","Managing Partner","Pen Investments LLC","2020","Investor","n/a"
+"Cornerstone Bancshares,"Inc."","Corporate Secretary and CFO","Danialle Evans","n/a","n/a","2020","Corporate Secretary and CFO,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Assistant Corporate Secretary","Lin Hsieh","n/a","n/a","2020","Assistant Corporate Secretary and Human Resources Director,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick D. Clemente","Managing Member","Atlanta Capital Holdings LLC","2020","Managing Member- Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick D. Clemente","Managing Member","Zeist Management,"LLC"","2020","Managing Member- Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick D. Clemente","Managing Member","Tailwind Financial LLC","2020","Managing Member- Atlanta Capital Holdings,"LLC"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","1660 Roberts Investment LLC","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","Pelican Point Propeties","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","6-202 Edge West LLC","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","6-301 Edge West LLC","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","9-301 Edge West LLC","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Steven Deaton","Managing Member","602 Dumas LLC","2020","CEO and President,"Cornerstone Bank"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ben Danielson","Kingstone Energy Group,"Executive Director"","n/a","2020","Financial Consultant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Clay Snellings","Principal","Snellings Walters Insurance Agency","2020","Principal,"Snellings Walters Insurance Agency"","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ping Lee","Sole owner of PacificPiers Advisory LLC","PacificPiers Advisory LLC","2020","SVP at NextDecade Corporation","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Thomas Purvis","n/a","n/a","2020","Retired","n/a"
+```

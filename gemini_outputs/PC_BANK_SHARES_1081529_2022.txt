@@ -1,0 +1,12 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2022","E.J. Vann,"IV"","n/a","n/a","n/a","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2022","Susan Vann Moss","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P & C Bank Shares,"Inc."","Chairman","E.J. Vann,"IV"","n/a","n/a","2022","n/a","n/a"
+"P & C Bank Shares,"Inc."","President and CEO","Susan Vann Moss","n/a","n/a","2022","n/a","n/a"
+```

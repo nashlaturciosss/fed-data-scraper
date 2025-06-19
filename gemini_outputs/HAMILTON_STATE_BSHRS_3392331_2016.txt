@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","New York,"New York"","2016","Angelo,"Gordon & Co.","L.P."","n/a","n/a","n/a","n/a"
+"Hamilton State Bancshares,"Inc."","New York,"New York"","2016","Tailwind Capital Group LLC","n/a","n/a","n/a","n/a"
+"Hamilton State Bancshares,"Inc."","Columbus,"Ohio"","2016","State Teachers Retirement System of Ohio","n/a","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hamilton State Bancshares,"Inc."","Chairman,"Chief Executive Officer and Director"","Robert C. Oliver","n/a","n/a","2016","n/a","3294583"
+"Hamilton State Bancshares,"Inc."","Secretary","Neal W. Booth,"Sr."","n/a","n/a","2016","n/a","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Raymond R. Christman","SVP","The Trust for Public Land","2016","Non-Profit Executive Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","Fiserv Inc.","2016","Financial Executive and Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","Crowdstrike Inc.","2016","Financial Executive and Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Director","The Warranty Group","2016","Financial Executive and Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Denis J. O'Leary","Managing Partner","Encore Financial Partners Inc.","2016","Financial Executive and Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director & Audit Committee Chairman","Donald T. Heroman","n/a","n/a","2016","Retired Executive","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Steven M. Shafran","Executive Director","Sun Valley Ski Academy","2016","Executive Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Steven M. Shafran","Trustee","University of California at Berkeley Foundation","2016","Executive Director","3294583"
+"Hamilton State Bancshares,"Inc."","Director","Lawrence B. Sorrel","n/a","n/a","2016","Retired Attorney Simpson Thacher & Bartlett LLP New York City","3294583"
+"Hamilton State Bancshares,"Inc."","Director","John L. Walker","Vice Chairman","Financial Services Volunteer Corps.","2016","n/a","3294583"
+```

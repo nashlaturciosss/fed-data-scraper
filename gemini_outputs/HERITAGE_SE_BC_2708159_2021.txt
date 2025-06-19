@@ -1,0 +1,25 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage Southeast Bancorporation,"Inc."","Fort Lauderdale,"FL"","2021","Kenneth R. Lehman","Common Stock","3069241","42.28%","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Fayetteville,"GA"","2021","Brent Scarbrough,"et al"","Common Stock","404045","5.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage Southeast Bancorporation,"Inc."","Non-Executive Chairman","Kenneth R. Lehman","n/a","n/a","2021","Bank Investor","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","Jeffery L. Arnold","PRES","Jeffery L. Arnold PC","2021","Attorney Jeffery L Arnold,"PC"","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","Roy V. Hall","TREAS","RV Hall Inc.","2021","Retired CPA","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","John E. Mansour","Principal","Hydralive Holdings,"LLC"","2021","Small Business Owner","628178"
+"Heritage Southeast Bancorporation,"Inc."","CEO,"Director"","Leonard R Moreland","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","John M. Presley","Director","Smart Bank","2021","Bank Consultant","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","John M. Presley","Director","Smart Bank Financial","2021","Bank Consultant","628178"
+"Heritage Southeast Bancorporation,"Inc."","Director","David H. Rupp","President","Movement Bank","2021","Bank President","628178"
+"Heritage Southeast Bancorporation,"Inc."","President,"Chief Operating Officer","Director"","Brian L. Smith","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","First Executive Vice President,"Chief Strategy Officer","Director"","Bradley P. Serff","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Operations Officer"","Melissa A. Deal","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Credit Officer","Chief Risk Officer"","Paul R. Hoerig","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Financial Officer","Secretary"","Philip F. Resch","n/a","n/a","2021","n/a","628178"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Administrative Officer"","Katherine S. Zovlonsky","n/a","n/a","2021","n/a","628178"
+```

@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2020","Billy Atkins","common shares","61613","5.45%","n/a"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2020","Pravin (Bob) Patel","common shares","70000","6.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Bank","Director","George R. Archer,"Jr."","Director,"Market President"","n/a","2020","n/a","2745426"
+"Legends Financial Services","Director","George R. Archer,"Jr."","Director,"Market President"","n/a","2020","n/a","2745426"
+"Legends Bank","Director","Billy Atkins","Director","n/a","2020","n/a","2745426"
+"Legends Financial Services","Director","Billy Atkins","Director","n/a","2020","n/a","2745426"
+"Legends Bank","Director","Mark Barnett","1/3 Partner","KY-TN Livestock","2020","Livestock Warehouse/ Farmer","2745426"
+"Legends Financial Services","Director","Mark Barnett","1/3 Partner","KY-TN Livestock","2020","Livestock Warehouse/ Farmer","2745426"
+"Legends Bank","Director,"President & CEO"","Tommy Bates","Director","n/a","2020","n/a","2745426"
+"Legends Financial Services","Director,"President & CEO"","Tommy Bates","Secretary/VP","n/a","2020","n/a","2745426"
+"Legends Bank","Director","Ronnie Goad","66% owner","Goad Construction Co","2020","Home builder","2745426"
+"Legends Financial Services","Director","Ronnie Goad","66% owner","Goad Construction Co","2020","Home builder","2745426"
+"Legends Bank","Director,"Vice-Chairman"","Dick Littleton","Director","n/a","2020","Real Estate agent","2745426"
+"Legends Financial Services","Director,"Vice-Chairman"","Dick Littleton","Director","n/a","2020","Real Estate agent","2745426"
+"Legends Bank","Director","Pravin (Bob) Patel","Director","n/a","2020","Hotel/Motel operator","2745426"
+"Legends Financial Services","Director","Pravin (Bob) Patel","Director","n/a","2020","Hotel/Motel operator","2745426"
+"Legends Bank","EVP/CFO","Lee Pedigo","CFO","n/a","2020","n/a","2745426"
+"Legends Financial Services","EVP/CFO","Lee Pedigo","CFO","n/a","2020","n/a","2745426"
+"Legends Bank","Director","Jeff Turner","91% Owner/President","Ajax Distributing Co","2020","Ajax Distributing Co Owner/President","2745426"
+"Legends Financial Services","Director","Jeff Turner","91% Owner/President","Ajax Distributing Co","2020","Ajax Distributing Co Owner/President","2745426"
+"Legends Bank","Chairman","Doug Weiland","Director","n/a","2020","Retired","2745426"
+"Legends Financial Services","Chairman","Doug Weiland","Director","n/a","2020","Retired","2745426"
+```

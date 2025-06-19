@@ -1,0 +1,30 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2020","Brandt J. Dufrene","n/a","50719","43.75%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2020","Brandt J. Dufrene Jr. Trust","n/a","36519","31.50%","n/a"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2020","Brandt J. Dufrene,"Jr."","n/a","11882","10.2.5%","n/a"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2020","F.S.C. Trust 1","n/a","8411","7.25%","n/a"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2020","F.S.C. Trust II","n/a","8411","7.25%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","Chairman & President","First National Bank USA","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","n/a","Dormant Company","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","n/a","Oceanic Fleet,"Inc."","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","n/a","Dormant Company","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","n/a","Oceanic Fleet,"LLC"","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Chairman & President","Brandt J. Dufrene","n/a","Audubon Guest House,"LLC"","2020","n/a","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","Director","n/a","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Audubon Guest House,"LLC"","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Dormant Company","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Oceanic Fleet Management,"LLC"","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Branson Des Allemands Properties,"LLC"","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Brandtsons Partners","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Dufrene Title,"LLC"","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Brandt J. Dufrene,"Jr."","n/a","Brandt J. Dufrene,"Jr.","LLC"","2020","Attorney at Law","714839"
+"First St Charles Banchares,"Inc."","Director","Kenneth Soyez","n/a","None","2020","Retired","714839"
+"First St Charles Banchares,"Inc."","None","Brandt J. Dufrene,"Jr. Trust"","n/a","None","2020","n/a","714839"
+```

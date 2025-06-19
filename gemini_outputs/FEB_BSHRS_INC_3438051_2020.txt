@@ -1,0 +1,18 @@
+Here are the two CSV tables based on your instructions:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FEB Bancshares,"Inc."","Montgomery,"Alabama"","2020","Slawson,"Jr.","Guice"","common stock","161858","31.15%","n/a"
+"FEB Bancshares,"Inc."","Montgomery,"Alabama"","2020","Slawson,"Joe Stinson"","common stock","161858","31.15%","n/a"
+"FEB Bancshares,"Inc."","Montgomery,"Alabama"","2020","Slawson,"William Edgar"","common stock","161857","31.15%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FEB Bancshares,"Inc."","Director","Dennis Adam","President / CEO","Timberline Homes","2020","Mobile Home Dealership","n/a"
+"FEB Bancshares,"Inc."","Director","Guice Slawson,"Jr."","Secretary","Slawson Manufacturing Co.","2020","Woodtreating","n/a"
+"FEB Bancshares,"Inc."","Director","Joe Stinson Slawson","Vice President","Slawson Manufacturing Co.","2020","Woodtreating","n/a"
+"FEB Bancshares,"Inc."","Director","William Edgar Slawson","President","Slawson Manufacturing Co.","2020","Woodtreating","n/a"
+"FEB Bancshares,"Inc."","Director","William B. Stokes","Principal","Stokes & Stokes,"PC"","2020","Attorney","n/a"
+"FEB Bancshares,"Inc."","President and CEO","Steve Smith","President and CEO","n/a","2020","Bank CEO","n/a"
+```

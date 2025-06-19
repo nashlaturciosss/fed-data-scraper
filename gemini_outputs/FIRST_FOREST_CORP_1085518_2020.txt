@@ -1,0 +1,37 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Forest Corporation","Forest,"MS"","2020","Triplett Trust","common stock","2693","16%","n/a"
+"First Forest Corporation","Forest,"MS"","2020","Donald Grey Triplett","common stock","2358","14%","n/a"
+"First Forest Corporation","Forest,"MS"","2020","O. B. Triplett IV","common stock","4528","27%","n/a"
+"First Forest Corporation","Forest,"MS"","2020","T. E. Walker","common stock","2006","12%","n/a"
+"First Forest Corporation","New Orleans,"LA"","2020","Terrell Oakey Corley","common stock","910","5%","n/a"
+"First Forest Corporation","n/a","2020","Oliver B. Triplett,"III"","common stock","5168","30%","n/a"
+"First Forest Corporation","n/a","2020","Estate of Oliver B. Triplett,"III"","common stock","5178","30%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Forest Corporation","Chairman & Director","T. E. Walker","Chairman Emeritus","Bank of Forest","2020","N/A","n/a"
+"First Forest Corporation","Director","Carl Howard Fountain","Secretary & Treasurer","Fountain Ace Hardware,"Inc."","2020","Merchant","n/a"
+"First Forest Corporation","Director","Allen Breland","Partner","Mitzi Breland Interior Design","2020","N/A","n/a"
+"First Forest Corporation","None","Triplett Trust","None","n/a","2020","Attorney","n/a"
+"First Forest Corporation","None","Donald Grey Triplett","None","n/a","2020","None","n/a"
+"First Forest Corporation","Director","Dr. John B. Smith,"Jr."","None","n/a","2020","Dentist","n/a"
+"First Forest Corporation","Director","O.B. Triplett,"IV"","Owner","Triplett Realty Services","2020","Realtor/ Appraiser/ Logger","n/a"
+"First Forest Corporation","Director","O.B. Triplett,"IV"","Manager/Member","Triplett Rental Properties,"LLC"","2020","Realtor/ Appraiser/ Logger","n/a"
+"First Forest Corporation","Director","O.B. Triplett,"IV"","Manager/Member","Triplett Timberlands,"LLC"","2020","Realtor/ Appraiser/ Logger","n/a"
+"First Forest Corporation","Director","O.B. Triplett,"IV"","Manager/Member","Triplett Logging,"LLC"","2020","Realtor/ Appraiser/ Logger","n/a"
+"First Forest Corporation","Secretary","Janet C. Driskell","None","n/a","2020","N/A","n/a"
+"First Forest Corporation","Director","Robert Carl Ware","None","n/a","2020","N/A","n/a"
+"First Forest Corporation","Director","Drew Kenna","President & COO","Bank of Forest","2020","N/A","n/a"
+"First Forest Corporation","Director","Todd Vowell","President / Secretary","Triple V,"Inc."","2020","Merchant","n/a"
+"First Forest Corporation","Director","Todd Vowell","President / Secretary","Big Daddy Foods,"Inc."","2020","Merchant","n/a"
+"First Forest Corporation","Director","Todd Vowell","Managing Member","V & V,"LLC"","2020","Merchant","n/a"
+"First Forest Corporation","Director","Todd Vowell","Member","Kate & Cade,"LLC"","2020","Merchant","n/a"
+"First Forest Corporation","Director","Todd Vowell","Member","Atec Design,"LLC"","2020","Merchant","n/a"
+"First Forest Corporation","Director","Todd Vowell","Member","Sandridge Farms,"LLC"","2020","Merchant","n/a"
+"First Forest Corporation","Director","William N. Price,"Jr."","President","Price & Company P.A.","2020","Accountant","n/a"
+"First Forest Corporation","Director","William N. Price,"Jr."","General Partner","Highway 80 Investments LTD","2020","Accountant","n/a"
+```

@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Bank Northwest Florida","Fort Walton Beach,"Florida"","2019","Albert P. Qualls,"Jr."","common stock","1470632","97.9597%","n/a"
+"First National Bank Northwest Florida","n/a","2019","None.","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Bank Northwest Florida","Director,"Chairman of the Board - First Northwest Florida Holding Company","Director","Chairman of the Board - First National Bank Northwest Florida"","Albert P. Qualls,"Jr."","President","Conquistador R/E","2019","Banker Real Estate Investor","n/a"
+"First National Bank Northwest Florida","Director,"Chairman of the Board - First Northwest Florida Holding Company","Director","Chairman of the Board - First National Bank Northwest Florida"","Albert P. Qualls,"Jr."","President","Blue Horizon R/E","2019","Banker Real Estate Investor","n/a"
+"First National Bank Northwest Florida","Director,"Chairman of the Board - First Northwest Florida Holding Company","Director","Chairman of the Board - First National Bank Northwest Florida"","Albert P. Qualls,"Jr."","President","Poldon","2019","Banker Real Estate Investor","n/a"
+"First National Bank Northwest Florida","Director,"Chairman of the Board - First Northwest Florida Holding Company","Director","Chairman of the Board - First National Bank Northwest Florida"","Albert P. Qualls,"Jr."","President","Quallsco","2019","Banker Real Estate Investor","n/a"
+"First National Bank Northwest Florida","Director,"President & CEO of First Northwest Florida Holding Company","Director","President & CEO - First National Bank Northwest Florida"","Angie Barger","President","Ghost Riders Investments,"Inc."","2019","n/a","n/a"
+"First National Bank Northwest Florida","Secretary,"Treasurer - First Northwest Florida Holding Company","Customer Service- First National Bank Northwest Florida Board"","Polly Qualls","Director","Poldon,"Inc"","2019","n/a","n/a"
+```

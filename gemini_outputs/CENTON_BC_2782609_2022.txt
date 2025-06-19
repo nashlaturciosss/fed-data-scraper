@@ -1,29 +1,11 @@
-Here are the two CSV tables extracted from the document:
+"Here are the two tables extracted from the document","formatted as CSV and clearly labeled:"
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Centon Bancorp,"Inc."","Richton","2022","Ralph S. Olier","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","John W. Kimbrough","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","J. Craig Pittman","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","Mark K. Broadhead","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","Robert E. Cooper","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","David O. Walker","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","W. Edward Taylor","Common Stock","16531","14.73%"
-"Centon Bancorp,"Inc."","Richton","2022","Robert G. Lewis","Common Stock","15000","13.37%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Centon Bancorp,"Inc."","n/a","2022","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Centon Bancorp,"Inc."","President","Ralph S. Olier","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","President","Ralph S. Olier","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","John W. Kimbrough","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","John W. Kimbrough","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","J. Craig Pittman","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","J. Craig Pittman","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","Mark K. Broadhead","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","Mark K. Broadhead","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","Robert E. Cooper","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","Robert E. Cooper","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","David O. Walker","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","David O. Walker","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","W. Edward Taylor","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","W. Edward Taylor","Director","Richton Bank & Trust","2022"
-"Centon Bancorp,"Inc."","Director","Robert G. Lewis","Director","Centon Bancorp,"Inc."","2022"
-"Centon Bancorp,"Inc."","Director","Robert G. Lewis","Director","Richton Bank & Trust","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Centon Bancorp,"Inc."","President","Ralph S. Olier","n/a","n/a","2022","n/a","n/a"
+```

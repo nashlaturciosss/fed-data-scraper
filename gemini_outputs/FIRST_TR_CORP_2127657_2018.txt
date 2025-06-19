@@ -1,0 +1,25 @@
+"Okay","I will follow your instructions precisely and provide the two CSV tables as requested."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Trust Corporation","Metairie,"LA"","2018","Mr. Joseph C. Canizaro,"Chairman"","n/a","4445979","44%","n/a"
+"First Trust Corporation","Metairie,"LA"","2018","Mr. Joseph C. Canizaro,"Chairman"","n/a","6000","n/a","n/a"
+"First Trust Corporation","Metairie,"LA"","2018","Mr. Joseph C. Canizaro,"Chairman"","n/a","403733","4%","n/a"
+"First Trust Corporation","New Orleans,"LA"","2018","Corte Trust","n/a","3232250","30%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Trust Corporation","CEO and Chairman of the Board","Mr. Joseph C. Canizaro,"Chairman"","n/a","n/a","2018","Real Estate Developer","n/a"
+"First Trust Corporation","Director","Gary Blossman","n/a","GBBRE,"LLC"","2018","Businessman/ Banking","n/a"
+"First Trust Corporation","Director","Gary Blossman","n/a","FGE Ventures","2018","Businessman/ Banking","n/a"
+"First Trust Corporation","Director","David Guidry","President of GUICO Machine Works","GUICO Machine Works","2018","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director","David Guidry","President of GUICO Machine Works","GUICO Marine Services,"LLC"","2018","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director","David Guidry","President of GUICO Machine Works","GUICO Farms,"LLC"","2018","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director","David Guidry","President of GUICO Machine Works","GUICO Properties,"LLC"","2018","Businessman/ Oilfield Equipment","n/a"
+"First Trust Corporation","Director","Donald Bollinger","President & CEO of Bollinger,"LLC"","Bollinger,"LLC"","2018","Businessman/ Entrepreneur","n/a"
+"First Trust Corporation","Director","Ralph C. Cox,"Jr.","CPA"","Retired Partner at Bourgeois Bennett,"LLC"","Bourgeois Bennett,"LLC"","2018","Professional Consultant","n/a"
+"First Trust Corporation","Director","Randall Howard","Retired Owner of Harbor Watersports,"LLC"","Harbor Watersports,"LLC"","2018","Businessman/ Entrepreneur","n/a"
+"First Trust Corporation","Director","Mr. Ryan Lopiccolo","Co-owner of Pie-Not LLC","Pie-Not LLC","2018","Businessman/ EVP,"Columbus Properties"","n/a"
+"First Trust Corporation","Shareholder","Corte Trust","n/a","n/a","2018","Trust","n/a"
+```

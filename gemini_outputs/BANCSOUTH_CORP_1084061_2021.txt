@@ -1,27 +1,18 @@
-Here are the requested CSV files:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancSouth Corporation","Dothan","2021","Noel M Dowling Family Trust f/b/o N. Mitchell Dowling,"Jr."","n/a","9380","27.96%"
-"BancSouth Corporation","Dothan","2021","Noel M Dowling Family Trust f/b/o Shirley D. McCrary","n/a","9380","27.96%"
-"BancSouth Corporation","Dothan","2021","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%"
-"BancSouth Corporation","Mooresville","2021","George Laurence McCrary,"III"","n/a","2700","8.05%"
-"BancSouth Corporation","Mooresville","2021","Margaret Ann McCrary Crumlish","n/a","1700","5.07%"
-"BancSouth Corporation","n/a","2021","12 other shareholders owning 5% or less each","n/a","1700","5.06%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancSouth Corporation","Dothan,"Alabama"","2021","Noel M Dowling Family Trust f/b/o N. Mitchell Dowling,"Jr."","n/a","9380","27.96%","n/a"
+"BancSouth Corporation","Dothan,"Alabama"","2021","Noel M Dowling Family Trust f/b/o Shirley D. McCrary","n/a","9380","27.96%","n/a"
+"BancSouth Corporation","Dothan,"Alabama"","2021","N. Mitchell Dowling,"Jr."","n/a","8690","25.90%","n/a"
+"BancSouth Corporation","Mooresville,"Alabama"","2021","George Laurence McCrary,"III"","n/a","2700","8.05%","n/a"
+"BancSouth Corporation","Mooresville,"Alabama"","2021","Margaret Ann McCrary Crumlish","n/a","1700","5.07%","n/a"
+"BancSouth Corporation","n/a","2021","12 other shareholders owning 5% or less each","n/a","1700","5.06%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BancSouth Corporation","Chairman and Director","N. Mitchell Dowling,"Jr."","Banker","BancSouth Corporation","2021"
-"BancSouth Corporation","Cashier,"Chairman and Director"","N. Mitchell Dowling,"Jr."","Banker","BankSouth","2021"
-"BancSouth Corporation","n/a","N. Mitchell Dowling,"Jr."","Banker","None","2021"
-"BancSouth Corporation","President and Director","Kevin R. Kirkland","Banker","BancSouth Corporation","2021"
-"BancSouth Corporation","Executive Vice President,"Chief Financial Officer","Director"","Kevin R. Kirkland","Banker","BankSouth","2021"
-"BancSouth Corporation","n/a","Kevin R. Kirkland","Banker","None","2021"
-"BancSouth Corporation","Secretary","Robert W. Bass,"Jr."","Banker","BancSouth Corporation","2021"
-"BancSouth Corporation","Executive Vice President,"Chief Executive Officer","Director"","Robert W. Bass,"Jr."","Banker","BankSouth","2021"
-"BancSouth Corporation","n/a","Robert W. Bass,"Jr."","Banker","None","2021"
-"BancSouth Corporation","Director","George Laurence McCrary,"III"","Farming and Investments","BancSouth Corporation","2021"
-"BancSouth Corporation","Director","George Laurence McCrary,"III"","Farming and Investments","BankSouth","2021"
-"BancSouth Corporation","n/a","George Laurence McCrary,"III"","Farming and Investments","None","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancSouth Corporation","Chairman and Director,"Cashier"","N. Mitchell Dowling,"Jr."","n/a","n/a","2021","Banker","n/a"
+"BancSouth Corporation","President and Director,"Executive Vice President","Chief Financial Officer","Director"","Kevin R. Kirkland","n/a","n/a","2021","Banker","n/a"
+"BancSouth Corporation","Secretary,"Executive Vice President","Chief Executive Officer","Director"","Robert W. Bass,"Jr."","n/a","n/a","2021","Banker","n/a"
+"BancSouth Corporation","Director","George Laurence McCrary,"III"","n/a","n/a","2021","Farming and Investments","n/a"
 ```

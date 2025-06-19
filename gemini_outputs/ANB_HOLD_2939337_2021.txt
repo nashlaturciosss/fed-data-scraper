@@ -1,26 +1,21 @@
-Here are the two tables extracted from the document in CSV format:
-```csv
+"Okay","I will extract the data from the provided document and format it as requested in CSV format","with clear labels for each table."
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"ANB","Fort Lauderdale","2021","Annelle Ingham Carney,"Revocable Trust"","n/a","218426","15.14%"
-"ANB","Fort Lauderdale","2021","Hilary I. Hickman,"Revocable Trust"","n/a","218227","15.12%"
-"ANB","Fort Lauderdale","2021","Sharon I. Horal,"Revocable Trust"","n/a","218426","15.14%"
-"ANB","Fort Lauderdale","2021","Frederick H. Ingham,"Revocable Trust"","n/a","231427","16.04%"
-"ANB","Fort Lauderdale","2021","Timothy C. Ingham,"Revocable Trust"","n/a","219227","15.19%"
-"ANB","Fort Lauderdale","2021","Richard S. Ingham,"Revocable Trust"","n/a","119227","8.26%"
-"ANB","Fort Lauderdale","2021","The 2020 Sky Ingham Descendants Trust","n/a","100000","6.93%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Annelle Ingham Carney,"Revocable Trust"","n/a","218426","15.14%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Hilary I. Hickman,"Revocable Trust"","n/a","218227","15.12%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Sharon I. Horal,"Revocable Trust"","n/a","218426","15.14%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Frederick H. Ingham,"Revocable Trust"","n/a","231427","16.04%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Timothy C. Ingham,"Revocable Trust"","n/a","219227","15.19%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","Richard S. Ingham,"Revocable Trust"","n/a","119227","8.26%","n/a"
+"ANB Holddings,"Inc."","Fort Lauderdale,"FL"","2021","The 2020 Sky Ingham Descendants Trust","n/a","100000","6.93%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"ANB","Director","Jay B. Deuschle","Director","D & B Ventures","2021"
-"ANB","Director","Richard S. Ingham,"Jr."","Vice President & Treasury","Asterisk,"Inc."","2021"
-"ANB","Director & Secretary","Frederick H. Ingham","President","Asterisk,"Inc."","2021"
-"ANB","Director & Chairman","Timothy C. Ingham","Vice President & Secretary","Asterisk,"Inc."","2021"
-"ANB","Director","Gary J. Faysash","President","GJF Consulting,"LLC"","2021"
-"ANB","Director & President","Virginia L. Martin","n/a","n/a","2021"
-"ANB","Director","Julie Pabst","n/a","n/a","2021"
-"ANB","n/a","Annelle Ingham Carney Revocable Trust","n/a","n/a","2021"
-"ANB","n/a","Hilary Ingham Hickman Revocable Trust","n/a","n/a","2021"
-"ANB","n/a","Sharon I Horal Revocable Trust","n/a","n/a","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ANB Holddings,"Inc."","Director","Jay B. Deuschle","President","D & B Ventures","2021","Real Estate","n/a"
+"ANB Holddings,"Inc."","Director","Richard S. Ingham,"Jr."","Vice President & Treasury","Asterisk,"Inc."","2021","Real Estate","n/a"
+"ANB Holddings,"Inc."","Director & Secretary","Frederick H. Ingham","President","Asterisk,"Inc."","2021","Real Estate","n/a"
+"ANB Holddings,"Inc."","Director & Chairman","Timothy C. Ingham","Vice President & Secretary","Asterisk,"Inc."","2021","Real Estate","n/a"
+"ANB Holddings,"Inc."","Director","Gary J. Faysash","President","GJF Consulting,"LLC"","2021","Consultant","n/a"
+"ANB Holddings,"Inc."","Director & President","Virginia L. Martin","n/a","n/a","2021","n/a","n/a"
+"ANB Holddings,"Inc."","Director","Julie Pabst","n/a","n/a","2021","Investor","n/a"
 ```

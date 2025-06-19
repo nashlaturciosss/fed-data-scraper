@@ -1,0 +1,29 @@
+"Okay","I will extract the data and provide the two CSV tables according to your instructions."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Stephen K. Eberhart","Common Stock","35167","9.00%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Dean Eberhart","Common Stock","13028","3.33%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2023","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2023","The Estate of Glen Kilgore","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2023","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Eloise Smith","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2023","Charles Stephens","Common Stock","26530","6.79%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Linda Stephens","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Linda Young","Common Stock","78116","19.99%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Chris Pierson","Common Stock","2833","0.73%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Nathan Pierson","Common Stock","2333","0.60%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2023","Chris Young","Common Stock","5120","1.31%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","n/a","n/a","2023","n/a","n/a"
+"FBDC Financial Corp.","Director & Chairman","Charles Ray Stephens","Retired","Dixie Machine Shop,"Inc."","2023","Machine Shop,"Owner/Operator"","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","n/a","n/a","2023","Retired,"Motel Owner/Operator"","n/a"
+"FBDC Financial Corp.","Director & Secretary,"Vice President"","Diane Shankles","n/a","n/a","2023","n/a","n/a"
+"FBDC Financial Corp.","Director","Nathan Pierson","n/a","n/a","2023","n/a","n/a"
+"FBDC Financial Corp.","n/a","Eloise J. Smith","Public Relations","1st State Bank","2023","Public Relations","n/a"
+"FBDC Financial Corp.","n/a","Eloise J. Smith","Public Relations","Southern Torch Inc.","2023","Public Relations","n/a"
+"FBDC Financial Corp.","n/a","Shari Jones,"Administratrix"","Stockholder","Rainsville Church Pew,"Inc."","2023","Merchant","n/a"
+```

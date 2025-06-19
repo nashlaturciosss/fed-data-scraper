@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"," RSSD_ID"
+"PB BANCSHARES,"INC."","Clifton,"TN"","2017","Autry Gobbell","n/a","9009.90","40.40%","4262525"
+"PB BANCSHARES,"INC."","Clifton,"TN"","2017","PB Bancshares,"Inc. Employee Stock Ownership Plan"","n/a","5938.32","26.63%","4262525"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"," Occupation"," RSSD_ID"
+"PB BANCSHARES,"INC."","Chairman & President","Autry Gobbell","Chairman & President","n/a","2017","N/A","4262525"
+"PB BANCSHARES,"INC."","Director","Tommy Martin","Executive Vice President,"Cashier & President"","n/a","2017","N/A","4262525"
+"PB BANCSHARES,"INC."","Director & Secretary","Gailand Grinder","Director","n/a","2017","Retired","4262525"
+"PB BANCSHARES,"INC."","Director","Carl Skelton","Director","n/a","2017","Merchant","4262525"
+"PB BANCSHARES,"INC."","Director","Kelvin Runions","Chief Loan Officer","n/a","2017","N/A","4262525"
+"PB BANCSHARES,"INC."","Director","Andrew Yarbrough","Director","Andrew Yarbrough Attorney at Law","2017","Attorney","4262525"
+"PB BANCSHARES,"INC."","n/a","PB Bancshares,"Inc Employee Stock Ownership Plan"","n/a","n/a","2017","N/A","4262525"
+"PB BANCSHARES,"INC."","Director","Larry Jeter","n/a","n/a","2017","Retired","4262525"
+"PB BANCSHARES,"INC."","Director","Harry Floyd","n/a","Harry Floyd Livestock","2017","Livestock Dealer","4262525"
+```

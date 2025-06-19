@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LBC Bancshares,"Inc."","Peachtree City,"GA"","2015","John Hardy Jones","Common Stock","111191","8%","4767981"
+"LBC Bancshares,"Inc."","Point Clear,"AL"","2015","Jared T. Jones","Common Stock","69189","5.16%","4767981"
+"LBC Bancshares,"Inc."","LaGrange,"GA"","2015","C. Wesley Smith,"Jr."","Common Shares","78995","5.90%","4767981"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LBC Bancshares,"Inc."","Director","Nancy K. Adam","n/a","n/a","2015","Retired Banker & Bank Regulator","4767981"
+"LBC Bancshares,"Inc."","President & CEO and Director","Leonard H. Bateman,"Jr."","n/a","n/a","2015","Banker","4767981"
+"LBC Bancshares,"Inc."","Retired CFO","Ann B. Bledsoe","n/a","n/a","2015","Banker","4767981"
+"LBC Bancshares,"Inc."","Secretary","Holly T. Britt","n/a","n/a","2015","Banker","4767981"
+"LBC Bancshares,"Inc."","SVP & CCO","Holly T. Britt","n/a","n/a","2015","Banker","4767981"
+"LBC Bancshares,"Inc."","Director","George Childress","n/a","George W. Childress,"DMD","PC"","2015","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director","George Childress","n/a","n/a","2015","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director","Robert Copeland","n/a","n/a","2015","Physician","4767981"
+"LBC Bancshares,"Inc."","Director of Development","Susan Ferguson","n/a","West Georgia Health Foundation","2015","n/a","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","J. T. Jones & Associates Realty Inc.","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","J. T. Jones Development Co.","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","J. T. Jones Co.","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","Jones 118 Gordon,"LLC"","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","Jones 1570 Lukken,"LLC"","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","Driftwood Inn,"LLC"","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","Jones 316 North Lewis,"LLC"","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Chairman of the Board","Jared T. Jones","n/a","Jones West Haralson,"LLC"","2015","Realtor","4767981"
+"LBC Bancshares,"Inc."","Director","John Jackson,"Jr."","n/a","John M. Jackson,"Jr.","DMD","PC"","2015","Dentist","4767981"
+"LBC Bancshares,"Inc."","Director","John Jackson,"Jr."","n/a","Jackson and Jackson Partnership","2015","Dentist","4767981"
+"LBC Bancshares,"Inc."","Principal shareholder","John Hardy Jones","n/a","n/a","2015","Real Estate Investor","4767981"
+"LBC Bancshares,"Inc."","Director Emeritus","John Hardy Jones","n/a","n/a","2015","Real Estate Investor","4767981"
+"LBC Bancshares,"Inc."","Director","Mack Reynolds","n/a","n/a","2015","Attorney","4767981"
+"LBC Bancshares,"Inc."","Director","C. Wesley Smith,"Jr."","n/a","Hutchinson Traylor Insurance Agency","2015","Insurance","4767981"
+"LBC Bancshares,"Inc."","Director","C. Wesley Smith,"Jr."","n/a","Another Road,"LLC"","2015","Insurance","4767981"
+"LBC Bancshares,"Inc."","Director","C. Wesley Smith,"Jr."","n/a","Lorie Darling,"LLC"","2015","Insurance","4767981"
+"LBC Bancshares,"Inc."","Director","James Williams","n/a","n/a","2015","Retired Builder","4767981"
+"LBC Bancshares,"Inc."","Director","John Holt","n/a","n/a","2015","Financial Advisor","4767981"
+```

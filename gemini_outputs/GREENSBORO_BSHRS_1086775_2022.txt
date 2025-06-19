@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2022","Charles S. Arrington,"Jr."","common stock","24505","21.9%","n/a"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2022","James W. Brazeal","common stock","13773","12.32%","n/a"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2022","Mary Q. Holmes","common stock","10356","9.25%","n/a"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2022","Robert E. Miller","common stock","6431","5.74%","n/a"
+"Greensboro Bancshares,"Inc."","Greensboro,"AL"","2022","Richard H. Jenson","common stock","6360","5.68%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Director","Charles S. Arrington,"Jr."","President","Arrington Oil Company","2022","President","n/a"
+"Greensboro Bancshares,"Inc."","Director","James W. Brazeal","President","Brazeal Funeral Home,"Inc."","2022","President","n/a"
+"Greensboro Bancshares,"Inc."","Director","Richard H. Jenson","President","Jenson Farms,"Inc."","2022","President","n/a"
+"Greensboro Bancshares,"Inc."","Vice-Chairman and Director","Mary Q. Holmes","n/a","n/a","2022","n/a","n/a"
+"Greensboro Bancshares,"Inc."","Director","Robert E. Miller","Owner","Miller Logging Company","2022","Owner","n/a"
+```

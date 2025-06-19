@@ -1,0 +1,29 @@
+"Okay","here are the requested CSV tables extracted from the provided document:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNS BANCSHARES,"INC"","SCOTTSBORO,"AL"","2014","JOHN W GAY,"JR TRUST"","Common Stock","52490","5.33%","n/a"
+"FNS BANCSHARES,"INC"","SCOTTSBORO,"AL"","2014","JOHN W GAY,"III"","Common Stock","76534","7.77%","n/a"
+"FNS BANCSHARES,"INC"","SCOTTSBORO,"AL"","2014","MAURINE G GAY TRUST","Common Stock","45000","4.57%","n/a"
+"FNS BANCSHARES,"INC"","El Pas,"Tx"","2014","Leigh Ponsford Lovelady","Common Stock","49333","5.01%","n/a"
+"FNS BANCSHARES,"INC"","El Paso,"Tx"","2014","Leigh Ponsford Loveleady Family Trust","Common Stock","23840","2.42%","n/a"
+"FNS BANCSHARES,"INC"","El Paso,"Tx"","2014","Richard Gay Ponsford","Common Stock","48111","4.88%","n/a"
+"FNS BANCSHARES,"INC"","El Paso,"Tx"","2014","Richard G Ponsford Family Trust","Common Stock","23840","2.42%","n/a"
+"FNS BANCSHARES,"INC"","EL PASO,"TX"","2014","CAROLYN G PONSFORD (Deceased)","Common Stock","71520","7.26%","n/a"
+"FNS BANCSHARES,"INC"","EL PASO,"TX"","2014","MAURINE G GAY TRUST","Common Stock","45000","4.58%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNS BANCSHARES","VP,"Secretary & Treasurer"","Steven G. Beaird","Executive Vice President & CFO","FNB BANK","2014","Executive Vice President & CFO,"FNB BANK"","n/a"
+"FNS BANCSHARES","Chairman","Alan K Gay","CEO","BuyMetrics","2014","CEO,"BuyMetrics","Atlanta Ga"","n/a"
+"FNS BANCSHARES","Director Vice Chairman","John W. Gay III","Chairman","FNB BANK","2014","Chairman,"FNB BANK"","n/a"
+"FNS BANCSHARES","President","Randall H. Giles","President & CEO","FNB BANK","2014","President & CEO,"FNB BANK"","n/a"
+"FNS BANCSHARES","Director","Hoyt E. Harbin III","President","Harbin Motor Co.,"Inc."","2014","President,"Harbin Motor Co.","Inc. Scottsboro"","n/a"
+"FNS BANCSHARES","Director","Don Webb","General Agent","State Farm Insurance Co.","2014","General Agent,"State Farm Insurance Co. Scottsboro"","n/a"
+"FNS BANCSHARES","Director","Stephen J. Livingston","President","Dicus Oil Co.,"Inc."","2014","President of Dicus Oil Co.,"Inc. Hollywood","AL"","n/a"
+"FNS BANCSHARES","Director","Paul L. Storey","Owner","Storey Trucking Co.","2014","Owner/Operator of Storey Trucking Co. and Storey Farms","n/a"
+"FNS BANCSHARES","Director","Paul L. Storey","Owner","Storey Farms","2014","Owner/Operator of Storey Trucking Co. and Storey Farms","n/a"
+"FNS BANCSHARES","Director","M. Paul Holland","Owner","Holland Optometry","2014","Optometrist","n/a"
+"FNS BANCSHARES","Director","James Bergman","Owner","James Bergman Raymond James Investments","2014","Investment Counselor","n/a"
+```

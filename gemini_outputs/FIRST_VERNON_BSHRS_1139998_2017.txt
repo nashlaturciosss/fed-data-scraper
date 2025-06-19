@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2017","Samuel F. Johnson","n/a","23784","41.21%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2017","Samuel F. Johnson","n/a","10270","17.79%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2017","Rebecca Lea Johnson","n/a","1506","2.61%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2017","Rebecca Lea Johnson","n/a","32784","56.80%","1139998"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Vernon","Secretary and Treasurer","Samuel F. Johnson","Chairman of the Board and Chief Executive Officer","n/a","2017","Banking","n/a"
+"Bank of Vernon","Vice President and Director","Rebecca Lea Johnson","n/a","n/a","2017","Banking","n/a"
+"Bank of Vernon","Director","Rex Larry Huggins","n/a","L & E Enterprises","2017","Retired (Banking)","n/a"
+"Bank of Vernon","Director","Samuel A. Johnson","Co-Chief Executive Officer,"Chief Financial Officer"","n/a","2017","Banking","n/a"
+"Bank of Vernon","Executive Vice President & Chief Operations Officer","Judy B. Biggers","n/a","n/a","2017","Banking","n/a"
+"Bank of Vernon","Director","Don Callaway","n/a","n/a","2017","Retired (Banking)","n/a"
+"Bank of Vernon","Director","Jonathan A. Brown","n/a","n/a","2017","Retired (District Judge/Attorney)","n/a"
+"Bank of Vernon","Director","Charles Cook","n/a","n/a","2017","Retired) Pharmacist","n/a"
+"Bank of Vernon","Co-Chief Executive Officer,"Chief Financial Officer","Director"","Samuel A. Johnson","n/a","n/a","2017","Banking","n/a"
+"Bank of Vernon","Vice President","Marsha Granen","n/a","n/a","2017","Banking","n/a"
+"Bank of Vernon","n/a","W. Russell Brown","Director","Brown & Associates,"LLC"","2017","Insurance Executive","n/a"
+"Bank of Vernon","n/a","W. Russell Brown","Director","J&R Legacy LLC","2017","Insurance Executive","n/a"
+"Bank of Vernon","n/a","W. Russell Brown","Director","Action Auto,"Inc."","2017","Insurance Executive","n/a"
+"Bank of Vernon","n/a","Justin Shelton","Director","Justin International","2017","Media Executive & Remarketing/Export Executive","n/a"
+"Bank of Vernon","n/a","Justin Shelton","Director","Packet Media","2017","Media Executive & Remarketing/Export Executive","n/a"
+"Bank of Vernon","n/a","Justin Shelton","Director","Northport Gazette","2017","Media Executive & Remarketing/Export Executive","n/a"
+"Bank of Vernon","n/a","Larry W. Clark","Director","n/a","2017","President of Car Dealership","n/a"
+"Bank of Vernon","n/a","Charles W. Rigdon","Director","n/a","2017","President of Car Dealership","n/a"
+"Bank of Vernon","n/a","Marsha Granen","Vice President","n/a","2017","Banking","n/a"
+"Bank of Vernon","n/a","Joy Spencer","Co-Chief Executive Officer,"President"","n/a","2017","Banking","n/a"
+"Bank of Vernon","n/a","Karl Williams","Executive Vice President & Senior Credit Officer","n/a","2017","Banking","n/a"
+```

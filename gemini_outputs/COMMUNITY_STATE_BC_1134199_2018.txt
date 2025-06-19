@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community State Bank Corporation","Starke,"FL"","2018","Johns Family Trust Debra J Johns Trust (Frank)","Common","2766.50","18.45%","853934"
+"Community State Bank Corporation","Starke,"FL"","2018","Johns Family Trust Phillip J Johns Trust","Common","2819.50","18.80%","853934"
+"Community State Bank Corporation","Orlando,"FL"","2018","Markely Ann Johns Cash","Common","2962","19.75%","853934"
+"Community State Bank Corporation","St. Augustine,"FL"","2018","Trustee of the Betty Wuenschel Reveocable Trust","Common","3527","23.51%","853934"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community State Bank Corporation","President","Betty Wuenschel","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","n/a","Phillip J John Trust","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","Director","Debra J Johns & Frank Williams Trust","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","Chairman/Director","Estate of Betty Wuenschel","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","Director","William Adams","n/a","Golf Equipment Wholesale","2018","Golf Equipment Wholesale","n/a"
+"Community State Bank Corporation","Director","Markley Ann Cash","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","President","Jeff Oody","n/a","C.O. R Developments","2018","Director","n/a"
+"Community State Bank Corporation","V Chairman/Director","Terry L Vaughan or Jennifer N Vaughan","Bradford Co. Supervisor of Elections","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","SR Vice President/COO","Carolyn Reddish","Asst. Secretary","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","EVP/CFO","Eugene Richardson","Owner","Baker Loan Company","2018","n/a","n/a"
+"Community State Bank Corporation","AVP\Branch Manager","Ansley Champion","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","VP\Branch Manger","Jennie Reed","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","AVP\Loan Officer","Andrea Bailey","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","AVP\Loan Officer","Kristen Paz","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","Business Development,"Marketing Officer"","James Eison","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","AVP","Tammie Woodard","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","VP\Sr. Loan Officer","Jon Grebinger","n/a","n/a","2018","n/a","n/a"
+"Community State Bank Corporation","BSA\Compliance","Betty Trawick","n/a","n/a","2018","n/a","n/a"
+```

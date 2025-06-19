@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2017","William Y. Carroll,"Sr."","n/a","700","6.85%","n/a"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2017","Clara Carroll","n/a","697","6.85%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","J. S. Eledge","n/a","1296","6.36%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","Billy G. Kilpatrick and Georgia Kilpatrick","n/a","1312","6.44%","n/a"
+"CNB Bancshares,"Inc."","Kodak,"TN"","2017","Kyle Swaggerty","n/a","4298","21.08%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","David C. Verble","n/a","1223","6.00%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","Lynn T. Webb","n/a","2268","22.25%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","Penny S. Webb","n/a","2268","22.25%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","Rebecca Atchley Busmann","n/a","857","5.07%","n/a"
+"CNB Bancshares,"Inc."","Sevierville,"TN"","2017","Thomas G. Busmann","n/a","177","5.07%","n/a"
+"CNB Bancshares,"Inc."","Largo,"FL"","2017","Donna W. Berg Trust","n/a","1027","5.04%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Bank","Director","Donald Brackins","Director","Southern Roadway,"Inc."","2017","Road Contractor","717737"
+"Citizens National Bank","Director","Donald Brackins","Director","EAST STATE ENTERPRISES,"INC."","2017","Road Contractor","717737"
+"Citizens National Bank","Director/Chairman","Billy Kilpatrick","President","THE APPLE BARN & CIDER MILL,"INC."","2017","Retail Business Owner","717737"
+"Citizens National Bank","Director/Chairman","Billy Kilpatrick","President","APPLE BARN WINERY,"INC."","2017","Retail Business Owner","717737"
+"Citizens National Bank","Director/Chairman","Billy Kilpatrick","Chief Manager","CHRISTMAS AND CANDLES,"LLC."","2017","Retail Business Owner","717737"
+"Citizens National Bank","Director/Chairman","Billy Kilpatrick","Partner","KILPATRICK AND HICKS PARTNERSHIP","2017","Retail Business Owner","717737"
+"Citizens National Bank","Director/Vice President","Kyle Swaggerty","Chairman","SWAGGERTY SAUSAGE COMPANY","2017","Food Vendor","717737"
+"Citizens National Bank","Director/Vice President","Kyle Swaggerty","Parter","WPCC DEVELOPMENT PROPERTIES","2017","Food Vendor","717737"
+"Citizens National Bank","Director/Vice President","Kyle Swaggerty","President","SWAGGERTY FARMS,"INC."","2017","Food Vendor","717737"
+"Citizens National Bank","Director","Douglas Swaggerty","President/CEO","SWAGGERTY SAUSAGE COMPANY","2017","Food Vendor","717737"
+"Citizens National Bank","Director/President/CEO","David Verble","Partner","WPCC DEVELOPMENT PROPERTIES","2017","Banker","717737"
+"Citizens National Bank","Director/President","Lynn T. Webb","President","WHALEY PROPERTIES,"INC."","2017","n/a","717737"
+"Citizens National Bank","Director/President","Lynn T. Webb","Partner","WPCC DEVELOPMENT PROPERTIES","2017","n/a","717737"
+"Citizens National Bank","n/a","Seth Webb","Vice President","MCNELLY-WHALEY MOTOR COMPANY,"INC."","2017","Auto Dealer","717737"
+"Citizens National Bank","n/a","Seth Webb","n/a","LD&S,"LP"","2017","Auto Dealer","717737"
+"Citizens National Bank","Director","Daniel Webb","President","MCNELLY-WHALEY MOTOR COMPANY,"INC."","2017","Auto Dealer","717737"
+"Citizens National Bank","Director","Daniel Webb","n/a","LD&S,"LLC"","2017","Auto Dealer","717737"
+```

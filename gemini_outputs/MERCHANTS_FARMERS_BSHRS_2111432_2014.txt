@@ -1,0 +1,22 @@
+Here are the two CSV tables extracted from the provided document:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2014","Jane Byrant Banks","Shares","6589","11.6237%","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2014","James O. Banks,"II"","Shares","2971","5.2412%","2111432"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Director","Kevin Jockisch","Director","Merchants and Farmers Bank of Greene County","2014","Repair Service","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Kevin Jockisch","n/a","Joe's Repair Shop","2014","Repair Service","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Chairman,"CEO & Director"","Alvis Storey","Director","Merchants and Farmers Bank of Greene County","2014","Banker","2111432"
+"Merchants and Farmers Bancshares,"Inc."","President & Director","Ralph R. Banks,"III"","President","Merchants and Farmers Bank of Greene County","2014","Banker","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","Director","Merchants and Farmers Bank of Greene County","2014","Lawyer","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","James O. Banks,"II"","Director","Merchants and Farmers Bank of Greene County","2014","Merchant","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","James O. Banks,"II"","Owner","Banks and Company","2014","Merchant","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Gavin Edgar","Director","Merchants and Farmers Bank of Greene County","2014","Merchant","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Director","Gavin Edgar","Partner","Foodland","2014","Merchant","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Vice President & Cashier","Daniel M. Garnand","Vice President & Cashier","n/a","2014","Banker","2111432"
+"Merchants and Farmers Bancshares,"Inc."","Stockholder","Jane Bryant Banks","MANAGER","JEB,"LLC"","2014","Principal Stockholder","2111432"
+```

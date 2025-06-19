@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2023","Betty L. Rankin","Shares of Common Stock","24140","14.78%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2023","Franklin W. Latta","Shares of Common Stock","24040","14.72%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2023","Mary L. Woods","Shares of Common Stock","20085","12.30%","n/a"
+"F & M FINANCIAL CORP","Lookout Mountian,"TN"","2023","Norwood E. Green","Shares of Common Stock","22500","13.77%","n/a"
+"F & M FINANCIAL CORP","Centre,"AL"","2023","Margaret L. or Mallory Whorton","Shares of Common Stock","20940","12.82%","n/a"
+"F & M FINANCIAL CORP","Piedmont,"AL"","2023","Jim D. Smallwood","Shares of Common Stock","13200","8.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M FINANCIAL CORP","President","Frankiln W. Latta","n/a","n/a","2023","n/a","n/a"
+"F & M FINANCIAL CORP","President","Christopher F. Latta","n/a","n/a","2023","n/a","n/a"
+"F & M FINANCIAL CORP","Director","Larry Deason","n/a","n/a","2023","n/a","n/a"
+"F & M FINANCIAL CORP","Secretary","Betty L. Rankin","n/a","n/a","2023","VP of Human Resources","n/a"
+"F & M FINANCIAL CORP","Director","Thomas Brimer","Owner","Pokey Brimer Auto Sales","2023","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","Trudy Lowe","Chief Operations Officer","Preferred Health Services,"Inc."","2023","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","David Neisler","Owner","Deck Foods","2023","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Owner","NLM Marketing,"LLC"","2023","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","Director","Greg Kernion","Owner","LGK Sales & Marketing Inc.","2023","Corporate Executive","n/a"
+"F & M FINANCIAL CORP","n/a","Margaret L. or Mallory Whorton","n/a","n/a","2023","Real Estate","n/a"
+```

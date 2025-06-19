@@ -1,18 +1,26 @@
-Here are the two tables in valid CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Commerce Bancshares,"Inc."","Northbrook","2017","Bixby Bridge Financial Trust,","Common Stock","4271335","99.98%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Northbrook,"IL"","2017","Bixby Bridge Financial Trust,","Common Stock","4271335","99.98%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Commerce Bancshares,"Inc."","Director and CEO","David A. Tate","Director and CEO","American Commerce Bank N. A.","2017"
-"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","Chairman,"Director"","American Commerce Bank N. A.","2017"
-"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","Director","n/a","2017"
-"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","Director and Marketing Coordinator","American Commerce Bank N. A.","2017"
-"American Commerce Bancshares,"Inc."","Director","J. William Richardson","Director","n/a","2017"
-"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Director","n/a","2017"
-"American Commerce Bancshares,"Inc."","Director","John Steele","Director","n/a","2017"
-"American Commerce Bancshares,"Inc."","Treasurer","Robert Koncerak","Chief Financial Officer,"Chief Risk Officer"","American Commerce Bank N. A.","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Director and CEO","David A. Tate","n/a","n/a","2017","N/A","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","n/a","Bixby Bridge Financial Trust u/t/a dated","2017","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","n/a","Lincolnshire Associates II,"Ltd."","2017","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","n/a","Magthan,"LLC"","2017","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","n/a","Bixby Bridge Capital,"LLC"","2017","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colburn","n/a","DDC 2009 Irrevocable Trust","2017","Private Investor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","n/a","Summit,"LLC"","2017","Retired bank president","n/a"
+"American Commerce Bancshares,"Inc."","Director","Larry R. Mathews","n/a","Angel Aircraft,"LLC"","2017","Retired bank president","n/a"
+"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","n/a","n/a","2017","Retired bank president","n/a"
+"American Commerce Bancshares,"Inc."","Director","J. William Richardson","n/a","Richardson Family,"LLC"","2017","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Director","J. William Richardson","n/a","Richardson Land Holdings,"LLC"","2017","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Exec. Director","Fla. Osteopathic Medical Assoc.","2017","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","Stephen R. Winn Realty Corp.","2017","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","Andrew Jackson Insurance LLC","2017","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","n/a","East Park Fortress,"LLC"","2017","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","John Steele","n/a","n/a","2017","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Chief Financial Officer","Robert Koncerak","n/a","n/a","2017","Treasurer","n/a"
 ```

@@ -1,18 +1,22 @@
-Here are the two tables extracted from the document in CSV format as requested.
-```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CBOS Bankshares,"Inc"","Merritt Island","2017","William T. Taylor","Common Stock","35963","6.09%"
-"CBOS Bankshares,"Inc"","Merritt Island","2017","William T. Taylor","Common Stock","21050","3.57%"
-"CBOS Bankshares,"Inc"","Merritt island","2017","CBOS Bankshares,"Inc Employee Stock Ownership Plan (w/401k Provisions)"","Common Stock","52653","8.92%"
-"CBOS Bankshares,"Inc"","n/a","2017","NA","n/a","NA","NA"
+Here are the two tables in CSV format as requested:
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2017","William T. Taylor","Common Stock","35963","6.09%","3450530"
+"CBOS Bankshares,"Inc"","Merritt Island,"FL"","2017","William T. Taylor","Wilson Trust","21050","3.57%","3450530"
+"CBOS Bankshares,"Inc"","Merritt island,"FL"","2017","CBOS Bankshares,"Inc Employee Stock Ownership Plan (w/401k Provisions)"","Common Stock","52653","8.92%","3450530"
 ```
-```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CBOS Bankshares,"Inc"","n/a","William T. Taylor","Director & CEO","Director & CEO CBOS","2017"
-"CBOS Bankshares,"Inc"","Director","Harold T. Bistline","Director CBOS","President","2017"
-"CBOS Bankshares,"Inc"","Director","Maxwell King","Director CBOS","NA","2017"
-"CBOS Bankshares,"Inc"","Director","Kevin Markey","Director CBOS","President","2017"
-"CBOS Bankshares,"Inc"","Director","Kevin Steele","Director CBOS","President","2017"
+```text
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBOS Bankshares,"Inc."","Director & CEO","William T. Taylor","n/a","n/a","2017","NA","3450530"
+"CBOS Bankshares,"Inc."","Director & CEO","William T. Taylor","n/a","CBOS","2017","NA","3450530"
+"CBOS Bankshares,"Inc."","Director","Harold T. Bistline","Attorney","Stromire,"Bistline","Miniclier"","2017","Attorney","3450530"
+"CBOS Bankshares,"Inc."","Director","Harold T. Bistline","President","Harold T. Bistline,"PA"","2017","Attorney","3450530"
+"CBOS Bankshares,"Inc."","Director","Maxwell King","n/a","n/a","2017","Retired College Pres","3450530"
+"CBOS Bankshares,"Inc."","Director","Maxwell King","n/a","CBOS","2017","Retired College Pres","3450530"
+"CBOS Bankshares,"Inc."","Director","Kevin Markey","Attorney","Kevin P. Markey,"P.L."","2017","Attorney","3450530"
+"CBOS Bankshares,"Inc."","Director","Kevin Markey","President","Kevin P. Markey,"P.L."","2017","Attorney","3450530"
+"CBOS Bankshares,"Inc."","Director","Kevin Steele","Car Dealer","Bob Steele Chevrolet","2017","Car Dealer","3450530"
+"CBOS Bankshares,"Inc."","Director","Kevin Steele","President","Bob Steele Chevrolet","2017","Car Dealer","3450530"
 ```

@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"n/a","n/a","n/a","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Jason R. Voyles","President","Spectrum Capital","2022","Real Estate Broker","29636"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2022","Business Manager","29636"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2022","Engineer","29636"
+"Citizens Holding Company","Director,"President & CEO"","Greg L. McKee","Director,"President & CEO"","n/a","2022","N/A","29636"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Co.","2022","Proprietor,"Auto Parts supply store"","29636"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2022","Physician","29636"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2022","Attorney","29636"
+"Citizens Holding Company","Director","Donald L Kilgore","Attorney","Private","2022","Attorney","29636"
+"Citizens Holding Company","Director","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2022","Chief Financial Officer","29636"
+"Citizens Holding Company","Director","Jane D. Crosswhite","Executive Vice President","Williams Brothers Incorporated","2022","Executive Vice Preside","29636"
+"Citizens Holding Company","Director","Gregory E. Cronin","Director,"Regional President"","n/a","2022","N/A","29636"
+"Citizens Holding Company","Treasurer & CFO","Phillip R. Branch","Senior Vice-President & CFO","n/a","2022","N/A","29636"
+```

@@ -1,0 +1,41 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2019","Scott Howell","common stock","1351","6.76%","n/a"
+"PBG Financial Services,"Inc."","Jacksonville,"Fl."","2019","Suzanne M. Sheffield & Joseph A. Sheffield","common stock","2324","11.62%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"USA"","2019","C. Finley McRae","common stock","1088","5.44%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2019","Donald R. & Anne Graham","common stock","1100","5.51%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2019","Robert F. McRae,"Jr. & Family"","common stock","2761","13.81%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2019","C. Finley McRae Family","common stock","4096","20.48%","n/a"
+"PBG Financial Services,"Inc."","Dunedin,"Fl."","2019","David M. Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Immokalee,"FL."","2019","John Clifford Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Maitland,"Fl."","2019","Kenneth Boyd Pelham","common stock","337","1.69%","n/a"
+"PBG Financial Services,"Inc."","Orlando,"Fl."","2019","Robert Frank Pelham","common stock","338","1.69%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBG FINANCIAL SERVICES,"INC"","Chrm. Pres. Director","Donald R. Graham","Director","Peoples Bank of Graceville","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Michael T Smith","Director","Peoples Bank of Graceville","2019","Comptroller Rex Lumber & Related Companies","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Joseph Jernigan","Director","Peoples Bank of Graceville","2019","CEO Arnold Lumber Co.","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Joseph Jernigan","CEO","Jernigan Co. LLC","2019","CEO Arnold Lumber Co.","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Joseph Jernigan","Chrm. CEO","Arnold Lumber Co","2019","CEO Arnold Lumber Co.","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Joseph Jernigan","Mg. Member","Jernigan Forest Products,"LLC"","2019","CEO Arnold Lumber Co.","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Ronald Barber","Director","Peoples Bank of Graceville","2019","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Ronald Barber","Partner","Donald/Ronald Farms","2019","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Ronald Barber","VP","Barber Fertilizer Co.,"Inc."","2019","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Caroline Dauzat","Director","Peoples Bank of Graceville","2019","CFO Rex Lumber","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director","Caroline Dauzat","Owner","Apalachee Pole Co","2019","CFO Rex Lumber","n/a"
+"PBG FINANCIAL SERVICES,"INC"","VP/Director","David M. Watford","Pres.,"CEO","V. Chrm. Director"","Peoples Bank of Graceville","2019","President Peoples Bank Graceville","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Director Secretary","John B. Turner","Sec/Director","Peoples Bank of Graceville","2019","Auditor Peoples Bank Graceville","n/a"
+"PBG FINANCIAL SERVICES,"INC"","Treasurer","Carol C. Smith","EVP & Cashier","Peoples Bank Graceville","2019","EVP/Cashier Peoples Bank of Graceville","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","C Finley McRae","N/A","N/A","2019","N/A","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Robert F McRae,"Jr"","N/A","N/A","2019","N/A","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","BMMS Properties,"Inc.","a Florida Corporation"","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","SHEFCO,"LLC"","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","S & H Enterprises,"LLC"","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","Jackson Duval,"LLC"","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","H & S Partners,"LLC"","2019","Retired","n/a"
+"PBG FINANCIAL SERVICES,"INC"","n/a","Suzanne M. Sheffield","N/A","McShef,"LLC"","2019","Retired","n/a"
+```

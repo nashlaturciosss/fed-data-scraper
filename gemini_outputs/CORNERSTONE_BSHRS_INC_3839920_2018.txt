@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","New York,"NY"","2018","Yaowu Zhang","Common Stock","786886","9.86%","n/a"
+"Cornerstone Bancshares,"Inc."","Ji Lin,"China"","2018","Yang Zhao","Common Stock","786885","9.86%","n/a"
+"Cornerstone Bancshares,"Inc."","Beijing,"China"","2018","Guomin Sun","Common Stock","632072","7.92%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cornerstone Bancshares,"Inc."","Director","Bill Pendleton","Managing Partner","Pen Investments LLC","2018","Investor","n/a"
+"Cornerstone Bancshares,"Inc."","Corporate Secretary","Katie Cassenti","Corporate Secretary","n/a","2018","Corporate Secretary and Executive Assistant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Atlanta Capital Holdings,"LLC"","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Urban Security Corporation","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Urban Parking Corporation","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Southeast Financial Corporation","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Dogwood Paces NV LLC","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","PNC PR CLNT IRVC TRST REF 1200 (ATL 05.12) LLC","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Via Advisors LLC","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","3288 Holdings LLC","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Frederick Clemente","Managing Partrier","Tailwind Financial LLC","2018","Managing Partner","n/a"
+"Cornerstone Bancshares,"Inc."","CEO/President","Gerald Lewis","n/a","n/a","2018","n/a","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ben Danielson","Executive Director","Kingstone Energy Group","2018","Financial Consultant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ben Danielson","Director","Craton Alpha","2018","Financial Consultant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ben Danielson","Director","HFT Resources","2018","Financial Consultant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Ben Danielson","Director","Jade Resources","2018","Financial Consultant","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Clay Snellings","Principal","Snellings Walters Insurance Agency","2018","Principal,"Snellings Walters Insurance Agency"","n/a"
+"Cornerstone Bancshares,"Inc."","Chairman","3. Paul Austin","Manager","Austin & Co.","2018","Investor","n/a"
+"Cornerstone Bancshares,"Inc."","Director and Co-Chairman","Ping Lee","Sole owner of","Pacific Piers Advisory LLC","2018","SVP at NextDecade Corporation","n/a"
+"Cornerstone Bancshares,"Inc."","Director","Thomas Purvis","n/a","n/a","2018","Retired","n/a"
+```

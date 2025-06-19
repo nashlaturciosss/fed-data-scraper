@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Giant Holdings,"Inc."","Fort Lauderdale,"FL"","2015","Jeffrey S. Roschman","Common Stock","7261318","38%","2994260"
+"Giant Holdings,"Inc."","Fort Lauderdale,"FL"","2015","Robert J. Roschman","Common Stock","4812636","25%","2994260"
+"Giant Holdings,"Inc."","Boca Raton,"FL"","2015","Perry A. LaCaria","Common Stock","580000","3%","2994260"
+"Giant Holdings,"Inc."","Boca Raton,"FL"","2015","Perry A. LaCaria","Options on Common Stock","400000","2%","2994260"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Giant Holdings,"Inc."","Director & Chairman","Jeffrey S. Roschman","Partner","Triple R Associates","2015","Business Owner & Investor","2994260"
+"Giant Holdings,"Inc."","Director & Chairman","Jeffrey S. Roschman","n/a","CT Capital","2015","Business Owner & Investor","2994260"
+"Giant Holdings,"Inc."","Director","Robert J. Roschman","Partner","Triple R Associates","2015","Business Owner & Investor","2994260"
+"Giant Holdings,"Inc."","Director","Robert J. Roschman","n/a","Florida Equities,"LLC"","2015","Business Owner & Investor","2994260"
+"Giant Holdings,"Inc."","Director & President","Perry A. LaCaria","n/a","n/a","2015","n/a","2994260"
+"Giant Holdings,"Inc."","Director","Stephan Tchividjian","Consultant","n/a","2015","Consultant","2994260"
+"Giant Holdings,"Inc."","Director","Allen Hertzman","Pres","JOHNCOL,"Inc."","2015","Business Owner & Investor","2994260"
+"Giant Holdings,"Inc."","Director EVP/CFO","Russell Conrad","n/a","n/a","2015","n/a","2994260"
+"Giant Holdings,"Inc."","Assistant Secretary","C. Timothy O'Connor","n/a","n/a","2015","n/a","2994260"
+```

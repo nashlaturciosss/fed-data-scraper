@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Amelia A. Wilson","Common Stock","749","27.36%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Harvey L. Wilson,"Jr."","Common Stock","174.25","6.36%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Harvey L. Wilson,"Jr."","Common Stock","174.25","6.36%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Harvey L. Wilson,"Sr."","Common Stock","136","4.97%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Amelia W. Haley","Common Stock","348.5","12.73%","n/a"
+"Peoples Bankshares,"Inc."","Eatonton,"Georgia"","2019","Amelia W. Haley","Common Stock","639","23.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bankshares Inc.","Director and Chairman","Amelia A. Wilson","n/a","n/a","2019","Retired","n/a"
+"Peoples Bankshares Inc.","Director/Vice-Chairman/CEO","Harvey L. Wilson,"Sr."","n/a","n/a","2019","Deceased","n/a"
+"Peoples Bankshares Inc.","Director and Secretary","Amelia W. Haley","n/a","n/a","2019","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director","W. Michael Rountree","Director/Business Development Officer","n/a","2019","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director/President/CEO","Charles R. Haley","n/a","n/a","2019","The Peoples Bank","n/a"
+"Peoples Bankshares Inc.","Director","Clayton R. Lancaster,"Jr."","Owner,"Lancaster Fertilizer Services"","Lancaster Fertilizer Services,"Inc"","2019","Fertilizer Services","n/a"
+"Peoples Bankshares Inc.","Director","Randall F. Daniel","Owner,"Daniel Development Inc"","R&K Daniel Co.","2019","Contractor/Builder","n/a"
+"Peoples Bankshares Inc.","Director","Harvey C. Walker,"Jr."","Sales","Daniel Development","2019","Mobile Home Sales","n/a"
+"Peoples Bankshares Inc.","Director","Steve W. Culberson","Director/Exec. V.P.","n/a","2019","The Peoples Bank","n/a"
+```

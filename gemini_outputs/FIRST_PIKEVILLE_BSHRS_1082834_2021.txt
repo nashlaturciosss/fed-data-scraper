@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Pikeville,"Tennessee"","2021","Phillip Crawford","n/a","4764","13.3%","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Pikeville,"Tennessee"","2021","Howard Upchurch","n/a","2491","6.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST PIKEVILLE BANCSHARES,"INC."","President and Director","Phillip L. Crawford","President and Director","n/a","2021","Banker","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Chairman","L. Clay Roberson","Chairman","n/a","2021","None","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","George S. Harnilton,"Jr."","Director","Hamilton Land and Auction Co.","2021","Realtor","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","Howard Upchurch","Attorney","Howard Upchurch Attorney","2021","Attorney","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","James William Pope,"III"","Assistant District Attorney","n/a","2021","Attorney","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","Terry Eastwood","Executive VP and Director","n/a","2021","Banker","n/a"
+```

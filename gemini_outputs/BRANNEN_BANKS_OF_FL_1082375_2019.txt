@@ -1,17 +1,16 @@
-Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Brannen Banks of Florida,"Inc."","Inverness","2019","Joseph S. Brannen","Common Stock","6756.09","67.6% "
-"Brannen Banks of Florida,"Inc."","Inverness","2019","Margaret Brannen Hagar","Common Stock","3243.91","32.4% "
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2019","Joseph S. Brannen","Common","6756.09","67.6%","n/a"
+"Brannen Banks of Florida,"Inc."","Inverness,"FL"","2019","Margaret Brannen Hagar","Common","3243.91","32.4%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2019"
-"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/President/Treasurer","Brannen Properties,"Inc."","2019"
-"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Brannen Bank","2019"
-"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","Brannen Bank","2019"
-"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Vice President","Brannen Properties,"Inc."","2019"
-"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2019"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2019","n/a","760331"
+"Brannen Banks of Florida,"Inc."","Director/Chairman and General Counsel","Joseph S. Brannen","Director/President/Treasurer","Brannen Properties,"Inc."","2019","n/a","760331"
+"Brannen Banks of Florida,"Inc."","Director","Margaret Brannen Hagar","Director","Brannen Bank","2019","n/a","760331"
+"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Director/President","Brannen Bank","2019","n/a","760331"
+"Brannen Banks of Florida,"Inc."","EVP","G. Matt Brannen","Vice President","Brannen Properties,"Inc."","2019","n/a","760331"
+"Brannen Banks of Florida,"Inc."","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2019","n/a","760331"
 ```

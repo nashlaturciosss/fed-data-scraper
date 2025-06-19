@@ -1,0 +1,15 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2019","John M Dudley","n/a","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2019","Menza Dudley","n/a","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2019","John M Dudley Sr Irrevocable Family Trust","n/a","215992","99.9%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","President,"Director"","John M Dudley","CEO,"Director"","Phenix-Girard Bank","2019","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","Vice President,"Secretary","Director"","Menza Dudley","n/a","Girard Partners Management,"Inc"","2019","n/a","n/a"
+"Phenix-Girard Bancshares,"Inc."","Vice President,"Secretary","Director"","Menza Dudley","n/a","Crawford Partners Management Inc","2019","n/a","n/a"
+"Phenix-Girard Bancshares,"Inc."","Vice President,"Secretary","Director"","Menza Dudley","n/a","MDLD,"LLC"","2019","n/a","n/a"
+```

@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares,"Inc."","Lafayette,"LA"","2023","CAP Voiting Trust","n/a","16782","28.05%","n/a"
+"Gulf Coast Bancshares,"Inc."","Abbeville,"LA"","2023","LeBlanc Family irrevocable Trust","n/a","3600","6.19%","n/a"
+"Gulf Coast Bancshares,"Inc."","Abbeville,"LA"","2023","Charles E. Dill Jr.","n/a","3517","5.88%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares,"Inc."","Director","Paul Patout","Director","Coast Bank","2023","n/a","n/a"
+"Gulf Coast Bancshares,"Inc."","Director & Chairman/President & CEO","Patrick Patout","Director","Coast Bank","2023","n/a","n/a"
+"Gulf Coast Bancshares,"Inc."","Director & Chief Finance Officer","Jason Patout","Director","Coast Bank","2023","n/a","n/a"
+"Gulf Coast Bancshares,"Inc."","Director","Paul J. Hebert","Director","Coast Bank","2023","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc."","Director","Paul J. Hebert","n/a","Magellan Construction LLC","2023","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc."","Director","Paul J. Hebert","n/a","Magellan Development LLC","2023","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc."","Director","Paul J. Hebert","n/a","Pinhook Associates LLC","2023","Attorney","n/a"
+"Gulf Coast Bancshares,"Inc."","n/a","EugeneM. Sellers,"Jr."","Director","Coast Bank","2023","Architect","n/a"
+"Gulf Coast Bancshares,"Inc."","n/a","EugeneM. Sellers,"Jr."","President","The Sellers Group","2023","Architect","n/a"
+"Gulf Coast Bancshares,"Inc."","Director","Christopher Dardeau","Director","Coast Bank","2023","n/a","n/a"
+```

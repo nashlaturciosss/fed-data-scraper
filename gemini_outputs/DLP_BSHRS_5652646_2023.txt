@@ -1,0 +1,26 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"DLP Bancshares inc","Jacksonville,"FL"","2023","Robert Peterson","common","150","3.55%","n/a"
+"DLP Bancshares inc","Jacksonville,"FL"","2023","Robert Peterson","warrants","150","1.80%","n/a"
+"DLP Bancshares inc","Jupiter,"FL"","2023","Frank Rodriquez & Kellyn Hall,"Tenants by Entirety"","common","200","4.74%","n/a"
+"DLP Bancshares inc","Jupiter,"FL"","2023","Frank Rodriquez & Kellyn Hall,"Tenants by Entirety"","warrants","200","2.40%","n/a"
+"DLP Bancshares inc","Saint Augustine,"FL"","2023","Don Wenner","common","850","20.13%","n/a"
+"DLP Bancshares inc","Saint Augustine,"FL"","2023","Don Wenner","warrants","825","9.76%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"DLP Bancshares inc","Chairman","Don Wenner","CEO","DLP Capital","2023","DLP Capital","n/a"
+"DLP Bancshares inc","Vice Chair","Robert Peterson","CFO","DLP Capital","2023","CFO,"DLP Capital"","n/a"
+"DLP Bancshares inc","Board Member","Frank Rodriguez","Chairman","Miramar Group","2023","Chairman,"Miramar Group"","n/a"
+"DLP Bancshares inc","Board Member","Lisa A. Narrell-Mead","CEO","Everett Advisory Part","2023","Attorney","n/a"
+"DLP Bancshares inc","Board Member","M. Allen Hatfield","Chairmen","n/a","2023","Entrepreneur","n/a"
+"DLP Bancshares inc","Board Member","Eric Smith","n/a","n/a","2023","Attorney","n/a"
+"DLP Bancshares inc","President,"CEO","& Director"","Thomas Fontaine","n/a","n/a","2023","Bank CEO","n/a"
+"DLP Bancshares inc","EVP / COO","Carolyn Reddish","n/a","n/a","2023","Secretary","n/a"
+"DLP Bancshares inc","SVP CCO/CRO,"Director"","Joseph Marsocci","n/a","n/a","2023","n/a","n/a"
+"DLP Bancshares inc","SVP/ CTO & ISO","James Eison","n/a","n/a","2023","n/a","n/a"
+"DLP Bancshares inc","SVP / BSA,"Compliance Officer"","Andrea Wasson","n/a","n/a","2023","n/a","n/a"
+"DLP Bancshares inc","SVP / Regional Operations Manager","Tammie Woodard","n/a","n/a","2023","n/a","n/a"
+"DLP Bancshares inc","SVP / Branch Manger","Jennie Reed","n/a","n/a","2023","n/a","n/a"
+"DLP Bancshares inc","SVP / Senior Loan Officer","E. Zekequiel Barragan","n/a","n/a","2023","n/a","n/a"
+```

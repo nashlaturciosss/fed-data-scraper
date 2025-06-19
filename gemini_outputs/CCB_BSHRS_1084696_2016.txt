@@ -1,16 +1,12 @@
-"Okay","I've prepared the CSV data for you."
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CCB Bancshares,"Inc."","Hahira","2016","D.K. Hollis,"Jr."","n/a","3558","70.43%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2016","D.K. Hollis,"Jr."","n/a","3558","70.43%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CCB Bancshares,"Inc."","Director","D.K. Hollis,"Jr."","Executive Officer","Citizens Community Bank","2016"
-"CCB Bancshares,"Inc."","Director","Glenn L. Copeland","Executive Officer,"CEO"","Citizens Community Bank","2016"
-"CCB Bancshares,"Inc."","President","Starling H. Waldron","Executive Officer,"CFO"","Citizens Community Bank","2016"
-"CCB Bancshares,"Inc."","Treasurer","Archie Waldron","President","Remerton Agency,"Inc"","2016"
-"CCB Bancshares,"Inc."","n/a","Tim S Jones","n/a","n/a","2016"
-"CCB Bancshares,"Inc."","President","David Hollis,"III"","n/a","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CCB Bancshares,"Inc."","Director","D.K. Hollis,"Jr. Copeland"","n/a","Lone Oak LLLP","2016","n/a","564838"
+"CCB Bancshares,"Inc."","Director,"President"","Glenn L. Waldron","n/a","n/a","2016","n/a","564838"
+"CCB Bancshares,"Inc."","Secretary,"Treasurer"","Starling H. Waldron","n/a","Lone Oak LLLP","2016","n/a","564838"
+"CCB Bancshares,"Inc."","President","Tim S Jones","n/a","n/a","2016","n/a","564838"
+"CCB Bancshares,"Inc."","Vice President","David Hollis,"III"","n/a","Lone Oak LLLP","2016","n/a","564838"
 ```

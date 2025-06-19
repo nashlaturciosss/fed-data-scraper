@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Lafayette,"LA"","2015","CAP Voiting Trust","n/a","n/a","24.49%","n/a"
+"Gulf Coast Bancshares,"Inc"","Lafayette,"LA"","2015","Paul Patout,"Patrick Patout","and Raymond Patout","Trustee"","n/a","16782","24.49%","n/a"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2015","Lorraine LeBlanc","n/a","3708","5.41%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bank","Vice Chairman & Director","Richard Dubois","n/a","n/a","2015","n/a","459130"
+"Gulf Coast Bank","Director & Secretary","LeBlanc Family","n/a","n/a","2015","n/a","459130"
+"Gulf Coast Bank","Director & President","Paul Patout","n/a","n/a","2015","n/a","459130"
+"Gulf Coast Bank","Director & Chairman","Patrick Patout","n/a","Gulf","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Gulf","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Ottinger Hebert,"LLC"","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Magellan Construction LLC","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Magellan Development LLC","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Gulf Pinhook Associates LLC","2015","n/a","459130"
+"Gulf Coast Bank","Director","Emmet Putnam III","n/a","Jimmy Johns LLC Lafayette","2015","n/a","459130"
+"Gulf Coast Bank","Director","Paul J. Hebert","Attorney","n/a","2015","Attorney","459130"
+```

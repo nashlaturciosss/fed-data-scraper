@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Thomas A. Wilson","Common Stock","27563","24.63%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Wilson Farm,"LLC"","Common Stock","8203","7.32%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","John W. Holifield","Common Stock","11769","10.50%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Estate of William L. Nichols","Common Stock","8021","7.16%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Sam Givhan","Common Stock","12807","11.42%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Estate of E. Herndon Smith","Common Stock","11461","10.23%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Estate of E. Herndon Smith","Class A Voting Shares","11461","10.23%","n/a"
+"Marion Bancshares,"Inc."","Marion,"AL"","2022","Estate of E. Herndon Smith","Class A Non-Voting Shares","0","0.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion Bancshares,"Inc."","Chairman of the Board of Directors","Sam Givhan","n/a","n/a","2022","Attorney","n/a"
+"Marion Bancshares,"Inc."","Chief Executive Officer","William R. Ireland","n/a","n/a","2022","Banker","n/a"
+"Marion Bancshares,"Inc."","Director","William M. Chapman,"Jr."","n/a","n/a","2022","Certified Public Accountant","n/a"
+"Marion Bancshares,"Inc."","Director","John W. Holifield","n/a","n/a","2022","Business Owner","n/a"
+"Marion Bancshares,"Inc."","Director","Paul M. James","Partner","James and Talton","2022","Attorney","n/a"
+"Marion Bancshares,"Inc."","Director","Thomas A. Wilson","Owner","Wilson Farm,"LLC"","2022","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Elizabeth D. Moore","n/a","n/a","2022","Homemaker","n/a"
+"Marion Bancshares,"Inc."","Director","Patrick T. Nelson","n/a","n/a","2022","Physician","n/a"
+"Marion Bancshares,"Inc."","Director","Dr. James W. Bearden","n/a","n/a","2022","Physician","n/a"
+```

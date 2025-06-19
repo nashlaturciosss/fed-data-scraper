@@ -1,0 +1,26 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeff Davis Bancshares,"Inc."","Jennings,"LA"","2018","Dan L. Donald,"Jr."","n/a","142072","9.11%","n/a"
+"Jeff Davis Bancshares,"Inc."","Jennings,"LA"","2018","David B. Donald","n/a","89000","5.71%","n/a"
+"Jeff Davis Bancshares,"Inc."","New York,"NY"","2018","Cede & Company","n/a","444782","28.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeff Davis Bancshares,"Inc."","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC (Medical Corp)","2018","OB/GYN Physician","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Clarence Berken","Partner","Berken Brothers","2018","Self-employed Farmer","980531"
+"Jeff Davis Bancshares,"Inc."","Director President/CEO","Boyd R. Boudreaux","Owner","Holly Beach Rentals,"LLC"","2018","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2018","Certified Public Accountant","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2018","President Oilfield Equipment Sales,"Inc."","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Milton Ray Crochet","President","Calcasieu Rentals,"Inc."","2018","President Calcasieu Rentals,"Inc."","980531"
+"Jeff Davis Bancshares,"Inc."","Director Chairman","Dan L. Donald,"Jr."","n/a","Niblett Irrigation,"Inc."","2018","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director Vice Chairman","David B. Donald","President","Niblett Irrigation,"Inc."","2018","Manager/Owner Donald Farms","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Ray Hines","President","Scoboco,"Inc."","2018","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Thomas E. Leger","President","Thomas E. Leger,"DDS","Inc."","2018","Dentist","980531"
+"Jeff Davis Bancshares,"Inc."","Director Secretary","Sara A. Roberts","Chairman of Board and CFO","R & R Construction,"Inc."","2018","President Sara A. Roberts,"CPA","APAC"","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Victor T. Stelly","President","Vic Stelly Insurance Agency,"Inc."","2018","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2018","N/A","980531"
+"Jeff Davis Bancshares,"Inc."","n/a","Cede & Company","n/a","n/a","2018","N/A","980531"
+```

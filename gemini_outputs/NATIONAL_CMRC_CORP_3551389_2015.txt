@@ -1,0 +1,36 @@
+"Here are the two CSV tables you requested","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"National Commerce Corporation","Birmingham,"AL"","2015","Charles Phillip McWane Grantor Retained Annuity Trust","common stock","915324","8.46%","3551389"
+"National Commerce Corporation","Birmingham,"AL"","2015","Charles Philip McWane","common stock","415767","3.84%","3551389"
+"National Commerce Corporation","Birmingham,"AL"","2015","NBC Holdings,"LLC"","common stock","507895","4.69%","3551389"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"National Commerce Corporation","Chairman & CEO & Director","John H. Holcomb,"III"","Chairman of the Board","National Bank of Commerce","2015","n/a","n/a"
+"National Commerce Corporation","President & COO & Director","Richard Murray,"IV"","CEO & President","National Bank of Commerce","2015","n/a","n/a"
+"National Commerce Corporation","Vice Chairman-CFO & Director","William E. Matthews,"V"","Vice Chairman -CFO","National Bank of Commerce","2015","n/a","n/a"
+"National Commerce Corporation","n/a","William Ireland,"Jr."","EVP - Chief Risk Management Officer","National Bank of Commerce","2015","n/a","n/a"
+"National Commerce Corporation","n/a","William Ireland,"Jr."","EVP - Chief Risk Management Officer","Dexter Properties,"LLC"","2015","n/a","n/a"
+"National Commerce Corporation","n/a","William Ireland,"Jr."","EVP - Chief Risk Management Officer","BAJOBI,"LLC"","2015","n/a","n/a"
+"National Commerce Corporation","EVP - Bank Operations","John R. Bragg","EVP - Bank Operations","National Bank of Commerce","2015","n/a","n/a"
+"National Commerce Corporation","EVP - Bank Operations","John R. Bragg","EVP - Bank Operations","Magnolia Building,"LLC"","2015","n/a","n/a"
+"National Commerce Corporation","Director","Bobby Bradley","Manager","Lewis Properties","2015","Real Estate Services","n/a"
+"National Commerce Corporation","Director","Bobby Bradley","Manager","Genesis II,"LLC"","2015","Real Estate Services","n/a"
+"National Commerce Corporation","Director","Bobby Bradley","Manager","TSC Partnership","2015","Real Estate Services","n/a"
+"National Commerce Corporation","Director","Jerry Kimbrough","Partner","Warren Averett Kimbrough & Marino","2015","Certified Public Accountant","n/a"
+"National Commerce Corporation","Director","Jerry Kimbrough","Partner","JDK Investments,"LLC"","2015","Certified Public Accountant","n/a"
+"National Commerce Corporation","Director","C. Phillip McWane","Chairman","McWane Inc.","2015","Executive Manufacturing Company Ductile Pipe","n/a"
+"National Commerce Corporation","Director","G. Ruffner Page,"Jr."","President","McWane Inc.","2015","Executive Manufacturing Company Ductile Pipe","n/a"
+"National Commerce Corporation","Director","W. Stancil Starnes","Chairman & CEO","ProAssurance Corporation","2015","Insurance Company Executive","n/a"
+"National Commerce Corporation","Director","Russell Vandevelde","CEO","EBS Services,"LLC"","2015","Life Insurance and Benefits Consultant","n/a"
+"National Commerce Corporation","Director","Russell Vandevelde","CEO","CCi,"Inc."","2015","Life Insurance and Benefits Consultant","n/a"
+"National Commerce Corporation","Director","R. Holman Head","President & CEO","O'Neal Steel","2015","Executive Manufacturing Company Steel","n/a"
+"National Commerce Corporation","Director","Temple Tutwiler","President","Tutwiler Properties,"Ltd."","2015","Real Estate","n/a"
+"National Commerce Corporation","Director","Stephen A. Sevigny","Physician","n/a","2015","Physician","n/a"
+"National Commerce Corporation","Director","Donald F. Wright","Partner","Wright,"Fulford Moorhead & Brown"","2015","Lawyer","n/a"
+"National Commerce Corporation","Director","Donald F. Wright","Partner","Officeco II,"LLC"","2015","Lawyer","n/a"
+"National Commerce Corporation","Director","Donald F. Wright","Partner","Hangarco II,"Inc."","2015","Lawyer","n/a"
+```

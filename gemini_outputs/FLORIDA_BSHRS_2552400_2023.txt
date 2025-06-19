@@ -1,0 +1,29 @@
+Here are the tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2023","A.P. Gibbs and Sandra G. Gibbs","Common Stock","125550","12.42%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2023","J. Lamar Roberts","Common Stock","54310","5.37%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2023","Ernest Peeples and Jimmie Peeples","Common Stock","77348","7.65%","n/a"
+"Florida Bancshares,"Inc."","San Antonio,"FL"","2023","Marlene S. Sumner","Common Stock","46209","4.57%","n/a"
+"Florida Bancshares,"Inc."","Camden,"DE"","2023","Aiden Fintech Group,"Inc."","Common Stock","63107","6.24%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Bancshares,"Inc."","Director,"Chairman"","A.P. Gibbs","n/a","First National Bank of Pasco","2023","Retired Attorney","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice-Chairman"","Paul P. Midili","President","Jovita Insurance Inc.","2023","Retired Insurance,"Citrus Grower"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice-Chairman"","Paul P. Midili","n/a","Paul Midili Realty,"Inc."","2023","Retired Insurance,"Citrus Grower"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice-Chairman"","Paul P. Midili","n/a","Four M Properties,"Inc."","2023","Retired Insurance,"Citrus Grower"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice-Chairman"","Paul P. Midili","n/a","Economy Insurance Mart,"Inc."","2023","Retired Insurance,"Citrus Grower"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice-Chairman"","Paul P. Midili","n/a","Midili Enterprises,"Inc."","2023","Retired Insurance,"Citrus Grower"","n/a"
+"Florida Bancshares,"Inc."","Director","Fadi Cheikha","Owner","Aiden Fintech Group,"Inc."","2023","Entrepreneur","n/a"
+"Florida Bancshares,"Inc."","Director","Ernest L. Peeples","Owner","Peeples Groves","2023","Citrus Grower","n/a"
+"Florida Bancshares,"Inc."","Director","John E. Henson","n/a","First National Bank of Pasco","2023","Retired CPA","n/a"
+"Florida Bancshares,"Inc."","Director","Stephen D. Carle","Owner","Hodges & Carle P.A.","2023","Attorney","n/a"
+"Florida Bancshares,"Inc."","Director","Chris Black","n/a","First National Bank of Pasco","2023","Retired Insurance","n/a"
+"Florida Bancshares,"Inc."","Director","Paula S. O'Neil","n/a","First National Bank of Pasco","2023","Retired Clerk & Comptroller","n/a"
+"Florida Bancshares,"Inc."","President,"Director"","James Esry","n/a","First National Bank of Pasco","2023","Banker","n/a"
+"Florida Bancshares,"Inc."","Treasurer","Manny Long","EVP/CFO","First National Bank of Pasco","2023","Banker","n/a"
+"Florida Bancshares,"Inc."","Secretary","Jody Grenville","HR Officer","First National Bank of Pasco","2023","Banker","n/a"
+```

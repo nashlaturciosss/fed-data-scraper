@@ -1,0 +1,23 @@
+Here are your requested CSV tables.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Menden,"MS"","2019","Bannia O. Rogers,"Jr."","Common Stock","5028","13.92%","n/a"
+"Morton Bancorp,"Inc."","Jackson,"MS"","2019","Martha J. Rogers","Common Stock","7607.8","21.07%","n/a"
+"Morton Bancorp,"Inc."","Brandon,"MS"","2019","Beth Rogers","Common Stock","4508.1","12.48%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Director","Kathleen Brune","Director","Viking Culinary Arts","2019","Commercial Development Manager","n/a"
+"Morton Bancorp,"Inc."","Secretary/Treasurer Director","Tito Echiburu","CPO","n/a","2019","VP Finance","n/a"
+"Morton Bancorp,"Inc."","Director","Charles Latham","n/a","n/a","2019","Farmer","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","B.C. Rogers Oil Co.,"Ina"","2019","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","Rogers Farms Partnership","2019","n/a","n/a"
+"Morton Bancorp,"Inc."","President/Director","Martha J. Rogers","Secretary","B.C. Rogers and Sons","2019","n/a","n/a"
+"Morton Bancorp,"Inc."","Director","Kenneth Gordon Jr.","President","n/a","2019","Vice President","n/a"
+"Morton Bancorp,"Inc."","n/a","Hannis C. Rogers,"Jr"","President","B.C. Rogers Oil Co.,"Ina"","2019","Owner Manager","n/a"
+"Morton Bancorp,"Inc."","n/a","Hannis C. Rogers,"Jr"","President","Rogers Farms Partnership","2019","Owner Manager","n/a"
+"Morton Bancorp,"Inc."","n/a","Hannis C. Rogers,"Jr"","President","B.C. Rogers and Sons","2019","Owner Manager","n/a"
+"Morton Bancorp,"Inc."","Director","Beth Rogers","n/a","n/a","2019","House","n/a"
+```

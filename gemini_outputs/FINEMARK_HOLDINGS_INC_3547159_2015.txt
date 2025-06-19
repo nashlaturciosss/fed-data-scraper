@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FINEMARK HOLDINGS,"INC."","Fort Myers,"FL"","2015","John Blais,"Jr."","Common Stock","464206","5.25%","n/a"
+"FINEMARK HOLDINGS,"INC."","Fort Myers,"FL"","2015","John Blais,"Jr."","Options on Common Stock","82000","0.93%","n/a"
+"FINEMARK HOLDINGS,"INC."","Fort Myers,"FL"","2015","David Lucas","Common Stock","2099378","23.76%","n/a"
+"FINEMARK HOLDINGS,"INC."","Fort Myers,"FL"","2015","David Lucas","Options to purchase common stock","0","0.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FineMark Holdings,"Inc."","Director","Richard Beightol","n/a","RJB Investments","2015","Consultant for Trustmark Life Insurance Company","n/a"
+"FineMark Holdings,"Inc."","Director","Edward Beimfohr","n/a","Windels Marx Lane & Mittendorf LLP","2015","Partner of the law firm Windels Marx Lane & Mittendorf LLP","n/a"
+"FineMark Holdings,"Inc."","Director","Aurelia Bell","n/a","Arrowhead Partners,"Inc."","2015","President Arrowhead Partners,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director & Vice Chairman","John Blais,"Jr."","n/a","Blaisco","2015","Owner of Blaisco a holding company that owns ten companies","n/a"
+"FineMark Holdings,"Inc."","Director","Michael Carron,"M.D."","n/a","Radiology Regional Center LL","2015","Interventional Radiologist","n/a"
+"FineMark Holdings,"Inc."","Director","Michael Carron,"M.D."","n/a","805 Del Prado Building Partnership","2015","Interventional Radiologist","n/a"
+"FineMark Holdings,"Inc."","Director","Thomas Case","n/a","Case Pearlman Holdings,"Inc"","2015","Chairman the Case Companies","n/a"
+"FineMark Holdings,"Inc."","Director & President & CEO","Joseph Catti","n/a","n/a","2015","n/a","n/a"
+"FineMark Holdings,"Inc."","Director & Chief Financial Officer","Brian Eagleston","n/a","ABDE,"LLC"","2015","n/a","n/a"
+"FineMark Holdings,"Inc."","Director & Chief Financial Officer","Brian Eagleston","n/a","GSE,"LLC"","2015","n/a","n/a"
+"FineMark Holdings,"Inc."","Director","Scott Edmonds","n/a","Mainline Realty","2015","Retired President & CEO of Chico's FAS,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","Tracey Galloway","n/a","Edison College Foundation,"Inc."","2015","District Director of Development for Edison College Foundation,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","William Horowitz","n/a","Cummings & Lockwood LLC.","2015","Attorney and principal of Cummings & Lockwood LLC.","n/a"
+"FineMark Holdings,"Inc."","Director","Clive Lubner","n/a","Robb & Stucky Ltd","2015","CEO of Robb & Stucky,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","Clive Lubner","n/a","Derb Rd Ltd","2015","CEO of Robb & Stucky,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","Clive Lubner","n/a","Lubner Family Ltd","2015","CEO of Robb & Stucky,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","Clive Lubner","n/a","Lubner Kallmeyer Ltc","2015","CEO of Robb & Stucky,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director & Chairman","David Lucas","n/a","The Bonita Bay Group","2015","Chairman of the Board,"the Bonita Bay Group"","n/a"
+"FineMark Holdings,"Inc."","Director","Vito Manone","n/a","Manone Investments","2015","President of Manone Investments","n/a"
+"FineMark Holdings,"Inc."","Director","Vito Manone","n/a","Cibola Vista LLC","2015","President of Manone Investments","n/a"
+"FineMark Holdings,"Inc."","Director","Alan Reynolds","n/a","WilsonMiller,"Inc."","2015","Chairman and CEO of WilsonMiller,"Inc."","n/a"
+"FineMark Holdings,"Inc."","Director","Lee Seidler","n/a","n/a","2015","Retired professor of Accounting at New York University's Graduate School of Business","n/a"
+"FineMark Holdings,"Inc."","Director","William Turner","n/a","n/a","2015","Former CEO & Chairman of PNC Bank,"Dean of the College of Business at Stony Brook University"","n/a"
+"FineMark Holdings,"Inc."","Director","Martin Wasmer","n/a","Wasmer & Schroeder & Co.","2015","CEO Wasmer Schroeder & Co.","n/a"
+"FineMark Holdings,"Inc."","Director","Martin Wasmer","n/a","USC Realty","2015","CEO Wasmer Schroeder & Co.","n/a"
+```

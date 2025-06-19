@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F.B.H. Corporation","Fayette,"AL"","2019","William C. Robertson","Common Stock","213.8","10.7%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2019","Thomas H. Robertson,"IV"","Common Stock","375.7","18.8%","n/a"
+"F.B.H. Corporation","Portland,"OR"","2019","Susan E. Robertson","Common Stock","375.7","18.8%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2019","John C. Robertson,"Jr."","Common Stock","390.9","19.6%","n/a"
+"F.B.H. Corporation","Fayette,"AL"","2019","Catherine L. Robertson","Common Stock","183.5","9.2%","n/a"
+"F.B.H. Corporation","Mobile,"AL"","2019","Margaret C. Robertson","Common Stock","100.2","5.0%","n/a"
+"F.B.H. Corporation","Birmingham,"AL"","2019","Kelly R. Huggart","Common Stock","100.2","5.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F.B.H. Corporation","Chairman Emeritus","William C. Robertson","n/a","n/a","2019","n/a","n/a"
+"F.B.H. Corporation","Chairman","John C. Robertson,"Jr."","n/a","n/a","2019","n/a","n/a"
+"F.B.H. Corporation","Principal Securities Holder","Susan E. Robertson","Librarian","Portland Public Schools","2019","Librarian","n/a"
+"F.B.H. Corporation","Principal Securities Holder","Thomas H. Robertson,"IV"","Owner","Tom Robertson Photography","2019","Photographer","n/a"
+"F.B.H. Corporation","Director","Catherine L. Robertson","n/a","n/a","2019","Retired Guest Svcs Director","n/a"
+"F.B.H. Corporation","Director","Amy R. Vaden","Development Associate","Southern Alliance for Clean Energy","2019","Development Associate","n/a"
+```

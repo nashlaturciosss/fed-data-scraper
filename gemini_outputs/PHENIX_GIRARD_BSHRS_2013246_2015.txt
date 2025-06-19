@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2016","John M Dudley","Common Stock","2","less than 1%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2016","Menza Dudley","Common Stock","2","less than 1%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2016","John M Dudley Sr Irrevocable Family Trust","Common Stock","215992","99.9%","432432"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Vice President,"Secretary","Director"","Lumberman","n/a","Phenix Lumber Company","2016","President,"Treasurer","Director Phenix-Girard Bancshares."","432432"
+"Phenix-Girard Bancshares,"Inc."","CEO,"Director Phenix-Girard Bank"","n/a","President,"Director Phenix-Girard Bank"","n/a","2016","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","n/a","President","Girard Partners Management,"Inc"","2016","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","n/a","President","Crawford Partners Management Inc","2016","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","n/a","Member","MDLD,"LLC"","2016","n/a","432432"
+```

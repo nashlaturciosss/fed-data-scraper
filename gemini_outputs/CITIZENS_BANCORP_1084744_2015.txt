@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp,"Inc."","Knoxville,"TN"","2015","Newkirk Family","Common Stock","21178","10.170%","1084744"
+"Citizens Bancorp,"Inc."","Strawberry Plans,"TN"","2015","Rudder Family","Common Stock","21166","10.165%","1084744"
+"Citizens Bancorp,"Inc."","Knoxville,"TN"","2015","Russell Family","Common Stock","20797","9.987%","1084744"
+"Citizens Bancorp,"Inc."","Tazewell,"TN"","2015","Roger Ball","Common Stock","15950","7.660%","1084744"
+"Citizens Bancorp,"Inc."","Tazewell,"TN"","2015","Ball Family","Common Stock","1001","0.480%","1084744"
+"Citizens Bancorp,"Inc."","Amelia Island,"FL"","2015","Russell Family","Common Stock","13333","6.403%","1084744"
+"Citizens Bancorp,"Inc."","New Tazewell,"TN"","2015","Lewis Family","Common Stock","12999","6.243%","1084744"
+"Citizens Bancorp,"Inc."","Sneedville,"TN"","2015","Harrison Family","Common Stock","12143","5.831%","1084744"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","n/a","Ball Realty & Auction,"Inc."","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","n/a","Ball Limited,"LLP"","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","n/a","Ball Family Invest.","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","n/a","Ball Ready Mix,"Inc."","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Chairman","Roger A. Ball","n/a","BAHT","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","President Treasurer","Kenneth V. Jones","n/a","n/a","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Secretary","Frances Hensley","n/a","n/a","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Director","Thomas J. Harrison","n/a","n/a","2015","Manager Sneedville Elect. & Furniture Co.","1084744"
+"Citizens Bancorp,"Inc."","Director","C. Larry Lamb","n/a","Lamb Family Limited Partnership","2015","Retired from In Home Medical","1084744"
+"Citizens Bancorp,"Inc."","Director","C. Larry Lamb","n/a","D & T Rentals","2015","Retired from In Home Medical","1084744"
+"Citizens Bancorp,"Inc."","Director","C. Larry Lamb","n/a","D & L Properties","2015","Retired from In Home Medical","1084744"
+"Citizens Bancorp,"Inc."","Director","Nancy Large","n/a","n/a","2015","Retired Clinical Nutritionist","1084744"
+"Citizens Bancorp,"Inc."","Director","Nan S. Cole","n/a","n/a","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","Director","William M. Russell","n/a","Russell Brothers.","2015","Managing Gen. Partner Russell Brothers.","1084744"
+"Citizens Bancorp,"Inc."","n/a","Newkirk Family","n/a","n/a","2015","n/a","1084744"
+"Citizens Bancorp,"Inc."","n/a","Rudder Family","n/a","n/a","2015","n/a","1084744"
+```

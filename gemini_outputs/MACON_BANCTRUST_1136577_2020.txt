@@ -1,0 +1,29 @@
+"Here are the two CSV tables extracted from the document","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MACON BANCTRUST,"INC."","Gallatin,"TN"","2020","Gregory Investments,"LLC"","n/a","6179","11.54%","n/a"
+"MACON BANCTRUST,"INC."","Red Boiling Springs,"TN"","2020","Hugh Wayne Clark","n/a","5352","9.99%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MACON BANCTRUST,"INC."","Director","BEN BRAY","Real Estate Agent","Ben Bray Real Estate and Auction","2020","Real Estate Agent","n/a"
+"MACON BANCTRUST,"INC."","Director","BEN BRAY","Real Estate Agent","Macon Mini Storage LLC","2020","Real Estate Agent","n/a"
+"MACON BANCTRUST,"INC."","Director","Donald Ray Birdwell","Director","n/a","2020","Retired Banker","n/a"
+"MACON BANCTRUST,"INC."","Director","Darrell Carman","Director","Darrell Carman LLC","2020","Real Estate Agent","n/a"
+"MACON BANCTRUST,"INC."","Director","Darrell Carman","Director","Gene Caman Real Esate & Auction","2020","Real Estate Agent","n/a"
+"MACON BANCTRUST,"INC."","Director","Eddie K Chitwood","Director","TMC Group,"Inc."","2020","Pharmacist","n/a"
+"MACON BANCTRUST,"INC."","Director","Hugh Wayne Clark","Director","Clark Lumber Co.,"Inc"","2020","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC."","Director","Hugh Wayne Clark","Director","Clark Lumber Co LLC","2020","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC."","Director","Hugh Wayne Clark","Director","Bran-em Trucking","2020","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC."","Director","Melvin Grace","Director","Grace Discount Foods","2020","Red Retail Merchant","n/a"
+"MACON BANCTRUST,"INC."","Director","William B Green","Director","n/a","2020","Red Retired Banker","n/a"
+"MACON BANCTRUST,"INC."","Director","Odric Gregory","Director","Gregory Investments,"LLC"","2020","Rental properties","n/a"
+"MACON BANCTRUST,"INC."","Director","Odric Gregory","Director","Gregory Real Estate,"LLC"","2020","Rental properties","n/a"
+"MACON BANCTRUST,"INC."","Director","Odric Gregory","Director","Gallatin Warehousing","2020","Rental properties","n/a"
+"MACON BANCTRUST,"INC."","Director","Olin Jent Jr.","Director","n/a","2020","Pharmacist","n/a"
+"MACON BANCTRUST,"INC."","Director","Jerry Kirby","Director","Kirby & Kirby","2020","Rental properties","n/a"
+"MACON BANCTRUST,"INC."","Chairman,"President & CEO"","Radford A West","Chairman,"President and CEO"","n/a","2020","Banking","n/a"
+"MACON BANCTRUST,"INC."","Secretary,"Treasurer"","Chrissy Smith","Assistant Vice President & Personnel Director","n/a","2020","Banking","n/a"
+```

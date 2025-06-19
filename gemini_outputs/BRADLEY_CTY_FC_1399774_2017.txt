@@ -1,15 +1,20 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bradley County Financial Corp.","Cleveland","2017","R. Scott Taylor","n/a","92650","34.73%"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bradley County Financial Corp.","Chairman CEO President","R. Scott Taylor","Chairman CEO","n/a","2017"
-"Bradley County Financial Corp.","Director","Gerald Burns","Director","Burns Ornamental Iron & Fabricating,"Inc."","2017"
-"Bradley County Financial Corp.","Director","Fritz G. Harris","Director","Williamsoon & Trewhitt CPA's PC","2017"
-"Bradley County Financial Corp.","Director","Steve Robinson","Director","Cleveland Plywood Company","2017"
-"Bradley County Financial Corp.","Director","Steve Lambert","Director","Bradley Concrete Inc.","2017"
-"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","Director President & CFO","n/a","2017"
-"Bradley County Financial Corp.","Director","Terry J. Buckner","Director","n/a","2017"
-"Bradley County Financial Corp.","Director","Clint R. Taylor","n/a","Crescent Builders,"LLC"","2017"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bradley County Financial Corp.","Cleveland,"TN"","2017","R. Scott Taylor","n/a","92650","34.73%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bradley County Financial Corp.","Chairman CEO President","R. Scott Taylor","n/a","n/a","2017","Banker","144034"
+"Bradley County Financial Corp.","Director","Gerald Burns","Owner","Burns Ornamental Iron & Fabricating,"Inc."","2017","Businessman","144034"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","n/a","Williamsoon & Trewhitt CPA's PC","2017","Accountant","144034"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","Owner","Orbit Oil Inc.","2017","Accountant","144034"
+"Bradley County Financial Corp.","Director","Steve Robinson","Owner","Cleveland Plywood Company","2017","Businessman","144034"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Bradley Concrete Inc.","2017","Businessman","144034"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambcon Inc.","2017","Businessman","144034"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambert Investments Inc","2017","Businessman","144034"
+"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","n/a","n/a","2017","Banker","144034"
+"Bradley County Financial Corp.","Director","Terry J. Buckner","n/a","n/a","2017","Banker","144034"
+"Bradley County Financial Corp.","Director","Clint R. Taylor","Owner","Crescent Builders,"LLC"","2017","Businessman","144034"
 ```

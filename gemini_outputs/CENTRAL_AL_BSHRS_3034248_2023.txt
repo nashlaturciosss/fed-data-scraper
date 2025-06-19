@@ -1,20 +1,19 @@
-Here are the two tables you requested in CSV format:
+Here are the requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Alabama Bancshares,"Inc."","n/a","2023","n/a","n/a","n/a","n/a"
-"Central Alabama Bancshares,"Inc."","n/a","2023","n/a","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Alabama Bancshares,"Inc."","Physician","Spencer J. Coleman,"Sr. MD"","Director","n/a","2023"
-"Central Alabama Bancshares,"Inc."","Retired Banker","Sheila Spiers","Director","n/a","2023"
-"Central Alabama Bancshares,"Inc."","Banker","Travis Cosby,"fil"","Chairman/Director","Trico Financial Services LLC","2023"
-"Central Alabama Bancshares,"Inc."","Banker","Michael R. Morgan","CEO Director","n/a","2023"
-"Central Alabama Bancshares,"Inc."","Mortgage Lender","John R. Williams","Director","Mortgage Corporation of the South","2023"
-"Central Alabama Bancshares,"Inc."","Forester","Johnny M. Carothers,"Jr."","Director","Baseline Forest Services,"Inc."","2023"
-"Central Alabama Bancshares,"Inc."","Banker","Rana S. Futral","President/CFO/Director","n/a","2023"
-"Central Alabama Bancshares,"Inc."","Dentist","Brian Barrett","Director","Brian E. Barrett DMD PC","2023"
-"Central Alabama Bancshares,"Inc."","Business owner","David Gray","Director","Gray's Tire","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Alabama Bancshares,"Inc."","President & CEO","Spencer J. Coleman,"Sr. MD"","Director","n/a","2023","Physician","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","Sheila Spiers","Director","n/a","2023","Retired Banker","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","Travis Cosby,"fil"","Chairman/Director","Trico Financial Services LLC","2023","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","Michael R. Morgan","CEO Director","n/a","2023","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","John R. Williams","President Director","Mortgage Corporation of the South","2023","Mortgage Lender","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","Johnny M. Carothers,"Jr."","Director","Baseline Forest Services,"Inc."","2023","Forester","n/a"
+"Central Alabama Bancshares,"Inc."","President/CFO/Director","Rana S. Futral","n/a","n/a","2023","Banker","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","Brian Barrett","Director","Brian E. Barrett DMD PC","2023","Dentist","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","David Gray","Director","Gray's Tire","2023","Business owner","n/a"
+"Central Alabama Bancshares,"Inc."","n/a","David Gray","Director","Delaware Properties","2023","Business owner","n/a"
 ```

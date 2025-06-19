@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Hartford Bancshares,"Inc."","Hartford,"AL"","2015","John A. Hughes,"Jr."","Common Stock","553","13.37%","n/a"
+"First Hartford Bancshares,"Inc."","Birmingham,"AL"","2015","Amy J. Hughes","Common Stock","516","12.48%","n/a"
+"First Hartford Bancshares,"Inc."","Hartford,"AL"","2015","Henry J. Hughes","Common Stock","430","10.40%","n/a"
+"First Hartford Bancshares,"Inc."","Hartford,"AL"","2015","Mary H. Wesley Credit Shelter Trust","Common Stock","314","7.60%","n/a"
+"First Hartford Bancshares,"Inc."","Hartford,"AL"","2015","Bill C. Hughes","Common Stock","243","5.88%","n/a"
+"First Hartford Bancshares,"Inc."","Fairhope,"AL"","2015","Ann Avery Pearson","Common Stock","237","5.73%","n/a"
+"First Hartford Bancshares,"Inc."","Dothan,"AL"","2015","Jack Houston Avery","Common Stock","236","5.71%","n/a"
+"First Hartford Bancshares,"Inc."","Hartford,"AL"","2015","Patricia B. Guilford","Common Stock","221","5.34%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hartford Bancshares,"Inc."","Chairman,"Director"","John A. Hughes,"Jr"","Chairman","n/a","2015","n/a","n/a"
+"First Hartford Bancshares,"Inc."","President,"Director"","Henry J. Hughes","Director","n/a","2015","n/a","n/a"
+"First Hartford Bancshares,"Inc."","Director","Bill C. Hughes","Director","n/a","2015","Insurance Agent","n/a"
+"First Hartford Bancshares,"Inc."","Director","Frances N. Borland","Director","n/a","2015","Homemaker","n/a"
+"First Hartford Bancshares,"Inc."","Director","William A. Hughes","Administrator","University of Alabama","2015","Administration","n/a"
+"First Hartford Bancshares,"Inc."","Director","Amy J. Hughes","Director","n/a","2015","Implementation Manager","n/a"
+"First Hartford Bancshares,"Inc."","Director","Patricia B. Guilford","Director","n/a","2015","Homemaker","n/a"
+"First Hartford Bancshares,"Inc."","Director","John Jackson Hughes","President","Hughes & Associates,"LLC"","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","Director","Mark A. Payne","Chief Executive Officer,"Director"","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Jeffrey A. Sorrells","VP-Loan Officer","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Mike Kinman","VP-Information Technology","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","Secretary","Marcia A. Solomon","Cashier,"VP-Operations Human Resources"","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Michael Clardy","VP-Loan Officer","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Mary H. Wesley","n/a","n/a","2015","n/a","n/a"
+"First Hartford Bancshares,"Inc."","Director","Susan K. Hughes","VP-CD/IRAS","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","Director","Robert Guilford","VP-Loan Officer Investment Officer","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Amy Coleman","Compliance Officer BSA Officer Security Officer Internal Audit Manager","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Mary Langford","Head Teller Physical Security Officer","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","Rhoda Tomlinson","Head Bookkeeper","n/a","2015","Banking","n/a"
+"First Hartford Bancshares,"Inc."","n/a","David Thompson","Controller","n/a","2015","Banking","n/a"
+```

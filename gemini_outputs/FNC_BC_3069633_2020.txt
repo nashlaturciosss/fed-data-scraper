@@ -1,0 +1,41 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","Ralph G. Evans","common shares","92.00","18.59%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","William C. Ellis,"Jr."","common shares","90.00","18.18%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","Norman E. Fletcher","common shares","37.00","7.47%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","Norman E. Fletcher","common shares","16.48","3.33%","n/a"
+"FNC Bancorp,"Inc."","Fernandina Beach,"Florida"","2020","Robert L. Cation Revocable Trust","common shares","35.69","7.21%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","Arthur C. Farrar,"Jr."","common shares","26.21","5.29%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"Georgia"","2020","Milton G. Clements","common shares","25.78","5.21%","n/a"
+"FNC Bancorp,"Inc."","Fernandina Beach,"Florida"","2020","Robert L. Cation","common shares","0.00","0.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","R.W. Griffin Feed,"Seed","& Fertilizer","Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Coffee County Gin Co.,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Four Corners Gin,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Diversified Ag Service,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","E & E Timberlands","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Griffins 19 E,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Mill Pond Properties,"LLC"","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director and Secretary","Ralph G. Evans","President","Dover Hall Plantation","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","President","Esco Industries,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","President","Panel Craft Inc.","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","President","Esco Laminating Texas,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","President","Ellis & Ellis,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","Vice President","Hickory Bluff Marina Properties,"LLC"","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","Vice President","E & E Timberlands","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Director","William C. Ellis,"Jr."","Vice President","Mallory S. Smith,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Chairman of the Board","Norman E. Fletcher","President","N.F. Properties,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Chairman of the Board","Norman E. Fletcher","Partner","A & N Investments","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Chairman of the Board","Norman E. Fletcher","Shareholder","Douglas Metal,"Inc."","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Chairman of the Board","Norman E. Fletcher","Partner","Fletcher & Stone","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","Chairman of the Board","Norman E. Fletcher","Partner","Fletcher-Allen Properties,"LLC"","2020","Executive","n/a"
+"FNC Bancorp,"Inc."","n/a","Robert L. Cation","n/a","n/a","2020","None","n/a"
+"FNC Bancorp,"Inc."","Director","Arthur C. Farrar,"Jr."","n/a","n/a","2020","Retired","n/a"
+"FNC Bancorp,"Inc."","Vice Chairman of the Board","Milton G. Clements","n/a","n/a","2020","Retired CPA","n/a"
+"FNC Bancorp,"Inc."","Director","Dale W. Morris","President/CEO","First National Bank of Coffee County","2020","Bank Executive","n/a"
+```

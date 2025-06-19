@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2017","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","441238","9.0%","n/a"
+"Citizens Holding Company","Starkville,"MS"","2017","Herbert A. King","Common Stock","283964","5.7%","n/a"
+"Citizens Holding Company","Starkville,"MS"","2017","Herbert A. King","Options on Common Stock","7500","0.12%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Citizens Bank","Director","David P. Webb","Attorney","Baker Donelson","2017","Attorney","n/a"
+"The Citizens Bank","Director","Donald L Kilgore","Special Assistant Attorney General","State of Mississippi","2017","Attorney","n/a"
+"The Citizens Bank","Director","A. T. Williams","CPA,"of Counsel"","Rea,"Shaw","Giffin & Stuart"","2017","Certified Public Accountant","n/a"
+"The Citizens Bank","Chief Financial Officer","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2017","Chief Financial Officer","n/a"
+"The Citizens Bank","Senior Vice-President & CFO","Robert T. Smith","n/a","n/a","2017","n/a","n/a"
+"The Citizens Bank","Director","Don L. Fulton","Retired","n/a","2017","Retired","n/a"
+"The Citizens Bank","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2017","Business Manager","n/a"
+"The Citizens Bank","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2017","Engineer","n/a"
+"The Citizens Bank","Director,"President & CEO"","Greg L. McKee","n/a","n/a","2017","n/a","n/a"
+"The Citizens Bank","Director","David A. King","Proprietor","Philadelphia Motor Company","2017","Proprietor,"Auto Parts supply store"","n/a"
+"The Citizens Bank","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2017","Physician","n/a"
+```

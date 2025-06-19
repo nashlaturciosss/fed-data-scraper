@@ -1,0 +1,37 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2019","Wells Family (Virginia S. Wells)","Common Stock","259928","29.02%","n/a"
+"Oconee Financial Corporation","Watkinsville,"Georgia"","2019","Hardigree-Stephenson Family","Common Stock","81646","9.11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oconee Financial Corporation","Executive VP","Philip A. Bernardi","None","n/a","2019","N/A","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","n/a","2019","Retired","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","Fifteen Properties,"LLC"","2019","Retired","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","Flomich Properties,"LLC"","2019","Retired","n/a"
+"Oconee Financial Corporation","Director","G. Robert Bishop","Partner","KBB,"LLC"","2019","Retired","n/a"
+"Oconee Financial Corporation","Director","Brian J. Brodrick","Partner & Manager of Athens Office","Jackson Spalding","2019","Marketing & Communications","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","n/a","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","LAD Truck Lines,"Inc."","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","LAD Logistics,"Inc."","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","Dutch Properties,"Inc."","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","Chicken Bros. Leasing,"Inc."","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director","Mack H. Guest,"III"","President & CEO","Welbrook Logistics,"LLC"","2019","Transportation,"Logistics","& Warehousing"","n/a"
+"Oconee Financial Corporation","Director & Vice Chairman","J. Albert Hale,"Sr."","Owner","Hale's Dairy","2019","Dairy & Poultry Farmer","n/a"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Maxey Brothers,"Inc."","2019","Site development & grading contractor","n/a"
+"Oconee Financial Corporation","Director","Henry C. Maxey","President","Fie Fays Unlimited,"Inc."","2019","Site development & grading contractor","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Physician/Cardiologist,","Athens Regional Cardiology Group","2019","Medical Doctor/ Cardiologist & Associate Professor","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Associate Dean of Research","Augusta University/UGA Medical Partnership","2019","Medical Doctor/ Cardiologist & Associate Professor","n/a"
+"Oconee Financial Corporation","Director","Jonathan R. Murrow","Associate Professor","Infrared RX,"Inc."","2019","Medical Doctor/ Cardiologist & Associate Professor","n/a"
+"Oconee Financial Corporation","Director","W. Toby Smith","President","Trinity Accounting Group","2019","Certified Public Accountant","n/a"
+"Oconee Financial Corporation","Director","W. Toby Smith","Member","TSR,"LLP"","2019","Certified Public Accountant","n/a"
+"Oconee Financial Corporation","Director & President/CEO","T. Neil Stevens","None","n/a","2019","N/A","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","President & CEO","Wells & Company Realtors,"Inc."","2019","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","Limited Partner","VSC Properties,"LLLP"","2019","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director & Board Chair","Virginia S. Wells","Limited Partner","McRee Properties,"LLLP"","2019","Real estate developer & property management","n/a"
+"Oconee Financial Corporation","Director","Tony Powell","President","Powell Homebuilders","2019","Residential Construction","n/a"
+"Oconee Financial Corporation","Director","Jim McLemore","None","n/a","2019","N/A","n/a"
+```

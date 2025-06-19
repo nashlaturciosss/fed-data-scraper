@@ -1,11 +1,9 @@
-Here are the requested CSV extractions:
+Here are the two CSV tables extracted from the document as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bci Financial Group,"Inc."","n/a","2022","n/a","n/a","n/a","n/a"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bci Financial Group,"Inc."","n/a","2022","n/a","n/a","n/a","n/a","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bci Financial Group,"Inc."","Director and General Manager","Jorge Gonzalez","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bci Financial Group,"Inc."","Director and General Manager","Jorge Gonzalez","n/a","n/a","2022","n/a","n/a"
 ```

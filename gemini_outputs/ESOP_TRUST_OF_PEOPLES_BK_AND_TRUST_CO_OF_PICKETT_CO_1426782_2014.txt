@@ -1,0 +1,27 @@
+Here are the two tables extracted from the document in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Upper Cumberland Bancshares,"Inc."","Livingston,"TN"","2014","James Elder estate","n/a","4500","6.84%","1426782"
+"Upper Cumberland Bancshares,"Inc."","Byrdstown,"TN"","2014","Tommy Fitzgerald","n/a","7616","11.57%","1426782"
+"Upper Cumberland Bancshares,"Inc."","Byrdstown,"TN"","2014","ESOP Trust","n/a","15846","24.08%","1426782"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Upper Cumberland Bancshares,"Inc."","Chmn/CEO","Bruce E. Elder","n/a","n/a","2014","Banker","1426782"
+"Upper Cumberland Bancshares,"Inc."","Pres/CFO/Cshr/Director/Sec","Michael D. Officer","n/a","n/a","2014","Banker","1426782"
+"Upper Cumberland Bancshares,"Inc."","VP","Jeff Rich","n/a","n/a","2014","Banker","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Gale Copeland","n/a","n/a","2014","Retired","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","John Keisling","n/a","Keisling Insurance Agency,"Inc."","2014","Insurance","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Johnnie A. Keisling","n/a","n/a","2014","Retired","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Bobby H. Mullins","President","Mullins Lumber Co.,"Inc."","2014","Retired","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Larry T. Conner","n/a","n/a","2014","Retired","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","David Reeves","President","Albany Redi-Mix","2014","Concrete plant","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","BWI Pipe and Supply,"Inc."","2014","Pipe Supply","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","White Properties,"Inc."","2014","Pipe Supply","1426782"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","President","Crude LLC","2014","Pipe Supply","1426782"
+"Upper Cumberland Bancshares,"Inc."","Trustee","Bruce E. Elder","n/a","n/a","2014","Banker","1426782"
+"Upper Cumberland Bancshares,"Inc."","Trustee","Michael D. Officer","n/a","n/a","2014","Banker","1426782"
+"Upper Cumberland Bancshares,"Inc."","Trustee","Gale Copeland","n/a","n/a","2014","Retired","1426782"
+```

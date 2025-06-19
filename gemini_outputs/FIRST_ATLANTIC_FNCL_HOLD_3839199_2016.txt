@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstAtlantic Financial Holdings,"Inc."","Guernsey,"ENGLAND"","2016","North American Smaller Companies Investment Trust plc Guernsey,"GY1"","n/a","400000","6.65%","n/a"
+"FirstAtlantic Financial Holdings,"Inc."","Pepper Pike,"OH"","2016","Elizabeth Park Capital Advisors,"LTD"","n/a","384457","6.40%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstAtlantic Financial Holdings,"Inc."","EVP/CFO","Ayers,"Tim"","EVP/CFO","FirstAtlantic Bank","2016","EVP/CFO of FirstAtlantic Bank","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","Boney,"Walt"","Owner - Boney Appraisal Services","Boney Appraisal Services","2016","President - Boney Appraisal Services","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","E. Zimmermann Boulos","President","Office Environment & Services,"Inc."","2016","President Office Environment & Services,"Inc."","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","William T. Buckingham","n/a","n/a","2016","Retired Investor","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Chairman of the Board","Coley,"Thomas"","Chairman of the Board","FirstAtlantic Bank","2016","Retired","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","Foster,"Brian"","n/a","FirstAtlantic Bank","2016","Retired","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","Hunt,"Mitchell W.","Jr."","President,"CEO","Director"","FirstAtlantic Bank","2016","President,"CEO","Director FirstAtlantic Bank"","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","Thomas,"Joseph J."","n/a","FirstAtlantic Bank","2016","President and CEO of Bay Bancorp,"Inc. and Bay Bank FSB"","3619739"
+"FirstAtlantic Financial Holdings,"Inc."","Director","White,"T. Michael"","n/a","FirstAtlantic Bank","2016","Director,"Founder","Business Development Officer FirstAtlantic Bank"","3619739"
+```

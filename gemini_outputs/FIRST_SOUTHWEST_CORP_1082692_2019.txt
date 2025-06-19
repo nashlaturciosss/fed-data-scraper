@@ -1,0 +1,27 @@
+"Here are the two tables extracted from the document","formatted as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","McComb,"MS"","2019","James W. Covington","n/a","79224","26.8%","n/a"
+"FIRST SOUTHWEST CORPORATION","McComb,"MS"","2019","First Bank ESOP","n/a","48596","16.4%","n/a"
+"FIRST SOUTHWEST CORPORATION","Summit,"MS"","2019","Stella C Dodd","n/a","19023","6.4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO; Chairman & CEO of First Bank; Director First Bank","James W. Covington","Member","Covington Family,"LLC"","2019","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO; Chairman & CEO of First Bank; Director First Bank","James W. Covington","Partner","E.D. Covington L.P.","2019","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO; Chairman & CEO of First Bank; Director First Bank","James W. Covington","Member","Ybrake Farms,"LLC"","2019","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","E. G. Covington,"III"","Member","Covington Family,"LLC"","2019","Owner HydroClean","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Victor H. Morrish","Retired","n/a","2019","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Harrell E. Holloway,"Jr"","Partner","Alford Holloway & Smith,"CPA's"","2019","Accountant","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Lucius Lampton,"MD"","Physican","Physican Magnolia Clinic","2019","Physican","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Clifton Van Cleave","President","Buffalo Serivces Inc.","2019","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Clifton Van Cleave","President","BKWIK,"LLC"","2019","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Clifton Van Cleave","President","PFCT,"LLC"","2019","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","Johnny H. Nance","Retired","n/a","2019","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","J. P. Doyle","Retired","n/a","2019","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director; Director First Bank","L Grant Bennett","Law Office","Law Office of L. Grant Bennett,"Sr"","2019","Attorney","n/a"
+"FIRST SOUTHWEST CORPORATION","Sr Vice President","Stella C Dodd","n/a","n/a","2019","N/A","n/a"
+"FIRST SOUTHWEST CORPORATION","Sr Vice President","Vickie M Webb","n/a","n/a","2019","N/A","n/a"
+```

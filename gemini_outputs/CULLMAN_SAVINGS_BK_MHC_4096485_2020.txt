@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cullman Savings Bank,"MHC"","Cullman,"Alabama"","2020","Cullman Savings Bank,"MHC"","common stock","1403731","57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Director,"President & CEO"","Galin & Riley,"LLC"","2020","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Director,"President & CEO"","Lincoln Brothers,"LLC"","2020","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Director,"President & CEO"","BBR,"LLC"","2020","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Director,"President & CEO"","Bainbridge 83,"LLC"","2020","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director","Gregory T. Barksdale","n/a","n/a","2020","Insurance Agent","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","n/a","Paul D. Bussman DMD,"PC"","2020","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","n/a","PHB Property,"LLC"","2020","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","Corporate Secretary","Bland,"Harris & McClellan","PC"","2020","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","n/a","Harris & McClellan,"LLC"","2020","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","n/a","Brent Properties,"LLC"","2020","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","n/a","Five Sisters,"LLC"","2020","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director EVP/COO","Robin Parson","n/a","n/a","2020","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","n/a","BBR,"LLC"","2020","Business Owner","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","n/a","Burks Bros Pools","2020","Business Owner","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","n/a","J&M,"LLC"","2020","Business Owner","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","n/a","CM Burks Properties,"LLC"","2020","Business Owner","n/a"
+"Cullman Savings Bank,"MHC"","Director","Lyne Morton","n/a","Southeast Tractor and Lawn Center,"LLC"","2020","TriGreen Equipment Territory Manager","n/a"
+```

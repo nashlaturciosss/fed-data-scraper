@@ -1,21 +1,26 @@
-"Here are the requested CSV tables","extracted from the document:"
+Here are the tables in CSV format:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2017","The Diesi Family Trusts","Common Stock","16000","20.51%"
-"American Bancorp,"Inc."","Opelousas","2017","Ronald J. Lashute","Common Stock","17821","22.84%"
-"American Bancorp,"Inc."","Clearwater","2017","Diane F Brown,"Family Trust"","Common Stock","4069","5.22%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2017","The Diesi Family Trusts","Common Stock","16000","20.51%","1085349"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2017","Ronald J. Lashute","Common Stock","17821","22.84%","1085349"
+"American Bancorp,"Inc."","Clearwater,"Florida"","2017","Diane F Brown,"Family Trust"","Common Stock","4069","5.22%","1085349"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director & Chairman of the Board","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","None","The Diesi Family Trust","None","n/a","2017"
-"American Bancorp,"Inc."","Director","Samuel C. Diesi","Director","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2017"
-"American Bancorp,"Inc."","CFO,"Secretary & Treasurer"","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2017"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Jasper J. Artall,"Sr."","n/a","A&T Farms Partnership","2017","Farmer","1085349"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Jasper J. Artall,"Sr."","n/a","Artall Farms,"LLC"","2017","Farmer","1085349"
+"American Bancorp,"Inc."","Assistant VP & Branch Manager of American Bank & Trust Company","Elaine E. Diesi","Secretary and Treasurer","Little Capitol of Louisiana,"Inc."","2017","Director","1085349"
+"American Bancorp,"Inc."","Assistant VP & Branch Manager of American Bank & Trust Company","Elaine E. Diesi","Secretary and Treasurer","Diesi Development Corporation","2017","Director","1085349"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","President","Little Capitol of Louisiana,"Inc."","2017","Owner/Manager","1085349"
+"American Bancorp,"Inc."","Director & Chairman of the Board","Joseph W. Diesi","Vice President","Diesi Development Corporation","2017","Owner/Manager","1085349"
+"American Bancorp,"Inc."","n/a","The Diesi Family Trust","n/a","n/a","2017","None","1085349"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2017","Clergy","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc."","2017","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Haynes Family Funerals,"Inc."","2017","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","n/a","COB Williams Progressive Life Insurance Company","2017","Funeral Director","1085349"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","n/a","Thrifty Way Pharmacy of Port Barre,"LA"","2017","Clerk of Court of St. Landy Parish of Louisiana","1085349"
+"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","n/a","n/a","2017","President & CEO of American Bank & Trust Company","1085349"
+"American Bancorp,"Inc."","Vice President,"CFO & Cashier"","George H. Comeau","n/a","n/a","2017","Vice President & CFO of American Bank & Trust Company","1085349"
 ```

@@ -1,0 +1,27 @@
+Here are the two tables in CSV format based on your instructions.
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2023","Wayne Porciau","Common Stock","92313","12.4688%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2023","Greg Inzerella","Common Stock","61304","8.2804%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First Bancshares,"Inc."","Director","James B Falterman,"Jr."","Director","Community First Bank","2023","Medical Doctor","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","Director","Community First Bank","2023","President Oil Service Company","n/a"
+"Community First Bancshares,"Inc."","","James Holleman","Member/Manager","Community First (James A and Kelly S Holleman Family LLC)","2023","President Oil Service Company","n/a"
+"Community First Bancshares,"Inc."","","James Holleman","President","Cardinal Services LLC","2023","President Oil Service Company","n/a"
+"Community First Bancshares,"Inc."","Chairman","Greg Inzerella","Chairman","Community First Bank","2023","Certified Public Accountant Financial Advisor","n/a"
+"Community First Bancshares,"Inc."","Chairman","Greg Inzerella","President","Inzerella,"Feldman","& Pourciau","CPA's"","2023","Certified Public Accountant Financial Advisor","n/a"
+"Community First Bancshares,"Inc."","Director","Jackie Judice","Director","Community First Bank","2023","Retired","n/a"
+"Community First Bancshares,"Inc."","Retired","Benny Menard","Retired","n/a","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Director & President","Wayne Pourciau","Director","Community First Bank","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Director","Community First Bank","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Producer","Laris Insurance","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Secretary","Dirk Trahan","Director & President","Community First Bank","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","W Perry Stokes,"Jr."","Director","Community First Bank","2023","Retired","n/a"
+"Community First Bancshares,"Inc."","Director","Patrick Norris","Director","Community First Bank","2023","Business Owner Chairman/CEO/President","n/a"
+"Community First Bancshares,"Inc."","","Patrick Norris","President","Norris International Services,"LLC"","2023","Business Owner Chairman/CEO/President","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Larry Hensgens","Senior Vice President","Community First Bank","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jimmy Rodrigue","Senior Vice President","Community First Bank","2023","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jerome Weber","Senior Vice President","Community First Bank","2023","n/a","n/a"
+```

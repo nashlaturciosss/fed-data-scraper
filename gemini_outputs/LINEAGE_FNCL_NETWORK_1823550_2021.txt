@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lineage Financial Network,"Inc."","Franklin,"TN"","2021","Richard Herrington","Common Stock & Warrants","590000","20%","n/a"
+"Lineage Financial Network,"Inc."","Columbia,"TN"","2021","Robert Sparks","Common Stock","200000","7%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lineage Financial Network,"Inc."","Director,"Chairman","& Chief Investment Officer"","Richard Herrington","n/a","n/a","2021","n/a","n/a"
+"Lineage Financial Network,"Inc."","Director,"Chairman","& Chief Executive Officer"","Kevin Herrington","n/a","n/a","2021","n/a","n/a"
+"Lineage Financial Network,"Inc."","Chief Technology Officer","Brandon Hedge","n/a","n/a","2021","n/a","n/a"
+"Lineage Financial Network,"Inc."","Director","William E. Lucado","President","First Management Consulting,"LLC"","2021","Business Consultant","n/a"
+"Lineage Financial Network,"Inc."","Director","Hank Brockman","n/a","n/a","2021","Real Estate Investor","n/a"
+"Lineage Financial Network,"Inc."","Director","Tom Black","n/a","n/a","2021","Business Consultant","n/a"
+```

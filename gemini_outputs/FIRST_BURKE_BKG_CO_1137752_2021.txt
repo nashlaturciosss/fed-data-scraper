@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BURKE BANKING COMPANY","Waynesboro,"GA"","2021","J. C. Palmer,"III"","Common Stock","3665","37.11%","n/a"
+"FIRST BURKE BANKING COMPANY","Waynesboro,"GA"","2021","Leigh O. Jackson","Common Stock","1935","19.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BURKE BANK COMPANY","Director","Roy F. Chalker,"Jr."","President","Chalker Publishing","2021","President","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","President","Collins Farms","2021","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","President","Truflame Gas Co.,"Inc."","2021","Collins Farms/Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Dr. Shelley Griffin","Physician","n/a","2021","Physician Medical Specialist","n/a"
+"FIRST BURKE BANK COMPANY","Director","H.C. Hopkins,"III"","n/a","Hopkins Farms","2021","Hopkins Farms President","n/a"
+"FIRST BURKE BANK COMPANY","Director","Alan W. Jackson","Partner","Glover & Davis P.A.","2021","Glover & Davis P.A. Partner","n/a"
+"FIRST BURKE BANK COMPANY","Director","Ashley Hammett","n/a","NA","2021","Business Owner - C & H Services","n/a"
+"FIRST BURKE BANK COMPANY","Director","J. C. Palmer,"IV"","n/a","First Burke Insurance Agency,"Inc."","2021","Loan Officer/First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","Director","J. C. Palmer,"IV"","n/a","Rock Creek Properties,"LLC"","2021","Loan Officer/First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","President/Director","J. C. Palmer,"III"","n/a","First Burke Insurance Agency,"Inc."","2021","Chairman of Board","n/a"
+"FIRST BURKE BANK COMPANY","President/Director","J. C. Palmer,"III"","n/a","First Burke Banking Company","2021","Chairman of Board","n/a"
+"FIRST BURKE BANK COMPANY","n/a","Leigh O. Jackson","n/a","n/a","2021","Housewife","n/a"
+"FIRST BURKE BANK COMPANY","Secretary","Monica M Tinley","n/a","n/a","2021","AVP First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","Director","Johnny F. Christian","n/a","n/a","2021","Doctor","n/a"
+"FIRST BURKE BANK COMPANY","Director","Matthew Jenkins","n/a","n/a","2021","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","John Hardy","n/a","n/a","2021","Business Owner - Hardy Plumbing","n/a"
+"FIRST BURKE BANK COMPANY","Director","Fredrick Stewart","n/a","n/a","2021","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","Nan Palmer Lynch","n/a","n/a","2021","Marketing/PR First National Bank","n/a"
+```

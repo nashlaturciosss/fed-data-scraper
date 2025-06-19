@@ -1,0 +1,21 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","Meridian,"MS"","2023","Daniel L. Broadfoot","n/a","2694","5.43%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2023","John B. Pope,"Jr."","n/a","10319","20.79%","n/a"
+"Covington Capital Corporation","Magee,"MS"","2023","Bobby T. Sullivan","n/a","9906","19.96%","n/a"
+"Covington Capital Corporation","Coco,"MS"","2023","Chris Ishee","n/a","90",".18%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2023","John B. Pope,"III"","n/a","183",".37%","n/a"
+"Covington Capital Corporation","n/a","2023","Robert G. Sullivan","n/a","183",".37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Director","Daniel L. Broadfoot","n/a","n/a","2023","Sales","n/a"
+"Covington Capital Corporation","Chairman of the Board","John B. Pope,"Jr."","President","Pope Co. Inc,","2023","Merchant","n/a"
+"Covington Capital Corporation","Director","Bobby T. Sullivan","Owner","Sullivan Ready Mix","2023","Owner","n/a"
+"Covington Capital Corporation","Director","Chris Ishee","President & CEO","n/a","2023","n/a","n/a"
+"Covington Capital Corporation","Director","John B. Pope,"III"","Fire Chief","n/a","2023","Fire Chief","n/a"
+"Covington Capital Corporation","Director","Robert G. Sullivan","n/a","Sullivan Trucking","2023","Truck/Business","n/a"
+```

@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Frankewing Bancshares,"Inc"","Pulaski,"TN"","2022","BETTY HOPKINS","n/a","147870","9.688%","n/a"
+"Frankewing Bancshares,"Inc"","Pulaski,"TN"","2022","MEADE C HOPKINS","n/a","175590","11.504%","n/a"
+"Frankewing Bancshares,"Inc"","Pulaski,"TN"","2022","EARL WAKEFIELD","n/a","164371","10.769%","n/a"
+"Frankewing Bancshares,"Inc"","Pulaski,"TN"","2022","2014 WAKEFIELD FAMILY TRUST","n/a","114608","7.509%","n/a"
+"Frankewing Bancshares,"Inc"","Fayetteville,"TN"","2022","DAVID W & SANDRA BARNES","n/a","76350","5.002%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Frankewing Bancshares,"Inc"","Director,"Director & President (Bank of Frankewing)"","David W. Barnes","n/a","n/a","2022","n/a","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director (Bank of Frankewing)"","David Blake Lay","Manager","ISS Enterprises,"LLC"","2022","Property Management","n/a"
+"Frankewing Bancshares,"Inc"","Director/ Chairman,"Director & CEO (Bank of Frankewing)"","Meade C Hopkins","n/a","n/a","2022","n/a","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director(Bank of Frankewing)"","Gerald Martin","n/a","n/a","2022","Retired","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director(Bank of Frankewing)"","Mike Mayfield","n/a","Mayfield Land & Cattle,"Inc"","2022","Retired","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director & EVP/Cashier (Bank of Frankewing)"","Jeff Stewart","n/a","n/a","2022","n/a","n/a"
+"Frankewing Bancshares,"Inc"","n/a","Earl Wakefield","n/a","n/a","2022","Retired","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director(Bank of Frankewing)"","James I Greene,"Jr."","Professor","Over There,"LLC"","2022","Professor","n/a"
+"Frankewing Bancshares,"Inc"","Director,"Director(Bank of Frankewing)"","James I Greene,"Jr."","Professor","Umbrella Properties,"LLC"","2022","Professor","n/a"
+```

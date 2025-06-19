@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2021","Martin Miley Adams","Common Stock","148","0.81%","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2021","Susan V. Moss","Common Stock","2315","12.59%","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2021","E.J. Vann IV","Common Stock","8388","45.36%","n/a"
+"P & C Bank Shares,"Inc."","Ameilia Island,"FL"","2021","E. J. Vann,"V"","Common Stock","2315","12.59%","n/a"
+"P & C Bank Shares,"Inc."","Camilla,"GA"","2021","David Cooper","Common Stock","1025","5.58%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P & C Bank Shares,"Inc."","Director","Martin Miley Adams","President","Joe B. Adams & Sons,"Inc."","2021","Agibusinessman","132938"
+"P & C Bank Shares,"Inc."","Director","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2021","Agibusinessman","132938"
+"P & C Bank Shares,"Inc."","Director","Martin Miley Adams","CEO","Adams Exports,"Inc."","2021","Agibusinessman","132938"
+"P & C Bank Shares,"Inc."","Director","Susan V. Moss","President","n/a","2021","n/a","132938"
+"P & C Bank Shares,"Inc."","Chairman","E.J. Vann IV","Executive Chairman","n/a","2021","n/a","132938"
+"P & C Bank Shares,"Inc."","Principal Shareholder","E. J. Vann,"V"","Owner","Jvann Interiors,"LLC"","2021","Retail Merchant","132938"
+"P & C Bank Shares,"Inc."","Director","Laura S. Vann","Director","n/a","2021","Retired","132938"
+"P & C Bank Shares,"Inc."","Director","David Cooper","Owner","David Cooper Engineering","2021","Engineering Consultant","132938"
+"P & C Bank Shares,"Inc."","Director","Patrick J. McNeill","Director","Agfirst Services,"Inc."","2021","Agribusinessman","132938"
+```

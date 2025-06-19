@@ -1,0 +1,22 @@
+"Okay","I understand. Here are the two CSV tables extracted from the document","following all instructions and constraints:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","Meridian,"MS"","2017","Daniel K. Broadfoot","Common Stock","2583","5.05%","n/a"
+"Covington Capital Corporation","Snellville,"GA"","2017","Deirdre Broadfoot Bowers","Common Stock","2582","5.05%","n/a"
+"Covington Capital Corporation","Madison,"MS"","2017","Deborah M. Broadfoot","Common Stock","2602","5.05%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2017","Mary Frances Buffington","Common Stock","3586","7.02%","n/a"
+"Covington Capital Corporation","Jackson,"MS"","2017","Jack R. Gibson","Common Stock","3356","6.53%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2017","John B. Pope,"Jr."","Common Stock","10177","19.88%","n/a"
+"Covington Capital Corporation","Magee,"MS"","2017","Bobby T. Sullivan","Common Stock","9765","19.11%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Director","Deirdre Broadfoot Bowers","n/a","n/a","2017","Investments","n/a"
+"Covington Capital Corporation","Director","John B. Pope,"Jr."","President","Pope Co. Inc,","2017","Merchant","n/a"
+"Covington Capital Corporation","Director","Bobby T. Sullivan","Owner","Sullivan Ready Mix","2017","Owner","n/a"
+"Covington Capital Corporation","Director","Jack R. Gibson","n/a","n/a","2017","Retired","n/a"
+"Covington Capital Corporation","Director","John B. Pope. III","n/a","n/a","2017","Fire Chief","n/a"
+"Covington Capital Corporation","Director","Robert G. Sullivan","n/a","n/a","2017","Truck/Business","n/a"
+```

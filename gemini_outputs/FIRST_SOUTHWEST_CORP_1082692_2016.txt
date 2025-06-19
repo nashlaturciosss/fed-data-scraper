@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","MCCOMB,"MS"","2016","James W. Covington","n/a","78916","26.1%","1082692"
+"FIRST SOUTHWEST CORPORATION","MCCOMB,"MS"","2016","First Bank ESOP","n/a","51388","17.0%","1082692"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","Chairman & CEO","Covington Family","2016","Banker","1082692"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","n/a","E.D. Covington L.P.","2016","Banker","1082692"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","n/a","Ybrake Farms,"LLC"","2016","Banker","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","E. G. Covington,"III"","n/a","Covington Family","2016","Owner Hydro(","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","Victor H. Morrish","n/a","n/a","2016","Business Owner","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","Harrell E. Holloway,"Jr"","n/a","Alford Holloway & Smith,"CPA's"","2016","Accountant","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","Lucius Lampton,"MD"","n/a","Physican Magnolia Clinic","2016","Physican","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","Clifton Van Cleave","President","Buffalo Serivces Inc.","2016","Business Manager","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","Johnny H. Nance","Office Manager","Copeland,"Taylor & Bush","Attys"","2016","Business Owner","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","J. P. Doyle","n/a","n/a","2016","Business Owner","1082692"
+"FIRST SOUTHWEST CORPORATION","Director","L Grant Bennett","n/a","Law Office of L. Grant Ben","2016","Attorney","1082692"
+"FIRST SOUTHWEST CORPORATION","n/a","First Bank Employees","n/a","n/a","2016","n/a","1082692"
+```

@@ -1,0 +1,39 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Billy M. Bolton","Common Stock","350","1.83%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Bradley Bolton","Common Stock","528","2.77%","n/a"
+"Independent Bancshares,"Inc."","Florence,"AL"","2023","Marc Dempsey","Common Stock","577","3.02%","n/a"
+"Independent Bancshares,"Inc."","Golden,"MS"","2023","Tammy Montgomery","Common Stock","200","1.05%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Patricia A. Nelson","Common Stock","1029","5.40%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","David Tiffin","Common Stock","1345","7.06%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","William Weatherford","Common Stock","50",".26%","n/a"
+"Independent Bancshares,"Inc."","Fulton,"MS"","2023","Bobby J. Canup Jr.","Common Stock","802","4.21%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Employee Stock Ownership Plan","Common Stock","10818","56.78%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Brad M. Bolton","Voting Power","n/a","50%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2023","Tammy Montgomery","Voting Power","n/a","50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Independent Bancshares,"Inc."","Chairman & Director","Billy M. Bolton","President/Dir. Of BIIA,"Inc."","BIIA,"Inc."","2023","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Chairman & Director","Billy M. Bolton","Chairman/Director/MemberLnC,"CSB"","CSB","2023","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Vice-Chair/Director","Patricia A. Nelson","V-Pres/Dir of BIIA,"Inc."","BIIA,"Inc."","2023","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","Vice-Chair/Director","Patricia A. Nelson","Dir/V-Ch/Member Loan C-CSB","Pat's Arboretum Inn","2023","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","President/Director","Bradley Bolton","Pres/CEO/Senior Lender/","n/a","2023","President/CEO/Senior Lender","n/a"
+"Independent Bancshares,"Inc."","President/Director","Bradley Bolton","Member Loan Comm,"CSB"","n/a","2023","President/CEO/Senior Lender","n/a"
+"Independent Bancshares,"Inc."","Director","Marc Dempsey","Dir/Member Audit Committee,"CSB"","Craig Construct.Co.","2023","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director","Marc Dempsey","Dir/Member Audit Committee,"CSB"","Craig Partners,"LLC"","2023","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director","Tammy Montgomery","Dir/Member Audit Committee,"CSB"","D&M Holdings,"LLC"","2023","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director/Secretary to Board","Tammy Montgomery","EX.VP/COO/Dir of HR/Director/Sec to Bd,"CSB"","n/a","2023","EX.VP/COO/Dir of HR","n/a"
+"Independent Bancshares,"Inc."","Director/Secretary to Board","Tammy Montgomery","Trustee,"ESOP"","n/a","2023","EX.VP/COO/Dir of HR","n/a"
+"Independent Bancshares,"Inc."","Director","David Tiffin","Director/Chm Audit C/Member of Loan Committee,"CSB"","Tiffin Supply,"Inc"","2023","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","Director","David Tiffin","Director/Chm Audit C/Member of Loan Committee,"CSB"","City Auto Parts,"Inc"","2023","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","Director","William Weatherford","Dir/Member Audit Committee,"CSB"","Belmont Pharmacy,"LLC"","2023","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director","William Weatherford","Dir/Member Audit Committee,"CSB"","Red Bay Pharmacy,"LLC"","2023","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director","Bobby Canup,"Jr."","Dir/Member Audit Committee,"CSB"","Tremont Floral,"Inc."","2023","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Director","Bobby Canup,"Jr."","Dir/Member Audit Committee,"CSB"","Design World,"Inc."","2023","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Trustee","Brad M. Bolton","President/Director- IB,"Inc."","n/a","2023","President/CEO/Senior Lender","n/a"
+"Independent Bancshares,"Inc."","Trustee","Tammy Montgomery","Director/Sec. to Board/IB,"Inc."","n/a","2023","EX.VP/COO/Dir of HR","n/a"
+```

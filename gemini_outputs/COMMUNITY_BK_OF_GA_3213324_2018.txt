@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2018","W. Jeffrey Turner","Common Stock","50015","8.6%","3213324"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2018","Marcus C. Long","Common Stock","34835","6.0%","3213324"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2018","Lamar R. Turner","Common Stock","30000","5.2%","3213324"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Director","Samuel Cain","n/a","n/a","2018","Farmer"
+"Community Bank of Georgia,"Inc."","Director","Mike Cleland","n/a","n/a","2018","Retired Engineer"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2018","Manufacturing Distribution"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","n/a","Matrix Cement LLC DBA Matrix Cabinets","2018","Manufacturing Distribution"
+"Community Bank of Georgia,"Inc."","Director","William W. Eason","n/a","n/a","2018","Farmer"
+"Community Bank of Georgia,"Inc."","Director/CFO/Secretary","Randy Hicks","n/a","n/a","2018","CFO of the Bank and HC/Secretary"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","President","J. Alexander Johnson","2018","Attorney"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","n/a","JAJ Properties,"Inc."","2018","Attorney"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","n/a","Atlas Investments,"LLC"","2018","Attorney"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","n/a","Johnson Floyd LLP","2018","Attorney"
+"Community Bank of Georgia,"Inc."","Chairman/Director","Marcus C. Long","n/a","n/a","2018","Certified Public Accountant"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2018","Trucking Company/Farming"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","n/a","Mathews Farms","2018","Trucking Company/Farming"
+"Community Bank of Georgia,"Inc."","Director","Harold E. Rentz,"DMD"","Owner","n/a","2018","Dentist"
+"Community Bank of Georgia,"Inc."","Director","James R. Rentz","Farmer","n/a","2018","Farmer"
+"Community Bank of Georgia,"Inc."","President/CEO","Kelly Stone","n/a","n/a","2018","President/CEO of the Bank and HC"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turner","Owner of Turner Farms/Director","n/a","2018","Farmer"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turner","n/a","Southeastern Cotton Gin,"Inc."","2018","Farmer"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","Owner of","Southeastern Business Machines,"Inc."","2018","Business Machine/Low Volteage Contractor"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","n/a","Southeastern Cotton Gin,"Inc."","2018","Business Machine/Low Volteage Contractor"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2018","Electrical Contracting Company Fiberglass Mfg. Co."
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","Pres.","Rhino Mfg.","2018","Electrical Contracting Company Fiberglass Mfg. Co."
+```

@@ -1,0 +1,36 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Albany,"GA"","2018","Jim Boyd","n/a","156900","12.24%","n/a"
+"Flint Community Bancshares,"Inc."","Pensacola,"FL"","2018","Wayne Damron","n/a","126500","9.87%","n/a"
+"Flint Community Bancshares,"Inc."","Leesburg,"GA"","2018","Henry H. Griffin","n/a","274150","21.39%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","LORAC Properties","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","Coach & Motor","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","BGK Properties","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Wayne Damron","n/a","n/a","2018","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Secretary of Holding Co. and Senior Vice President of Subsidiary Bank","Elaine Davis","n/a","n/a","2018","n/a","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Harry N. Dorsey","n/a","n/a","2018","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry Dunn","n/a","n/a","2018","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","CEO","Southern Ag Carriers Holdings","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","CEO","Wil-Mil Farms","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","HHG Properties","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","n/a","Pondtoon Boats Dist. Inc.","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","CEO","Lee County Equip.LLC","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","Secretary","PeerSouth Inc.","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director and EVP of Holding Co. and Director and President of Subsidiary Bank","William F. Griffin","n/a","n/a","2018","n/a","n/a"
+"Flint Community Bancshares,"Inc."","SVP of Holding Co. and Subsidiary Bank","Ross Harrison","n/a","n/a","2018","n/a","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","RCK LLC","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","TD Properties LLC","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Owner","Rolling Thunder LLC","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","Demi Properties LLC","2018","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Chairman of Board of Holding Co. and Subsidiary Bank","Richard W. Little","n/a","n/a","2018","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Dunn Stapleton","n/a","n/a","2018","Attorney","n/a"
+"Flint Community Bancshares,"Inc."","EVP of Holding Co. and Director and EVP of Subsidiary Bank","Leonard W. Thomas","n/a","n/a","2018","n/a","n/a"
+"Flint Community Bancshares,"Inc."","Director and CEO of Holding Co. and Subsidiary Bank","M. Scott Tomlinson","n/a","n/a","2018","n/a","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Darin G. Wood","President","Woodford Plywood,"Inc."","2018","Executive","n/a"
+```

@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"JD BANCSHARES,"INC."","Jennings,"LA"","2021","Dan L. Donald,"Jr."","n/a","312558","9.11%","n/a"
+"JD BANCSHARES,"INC."","Jennings,"LA"","2021","David B. Donald","n/a","197560","5.76%","n/a"
+"JD BANCSHARES,"INC."","New York,"NY"","2021","Cede & Company","n/a","1682325","49.05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"JD BANCSHARES,"INC."","Director Chairman","Dan L. Donald,"Jr."","n/a","n/a","2021","N/A","980531"
+"JD BANCSHARES,"INC."","Director Vice Chairman","David B. Donald","Manager/Owner","Donald Farms","2021","Manager/Owner","980531"
+"JD BANCSHARES,"INC."","President & CEO","Bruce Elder","n/a","n/a","2021","N/A","980531"
+"JD BANCSHARES,"INC."","Director","Ray Hines","President","Scoboco,"Inc."","2021","N/A","980531"
+"JD BANCSHARES,"INC."","Director","Thomas E. Leger","Dentist","Thomas E. Leger,"DDS","Inc."","2021","Dentist","980531"
+"JD BANCSHARES,"INC."","Director Secretary","Sara A. Roberts","President","Sara A. Roberts,"CPA","APAC"","2021","President","980531"
+"JD BANCSHARES,"INC."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2021","N/A","980531"
+"JD BANCSHARES,"INC."","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC","2021","OB/GYN Physician","980531"
+"JD BANCSHARES,"INC."","Director","Clarence Berken","Partner","Berken Brothers","2021","Self-employed Farmer","980531"
+"JD BANCSHARES,"INC."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2021","Certified Public Accountant","980531"
+"JD BANCSHARES,"INC."","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2021","President Oilfield Equipment Sales,"Inc."","980531"
+"JD BANCSHARES,"INC."","Director","Milton Ray Crochet","President","Calcasieu Rentals,"Inc."","2021","President Calcasieu Rentals,"Inc."","980531"
+```

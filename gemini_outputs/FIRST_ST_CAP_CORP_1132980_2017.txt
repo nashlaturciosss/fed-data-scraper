@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Capital Corporation","Lineville,"AL"","2017","Gail McCord","Shares of Common Stock","14751","6.57%","n/a"
+"First State Capital Corporation","Lineville,"AL"","2017","Ann Vaughan","Shares of Common Stock","13199","5.88%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Capital Corporation","President,"CEO","Director"","Steve Foster","Owner","Foster Farms","2017","Bank President","540739"
+"First State Capital Corporation","EVP,"CFO","Director","Secretary"","Carlton DeVaughn","n/a","n/a","2017","Bank Vice President","540739"
+"First State Capital Corporation","Director","Don Hogan","Chairman","n/a","2017","Pharmacist","540739"
+"First State Capital Corporation","Director","JoAnne Blair","Director","n/a","2017","Education","540739"
+"First State Capital Corporation","Director","Doyle L Phillips","Director","n/a","2017","Farmer","540739"
+"First State Capital Corporation","Director","James E. Malone","Director","n/a","2017","Judge","540739"
+"First State Capital Corporation","Director","Anna Marie Rush","Partner","Double Branch Farms","2017","Farmer","540739"
+"First State Capital Corporation","Director","Anna Marie Rush","Partner","The Mountian,"LLC"","2017","Farmer","540739"
+"First State Capital Corporation","Director","Donald Harris","Partner","Harris Plumbing & Electric","2017","Electrical/Plumbing Supply","540739"
+"First State Capital Corporation","Director","Donald Harris","Partner","Harris Properties","2017","Electrical/Plumbing Supply","540739"
+"First State Capital Corporation","Director","Larry Raughton","Owner","L&S Equipment Sales","2017","Farmer","540739"
+```

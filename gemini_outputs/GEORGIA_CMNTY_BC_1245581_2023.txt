@@ -1,0 +1,12 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Community Bancorp,"Inc."","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Community Bancorp,"Inc."","CEO","Lucie Beeley","n/a","n/a","2023","n/a","n/a"
+"Georgia Community Bancorp,"Inc."","Chief Banking Officer","Haley Prescott","n/a","n/a","2023","n/a","n/a"
+```

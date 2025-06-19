@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2019","William D. Morrison,"Jr."","n/a","45456","7.43%","n/a"
+"Exchange Bankshares,"Inc."","New York,"NY"","2019","CEDE & Co.","n/a","85539","13.99%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2019","Morrison Family Partnership LP","n/a","89080","14.57%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Owner","Allen Construction Company","2019","Contractor","613839"
+"Exchange Bankshares,"Inc."","President/CEO","John C. Childs,"Jr."","n/a","n/a","2019","President/CEO Exchange Bank","613839"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","President","Moores Funeral Home Inc.","2019","Funeral Director and Cemeterian","613839"
+"Exchange Bankshares,"Inc."","Vice Chairman of the Board","John W. Grant,"III"","Director","Georgia College Community Engagement","2019","Georgia College Director of Community Engagement","613839"
+"Exchange Bankshares,"Inc."","Director","Dr. John F. Harrington,"Jr."","Dentist","Harrington,"Jr. DDS"","2019","Dentist","613839"
+"Exchange Bankshares,"Inc."","n/a","Morrison Family Partnership LP","n/a","n/a","2019","n/a","613839"
+"Exchange Bankshares,"Inc."","n/a","William D. Morrison,"Jr."","n/a","n/a","2019","n/a","613839"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Co-Owner/ Managing Partner","VBRN Investments","2019","Retail Merchant","613839"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","Navicent Health Baldwin","2019","Physician","613839"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2019","Retired BASF","613839"
+"Exchange Bankshares,"Inc."","Treasurer","Roy D. Washburn III","n/a","n/a","2019","Executive Vice President Exchange Bank","613839"
+```

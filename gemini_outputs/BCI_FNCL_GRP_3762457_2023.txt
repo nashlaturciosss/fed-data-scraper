@@ -1,14 +1,25 @@
-Here are the tables extracted from the document in CSV format:
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2023"
-"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","Director","City National Bank of Florida","2023"
-"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2023"
-"BCI FINANCIAL GROUP,"INC."","Secretary/General Manager","McHenry Kane","General Counsel","City National Bank of Florida","2023"
-"BCI FINANCIAL GROUP,"INC."","Treasurer","Jose Marina","Chief Financial Officer","City National Bank of Florida","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BCI FINANCIAL GROUP,"INC."","Miami,"Florida"","2023","Jorge Gonzalez","n/a","100","0.007%","3762457"
+"BCI FINANCIAL GROUP,"INC."","Miami,"Florida"","2023","Eugenio Von Chrismar,","n/a","100","0.007%","3762457"
+"BCI FINANCIAL GROUP,"INC."","Miami,"Florida"","2023","Maria Grisel Vega","n/a","100","0.007%","3762457"
+"BCI FINANCIAL GROUP,"INC."","Miami,"Florida"","2023","McHenry Kane","n/a","n/a","n/a","3762457"
+"BCI FINANCIAL GROUP,"INC."","Miami,"Florida"","2023","Jose Marina","n/a","n/a","n/a","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","Director","Bci Capital. Inc.","2023","CEO & Vice Chairman,"City National Bank of Florida"","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director & General Manager","Jorge Gonzalez","Director","ICA Miami","2023","CEO & Vice Chairman,"City National Bank of Florida"","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","Director","Nicklaus Children's Hospital","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Juan Yarur S.P.A","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","President","Servicios Financieros y Administracion de Creditos Comerciales S.A.","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2023","CEO - Banco de Credito e Inversiones","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2023","General Manager - BCI Miami Branch","3762457"
+"BCI FINANCIAL GROUP,"INC."","Director/General Manager","Maria Grisel Vega","Treasurer","Bishop Enrique San Pedro Foundation,"Inc."","2023","General Manager - BCI Miami Branch","3762457"
+"BCI FINANCIAL GROUP,"INC."","Secretary/General Manager","McHenry Kane","President/Director","CNB Housing Foundation,"Inc."","2023","General Counsel - City National Bank of Florida","3762457"
+"BCI FINANCIAL GROUP,"INC."","Secretary/General Manager","McHenry Kane","Director","Florida Bankers Association","2023","General Counsel - City National Bank of Florida","3762457"
+"BCI FINANCIAL GROUP,"INC."","Secretary/General Manager","McHenry Kane","Director","Heroes of Tomorrow Foundation","2023","General Counsel - City National Bank of Florida","3762457"
+"BCI FINANCIAL GROUP,"INC."","Treasurer","Jose Marina","Director","Bci Capital. Inc.","2023","Consultant- City National Bank of Florida","3762457"
 ```

@@ -1,0 +1,26 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MBT Bancshares,"Inc."","METAIRIE,"LA"","2019","MR & MRS ALBERT J ORTTE TRUST #1","common stock","598771","29.30%","n/a"
+"MBT Bancshares,"Inc."","METAIRIE,"LA"","2019","MR & MRS ALBERT J ORTTE TRUST #3","common stock","435570","21.31%","n/a"
+"MBT Bancshares,"Inc."","METAIRIE,"LA"","2019","MR & MRS ALBERT J ORTTE TRUST #2","common stock","3200","1.57%","n/a"
+"MBT Bancshares,"Inc."","METAIRIE,"LA"","2019","GARLAND R ROLLING","common stock","114739","5.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MBT Bancshares","Director","Manuel F. Blanco","n/a","n/a","2019","n/a","n/a"
+"MBT Bancshares","Director","Sean M. Bruno","Owner,"Sole member"","Sean M. Bruno,"CPA LLC"","2019","CPA","n/a"
+"MBT Bancshares","Director","Robert A. Caplan","n/a","n/a","2019","Investment Manager & Attorney","n/a"
+"MBT Bancshares","Director","Christopher E. Dodge","n/a","n/a","2019","IT analyst","n/a"
+"MBT Bancshares","Director & Secretary","Maynard B. Dodge","n/a","n/a","2019","n/a","n/a"
+"MBT Bancshares","Director","Sharon A. Perlis","n/a","n/a","2019","Attorney","n/a"
+"MBT Bancshares","Director & President","Ron E. Samford,"Jr."","n/a","n/a","2019","n/a","n/a"
+"MBT Bancshares","Director","Christopher A. Sarpy","n/a","n/a","2019","Real Estate Developer","n/a"
+"MBT Bancshares","Director","Reginald H. Smith,"Jr."","n/a","n/a","2019","n/a","n/a"
+"MBT Bancshares","Director & Chairman","Richard C. Stanley","LLC member","Stanley,"Reuter","Ross","Thornton & Alford","LLC"","2019","Attorney","n/a"
+"MBT Bancshares","Director","Cynthia D. Teague","n/a","n/a","2019","n/a","n/a"
+"MBT Bancshares","None","Mr. & Mrs. Albert E. Ortte Trust #1","n/a","n/a","2019","Trust","n/a"
+"MBT Bancshares","None","Mr. & Mrs. Albert E. Ortte Trust #3","n/a","n/a","2019","Trust","n/a"
+```

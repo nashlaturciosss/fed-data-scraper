@@ -1,0 +1,28 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Community Bancshares Corporation","Madison,"Florida"","2018","William D. Rutherford","Common Shares","41676","7.43%","n/a"
+"Madison Community Bancshares Corporation","Madison,"Florida"","2018","J. K. Johnson","Common Shares","35142","6.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Community Bancshares Corporation","Officer","John G. Ashey III","n/a","n/a","2018","Banking","n/a"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Owner/Mgr","D&D Farms","2018","County Manager Madison County Florida","n/a"
+"Madison Community Bancshares Corporation","Director","Mark Allen Cherry","Gen Partner","Ravenswood Timber","2018","County Manager Madison County Florida","n/a"
+"Madison Community Bancshares Corporation","Director","Carson Cherry","Supervisor","n/a","2018","Supervisor Pilgrims Pride Poultry","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr","PB&J of Madison","2018","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr","Coleburn Enter.","2018","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Director","James Coleburn","Owner/Mgr","J&P Land Svcs.","2018","Real Estate","n/a"
+"Madison Community Bancshares Corporation","Officers","Barbara Driggers","n/a","n/a","2018","Banking","n/a"
+"Madison Community Bancshares Corporation","Director","Cary A. Hardee,"II"","Owner","Hardee Law Firm","2018","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","Gordon Alvin Henderson","Owner","Henderson Farms","2018","Farmer","n/a"
+"Madison Community Bancshares Corporation","Director","John Lewis","Owner","Madison Vet Clinic","2018","Veterinarian","n/a"
+"Madison Community Bancshares Corporation","Director & President/CEO","D. Edward Meggs,"Sr."","n/a","n/a","2018","Banking","n/a"
+"Madison Community Bancshares Corporation","Director","RonnieL. Moore","n/a","n/a","2018","County Commissioner","n/a"
+"Madison Community Bancshares Corporation","Director","Lowell D. Robinson","n/a","n/a","2018","Retired - automobile sales & service","n/a"
+"Madison Community Bancshares Corporation","Director","William D. Rutherford","Pres.","Clemons/Rutherford Architects","2018","Architect","n/a"
+"Madison Community Bancshares Corporation","Director","Clay Schnitker","Managing. Partner","Davis,"Schnitker","Reeves & Browning Law Firm"","2018","Attorney","n/a"
+"Madison Community Bancshares Corporation","Director","James F. Williams","n/a","n/a","2018","Retired - Printing & Supplies","n/a"
+```

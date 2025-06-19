@@ -1,0 +1,18 @@
+"Okay","I understand. I will extract the required information from the FR Y-6 form and provide the two CSV tables in the specified format."
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Defiance Financial Corp","Defiance,"OH"","2017","Donald P. Hileman","Common Stock","16531","14.73%","n/a"
+"First Defiance Financial Corp","Defiance,"OH"","2017","Donald P. Hileman","Class A Voting Shares","16531","14.73%","n/a"
+"First Defiance Financial Corp","Defiance,"OH"","2017","D&P Equipment Co Inc","Common Stock","5950","5.3%","n/a"
+"First Defiance Financial Corp","Defiance,"OH"","2017","D&P Equipment Co Inc","Class A Voting Shares","5950","5.3%","n/a"
+"First Defiance Financial Corp","Defiance,"OH"","2017","Gary M Small","Common Stock","5650","5.0%","n/a"
+"First Defiance Financial Corp","Defiance,"OH"","2017","Gary M Small","Class A Voting Shares","5650","5.0%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Defiance Financial Corp","n/a","Catherine Sialtsis","n/a","n/a","2017","n/a","n/a"
+"First Defiance Financial Corp","n/a","Mindy M McArdle","n/a","n/a","2017","n/a","n/a"
+"First Defiance Financial Corp","n/a","Michael S Klein","n/a","n/a","2017","n/a","n/a"
+```

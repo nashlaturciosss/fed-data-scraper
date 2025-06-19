@@ -1,0 +1,25 @@
+"Here are the two tables extracted from the document","in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MBT Bancshares,"Inc."","n/a","2023","Mr. & Mrs. Albert E. Ortte Trust #1","n/a","n/a","29.30%","n/a"
+"MBT Bancshares,"Inc."","n/a","2023","Mr. & Mrs. Albert E. Ortte Trust #2","n/a","n/a","0.16%","n/a"
+"MBT Bancshares,"Inc."","n/a","2023","Mr. & Mrs. Albert E. Ortte Trust #3","n/a","n/a","21.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MBT Bancshares,"Inc."","Director","Manuel F. Blanco","Investment Manager","n/a","2023","Investment Manager","n/a"
+"MBT Bancshares,"Inc."","Director","Sean M. Bruno","CPA","Sean M. Bruno,"CPA LLC"","2023","CPA","n/a"
+"MBT Bancshares,"Inc."","Director","Robert A. Caplan","Investment Manager & Attorney","n/a","2023","Investment Manager & Attorney","n/a"
+"MBT Bancshares,"Inc."","Director & Secretary","Christopher E. Dodge","Director","Computer's on Call,"LLC"","2023","Director","n/a"
+"MBT Bancshares,"Inc."","Director","Kirsten E. Reisig","Commercial Real Estate Agent","n/a","2023","Commercial Real Estate Agent","n/a"
+"MBT Bancshares,"Inc."","Director","Michael A. Gennaro","Director and President","n/a","2023","IT analyst","n/a"
+"MBT Bancshares,"Inc."","Director","Ross F. Lagarde","Attorney","n/a","2023","Attorney","n/a"
+"MBT Bancshares,"Inc."","Director and CEO","John P. LeBlanc","Director and CEO","n/a","2023","N/A","n/a"
+"MBT Bancshares,"Inc."","Director","David W. Perlis","Retailer","n/a","2023","Retailer","n/a"
+"MBT Bancshares,"Inc."","Director","Christopher A. Sarpy","Real Estate Developer","n/a","2023","Real Estate Developer","n/a"
+"MBT Bancshares,"Inc."","Director","Reginald H. Smith,"Jr."","N/A","n/a","2023","N/A","n/a"
+"MBT Bancshares,"Inc."","Director & Chairman","Richard C. Stanley","Attorney","Stanley Reuter Thornton Alford LLC","2023","Attorney","n/a"
+"MBT Bancshares,"Inc."","Director","Cynthia D. Teague","N/A","n/a","2023","N/A","n/a"
+```

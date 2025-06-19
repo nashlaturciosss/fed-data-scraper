@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2020","Phillip Frost,"MD"","Common Stock","897291","24.93%","n/a"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2020","Michael Weintraub","Common Stock","334473","9.29%","n/a"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2020","Charles Stuzin","Common Stock","222797","6.19%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","President & CEO;Director,"Chairman & CEO of Grove Bank & Trust"","Richard A. Kuci","n/a","n/a","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","President & Chief Lending Officer of Grove Bank & Trust","Jose Vazquez","n/a","n/a","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Secretary/Treasuer;EVP & CFO of Grove Bank & Trust","Daniel Chavez","n/a","n/a","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","President,"Wealth Management Division of Grove Bank & Trust"","Charles Porter","n/a","n/a","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","Sheldon Anderson","Director of Bank","n/a","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC;Director of Bank","Howard Lucas","Director of Bank","BDO USA,"LLP"","2020","CPA","n/a"
+"Coconut Grove Bankshares,"Inc."","EVP & Chief Administrative Ofcr;Director of the Bank","George W. Foyo","Director","Baptist Health","2020","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of the Bank","Michael Chavies","Equity Partner","Akerman,"LLP"","2020","Retired Judge","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of the Bank","Charles M. Hartz","Retired","Capital","2020","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC;Director of the Bank","D. Alan Nichols","Retired","n/a","2020","CPA","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of the Bank","William T. Price,"III"","Manager","SF Partners Financial,"LLC"","2020","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC;Director of the Bank","Michael Weintraub","Director","Gibson & Co.,"Inc."","2020","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","n/a","2020","Investor","n/a"
+```

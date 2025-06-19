@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorp,"Inc"","Manchester,"TN"","2021","Dr or Mrs. Herschel S. Taylor","Common Stock","8039","12.69%","n/a"
+"Peoples Bancorp,"Inc"","Hillsboro,"TN"","2021","Bobby G. Willis","Common Stock","6000","9.47%","n/a"
+"Peoples Bancorp,"Inc"","Reston,"VA"","2021","Robert J Haley","Common Stock","3550","5.60%","n/a"
+"Peoples Bancorp,"Inc"","Eads,"TN"","2021","Joe M or Judith W Clem Trustees of the Clem Family Trust","Common Stock","3500","5.52%","n/a"
+"Peoples Bancorp,"Inc"","Dunlap,"TN"","2021","June Willis Silver","Common Stock","3500","5.52%","n/a"
+"Peoples Bancorp,"Inc"","Manchester,"TN"","2021","Steven Willis and/or Donna Willis","Common Stock","3500","5.52%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Bell & Alexander Title Svc Inc","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Nolensville Toy Shop LLC","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Manchester Investments,"LLC"","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Crypto LLC","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Bell. McCann,"McInteer","PLC"","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Bell & Brown Properties,"LLC"","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","Nolensville Investments,"LLC"","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director","Mark Bell","Director","OnRamp LLC","2021","Lawyer","n/a"
+"Peoples Bank & Trust Company","Director / President","Philip Calahan","Director / President/CEO","n/a","2021","Banker","n/a"
+"Peoples Bank & Trust Company","Director","Melissa Cartwright","Director","Eaton's LLC","2021","Business owner plumbing,"electric","hardware"","n/a"
+"Peoples Bank & Trust Company","Director","D Michael England","Director","n/a","2021","Real Estate Broker","n/a"
+"Peoples Bank & Trust Company","Director & Chairman","Herschel S Taylor","Director & Chairman","n/a","2021","Dentist-retired","n/a"
+"Peoples Bank & Trust Company","Director","David Young","Director","n/a","2021","Insurance Agent","n/a"
+"Peoples Bank & Trust Company","Director","Sammy Young","Director","n/a","2021","Retired-Agribusiness Manager","n/a"
+```

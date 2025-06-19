@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Gainesville,"FL"","2014","C. Neal Anderson","Common","62083","5.15%","2902005"
+"Florida Community Bankshares,"Inc."","Anthony,"FL"","2014","Hugh Dailey","Common","71615","5.94%","2902005"
+"Florida Community Bankshares,"Inc."","Nashville,"TN"","2014","Kenneth E. Ellenberg","Common","84833","7.04%","2902005"
+"Florida Community Bankshares,"Inc."","Williston,"FL"","2014","Jimmy L. And Martha C. Gladwell III","Common","74000","6.14%","2902005"
+"Florida Community Bankshares,"Inc."","Ocala,"FL"","2014","Harold J. And Opal A. Plumley","Common","100000","8.30%","2902005"
+"Florida Community Bankshares,"Inc."","Ocala,"FL"","2014","Sequel Investments,"LLC"","Common","68625","5.70%","2902005"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Director","John L.. Alvarez","President","Alvarez Truck Brokers of FL","2014","Produce Broker","2902005"
+"Florida Community Bankshares,"Inc."","Director","John L.. Alvarez","President","Alvarez,"Inc"","2014","Produce Broker","2902005"
+"Florida Community Bankshares,"Inc."","Director","John L.. Alvarez","n/a","John Alvarez Investment Group LLC","2014","Produce Broker","2902005"
+"Florida Community Bankshares,"Inc."","Director","John L.. Alvarez","n/a","Alvarez Family Trust LLC","2014","Produce Broker","2902005"
+"Florida Community Bankshares,"Inc."","Director","John L.. Alvarez","n/a","AAW LLC","2014","Produce Broker","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","President","35 Farms,"Inc."","2014","Sports/Farmer","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","Manager","35 Farms Peanut Venture","2014","Sports/Farmer","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","Manager","Needmore Farms,"LLC"","2014","Sports/Farmer","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Manager/Member","Nature Coast Timber LL","2014","Rancher/Real Estate","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Managing Partner","Ocala Manufacturing Co. LTD","2014","Rancher/Real Estate","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Owner","C.W. Bailey,"Jr. Corp"","2014","Rancher/Real Estate","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","President","CW4,"Inc."","2014","Rancher/Real Estate","2902005"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Co-Owner","Littoral Marine LLC","2014","Rancher/Real Estate","2902005"
+"Florida Community Bankshares,"Inc."","Director,"President & CEO"","Hugh F. Dailey","Co-Owner","Littoral Marine LLC","2014","n/a","2902005"
+"Florida Community Bankshares,"Inc."","Director,"EVP & CFO"","David R. Denyer","n/a","n/a","2014","n/a","2902005"
+"Florida Community Bankshares,"Inc."","Director","Kenneth E. Ellenberg","CEO","BTD Wood Powder Coating","2014","Manufacturing/Horses","2902005"
+"Florida Community Bankshares,"Inc."","Director","Jimmy L.. Gladwell,"III"","Owner","The Kindergarten Farm","2014","Real Estate/Horses","2902005"
+"Florida Community Bankshares,"Inc."","Director","Jimmy L.. Gladwell,"III"","n/a","Thoroughbred Mgmt LLC","2014","Real Estate/Horses","2902005"
+"Florida Community Bankshares,"Inc."","Director","James Jernigan","n/a","n/a","2014","Photographer","2902005"
+"Florida Community Bankshares,"Inc."","Director","JoAnn R. Smith","Owner","Smith Associates","2014","Consultant/Rancher","2902005"
+```

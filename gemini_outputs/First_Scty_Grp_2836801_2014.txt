@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Security Group,"Inc."","New York,"NY"","2014","MFP Investors,"LLC"","Common Stock","6080000","9.10%","n/a"
+"First Security Group,"Inc."","New York,"NY"","2014","Siget,"LLC"","Common Stock","6080000","9.10%","n/a"
+"First Security Group,"Inc."","New York,"NY"","2014","Ulysses Management. LLC","Common Stock","6000000","8.98%","n/a"
+"First Security Group,"Inc."","Little Rock,"AR"","2014","Forest Hill Capital. LLC","Common Stock","4966.650","7.43%","n/a"
+"First Security Group,"Inc."","Norwalk,"CT"","2014","Thomson Horstmann & Bryant,"Inc."","Common Stock","3698640","5.53%","n/a"
+"First Security Group,"Inc."","Arlington,"VA"","2014","EJF Capital,"LLC"","Common Stock","0","0.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Security Group,"Inc."","President,"CEO & Director"","D. Michael Kramer","n/a","n/a","2014","N/A","2836801"
+"First Security Group,"Inc."","Chairman of the Board","Larry D Mauldin","Chairman of the Board","Covenant Health","2014","Retired","2836801"
+"First Security Group,"Inc."","Chairman of the Board","Larry D Mauldin","Owner/Manager","Mauldin Properties,"LLC"","2014","Retired","2836801"
+"First Security Group,"Inc."","Director","Carol H Jackson","n/a","n/a","2014","Retired","2836801"
+"First Security Group,"Inc."","Director","William C Hall","n/a","T&C Holdings GP","2014","Retired","2836801"
+"First Security Group,"Inc."","Director","Robert R Lane","Faculty Advisor","Ohio State University","2014","Higher Education","2836801"
+"First Security Group,"Inc."","Director","Robert R Lane","CEO","Lane Leadership Group. LLC","2014","Higher Education","2836801"
+"First Security Group,"Inc."","Director","William F. Grant II","n/a","n/a","2014","Retired","2836801"
+"First Security Group,"Inc."","Director","Henry Enden","Equity Analyst","MFP Investors,"LLC"","2014","Financial Services","2836801"
+"First Security Group,"Inc."","Director","Kelly P. Kirkland","n/a","n/a","2014","Retired","2836801"
+"First Security Group,"Inc."","Director","Adam Hurwich","Portfolio Manager","Ulyssess Management,"LLC"","2014","Financial Services","2836801"
+"First Security Group,"Inc."","Chief Administrative Officer & Executive Vice President","Denise M. Cobb","n/a","n/a","2014","N/A","2836801"
+"First Security Group,"Inc."","Chief Financial Officer,"Secretary & Executive Vice President"","John R. Haddock","n/a","n/a","2014","N/A","2836801"
+"First Security Group,"Inc."","Chief Credit Officer & Executive Vice President","Chris Tietz","n/a","n/a","2014","N/A","2836801"
+```

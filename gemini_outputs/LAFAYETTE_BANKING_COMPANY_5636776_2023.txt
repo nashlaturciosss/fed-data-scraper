@@ -1,0 +1,17 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lafayette Banking Company","n/a","2023","Kenneth M. Durrance","n/a","4271","n/a","n/a"
+"Lafayette Banking Company","n/a","2023","E. Townsend Durrance,"Jr."","n/a","16531","14.73%","n/a"
+"Lafayette Banking Company","n/a","2023","E. Townsend Durrance,"III"","n/a","11139","9.94%","n/a"
+"Lafayette Banking Company","n/a","2023","David P. Claussen","n/a","14064","12.55%","n/a"
+"Lafayette Banking Company","n/a","2023","Edward White Family,"LLC"","n/a","7980","7.12%","n/a"
+"Lafayette Banking Company","n/a","2023","Ann D. Logan,"Trustee"","n/a","6696","5.97%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lafayette Banking Company","CEO","David Claussen","n/a","n/a","2023","n/a","n/a"
+"Lafayette Banking Company","CFO","Todd Battle","n/a","n/a","2023","n/a","n/a"
+```

@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Bank Corp.","Madison,"GA"","2019","Lambert Family Investment Holdings,"LLLP"","Common Stock","4461","16.80%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2019","Old Post Road,"LP Family Partnership"","Common Stock","6665","25.1%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Madison","Director","James W. Boyd,"Jr."","Director","Jim Boyd Agency,"Inc."","2019","Insurance Agent","n/a"
+"Bank of Madison","Director","Lowry W Hunt,"Jr."","Director","Godfrey's Warehouse","2019","Agriculture Product","n/a"
+"Bank of Madison","Director","Floyd C. Newton,"III"","Partner","King & Spalding","2019","Attorney","n/a"
+"Bank of Madison","President / CEO","Charles H Haney,"III"","n/a","n/a","2019","n/a","n/a"
+"Bank of Madison","Chairman","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2019","Certified Public Accountant","n/a"
+"Bank of Madison","Sr VP/ CFO Director","L. Clifton Hanes","VP & Sect.","Hanes & White Inc","2019","Sr Vice Pres. / CFO","n/a"
+"Bank of Madison","Director","Robert T Prior","n/a","Prior & Daniel LLC","2019","Attorney","n/a"
+```

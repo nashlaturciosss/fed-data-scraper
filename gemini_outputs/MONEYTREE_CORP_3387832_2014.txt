@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MoneyTree Corporation","Springfield,"TN"","2014","Samuel Ramsey","Common Stock","86709","11.23%","3387832"
+"MoneyTree Corporation","Lenoir City,"TN"","2014","G. L. Hall","Common Stock","80228","10.39%","3387832"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MoneyTree Corporation","Pres/CEO/Dir","C. David Allen","n/a","n/a","2014","n/a","n/a"
+"MoneyTree Corporation","Secretary","Sandra Chaffin","Sr. VP","n/a","2014","n/a","n/a"
+"MoneyTree Corporation","Vice President","Mark Hackney","Sr. VP","n/a","2014","n/a","n/a"
+"MoneyTree Corporation","Director","G. L. Hall","Director","n/a","2014","Retired","n/a"
+"MoneyTree Corporation","Director","James W. Hamilton","Director","n/a","2014","Retired","n/a"
+"MoneyTree Corporation","Director","Joy Littleton","Director","JAG Enterprises","2014","n/a","n/a"
+"MoneyTree Corporation","Director","Avery Petty","CFO","Prism Development LLC","2014","Real Estate Broker","n/a"
+"MoneyTree Corporation","Director","James Purdy","Director","Riverview Golf Corse","2014","Retired","n/a"
+"MoneyTree Corporation","Director","James Purdy","Director","Rivierview Dockominums","2014","Retired","n/a"
+"MoneyTree Corporation","Director","Samuel Ramsey","President","The Ramsey Group","2014","Management Consulting","n/a"
+"MoneyTree Corporation","Director","Samuel Ramsey","Chairman","Burdett's Tea Shop & Trading Company","2014","Management Consulting","n/a"
+"MoneyTree Corporation","Chairman","Ted Wampler","Director","Wampler's Farm Sausage Co.","2014","Retired","n/a"
+"MoneyTree Corporation","Chairman","Ted Wampler","Trustee","Edith Wampler Trust","2014","Retired","n/a"
+"MoneyTree Corporation","Chairman","Ted Wampler","Owner","Wampler Country Living Park","2014","Retired","n/a"
+"MoneyTree Corporation","Director","Lafayette Williams","Secretary - Treas","Plateau Livestock Exchange","2014","Livestock","n/a"
+"MoneyTree Corporation","Director","Chris Schubert","Superintendent","Alex Schubert Construction,"Inc"","2014","Contractor","n/a"
+"MoneyTree Corporation","Director","Sam F. Mishu","President","M & M Development Company","2014","Real Estate Developer","n/a"
+```

@@ -1,0 +1,25 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jefferson Bankshares,"Inc."","Washington,"D.C."","2015","SBLF US Treasury Department","Class A Preferred","3367","100%","n/a"
+"Jefferson Bankshares,"Inc."","New Port Richey,"FL"","2015","Gary L Blackwell,"Trustee"","Common Stock","125000","5.1%","n/a"
+"Jefferson Bankshares,"Inc."","New Port Richey,"FL"","2015","Gary L Blackwell,"Trustee"","Options on Common Stock","19250",".74%","n/a"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2015","Brandon Family Limited Partnership by David L. & Dana K. Brandon","Common Stock","115000","4.69%","n/a"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2015","Brandon Family Limited Partnership by David L. & Dana K. Brandon","Options on Common Stock","19250",".74%","n/a"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2015","Robert & Catherine McGivney","Common Stock","92837","3.78%","n/a"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2015","Robert & Catherine McGivney","Options on Common Stock","122644","4.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jefferson Bankshares,"Inc."","Chairman & President","Robert B. McGivney","Chairman/CEO","Jefferson Bank of Florida","2015","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Vice President","James P. Nelson","President/COO/Senior Lender","Jefferson Bank of Florida","2015","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Secretary / Treasurer","Jeffrey P. Seligsohn","Executive Vice President/CFO","Jefferson Bank of Florida","2015","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Director","Gary L Blackwell","President","Blackwell Investments","2015","Real Estate","4576503"
+"Jefferson Bankshares,"Inc."","Director","David L. Brandon","President","Brandon Construction Company","2015","Construction","4576503"
+"Jefferson Bankshares,"Inc."","Director","Ronald S. Hockman","President","Hockman Insurance Agency","2015","Insurance","4576503"
+"Jefferson Bankshares,"Inc."","Director","Stephen H. Jacobs,"MD"","n/a","n/a","2015","Physician / Retired","4576503"
+"Jefferson Bankshares,"Inc."","Director","Joseph L. Oliveri","President","Oliveri Architects","2015","Architecture","4576503"
+"Jefferson Bankshares,"Inc."","Director","Paul J. Wikle","President","Wikle Real Estate Services","2015","Real Estate","4576503"
+```

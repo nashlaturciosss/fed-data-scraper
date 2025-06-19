@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First,"Inc."","Williamsport,"Tennessee"","2014","Eslick E. Daniel,"M.D."","Common Stock","214332","6.54%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First,"Inc."","Chairman of the Board of Directors,"Director - Community First Bank & Trust"","Eslick E. Daniel,"M.D."","n/a","n/a","2014","Retired","n/a"
+"Community First,"Inc."","Director - Community First Bank & Trust","Roger Witherow,","President/Owner","Roger Witherow & Associates,"Inc."","2014","President/Owner of Roger Witherow & Associates,"Inc."","2810007"
+"Community First,"Inc."","Director - Community First Bank & Trust","Roger Witherow,","Partner","Witherow,"Daniel & White"","2014","President/Owner of Roger Witherow & Associates,"Inc."","2810007"
+"Community First,"Inc."","Director - Community First Bank & Trust","Roger Witherow,","Partner","Olive and Sinclair Chocolate Company LLC","2014","President/Owner of Roger Witherow & Associates,"Inc."","2810007"
+"Community First,"Inc."","Director - Community First Bank & Trust","Roger Witherow,","Thoroughbred Financial Services - Broker","n/a","2014","President/Owner of Roger Witherow & Associates,"Inc."","2810007"
+"Community First,"Inc."","Director - Community First Bank & Trust","Dinah C. Vire,","n/a","n/a","2014","Retired","n/a"
+"Community First,"Inc."","Director - Community First Bank & Trust","Bernard Childress,","n/a","n/a","2014","Executive Director of Tennessee Secondary School Athletic Association.","n/a"
+```

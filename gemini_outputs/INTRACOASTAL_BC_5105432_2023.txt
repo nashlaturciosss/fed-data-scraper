@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Intracoastal Bancorp,"Inc."","Director & Executive Chair","Bruce E. Page","Director & Executive Chair","n/a","2023","N/A","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Albert B. Johnston,"Jr."","Partner","Johnston Brothers Farms","2023","Farmer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Gerald P. Keyes","Senior Tax Manager","KSW Wealth Management LLC","2023","CPA","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Michael Machin","Owner","M Machin Construction","2023","Home builder","n/a"
+"Intracoastal Bancorp,"Inc."","Director & CEO","Ryan Page","n/a","n/a","2023","N/A","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","CEO","Jobalia Development Group","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","HLPC,"LLC"","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","Padmavati One LLC","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","Padmavati Two LLC","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","Padmavati Three LLC","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","EFL I","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","EFL II","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Anand Jobalia","Managing Member","Wolfcamp Lodge","2023","Developer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Thomas D. Gibbs","Dealer Principal & General Manager","Tom Gibbs Chevrolet Inc.","2023","Auto dealer","n/a"
+"Intracoastal Bancorp,"Inc."","Director","C. Scott Crews","n/a","n/a","2023","Retired","n/a"
+"Intracoastal Bancorp,"Inc."","Director","Pamela Carbiener","Senior Partner","Schwenker & Stavoy PA","2023","Physician","n/a"
+```

@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Federal Bancorp","Jackson,"MS"","2020","Guy Evans","n/a","21831","6.03%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2020","Christine Fortenberry","n/a","19946","5.51%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2020","Brenda Griner","n/a","66644","18.41%","n/a"
+"First Federal Bancorp","Madison,"MS"","2020","Stephen Griner","n/a","34826","9.62%","n/a"
+"First Federal Bancorp","Columbia,"MS"","2020","Charles Griner Jr.","n/a","34152","9.44%","n/a"
+"First Federal Bancorp","Sumrall,"MS"","2020","Sandra McDaniel","n/a","36600","10.11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Federal Bancorp","Vice Chairman","I. Randall Wallace","General Manager","PRVEPA","2020","Electric Power Association","n/a"
+"First Federal Bancorp","Director","Charles H. Griner,"Jr."","President & Chairman","Griner Drilling","2020","Waterwell Contractor","n/a"
+"First Federal Bancorp","Director","James R. Price","n/a","Ox-Mar Properties","2020","Investments","n/a"
+"First Federal Bancorp","Secretary","Sandra G. McDaniel","n/a","Charles H. Griner FLP","2020","Homemaker","n/a"
+"First Federal Bancorp","Secretary","Sandra G. McDaniel","n/a","Griner Sports","2020","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Oil,"Inc"","2020","Homemaker","n/a"
+"First Federal Bancorp","n/a","Brenda M. Griner","n/a","Jack Morris Butane. Inc.","2020","Homemaker","n/a"
+"First Federal Bancorp","Director","Newton B. Blount","n/a","n/a","2020","n/a","n/a"
+"First Federal Bancorp","Director","Austin D. Wilks","Insurance Agent","ADW Rentals,"LLC"","2020","Insurance Agent","n/a"
+"First Federal Bancorp","Director","Austin D. Wilks","Insurance Agent","Agri Insurance Specialist,"LLC"","2020","Insurance Agent","n/a"
+"First Federal Bancorp","Director","Greg Prine","Owner","Beacon Supply Company","2020","Oilfield Supply Company","n/a"
+"First Federal Bancorp","CEO/President","R. Scott Davis","n/a","n/a","2020","n/a","n/a"
+```

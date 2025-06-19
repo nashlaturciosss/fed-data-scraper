@@ -1,17 +1,16 @@
-Here are the two tables in CSV format as requested:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BOL BANCSHARES,"INC"","USA","2022","Scott Family LLP","Common Stock","117480","65.58%"
-"BOL BANCSHARES,"INC"","USA","2022","Estate of G Harrison Scott","Common Stock","2720","1.52%"
-"BOL BANCSHARES,"INC"","USA","2022","Shannon Scott","Common Stock","1300","0.73%"
-"BOL BANCSHARES,"INC"","USA","2022","Slade Lewis","Common Stock","89","0.005%"
-"BOL BANCSHARES,"INC"","USA","2022","Cede & Co.","Common Stock","9835","5.49%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BOL BANCSHARES,"INC"","USA","2022","Scott Family LLP","Common Stock","117480","65.58%","n/a"
+"BOL BANCSHARES,"INC"","USA","2022","Estate of G Harrison Scott","Common Stock","2720","1.52%","n/a"
+"BOL BANCSHARES,"INC"","USA","2022","Shannon Scott","Common Stock","1300","0.73%","n/a"
+"BOL BANCSHARES,"INC"","USA","2022","Slade Lewis","Common Stock","89","0.005%","n/a"
+"BOL BANCSHARES,"INC"","USA","2022","Cede & Co.","Common Stock","9835","5.49%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BOL BANCSHARES,"INC"","Director,"Secretary"","Johnny C. Crow","Director","Bank of Louisiana","2022"
-"BOL BANCSHARES,"INC"","Director,"Treasurer"","Sharry R. Scott","Director","Bank of Louisiana","2022"
-"BOL BANCSHARES,"INC"","n/a","Scott Family LLP","n/a","n/a","2022"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Louisiana","Director,"Secretary"","Johnny C. Crow","Insurance Agent","New York Life Ins. Co.","2022","Insurance Agent","271136"
+"Bank of Louisiana","Director,"Treasurer"","Sharry R. Scott","n/a","n/a","2022","Attorney","271136"
+"Bank of Louisiana","n/a","Scott Family LLP","n/a","n/a","2022","Family Trust","271136"
 ```

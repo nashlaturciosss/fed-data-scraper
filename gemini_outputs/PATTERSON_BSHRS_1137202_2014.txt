@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2014","Thomas,"R.D. Jr."","Common Stock","66008","47.31%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2014","Barnard,"J.P. Jr."","Common Stock","11938","8.56%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2014","Willingham,"Mary T."","Common Stock","14076","10.09%","1137202"
+"Patterson Bankshares,"Inc."","Waycross,"GA"","2014","Strickland,"Devin B"","Common Stock","11987","8.59%","1137202"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","Director","First Southern Bank","2014","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","Owner","The Barnard Co.","2014","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","Owner","Barnard Construction Co.","2014","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","President","Julie Hat Co. Inc.","2014","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","William Hughes","CEO & Director","First Southern Bank","2014","n/a","1137202"
+"Patterson Bankshares,"Inc."","President/Chief Lending Officer,"Bank"","Stipe,"Steve"","n/a","Stipe Farms,"LLC"","2014","n/a","1137202"
+```

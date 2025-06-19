@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Macon Banctrust,"Inc."","Gallatin,"TN"","2023","Gregory Investments,"LLC"","n/a","6169","11.52%","n/a"
+"Macon Banctrust,"Inc."","Red Boiling Springs,"TN"","2023","Hugh Wayne Clark","n/a","5354","10.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Macon Banctrust,"Inc."","Director,"EVP"","Donald Ray Birdwell","n/a","n/a","2023","Retired Banker","n/a"
+"Macon Banctrust,"Inc."","Director","Ben Bray","Owner","Ben Bray R/E & Auction","2023","R/E Auctioner","n/a"
+"Macon Banctrust,"Inc."","Director","Ben Bray","Owner","Macon Mini Sotrage","2023","R/E Auctioner","n/a"
+"Macon Banctrust,"Inc."","Director","Eddie K. Chitwood","President","TMC Group,"Inc."","2023","Pharmacist","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Pres.","Clark Lumber Co.,"Inc."","2023","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Partner","Clark Lumber Co.,"LLC"","2023","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Hugh Wayne Clark","Pres.","Bran-Em Trucking","2023","Lumberman","n/a"
+"Macon Banctrust,"Inc."","Director","Odric Gregory","Member","Gregory Real Estate,"LLC"","2023","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Odric Gregory","Member","West Main St. Propery","2023","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Insider","Gregory Investments,"LLC"","Member","Gregory Investments,"LLC"","2023","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Insider","Gregory Investments,"LLC"","Member","Gregory Investments,"LLC"","2023","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Olin Jent,"Jr."","n/a","n/a","2023","Pharmacist","n/a"
+"Macon Banctrust,"Inc."","Director","Jerry Kirby","Owner","Kirby & Kirby","2023","Rental Properties","n/a"
+"Macon Banctrust,"Inc."","Director","Chad Shoulders","Executive Vice President & Chief Credit Officer","n/a","2023","Banking","n/a"
+"Macon Banctrust,"Inc."","President & CEO","Johnathan West","n/a","n/a","2023","Banking","n/a"
+"Macon Banctrust,"Inc."","Director","Wayne Anderson","Owner","Anderson & Son Funeral Home","2023","Funeral Director","n/a"
+"Macon Banctrust,"Inc."","Director","Wayne Anderson","Owner","Anderson Farms","2023","Funeral Director","n/a"
+"Macon Banctrust,"Inc."","Chairman","Radford West","Chairman","n/a","2023","Retired Banker","n/a"
+"Macon Banctrust,"Inc."","Secretary & Treasurer","Chrissy Smith","Vice President & Personnel Director","n/a","2023","Banking","n/a"
+```

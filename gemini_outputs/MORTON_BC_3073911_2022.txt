@@ -1,0 +1,15 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morton Bancorp,"Inc."","Morton,"MS"","2022","Martha J. Rogers","n/a","36095","32.2%","n/a"
+"Morton Bancorp,"Inc."","Morton,"MS"","2022","Gordy Herring","n/a","13749","12.26%","n/a"
+"Morton Bancorp,"Inc."","Morton,"MS"","2022","Tully D. Smith","n/a","12799","11.4%","n/a"
+"Morton Bancorp,"Inc."","Morton,"MS"","2022","Larry Rogers","n/a","7000","6.24%","n/a"
+"Morton Bancorp,"Inc."","Morton,"MS"","2022","E. G. Herring,"Jr."","n/a","6188","5.52%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morton Bancorp,"Inc."","Chairman & CEO / Director","Martha J. Rogers","n/a","n/a","2022","n/a","n/a"
+"Morton Bancorp,"Inc."","SVP","Edward G. Herring","n/a","n/a","2022","n/a","n/a"
+```

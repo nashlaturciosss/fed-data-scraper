@@ -1,0 +1,42 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Bancshares,"Inc."","Baton Rouge,"LA"","2020","Ann S. Keogh","Common Stock","922","10.84%","n/a"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2020","David Kessler","Common Stock","1,"043"","12.27%","n/a"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2020","Paul Buckley Kessler","Common Stock","353","5.32%","n/a"
+"Commerce Bancshares,"Inc."","Atlanta,"GA"","2020","Alison C. Sample","Common Stock","488","5.73%","n/a"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2020","Melvin Schudmak","Common Stock","1,"228"","14.44%","n/a"
+"Commerce Bancshares,"Inc."","Gulf Breeze,"Florida"","2020","Lisa Tidwell","Common Stock","763","8.97%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Bancshares,"Inc."","Director","Scott Kessler","n/a","Cora Texas,"Co.","LLC"","2020","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","Scott Kessler","n/a","Kessler Sternfels Alaridge,"Inc."","2020","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","James E. Abadie,"Jr."","n/a","n/a","2020","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Director & President","David Kessler","Director & President/Chairman of the Board","n/a","2020","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Chairman","David Kessler","Director & President/Chairman of the Board","Cora Co. LLC","2020","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Chairman","David Kessler","Director & President/Chairman of the Board","Cora Co. Inc.","2020","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Director","Melvin Schudmak","Chairman - Cora Texas Manufacturing,"Inc."","Cora Co. LLC","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Melvin Schudmak","Chairman - Cora Texas Manufacturing,"Inc."","Cora Co. Inc.","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Ann Keogh","n/a","Cora Co. LLC","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Ann Keogh","n/a","Cora Co. Inc.","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Vice-President","Viallon Drug Co.,"Inc."","2020","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Vice-President","Pharmaceuticals,"Inc."","2020","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Vice-President","VVM,"LLC"","2020","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Vice-President","Stematix,"Inc."","2020","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","Alton Landry,"Sr."","n/a","Walk On's Properties","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Alton Landry,"Sr."","n/a","Walk On's Bistreaux LLC","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Paul Bradley Kessler","n/a","Cora Texas Co.,"LLC"","2020","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","Paul Bradley Kessler","n/a","Kessler Sternfels Alaridge,"Inc."","2020","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director & Secretary","Charles Schudmak","n/a","Cora Texas Manufacturing,"LLC"","2020","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","Harold Schexnayder","n/a","EJS,"Inc."","2020","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","VVM,"LLC"","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Elmar Diversified,"LLC"","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Contract Gaugers,"Inc."","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Tremmco Holdings,"LLC"","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Energy 3,"LLC"","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Action Industries,"Inc."","2020","Business Owner","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","n/a","Action Environmental Ser.,"LLC"","2020","Business Owner","n/a"
+```

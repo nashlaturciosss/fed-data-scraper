@@ -1,0 +1,18 @@
+"Here are the requested CSV tables","extracted from the document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Perry Banking Company,"Inc."","Newberry,"FL"","2015","Paul W. Dickert","n/a","13585","30.346%","n/a"
+"Perry Banking Company,"Inc."","Sarasota,"FL"","2015","Mark R. Dickert","n/a","13000","29.039%","n/a"
+"Perry Banking Company,"Inc."","Perry,"FL"","2015","John W. Cruce","n/a","5000","11.169%","n/a"
+"Perry Banking Company,"Inc."","Gainesville,"FL"","2015","Michael D. Massey","n/a","5620","12.555%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Perry Banking Company,"Inc."","Chairman/Director,"Chairman/Director Citizens State Bank"","Mark Dickert","VP/Director","Wilson/Ross","2015","Wilson/Ross","n/a"
+"Perry Banking Company,"Inc."","President/Director,"President - CEO Citizens State Bank","VP/Secretary/Director U.S. Credit","Inc."","Paul Dickert","President/Director","Wilson/Ross","2015","Citizens State Bank","n/a"
+"Perry Banking Company,"Inc."","President/Director,"President - CEO Citizens State Bank","VP/Secretary/Director U.S. Credit","Inc."","Paul Dickert","President/Director","Probuilt,"Inc."","2015","Citizens State Bank","n/a"
+"Perry Banking Company,"Inc."","Director,"Director Citizens State Bank"","John W. Cruce","Owner","John A. Cruce,"Inc."","2015","Logging","n/a"
+"Perry Banking Company,"Inc."","Director,"President U. S. Credit","Inc."","Michael Massey","VP/Director","Probuilt,"Inc."","2015","Citizens State Bank","n/a"
+```

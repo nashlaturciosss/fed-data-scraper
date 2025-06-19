@@ -1,0 +1,43 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Sam E. Upchurch,"Jr."","Common Stock","232430","4.78%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Sam E. Upchurch,"Jr."","Options on Common Stock","99571","2.05%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Scott B. Reed","Common Stock","305078","6.28%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Scott B. Reed","Options on Common Stock","99571","2.05%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Robert A. Reed","Common Stock","153068","3.20%","n/a"
+"Oakworth Capital,"Inc."","Birmingham,"AL"","2020","Robert A. Reed","Options on Common Stock","15715","0.33%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director","Security Engineers,"Inc."","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Managing Member","Grey Rocks Ranch,"LLC"","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Managing Member","Grey Rocks Investors,"LLC"","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Managing Member","850 Shades Cahaba,"LLC"","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Managing Member","GR Ranchhouses,"LLC"","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","President","Upchurch Associates,"Inc."","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","General Partner","Upchurch Realty Partnership","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Chairman","Sam E. Upchurch,"Jr."","Director","Alabama Wildlife Association","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director,"President","& CEO"","Scott B. Reed","Director","ABC Polymer Industries,"LLC"","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","CFO,"Director & CFO"","Jenifer G. Kimbrough","Director","FedNat Holding Co.,"Inc."","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Head of Business Operations","Sam A. Scalici,"Jr"","n/a","None","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director & Head of Markets","Forest W. Whatley,"Jr."","n/a","None","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Wealth & Investments","John B. Norris,"V"","Bd. Of Advisors","Gabriella White","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Head of Technology","David M. Driscoll","n/a","None","2020","n/a","n/a"
+"Oakworth Capital,"Inc."","Director","Matthew G. Mead","Trustee","MainGate MLP Fund","2020","Principal,"Chickasaw Capital Management","LLC"","n/a"
+"Oakworth Capital,"Inc."","Director","William B. Morton","Director","Blue Cross and Blue Shield of Alabama","2020","Chairman/CEO,"Robins & Morton"","n/a"
+"Oakworth Capital,"Inc."","Director","Robert A. Reed","Director","MainGate MLP Fund","2020","President & CEO,"ABC Polymer Industries","LLC"","n/a"
+"Oakworth Capital,"Inc."","Director","Richard D. Horsley","Managing Member","Longleaf Pines,"LLC"","2020","Retired","n/a"
+"Oakworth Capital,"Inc."","Director","Richard D. Horsley","Managing Member","Horsley Properties LLC","2020","Retired","n/a"
+"Oakworth Capital,"Inc."","Director","Luther J. Strange,"III"","n/a","None","2020","Attorney","n/a"
+"Oakworth Capital,"Inc."","Director","E. Lyle Cain,"Jr.","M.D."","n/a","None","2020","Orthopedic Surgeon","n/a"
+"Oakworth Capital,"Inc."","Director","Samford T. Myers,"Sr."","Member","Gnosis LLC","2020","Managing Director,"ASF Logistics & ASF Global"","n/a"
+"Oakworth Capital,"Inc."","Director","Samford T. Myers,"Sr."","Member","Epic Ice LLC","2020","Managing Director,"ASF Logistics & ASF Global"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Bimal Properties","2020","Advisor & Director,"Pack Health/CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Bhusra Consulting","2020","Advisor & Director,"Pack Health/CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Elsye","2020","Advisor & Director,"Pack Health/CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Sanjay Singh","Director","Alabama Capital Network","2020","Advisor & Director,"Pack Health/CS Equities"","n/a"
+"Oakworth Capital,"Inc."","Director","Rebekah Elgin-Council","n/a","None","2020","Sr. Vice President & Chief Marketing Officer,"Blue Cross"","n/a"
+```

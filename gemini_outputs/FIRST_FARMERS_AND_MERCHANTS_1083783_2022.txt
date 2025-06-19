@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers and Merchants Corporation","Chairman,"CEO and President"","Brian K. Williams","Chairman,"CEO and President"","n/a","2022","N/A","n/a"
+"First Farmers and Merchants Corporation","Director","Brian K. Williams","Chairman,"CEO and President"","First Farmers and Merchants Bank","2022","N/A","n/a"
+"First Farmers and Merchants Corporation","N/A","Jonathan M. Edwards","President","Edwards Oil Company of Lawrenceburg,"Inc."","2022","President and CEO\nEdwards Oil Company","n/a"
+"First Farmers and Merchants Corporation","N/A","Jonathan M. Edwards","President","South TN Oil Co.,"Inc."","2022","President and CEO\nEdwards Oil Company","n/a"
+"First Farmers and Merchants Corporation","N/A","Jonathan M. Edwards","President","Edwards Oil Co.,"Inc."","2022","President and CEO\nEdwards Oil Company","n/a"
+"First Farmers and Merchants Corporation","N/A","Jonathan M. Edwards","General Partner","Edwards Land Co.,"LP"","2022","President and CEO\nEdwards Oil Company","n/a"
+"First Farmers and Merchants Corporation","N/A","Jonathan M. Edwards","Chief Manager","Edwards Real Estate,"LLC"","2022","President and CEO\nEdwards Oil Company","n/a"
+"First Farmers and Merchants Corporation","Secretary and Treasurer","Robert E. Krimmel","N/A","n/a","2022","N/A","n/a"
+"First Farmers and Merchants Corporation","Secretary and Treasurer","Robert E. Krimmel","N/A","First Farmers and Merchants Bank","2022","N/A","n/a"
+"First Farmers and Merchants Corporation","Director","Richard C. Perko","Principal","ZULU Group,"LLC"","2022","President and CEO\nLee Company","n/a"
+"First Farmers and Merchants Corporation","Director","Richard C. Perko","Director","First Farmers and Merchants Bank","2022","President and CEO\nLee Company","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Pannell","N/A","n/a","2022","CEO\nTennessee Farmers Insurance Companies","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Pannell","Director","First Farmers and Merchants Bank","2022","CEO\nTennessee Farmers Insurance Companies","n/a"
+"First Farmers and Merchants Corporation","Director","E. Marlee Mitchell","President","Rugby Land Company,"LLC"","2022","Attorney and Partner\nWaller Lansden Dortch & Davis,"LLP"","n/a"
+"First Farmers and Merchants Corporation","Director","E. Marlee Mitchell","Director","First Farmers and Merchants Bank","2022","Attorney and Partner\nWaller Lansden Dortch & Davis,"LLP"","n/a"
+"First Farmers and Merchants Corporation","Director","Gina B. Wolfe","N/A","n/a","2022","Owner/ Operator\nWolfe Enterprises dba McDonalds of Maury County","n/a"
+"First Farmers and Merchants Corporation","Director","Gina B. Wolfe","Director","First Farmers and Merchants Bank","2022","Owner/ Operator\nWolfe Enterprises dba McDonalds of Maury County","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Aiken","N/A","n/a","2022","Deputy Commissioner for the\nTennessee Department of Agriculture","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Aiken","Director","First Farmers and Merchants Bank","2022","Deputy Commissioner for the\nTennessee Department of Agriculture","n/a"
+"First Farmers and Merchants Corporation","Director","H. Alan Watson","N/A","n/a","2022","Retired CEO\nMaury Regional Health","n/a"
+"First Farmers and Merchants Corporation","Director","H. Alan Watson","Director","First Farmers and Merchants Bank","2022","Retired CEO\nMaury Regional Health","n/a"
+```

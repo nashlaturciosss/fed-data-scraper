@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Century Bancorp.","Alto,"GA"","2015","William A. Bagwell,"Jr."","Common Stock","469","7.51%","2997739"
+"First Century Bancorp.","Alto,"GA"","2015","William A. Bagwell,"Jr."","Warrants","889","11.53%","2997739"
+"First Century Bancorp.","Alpharetta,"GA"","2015","William R. Blanton","Common Stock","1451","23.23%","2997739"
+"First Century Bancorp.","Alpharetta,"GA"","2015","William R. Blanton","Warrants","2720","23.29%","2997739"
+"First Century Bancorp.","Atlanta,"GA"","2015","William M. Evans,"Jr."","Common Stock","356","5.70%","2997739"
+"First Century Bancorp.","Atlanta,"GA"","2015","William M. Evans,"Jr."","Warrants","253","3.67%","2997739"
+"First Century Bancorp.","Ponte Vedra Beach,"FL"","2015","Joe McCart 2012 Family Trust","Common Stock","686","10.98%","2997739"
+"First Century Bancorp.","Ponte Vedra Beach,"FL"","2015","Joe McCart 2012 Family Trust","Warrants","502","6.62%","2997739"
+"First Century Bancorp.","Atlanta,"GA"","2015","Silver Hill Enterprises,"LP"","Common Stock","435","6.97%","2997739"
+"First Century Bancorp.","Atlanta,"GA"","2015","Silver Hill Enterprises,"LP"","Warrants","877","11.46%","2997739"
+"First Century Bancorp.","Sandy Springs,"GA"","2015","Richard T. Smith","Common Stock","475","7.61%","2997739"
+"First Century Bancorp.","Sandy Springs,"GA"","2015","Richard T. Smith","Warrants","461","6.35%","2997739"
+"First Century Bancorp.","Dawsonville,"GA"","2015","Neil Strickland","Common Stock","697","11.16%","2997739"
+"First Century Bancorp.","Dawsonville,"GA"","2015","Neil Strickland","Warrants","506","6.66%","2997739"
+"First Century Bancorp.","Lawrenceville,"GA"","2015","Tetteron Family 2012 Business Trust","Common Stock","180","2.88%","2997739"
+"First Century Bancorp.","Lawrenceville,"GA"","2015","Tetteron Family 2012 Business Trust","Warrants","362","5.32%","2997739"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Century Bancorp.","Director","William A. Bagwell,"Jr."","Manager","Homestead Investments,"LLC"","2015","Real Estate Investment","2997739"
+"First Century Bancorp.","Chairman of the Board/CEO","William R. Blanton","Vice Chairman & CEO","First Covenant Bank","2015","Private Investor","2997739"
+"First Century Bancorp.","Director","Lanny W. Dunagan","Owner","Lanny Dunagan Welding Inc.","2015","Welding","2997739"
+"First Century Bancorp.","Director","William M. Evans,"Jr."","President","Fox Creek Properties","2015","Real Estate Development","2997739"
+"First Century Bancorp.","Director","William M. Evans,"Jr."","Partner","Piedmont Investments","2015","Real Estate Development","2997739"
+"First Century Bancorp.","Director","R. Allen Smith","n/a","n/a","2015","None","2997739"
+"First Century Bancorp.","Director","Dr. Wendell A. Turner","Owner","Gainesville Gynecology,"LLC"","2015","Medical","2997739"
+"First Century Bancorp.","Director","R.K. Whitehead III","President","Whitehead Die Casting,"Co. Inc."","2015","President of Whitehead Die Casting,"Co. Inc."","2997739"
+"First Century Bancorp.","Director","Richard T. Smith","Manager","Smith Cavin & Corbin,"LLC"","2015","Attorney","2997739"
+"First Century Bancorp.","n/a","Neil H. Strickland","Director","Strickland Group,"Inc."","2015","Insurance","2997739"
+"First Century Bancorp.","n/a","Neil H. Strickland","Director","Strickland General Agency,"Inc."","2015","Insurance","2997739"
+"First Century Bancorp.","n/a","Neil H. Strickland","Director","Superior Insurance Service,"Inc"","2015","Insurance","2997739"
+"First Century Bancorp.","n/a","Neil H. Strickland","Director","First Oglethorpe Company","2015","Insurance","2997739"
+"First Century Bancorp.","n/a","Neil H. Strickland","Director","Golden Isles Underwriters,"Inc."","2015","Insurance","2997739"
+```

@@ -1,24 +1,24 @@
-Here are the requested CSV tables:
+Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Georgia Banking Company","Cochran","2021","Jo Anne Phillips Ard","Common Stock","13","7.26%"
-"Central Georgia Banking Company","Cochran","2021","Marcella P. Cochran","Common Stock","13","7.26%"
-"Central Georgia Banking Company","Cochran","2021","Anne Phillips Davis","Common Stock","17","9.50%"
-"Central Georgia Banking Company","Cochran","2021","Randi M. Phillips","Common Stock","17","9.50%"
-"Central Georgia Banking Company","Cochran","2021","Leo L. Phillips,"III"","Common Stock","17","9.50%"
-"Central Georgia Banking Company","Cochran","2021","Kathryn P. Collier","Common Stock","13","7.26%"
-"Central Georgia Banking Company","Cochran","2021","Leo L. Phillips,"Jr."","Common Stock","23","12.85%"
-"Central Georgia Banking Company","Cochran","2021","John R. Phillips","Common Stock","35","19.55%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Jo Anne Phillips Ard","Common Stock","13","7.26%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Marcella P. Cochran","Common Stock","13","7.26%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Anne Phillips Davis","Common Stock","17","9.50%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Randi M. Phillips","Common Stock","17","9.50%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Leo L. Phillips,"III"","Common Stock","17","9.50%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Kathryn P. Collier","Common Stock","13","7.26%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","Leo L. Phillips,"Jr."","Common Stock","23","12.85%","n/a"
+"Central Georgia Banking Company","Cochran,"GA"","2021","John R. Phillips","Common Stock","35","19.55%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Director/Chairman","Cochran Oil Mill & Ginnery","2021"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Partner","Phillips & Phillips,"Attorney at Law"","2021"
-"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Partner","Phillips Farm","2021"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Cochran Oil Mill & Ginnery","2021"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips & Phillips,"Attorney at Law"","2021"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips Farm","2021"
-"Central Georgia Banking Company","President","Jackie L. Bowen","President","n/a","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Director/Chairman","Cochran Oil Mill & Ginnery","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Partner","Phillips & Phillips","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","Director/Chairman","John R. Phillips","Partner","Phillips Farm","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Cochran Oil Mill & Ginnery","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips & Phillips","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips Farm","2021","Attorney/Businessman","n/a"
+"Central Georgia Banking Company","President","Jackie L. Bowen","n/a","n/a","2021","Bank President","n/a"
 ```

@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Beallsville,"MD"","2017","Patricia Brown","Common Stock","6123","13.88%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2017","Charles F. Harper","Common Stock","12659","28.69%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2017","Clementine B. Harper","Common Stock","6903","15.65%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2017","Dr. Ray H. McLaughlin","Common Stock","4848","10.99%","2581718"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Dir.,"Chrmn. & President"","Charles F. Harper","Dir.,"Chrmn. & President"","The Commercial Bank of Ozark","2017","n/a","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Clementine B. Harper","Director","The Commercial Bank of Ozark","2017","Retired","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","President","Clementine B. Harper","Director","Brown Real Estate Co.,"Inc."","2017","Retired","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Ray H. McLaughlin","Director","The Commercial Bank of Ozark","2017","Dentist","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Larry W. Ezell","Director","The Commercial Bank of Ozark","2017","n/a","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director,"Executive Vice President"","Christopher S. Harper","Director","The Commercial Bank of Ozark","2017","n/a","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director,"Executive Vice President"","Charles D. Harper","Director","The Commercial Bank of Ozark","2017","n/a","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","W. Miach McNab","Director","The Commercial Bank of Ozark","2017","CPA","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","President/Owner","W. Miach McNab","Director","W. Miach McNab Ozark,"AL"","2017","CPA","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","W. E. Blackwell,"Jr."","Director","The Commercial Bank of Ozark","2017","Retired","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Robert H. Brogden","Director","The Commercial Bank of Ozark","2017","Attorney","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Robert H. Brogden","Director","Brogden Law Firm Ozark,"AL"","2017","Attorney","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Bobby G. Snell","Director","The Commercial Bank of Ozark","2017","Veterinarian","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark Veterinary Clinic","Bobby G. Snell","Director","Ozark Veterinary Clinic","2017","Veterinarian","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Michael V. Brauer","Director","The Commercial Bank of Ozark","2017","Entrepreneur","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","CEO","Michael V. Brauer","Director","Brauer Aerospace Products","2017","Entrepreneur","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Prin. Shareholder","Patricia Brown","Prin. Shareholder","The Commercial Bank of Ozark","2017","School Teacher","2581718"
+```

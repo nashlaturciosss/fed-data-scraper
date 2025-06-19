@@ -1,0 +1,26 @@
+Here are the two CSV tables with the requested data.
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MACON BANCTRUST,"INC."","Gallatin,"TN"","2021","Gregory Investments,"LLC"","n/a","6179","11.54 %","n/a"
+"MACON BANCTRUST,"INC."","Red Boiling Springs,"TN"","2021","Hugh Wayne Clark","n/a","5316","9.93 %","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MACON BANCTRUST,"INC"","Director","BEN BRAY","n/a","Ben Bray Real Estate and Auction","2021","Real Estate Agent","n/a"
+"MACON BANCTRUST,"INC"","Director","Donald Ray Birdwell","n/a","n/a","2021","Retired Banker","n/a"
+"MACON BANCTRUST,"INC"","Director","Eddie K Chitwood","President","TMC Group,"Inc."","2021","Pharmacist","n/a"
+"MACON BANCTRUST,"INC"","Director","Hugh Wayne Clark","n/a","Clark Lumber Co.,"Inc"","2021","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC"","Director","Hugh Wayne Clark","n/a","Clark Lumber Co.,"LLC"","2021","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC"","Director","Hugh Wayne Clark","n/a","Bran-em Trucking","2021","Red Lumberman","n/a"
+"MACON BANCTRUST,"INC"","Director","Melvin Grace","n/a","Grace Discount Foods","2021","Red Retail Merchant","n/a"
+"MACON BANCTRUST,"INC"","Director","William B Green","n/a","n/a","2021","Red Retired Banker","n/a"
+"MACON BANCTRUST,"INC"","Director","Odric Gregory","n/a","Gregory Investments,"LLC"","2021","Rental properties","n/a"
+"MACON BANCTRUST,"INC"","Director","Odric Gregory","n/a","Gregory Real Estate,"LLC"","2021","Rental properties","n/a"
+"MACON BANCTRUST,"INC"","Director","Odric Gregory","n/a","Gallatin Warehousing","2021","Rental properties","n/a"
+"MACON BANCTRUST,"INC"","Director","Olin Jent Jr.","n/a","n/a","2021","Pharmacist","n/a"
+"MACON BANCTRUST,"INC"","Director","Jerry Kirby","Partner","Kirby & Kirby","2021","Rental properties","n/a"
+"MACON BANCTRUST,"INC"","Chairman,"President & CEO"","Radford A West","Chairman,"President and CEO"","n/a","2021","Banking","n/a"
+"MACON BANCTRUST,"INC"","Secretary,"Treasurer"","Chrissy Smith","Assistant Vice President & Personnel Director","n/a","2021","Banking","n/a"
+```

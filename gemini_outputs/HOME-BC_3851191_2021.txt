@@ -1,0 +1,28 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","McLean,"VA","USA"","2021","FJ Capital Management,"LLC"","Common Stock","634422","7.4%","n/a"
+"Home Bancorp,"Inc."","Lafayette,"LA","USA"","2021","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","577252","6.8%","n/a"
+"Home Bancorp,"Inc."","New York,"NY USA"","2021","BlackRock,"Inc."","Common Stock","427524","5.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","J. Scott Ballard","CEO and Owner","Ballard Hopsitality,"LLC"","2021","Ballard Hospitality,"LLC","self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Retired Partner","Broussard Poche' LLP","2021","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Chairman of the Board of Directors","John W. Bordelon","n/a","n/a","2021","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Daniel G. Guidry","n/a","n/a","2021","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","John A. Hendry","Retired Partner","Guidry & Guidry","2021","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Pediatric Dentist","John A. Hendry,"LLC"","2021","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO of Rader Solutions Ltd","Rader Solutions Ltd","2021","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Member","White Lake Cattle Co LLC","2021","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","RAK Holdings","2021","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","Quantum Real Estate,"LLC"","2021","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","838 Coolidge LLC","2021","Rader Solutions Ltd,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Ann Forte Trappey","VP Outreach of Forte & Tablada","Forte & Tablada","2021","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Donald W. Washington","Partner","Jones Walker LLP","2021","Attorney,"Jones Walker LLP"","n/a"
+"Home Bancorp,"Inc."","Senior Executive Vice President,"Chief Credit Officer"","Darren E. Guidry","n/a","n/a","2021","n/a","n/a"
+"Home Bancorp,"Inc."","Senior Executive Vice President,"Chief Operations Officer"","David T. Kirkley","n/a","n/a","2021","n/a","n/a"
+"Home Bancorp,"Inc."","Senior Executive Vice President,"Chief Financial Officer"","Jason P. Freyou","n/a","n/a","2021","n/a","n/a"
+```

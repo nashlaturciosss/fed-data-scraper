@@ -1,0 +1,25 @@
+"Here are the tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Jackson,"MS"","2018","Estate of Gwendolyn B. Cragon","Common Stock","41876","10.42%","n/a"
+"COPIAH BANCSHARES,"INC."","Madison,"MS"","2018","Blythe B. & Gwendolyn B. Cragon","Common Stock","48528","12.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2018","n/a","398837"
+"COPIAH BANCSHARES,"INC."","Director","George R. Marx","n/a","n/a","2018","n/a","398837"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2018","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Partner","Alco Farms","2018","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2018","Banker","398837"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Partner","Cornea Clinic","2018","Attorney","398837"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Partner","Urgent Care,"LLC"","2018","Attorney","398837"
+"COPIAH BANCSHARES,"INC."","Director","Carolyn C. Loftin","n/a","n/a","2018","Businesswoman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","Mississippi Machinery","2018","Engineer","398837"
+"COPIAH BANCSHARES,"INC."","Director","Victor L. Smith","n/a","n/a","2018","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Donald R. Thompson","n/a","n/a","2018","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2018","Businessman","398837"
+"COPIAH BANCSHARES,"INC."","Director","Jane Roper","n/a","n/a","2018","n/a","398837"
+"COPIAH BANCSHARES,"INC."","n/a","Estate of Gwendolyn B. Cragon","n/a","n/a","2018","n/a","398837"
+```

@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2021","Zachary M. Johnson Jr. Irrevocable Trust","Common Stock","96","58.54%","n/a"
+"First Bank Shares of the South East,"Inc."","Atlanta,"GA"","2021","Jonathon Martin Taylor","Common Stock","20","12.20%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2021","Zachary M. Johnson Jr.","Common Stock","13","6.81%","n/a"
+"First Bank Shares of the South East,"Inc."","Roswell,"GA"","2021","Pitts-Buckalew Investments LLC","Common Stock","11","5.76%","n/a"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2021","H.H.L. Investments c/o Norma & L.W. Taylor","Common Stock","13","6.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Annual Report - FR Y-6","President & Director","Zach Johnson","Director","Dixieland Farms,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director","Lawton Johnson","Director","L-Z Investments L.L.L.P.","2021","Business Consultant","n/a"
+"Annual Report - FR Y-6","Director","Jonathon Martin Taylor","Director","H.H.L. Investments","2021","Business Consultant","n/a"
+"Annual Report - FR Y-6","Exp. Vice Pres.","Jon Lott","Director / Exec. Vice Pres.","Southland Investments,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Exp. Vice Pres.","Jon Lott","Director / Exec. Vice Pres.","Old School Alma,"LLC"","2021","n/a","n/a"
+"Annual Report - FR Y-6","Exp. Vice Pres.","Jon Lott","Director / Exec. Vice Pres.","We Care Family Practice,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Exp. Vice Pres.","Jon Lott","Director / Exec. Vice Pres.","Liberty Street Properties,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Exp. Vice Pres.","Jon Lott","Director / Exec. Vice Pres.","FDMI,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director/Treasurer & Secretary","Jack Johnson","Vice-President","Zachary M. Johnson Irrevocable Trust","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director","Ruby G. Gilliam","Senior Vice President","Southland Investments,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director","Ruby G. Gilliam","Senior Vice President","Old School Alma,"LLC"","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director","Ruby G. Gilliam","Senior Vice President","Southeast Propane,"Inc."","2021","n/a","n/a"
+"Annual Report - FR Y-6","Director","Morris Johnson","Vice President","Zachary M. Johnson Irrevocable Trust","2021","n/a","n/a"
+```

@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Philadelphia,"PA"","2014","Patriot Financial Partners LP","common","1082000","17.03%","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Philadelphia,"PA"","2014","Patriot Financial Partners LP","warrants","216400","17.03%","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Tampa,"FL"","2014","The Burton Partnership (LP & QP-LP)","common","776750","10.69%","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Tampa,"FL"","2014","The Burton Partnership (LP & QP-LP)","warrants","17000","10.69%","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","New York,"NY"","2014","Wellington Partners","common","718000","11.41%","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","New York,"NY"","2014","Wellington Partners","warrants","143600","11.41%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Chairman & CEO","Christopher C. Lykes","n/a","n/a","2014","Investor","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Chairman","Christopher C. Lykes","n/a","n/a","2014","Investor","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","John C. Bierley","Partner","Clark,"Mueller & Bierley PLLC"","2014","Attorney","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","John C. Bierley","Director","International Business Group","2014","Attorney","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","John C. Bierley","Director","Cayman National Bank,"LTD"","2014","Attorney","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director President","Gregory W. Bryant","n/a","n/a","2014","Bank President & CEO","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Lawrence H. Dimmitt","President","Dimmitt Chevrolet","2014","Owner of auto dealership","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","A. Bronson Thayer","Director","Lykes Bros. Insurance","2014","Investments manager","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Eric M. Newman","Director","J.C. Newman Cigar Company","2014","Cigar manufacturing","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","A. Joseph Borrell III","Graduate Program Coordinator,"Communications/Journalism Dept"","Shippensburg University","2014","Professor","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Chris A. Peifer","President & CEO","APF Foundation Inc.","2014","Private Investor","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Donald Burton","Managing General Partner","The Burton Partnership (LP & QP-LP)","2014","Managing General Partner","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","James Lynch","Managing Partner","Patriot Financial Partners LP","2014","Managing Partner","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Eiji Sadato","CEO","Kenseisha,"Inc."","2014","CEO of Real Estate & Facility Mgt Company","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Eiji Sadato","Director","Daiichi Security,"Inc."","2014","CEO of Real Estate & Facility Mgt Company","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Director","Eiji Sadato","Vice Chairman","Toyota Junior Golf Word Cup","2014","CEO of Real Estate & Facility Mgt Company","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","Chief Financial Officer","C. Peter Bardin","n/a","n/a","2014","Executive VP & CFO Bay Cities Bank","n/a"
+"FLORIDA BUSINESS BANCGROUP,"INC."","n/a","Wellington Partners","n/a","n/a","2014","Principal Shareholder","n/a"
+```

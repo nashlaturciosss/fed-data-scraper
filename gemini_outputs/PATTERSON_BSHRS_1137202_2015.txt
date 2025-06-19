@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2015","Thomas,"R.D. Jr."","Common Stock","66008","47.31%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2015","Barnard,"J.P. Jr."","Common Stock","11938","8.56%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2015","Willingham,"Mary T."","Common Stock","14076","10.09%","1137202"
+"Patterson Bankshares,"Inc."","Waycross,"GA"","2015","Strickland,"Devin B"","Common Stock","11987","8.59%","1137202"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Southern Bank","Director,"Holding Company"","Barnard,"J.P. Jr."","Director,"Bank"","n/a","2015","Construction & Real Estate","1137202"
+"First Southern Bank","n/a","Barnard,"J.P. Jr."","n/a","The Barnard Co.","2015","Construction & Real Estate","1137202"
+"First Southern Bank","n/a","Barnard,"J.P. Jr."","n/a","Barnard Construction Co.","2015","Construction & Real Estate","1137202"
+"First Southern Bank","n/a","Barnard,"J.P. Jr."","President","Julie Hat Co. Inc.","2015","Construction & Real Estate","1137202"
+"First Southern Bank","Director,"Holding Company"","William Hughes","President/CEO & Director,"Bank"","n/a","2015","N/A","1137202"
+"First Southern Bank","CLO/SVP,"Bank"","Stipe,"Steve"","n/a","n/a","2015","N/A","1137202"
+"First Southern Bank","n/a","Stipe,"Steve"","Managing Member","Stipe Farms,"LLC"","2015","N/A","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Lazybrook Enterprises","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Henway,"Inc."","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Strickland Timber & Land Development Company,"Inc."","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Georgia Block & Brick","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","GA/FL Contracting Co. Inc.","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Belikin Properties,"Inc."","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Strickland Equipment","2015","Construction","1137202"
+"First Southern Bank","n/a","Strickland,"Devin"","n/a","Georgia Redi-Mix","2015","Construction","1137202"
+"First Southern Bank","n/a","Thomas,"R.D. Jr."","n/a","R.D. Thomas Farms","2015","N/A","1137202"
+"First Southern Bank","n/a","Ronald Thomas","n/a","Thomas & Settle","2015","Attorney","1137202"
+"First Southern Bank","n/a","Ronald Thomas","n/a","Tri-T Inc.","2015","Attorney","1137202"
+"First Southern Bank","n/a","Willingham,"Mary T."","n/a","n/a","2015","Retired banker (deceased)","1137202"
+```

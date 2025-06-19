@@ -1,0 +1,33 @@
+Here are the two tables extracted from the document as requested.
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Atlanta,"Georgia"","2023","Charles P. Stephens,"et al"","Common Stock","2205925","8.63%","n/a"
+"Piedmont Bancorp,"Inc."","Atlanta,"Georgia"","2023","J. Paul Maggard,"et al"","Common Stock","1965859","7.60%","n/a"
+"Piedmont Bancorp,"Inc."","Milton,"Georgia"","2023","Monty G. Watson,"et al"","Common Stock","1329691","5.14%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Piedmont Bancorp,"Inc."","Director,"Chairman & CEO Efficiency Lodge","Inc."","W. Ray Barnes","Director","Efficiency Lodge,"Inc."","2023","Hotel Owner","3812035"
+"Piedmont Bancorp,"Inc."","Director,"Chairman & CEO Efficiency Lodge","Inc."","W. Ray Barnes","Director","WC Barnes Store Inc.","2023","Hotel Owner","3812035"
+"Piedmont Bancorp,"Inc."","Director,"Owner P&B Petroleum"","C. Lamar Black","Director","PB Carrier LLC","2023","Oil Distributor","3812035"
+"Piedmont Bancorp,"Inc."","Director,"Owner Cleveland Drugs"","E. Ray Black,"Sr."","Director","Cleveland Drugs","2023","Pharmacist","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","Cheeley Investments","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","RDC Holdings","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","Nottinghill of Alpha.","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","Mountaintop Inv Part","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","Liberty Pk Village LLC","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","Old Milton Hldgs LLC","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"President Cheeley Investments","Attorney Cheeley Law Group","LLC"","Robert D. Cheeley","Director","ViveBio LLC","2023","Attorney","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","Paul D. Donaldson","Director","n/a","2023","Real Estate Developer - retired","3812035"
+"Piedmont Bancorp,"Inc."","Director,"Vice Chair - President / Co-owner Howard Brothers"","John J. Howard","Vice Chair - Director","Howard Brothers","2023","Retail hardware Owner","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","J. Paul Maggard","Director","Maggard Ventures LLC","2023","Real Estate - Investor","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","J. Paul Maggard","Director","Maggard Investments LLC","2023","Real Estate - Investor","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","J. Paul Maggard","Director","Maggard Enterprises LLC","2023","Real Estate - Investor","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","T. Michael Tennant","Director","Hampton Park,"Inc."","2023","Attorney - retired","3812035"
+"Piedmont Bancorp,"Inc."","Director,"NA"","Kelly J. Johnson","Director","n/a","2023","Banker - retired","3812035"
+"Piedmont Bancorp,"Inc."","Chairman & CEO Director,"NA"","Monty G. Watson","Chairman & CEO Director","n/a","2023","NA","3812035"
+"Piedmont Bancorp,"Inc."","SVP/CCO,"NA"","Christopher S. Elsevier","SVP/CCO","n/a","2023","NA","3812035"
+"Piedmont Bancorp,"Inc."","SVP/CFO/Secretary,"NA"","Philip F. Resch","SVP/CFP/Secretary","n/a","2023","NA","3812035"
+```

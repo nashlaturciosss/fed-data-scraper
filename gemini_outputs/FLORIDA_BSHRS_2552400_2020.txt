@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2020","A. P. Gibbs and Sandra G. Gibbs","Common Stock","125550","13.18%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2020","J Lamar Roberts","Common Stock","54310","5.70%","n/a"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2020","Marlene Sumner","Common Stock","56434","5.92%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2020","Ernest and Jimmie Peeples","Common Stock","74885","7.86%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Bank of Pasco","Director","Chris Black","President","Black Insurance","2020","Insurance"
+"First National Bank of Pasco","Director & Chairman","A.P. Gibbs","n/a","n/a","2020","Retired-Attorney"
+"First National Bank of Pasco","Director","John E. Henson","Owner","John E. Henson,"CPA"","2020","Retired-Certified Public Accountant"
+"First National Bank of Pasco","Director","Marlene H. Mann","n/a","n/a","2020","Retired"
+"First National Bank of Pasco","Director & Vice Chair","Paul P. Midilli","President","Jovita Insurance,"Inc"","2020","Realtor"
+"First National Bank of Pasco","Director & Vice Chair","Paul P. Midilli","President","Paul Midilli Realty,"Inc"","2020","Realtor"
+"First National Bank of Pasco","Director & Vice Chair","Paul P. Midilli","President","Four M Properties,"Inc"","2020","Realtor"
+"First National Bank of Pasco","Director & Vice Chair","Paul P. Midilli","President","Economy Insurance Mart,"Inc"","2020","Realtor"
+"First National Bank of Pasco","Director & Vice Chair","Paul P. Midilli","President","Midilli Enterprises Inc","2020","Realtor"
+"First National Bank of Pasco","Director","Ernest L. Peeples","Owner","Peeple Groves","2020","Citrus Grower"
+"First National Bank of Pasco","Director","Stephen D Carle","Owner","Hodges & Carle P.A.","2020","Attorney"
+"First National Bank of Pasco","Director","Glen Greenfelder","n/a","n/a","2020","Retired Attorney"
+"First National Bank of Pasco","President CEO","Steve Hickman","n/a","n/a","2020","Banker"
+"First National Bank of Pasco","SVP-CFO","Kerry M Westbrook","n/a","n/a","2020","Banker"
+"First National Bank of Pasco","HR Officer","Jody Grenville","n/a","n/a","2020","Banker"
+```

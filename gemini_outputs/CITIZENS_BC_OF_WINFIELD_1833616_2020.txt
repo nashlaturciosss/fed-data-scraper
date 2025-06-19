@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2020","Russell Carothers","Class A Common Stock","1166","46%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2020","Robert L. Carothers","Class A Common Stock","1030","40%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2020","William A. Hill,"Jr."","Class A Common Stock","132","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director & Chairman","Russell Carothers","n/a","n/a","2020","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Vice President","Robert L. Carothers","n/a","n/a","2020","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman","President & CEO"","Christian Hill Carothers","n/a","n/a","2020","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","retired Comptroller-Continental Conveyor & Equipment Co","Continental Conveyor & Equipment Co","2020","retired manufact. comptroller","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Retired CFO-Baymont Inc.","Baymont Inc.","2020","Retired manufact. CFO","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","n/a","Spann's Hardware & Equip,"Inc."","2020","Retail Business","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","Cardiologist-Cardiology Consultants","Cardiology Consultants","2020","Physician","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director & Corporate Sec","Tamra P Trull","n/a","n/a","2020","banker","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","Sales","Cavalier Home Bldrs","2020","Sales Manufact.","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Director","Robert L. Carothers,"Jr"","Partner","Jones Walker LLP","2020","Attorney","n/a"
+```

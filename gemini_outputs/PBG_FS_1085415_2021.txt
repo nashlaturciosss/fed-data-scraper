@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2021","Scott Howell","common stock","1351","6.76%","n/a"
+"PBG Financial Services,"Inc."","Jacksonville,"Fl."","2021","Suzanne M. Sheffield & Joseph A. Sheffield","common stock","2324","11.62%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"USA"","2021","C. Finley McRae,"as Trustee of CFM Revocable Trust dated 11-05-2001"","common stock","1088","5.44%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL USA"","2021","Donald R. & Anne Graham","common stock","1100","5.51%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL USA"","2021","Robert F. McRae,"Jr. & Family (Children's Grantor Trust)"","common stock","2761","13.81%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL USA"","2021","C. Finley McRae Family (Children's Revocable Trust)","common stock","4096","20.48%","n/a"
+"PBG Financial Services,"Inc."","Dunedin,"Fl. USA"","2021","*David M. Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Immokalee,"FL.USA"","2021","*John Clifford Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Maitland,"Fl. USA"","2021","*Kenneth Boyd Pelham","common stock","337","1.69%","n/a"
+"PBG Financial Services,"Inc."","Orlando,"Fl. USA"","2021","*Robert Frank Pelham","common stock","338","1.69%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBG Financial Services,"Inc."","Chrm. Pres. Director","Donald R. Graham","Director","Peoples Bank of Graceville","2021","Retired","n/a"
+"PBG Financial Services,"Inc."","Director","Michael T Smith","Director","Peoples Bank of Graceville","2021","Comptroller Rex Lumber & Related Companies","n/a"
+"PBG Financial Services,"Inc."","Director","Ronald Barber","Director","Peoples Bank of Graceville","2021","Mgr. Campbellton Farm Service","n/a"
+"PBG Financial Services,"Inc."","Director","Ronald Barber","Partner","Donald/Ronald Farms","2021","Mgr. Campbellton Farm Service","n/a"
+"PBG Financial Services,"Inc."","Director","Ronald Barber","VP","Barber Fertilizer Co.,"Inc."","2021","Mgr. Campbellton Farm Service","n/a"
+"PBG Financial Services,"Inc."","Director","Caroline Dauzat","Director","Peoples Bank of Graceville","2021","CFO Rex Lumber","n/a"
+"PBG Financial Services,"Inc."","Director","Caroline Dauzat","Owner","Apalachee Pole Co","2021","CFO Rex Lumber","n/a"
+"PBG Financial Services,"Inc."","President","David M. Watford","Pres.,"CEO","V. Chrm Director"","Peoples Bank of Graceville","2021","n/a","n/a"
+"PBG Financial Services,"Inc."","Auditor","John B. Turner","Sec/Director","Peoples Bank of Graceville","2021","n/a","n/a"
+"PBG Financial Services,"Inc."","EVP/Cashier","Carol C. Smith","EVP & Cashier","Peoples Bank of Graceville","2021","Treasurer","n/a"
+"PBG Financial Services,"Inc."","n/a","C Finley McRae","n/a","n/a","2021","N/A","n/a"
+"PBG Financial Services,"Inc."","n/a","Robert F McRae,"Jr"","n/a","n/a","2021","N/A","n/a"
+"PBG Financial Services,"Inc."","n/a","Suzanne M. Sheffield","n/a","SHEFCO,"LLC"","2021","Retired","n/a"
+"PBG Financial Services,"Inc."","n/a","Suzanne M. Sheffield","n/a","Jackson Duval,"LLC"","2021","Retired","n/a"
+"PBG Financial Services,"Inc."","n/a","Suzanne M. Sheffield","n/a","McShef Ventures,"LLC"","2021","Retired","n/a"
+"PBG Financial Services,"Inc."","n/a","Suzanne M. Sheffield","n/a","Sheffield McRae Inv.,"LTD"","2021","Retired","n/a"
+```

@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares Inc","Lafayette,"LA"","2018","CAP Voiting Trust","n/a","16782","26.39%","n/a"
+"Gulf Coast Bancshares Inc","Abbeville,"LA"","2018","LeBlanc Family irrevocable Trust","n/a","3600","5.66%","n/a"
+"Gulf Coast Bancshares Inc","Abbeville,"LA"","2018","Charles E. Dill Jr.","n/a","3517","5.53%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares Inc","Director","Lorraine LeBlanc","Director Gulf Coast Bank & President GCB Financila Services Inc","n/a","2018","n/a","n/a"
+"Gulf Coast Bancshares Inc","President,"CEO & Director"","Paul Patout","Director Gulf Coast Bank","n/a","2018","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director & Chairman","Patrick Patout","Director Gulf Coast Bank","n/a","2018","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director & Chief Finance Officer","Jason Patout","Director Gulf Coast Bank","n/a","2018","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Director Coast Bank","Ottinger Hebert,"LLC"","2018","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Director Coast Bank","Magellan Construction LLC","2018","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Director Coast Bank","Magellan Development LLC","2018","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Director Coast Bank","Pinhook Associates LLC","2018","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Director Coast Bank","Jimmy Johns LLC Lafayette","2018","Attorney","n/a"
+"Gulf Coast Bancshares Inc","n/a","EugeneM. Sellers,"Jr."","Director Coast Bank","The Sellers Group","2018","Architect","n/a"
+"Gulf Coast Bancshares Inc","n/a","Christopher Dardeau","Sr. Vice President & Director Coast Bank","n/a","2018","n/a","n/a"
+```

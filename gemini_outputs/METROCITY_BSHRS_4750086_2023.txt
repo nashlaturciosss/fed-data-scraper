@@ -1,0 +1,10 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MetroCity Bankshares,"Inc."","New York,"NY"","2023","BlackRock,"Inc."","Common stock","1361666","5.40%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2023","Nack Y. Paek","Common stock","1273185","5.05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

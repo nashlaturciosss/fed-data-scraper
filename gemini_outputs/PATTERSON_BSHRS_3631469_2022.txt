@@ -1,0 +1,22 @@
+"Here are the two tables from the document in CSV format","following all specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2022","Robert D. Watson","Common Stock","72262","35.54%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2022","William R. Marin,"Jr."","Common Stock","37875","18.63%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2022","Peter J. Lipari","Common Stock","21800","10.72%","n/a"
+"Patterson Bancshares,"Inc."","Factoryville,"PA"","2022","Susan Jennings","Common Stock","16398","8.06%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bancshares,"Inc."","Director & Chairman Emeritus","Robert D. Watson","Director & Chairman Emeritus","n/a","2022","n/a","n/a"
+"Patterson Bancshares,"Inc."","Director & Chairman,"Executive V.P."","William R. Marin,"Jr."","Director & Chairman,"Executive V.P."","n/a","2022","n/a","n/a"
+"Patterson Bancshares,"Inc."","Director & President Emertius","Peter J. Lipari","Director & President Emeritus","Waveland Plantation","2022","n/a","n/a"
+"Patterson Bancshares,"Inc."","Director & C.E.O.","Robert M. Marin","Director & C.E.O.","n/a","2022","n/a","n/a"
+"Patterson Bancshares,"Inc."","Director & President","Jason H. Watson","Director & President","n/a","2022","n/a","n/a"
+"Patterson Bancshares,"Inc."","Director","Robert S. Carter","Director","Kolder,"Champagne","Slaven and Company"","2022","Public Accounting (Partner)","n/a"
+"Patterson Bancshares,"Inc."","Director","Russel J. Cremaldi","Director","Biggs,"Supple","Cremaldi & Curet","LLP"","2022","Attorney at Law (Partner)","n/a"
+"Patterson Bancshares,"Inc."","Director","Edward B. Jones","Director","Edward Jones,"Attorney At Law"","2022","Attorney at Law (Owner)","n/a"
+"Patterson Bancshares,"Inc."","Director","Jeffrey Rau","Director","Rau Plastic Surgery,"LLC"","2022","Medical Doctor (Owner)","n/a"
+```

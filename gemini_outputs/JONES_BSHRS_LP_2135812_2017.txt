@@ -1,0 +1,28 @@
+Here are the requested extractions in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2017","James C. Jones,"III"","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2017","Patrick C. Jones","n/a","n/a","31.475%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2017","The Jones Company","n/a","n/a","24.90%","2135812"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2017","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","6.05%","2135812"
+"Jones Bancshares,"LP"","Waycross,"GA"","2017","JCJ Investments,"Irrevocable Trust"","n/a","n/a","6.10%","2135812"
+"PrimeSouth Bancshares,"INC."","Waycross,"GA"","2017","Jones Bancshares,"L.P."","Common Stock","2856","75.26%","2135812"
+"PrimeSouth Bancshares,"INC."","Waycross,"GA"","2017","J.C. Jones,"Jr."","Common Stock","205","5.40%","2135812"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jones Bancshares,"L.P."","Limited Partner","The Jones Company","n/a","n/a","2017","n/a","2135812"
+"Jones Bancshares,"L.P."","Limited Partner","J.C. Jones,"Jr."","Administrator","Jones Company","2017","n/a","2135812"
+"Jones Bancshares,"L.P."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2017","n/a","2135812"
+"Jones Bancshares,"L.P."","Director","Patrick Jones","Vice President","Jones Company","2017","n/a","2135812"
+"Jones Bancshares,"L.P."","Director","James A. Walker,"Jr."","President","Jones Company","2017","n/a","2135812"
+"Jones Bancshares,"L.P."","CEO","W. Nick Taylor","n/a","n/a","2017","n/a","2135812"
+"PrimeSouth Bancshares,"INC."","n/a","Jones Bancshares,"L.P."","n/a","n/a","2017","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","J.C. Jones,"Jr."","Administrator","Jones Company","2017","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2017","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Patrick Jones","Vice President","Jones Company","2017","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","James A. Walker,"Jr."","President","Jones Company","2017","Jones Company","n/a"
+"PrimeSouth Bancshares,"INC."","CEO","W. Nick Taylor","n/a","n/a","2017","n/a","n/a"
+```

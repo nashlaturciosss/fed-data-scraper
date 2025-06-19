@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2019","George W. Baker,"Jr."","Common Stock","636296","16.17%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2019","E. David Hart,"Jr."","Common Stock","396238","10.07%","n/a"
+"Community Bankshares,"Inc."","LaGrange GA","2019","C. Christopher Joseph","Common Stock","655796","16.67%","n/a"
+"Community Bankshares,"Inc."","Hogansville,"GA"","2019","William C. Stankiewicz","Common Stock","636296","16.17%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2019","William R. Stump,"Jr."","Common Stock","648266","16.47%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2019","Nancy H. Stovall","Common Stock","320695","8.15%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA."","2019","Wingate Family","Common Stock","501000","12.73%","n/a"
+"Community Bankshares,"Inc."","Union Springs,"AL"","2019","Thomas May","n/a","1000","n/a","n/a"
+"Community Bankshares,"Inc."","Gainesville,"GA"","2019","Thomas W. Sheffield","n/a","1000","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","Director","George W. Baker,"Jr."","n/a","n/a","2019","Dentist","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder","E. David Hart,"Jr."","President","Mountville Mills,"Inc."","2019","President/Mountville Mills,"Inc. (Mfg)"","n/a"
+"Community Bankshares,"Inc."","Director","C. Christopher Joseph","n/a","Gay & Joseph,"PC"","2019","CPA","n/a"
+"Community Bankshares,"Inc."","Director","William C. Stankiewicz","Mayor","City of Hogansville","2019","Mayor,"City of Hogansville","GA"","n/a"
+"Community Bankshares,"Inc."","President & CEO,"Director (Chairman)"","William R. Stump,"Jr."","n/a","n/a","2019","n/a","n/a"
+"Community Bankshares,"Inc."","Principal Securities Holder","Linda H. Wingate","n/a","n/a","2019","Retired","n/a"
+"Community Bankshares,"Inc."","EVP/AL Division","Dave G. Bryant","n/a","n/a","2019","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & Chief Credit Officer","George H. Riddle,"III"","n/a","n/a","2019","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & CFO","Emily A. Lowery","n/a","n/a","2019","n/a","n/a"
+"Community Bankshares,"Inc."","SVP,"Corp Sec. & Dir. HR"","Kay L. Carlisle","n/a","n/a","2019","n/a","n/a"
+```

@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","James F. Eberhart,"Jr *"","Common Stock","27462","7.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Stephen K. Everhart *","Common Stock","5000","1.28%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Norman Eberhart *","Common Stock","2000","0.51%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2014","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2014","The Estate of Glen Kilgore **","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2014","Eloise Smith **","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Charles Stephens ***","Common Stock","24130","6.18%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Linda Stephens ***","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Johnny Young ****","Common Stock","62700","16.05%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Chris Pierson ****","Common Stock","500","0.13%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2014","Chris Young ****","Common Stock","5120","1.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","n/a","n/a","2014","n/a","n/a"
+"FBDC Financial Corp.","President & CEO First Federal Bank","Stephen Kellett Eberhart","n/a","n/a","2014","n/a","n/a"
+"FBDC Financial Corp.","Director & Chairman","James Fred Eberhart,"Jr."","n/a","n/a","2014","n/a","n/a"
+"FBDC Financial Corp.","Director & Chairman First Federal Bank","James Fred Eberhart,"Jr."","n/a","n/a","2014","n/a","n/a"
+"FBDC Financial Corp.","Director","Johnny David Young","President","Young Steel Stamping,"Inc."","2014","Fabricator","n/a"
+"FBDC Financial Corp.","Director","Charles Ray Stephens","President/CEO","Dixie Machine Shop,"Inc."","2014","Machinist","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","Pioneer Credit Company","2014","Retired,"Motel Owner/Operator"","n/a"
+"FBDC Financial Corp.","n/a","Eloise J. Smith","Public Relations","First State Bank","2014","Public Relations","n/a"
+"FBDC Financial Corp.","n/a","Shari Jones,"Administratrix"","Chairman/President","First State Bancshares of DeKalb County,"Inc."","2014","Merchant","n/a"
+"FBDC Financial Corp.","n/a","Shari Jones,"Administratrix"","n/a","Rainsville Church Pew,"Inc."","2014","Merchant","n/a"
+```

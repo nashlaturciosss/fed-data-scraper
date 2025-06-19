@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Beatrice,"AL"","2016","Thomas A. Black,"III"","n/a","2699","21","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Menomonee Falls,"WI"","2016","James & Doris Durdan Trust","n/a","1299","9.99","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Beatrice,"AL"","2016","Claudia B. Smith","n/a","2679","21","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Beatrice,"AL"","2016","Kenneth M. Smith","n/a","52",".4","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC."","Monroeville,"AL"","2016","Rebecca B. Snyder","n/a","2699","21","1138870"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Thomas A Black,"III"","Director","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Exec V Pres","Marshall Black","Exec V Pres","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Secretary","Rachael Boutwell","Exec V Pres","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Anna Laura Brown","Director","n/a","2016","Retired Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","CEO,"Director"","Harvey J Gaston,"Jr."","CEO,"Director"","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","President","Kevin Norris","President","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","None","Bill Rogers","Exec V Pres","n/a","2016","Banker","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","Director","Bill Scruggs","Director","n/a","2016","Retired Insurance","1138870"
+"PEOPLES EXCHANGE BANCSHARES,"INC"","None","Claudia B Smith","None","n/a","2016","Retired","1138870"
+```

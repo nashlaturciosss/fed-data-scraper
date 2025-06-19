@@ -1,18 +1,26 @@
-"Here are the two tables in CSV format","based on the provided document:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2015","Robert E. James","Common Stock","285231.7650","48%"
-"CARVER FINANCIAL CORPORATION","Cleveland","2015","Karlene E. Farabee","Common Stock","57665.0250","9.70%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2015","Robert E. James","Common Stock","285231.7650","48%","3190023"
+"CARVER FINANCIAL CORPORATION","Cleveland,"TN"","2015","Karlene E. Farabee","Common Stock","57665.0250","9.70%","3190023"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","See Attachment A","2015"
-"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","N/A","2015"
-"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","None","2015"
-"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Century Investors,"Ltd."","2015"
-"CARVER FINANCIAL CORPORATION","n/a","David L. Douse","Director","Springfield Properties,"LLC - 100%"","2015"
-"CARVER FINANCIAL CORPORATION","n/a","Edward G. Miller","Director","None","2015"
-"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","See Attachment B","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Century Investors,"Ltd."","2015","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Anderson Street Associates,"Limited"","2015","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","United Properties,"Inc."","2015","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Atlantic Communications of Georgia,"Inc."","2015","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Campus Properties,"LLC"","2015","Bank President","3190023"
+"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2015","n/a","3190023"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","n/a","n/a","2015","Funeral Home Director & Owner","3190023"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Century Investors,"Ltd."","2015","Executive Director of a Non-profit Agency","3190023"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Anderson Street Associates,"Ltd."","2015","Executive Director of a Non-profit Agency","3190023"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Sole Member","Springfield Properties,"LLC"","2015","Bank Officer","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","n/a","n/a","2015","Retired Educator & Healthcare Administrator","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Coastal Legacy Group,"LLC"","2015","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","CLG MLK Savannah,"LLC"","2015","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Golden Holley James,"LLP"","2015","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Bank Properties,"Ltd."","2015","Consultant & Attorney","3190023"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","GHJ Solutions,"LLC"","2015","Consultant & Attorney","3190023"
 ```

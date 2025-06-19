@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Bancshares,"Inc."","Grand Rapids,"MI"","2016","Thornapple River Capital","Common Stock","1300000","9.8%","n/a"
+"Commerce Bancshares,"Inc."","Aspen,"CO"","2016","Drakes Landing Associates,"L.P."","Common Stock","1200000","9.1%","n/a"
+"Commerce Bancshares,"Inc."","San Francisco,"CA"","2016","Fullerton Capital Partners,"L.P."","Common Stock","1200000","9.1%","n/a"
+"Commerce Bancshares,"Inc."","New Youk,"NY"","2016","PRB Investors,"LP"","Common Stock","1200000","9.1%","n/a"
+"Commerce Bancshares,"Inc."","Las Vegas,"NV"","2016","The Mark P. Frissora Revocable Trust","Common Stock","1000000","7.6%","n/a"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2016","FDIC as Receiver for Tennessee Commerce Bank","Common Stock","56833","27.1%","n/a"
+"Commerce Bancshares,"Inc."","Clarksville,"TN"","2016","Legends Bank","Common Stock","15114","7.2%","n/a"
+"Commerce Bancshares,"Inc."","Columbia,"TN"","2016","Community First Bank & Trust","Common Stock","29671","14.1%","n/a"
+"Commerce Bancshares,"Inc."","Carthage,"TN"","2016","Citizens Bank","Common Stock","12882","6.1%","n/a"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2016","David S. Myers","Common Stock","22173","10.6%","n/a"
+"Commerce Bancshares,"Inc."","Muscle Shoals,"AL"","2016","James D. Ashmore","Common Stock","21113","10.1%","n/a"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2016","Marion E. Lowery","Common Stock","29086","13.8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Bancshares,"Inc."","Chairman / CEO Director","Gregary L. Lee","President / Owner","Logan Lee LLC","2016","Banker","n/a"
+"Commerce Bancshares,"Inc."","CEO & Director","Brenda F. Barnes","n/a","n/a","2016","Banker","n/a"
+"Commerce Bancshares,"Inc."","President & Director","L. Hunter Battle","n/a","n/a","2016","Banker","n/a"
+"Commerce Bancshares,"Inc."","SVP & Director","Richard S. Moody","n/a","n/a","2016","Banker","n/a"
+"Commerce Bancshares,"Inc."","Director","James R. Williams","n/a","n/a","2016","Banker","n/a"
+"Commerce Bancshares,"Inc."","Director","Dr. Charles Edmonds,"Ed.D.","J.D."","Director","Jefferson County Director of Schools","2016","Educator","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael S. Hedrei","Managing Director","Hovde Capital Advisors","2016","Investment Banking","n/a"
+"Commerce Bancshares,"Inc."","Director","Thomas M. Davee","Retired","n/a","2016","Insurance","n/a"
+"Commerce Bancshares,"Inc."","Director","Philip K. Snodgrass","Security Analyst","Blackthorn Group","2016","Investment Banking","n/a"
+```

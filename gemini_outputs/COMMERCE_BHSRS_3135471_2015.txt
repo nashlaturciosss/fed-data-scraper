@@ -1,0 +1,29 @@
+Here are the two CSV tables in the format you requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Bancshares,"Inc."","Baton Rouge,"LA"","2015","Ann S. Keogh","Common Stock","922","10.54%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2015","David Kessler","Common Stock","1243","14.21%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2015","Paul Buckley Kessler","Common Stock","853","9.75%","3135471"
+"Commerce Bancshares,"Inc."","Atlanta,"GA"","2015","Alison C. Sample","Common Stock","488","5.58%","3135471"
+"Commerce Bancshares,"Inc."","White Castle,"LA"","2015","Melvin Schudmak","Common Stock","1372","15.69%","3135471"
+"Commerce Bancshares,"Inc."","Gulf Breeze,"Florida"","2015","Lisa Tidwell","Common Stock","763","8.72%","3135471"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Bancshares,"Inc."","Director","Scott Kessler","Director","The Bank of Commerce","2015","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","James E. Abadie,"Jr."","Director","The Bank of Commerce","2015","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Director & President","David Kessler","Director & President/Chairman of the Board","The Bank of Commerce","2015","Bank of Commerce","n/a"
+"Commerce Bancshares,"Inc."","Director","Melvin Schudmak","Chairman","Cora Texas Manufacturing,"Inc."","2015","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Ann Keogh","Director","The Bank of Commerce","2015","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","President","Viallon Drug Co.,"Inc."","2015","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","President","Pharmaceuticals,"Inc."","2015","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Member","VVM,"LLC"","2015","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","P.L. Viallon,"IV"","Member","Stematix,"Inc."","2015","Pharmacist","n/a"
+"Commerce Bancshares,"Inc."","Director","Alton Landry,"Sr."","n/a","The Bank of Commerce","2015","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Paul Bradley Kessler","n/a","The Bank of Commerce","2015","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director & Secretary","Charles Schudmak","n/a","The Bank of Commerce","2015","Manufacturing","n/a"
+"Commerce Bancshares,"Inc."","Director","Harold Schexnayder","n/a","The Bank of Commerce","2015","n/a","n/a"
+"Commerce Bancshares,"Inc."","Director","Michael Medine,"Jr."","President","Action Oilfield Services,"Inc."","2015","Business Owner","n/a"
+```

@@ -1,0 +1,33 @@
+Here are the two CSV tables extracted from the document as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bancshares of Blakely,"Inc."","Lexington,"Kentucky"","2022","Lucy Y. Boutin","n/a","4038","7.98%","n/a"
+"First State Bancshares of Blakely,"Inc."","Key Largo,"Florida"","2022","Blair M. Bynum","n/a","5556","10.98%","n/a"
+"First State Bancshares of Blakely,"Inc."","Tampa,"Florida"","2022","Michael H. Bynum","n/a","11336","22.41%","n/a"
+"First State Bancshares of Blakely,"Inc."","Tampa,"Florida"","2022","Samuel G. Bynum","n/a","10271","20.30%","n/a"
+"First State Bancshares of Blakely,"Inc."","Louisville,"Kentucky"","2022","Lucy C. Boutin 6% Charitable","n/a","3359","6.64%","n/a"
+"First State Bancshares of Blakely,"Inc."","Louisville,"Kentucky"","2022","Lucy Y. Boutin","n/a","679","1.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Bancshares of Blakely,"Inc."","Director","Samuel G. Bynum","Director","TFS Holdings,"Inc."","2022","Investments","n/a"
+"First State Bancshares of Blakely,"Inc."","President/CEO Director","William D. Lanford,"Jr."","President/CEO Director","n/a","2022","First State Bank of Blakely","n/a"
+"First State Bancshares of Blakely,"Inc."","Vice President Secretary","Kimberly M. Warren","Secretary","n/a","2022","First State Bank of Blakely","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Michael H. Bynum","Chairman President","TFS Holdings,"Inc."","2022","Investments","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Howard K. Morgan","Vice President Director","n/a","2022","First State Bank of Blakely","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Philip H. Clinkscales","Director","n/a","2022","Retired","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","James F. Hattaway,"III"","Director","Hardrock Farms,"LLC"","2022","Cattle Sales","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Robert E. McLendon","Director","n/a","2022","Farmer","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Jack Nelson Hattaway","Director","S.N.L. Farms","2022","Farmer","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Jack Nelson Hattaway","Director","Nelson Hattaway,"LLC"","2022","Farmer","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Jack Nelson Hattaway","Director","Elizabeth M. Hattaway,"LLC"","2022","Farmer","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Alex Howell,"Jr."","Director","n/a","2022","Retired","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Martin T. Howard,"III"","Director","Early Tractor Company,"Inc."","2022","Manager","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Harold Still","Director","HASCO Leasing,"Inc."","2022","Contractor","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Ike Newberry","Director","n/a","2022","Retired","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Blair M. Bynum","Director","TFS Holdings,"Inc."","2022","Investments","n/a"
+"First State Bancshares of Blakely,"Inc."","Director","Jimmy Loyless","Director","GemRay & Associates","2022","Bank Consulting","n/a"
+"First State Bancshares of Blakely,"Inc."","Director Attorney","Thomas H. Baxley","Director","n/a","2022","Attorney","n/a"
+```

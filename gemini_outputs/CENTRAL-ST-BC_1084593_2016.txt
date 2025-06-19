@@ -1,22 +1,22 @@
-Here are the two tables extracted from the document in CSV format:
+Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central State Bancorporation","Calera","2016","Stephen D. Cowart","n/a","624","8.9%"
-"Central State Bancorporation","Calera","2016","David P. Downs","n/a","1519","21.9%"
-"Central State Bancorporation","Calera","2016","Dorothy Downs Schroeder","n/a","1104","15.6%"
-"Central State Bancorporation","Calera","2016","William M. Schroeder,"Sr."","n/a","714","10.1%"
-"Central State Bancorporation","Calera","2016","William M. Schroeder,"Jr."","n/a","489","6.9%"
-"Central State Bancorporation","Calera","2016","Shane D. Schroeder","n/a","364","5.1%"
-"Central State Bancorporation","Hoover","2016","Shanda S. Watts","n/a","489","6.9%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central State Bancorporation","Calera,"Alabama"","2016","Stephen D. Cowart","n/a","624","8.9%","1084593"
+"Central State Bancorporation","Calera,"Alabama"","2016","David P. Downs","n/a","1519","21.9%","1084593"
+"Central State Bancorporation","Calera,"Alabama"","2016","Dorothy Downs Schroeder","n/a","1104","15.6%","1084593"
+"Central State Bancorporation","Calera,"Alabama"","2016","William M. Schroeder,"Sr."","n/a","714","10.1%","1084593"
+"Central State Bancorporation","Calera,"Alabama"","2016","William M. Schroeder,"Jr."","n/a","489","6.9%","1084593"
+"Central State Bancorporation","Calera,"Alabama"","2016","Shane D. Schroeder","n/a","364","5.1%","1084593"
+"Central State Bancorporation","Hoover,"Alabama"","2016","Shanda S. Watts","n/a","489","6.9%","1084593"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central State Bancorporation","Director & Chairman","William M. Schroeder,"Sr."","Chairman","Central State Bank","2016"
-"Central State Bancorporation","Director & Vice Chairman","Dorothy D. Schroeder","Cashier & Vice President","Central State Bank","2016"
-"Central State Bancorporation","Director & Secretary","David P. Downs","Executive Vice President","Central State Bank","2016"
-"Central State Bancorporation","Director","Shane D. Schroeder","President","Central State Bank","2016"
-"Central State Bancorporation","Director","Shanda S. Watts","Sr. Vice President","Central State Bank","2016"
-"Central State Bancorporation","Director","William M. Schroeder,"Jr."","CEO","Central State Bank","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central State Bancorporation","Director & Chairman","William M. Schroeder,"Sr."","Chairman","Central State Bank","2016","n/a","1084593"
+"Central State Bancorporation","Director & Vice Chairman","Dorothy D. Schroeder","Cashier & Vice President","Central State Bank","2016","n/a","1084593"
+"Central State Bancorporation","Director & Secretary","David P. Downs","Executive Vice President","Central State Bank","2016","n/a","1084593"
+"Central State Bancorporation","Director","Shane D. Schroeder","President","Central State Bank","2016","n/a","1084593"
+"Central State Bancorporation","Director","Shanda S. Watts","Sr. Vice President","Central State Bank","2016","n/a","1084593"
+"Central State Bancorporation","Director","William M. Schroeder,"Jr."","CEO","Central State Bank","2016","n/a","1084593"
 ```

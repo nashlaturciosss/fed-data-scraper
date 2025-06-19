@@ -1,0 +1,15 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Citizens-Crenshaw Bancshares,"Inc."","n/a","2023","William H. Moore","common stock","16531","14.73%","n/a"
+"First Citizens-Crenshaw Bancshares,"Inc."","n/a","2023","Susan C. Moore","common stock","15951","14.22%","n/a"
+"First Citizens-Crenshaw Bancshares,"Inc."","n/a","2023","M. E. Jones","common stock","15597","13.90%","n/a"
+"First Citizens-Crenshaw Bancshares,"Inc."","n/a","2023","William H. Moore,"Jr."","common stock","15597","13.90%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Citizens-Crenshaw Bancshares,"Inc."","Secretary","Michael E. Jones","n/a","n/a","2023","n/a","n/a"
+"First Citizens-Crenshaw Bancshares,"Inc."","CFO","Amy M. Michael","n/a","n/a","2023","n/a","n/a"
+```

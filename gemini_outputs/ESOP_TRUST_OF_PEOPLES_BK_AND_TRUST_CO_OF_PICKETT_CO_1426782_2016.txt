@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Livingston,"TN"","2016","Charlotte Elder","n/a","3326","5.05%","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Jamestown,"TN"","2016","Progressive Financial Group,"Inc."","n/a","15362","23.35%","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2016","The Employee Stock Ownership Plan Trust of People's Bank and Trust Company of Pickett County (ESOT)","n/a","16158","24.56%","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2016","Tommy Fitzgerald","n/a","13826","21.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","CEO 1,"2","4","5 Trustee (ESOT)"","Bruce E. Elder","n/a","n/a","2016","Banker","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Pres/CFO/Cshr/Director/Sec Trustee (ESOT) 1,"2","3","4","5"","Michael D. Officer","n/a","n/a","2016","Banker","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 3,"4"","J Allen Smith","n/a","n/a","2016","Banker","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5"","Joseph Amonett","n/a","n/a","2016","Insurance","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5"","Stephen Bilbrey","n/a","n/a","2016","Grocery","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5 Trustee (ESOT)"","Gale Copeland","n/a","n/a","2016","Retired","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Chairman 2,"5"","John Keisling","Agent/Treasurer","Keisling Insurance Agency,"Inc."","2016","Insurance","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5"","Johnnie A. Keisling","n/a","n/a","2016","Retired","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5"","Bobby H. Mullins","President","Mullins Lumber Co.,"Inc."","2016","Retired","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 2,"5"","Paul Roberts","n/a","n/a","2016","CPA","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 4","Larry T. Conner","n/a","n/a","2016","Retired","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 4","David Reeves","President","Albany Redi-Mix","2016","Concrete plant","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 4","Terry White","President","BWI Pipe and Supply,"Inc."","2016","Pipe Supply","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 4","Terry White","President","White Properties,"Inc."","2016","Pipe Supply","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Director 4","Terry White","President","Crude LLC","2016","Pipe Supply","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Senior VP 1,"5"","Chris Smith","n/a","n/a","2016","Banker","n/a"
+```

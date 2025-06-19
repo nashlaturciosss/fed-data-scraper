@@ -1,0 +1,34 @@
+"Here are the requested CSV tables","following the extraction instructions."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Durden Bankshares,"Inc."","TWIN CITY,"GA"","2022","DURDEN BANKING CO EMPLOYEE STOCK OWNERSHIP PLAN","n/a","7807","19.71%","n/a"
+"Durden Bankshares,"Inc."","SWAINSBORO,"GA"","2022","DAL D DURDEN","n/a","2050","5.18%","n/a"
+"Durden Bankshares,"Inc."","JOHNS CREEK,"GA"","2022","JAY FRANKLIN ROWLAND","n/a","2450","6.19%","n/a"
+"Durden Bankshares,"Inc."","WAYNESBORO,"GA"","2022","MELANY JONES","n/a","2150","5.43%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Durden Bankshares,"Inc."","PRESIDENT/DIRECTOR","G. W. JOHNSON,"JR."","n/a","n/a","2022","BANKING","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","G. W. JOHNSON,"JR."","n/a","n/a","2022","BANKING","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","H. WADE JOHNSON","n/a","n/a","2022","BANKING","n/a"
+"Durden Bankshares,"Inc."","PRES&CEO/DIRECTOR","H. WADE JOHNSON","n/a","n/a","2022","BANKING","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","n/a","2022","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","n/a","2022","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LOY D. COWART,"JR."","n/a","n/a","2022","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LOY D. COWART,"JR."","n/a","n/a","2022","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DANNY C. OLLIFF","n/a","n/a","2022","LAWYER/ACCOUNTANT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DANNY C. OLLIFF","n/a","n/a","2022","LAWYER/ACCOUNTANT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DAL D. DURDEN","n/a","n/a","2022","REAL ESTATE INVESTOR","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DAL D. DURDEN","n/a","n/a","2022","REAL ESTATE INVESTOR","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","CLAY H. CLARK","n/a","n/a","2022","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","CLAY H. CLARK","n/a","n/a","2022","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JAMES R. MERCER","n/a","n/a","2022","TIMBER MANAGEMENT/ FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JAMES R. MERCER","n/a","n/a","2022","TIMBER MANAGEMENT/ FARMER","n/a"
+"Durden Bankshares,"Inc."","n/a","DURDEN BANKING CO. EMPLOYEE STOCK OWNERSHIP PLAN","n/a","n/a","2022","ESOP","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LACY B FRYE,"III"","n/a","n/a","2022","RETIRED SCHOOL SUPERINTENDENT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LACY B FRYE,"III"","n/a","n/a","2022","RETIRED SCHOOL SUPERINTENDENT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","n/a","2022","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","n/a","2022","PHARMACIST","n/a"
+```

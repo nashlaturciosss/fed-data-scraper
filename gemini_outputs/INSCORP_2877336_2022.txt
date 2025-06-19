@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"InsCorp,"Inc."","n/a","12/31/22","Michael A. Qualls","n/a","8181","21.19%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","Anne B. Worley","n/a","6437","16.65%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","James R. Fields,"Jr."","n/a","6209","16.06%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","J. Scott Gupton","n/a","3653","9.46%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","James H. Nichols,"III"","n/a","3305","8.54%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","William Edward Cooper,"III"","n/a","3275","8.48%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","T. Cato \n\nSexton","n/a","2073","5.36%","n/a"
+"InsCorp,"Inc."","n/a","12/31/22","Patrick William \n\nEmerson","n/a","1023","2.65%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"InsCorp,"Inc."","Director & Chairman","Michael A. Qualls","n/a","n/a","12/31/22","n/a","n/a"
+"InsCorp,"Inc."","EVP,"COO"","J. Scott Gupton","n/a","n/a","12/31/22","n/a","n/a"
+```

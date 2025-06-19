@@ -1,0 +1,40 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BOAZ BANCORPORATION","Boaz,"Alabama"","2018","Gary D. Kilpatrick","n/a","243034","29.62%","n/a"
+"FIRST BOAZ BANCORPORATION","Auburn,"Alabama"","2018","Horace E. Kilpatrick","n/a","241200","29.40%","n/a"
+"FIRST BOAZ BANCORPORATION","Boaz,"AL"","2018","Gerald D. Martin","n/a","63050","7.68%","n/a"
+"FIRST BOAZ BANCORPORATION","Boaz,"AL"","2018","Joseph Paul Abercrombie","n/a","50500","6.16%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","President","Boaz Discount Drugs","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","President","Johnson's Hallmark","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","Secretary","Mediage Pharmaceuticals,"Inc."","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","Owner","Johnson Real Estate Investments,"LLC"","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","Owner","Age,"LLC"","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Chairman of the Board","Cary Dale Johnson","Limited Partner","Paint Rock,"LLC"","2018","Boaz Discount Drugs","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Joseph Paul Abercrombie","President","Abbie Auto Parts","2018","South Point Systems","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Joseph Paul Abercrombie","President","South Point Systems","2018","South Point Systems","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Joseph Paul Abercrombie","Treasurer/Board Member","Associate Jobbers Warehouse","2018","South Point Systems","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","President","Alexander Dodge","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","President","Alexander Ford","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","President","Alexander Rentals","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","Secretary","Tackle Trap","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","Managing Member","Alexander Family Investment","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","President","Chevrolet of Boaz","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Leon J. Alexander,"Jr."","President","Kelley Auto Auction LLC","2018","Alexander Ford","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Evan Johnson","President/Owner","Family Medicine of Sardis","2018","Family Medicine of Sardis","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Evan Johnson","Board of Directors","Boaz Discount Drugs","2018","Family Medicine of Sardis","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Evan Johnson","Owner","Johnson Properties","2018","Family Medicine of Sardis","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Gary Kilpatrick","Owner","Gary's Signs","2018","Kilpatrick Chevrolet","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Gary Kilpatrick","President","Kilpatrick Chevrolet","2018","Kilpatrick Chevrolet","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Gary Kilpatrick","Co-Owner","M & K Signs","2018","Kilpatrick Chevrolet","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Gary Kilpatrick","President","K Properties LLC","2018","Kilpatrick Chevrolet","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Horace Kilpatrick","n/a","n/a","n/a","2018","Retired","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Gerald Martin","Partner","M & K Signs","2018","Retired","n/a"
+"FIRST BOAZ BANCORPORATION","President,"Director","C.E.O."","Ricky Ray","n/a","n/a","2018","First Bank of Boaz","n/a"
+"FIRST BOAZ BANCORPORATION","Director","Craig Rigsby","n/a","Boaz Gas Board","2018","Boaz Gas Board Manager","n/a"
+```

@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2021","John Howard Muse","Bank Holding Company Stock","3508","6.65%","n/a"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2021","John Howard Muse","Bank Holding Company shares","3508","6.65%","n/a"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2021","Catherine L. Muse","BHC Shares","2922","5.54%","n/a"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2021","James Muse","BHC Shares","2397","5.57%","n/a"
+"Farmers State Bancshares,"Inc."","Knoxville,"TN"","2021","Thomas Muse","BHC Shares","2947","5.59%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Director","Dr. Sam B. Adams,"Jr."","Owner","Adams Pharmacy","2021","Owner Adams Pharmacy","n/a"
+"Farmers State Bancshares,"Inc."","Director","William P. McGuire","Partner","Cunningham & McGuire","2021","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director/Chairman & President","John Howard Muse","n/a","n/a","2021","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","James W Vincill","n/a","n/a","2021","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Dorothy Shupe","n/a","n/a","2021","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Daniel Cullop","Owner","Mountain City Funeral Home","2021","Funeral Home Owner","n/a"
+"Farmers State Bancshares,"Inc."","Director/Executive Vice President","David D. Arnold","n/a","n/a","2021","Banking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Joseph D. Herman","Owner","Danny Herman Trucking","2021","Owner- Danny Herman Trucking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Joseph D. Herman","Owner","DHT Leasing","2021","Owner- Danny Herman Trucking","n/a"
+"Farmers State Bancshares,"Inc."","Director","Samuel E. Icenhour","Owner","Iron Mountain Construction","2021","Owner- Iron Mountain Construction","n/a"
+```

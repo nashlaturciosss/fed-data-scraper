@@ -1,0 +1,26 @@
+Here are the two tables in valid CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Chairman/CEO","Sheldon T. Anderson","n/a","n/a","2022","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Sheldon T. Anderson","n/a","n/a","2022","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Jose Vazquez","President & Chief Lending Officer","n/a","2022","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","n/a","Bert Lopez","EVP,"CFO","Secretary/Treasurer"","n/a","2022","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Patricia Sanchez Abril","n/a","n/a","2022","Professor and Chair,"Business Law","Associate Dean","Graduate School"","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","George W. Foyo","n/a","Baptist Health","2022","EVP & Chief Administrative Officer","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Michael Chavies","Equity Partner","Akerman,"LLP"","2022","Retired Judge","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","Charles M. Hartz","n/a","Ferncreek LLP","2022","Attorney","n/a"
+"Coconut Grove Bankshares,"Inc."","Vice Chairman & CCEO","Edward J. Joyce","n/a","n/a","2022","n/a","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","D. Alan Nichols","n/a","50% 7700 Company LLC","2022","CPA","n/a"
+"Coconut Grove Bankshares,"Inc."","Director","William T. Price,"III"","n/a","n/a","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Charles Stuzin","Manager","SF Partners Financial,"LLC"","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Michael Weintraub","Director","Gibson & Co.,"Inc."","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","Opko Health Inc.","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","Non-Invasive Monitoring Systems","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","Frost Administrative Services,"Inc."","2022","Investor","n/a"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","PharmAir Corporation","2022","Investor","n/a"
+```

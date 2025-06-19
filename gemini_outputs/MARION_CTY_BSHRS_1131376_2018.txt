@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2018","B.W. Rollins Children's Trust","Common Stock","36019","39.93%","1131376"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2018","Rebecca R. Creel","Common Stock","11939","13.23%","1131376"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2018","Rebecca R. Creel","Common Stock","50","0.06%","1131376"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2018","Patricia R. Duke","Common Stock","12040","13.35%","1131376"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2018","Patricia R. Duke","Common Stock","55","0.06%","1131376"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2018","Jennifer R. Thompson","Common Stock","12040","13.35%","1131376"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2018","Judith F. Wilson","Common Stock","5776","6.40%","1131376"
+"Marion County Bancshares,"Inc."","Ellenton,"FL"","2018","John R. and Mary Lee Rollins","Common Stock","7572","8.40%","1131376"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion County Bancshares,"Inc."","Director","B.W. Rollins","Chairman of the Board","n/a","2018","Retired Farmer"
+"Marion County Bancshares,"Inc."","Director","Patricia R. Duke","Director","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","Director","Brent Thompson","President","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","n/a","Jennifer R. Thompson","n/a","n/a","2018","Retired Teacher"
+"Marion County Bancshares,"Inc."","Director","Rebecca R. Creel","Director","n/a","2018","Dietician"
+"Marion County Bancshares,"Inc."","CFO","Scott D. Canterbury","n/a","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","Director","Dwayne R. Lewis","n/a","River Birch Homes","2018","Retired Manufacturing Supervisor"
+"Marion County Bancshares,"Inc."","Director","Robert F. Page","Mayor","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP","Dale McCreless","n/a","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP","Jill Cox","n/a","n/a","2018","n/a"
+"Marion County Bancshares,"Inc."","Cashier","Sheila Peoples","n/a","n/a","2018","n/a"
+```

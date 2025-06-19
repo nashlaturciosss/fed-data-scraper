@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First IC Corporation","McDonough,"GA"","2017","Chong W Chun and Kyong H Chun","Common Stock","588688","8.97%","n/a"
+"First IC Corporation","McDonough,"GA"","2017","Chong W Chun and Kyong H Chun","Options on Common Stock","27839","0.42%","n/a"
+"First IC Corporation","McDonough,"GA"","2017","Chong W Chun and Kyong H Chun","Family Owned Common Stock","91446","1.39%","n/a"
+"First IC Corporation","Atlanta,"GA"","2017","Choong S Cho and Boksoo Kim Cho","Common Stock","397289","6.06%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2017","Myong Tul Chu","Common Stock","372208","5.67%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2017","Myong Tul Chu","Family Owned Common Stock","45413","0.69%","n/a"
+"First IC Corporation","Huntsville,"AL"","2017","Seung Woo Choi","Common Stock","357929","5.46%","n/a"
+"First IC Corporation","Huntsville,"AL"","2017","Seung Woo Choi","Family Owned Common Stock","139468","2.13%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director,"Chairman"","Chong W Chun","n/a","n/a","2017","n/a","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lan Liu Inc","2017","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha","2017","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Johnsboro Inc","2017","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha IX","2017","Business Owner","n/a"
+"First IC Corporation","Director","Do Hyun Kim","n/a","n/a","2017","n/a","n/a"
+"First IC Corporation","Director","Eui Suk Lee","n/a","n/a","2017","n/a","n/a"
+"First IC Corporation","Director,"Co-Owner"","Suk Hyun Kim","n/a","Net K,"INC"","2017","Business Owner","n/a"
+"First IC Corporation","Director,"President/CEO"","Dong Wook Kim","n/a","n/a","2017","n/a","n/a"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2017","n/a","n/a"
+```

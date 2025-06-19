@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","Robert E. Williams","n/a","18561","16.55%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","James H. Faircloth,"Jr."","n/a","17530","15.63%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","Theodore G. Elmore,"Jr."","n/a","10512","9.36%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","Robert H. Albritton","n/a","9139","8.14%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","Charles T. McElmurray","n/a","8860","7.89%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","Barry N. Lyle","n/a","6328","5.63%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","William B. Bostwick","n/a","5472","4.87%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"Georgia"","2023","William E. Reynolds","n/a","5362","4.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dawson Bancshares,"Inc."","President | CEO","Robert E. Williams","n/a","n/a","2023","n/a","n/a"
+"Dawson Bancshares,"Inc."","Secretary - Treasurer","Barry N. Lyle","n/a","n/a","2023","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","James H. Faircloth,"Jr."","n/a","n/a","2023","Executive Vice President,"Sowega Farms"","n/a"
+"Dawson Bancshares,"Inc."","Director","Theodore G. Elmore,"Jr."","n/a","n/a","2023","Certified Public Accountant","n/a"
+"Dawson Bancshares,"Inc."","Director","Robert H. Albritton","n/a","n/a","2023","Insurance Agent","n/a"
+"Dawson Bancshares,"Inc."","Director","Charles T. McElmurray","n/a","n/a","2023","General Manager-McCain Gin,"Inc."","n/a"
+"Dawson Bancshares,"Inc."","Director","William B. Bostwick","n/a","n/a","2023","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","William E. Reynolds","n/a","n/a","2023","Certified Public Accountant","n/a"
+```

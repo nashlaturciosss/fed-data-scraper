@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Leesville,"LA"","2022","W.A. (Bill) Fussell,"Jr."","Class A Voting Shares","14446","12.86%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Leesville,"LA"","2022","Ken Hughes","Class A Voting Shares","20723","18.45%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Leesville,"LA"","2022","Kenneth W. Lewis","Class A Voting Shares","11514","10.25%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Leesville,"LA"","2022","John T. Scott","Class A Voting Shares","15238","13.57%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Leesville,"LA"","2022","John W. Van Dyke","Class A Voting Shares","11388","10.14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","President/CEO/Director","Ken Hughes","n/a","n/a","2022","n/a","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","W.A. (Bill) Fussell,"Jr."","n/a","Fussell Farms,"Inc."","2022","Self Employed - Farmer","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kenneth W. Lewis","President","Leesville Concrete Co.,"Inc."","2022","President,"Leesville Concrete Co.","Inc."","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kenneth W. Lewis","President","Leesville Ready Mix,"Inc."","2022","President,"Leesville Concrete Co.","Inc."","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","John T. Scott","Attorney at Law","Scott Law Firm","2022","Attorney at Law","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","John W. Van Dyke","President","Van Dyke Properties,"Inc."","2022","President,"Van Dyke Properties","Inc."","n/a"
+```

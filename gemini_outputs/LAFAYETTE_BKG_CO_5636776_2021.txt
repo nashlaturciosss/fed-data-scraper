@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lafayette Banking Company","Clearwater,"FL"","2021","Group Financial Investor CLW LLC","common stock","204000","6%","n/a"
+"Lafayette Banking Company","Live Oak,"FL"","2021","Dennis and T. Leann Music","common stock","204145","6%","n/a"
+"Lafayette Banking Company","Live Oak,"FL"","2021","Jack Putnal","common stock","200000","5%","n/a"
+"Lafayette Banking Company","Mayo,"FL"","2021","Michael and Freda Shaw","common stock","255871","7%","n/a"
+"Lafayette Banking Company","Mayo,"FL"","2021","Reynolds R. Williams","Common stock","260000","7%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lafayette Banking Company","Director","A. David Adams","Director","Insurance Agency","2021","Insurance Agency Owner","n/a"
+"Lafayette Banking Company","Director","R. Roger Brooks","Director","n/a","2021","Retired banker","n/a"
+"Lafayette Banking Company","Chairman & Director","Richard Calvitt","Chairman & Director","n/a","2021","Retired banker","n/a"
+"Lafayette Banking Company","CFO","R. Todd Ernest","CFO","n/a","2021","NA","n/a"
+"Lafayette Banking Company","President/CEO Director","James J. Esry","President/CEO Director","n/a","2021","NA","n/a"
+"Lafayette Banking Company","Director & Vice Chairman","John C. Hewett","Director & Vice Chairman","Owner LP Gas Company","2021","Owner LP Gas Company","n/a"
+"Lafayette Banking Company","Director","Kennard Page","Director","Retired Federal Bank Examiner","2021","Retired Federal Bank Examiner","n/a"
+"Lafayette Banking Company","Director","Michael H. Shaw","Director","Owner Agricultural Services Company","2021","Owner Agricultural Service Company","n/a"
+"Lafayette Banking Company","Director","Bruce Tillman","Director","Owner Insurance Agency","2021","Owner Insurance Agency","n/a"
+"Lafayette Banking Company","Director","Reynolds R. Williams","Director","Owner fuel distribution company","2021","Owner fuel distribution company","n/a"
+```

@@ -1,0 +1,18 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Frankewing Bancshares,"Inc."","n/a","12/31/2023","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Frankewing Bancshares,"Inc."","Director","David W. Barnes","n/a","n/a","12/31/2023","N/A","n/a"
+"Frankewing Bancshares,"Inc."","Director & President","David W. Barnes","n/a","n/a","12/31/2023","N/A","n/a"
+"Frankewing Bancshares,"Inc."","Director","David Blake Lay","Manager","ISS Enterprises,"LLC"","12/31/2023","Property Management","n/a"
+"Frankewing Bancshares,"Inc."","Director/ Chairman","Meade C Hopkins","Director & CEO","n/a","12/31/2023","N/A","n/a"
+"Frankewing Bancshares,"Inc."","Director","Gerald Martin","n/a","n/a","12/31/2023","Retired","n/a"
+"Frankewing Bancshares,"Inc."","Director","Mike Mayfield","n/a","n/a","12/31/2023","Retired","n/a"
+"Frankewing Bancshares,"Inc."","Director","Jeff Stewart","Director & EVP/Cashier","n/a","12/31/2023","N/A","n/a"
+"Frankewing Bancshares,"Inc."","N/A","Earl Wakefield","N/A","N/A","12/31/2023","Retired","n/a"
+"Frankewing Bancshares,"Inc."","Director","James I Greene,"Jr."","n/a","n/a","12/31/2023","Professor","n/a"
+"Frankewing Bancshares,"Inc."","Director","Thomas Evan Beech","n/a","n/a","12/31/2023","College Administration","n/a"
+```

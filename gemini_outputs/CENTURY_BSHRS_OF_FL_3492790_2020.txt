@@ -1,18 +1,23 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Century Bancshares of Florida,"Inc."","Tampa","2020","Theodore J. Couch,"Sr.","IRR Tst"","Common Stock","117999","10.47%"
-"Century Bancshares of Florida,"Inc."","Tampa","2020","Jose Vivero","Common Stock","214636","19.04%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Century Bancshares of Florida,"Inc."","Tampa,"FL"","2020","Theodore J. Couch,"Sr.","IRR Tst"","Common Stock","117999","10.47%","n/a"
+"Century Bancshares of Florida,"Inc."","Tampa,"FL"","2020","Jose Vivero","Common Stock","214636","19.04%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","Director","TJC Land,"Inc"","2020"
-"Century Bancshares of Florida,"Inc."","Director","Terrance W. Edmondson","Director","Brandon Electric","2020"
-"Century Bancshares of Florida,"Inc."","Director & Vice Chairman","W. Hunter Eubanks,"MD"","Director & Vice Chairman","n/a","2020"
-"Century Bancshares of Florida,"Inc."","Director","Laurence W. Hall,"Jr."","Director","Robbins Mfg. Co.","2020"
-"Century Bancshares of Florida,"Inc."","Director","David L.Mueller","Director","n/a","2020"
-"Century Bancshares of Florida,"Inc."","Director","Jose Valiente","Director","Darcy Investment Group","2020"
-"Century Bancshares of Florida,"Inc."","Exec. Vice President","Gabriel J. Vivero","President & COO Director","n/a","2020"
-"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO Director"","Jose Vivero","Chairman & CEO Director","Galicia Ent.,"LLC"","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","Chairman","TJC Land,"Inc"","2020","Real Estate","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","President","Premium Mtg,"Inc."","2020","Real Estate","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","President/Director","TJC Leasing,"LLC."","2020","Real Estate","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Theodore J. Couch,"Sr."","President/Director","Tampa Leasing,"Inc."","2020","Real Estate","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Terrance W. Edmondson","President","Brandon Electric","2020","Electrical Services","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Terrance W. Edmondson","President","A&H Electrical Svc","2020","Electrical Services","2939001"
+"Century Bancshares of Florida,"Inc."","Director & Vice Chairman","W. Hunter Eubanks,"MD"","n/a","n/a","2020","Retired","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Laurence W. Hall,"Jr."","Chairman & Treas","Robbins Mfg. Co.","2020","Manufacturing","2939001"
+"Century Bancshares of Florida,"Inc."","Director","David L.Mueller","n/a","n/a","2020","Retired","2939001"
+"Century Bancshares of Florida,"Inc."","Director","Jose Valiente","n/a","Darcy Investment Group","2020","Retired","2939001"
+"Century Bancshares of Florida,"Inc."","Exec. Vice President","Gabriel J. Vivero","n/a","n/a","2020","Banker","2939001"
+"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO"","Jose Vivero","n/a","Galicia Ent.,"LLC"","2020","Banker","2939001"
+"Century Bancshares of Florida,"Inc."","Chairman,"Pres. & CEO"","Jose Vivero","n/a","Café' Pepe,"Inc"","2020","Banker","2939001"
 ```

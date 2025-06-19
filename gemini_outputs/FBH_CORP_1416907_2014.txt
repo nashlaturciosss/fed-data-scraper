@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F.B.H. Corporation","Fayette,"AL"","2014","William C. Robertson","Common Stock","377.0","18.9%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2014","Thomas H. Robertson,"IV"","Common Stock","375.7","18.8%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2014","Susan E. Robertson","Common Stock","375.7","18.8%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2014","John C. Robertson,"Jr."","Common Stock","452.6","22.6%","1416907"
+"F.B.H. Corporation","Fayette,"AL"","2014","Catherine L. Robertson","Common Stock","183.5","9.2%","1416907"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F.B.H. Corporation","President/CEO and Director","William C. Robertson","CEO and Director","The Citizens Bank of Fayette","2014","n/a","438434"
+"F.B.H. Corporation","Secretary-Treasurer and Director","John C. Robertson,"Jr."","Vice-President and Director","The Citizens Bank of Fayette","2014","n/a","438434"
+"F.B.H. Corporation","Principal Securities Holder","Susan E. Robertson","n/a","n/a","2014","Homemaker","438434"
+"F.B.H. Corporation","Principal Securities Holder and Director","Thomas H. Robertson,"IV"","n/a","n/a","2014","Photographer","438434"
+"F.B.H. Corporation","Director","Catherine L. Robertson","Director","Camp McDowell","2014","Guest Services Director","438434"
+"F.B.H. Corporation","Director","Amy R. Vaden","n/a","Southern Alliance for Clean Energy","2014","Development Associate","438434"
+```

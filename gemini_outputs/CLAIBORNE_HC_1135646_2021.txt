@@ -1,0 +1,39 @@
+Here are the two tables in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2021","Yoakum Family,"LP"","common stock","70446","48.9%","n/a"
+"Claiborne Holding Company,"Inc."","Nashville,"TN"","2021","Stephanie B. Conner","common stock","10019","6.9%","n/a"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2021","Rob Barger","common stock","16991","11.8%","n/a"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2021","Oliver Adams","common stock","34690","24.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","General Partner","Yoakum Family LP","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","Yoakum Family LP","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","Eastridge Apartments","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","B & P Industrial Park","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","MORK,"LLC"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","Bargaritaburg,"LLC"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","KERM,"LLC"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","SLO,"GP"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Eleanor Yoakum","Co-Trustee,"Estate Of Glenn Yoakum"","Bond & Adams","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Director","Rob Barger","Owner","Yoakum Family LP","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Vice Chairman & President","Rob Barger","General Partner","Yoakum Family LP","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Oliver Adams","Principal Shareholder","n/a","2021","Attorney","n/a"
+"Claiborne Holding Company,"Inc."","Director","Carroll E. Rose,"MD"","Partner","Rose & Thomas","2021","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc."","Director","Carroll E. Rose,"MD"","Partner","Rose & Ball","2021","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Jennifer Lovin","Secretary to the Board","n/a","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Rex Rauhuff","Executive VP & Chief Lending Officer","n/a","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","President","R. Giles Enterprises,"INC"","2021","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","Manager","ERG,"LLC"","2021","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Elizabeth Giles","General Partner","Patty Brothers Prop,"GP"","2021","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc."","Secretary","Jack A. Bonner,"Jr"","Managing Member","Press Group,"LLC"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Secretary","Jack A. Bonner,"Jr"","Managing Ptr","Cayenne Rental Properties,"GP"","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","Secretary","Jack A. Bonner,"Jr"","President","Press Bldg. Condo Assoc","2021","n/a","n/a"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","Director/ Consultant","n/a","2021","Business consultant","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Howard Phillips","Director","n/a","2021","Business owner","n/a"
+"Claiborne Holding Company,"Inc."","Director","Greg Garren","n/a","n/a","2021","Farmer","n/a"
+"Claiborne Holding Company,"Inc."","n/a","Wesley Minton","n/a","n/a","2021","n/a","n/a"
+```

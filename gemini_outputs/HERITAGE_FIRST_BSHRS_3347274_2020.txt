@@ -1,0 +1,26 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Atlanta,"GA"","2020","Andrew Heaner","Common Stock","1558902","27.45%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2020","Wayne Vick","Common Stock","564905","9.95%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2020","Kenneth Davis","Common Stock","496203","8.74%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2020","Helmut Cawthon","Common Stock","332386","5.85%","n/a"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2020","Delos H. Yancey,"Jr."","Common Stock","296270","5.22%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Director","Helmut H. Cawthon","n/a","Shoney's of Rome D/B/A The Country Sportman","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Chairman","Dr Kenneth F. Davis","Chairman","Harbin Clinic","2020","Medical","n/a"
+"Heritage First Bancshares,"Inc."","Director & CEO","Ryan P. Ernest","n/a","n/a","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Financial Group","2020","Insurance","n/a"
+"Heritage First Bancshares,"Inc."","Executive","Clinton G. Hubbard","Director","IOMAX,"USA","Inc."","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Randal A. Land","CEO","JL Todd Auction Company,"Inc."","2020","CEO","n/a"
+"Heritage First Bancshares,"Inc."","Director","Kimberly G. Mauer","RN","Redmond Medical Center","2020","Medical","n/a"
+"Heritage First Bancshares,"Inc."","Director","Laura H. Mumber","n/a","n/a","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","David M. Parker","Owner","Parker Systems,"LLC"","2020","Telecommunications","n/a"
+"Heritage First Bancshares,"Inc."","CFO","Charles W. Thornton Jr.","n/a","n/a","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Wayne E. Vick","n/a","Southern Bracing Systems Inc.","2020","n/a","n/a"
+"Heritage First Bancshares,"Inc."","Director","Thad W. Watters Sr.","n/a","n/a","2020","n/a","n/a"
+```

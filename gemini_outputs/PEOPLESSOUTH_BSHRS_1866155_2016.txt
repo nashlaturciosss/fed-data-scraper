@@ -1,0 +1,18 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples South Bancshares,"Inc."","Fort Gaines,"Georgia"","2016","Rickey E. Stuckey,"et. al."","n/a","339694","13.16%","518037"
+"Peoples South Bancshares,"Inc."","Colquitt,"Georgia"","2016","Ronald H. Rentz,"et. al."","n/a","222958","8.64%","518037"
+"Peoples South Bancshares,"Inc."","Albany,"GA"","2016","J. Alvin Newton,"Jr."","n/a","230605","8.93%","518037"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples South Bancshares,"Inc."","CEO,"President and Director"","Rickey E. Stuckey","n/a","n/a","2016","NA","518037"
+"Peoples South Bancshares,"Inc."","Director","C. E. Grow,"Jr."","n/a","n/a","2016","Retired","518037"
+"Peoples South Bancshares,"Inc."","Director","Jerry C. Grimsley","n/a","n/a","2016","Retired","518037"
+"Peoples South Bancshares,"Inc."","Corporate Sec & Treas & Vice President","Sandra Womble","n/a","n/a","2016","Chief Financial Officer","518037"
+"Peoples South Bancshares,"Inc."","Director","Ronald H. Rentz","Attorney at Law - Owner","Ronald H. Rentz,"Attorney At Law"","2016","Attorney","518037"
+"Peoples South Bancshares,"Inc."","Director","J. Alvin Newton,"Jr."","n/a","Burke,"Worsham & Harrell LLC"","2016","Attorney","518037"
+"Peoples South Bancshares,"Inc."","Director","Joseph W. Grimsley","n/a","n/a","2016","Retired Dentist","518037"
+```

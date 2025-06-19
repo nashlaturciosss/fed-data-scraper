@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Burke Banking Company","Waynesboro,"GA"","2014","J. C. Palmer,"III"","Common Stock","3665","33.77%","1137752"
+"First Burke Banking Company","Newnan,"GA"","2014","Leigh O. Jackson","Common Stock","1935","17.83%","1137752"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Burke Bank Company","(Advisory) Director","J. Douglas Cates,"Ill"","Retired","n/a","2014","Retired","n/a"
+"First Burke Bank Company","Director","Roy F. Chalker,"Jr."","President","The True Citizen","2014","President Chalker Publishing","n/a"
+"First Burke Bank Company","Director","Robert c. Collins","n/a","Collins Farms","2014","Collins Farms/ Collins Bonded Warehouse","n/a"
+"First Burke Bank Company","Director","Robert c. Collins","n/a","Truflame Gas Co.,"Inc."","2014","Collins Farms/ Collins Bonded Warehouse","n/a"
+"First Burke Bank Company","Director","Dr. Shelley Griffin","n/a","n/a","2014","Physician Medical Specialist","n/a"
+"First Burke Bank Company","Director","H.C. Hopkins,"Ill"","Hopkins Farms","Hopkins Farms","2014","Hopkins Farms President","n/a"
+"First Burke Bank Company","Director","Alan W. Jackson","n/a","Glover & Davis P.A.","2014","Glover & Davis P.A. Partner","n/a"
+"First Burke Bank Company","Director","C.E. Johnson,"Jr."","Retired","n/a","2014","Retired","n/a"
+"First Burke Bank Company","Director","J. C. Palmer,"IV"","n/a","n/a","2014","Loan Officer/ First National Bank","n/a"
+"First Burke Bank Company","President Director Treasurer","J. C. Palmer,"III"","n/a","First Burke Insurance Agency,"Inc."","2014","President/Director First National Bank Chairman of Board","n/a"
+"First Burke Bank Company","n/a","Leigh O. Jackson","n/a","n/a","2014","Housewife","n/a"
+"First Burke Bank Company","Secretary","Connie Smith","n/a","n/a","2014","A A First National Bank","n/a"
+```

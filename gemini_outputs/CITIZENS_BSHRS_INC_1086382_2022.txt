@@ -1,0 +1,19 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITIZENS BANCSHARES INC","Director","James Acker Jr.","n/a","n/a","2022","Cattle Farmer.","C.I."
+"CITIZENS BANCSHARES INC","Director","John C Jay Jr","n/a","Utilities Board City of Greensboro","2022","Chairman of Utilities Board City of Greensboro","C.I."
+"CITIZENS BANCSHARES INC","Chairman","John C Jay Jr","n/a","Utilities Board City of Greensboro","2022","Chairman of Utilities Board City of Greensboro","C.I."
+"CITIZENS BANCSHARES INC","Director","Donald Wedgwortli","n/a","n/a","2022","Fish Buyer","C.I."
+"CITIZENS BANCSHARES INC","Director","Charles W Thomás","n/a","n/a","2022","Retired (bänker)","C.I."
+"CITIZENS BANCSHARES INC","Director","Lisa S Cochran","n/a","n/a","2022","N/A","C.I."
+"CITIZENS BANCSHARES INC","Secretary","Lisa S Cochran","n/a","n/a","2022","N/A","C.I."
+"CITIZENS BANCSHARES INC","President","Lisa S Cochran","n/a","n/a","2022","N/A","C.I."
+"CITIZENS BANCSHARES INC","Director","Stephen R Barnette","Owner","n/a","2022","Business Owner (Furniture)","C.I."
+"CITIZENS BANCSHARES INC","Director","Keith H Glover","n/a","n/a","2022","Farm Manager/Cattle Farmer","C.I."
+```

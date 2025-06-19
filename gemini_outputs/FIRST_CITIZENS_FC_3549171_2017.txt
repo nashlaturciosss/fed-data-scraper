@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Citizens Financial Corporation","Benchwood,"OH"","2017","Ben Mackovak","Common Stock","4248480","19.15%","3549171"
+"First Citizens Financial Corporation","Cleveland,"OH"","2017","Jeffrey Anderson","Common Stock","4000000","18.03%","3549171"
+"First Citizens Financial Corporation","New York,"NY"","2017","Second First De Novo LP","Common Stock","2195920","9.90%","3549171"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Citizens Financial Corporation","Chairman of the Board Director","Michael L. Berg","Chairman of Dawson County Commissioners","Dawson County Commissioners","2017","County Commissioner","3549180"
+"First Citizens Financial Corporation","Director/Secretary","Kevin K. Tanner","State House of Representatives","n/a","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","Director","Steven K. Leibel","Owner/Attorney","Steven Leibel,"PC"","2017","Attorney","3549180"
+"First Citizens Financial Corporation","Director","John D. Pearson","Vice-President","Cold River Development,"Inc."","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","Director","John D. Pearson","Vice-President","Cold River Partners,"Inc."","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","Director","John D. Pearson","Vice-President","Peco's,"Inc."","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","Director","Eugene E. Pearson,"Jr."","President","Cold River Development,"Inc."","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","Director","Eugene E. Pearson,"Jr."","President","Peco's,"Inc."","2017","Real Estate Development","3549180"
+"First Citizens Financial Corporation","President & CEO","John L. Lewis","n/a","n/a","2017","None","3549180"
+"First Citizens Financial Corporation","Senior Vice-President & CFO","C. Ricky Stowe","n/a","n/a","2017","None","3549180"
+"First Citizens Financial Corporation","Director","Anna B. Williams","Owner","Anna B. Williams,"CPA","PC"","2017","CPA","3549180"
+"First Citizens Financial Corporation","Director","Jerome L. ""Jerry"" Blankenship","n/a","n/a","2017","Retired","3549180"
+"First Citizens Financial Corporation","Director","Jeffrey Anderson","Portfolio Manager","Ancora Catalyst Fund L.P.","2017","Portfolio Manager","3549180"
+"First Citizens Financial Corporation","Director","Ben Mackovak","Co-Founder and Managing Member","Strategic Value Bank Partners,"LLC"","2017","Portfolio Manager","3549180"
+"First Citizens Financial Corporation","Director","Ben Mackovak","Co-Founder and Managing Member","Strategic Value Investors L.P.","2017","Portfolio Manager","3549180"
+"First Citizens Financial Corporation","Executive Vice-President","Steven F. Smith","n/a","n/a","2017","None","3549180"
+```

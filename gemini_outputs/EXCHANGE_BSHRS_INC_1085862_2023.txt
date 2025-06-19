@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","New York,"NY"","2023","CEDE & Co.","n/a","88021","14.753%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2023","Jane Sheppard","n/a","50472","8.459%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2023","Helen Pope","n/a","53345","8.941%","n/a"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2023","William D. Morrison,"Jr."","n/a","45456","7.619%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Owner","Allen Construction Company","2023","Contractor","n/a"
+"Exchange Bankshares,"Inc."","President/CEO","John C. Childs,"Jr."","President/CEO","Exchange Bank","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Melvin T. Couey","n/a","n/a","2023","Retired Exchange Bank","n/a"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","President","Moores Funeral Home Inc.","2023","Funeral Director and Cemeterian","n/a"
+"Exchange Bankshares,"Inc."","Director","Laurie Ann Gilmore","n/a","Coca-Cola Company","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Vice Chairman of the Board","John W. Grant,"III"","n/a","Retired Georgia College Administrator","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. John F. Harrington,"Jr."","Dentist","John F. Harrington,"Jr. DDS"","2023","Dentist","n/a"
+"Exchange Bankshares,"Inc."","Director","Joan L. Jones","n/a","n/a","2023","Real Estate Broker/Owner","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Co-Owner/Managing Partner of","VBRN Investments","2023","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","Director","Helen Pope","n/a","n/a","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","Navicent Health Baldwin","2023","Physician","n/a"
+"Exchange Bankshares,"Inc."","Director","Jane Sheppard","n/a","n/a","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","Retired BASF","2023","n/a","n/a"
+"Exchange Bankshares,"Inc."","Treasurer","Roy D. Washburn III","Executive Vice President","Exchange Bank","2023","n/a","n/a"
+```

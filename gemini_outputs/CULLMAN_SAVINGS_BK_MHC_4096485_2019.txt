@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cullman Bancorp,"Inc"","Cullman,"Alabama"","2019","Cullman Savings Bank,"МНС"","59% common stock","1403731","59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Member","Galin & Riley,"LLC"","2019","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Sole Member","Lincoln Brothers,"LLC"","2019","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Member","BBR,"LLC"","2019","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","Member","Bainbridge 83,"LLC"","2019","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director","Gregory T. Barksdale","n/a","n/a","2019","Insurance","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","President","Paul D. Bussman DMD,"PC"","2019","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","Sole Member","PHB Property,"LLC"","2019","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director & Chairman","Kim J. Chaney","n/a","n/a","2019","Judge","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","Corporate Secretary","Bland,"Harris & McClellan","PC"","2019","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","Member","Harris & McClellan,"LLC"","2019","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","Sole Member","Brent Properties,"LLC"","2019","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","Managing Member","Five Sisters,"LLC"","2019","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director EVP/COO","Robin Parson","n/a","n/a","2019","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","Member","BBR,"LLC"","2019","Business Owne Director","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","Sole Member","Burks Bros Pools","2019","Business Owne Director","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","Member","J&M,"LLC"","2019","Business Owne Director","n/a"
+"Cullman Savings Bank,"MHC"","Director","Chad Burks","Member","CM Burks Properties,"LLC"","2019","Business Owne Director","n/a"
+```

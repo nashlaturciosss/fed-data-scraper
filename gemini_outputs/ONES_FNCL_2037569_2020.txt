@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Individually Owned","6083","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Voting Control","2330","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Voting Control","4458","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Joint Owner","4034","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Voting Control","1250","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","Voting Control","1250","n/a","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","Anne S. Hammack","n/a","19405","12.04%","n/a"
+"One South Financial,"Inc."","Dalton,"GA"","2020","James Albert Hammack","Individually Owned","10376","6.44%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","James A Hammack III","Son","2515","1.56%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","Margaret Long","Daughter","235","0.15%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","Margaret Long","Granddaughter","578","0.36%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","James A Hammack III","Grandson","578","0.36%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","James A Hammack III","Granddaughter","578","0.36%","n/a"
+"One South Financial,"Inc."","Atlanta,"Ga"","2020","James A Hammack III","Grandson","578","0.36%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"One South Financial,"Inc."","Director","Garrett N. Bennett","Physician","Miller County Hospital","2020","Physician","n/a"
+"One South Financial,"Inc."","Director","Patricia M. Cleveland","n/a","n/a","2020","Retired","n/a"
+"One South Financial,"Inc."","Director","D. Ronald Davis","n/a","Panhandle Auctions,"Inc."","2020","Retired","n/a"
+"One South Financial,"Inc."","Director","D. Ronald Davis","Vice President","Peanut Growers Association","2020","Retired","n/a"
+"One South Financial,"Inc."","Director","Richard D. Grist,"Jr."","Director","Grist Oil Co.","2020","Oil Jobber","n/a"
+"One South Financial,"Inc."","Director","Alfred D. Guettler","President","Guettler & Guettler,"Inc."","2020","President,"Highway construction business"","n/a"
+"One South Financial,"Inc."","Chairman","J. Albert Hammack","Director","Jolly Textiles,"Inc."","2020","President,"Jolly Textiles","Inc."","n/a"
+"One South Financial,"Inc."","Director","James Stephen Singletary","Chairman of Board","Singletary Properties,"LLC dba Singletary Farms"","2020","Farmer","n/a"
+"One South Financial,"Inc."","Director","William A. Smith","President","Cherokee Rose Farm","2020","Farmer","n/a"
+"One South Financial,"Inc."","President,"CEO","& Director"","Kim Davis Wilson","n/a","n/a","2020","None","n/a"
+```

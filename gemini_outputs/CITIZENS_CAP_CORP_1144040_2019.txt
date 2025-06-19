@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens' Capital Corporation","Robertsdale,"Alabama"","2019","Linda W. Gulledge","Common Stock","18074","19.59%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2019","Robert 1. Gulledge Revocable Trust","Common Stock","16739","18.14%","n/a"
+"Citizens' Capital Corporation","Eclectic,"Alabama"","2019","Robert I. Gulledge,"II"","Common Stock","7914","8.58%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2019","Thomas W. Gulledge","Common Stock","8044","8.72%","n/a"
+"Citizens' Capital Corporation","Foley,"Alabama"","2019","John A. Nelson,"II"","Common Stock","5611","6.08%","n/a"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2019","Beverly J. Potter","Common Stock","5629","6.10%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Capital Corporation","None","Robert I. Gulledge","Retired","n/a","2019","None","n/a"
+"Citizens Capital Corporation","Director","Paul E. Hollingsworth","Retired","n/a","2019","Retired Educator","n/a"
+"Citizens Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","n/a","2019","Law Enforcement","n/a"
+"Citizens Capital Corporation","Director","Robert I. Gulledge II","Minister (Methodist Church)","n/a","2019","Minister","n/a"
+"Citizens Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secour Fisheries","2019","Bon Seafood Processing","n/a"
+"Citizens Capital Corporation","Secretary","Ryan Gerstenschlager","None","n/a","2019","Banker","n/a"
+"Citizens Capital Corporation","Director","Linda W. Gulledge","None","n/a","2019","Retired Educator","n/a"
+"Citizens Capital Corporation","Director","Robert E. Wilters","Attorney","n/a","2019","District Attorney","n/a"
+"Citizens Capital Corporation","President & Director","Thomas W. Gulledge","None","n/a","2019","Banker","n/a"
+```

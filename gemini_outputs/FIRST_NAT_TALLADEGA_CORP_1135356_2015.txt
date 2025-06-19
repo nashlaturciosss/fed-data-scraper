@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Talladega Corporation","Talladega,"AL"","2015","William Larkin Coker","Common Capital","38715","5.55%","1135356"
+"First National Talladega Corporation","Talladega,"AL"","2015","n/a","n/a","n/a","n/a","1135356"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank of Alabama","Chairman / Director","William Larkin Coker","Chairman","First Bank of Alabama","2015","Industrialist","257233"
+"First Bank of Alabama","Chairman / Director","William Larkin Coker","President","Alabama Bag Co.","2015","Industrialist","257233"
+"First Bank of Alabama","Director","Allen C. Jacobs,"Jr."","Director","First Bank of Alabama","2015","Merchant","257233"
+"First Bank of Alabama","Director","Allen C. Jacobs,"Jr."","President","Brannon's Inc.","2015","Merchant","257233"
+"First Bank of Alabama","Director","Andrew Brown,"III"","Director","First Bank of Alabama","2015","Merchant","257233"
+"First Bank of Alabama","Director","Andrew Brown,"III"","President","Brown Lumber and Building Supply","2015","Merchant","257233"
+"First Bank of Alabama","Director","Julian M. King","Director","First Bank of Alabama","2015","Circuit Judge","257233"
+"First Bank of Alabama","n/a","Julian M. King","n/a","Tri B Associates,"LLC"","2015","Circuit Judge","257233"
+"First Bank of Alabama","Director","Tommy Spears","Director","First Bank of Alabama","2015","Pharmacist - Retired","257233"
+"First Bank of Alabama","Director","Richard F. Barber","Director","First Bank of Alabama","2015","Owner / Operator of Real Estate Holding Company","257233"
+"First Bank of Alabama","Director","Richard F. Barber","Owner / President","Barber Properties","2015","Owner / Operator of Real Estate Holding Company","257233"
+"First Bank of Alabama","Director and President","Jonathan Chad Jones","Director,"CEO and President"","First Bank of Alabama","2015","Bank Officer","257233"
+"First Bank of Alabama","CFO","Chad Miller Thomas","CFO and Senior Vice President","First Bank of Alabama","2015","Bank Officer","257233"
+```

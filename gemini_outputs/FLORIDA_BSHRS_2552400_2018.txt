@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2018","A. P. Gibbs and Sandra G. Gibbs","Common Stock","125550","12.63%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2018","J Lamar Roberts","Common Stock","54310","5.46%","n/a"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2018","Marlene Sumner","Common Stock","56434","5.68%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2018","Ernest and Jimmie Peeples","Common Stock","74885","7.53%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Bank of Pasco","Director","Chris Black","President","Black Insurance","2018","Insurance","82033"
+"First National Bank of Pasco","Director & Chairman","A.P. Gibbs","n/a","n/a","2018","Retired-Attorney","82033"
+"First National Bank of Pasco","Director","John E. Henson","Owner","John E. Henson,"CPA"","2018","Certified Public Accountant","82033"
+"First National Bank of Pasco","Director","Marlene H. Mann","n/a","n/a","2018","Retired Dental Office Manager","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Jovita Insurance,"Inc"","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Paul Midilli Realty,"Inc"","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Four M Properties,"Inc"","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Economy Insurance","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Mart,"Inc."","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director,"Vice Chairman"","Paul P. Midilli","President","Midilli Enterprises Inc","2018","Realtor,"Insurance Salesman"","82033"
+"First National Bank of Pasco","Director","Ernest L. Peeples","Owner","Peeple Groves","2018","Citrus Grower","82033"
+"First National Bank of Pasco","Director","Stephen D Carle","Owner","Hodges & Carle P.A.","2018","Attorney","82033"
+"First National Bank of Pasco","Director","Glen Greenfelder","n/a","n/a","2018","Retired Attorney","82033"
+"First National Bank of Pasco","President Director","Steve Hickman","n/a","n/a","2018","Banker","82033"
+"First National Bank of Pasco","Treasurer","Kerry M Westbrook","n/a","n/a","2018","Banker","82033"
+"First National Bank of Pasco","Secretary","Jody Grenville","n/a","n/a","2018","Banker","82033"
+```

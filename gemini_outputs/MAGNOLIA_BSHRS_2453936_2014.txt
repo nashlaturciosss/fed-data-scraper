@@ -1,0 +1,17 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2014","Jolene J. Carroll","Common Stock","42079","48.27%","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2014","John L. Jessup","Common Stock","21411","24.56%","2453936"
+"MAGNOLIA BANKSHARES,"INC."","Eastman,"Georgia"","2014","H.C. Ragan","Common Stock","5514","6.32%","2453936"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MAGNOLIA BANKSHARES,"INC."","Director & Chairman","Jolene J. Carroll","Director","n/a","2014","N/A","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Chief Operating Officer","Jolene J. Carroll","Executive Vice President","n/a","2014","N/A","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director & President","John L. Jessup","n/a","n/a","2014","N/A","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director & Chief Executive Officer","John L. Jessup","n/a","n/a","2014","N/A","n/a"
+"MAGNOLIA BANKSHARES,"INC."","Director","H.C. Ragan","Director","n/a","2014","Retired","n/a"
+```

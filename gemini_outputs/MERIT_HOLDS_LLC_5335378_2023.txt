@@ -1,0 +1,16 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merit Bank","Huntsville,"AL"","2023","Charles W Heaps","Director","n/a","2.28%","n/a"
+"Merit Bank","Brownsboro,"AL"","2023","Jeffrey D Brown","CFO","n/a","0.52%","n/a"
+"Merit Bank","Rogersville,"AL"","2023","Mark McIntyre","Director","n/a","2.62%","n/a"
+"Merit Bank","Huntsville,"AL"","2023","Steven Cost","Director","n/a","0.94%","n/a"
+"Merit Bank","Decatur,"AL"","2023","James Chad Falciani","Director","n/a","10.59%","n/a"
+"Merit Bank","Lebanon,"TN"","2023","Kevin Heronimus","Chairman of the Board","n/a","2.62%","n/a"
+"Merit Bank","Madison,"AL"","2023","Jeff Huntley","Director","n/a","1.15%","n/a"
+"Merit Bank","Huntsville,"AL"","2023","Brent Romine","Director","n/a","2.10%","n/a"
+"Merit Bank","Huntsville,"AL"","2023","Frank Aldag","COO","n/a","2.20%","n/a"
+```

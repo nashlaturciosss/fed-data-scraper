@@ -1,0 +1,15 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Magnolia State Bank","Madison,"MS"","2016","Robert L. Abney,"III"","Common Stock","6570","20.93%","n/a"
+"Magnolia State Bank","Bay Springs,"MS"","2016","Barbara Brown","Common Stock","21465","68.40%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Magnolia State Bank","Director,"President"","Barbara Brown","Chairman","Magnolia State Bank","2016","Teacher (Retired)","n/a"
+"Magnolia State Bank","Director,"Vice President"","Robert L. Abney,"III"","Director","Magnolia State Bank","2016","Medical Doctor (Retired)","n/a"
+"Magnolia State Bank","Secretary","Lillous A. Shoemaker","President & General Counsel","Magnolia State Bank","2016","Banker","n/a"
+"Magnolia State Bank","n/a","Andrew V. Brown","Branch President","Magnolia State Bank","2016","Banker","n/a"
+"Magnolia State Bank","n/a","Tom G. Brown","Security Officer","Magnolia State Bank","2016","Banker","n/a"
+"Magnolia State Bank","n/a","Joseph Neely","Director","Magnolia State Bank","2016","Banker","n/a"
+"Magnolia State Bank","n/a","Kristofer T. Mangum","CEO","Magnolia State Bank","2016","Banker","n/a"
+```

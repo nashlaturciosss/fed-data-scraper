@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PB BANCSHARES,"INC."","Clifton,"TN"","2016","Autry Gobbell","n/a","8693.65","38.98%","426 2525"
+"PB BANCSHARES,"INC."","Clifton,"TN"","2016","PB Bancshares,"Inc. Employee Stock Ownership Plan"","n/a","5973.32","26.78%","426 2525"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PB BANCSHARES,"INC."","Chairman & President","Autry Gobbell","n/a","n/a","2016","n/a","426 2525"
+"PB BANCSHARES,"INC."","Chairman & President","Autry Gobbell","n/a","Peoples Bank","2016","n/a","426 2525"
+"PB BANCSHARES,"INC."","Director","Tommy Martin","n/a","n/a","2016","n/a","426 2525"
+"PB BANCSHARES,"INC."","Director & Secretary","Gailand Grinder","n/a","n/a","2016","Teaching","426 2525"
+"PB BANCSHARES,"INC."","Director & Secretary","Gailand Grinder","n/a","Wayne County","2016","Teaching","426 2525"
+"PB BANCSHARES,"INC."","Director","Carl Skelton","n/a","n/a","2016","Merchant","426 2525"
+"PB BANCSHARES,"INC."","Director","Kelvin Runions","n/a","n/a","2016","n/a","426 2525"
+"PB BANCSHARES,"INC."","Director","Andrew Yarbrough","n/a","n/a","2016","Attorney","426 2525"
+"PB BANCSHARES,"INC."","Director","Andrew Yarbrough","Attorney at Law","n/a","2016","Attorney","426 2525"
+"PB BANCSHARES,"INC."","n/a","PB Bancshares,"Inc Employee Stock Ownership Plan"","n/a","n/a","2016","n/a","426 2525"
+"PB BANCSHARES,"INC."","Director","Larry Jeter","n/a","n/a","2016","Retired","426 2525"
+"PB BANCSHARES,"INC."","Director","Harry Floyd","n/a","n/a","2016","Livestock Dealer","426 2525"
+"PB BANCSHARES,"INC."","Director","Harry Floyd","Harry Floyd Livestock","n/a","2016","Livestock Dealer","426 2525"
+```

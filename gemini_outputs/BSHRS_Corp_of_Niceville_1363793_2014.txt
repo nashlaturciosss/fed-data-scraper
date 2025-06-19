@@ -1,20 +1,25 @@
-Here are the two tables extracted from the document:
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bankshares Corporation Of Niceville","Niceville","2014","Jean Powell","n/a","9080","8.41%"
-"Bankshares Corporation Of Niceville","Niceville","2014","James W. Powell","n/a","30497","28.27%"
-"Bankshares Corporation Of Niceville","Niceville","2014","Deborah P. Dye","n/a","30448","28.23%"
-"Bankshares Corporation Of Niceville","Niceville","2014","Michael R. Floyd","n/a","8307","7.7%"
-"Bankshares Corporation Of Niceville","Crestview","2014","Sibyl Moore","n/a","7360","6.82%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2014","Jean Powell","n/a","9080","8.41%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2014","James W. Powell","n/a","30497","28.27%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2014","Deborah P. Dye","n/a","30448","28.23%","n/a"
+"Bankshares Corporation Of Niceville","Niceville,"Florida"","2014","Michael R. Floyd","n/a","8307","7.7%","n/a"
+"Bankshares Corporation Of Niceville","Crestview,"Florida"","2014","Sibyl Moore","n/a","7360","6.82%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","President and CEO","Peoples Building Partnership","2014"
-"Bankshares Corporation Of Niceville","President Chairman","Deborah P. Dye","Chairman of the Board","Peoples Building Partnership","2014"
-"Bankshares Corporation Of Niceville","Director","Thomas J. Powell,"Jr."","n/a","Powell Agency","2014"
-"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","n/a","Peoples Building Partnership","2014"
-"Bankshares Corporation Of Niceville","Director","Cynthia M. Steiner","Exec Vice President COO","n/a","n/a","2014"
-"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","n/a","Bayou Plaza LLC","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","Peoples Building Partnership","2014","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director Secretary","James W. Powell","Partner","W.H. Powell Rentals LLC","2014","Banker","n/a"
+"Bankshares Corporation Of Niceville","President Chairman","Deborah P. Dye","Partner","Peoples Building Partnership","2014","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director","Thomas J. Powell,"Jr."","Chairman","Powell Agency","2014","Retired","n/a"
+"Bankshares Corporation Of Niceville","Director","Thomas J. Powell,"Jr."","Owner","Margaret Powell Rentals","2014","Retired","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Partner","Peoples Building Partnership","2014","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","President","Rosemont Housing Inc.","2014","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director","Michael R. Floyd","Managing Member","FEMM Enterprises LLC","2014","Real Estate Management","n/a"
+"Bankshares Corporation Of Niceville","Director","Cynthia M. Steiner","Exec Vice President","n/a","2014","Banker","n/a"
+"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","Manager","Bayou Plaza LLC","2014","Property Management","n/a"
+"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","Partner","Tech Center Partnership","2014","Property Management","n/a"
+"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","Partner","Freeport Properties. Inc.","2014","Property Management","n/a"
+"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","Partner","Peoples Building Partnership","2014","Property Management","n/a"
+"Bankshares Corporation Of Niceville","Director","W. Ferrol Spence","President","Spence-Apfel Land","2014","Property Management","n/a"
 ```

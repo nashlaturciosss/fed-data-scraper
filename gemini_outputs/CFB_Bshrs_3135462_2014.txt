@@ -1,20 +1,27 @@
-Here are the two tables extracted in valid CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CFB Bancshares,"Inc."","Oak Ridge","2014","James Wilson","Common Stock","23388","6%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CFB Bancshares,"Inc."","Oak Ridge,"TN"","2014","James Wilson","Common Stock","23388","6%","n/a"
+"CFB Bancshares,"Inc."","Wartburg,"TN"","2014","n/a","n/a","n/a","n/a","3135462"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CFB Bancshares,"Inc."","Director","Clyde Darnell","Director Citizens First Bank","Four Star Properties","2014"
-"CFB Bancshares,"Inc."","Director","David Goodman","Director Citizens First Bank","Goodman Farms","2014"
-"CFB Bancshares,"Inc."","Director","Joe Cross","Director Citizens First Bank","n/a","2014"
-"CFB Bancshares,"Inc."","Director","Vander Murray","Director Citizens First Bank","VJ's Exxon","2014"
-"CFB Bancshares,"Inc."","Director","Steve Smith","Director Citizens First Bank","Smith & Smith,"P.C."","2014"
-"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Dir. & Chair. Citizens First Bank","Wilson & Brooks,"P.C."","2014"
-"CFB Bancshares,"Inc."","Director & President","Billy Rice","Director & CEO Citizens First Bank","HLR Investors","2014"
-"CFB Bancshares,"Inc."","Director & CFO","Wendell Langley","Director Citizens First Bank","HLR Investors","2014"
-"CFB Bancshares,"Inc."","Director","Larry D Williams","Director Citizens First Bank","Tubby's Construction","2014"
-"CFB Bancshares,"Inc."","Secretary","Elizabeth Maden","Secretary CFB Financial Services","n/a","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens First Bank","Director","Clyde Darnell","Director","Four Star Properties","2014","Retired Grocer","n/a"
+"Citizens First Bank","Director","Clyde Darnell","Director","Morgan Co. Broadcasting","2014","Retired Grocer","n/a"
+"Citizens First Bank","Director","Clyde Darnell","General Partner","Greenview Farms","2014","Retired Grocer","n/a"
+"Citizens First Bank","Director","Clyde Darnell","General Partner","Darnell Rentals","2014","Retired Grocer","n/a"
+"Citizens First Bank","Director","David Goodman","Sole Proprietor","Goodman Farms","2014","Timberman/Farmer","n/a"
+"Citizens First Bank","Director","Joe Cross","n/a","n/a","2014","Pharmacist","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","VJ's Exxon","2014","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","Tobacco Town","2014","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","Sole Proprietor","Imprint Impressions","2014","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","General Partner","M4 Investments","2014","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","MCM Development LLC dba","Pizza Inn","2014","Businessman","n/a"
+"Citizens First Bank","Director","Vander Murray","Lincoln's Sports Bar & Grill","Lincoln's Sports Bar & Grill","2014","Businessman","n/a"
+"Citizens First Bank","Director","Steve Smith","Pres. & Director","Smith & Smith,"P.C."","2014","Dentist","n/a"
+"Citizens First Bank","Director & Chairman","James F. Wilson","Pres. & Chair.","Wilson & Brooks,"P.C."","2014","Attorney","n/a"
+"Citizens First Bank","Director & Chairman","James F. Wilson","Pres. & Chair.","W. Group Properties,"Inc."","2014","Attorney","n/a"
+"Citizens First Bank","Director & CEO","Billy Rice","General Partner","HLR Investors","2014","CEO Citizens First Bank","n/a"
+"Citizens First Bank","Director & CFO","Wendell Langley","General Partner","HLR Investors","2014","President & CFO Citizens First Bank","n/a"
+"Citizens First Bank","Director","Larry D Williams","Sole Proprietor","Tubby's Construction","2014","Business Owner","n/a"
+"Citizens First Bank","Secretary","Elizabeth Maden","n/a","n/a","2014","Retired VP of Citizens First Bank","n/a"
 ```

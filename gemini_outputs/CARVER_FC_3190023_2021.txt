@@ -1,14 +1,19 @@
-```text
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2021","Robert E. James","Common Stock","286,"243.7650"","48.80%"
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Lead Director","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Director","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James,"II"","Director & Executive Vice President","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","Carver State Bank","2021"
-"CARVER FINANCIAL CORPORATION","Senior Vice President","John L. Turner","Chief Operating Officer","Carver State Bank","2021"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2021","Robert E. James","Common Stock","286243.7650","48.80%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","CARVER State Bank","2021","Bank President","n/a"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Funeral Home Director & Owner","Adams Funeral Services","2021","Funeral Home Director & Owner","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","President","The Plummer-Hill Group LLC","2021","President of Business Development Group","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Cathy P. Hill","Managing Director","Golden Seeds Inc.","2021","President of Business Development Group","n/a"
+"CARVER FINANCIAL CORPORATION","Director & President","Robert E. James,"II"","Director & Executive Vice President","CARVER State Bank","2021","Consultant & Attorney & Bank Executive Vice President","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","CARVER State Bank","2021","Retired Educator & Healthcare Administrator","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Director","CARVER State Bank","2021","Senior Pastor of C.M.E. Church","n/a"
+"CARVER FINANCIAL CORPORATION","Director","Da'Henri R. Thurmond","Senior Pastor","St. Paul C.M.Ε. Church","2021","Senior Pastor of C.M.E. Church","n/a"
+"CARVER FINANCIAL CORPORATION","Senior Vice President","John L. Turner","Chief Operating Officer","JLS & Associates","2021","Bank Chief Operating Officer & Senior Vice President","n/a"
+"CARVER FINANCIAL CORPORATION","Senior Vice President","John L. Turner","Senior Vice President","CARVER State Bank","2021","Bank Chief Operating Officer & Senior Vice President","n/a"
 ```

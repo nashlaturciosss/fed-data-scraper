@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Eastman,"GA"","2018","Jolene J. Carroll","Common Stock","42216","48.42%","n/a"
+"Magnolia Bankshares,"Inc."","Eastman,"GA"","2018","John L. Jessup","Common Stock","21411","24.56%","n/a"
+"Magnolia Bankshares,"Inc."","Eastman,"GA"","2018","H.C. Ragan","Common Stock","5514","6.32%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Magnolia Bankshares,"Inc."","Director & Chairman & President/CEO","Jolene J. Carroll","Director & President/CEO","n/a","2018","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director","John L. Jessup","Director","n/a","2018","n/a","n/a"
+"Magnolia Bankshares,"Inc."","Director","Clark M. Carroll","General Partner","Clark M. Carroll,"DMD P.C."","2018","Dentist","n/a"
+"Magnolia Bankshares,"Inc."","Director","R. Larry Southerland","Finance Director","Middle Georgia Community Action Agency,"Inc."","2018","CPA","n/a"
+"Magnolia Bankshares,"Inc."","Director","William J. Carroll","Doctor","Northwestern University Medicine","2018","Medical Doctor","n/a"
+"Magnolia Bankshares,"Inc."","Director","Callen A. Carroll","Associate Attorney","James Bates Brannan & Groover,"LLP"","2018","Attorney","n/a"
+"Magnolia Bankshares,"Inc."","Director","John L. Jessup","Director & Bank of Eastman Division Regional President","n/a","2018","n/a","n/a"
+```

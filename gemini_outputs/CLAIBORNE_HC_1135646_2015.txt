@@ -1,0 +1,28 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2015","Yoakum Family,"LP"","common stock","70446","40.6%","1135644"
+"Claiborne Holding Company,"Inc."","Nashville,"TN"","2015","Stephanie B. Conner","common stock","10019","5.8%","1135644"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2015","Rob Barger","common stock","13481","7.8%","1135644"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2015","Oliver Adams","common stock","34689","20.0%","1135644"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Director & Chairman of Board","Eleanor Yoakum","Director & Chairman of Board","Yoakum Family LP","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","Director & Vice Chairman & President","Rob Barger","Director & President/C.E.O.,"Vice Chairman"","Yoakum Family LP","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Oliver Adams","n/a","n/a","2015","Attorney","1135644"
+"Claiborne Holding Company,"Inc."","Director","Carroll E. Rose,"MD"","Director","n/a","2015","Physician & Real Estate Developer","1135644"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jennifer Lovin","Secretary to the Board","n/a","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Brenda Burchfield","Senior VP Cashier of Bank","n/a","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","Director","George Day,"M.D."","Director","n/a","2015","Physician","1135644"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","Executive Vice President & Chief Financial Officer & Chief Compliance Officer","The Press Group,"LLC"","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","Executive Vice President & Chief Financial Officer & Chief Compliance Officer","Cayenne Rental Properties,"GP"","2015","n/a","1135644"
+"Claiborne Holding Company,"Inc."","Director","Lee Dan Stone III","Director","n/a","2015","Attorney-at-Law","1135644"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","Director/ Consultant","n/a","2015","Business consultant","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Howard Phillips","n/a","Powell Auction Realty,"LLC"","2015","Business owner","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Howard Phillips","n/a","Phillips Real Estate,"LLC"","2015","Business owner","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Howard Phillips","n/a","BMT Properties Partnership","2015","Business owner","1135644"
+"Claiborne Holding Company,"Inc."","n/a","Greg Garren","Director","n/a","2015","Operation Manager","1135644"
+```

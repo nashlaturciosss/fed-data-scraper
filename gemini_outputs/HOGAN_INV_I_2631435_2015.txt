@@ -1,0 +1,21 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hogan Investments I,"Inc."","Dublin,"GA"","2015","Estate of Barbara H. McLees","Common Stock","4732","47.32%","2631435"
+"Hogan Investments I,"Inc."","Macon,"GA"","2015","Estate of Betty H. Metts","Common Stock","168","1.68%","2631435"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2015","Beth M. Vaughn","Common Stock","5100","51.00%","2631435"
+"Laurens Bancshares,"Inc."","Forsyth,"GA"","2015","Hogan Investments,"LP"","Common Stock","48460","83.84%","2631435"
+"Laurens Bancshares,"Inc."","Dudley,"GA"","2015","Margie J. Chappell","Common Stock","3280","5.67%","2631435"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hogan Investments I,"Inc."","Officer/Director","William G. McLees,"Jr."","n/a","McLees,"Boggs & Selby","Inc."","2015","Architect","n/a"
+"Hogan Investments I,"Inc."","Officer/Director","William G. McLees,"Jr."","n/a","MBS Properties","2015","Architect","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","n/a","Hogan Timberlands I,"Inc."","2015","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","n/a","Country Oaks Farm & Pet Supply,"Inc."","2015","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","President/Director","Beth Vaughn","n/a","41 Feed Mill,"Inc."","2015","Chairwoman & Investment Officer (Bank of Dudley)","n/a"
+"Hogan Investments I,"Inc."","Director","Rubert H. McLees","n/a","n/a","2015","Retired","n/a"
+"Hogan Investments I,"Inc."","n/a","Estate of Barbara H. McLees","n/a","n/a","2015","None","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Greensboro,"Alabama"","2014","B.W. Coleman,"III"","n/a","1827.5","23.56%","108 6775"
+"Greensboro Bancshares,"Inc."","Greensboro,"Alabama"","2014","Jane Arrington","n/a","562.86","7.26%","108 6775"
+"Greensboro Bancshares,"Inc."","Greensboro,"Alabama"","2014","Mary Q. Holmes","n/a","1265","16.31%","108 6775"
+"Greensboro Bancshares,"Inc."","Greensboro,"Alabama"","2014","Amy L. Cooper","n/a","1265","16.31%","108 6775"
+"Greensboro Bancshares,"Inc."","Greensboro,"Alabama"","2014","Aiden W. Tozer,"Jr. and Louise L. Tozer"","n/a","562.86","7.26%","108 6775"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bank of Greensboro","Vice-Chairman","C.R. Lawson,"Jr."","General Partner","C. R. Lawson,"Jr. Family Ltd Partnership"","2014","retired","320034"
+"Peoples Bank of Greensboro","Vice-Chairman","C.R. Lawson,"Jr."","President","Lawson Catfish Farm","2014","retired","320034"
+"Peoples Bank of Greensboro","Chairman","B.W. Coleman,"III"","n/a","n/a","2014","retired","320034"
+"Peoples Bank of Greensboro","Director","J.W. Kynard,"Jr."","n/a","n/a","2014","retired","320034"
+"Peoples Bank of Greensboro","Director","Edna P. Kynard","n/a","n/a","2014","retired","320034"
+"Peoples Bank of Greensboro","Director","N.H. Cobbs,"Jr."","attorney (self-employed)","n/a","2014","attorney","320034"
+"Peoples Bank of Greensboro","Director","John F. Ferguson","n/a","n/a","2014","retired","320034"
+"Peoples Bank of Greensboro","Director","Michael W. Harrow","realtor (self-employed)","n/a","2014","realtor","320034"
+"Peoples Bank of Greensboro","Director","Harris M. Coleman,"Jr."","n/a","n/a","2014","n/a","320034"
+"Peoples Bank of Greensboro","Vice-President & Secretary","Karen Whitis","n/a","n/a","2014","n/a","320034"
+"Peoples Bank of Greensboro","Director","Mary Q. Holmes","Partner","C. R. Lawson,"Jr Family Ltd Partnership"","2014","n/a","320034"
+"Peoples Bank of Greensboro","Director","Mary Q. Holmes","Owner & VP","Lawson Catfish Farm","2014","n/a","320034"
+"Peoples Bank of Greensboro","n/a","Amy L. Cooper","Partner","C. R. Lawson,"Jr Family Ltd Partnership"","2014","n/a","320034"
+"Peoples Bank of Greensboro","n/a","Amy L. Cooper","Owner","Lawson Catfish Farm","2014","n/a","320034"
+```

@@ -1,0 +1,11 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merit Holdings LLC","CEO","Will Heaps","n/a","n/a","2022","n/a","n/a"
+"Merit Holdings LLC","CFO","Jeffrey D Brown","n/a","n/a","2022","n/a","n/a"
+```

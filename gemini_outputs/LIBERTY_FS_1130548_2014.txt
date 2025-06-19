@@ -1,0 +1,22 @@
+"Okay","here are the requested extractions in CSV format."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2014","Liberty Bank & Trust ESOP","Common Stock","33202","22.22%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2014","Dr. Norman C. Francis","Common Stock","24084","16.12%","n/a"
+"Liberty Financial Services,"Inc."","New Orleans,"LA"","2014","Alden McDonald,"Jr."","Common Stock","22056","14.76%","n/a"
+"Liberty Financial Services,"Inc."","Los Angeles,"CA"","2014","Carolyn C. Dorion","Common Stock","15664","10.48%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank & Trust","Employee Benefit Plan","Liberty Bank & Trust ESOP","n/a","n/a","2014","n/a","n/a"
+"Liberty Bank & Trust","President/CEO Director","Alden J. McDonald,"Jr."","Owner","Chart L.L.C.","2014","President of Banking Institution","n/a"
+"Liberty Bank & Trust","Director & Chairman","Norman C. Francis","President","Xavier University","2014","University Administrator","n/a"
+"Liberty Bank & Trust","Director","Carolyn C. Dorion","n/a","n/a","2014","Property Manager","n/a"
+"Liberty Bank & Trust","Director","George Dimitri","n/a","Dimitri Eye Clinic","2014","Ophthalmologist","n/a"
+"Liberty Bank & Trust","Director","Sybil H. Morial","n/a","n/a","2014","Retired University Administrator","n/a"
+"Liberty Bank & Trust","Director","Ronald V. Burns,"Sr."","President/CEO","Burns Management Group & Quick Courier Services","2014","Owner,"Courier Company"","n/a"
+"Liberty Bank & Trust","Director","Cecil Blache","n/a","n/a","2014","Attorney","n/a"
+"Liberty Bank & Trust","Director","James Smith","n/a","n/a","2014","Retired/Consultant","n/a"
+```

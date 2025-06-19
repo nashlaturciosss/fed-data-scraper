@@ -1,0 +1,32 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Intracoastal Bancorp Inc.","Flagler Beach,"FL"","2019","Bruce Page","Common Stock","100142","6.53%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Intracoastal Bancorp Inc.","President/CEO","Bruce Page","CEO/President","Intracoastal Bank","2019","n/a","n/a"
+"Intracoastal Bancorp Inc.","Director","C. Scott Crews","Director","n/a","2019","Retired","n/a"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Director","Tom Gibbs Chevrolet","2019","Owns Car dealership","n/a"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Owner","Tom Gibbs Chevrolet","2019","Owns Car dealership","n/a"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Director","TLG,"LLC"","2019","Owns Car dealership","n/a"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Director","Kings Point Developrs LLC","2019","Owns Car dealership","n/a"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Director","Flagler Pioneer Investments LLC","2019","Owns Car dealership","n/a"
+"Intracoastal Bancorp Inc.","Director","Mike Machin","Director","M Machin Construction","2019","Home Builder","n/a"
+"Intracoastal Bancorp Inc.","Director","Mike Machin","Director","MCILA","2019","Home Builder","n/a"
+"Intracoastal Bancorp Inc.","Director","Albert Johnston","Director","Johnston Bros Farms","2019","Farmer","n/a"
+"Intracoastal Bancorp Inc.","Director","Gerald Keyes","Partner","KSW Wealth Management LLC","2019","CPA","n/a"
+"Intracoastal Bancorp Inc.","Director","Pamela Carbiener","Partner","Schwenker & Stavoy PA","2019","Doctor","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","President","Jobalia Consulting Group,"Inc"","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","HLPC,"LLC"","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Padmavati One","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Padmavti Two","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing member","Padmavti Three","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","EFL I","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","EFL II","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Wolfcamp Lodge","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Shale Lodge Odessa","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Amelia Hospitality","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing member","JP Fox Creek LLC","2019","Developer","n/a"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing member","Amaya of Volusia LLC","2019","Developer","n/a"
+```

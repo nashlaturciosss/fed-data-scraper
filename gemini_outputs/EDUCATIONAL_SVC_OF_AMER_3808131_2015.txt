@@ -1,0 +1,21 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Educational Services of America,"Inc."","Knoxville,"TN"","2015","n/a","n/a","n/a","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2015","Educational Services of America,"Inc."","n/a","n/a","100%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthEast Bancorp,"Inc."","Director/Chairman/President;Director/Chairman","John E. Arnold,"Jr"","n/a","n/a","2015","n/a","3110197"
+"SouthEast Bancorp,"Inc."","Director/Secretary/Vice President;Director/Secretary/CEO","William T. Thompson","n/a","n/a","2015","CFO/EVP","3110197"
+"SouthEast Bancorp,"Inc."","Director","Tommy Schumpert","n/a","n/a","2015","Director of SouthEast Scholar Program","3110197"
+"SouthEast Bancorp,"Inc."","Independent Director","Leo Cooper","n/a","n/a","2015","Retired","3110197"
+"SouthEast Bancorp,"Inc."","Independent Director","Dwight Kessel","n/a","n/a","2015","Retired","3110197"
+"SouthEast Bancorp,"Inc."","Independent Director","John Griess","Realtor","Holrob Commercial Realtors,"Inc."","2015","Realtor Holrob Commercial Realtors,"Inc."","3110197"
+"SouthEast Bancorp,"Inc."","Independent Director","Robert Rosenaum","President/CEO Emeritus","Goodwill Industries","2015","President/CEO Emeritus- Goodwill Industries","3110197"
+"SouthEast Bancorp,"Inc."","Independent Director","Jeffrey S. Smith","President/Founder","Omnicap Group,"LLC"","2015","President/Founder- Omnicap Group,"LLC"","3110197"
+"Educational Services of America,"Inc."","CEO/President;Director/Chairman","John E. Arnold,"Jr"","n/a","n/a","2015","n/a","n/a"
+"Educational Services of America,"Inc."","CFO/EVP;Director/Secretary/VP","William T. Thompson","n/a","n/a","2015","n/a","n/a"
+"Educational Services of America,"Inc."","Chief Operations Officer","Eric Stewart","n/a","n/a","2015","n/a","n/a"
+"Educational Services of America,"Inc."","Chief Information Officer","Jeff Gibbs","Chief Information Officer","SouthEast Bank","2015","n/a","n/a"
+"Educational Services of America,"Inc."","Chief Compliance Officer/Chief Risk Manager","T. Wayne Hood","Chief Compliance Officer","SouthEast Bank","2015","n/a","n/a"
+```

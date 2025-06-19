@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc"","Franklin,"LA"","2017","William S. Patout,"III Estate"","Common Stock","1478","12.11%","n/a"
+"Jeanerette First National Bancorp,"Inc"","McKinney,"TX"","2017","Patricia Wentrcek","Common Stock","791","6.48%","n/a"
+"Jeanerette First National Bancorp,"Inc"","Jeanerette,"LA"","2017","Elton J. Beaullieu,"Jr."","Common Stock","928","7.60%","n/a"
+"Jeanerette First National Bancorp,"Inc"","New Iberia,"LA"","2017","Venetia M Patout","Common Stock","1028","8.42%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc"","President & Chairment of Board","Elton J. Beaullieu,"Jr."","Director","n/a","2017","Retired","n/a"
+"Jeanerette First National Bancorp,"Inc"","Vice Chairman & Treasurer","Gerard Eldridge","Sr. Vice President,"Director"","n/a","2017","Banker","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Cameron Simmons","Director","City of Jeanerette","2017","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Cameron Simmons","Director","Chitimacha Tribe Judge","2017","Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Erro! J. Delahoussaye","Director","New York Life Agent","2017","Insurance & Securites","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Samuel B. Bourgeois","Director","Insurance Salesman","2017","CML Insurance","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Bret Bishop","Director","Lumber Wholesale","2017","President Lumber Company","n/a"
+"Jeanerette First National Bancorp,"Inc"","Secretary","Damon Migues","Director","n/a","2017","CEO/FNB Jeanerette","n/a"
+"Jeanerette First National Bancorp,"Inc"","Director","Martin ""Bo"" Duhe","Director","16th Judicial District","2017","District Attorney","n/a"
+"Jeanerette First National Bancorp,"Inc"","n/a","William S Patout III Estate","n/a","n/a","2017","N/A","n/a"
+```

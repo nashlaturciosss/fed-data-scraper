@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2022","Michael Officer","n/a","16158","34.04%","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2022","Gale Copeland","n/a","16158","34.04%","n/a"
+"ESOP Trust of People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2022","Bruce Elder","n/a","16158","34.04%","n/a"
+"Upper Cumberland Bancshares,"Inc."","Crossville,"TN"","2022","James Cecil Mullins","n/a","n/a","5.14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Upper Cumberland Bancshares,"Inc."","CEO","Bruce E. Elder","Trustee","n/a","2022","Banker","n/a"
+"Upper Cumberland Bancshares,"Inc."","Pres/COO/CFO/Cshr/Director/Sec","Michael D. Officer","Trustee","n/a","2022","Banker","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Joseph Amonett","n/a","n/a","2022","Insurance","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Stephen Bilbrey","n/a","n/a","2022","Self","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Gale Copeland","Trustee","n/a","2022","Retired","n/a"
+"Upper Cumberland Bancshares,"Inc."","Chairman","John Keisling","n/a","n/a","2022","Insurance","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Larry T. Conner","n/a","n/a","2022","Retired","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","David Reeves","n/a","n/a","2022","Concrete plant","n/a"
+"Upper Cumberland Bancshares,"Inc."","Director","Terry White","n/a","n/a","2022","Pipe Supply","n/a"
+"Upper Cumberland Bancshares,"Inc."","SVP","Jeremy Howard","n/a","n/a","2022","Banker","n/a"
+"Upper Cumberland Bancshares,"Inc."","SVP","Bryan Elder","n/a","n/a","2022","Banker","n/a"
+```

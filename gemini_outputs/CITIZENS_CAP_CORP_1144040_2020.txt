@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Capital Corporation","Robertsdale,"Alabama"","2020","Linda W. Gulledge","Common Stock","17814","19.81%","n/a"
+"Citizens Capital Corporation","Foley,"Alabama"","2020","Robert I. Gulledge","Common Stock","16739","18.14%","n/a"
+"Citizens Capital Corporation","Mobile,"Alabama"","2020","Robert I. Gulledge,"II"","Common Stock","7654","8.30%","n/a"
+"Citizens Capital Corporation","Fairhope,"Alabama"","2020","Thomas W. Gulledge","Common Stock","8174","8.86%","n/a"
+"Citizens Capital Corporation","Foley,"Alabama"","2020","John A. Nelson,"II"","Common Stock","5000","5.42%","n/a"
+"Citizens Capital Corporation","Fairhope,"Alabama"","2020","Beverly J. Potter","Common Stock","5629","6.10%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens' Capital Corporation","None","Robert I. Gulledge","None","n/a","2020","None","n/a"
+"Citizens' Capital Corporation","Director","Paul E. Hollingsworth","Director","n/a","2020","Retired Educator","n/a"
+"Citizens' Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","Citizens' Bank","2020","Law Enforcement","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Citizens' Bank","2020","Minister","n/a"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secour Fisheries","2020","Seafood Processing","n/a"
+"Citizens' Capital Corporation","Director","Linda W. Gulledge","None","Citizens' Bank","2020","Retired Educator","n/a"
+"Citizens' Capital Corporation","None","Robert E. Wilters","Attorney","Citizens' Bank","2020","Attorney","n/a"
+"Citizens' Capital Corporation","Secretary & Treasurer,"Chief Lending Officer"","Ryan Gerstenschlager","None","n/a","2020","Banker","n/a"
+"Citizens' Capital Corporation","Vice President","Joy Bishop","Chief Operations Officer","n/a","2020","Banker","n/a"
+"Citizens' Capital Corporation","Director and Chairman","Thomas W. Gulledge","President and Director","n/a","2020","Banker","n/a"
+```

@@ -1,0 +1,35 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2015","Katherine P. Kelly","voting common stock","3771.25","0.00","1081314"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2015","Custodian For Harper Lee Kelly","voting common stock","489.00","0.00","1081314"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2015","Total Shares","voting common stock","4260.25","0.00","1081314"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2015","G. Ogden Persons,"III"","voting common stock","6867.75","0.00","1081314"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2015","Custodian For Mary K. Persons","voting common stock","489.00","0.00","1081314"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2015","Total Shares","voting common stock","7356.75","0.00","1081314"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2015","James G. Persons","voting common stock","3922.25","0.00","1081314"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2015","Custodian For James G. Persons,"Jr."","voting common stock","489.00","0.00","1081314"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2015","Custodian For Ropert P. Persons","voting common stock","489.00","0.00","1081314"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2015","Custodian For Jackson T. Persons","voting common stock","489.00","0.00","1081314"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2015","Total Shares","voting common stock","5389.25","0.00","1081314"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2015","Persons Family Trust","voting common stock","16397.00","100.00","1081314"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2015","Persons Family Trust","non-voting common stock","3418.00","100.00","1081314"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Persons Banking Co.,"Inc."","Executive Vice President & CFO","Douglas R. Harper","n/a","n/a","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Secretary & Treasurer","Douglas R. Harper","n/a","n/a","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","RO Inc.","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Member","OJK LLC","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Director","G. Ogden Persons,"II"","n/a","n/a","2015","Retired; personal investments","1081314"
+"Persons Banking Co.,"Inc."","Chairman","G. Ogden Persons,"III"","Director & CEO","RO Inc.","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","President & CEO","G. Ogden Persons,"III"","Member","OJK LLC","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Director","G. Ogden Persons,"III"","Director & CEO","RO Inc.","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Chairman","G. Ogden Persons,"III"","Member","OJK LLC","2015","n/a","1081314"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","President","Persons Properties,"Inc."","2015","Residential & commercial construction","1081314"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","RO Inc.","2015","Residential & commercial construction","1081314"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Member","OJK LLC","2015","Residential & commercial construction","1081314"
+"Persons Banking Co.,"Inc."","n/a","Persons Family Trust","Principal shareholder","RO Inc.","2015","n/a","1081314"
+```

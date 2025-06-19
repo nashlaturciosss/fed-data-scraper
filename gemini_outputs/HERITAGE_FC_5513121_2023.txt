@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage Financial Corporation","Columbia,"TN"","2023","E. Kent Pardon,"DVM"","n/a","122893","6.45%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage Financial Corporation","Chairman","E. Kent Pardon,"DVM"","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Board of Directors","E. Kent Pardon,"DVM"","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Board of Directors","Larry Johns","Owner","Middle TN Property Management,"LLC"","2023","Construction","3429219"
+"Heritage Financial Corporation","Board of Directors","Larry Johns","Owner","JBA Investments,"LLC"","2023","Construction","3429219"
+"Heritage Financial Corporation","Board of Directors","Jenny Adcox","Member","1770,"LLC Partnership"","2023","Commercial Real Estate Agent","3429219"
+"Heritage Financial Corporation","Secretary","Jenny Adcox","Member","1770,"LLC Partnership"","2023","Commercial Real Estate Agent","3429219"
+"Heritage Financial Corporation","President & CEO","James B. Robinson","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Board of Directors","James B. Robinson","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Board of Directors","Berrie Coble","Owner","Bloom Financial Planning,"LLC"","2023","Financial Advisor","3429219"
+"Heritage Financial Corporation","Board of Directors","Trent Ogilvie","CEO","Advent Community Development Corporation","2023","Property Management/Redevelopment","3429219"
+"Heritage Financial Corporation","Board of Directors","Trent Ogilvie","CEO","Onpoint Enterprises,"LLC"","2023","Property Management/Redevelopment","3429219"
+"Heritage Financial Corporation","Executive Vice President","Brent Wheeley","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Chief Operations Officer","Brent Wheeley","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Executive Vice President","Craig Harris","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Chief Lending Officer","Craig Harris","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Executive Vice President","Shelli Golden","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Chief Risk Officer","Shelli Golden","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Senior Vice President","Jacob Love","n/a","n/a","2023","n/a","3429219"
+"Heritage Financial Corporation","Chief Financial Officer","Jacob Love","n/a","n/a","2023","n/a","3429219"
+```

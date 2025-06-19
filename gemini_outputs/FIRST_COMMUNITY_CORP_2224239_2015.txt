@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"TN"","2015","Sidney K. Lawson","n/a","99400","6.10%","2224239"
+"First Community Corporation","Rogersville,"TN"","2015","Sidney K. Lawson","n/a","99400","6.02%","2224239"
+"First Community Corporation","Rogersville,"Tennessee"","2015","Tommy W. Young","n/a","93298","5.72%","2224239"
+"First Community Corporation","Rogersville,"Tennessee"","2015","Tommy W. Young","n/a","93298","5.65%","2224239"
+"First Community Corporation","Nashville,"TN"","2015","John Spence Spence Limited,"LP Spence Limited II","LP"","n/a","163080","9.9999%","2224239"
+"First Community Corporation","Nashville,"TN"","2015","John Spence Spence Limited,"LP Spence Limited II","LP"","n/a","163080","9.87877%","2224239"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Bank","President","Tyler K. Clinch","Chairman","Katharine Square Partnership","2015","Owner","2037185"
+"First Community Bank","Director","Tyler K. Clinch","Director","Katharine Square Partnership","2015","Owner","2037185"
+"First Community Bank","Director","Dr. David R. Johnson","Director","Kingsport Veterinary Hospital","2015","Veterinarian","2037185"
+"First Community Bank","Director","Sidney K. Lawson","Director","Lawson Construction-President","2015","Owner","2037185"
+"First Community Bank","Director","Tommy W. Young","Director","Retired","2015","Retired","2037185"
+"First Community Bank","Chairman/Secretary","Tommy W. Young","Secretary","Retired","2015","Retired","2037185"
+"First Community Bank","Director","A. Max Richardson","Director","Richardson & Richardson","2015","President/Owner","2037185"
+"First Community Bank","Director","Steve L. Droke","EVP and Director","n/a","2015","n/a","2037185"
+"First Community Bank","Director","David L. Lunceford","Director","Retired","2015","Retired","2037185"
+"First Community Bank","Treasurer","James Maddox","VP and CFO","n/a","2015","n/a","2037185"
+```

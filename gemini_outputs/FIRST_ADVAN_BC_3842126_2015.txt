@@ -1,0 +1,26 @@
+"Here are the two CSV tables extracted from the provided document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Advantage Bancorp","Tampa,"FL"","2015","The Burton Partnership","Common Stock","195200","5.04%","n/a"
+"First Advantage Bancorp","Salt Lake City,"UT"","2015","M3 Partners,"LP"","Common Stock","287992","7.43%","n/a"
+"First Advantage Bancorp","Clarksville,"TN"","2015","First Advantage Bank ESOP Plan","Common Stock","357559","9.23%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Advantage Bancorp","CEO/Director","Earl O. Bradley,"III"","CEO","n/a","2015","n/a","62772"
+"First Advantage Bancorp","President/Director","John T. Halliburton","President","n/a","2015","n/a","62772"
+"First Advantage Bancorp","Executive Vice President","Jon R. Clouser","n/a","Tennessee Real Estate Group LLC","2015","n/a","62772"
+"First Advantage Bancorp","Executive Vice President","Jon R. Clouser","n/a","Titsworth Slough Hunt Club,"KY Partnership"","2015","n/a","62772"
+"First Advantage Bancorp","n/a","Cindy D. Smith-Rudy","n/a","n/a","2015","n/a","62772"
+"First Advantage Bancorp","CFO/Corporate Secretary","Gerald L. Cooksey,"Jr."","Chief Financial Officer","n/a","2015","n/a","62772"
+"First Advantage Bancorp","Chairman of the Board","William Lawson Mabry","Chairman of the Board","n/a","2015","Real Estate Developer","62772"
+"First Advantage Bancorp","Chairman of the Board","William Lawson Mabry","Chairman of the Board","WL Mabry RE Management LLC","2015","Real Estate Developer","62772"
+"First Advantage Bancorp","Director","William G. Beach","n/a","Beach Oil Co.","2015","Business Owner - Oil Sales","62772"
+"First Advantage Bancorp","Director","Robert E. Durrett,"III"","Owner","Durrett Construction","2015","Real Estate/Land Developer","62772"
+"First Advantage Bancorp","Director","Vernon M. Carrigan","n/a","Premier Medical Group","2015","Medical Doctor","62772"
+"First Advantage Bancorp","Director","William H. Orgain","President","Orgain Building Supply","2015","Business Owner - Building Supplies","62772"
+"First Advantage Bancorp","Director","David L. Watson","n/a","n/a","2015","Retired","62772"
+"First Advantage Bancorp","Director","Michael E. Wallace","CPA","Thurman Campbell CPAS","2015","CPA,"CVA","PFS","MAC"","62772"
+```

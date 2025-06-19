@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Louisiana Community Bancshares","DeRidd,"LA"","2014","Randolph D Hayes or Dorothy M Hayes","Common Stock","130052","5.90%","n/a"
+"Louisiana Community Bancshares","Kaplan,"LA"","2014","Vernon Johnson","Common Stock","120422","5.47%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Louisiana Community Bancshares","Director Kaplan State Bank","O. H. Deshotels,"III"","Attorney","Deshotels and Deshotels","2014","Attorney","n/a"
+"Louisiana Community Bancshares","Chairman Kaplan State Bank","J. Vernon Johnson","n/a","n/a","2014","Banker","n/a"
+"Louisiana Community Bancshares","Director Kaplan State Bank","Charles B. Trahan","n/a","n/a","2014","Investor","n/a"
+"Louisiana Community Bancshares","Director Teche Bank and Trust","James B. Bulliard Sr.","President & Director","Cajun Chef Products,"Inc."","2014","Wholesale Distributor","n/a"
+"Louisiana Community Bancshares","Director Teche Bank and Trust","Alcee J. Durand Jr.","President","Durand Cattle Co. Inc.","2014","Cattle","n/a"
+"Louisiana Community Bancshares","CEO City Savings Bank","Glen D. Bertrand","n/a","Ray's Laundry & Cleaning LLC","2014","Banker","n/a"
+"Louisiana Community Bancshares","CEO Kaplan State Bank","Glen D. Bertrand","n/a","Ray's Laundry & Cleaning LLC","2014","Banker","n/a"
+"Louisiana Community Bancshares","CEO Teche Bank and Trust Co.","Glen D. Bertrand","n/a","Ray's Laundry & Cleaning LLC","2014","Banker","n/a"
+"Louisiana Community Bancshares","Chairman City Savings Bank","Gerald M. Johnson Jr.","n/a","n/a","2014","Secretary","n/a"
+"Louisiana Community Bancshares","Director City Savings Bank","Ricky Day","Owner","Ricky Day Trucking","2014","Ricky Day Trucking","n/a"
+"Louisiana Community Bancshares","Director City Savings Bank","David J. Brown","David J. Brown,"MD FACS"","David J. Brown,"MD FACS"","2014","David Brown,"MD"","n/a"
+```

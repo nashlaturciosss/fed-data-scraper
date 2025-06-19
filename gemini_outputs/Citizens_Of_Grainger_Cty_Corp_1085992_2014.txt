@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","Shirley Properties Limited Liability Co.","Common Stock","4400","6.38%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","The Estate of Wayne Shirley","Common Stock","12399","17.97%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","Betty A. Shirley","Common Stock","9255","13.42%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","Mary Grace Shirley JTC Betty A Shirley","Common Stock","180",".26%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","Mary Grace Shirley and Betty A Shirley","Common Stock","365",".53%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","George Patrick Shirley","Common Stock","4261","6.18%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2014","George Shirley and Natalie Shirley","Common Stock","25",".04%","1085992"
+"Citizens of Grainger County Corporation","Knoxville,"TN"","2014","Mary Grace Shirley","Common Stock","3460","5.02%","1085992"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens of Grainger County Corporation","Director","Greg Corum","n/a","Blaine IGA","2014","Manager Meat Dept","n/a"
+"Citizens of Grainger County Corporation","Director","Ronald E. Davis","n/a","n/a","2014","Retired Banker","n/a"
+"Citizens of Grainger County Corporation","Director","J. Frank Godwin","n/a","G&M Farms","2014","Farmer","n/a"
+"Citizens of Grainger County Corporation","Director","J. Albert Hodges","n/a","n/a","2014","Retired","n/a"
+"Citizens of Grainger County Corporation","Director","Terry Johnson","VP","Grainger Doors","2014","Cabinet Mfg Jabo's Allwood Products","n/a"
+"Citizens of Grainger County Corporation","Director & President","George P. Shirley","n/a","n/a","2014","n/a","n/a"
+"Citizens of Grainger County Corporation","n/a","Estate of Wayne Shirley*","Principal Shareholder","n/a","2014","n/a","n/a"
+"Citizens of Grainger County Corporation","Director","Margaret A. Stapleton","n/a","n/a","2014","Retired Merchant Farmer","n/a"
+"Citizens of Grainger County Corporation","Secretary","Mary Jane Dalton","E'VP","n/a","2014","n/a","n/a"
+"Citizens of Grainger County Corporation","n/a","Betty Shirley**","n/a","n/a","2014","n/a","n/a"
+"Citizens of Grainger County Corporation","n/a","Mary Grace Shirley***","n/a","n/a","2014","n/a","n/a"
+```

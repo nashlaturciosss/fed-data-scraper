@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Franklin,"LA"","2015","William S. Patout,"III"","n/a","1478","12.10%","n/a"
+"Jeanerette First National Bancorp,"Inc."","McKinney,"TX"","2015","Patricia Wentrcek","n/a","791","6.47%","n/a"
+"Jeanerette First National Bancorp,"Inc."","Jeanerette,"LA"","2015","Elton J. Beaullieu,"Jr."","n/a","928","7.60%","n/a"
+"Jeanerette First National Bancorp,"Inc."","New Iberia,"LA"","2015","Venetia M Patout","n/a","1028","8.41%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp,"Inc."","Vice Chairman & Treasurer","William S. Patout,"III"","Director","M. A. Patout & Son","2015","Investor & Rental Property","622037"
+"Jeanerette First National Bancorp,"Inc."","Vice Chairman & Treasurer","William S. Patout,"III"","Director","Patout Brothers","2015","Investor & Rental Property","622037"
+"Jeanerette First National Bancorp,"Inc."","Vice Chairman & Treasurer","William S. Patout,"III"","Director","William S. Patout","2015","Investor & Rental Property","622037"
+"Jeanerette First National Bancorp,"Inc."","President & Chairman of the Board","Elton J. Beaullieu,"Jr."","Director","Rosedale Subdivision","2015","Retired","622037"
+"Jeanerette First National Bancorp,"Inc."","Secretary Exec. Vice President","Gerard Eldridge","Sr. Vice-President & Director","n/a","2015","Banker","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Director","City of Jeanerette & Chitimacha Tribe","2015","Attorney","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Cameron Simmons","Director","n/a","2015","Attorney","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","New York Life Agent","2015","Insurance and Securities","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Errol J. Delahoussaye","Director","Total Control Solutions,"Inc."","2015","Insurance and Securities","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Insurance Salesman","2015","CML Insurance","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Linden Real Estate","2015","CML Insurance","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Bee's Real Estate","2015","CML Insurance","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Samuel B. Bourgeois","Director","Deserta Real Estate","2015","CML Insurance","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Bret Bishop","Director","Lumber Wholesale","2015","President Lumber Company","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Bret Bishop","Director","Chaney Lumber Co","2015","President Lumber Company","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Damon Migues","Director","n/a","2015","CEO/FNB of Jeanerette","622037"
+"Jeanerette First National Bancorp,"Inc."","Director","Martin ""Bo"" Duhe","Director","16th Judicial District","2015","District Attorney","622037"
+```

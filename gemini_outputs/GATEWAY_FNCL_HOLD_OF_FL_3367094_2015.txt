@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"","Chairman","Philip T. Fleuchaus","n/a","None","2015","Retired Oral Surgeon","3324099"
+"","Director","Timothy Phillips","Owner","P & S Paving","2015","P & S Paving","n/a","3324099"
+"","Director","Charles S. Lichtigman","Chairman/Owner","Charles Wayne Properties","2015","Real Estate Investor/Manager","3324099"
+"","Vice Chairman","Sanford Miller","Managing Partner","Basin Street Partners","2015","Investor","3324099"
+"","Director","Robert Dale","n/a","Purvis,"Gray and Company","CPA's"","2015","CPA Partner","3324099"
+"","Director","Tom D. Ingram","Managing Partner","441 Land Trust","2015","Bank Executive Officer CEO","3324099"
+"","Director/Executive Officer","David K. Maholias","n/a","None","2015","Bank Executive Officer President","3324099"
+"","Executive Officer","Tucker A. Longabach","n/a","None","2015","Bank Executive Officer EVP,"CFO & COO"","3324099"
+"","Director/Executive Officer","Shaun P. Merriman","n/a","None","2015","Bank Executive Officer CEO","3324099"
+"","Director","Charles Bartlett","Attorney & Partner","Icard,"Merrill","Cullis","Timm","Furen & Ginsburg","P.A."","2015","Senior Partner","3324099"
+"","Director","Charles Bartlett","Co-Manager/Partner","CBF of Venice LLC","2015","Senior Partner","3324099"
+"","Director","Charles Bartlett","Owner","CBF,"LLC c/o Icard","Merrill Et Al"","2015","Senior Partner","3324099"
+"","Director","Charles Bartlett","Co-Manager/Partner","Creekwood Hotel Investors,"LLC"","2015","Senior Partner","3324099"
+"","Executive Officer","Richard A. Hicks","n/a","None","2015","Bank Executive Officer EVP,"CFO & COO"","3324099"
+```

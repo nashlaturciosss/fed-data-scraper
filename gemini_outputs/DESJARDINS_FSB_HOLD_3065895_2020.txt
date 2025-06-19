@@ -1,0 +1,15 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","n/a","2020","Fédération Des Caisses Desjardins du Québec","Common Stock","750","100%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Desjardins FSB Holdings,"Inc."","n/a","Fédération des caisses Desjardins du Québec","n/a","n/a","2020","Sole shareholder","n/a"
+"Desjardins FSB Holdings,"Inc."","Director\nChair of the Board & Chief\nExecutive Officer","Cormier,"Guy"","Officer and director of some of the\nsubsidiaries of the Fédération des\ncaisses Desjardins du Québec","Fédération des caisses Desjardins du Québec","2020","President and Chief Executive\nOfficer,"Desjardins Group","Fédération\ndes caisses Desjardins du Québec"","n/a"
+"Desjardins FSB Holdings,"Inc."","Director\nVice-Chairman of the Board","Rousseau,"Serge"","Director and Vice-Chairman of the Board,"\nFédération des caisses Desjardins du Québec\nand some of its subsidiaries"","Fédération des caisses Desjardins du Québec","2020","General Manager - Early Childhood\nCentre Parc-en-ciel","n/a"
+"Desjardins FSB Holdings,"Inc."","Director\nSecretary of the Board","Tourangeau,"Michel"","Director and Secretary of the Board,"\nFédération des caisses Desjardins du Québec\nand some of its subsidiaries"","Fédération des caisses Desjardins du Québec","2020","Lawyer","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Chevalier,"Carole"","Director,"Fédération des caisses Desjardins du\nQuébec and some of its subsidiaries"","Fédération des caisses Desjardins du Québec","2020","Retired","n/a"
+"Desjardins FSB Holdings,"Inc."","Director","Hawthorn,"Neil Norman"","Director,"Fédération des caisses Desjardins du\nQuébec and some of its subsidiaries"","Fédération des caisses Desjardins du Québec","2020","General Manager,"Caisse Desjardins de\nSaint-Eustache-Deux-Montagnes"","n/a"
+```

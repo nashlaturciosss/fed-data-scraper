@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2018","L. Thomas Austin","n/a","4134","27.89%","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2018","Flavius A. Barker","n/a","2126","14.34%","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2018","H. Glenn Barker","n/a","3044","20.54%","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2018","John V. Barker","n/a","2352","15.87%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","Director & Secretary","L. Thomas Austin","Attorney-At-Law","Austin,"Davis","& Mitchell"","2018","Attorney","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Director & Secretary","L. Thomas Austin","Attorney-At-Law","Ewton Funeral Home","2018","Attorney","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Director & Vice President","Flavius A. Barker","Partner","Sequatchie Associates,"Inc."","2018","Retired","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Chairman & Director","H. Glenn Barker","Partner","Sequatchie Associates,"Inc."","2018","n/a","n/a"
+"Sequatchie Valley Bancshares,"Inc."","President","John V. Barker","Treasurer","Sequatchie Associates,"Inc."","2018","n/a","n/a"
+"Sequatchie Valley Bancshares,"Inc."","President","John V. Barker","Director","The Plateau Group","2018","n/a","n/a"
+"Sequatchie Valley Bancshares,"Inc."","President","John V. Barker","Director","Financial Products & Services,"Inc."","2018","n/a","n/a"
+```

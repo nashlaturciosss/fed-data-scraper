@@ -1,0 +1,43 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Shelbyville,"Tennessee"","2014","n/a","n/a","n/a","n/a","2016340"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC."","Director","J. T. Darnell","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","J. T. Darnell","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","J. C. Gordon","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director-First Community Bank","J. C. Gordon","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Mortgage Co. Inc.","J. C. Gordon","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","David E. McGee","Owner","McGee's Prescription Shop","2013","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","David E. McGee","Owner","D and E Alarm","2013","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","David E. McGee","Owner","Tullahoma Drugs","2013","Pharmacist","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Andrew C. Rambo","Owner","Andrew C. Rambo,"P. C."","2013","Attorney","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","Andrew C. Rambo","Owner","Andrew C. Rambo,"P. C."","2013","Attorney","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","CEO / Secretary / Director","Donna M. Stone","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Chairman/Director-First Community Bank","Donna M. Stone","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Mortgage Co. Inc","Donna M. Stone","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","President/Director - Community Select,"Inc."","Donna M. Stone","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Garrett Winnette","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","Garrett Winnette","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","W. Buford Jennings","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","W. Buford Jennings","n/a","n/a","2013","Retired","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","President/Director","Scott Cocanougher","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","CEO - First Community Bank","Scott Cocanougher","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","Scott Cocanougher","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Mortgage Co. Inc","Scott Cocanougher","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","William T. Clifford","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","President - First Community Bank","William T. Clifford","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","William T. Clifford","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Mortgage. Inc.","William T. Clifford","n/a","n/a","2013","Banker","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Barry D. Cooper","CFO of Cooper Steel Fabricator,"Inc."","Cooper Properties","2013","Steel Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director - First Community Bank","Barry D. Cooper","1½ owner of Cooper Properties","Cooper Properties","2013","Steel Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","President","Lee Adcock Construction Co.,"Inc."","2013","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director-First Community Bank","Thurman Lee Adcock","Chief Manager","ARD Properties","2013","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Chief Manager","Adcock Design Build and Lease LLC","2013","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director-First Community Bank","Thurman Lee Adcock","1/3 owner of ARD Properties","Adcock Design Build and Lease LLC","2013","Contractor","n/a"
+"FIRST COMMUNITY BANCORP,"INC."","Director","Thurman Lee Adcock","Part Owner of Popular Hill LLC","Adcock Design Build and Lease LLC","2013","Contractor","n/a"
+```

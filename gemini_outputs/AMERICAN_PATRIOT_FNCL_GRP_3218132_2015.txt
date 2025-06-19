@@ -1,14 +1,13 @@
-Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Patriot Financial Group,"Inc."","Greeneville","2015","William Smead","Common Stock","135166","5.66%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Patriot Financial Group,"Inc."","Greeneville,"TN"","2015","William Smead","common stock","135166","5.66%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Patriot Financial Group,"Inc."","Director Chairman","Wendy Warner","Director Chairman","Warner Realty","2015"
-"American Patriot Financial Group,"Inc."","Director","William Smead","Director","Greeneville Aviation","2015"
-"American Patriot Financial Group,"Inc."","n/a","Melissa Cobble","CFO and Executive Vice President Secretary","American Patriot Bank","2015"
-"American Patriot Financial Group,"Inc."","Director,"CEO and President"","James Randal Hall","Director,"CEO and President"","American Patriot Bank","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Patriot Financial Group,"Inc."","Director Chairman","Wendy Warner","Owner","Warner Realty","2015","Realtor","n/a"
+"American Patriot Financial Group,"Inc."","Director","William Smead","President","Greeneville Aviation","2015","Physician","n/a"
+"American Patriot Financial Group,"Inc."","CFO and Executive Vice President,"Secretary"","Melissa Cobble","n/a","n/a","2015","N/A","n/a"
+"American Patriot Financial Group,"Inc."","Director,"CEO and President"","James Randal Hall","n/a","n/a","2015","N/A","n/a"
 ```

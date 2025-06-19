@@ -1,0 +1,22 @@
+"Here are the two requested CSV tables","extracted from the provided document:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Suncoast Trust Bancshares,"Inc."","Orange Beach,"AL"","2017","Lisa A. Swift","n/a","2564.895","9.52%","n/a"
+"First Suncoast Trust Bancshares,"Inc."","Atmore,"AL"","2017","G. R. Swift,"III"","n/a","1814.65","6.73%","n/a"
+"First Suncoast Trust Bancshares,"Inc."","Pittsburgh,"PA"","2017","Linda J. Silver","n/a","1418.85","5.26%","n/a"
+"First Suncoast Trust Bancshares,"Inc."","Pittsburgh,"PA"","2017","Leonidas Jones","n/a","1418.85","5.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","Robert W. Faircloth","Sec./Treasurer","R & R Restaurant","2017","Restaurant Owner/Mgr.","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","Lisa A. Swift","n/a","n/a","2017","Homemaker","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","Robert Hendrix","President","Hendrix Tractor","2017","Agriculture","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","James R. Jones","President & CEO","Escambia County Bank","2017","Banker","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","Glen F. Davis","President & CEO","First National Bank & Trust","2017","Banker","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Board Chairman","Thomas G. Moore,"DVM"","Owner","Atmore Animal Hospital","2017","Veterinarian","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","H. William Wasden","Partner","Burr & Foreman,"LLP"","2017","Attorney","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","James W. Johnson","Owner","Johnson Ford","2017","Car Dealership","670430"
+"FIRST SUNCOAST TRUST BANCSHARES,"INC."","Director","D. Shapard Marks IV","Sales","Swift Lumber Co.","2017","Agriculture","670430"
+```

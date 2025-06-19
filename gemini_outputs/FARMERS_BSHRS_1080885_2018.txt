@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2018","Kenneth S. Dowling","n/a","38.6369","17.23%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2018","Estate of W.E. Dowling Family Trust – FBO Kenneth S. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","33.3015","14.85%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2018","Robert E. Dowling - Family Trust","n/a","28.5204","12.72%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2018","Estate of W.E. Dowling Family Trust – FBO Robert E. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","27.0000","12.04%","n/a"
+"FARMERS BANCSHARES,"INC."","Dublin,"GA"","2018","Edward E. Morris","n/a","13.9988","6.24%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","President & Director","Edward E. Morris","n/a","Security State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","President & Director","Edward E. Morris","n/a","Farmers State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Earl Merritt","n/a","Security State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Brett Bowden","n/a","Farmers State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Kent Dowling","n/a","Security State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Kent Dowling","n/a","Farmers State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","n/a","Security State Bank","2018","n/a","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","n/a","Farmers State Bank","2018","n/a","n/a"
+```

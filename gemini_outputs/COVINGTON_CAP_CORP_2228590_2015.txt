@@ -1,0 +1,21 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","Meridian,"MS"","2016","Daniel K. Broadfoot","Common Stock","2583","5.05%","n/a"
+"Covington Capital Corporation","Snellville,"GA"","2016","Deirdre Broadfoot Bowers","Common Stock","2582","5.05%","n/a"
+"Covington Capital Corporation","Madison,"MS"","2016","Deborah M. Broadfoot","Common Stock","2583","5.05%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2016","Mary Frances Buffington","Common Stock","3586","7.02%","n/a"
+"Covington Capital Corporation","Jackson,"MS"","2016","Jack R. Gibson","Common Stock","3336","6.53%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2016","John B. Pope,"Jr."","Common Stock","10157","19.88%","n/a"
+"Covington Capital Corporation","Magee,"MS"","2016","Bobby T. Sullivan","Common Stock","9767","19.11%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Director","Deirdre Broadfoot Bowers","Director","Covington County Bank","2016","Investments","n/a"
+"Covington Capital Corporation","President,"Director"","John B. Pope,"Jr."","Director","Covington County Bank","2016","Merchant","n/a"
+"Covington Capital Corporation","n/a","John B. Pope,"Jr."","n/a","Pope Co. Inc","2016","Merchant","n/a"
+"Covington Capital Corporation","Owner,"Director"","Bobby T. Sullivan","Director","Covington County Bank","2016","Owner","n/a"
+"Covington Capital Corporation","n/a","Bobby T. Sullivan","n/a","Sullivan Ready Mix","2016","Owner","n/a"
+"Covington Capital Corporation","Director","Jack R. Gibson","Director","Covington County Bank","2016","Retired","n/a"
+"Covington Capital Corporation","Director","W. B. Todd. Jr:'","Director","Covington County Bank","2016","Retired","n/a"
+"Covington Capital Corporation","Director","John B. Pope,"III"","Director","Covington County","2016","Firechief","n/a"
+```

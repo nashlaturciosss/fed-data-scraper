@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Noble Bancshares,"Inc"","President","Aaron Acker","President","Acker Electric Company","2023","President","Acker Electric Company"
+"Noble Bancshares,"Inc"","Director,"Treasurer"","Aaron Acker","n/a","n/a","2023","President","Acker Electric Company"
+"Noble Bancshares,"Inc"","President","Greg Brown","n/a","BR Williams Trucking,"Inc"","2023","President","BR Williams Trucking,"Inc""
+"Noble Bancshares,"Inc"","Director,"Secretary"","Greg Brown","n/a","n/a","2023","President","BR Williams Trucking,"Inc""
+"Noble Bancshares,"Inc"","Chairman Emeritus","William R Smith","n/a","n/a","2023","None-retired","n/a"
+"Noble Bancshares,"Inc"","Director","Kenneth LVandervo","Doctor/partner","Anniston Orthopedics Assoc,"PA"","2023","Doctor/partner","n/a"
+"Noble Bancshares,"Inc"","Director","Phil Webb","Owner","Webb Concrete & Bldg Materials","2023","Owner","n/a"
+"Noble Bancshares,"Inc"","Director","Patricia M King","President","Sunny King Automotive Group","2023","President","n/a"
+"Noble Bancshares,"Inc"","Director","Mike Lipscomb","Owner","Lipscomb Auto Sales","2023","Owner","n/a"
+"Noble Bancshares,"Inc"","Chairman","Anthony Humphrie","n/a","n/a","2023","Director","n/a"
+"Noble Bancshares,"Inc"","President/CEO","Keith McCullough","n/a","n/a","2023","Director","n/a"
+"Noble Bancshares,"Inc"","SEVP/CFO","Kerry R Holt","n/a","n/a","2023","n/a","n/a"
+"Noble Bancshares,"Inc"","EVP/Chief Risk Officer","Lynda Dyar","n/a","n/a","2023","n/a","n/a"
+"Noble Bancshares,"Inc"","SEVP/COO","Paul ZRogers","n/a","n/a","2023","n/a","n/a"
+"Noble Bancshares,"Inc"","Director","Brown,"Robby"","Owner","Brown Construction","2023","Owner","n/a"
+```

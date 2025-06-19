@@ -1,0 +1,31 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST IC CORPORATION","McDonough,"GA"","2022","Chong W Chun and
+"Kyong H Chun"","Common Stock","994017","10.96%","n/a"
+"FIRST IC CORPORATION","McDonough,"GA"","2022","Chong W Chun and
+"Kyong H Chun"","Restricted Stock","7260","0.08%","n/a"
+"FIRST IC CORPORATION","McDonough,"GA"","2022","Chong W Chun and
+"Kyong H Chun"","Family Owned Common Stock","115683","1.27%","n/a"
+"FIRST IC CORPORATION","Atlanta,"GA"","2022","Choong S Cho and
+"Boksoo Kim Cho"","Common Stock","639838","7.06%","n/a"
+"FIRST IC CORPORATION","Brookhaven,"GA"","2022","Myong Tul Chu","Common Stock","599445","6.61%","n/a"
+"FIRST IC CORPORATION","Brookhaven,"GA"","2022","Myong Tul Chu","Family Owned Common Stock","76277","0.84%","n/a"
+"FIRST IC CORPORATION","Morrow,"GA"","2022","Joe C Liu and
+"Tae Hyun Liu"","Common Stock","466592","5.15%","n/a"
+"FIRST IC CORPORATION","Morrow,"GA"","2022","Joe C Liu and
+"Tae Hyun Liu"","Restricted Stock","3630","0.04%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director
+"Chairman"","Chong W Chun","n/a","n/a","2022","n/a","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha","2022","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Johnsboro Inc","2022","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Oasis International Cuisine Inc.","2022","Business Owner","n/a"
+"First IC Corporation","Director","Eui Suk Lee","n/a","n/a","2022","n/a","n/a"
+"First IC Corporation","Director","Suk Hyun Kim","Co-Owner","Net K,"INC"","2022","Business Owner","n/a"
+"First IC Corporation","Director","Lucio Minn","n/a","n/a","2022","n/a","n/a"
+"First IC Corporation","Director
+"President/CEO"","Dong Wook Kim","n/a","n/a","2022","n/a","n/a"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2022","n/a","n/a"
+```

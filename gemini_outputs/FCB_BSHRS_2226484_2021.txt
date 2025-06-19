@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2021","John J. Mullins","n/a","60117","36.77%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2021","Ann Mullins","n/a","12128","7.42%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2021","Dan J. Willingham","n/a","33562","20.53%","n/a"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2021","E.O. Browder,"Jr."","n/a","24000","14.68%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2021","FCB Bancshares,"Inc."","n/a","37752","23.09%","n/a"
+"FCB Bancshares,"Inc."","Tuscaloosa,"AL"","2021","Cletis L. Browder","n/a","10242","6.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Premier Bank of the South","Director","E.O. Browder Jr.","Vice President","Browder & Assoc.,"PC"","2021","Accountant","n/a"
+"Premier Bank of the South","Chairman of the Board & Chief Executive Officer","John J. Mullins","Partner","JAM Investors","2021","n/a","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Partner","Fuller & Willingham","2021","Attorney","n/a"
+"Premier Bank of the South","Principal Share Holder","FCB Bancshares N/A","n/a","n/a","2021","n/a","n/a"
+"Premier Bank of the South","Director","Angelia M Mullins","Partner","JAM Investors LLC","2021","Retired","n/a"
+"Premier Bank of the South","Director","James A Chapman,","n/a","Lektron","2021","Businessman","n/a"
+"Premier Bank of the South","President & Director","Jacob M.Mullins,","n/a","n/a","2021","N/A","n/a"
+"Premier Bank of the South","Director","Robert W. Mullins II","n/a","n/a","2021","N/A","n/a"
+"Premier Bank of the South","Director","Don Marecle,","Doctor","Cullman Surgical Associates","2021","Doctor","n/a"
+```

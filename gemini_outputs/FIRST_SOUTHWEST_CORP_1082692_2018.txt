@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","McComb,"USA"","2018","James W. Covington","n/a","79135","26.2%","n/a"
+"FIRST SOUTHWEST CORPORATION","McComb,"USA"","2018","First Bank ESOP","n/a","54731","18.1%","n/a"
+"FIRST SOUTHWEST CORPORATION","Summit,"MS"","2018","Stella C Dodd","n/a","15652","6.44%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","Chairman & CEO","Covington Family,"LLC"","2018","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","Chairman & CEO","E.D. Covington L.P.","2018","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Chairman & CEO","James W. Covington","Chairman & CEO","Ybrake Farms,"LLC"","2018","Banker","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","E. G. Covington,"III"","Director","Covington Family,"LLC"","2018","Owner Hydro(Director","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Victor H. Morrish","Director","Retired","2018","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Harrell E. Holloway,"Jr"","Director","Alford Holloway & Smith","2018","Accountant","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Lucius Lampton,"MD"","Director","Physican Magnolia Clinic","2018","Physican","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Clifton Van Cleave","Director","Buffalo Serivces Inc.","2018","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Clifton Van Cleave","Director","BKWIK,"LLC"","2018","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Clifton Van Cleave","Director","PFCT,"LLC"","2018","Business Manager","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","Johnny H. Nance","Director","Copeland,"Taylor & Bush","Attys"","2018","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","J. P. Doyle","Director","Retired","2018","Business Owner","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","L Grant Bennett","Director","Law Office of L. Grant Bennett,"Sr"","2018","Attorney","n/a"
+"FIRST SOUTHWEST CORPORATION","Director","John M Shappley","President COO","n/a","2018","n/a","n/a"
+"FIRST SOUTHWEST CORPORATION","Sr Vice President","Stella C Dodd","n/a","n/a","2018","n/a","n/a"
+"FIRST SOUTHWEST CORPORATION","Sr Vice President","Vickie M Webb","n/a","n/a","2018","n/a","n/a"
+```

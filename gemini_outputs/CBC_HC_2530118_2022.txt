@@ -1,27 +1,27 @@
-Here are the two CSV tables extracted from the document:
+Here are the two CSV tables as requested:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CBC Holding Company","President","J. Corey Gibbs","President/CEO","Community Banking Co. of Fitzgerald","2022"
-"CBC Holding Company","Chairman of the Board","John T. Croley,"Jr."","Chairman of the Board","Community Banking Co. of Fitzgerald","2022"
-"CBC Holding Company","Director Emeritus","Sidney S. Anderson,"Jr."","Director Emeritus","Dixie Peanut Company","2022"
-"CBC Holding Company","Director","Lee Phillip Liles","Director","Community Banking Co. of Fitzgerald","2022"
-"CBC Holding Company","Director","Hulin Reeves,"Jr."","n/a","Community Banking Co. of Fitzgerald","2022"
-"CBC Holding Company","Treasurer","James Thomas Casper,"III"","Treasurer","Community Banking Co. of Fitzgerald","2022"
-"CBC Holding Company","Vice Chairman","A.B.C. Dorminy,"III"","President","ABCD Farms,"Inc."","2022"
-"CBC Holding Company","Director","Wyndall L. Walters","Owner","Irwin County Motors d/b/a Fitzgerald Ford Lincoln Mercury","2022"
-"CBC Holding Company","Director","Steven L. Mitchell","Co-Owner","Irwin Timber Co.","2022"
-"CBC Holding Company","Secretary","John Edward Smith,"III"","Secretary","Jay,"Sherrell","Smith","Braddy","& Cook"","2022"
-"CBC Holding Company","Director","Jack Paulk","Partner","Haile's Bldg (51%)","2022"
-"CBC Holding Company","Director","Art Anderson","n/a","n/a","2022"
-"CBC Holding Company","Sr. Executive VP and Chief Credit Officer","Larry E. Stevenson","Sr. Executive VP and Chief Credit Officer","n/a","2022"
-"CBC Holding Company","President","Louis E,"Harper","Jr."","President","L E. Harper Construction Co","2022"
-"CBC Holding Company","Director","Howard A. Wiley","Director","n/a","2022"
-"CBC Holding Company","Director","Eric H. Stone","Partner","Worthington,"Casper","Stone","and Conger","PC"","2022"
-"CBC Holding Company","Director","Jason L. Holt","Owner","n/a","2022"
-"CBC Holding Company","Director","Kyle Cook","Partner","n/a","2022"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBC Holding Company","President","J. Corey Gibbs","n/a","n/a","2022","President and CEO (Community Banking Co. of Fitzgerald)","n/a"
+"CBC Holding Company","Chairman of the Board","John T. Croley,"Jr."","Attorney,"sole practitioner"","n/a","2022","Attorney,"sole practitioner"","n/a"
+"CBC Holding Company","Director Emeritus","Sidney S. Anderson,"Jr."","General Manager","Dixie Peanut Company","2022","General Manager (Dixie Peanut Company)","n/a"
+"CBC Holding Company","Director","Lee Phillip Liles","Retired","n/a","2022","Retired","n/a"
+"CBC Holding Company","Director","Hulin Reeves,"Jr."","n/a","n/a","2022","Farmer","n/a"
+"CBC Holding Company","Treasurer","James Thomas Casper,"III"","Partner","Worthington,"Casper","Stone And Conger","PC"","2022","CPA (Worthington,"Casper","Stone And Conger","PC)"","n/a"
+"CBC Holding Company","Vice Chairman","A.B.C. Dorminy,"III"","President","ABCD Farms,"Inc."","2022","President (ABCD Farms,"Inc.)"","n/a"
+"CBC Holding Company","Director","Wyndall L. Walters","Owner","Irwin County Motors","2022","Owner - (Irwin County Motors d/b/a Fitzgerald Ford Lincoln Mercury)","n/a"
+"CBC Holding Company","Director","Steven L. Mitchell","Co-Owner","Irwin Timber Co.","2022","Co-Owner - (Irwin Timber Co.)","n/a"
+"CBC Holding Company","Secretary","John Edward Smith,"III"","Attorney","Jay,"Sherrell","Smith","Braddy","& Cook"","2022","Attorney - (Jay,"Sherrell","Smith","Braddy","& Cook)"","n/a"
+"CBC Holding Company","Director","Jack Paulk","Partner","Haile's Bldg","2022","Retired","n/a"
+"CBC Holding Company","Director","Art Anderson","n/a","n/a","2022","Self Employed Investment Manager","n/a"
+"CBC Holding Company","Director","Larry E. Stevenson","n/a","n/a","2022","Sr. Executive VP and Chief Credit Officer (Community Banking Co. of Fitzgerald)","n/a"
+"CBC Holding Company","Director","Louis E,"Harper","Jr."","President","L E Harper Construction Co","2022","President (L E. Harper Construction Co)","n/a"
+"CBC Holding Company","Director","Howard A. Wiley","Partner","n/a","2022","CEO (FHSCCA)","n/a"
+"CBC Holding Company","Director","Eric H. Stone","Partner","Worthington,"Casper","Stone","and Conger","PC"","2022","CPA (Worthington,"Casper","Stone And Conger","PC)"","n/a"
+"CBC Holding Company","Director","Jason L. Holt","Owner","Paulk Funeral Home of Georgia,"LTC"","2022","Mayor,"City of Fitzgerald"","n/a"
+"CBC Holding Company","Director","Kyle Cook","Partner","Jay,"Sherrell","Smith","Braddy","& Cook"","2022","Attorney - (Jay,"Sherrell","Smith","Braddy","& Cook)"","n/a"
 ```

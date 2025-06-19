@@ -1,0 +1,29 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Community Bancshares,"Inc."","Estill Springs,"TN"","2017","Eddie Tinsley","n/a","76028","10.12%","n/a"
+"Citizens Community Bancshares,"Inc."","Huntland,"TN"","2017","Citizens Community Bank","n/a","n/a","n/a","n/a"
+"Citizens Community Bancshares,"Inc."","Decherd,"TN"","2017","Citizens Community Bank","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Owner","Winton Realty","2017","Realtor","n/a"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Owner","Winchester Storage","2017","Realtor","n/a"
+"Citizens Community Bancshares,"Inc."","Director","William Anderton","Owner","SAW Rental","2017","Realtor","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Steve Collins","Director","n/a","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Phil Hall","Partner","DPK","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Tinsley Asphalt","2017","Road Const.","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Tinsley Asphalt Products","2017","Road Const.","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Eddie Tinsley","Partner","Curbers,"Inc."","2017","Road Const.","n/a"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Partner","B&W Livestock","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Partner","SAW Rental","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Chairman President & CEO","Dennis M. Walker","Owner","Walker Farm","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Vice-President","Mona Swann","Vice-President","n/a","2017","None","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Randy Cofer","Chief Manager","Cofer Pipe Construction Inc.","2017","Construction","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Chris Parker","Executive VP & CFO","n/a","2017","Banker","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Donnie Worley","Owner","Lumber Company","2017","Retail Sales","n/a"
+"Citizens Community Bancshares,"Inc."","Director","David Fandrich","Owner","Fandrich Supply","2017","Retail Agriculture","n/a"
+"Citizens Community Bancshares,"Inc."","Director","Patrick Lynch","Partner","Lynch,"Lynch & Lynch"","2017","Attorney","n/a"
+```

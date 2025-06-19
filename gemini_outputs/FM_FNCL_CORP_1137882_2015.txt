@@ -1,0 +1,21 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Financial Corp","Lookout Mountain,"TN"","2015","Norwood E. Green","Common Stock","22200","13.64%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2015","Franklin W. Latta","Common Stock","19787","12.16%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2015","Betty L. Rankin","Common Stock","19887","12.22%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2015","Mary L. Woods","Common Stock","19687","12.10%","n/a"
+"F & M Financial Corp","Centre,"AL"","2015","Margaret L. Whorton","Common Stock","18087","11.11%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2015","The Estate of Margaret T. Latta","Common Stock","13612","8.36%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2015","Jim D. Smallwood","Common Stock","13200","8.11%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M Financial Corp","President","Franklin W. Latta","CEO","Farmers & Merchants Bank","2015","n/a","434539"
+"F & M Financial Corp","Director","Larry Deason","President","Farmers & Merchants Bank","2015","n/a","434539"
+"F & M Financial Corp","Director","Betty L. Rankin","Human Resources","Farmers & Merchants Bank","2015","n/a","434539"
+"F & M Financial Corp","Director","Millard V. Young,"Jr."","Owner","Young Oil Company","2015","Corporate President","434539"
+"F & M Financial Corp","Director","Arthur Fite,"IV"","Owner","Fite Law Firm","2015","Attorney","434539"
+"F & M Financial Corp","Director","John Bekkers","Director","Farmers & Merchants Bank","2015","Corporate Executive","434539"
+"F & M Financial Corp","Director","Joe Lively","Owner","Lively Foodland,"Inc."","2015","Corporate Executive","434539"
+"F & M Financial Corp","Director","David Neisler","Owner","Deck Foods","2015","Corporate Executive","434539"
+```

@@ -1,0 +1,37 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB CORPORATION","Nashville,"TN"","2016","Marion W. Hickerson III","n/a","42151","19.45%","1085488"
+"FCB CORPORATION","Houston,"TX"","2016","Edith H. Johnson","n/a","28836","13.31%","1085488"
+"FCB CORPORATION","Manchester,"TN"","2016","Claus or Lois Thormaehlen","n/a","15296","7.06%","1085488"
+"FCB CORPORATION","Germantown,"TN"","2016","Dale J. Jones","n/a","14245","6.57%","1085488"
+"FCB CORPORATION","Hixson,"TN"","2016","Donald L. Jones","n/a","14245","6.57%","1085488"
+"FCB CORPORATION","Manchester,"TN"","2016","Nancy Gilliam","n/a","11704","5.40%","1085488"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB CORPORATION","Director","Don Jones","Director","First National Bank","2016","Retired","1085488"
+"FCB CORPORATION","Director","Gerald Ewell,"Jr."","Director","First National Bank","2016","Attorney","1085488"
+"FCB CORPORATION","Director","Edith H. Johnson","Director","First National Bank","2016","Retired","1085488"
+"FCB CORPORATION","Director,"Secretary"","L. A. Teal","Director","First National Bank","2016","Real estate & farming","1085488"
+"FCB CORPORATION","Director,"Chairman"","Claus Thormaehlen","Director","First National Bank","2016","n/a","1085488"
+"FCB CORPORATION","Director,"Chairman"","Claus Thormaehlen","Director","Bank of Waynesboro","2016","n/a","1085488"
+"FCB CORPORATION","Director","George M. Brown","Director","First National Bank","2016","Retired","1085488"
+"FCB CORPORATION","Director","George M. Brown","Director","Bank of Waynesboro","2016","Retired","1085488"
+"FCB CORPORATION","n/a","Brent Parsley","Community President","First National Bank,"Manchester"","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Stephen Clay Shirley","Community President","First National Bank,"Murfreesboro"","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Tim Spry","President","First National Bank","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Carla Clay","Chief Financial Officer","First National Bank","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Marion W. Hickerson III","Director and Chairman of the Board","Bank of Waynesboro","2016","Stockbroker","1085488"
+"FCB CORPORATION","n/a","Jasper Brewer","Director","Bank of Waynesboro","2016","Retired","1085488"
+"FCB CORPORATION","n/a","Alton Turnbo,"Jr."","Director","Bank of Waynesboro","2016","Mortician","1085488"
+"FCB CORPORATION","n/a","Misty Rogers","Executive Vice President and Secretary of the Board","Bank of Waynesboro","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Tim Williams","Executive Vice President","Bank of Waynesboro","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Harold Pope","Director","Bank of Waynesboro","2016","Retired","1085488"
+"FCB CORPORATION","n/a","William B. Bryant","President & CEO","Bank of Waynesboro","2016","n/a","1085488"
+"FCB CORPORATION","Director","Nancy Gilliam","Director","First National Bank","2016","Retired","1085488"
+"FCB CORPORATION","n/a","Mike Bailey","Vice President","First National Bank","2016","n/a","1085488"
+"FCB CORPORATION","n/a","Jeanne Melton","Vice President","First National Bank","2016","n/a","1085488"
+```

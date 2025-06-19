@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2018","Miller Couse","Common Stock","87756","8.756%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2018","Couse Farms,"Inc."","Common Stock","54732","5.461%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2018","First Bank-ESOP","Common Stock","144726","14.440%","n/a"
+"PIONEER BANKCORP,"INC."","Memphis,"TN"","2018","Henry A Kurtz","Common Stock","59178","5.904%","n/a"
+"PIONEER BANKCORP,"INC."","n/a","2018","NONE","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PIONEER BANKCORP,"INC."","President/CEO Director","Miller Couse","President-","Couse Farms,"Inc."","2018","Chairman of the Board","n/a"
+"PIONEER BANKCORP,"INC."","Vice President & Director","Carey Soud","General Partner-","Soud Family Partnership","2018","President & CEO","n/a"
+"PIONEER BANKCORP,"INC."","Secretary","Randall N. Wood","n/a","n/a","2018","Sr. Vice President & CFO","n/a"
+"PIONEER BANKCORP,"INC."","Director","Tommy Perry","Owner","Johnson-Prewitt & Associates","2018","Civil Engineer/ Land surveyor","n/a"
+"PIONEER BANKCORP,"INC."","Director","Morris Ridgdill","Owner/President","Ridgdill & Son Construction","2018","Construction/ Property Development","n/a"
+"PIONEER BANKCORP,"INC."","Director","Earle E. Edwards III","Owner/President","Earle E. Edwards III,"DDS"","2018","Orthodontist","n/a"
+"PIONEER BANKCORP,"INC."","Director","Bryan Beer","Owner","Labelle Grove Management","2018","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","Director","Karl E Larsen","n/a","n/a","2018","Retired","n/a"
+"PIONEER BANKCORP,"INC."","n/a","First Bank-ESOP","n/a","n/a","2018","Principal Shareholder","n/a"
+```

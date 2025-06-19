@@ -1,15 +1,22 @@
-Here are the requested CSV tables.
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BCI FINANCIAL GROUP INC.","Santiago","2019","Banco de Credito e Inversiones","Common Stock","927345444","100%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BCI FINANCIAL GROUP INC.","Santiago,"Chile"","2019","Banco de Credito e Inversiones","common stock","927345444","100%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BCI FINANCIAL GROUP INC.","Director & General Manager","Jorge Gonzalez","CEO & Vice Chairman","City National Bank of Florida","2019"
-"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","Director","City National Bank of Florida","2019"
-"BCI FINANCIAL GROUP INC.","Director/General Manager","Maria Grisel Vega","Director","City National Bank of Florida","2019"
-"BCI FINANCIAL GROUP INC.","Secretary/General Manager","S. Marshall Martin","General Counsel","City National Bank of Florida","2019"
-"BCI FINANCIAL GROUP INC.","Treasurer","Daniel Kushner","Chief Strategic Advisor","City National Bank of Florida","2019"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BCI FINANCIAL GROUP INC.","Director & General Manager","Jorge Gonzalez","Director","ICA Miami","2019","CEO & Vice Chairman,"City National Bank of Florida"","n/a"
+"BCI FINANCIAL GROUP INC.","Director & General Manager","Jorge Gonzalez","Director","United Way of Miami Dade","2019","CEO & Vice Chairman,"City National Bank of Florida"","n/a"
+"BCI FINANCIAL GROUP INC.","Director & General Manager","Jorge Gonzalez","Director","Nicklaus Children's Hospital","2019","CEO & Vice Chairman,"City National Bank of Florida"","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2019","CEO - Banco de Credito e Inversiones","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Juan Yarur S.P.A","2019","CEO - Banco de Credito e Inversiones","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2019","CEO - Banco de Credito e Inversiones","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","President","Servicios Financieros y Administracion de Creditos Comerciales S.A.","2019","CEO - Banco de Credito e Inversiones","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2019","CEO - Banco de Credito e Inversiones","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2019","General Manager - BCI Miami Branch","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Maria Grisel Vega","Treasurer","Bishop Enrique San Pedro Foundation,"Inc."","2019","General Manager - BCI Miami Branch","n/a"
+"BCI FINANCIAL GROUP INC.","Director/General Manager","Maria Grisel Vega","Director","Florida International Banker's Association (FIBA)","2019","General Manager - BCI Miami Branch","n/a"
+"BCI FINANCIAL GROUP INC.","Secretary/General Manager","S. Marshall Martin","President/Director","CNB Housing Foundation,"Inc."","2019","General Counsel - City National Bank of Florida","n/a"
+"BCI FINANCIAL GROUP INC.","Secretary/General Manager","S. Marshall Martin","Assistant Secretary","Bci Capital,"Inc."","2019","General Counsel - City National Bank of Florida","n/a"
+"BCI FINANCIAL GROUP INC.","Secretary/General Manager","S. Marshall Martin","Director","South Florida Banking Institute,"Inc."","2019","General Counsel - City National Bank of Florida","n/a"
+"BCI FINANCIAL GROUP INC.","Treasurer","Daniel Kushner","Trustee","Toni Meurlot Residuary Trust","2019","Chief Strategic Advisor - City National Bank of Florida","n/a"
 ```

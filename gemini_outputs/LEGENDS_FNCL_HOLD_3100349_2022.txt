@@ -1,0 +1,40 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2022","Billy Atkins","common shares","61613","5.43%","n/a"
+"Legends Financial Holdings,"Inc."","Clarksville,"TN"","2022","Pravin (Bob) Patel","common shares","72376","6.38%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Director","George R. Archer,"Jr."","Director,"Market President"","Legends Bank","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","George R. Archer,"Jr."","Director","Legends Financial Services","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Billy Atkins","Director","Legends Bank","2022","Livestock Warehouse/ Farmer","n/a"
+"Legends Financial Holdings,"Inc."","Director","Billy Atkins","Director","Legends Financial Services","2022","Livestock Warehouse/ Farmer","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Barnett","Director","Legends Bank","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Barnett","Director","Legends Financial Services","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director,"President & CEO"","Tommy Bates","President & CEO","Legends Bank","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director,"President & CEO"","Tommy Bates","Secretary/VP","Legends Financial Services","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","Director","Legends Bank","2022","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","Director","Legends Financial Services","2022","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","owner","Goad Construction Co","2022","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Kelly","Director","Legends Bank","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Kelly","Director","Legends Financial Services","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Kelly","Owner","The Air Assault Team - KW","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Teresa Kingery","Director","Legends Bank","2022","Recruiting Firm","n/a"
+"Legends Financial Holdings,"Inc."","Director","Teresa Kingery","Director","Legends Financial Services","2022","Recruiting Firm","n/a"
+"Legends Financial Holdings,"Inc."","Director","Teresa Kingery","Owner","Kingery & Associates","2022","Recruiting Firm","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Vice-Chairman"","Dick Littleton","Director","Legends Bank","2022","Real Estate agent","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Vice-Chairman"","Dick Littleton","Director","Legends Financial Services","2022","Real Estate agent","n/a"
+"Legends Financial Holdings,"Inc."","Director","Pravin (Bob) Patel","Director","Legends Bank","2022","Hotel/Motel operator","n/a"
+"Legends Financial Holdings,"Inc."","Director","Pravin (Bob) Patel","Director","Legends Financial Services","2022","Hotel/Motel operator","n/a"
+"Legends Financial Holdings,"Inc."","EVP/CFO","Lee Pedigo","EVP","Legends Bank","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","EVP/CFO","Lee Pedigo","CFO","Legends Financial Services","2022","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","Director","Legends Bank","2022","Ajax Distributing Co Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","Director","Legends Financial Services","2022","Ajax Distributing Co Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","Owner/President","Ajax Distributing Co","2022","Ajax Distributing Co Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","owner","Ajax Properties","2022","Ajax Distributing Co Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director","Doug Weiland","Director","Legends Bank","2022","Retired","n/a"
+"Legends Financial Holdings,"Inc."","Director","Doug Weiland","Director","Legends Financial Services","2022","Retired","n/a"
+```

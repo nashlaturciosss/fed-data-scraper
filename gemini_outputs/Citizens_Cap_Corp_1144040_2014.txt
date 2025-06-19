@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens' Capital Corporation","Robertsdale,"Alabama"","2014","Linda W. Gulledge","Common Stock","21454","23.25%","1144040"
+"Citizens' Capital Corporation","Foley,"Alabama"","2014","Robert I. Gulledge","Common Stock","16739","18.14%","1144040"
+"Citizens' Capital Corporation","Mobile,"Alabama"","2014","Robert I. Gulledge,"II"","Common Stock","7394","8.01%","1144040"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2014","Thomas W. Gulledge","Common Stock","7394","8.01%","1144040"
+"Citizens' Capital Corporation","Foley,"Alabama"","2014","John A. Nelson,"II"","Common Stock","5000","5.42%","1144040"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2014","Beverly J. Potter","Common Stock","5629","6.10%","1144040"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens' Capital Corporation","None","Robert I. Gulledge","n/a","n/a","2014","None","n/a"
+"Citizens' Capital Corporation","Director","Paul E. Hollingsworth","n/a","n/a","2014","Retired Educator","n/a"
+"Citizens' Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","Citizens' Bank","2014","Law Enforcement","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Citizens' Bank","2014","Minister","n/a"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Methodist Church","2014","Minister","n/a"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Citizens' Bank","2014","Seafood Processing","n/a"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secour Fisheries","2014","Seafood Processing","n/a"
+"Citizens' Capital Corporation","Secretary","Ryan Gerstenschlager","Chief Lending Officer","Citizens' Bank Inc.","2014","Banker","n/a"
+"Citizens' Capital Corporation","Director","Linda W. Gulledge","n/a","Citizens' Bank","2014","Retired Educator","n/a"
+"Citizens' Capital Corporation","Vice President,"Treasurer"","Andrea N. Noonan","Chief Financial Officer","Citizens' Bank,"Inc."","2014","Banker","n/a"
+"Citizens' Capital Corporation","None","Donna M. Donovan","Chief Operations Officer","Citizens' Bank Inc.","2014","Banker","n/a"
+"Citizens' Capital Corporation","Director,"President and Chairman"","Thomas W. Gulledge","President and Director","Citizens' Bank Inc.","2014","Banker","n/a"
+```

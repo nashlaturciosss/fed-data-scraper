@@ -1,0 +1,14 @@
+Here are the CSV tables based on the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GB BANK GROUP,"INC."","GLENNVILLE,"GA"","2023","C.W. Durrence,"III"","Common Stock","66925","23.02%","n/a"
+"GB BANK GROUP,"INC."","GLENNVILLE,"GA"","2023","Hugh Scott Dunn","Common Stock","40131","13.81%","n/a"
+"GB BANK GROUP,"INC."","GLENNVILLE,"GA"","2023","William J. Sheffield","Common Stock","31798","10.94%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GB BANK GROUP,"INC."","Chairman","C.W. Durrence,"III"","Director","GB Bancshares,"Inc."","2023","n/a","n/a"
+"GB BANK GROUP,"INC."","President/CEO","William J. Sheffield","n/a","n/a","2023","n/a","n/a"
+```

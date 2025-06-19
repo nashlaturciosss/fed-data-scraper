@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Aliceville,"AL"","2018","W. C. Martin,"Jr. (deceased)"","common","10740","11%","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Aliceville,"AL"","2018","W. R. McKinzey","common","14500","15%","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Aliceville,"AL"","2018","Susan M. Milner","common","16328","17%","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Aliceville,"AL"","2018","Milner Ltd Partnership","common","12429","13%","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Aliceville,"AL"","2018","Barbara Jordan","common","13472","14%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Director","Barbara Jordan","Director","FNB of Central Alabama","2018","Retired","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","n/a","W.C. Martin,"Jr. (deceased)"","n/a","n/a","2018","Retired","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","VP,"Secretary","and Treasurer"","Virginia S. Lee","COO,"Director and Chief Financial Officer"","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Senior Vice President","Shirley Griffin","n/a","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Senior Vice President","Jennifer James","n/a","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","President","James B. Flemming","Chief Development Officer,"Director"","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Chairman and Director","W. R. McKinzey","Director","FNB of Central Alabama","2018","Mayor of the City of Aliceville and Business Owner","n/a
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Chairman and Director","W. R. McKinzey","President","Tenn-Tom Publishing Corporation","2018","Mayor of the City of Aliceville and Business Owner","n/a
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Chairman and Director","W. R. McKinzey","President","M & M Printing Corporation","2018","Mayor of the City of Aliceville and Business Owner","n/a
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","n/a","Susan M. Milner","Director","FNB of Central Alabama","2018","Attorney","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Vice Chairman and Director","Mary M. Noland","Director and Banking Officer","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","n/a","James H. Clayton,"Jr."","Director and Executive Vice President","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Vice President","Robert H. Gould,"Jr."","President,"CEO","and Director"","FNB of Central Alabama","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Vice President","Robert H. Gould,"Jr."","Member","Belvedere,"LLC"","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","Vice President","Robert H. Gould,"Jr."","Member","Durwood Cable,"LLC"","2018","n/a","n/a"
+"FNB BANCSHARES OF CENTRAL ALABAMA,"INC."","n/a","Stephen Mason","Senior Vice President","FNB of Central Alabama","2018","n/a","n/a"
+```

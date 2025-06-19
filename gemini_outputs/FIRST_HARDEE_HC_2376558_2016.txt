@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Hardee Holding Corporation","Wauchula,"FL"","2016","F.L. Revell,"Jr."","Common Stock","6663","80%","n/a"
+"First Hardee Holding Corporation","Wauchula,"FL"","2016","Oneita Revell","Common Stock","600","7%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hardee Holding Corporation","Shareholder,"Director"","F L Revell,"Jr."","President","Florida Fence Post Co","2016","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","F L Revell,"Jr."","President","F L Revell,"Inc."","2016","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","F L Revell,"Jr."","Owner","F L Revell Ranch & Groves","2016","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","F L Revell,"Jr."","Owner","Brushy Creek Corp","2016","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","M E Wilkins","n/a","n/a","2016","Retired","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","Kenneth B. Evers","Owner","Kenneth B. Evers PA","2016","Attorney","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","Richard K. Justice","President/Director","n/a","2016","Banker","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director"","William R Lambert","President & GM","Torrey Oaks Golf Course Inc.","2016","Golf Course Owner","n/a"
+"First Hardee Holding Corporation","Secretary","W. Lee Mikell","n/a","n/a","2016","Economic Development Council","n/a"
+```

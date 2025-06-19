@@ -1,29 +1,9 @@
-"Okay","I understand. Here are the two CSV tables extracted from the document","following all the instructions:"
+Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Basile Bancshares,"Inc."","n/a","2023","William J. Johnson","Common Stock","31927","28.5%"
-"Basile Bancshares,"Inc."","n/a","2023","Gregory G. Fruge","Common Stock","12013","10.7%"
-"Basile Bancshares,"Inc."","n/a","2023","M. Clark Fruge","Common Stock","11206","10%"
-"Basile Bancshares,"Inc."","n/a","2023","Robert L. Dupre","Common Stock","6641","5.9%"
-"Basile Bancshares,"Inc."","n/a","2023","James M. Buller","Common Stock","5500","4.9%"
-"Basile Bancshares,"Inc."","n/a","2023","Larry P. Daigle","Common Stock","4769","4.25%"
-"Basile Bancshares,"Inc."","n/a","2023","Euna Mae Young","Common Stock","4242","3.8%"
-"Basile Bancshares,"Inc."","n/a","2023","Leland Little","Common Stock","3930","3.5%"
-"Basile Bancshares,"Inc."","n/a","2023","Richard P. LeBlanc","Common Stock","3896","3.5%"
-"Basile Bancshares,"Inc."","n/a","2023","Daniel J. Schneider","Common Stock","3854","3.4%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Basile Bancshares,"Inc."","n/a","2023","WILLIAM J. JOHNSON","n/a","n/a","n/a","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Basile Bancshares,"Inc."","Director","WILLIAM J. JOHNSON","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","GREGORY G. FRUGE","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","ROBERT L. DUPRE","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","M. CLARK FRUGE","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","JAMES M. BULLER","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","LARRY P. DAIGLE","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","EUNA MAE YOUNG","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","LELAND LITTLE","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","RICHARD P. LEBLANC","n/a","n/a","2023"
-"Basile Bancshares,"Inc."","Director","DANIEL J. SCHNEIDER","n/a","n/a","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Basile Bancshares,"Inc."","Director","WILLIAM J. JOHNSON","n/a","n/a","2023","n/a","n/a"
 ```

@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2017","Katherine P. Kelly","common stock","3771.25","12.75%","n/a"
+"Persons Banking Co.,"Inc."","Richmond,"Virginia"","2017","Katherine P. Kelly","common stock","489.00","12.75%","n/a"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2017","G. Ogden Persons,"III"","common stock","6867.75","22.02%","n/a"
+"Persons Banking Co.,"Inc."","Macon,"Georgia"","2017","G. Ogden Persons,"III"","common stock","489.00","22.02%","n/a"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2017","James G. Persons","common stock","3922.25","16.13%","n/a"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2017","James G. Persons","common stock","489.00","16.13%","n/a"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2017","James G. Persons","common stock","489.00","16.13%","n/a"
+"Persons Banking Co.,"Inc."","Atlanta,"Georgia"","2017","James G. Persons","common stock","489.00","16.13%","n/a"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2017","Persons Family Trust","common stock","16397.00","49.09%","n/a"
+"Persons Banking Co.,"Inc."","Lithonia,"Georgia"","2017","Persons Family Trust","non-voting common stock","3418.00","100.00%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Persons Banking Co.,"Inc."","Executive Vice President & CFO Secretary & Treasurer","Douglas R. Harper","n/a","n/a","2017","Banker","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","R O Inc.","2017","Office Administration","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","OJK LLC","2017","Office Administration","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","Persons Land Holdings LLC","2017","Office Administration","212335"
+"Persons Banking Co.,"Inc."","Director","Katherine P. Kelly","Director & Secretary","Soperton Naval Stores","2017","Office Administration","212335"
+"Persons Banking Co.,"Inc."","Chairman,"President & CEO Director"","G. Ogden Persons,"III"","Director & President","R O Inc.","2017","Banker","212335"
+"Persons Banking Co.,"Inc."","Chairman,"President & CEO Director"","G. Ogden Persons,"III"","Director & President","OJK LLC","2017","Banker","212335"
+"Persons Banking Co.,"Inc."","Chairman,"President & CEO Director"","G. Ogden Persons,"III"","Director & President","Soperton Naval Stores","2017","Banker","212335"
+"Persons Banking Co.,"Inc."","Chairman,"President & CEO Director"","G. Ogden Persons,"III"","Director & President","Persons Land Holdings LLC","2017","Banker","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","President","Persons Properties,"Inc."","2017","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","R O Inc.","2017","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","OJK LLC","2017","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","Soperton Naval Stores","2017","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","Director","James G. Persons","Director & CFO","Persons Land Holdings LLC","2017","Residential & commercial construction","212335"
+"Persons Banking Co.,"Inc."","n/a","Persons Family Trust","Principal shareholder","R O Inc.","2017","n/a","212335"
+```

@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants Financial Services,"Inc."","Guntersville,"AL"","2014","Reba Miller","n/a","107505","7.74","1082955"
+"Merchants Financial Services,"Inc."","Logan,"AL"","2014","Ella Mae Hudson","n/a","127365","9.17","1082955"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2014","S. Wayne Fuller","n/a","135900","9.78","1082955"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2014","David Moss,"Sr."","n/a","122350","8.81","1082955"
+"Merchants Financial Services,"Inc."","Crane Hill,"AL"","2014","Roy L. Graham","n/a","89370","6.44","1082955"
+"Merchants Financial Services,"Inc."","Cullman,"AL"","2014","John T. Williamson","n/a","72810","5.24","1082955"
+"Merchants Financial Services,"Inc."","Vinemont,"AL"","2014","Beverly White","n/a","70125","5.05","1082955"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants Financial Services,"Inc."","Chairman","Steve Glasscock","Chairman & CEO","n/a","2014","Banking","1082955"
+"Merchants Financial Services,"Inc."","Chairman","Steve Glasscock","Chairman & CEO","SASG Properties,"LLC"","2014","Banking","1082955"
+"Merchants Financial Services,"Inc."","Secretary/Treasurer,"Director"","Reba Miller","Secretary/Director","n/a","2014","Businesswoman","1082955"
+"Merchants Financial Services,"Inc."","Secretary/Treasurer,"Director"","Reba Miller","Secretary/Director","Triple A Property Investors","2014","Businesswoman","1082955"
+"Merchants Financial Services,"Inc."","Vice Chairman","S. Wayne Fuller","Vice Chairman","Fuller,"Willingham","Fuller & Carter","LLC"","2014","Attorney","1082955"
+"Merchants Financial Services,"Inc."","Vice Chairman","David Moss,"Sr."","Vice Chairman","Cooper Property Mgmt. Inc.","2014","Businessman","1082955"
+"Merchants Financial Services,"Inc."","Vice Chairman","David Moss,"Sr."","Vice Chairman","Moss Sr. Moss Jr.,"LLC"","2014","Businessman","1082955"
+"Merchants Financial Services,"Inc."","Vice Chairman","David Moss,"Sr."","Vice Chairman","MBH Properties","2014","Businessman","1082955"
+"Merchants Financial Services,"Inc."","Director","Billy Fletcher","Director","n/a","2014","Farmer","1082955"
+"Merchants Financial Services,"Inc."","Director","John Williamson","Director","Jeb Williamson CPA,"LLC"","2014","n/a","1082955"
+"Merchants Financial Services,"Inc."","Director","Judy Butler Patterson","Director","Southeast Lawn & Tractor Center,"Inc."","2014","n/a","1082955"
+"Merchants Financial Services,"Inc."","Director","Judy Butler Patterson","Director","BJM Company","2014","n/a","1082955"
+"Merchants Financial Services,"Inc."","Director","Christopher N. Borden","Director","The Borden Company LLC","2014","Pharmacist","1082955"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Director","AR & DR Holdings LLC","2014","Business owner","1082955"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Director","Ratliff Enterprises","2014","Business owner","1082955"
+"Merchants Financial Services,"Inc."","Director","Andrew J. Ratliff","Director","Farmers Poultry Supply,"Inc."","2014","Business owner","1082955"
+"Merchants Financial Services,"Inc."","Executive VP","Charles R. NeSmith","President","n/a","2014","Banking","1082955"
+"Merchants Financial Services,"Inc."","SVP & CFO","W. Clark Rainwater","SVP & CFO","Rainwater Farms","2014","Banking","1082955"
+```

@@ -1,13 +1,13 @@
-"Okay","here are the two tables extracted from the document","formatted as requested in CSV format."
+Here are the requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Axiom Bancshares,"Inc"","Atlanta","2019","Frank Hanna,"Jr."","Common Stock","2000000","100.00%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Axiom Bancshares,"Inc."","Atlanta,"GA"","2019","Frank Hanna,"Jr."","Common Stock","2000.000","100.00%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Axiom Bancshares,"Inc"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2019"
-"Axiom Bancshares,"Inc"","Director","Daniel Davis","CEO","Axiom Bank,"N.A."","2019"
-"Axiom Bancshares,"Inc"","Director","David Hanna","n/a","n/a","2019"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Axiom Bancshares,"Inc."","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2019","Investor","n/a"
+"Axiom Bancshares,"Inc."","CEO","Daniel Davis","n/a","n/a","2019","n/a","n/a"
+"Axiom Bancshares,"Inc."","Director","David Hanna","n/a","n/a","2019","n/a","n/a"
 ```

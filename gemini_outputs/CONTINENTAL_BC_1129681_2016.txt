@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Continental Bancorp","Miami Beach,"FI"","2016","Fanny Dascal and Cesar Camacho,"as Trustees of the Fanny Dascal Grantor Retained Annuity Trust","U/T/D March 7","2016"","Class A Common","323988","69.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Continental Bancorp","President,"Chairman"","Jacqueline Dascal Chariff","President","Krypto Intl. Export Inc.","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","President","Jakar LLC","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","South Motor Company of Dade County","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","South Motors Nissan Co.","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","South Motors Buick,"Inc."","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","South Motors Suzuki,"Inc."","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","South Motors Chrysler-Plymouth,"Inc."","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Director","Pompano Imports,"Inc."","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Managing Member","Mundi Leasing & Rentals,"Inc."","2016","Entepreneur","n/a"
+"Continental Bancorp","Chairman","Jacqueline Dascal Chariff","Manager","DAHO,"LLC"","2016","Entepreneur","n/a"
+"Continental Bancorp","None","Fanny Dascal and Cesar Camacho,"as Trustees of the Fanny Dascal Grantor Retained Annuity Trust","U/T/D March 7","2016"","n/a","n/a","2016","Principal Shareholder,"Continental Bancorp"","n/a"
+"Continental Bancorp","Director","Guillermo Diaz-Rousselot","n/a","n/a","2016","Banker","n/a"
+```

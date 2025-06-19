@@ -1,0 +1,33 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","Billy M. Bolton","Common Stock","350","1.83%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","Bradley Bolton","Common Stock","528","2.76%","n/a"
+"Independent Bancshares,"Inc."","Florence,"AL"","2019","Marc Dempsey","Common Stock","577","3.02%","n/a"
+"Independent Bancshares,"Inc."","Golden,"MS"","2019","Tammy Montgomery","Common Stock","200","1.05%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","Patricia A. Nelson","Common Stock","1029","5.38%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","David Tiffin","Common Stock","1345","7.03%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","William Weatherford","Common Stock","50",".26%","n/a"
+"Independent Bancshares,"Inc."","Fulton,"MS"","2019","Bobby J. Canup Jr.","Common Stock","802","4.19%","n/a"
+"Independent Bancshares,"Inc."","Red Bay,"AL"","2019","Employee Stock Ownership Plan","Common Stock","10895","56.96%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Independent Bancshares,"Inc."","Chairman/President","Billy M. Bolton","President","Bay Independent Insurance Agency,"Inc."","2019","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Chairman/President","Billy M. Bolton","n/a","n/a","2019","Chairman/Director","n/a"
+"Independent Bancshares,"Inc."","Vice-Chair","Patricia A. Nelson","Owner","Pat's Arboretum Inn","2019","Retired Banker","n/a"
+"Independent Bancshares,"Inc."","n/a","Bradley Bolton","n/a","n/a","2019","President/CEO/Senior Lender","n/a"
+"Independent Bancshares,"Inc."","Director","Marc Dempsey","VP & Shareholder","Craig Construct.Co.","2019","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director","Marc Dempsey","Partner","Craig Partners,"LLC"","2019","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director","Marc Dempsey","Owner","D&M Holdings,"LLC"","2019","Civil Engineer","n/a"
+"Independent Bancshares,"Inc."","Director","Tammy Montgomery","n/a","n/a","2019","EX.VP/COO/Dir of HR","n/a"
+"Independent Bancshares,"Inc."","n/a","David Tiffin","Pres","Tiffin Supply,"Inc"","2019","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","n/a","David Tiffin","Sec","CityAuto Parts,"Inc"","2019","Retired & Co-Owner of Building Supply Store","n/a"
+"Independent Bancshares,"Inc."","Director","William Weatherford","Owner","Belmont Pharmacy,"LLC"","2019","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director","William Weatherford","Owner","Red Bay Pharmacy,"LLC"","2019","Pharmacist","n/a"
+"Independent Bancshares,"Inc."","Director","Bobby Canup,"Jr."","President","Tremont Floral,"Inc."","2019","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Director","Bobby Canup,"Jr."","VP","Design World,"Inc."","2019","Wholesale Florist","n/a"
+"Independent Bancshares,"Inc."","Director","Bobby Canup,"Jr."","Owner","Golden Eagle Sales","2019","Wholesale Florist","n/a"
+```

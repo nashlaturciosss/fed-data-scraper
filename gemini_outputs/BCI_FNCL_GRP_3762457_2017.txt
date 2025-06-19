@@ -1,14 +1,21 @@
-Here are the two tables extracted from the document as requested.
+"Here are the requested CSV tables","with the data extracted from the provided FR Y-6 document:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BCI Financial Group,"Inc."","Santiago","2017","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BCI FINANCIAL GROUP,"INC."","Santiago,"Chile"","2017","Banco de Credito e Inversiones","common stock","927345444","100%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","President & CEO","City National Capital Finance,"LLC."","2017"
-"City National Bank of Florida","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2017"
-"City National Bank of Florida","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2017"
-"City National Bank of Florida","Secretary","S. Marshall Martin","General Counsel","CNB Housing Foundation,"Inc."","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Jorge Gonzalez","Director","City National Capital Finance,"LLC."","2017","President & CEO,"City National Bank of Florida"","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Jorge Gonzalez","Director","United Way of Miami Dade","2017","President & CEO,"City National Bank of Florida"","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Jorge Gonzalez","Director","The Museum of Contemporary Art","2017","President & CEO,"City National Bank of Florida"","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director & General Manager","Jorge Gonzalez","Director","Nicklaus Children's Hospital","2017","President & CEO,"City National Bank of Florida"","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director/General Manager","Eugenio Von Chrismar","President","BCI Factoring S.A.","2017","CEO - Banco de Credito e Inversiones","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Yarur S.P.A","2017","CEO - Banco de Credito e Inversiones","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2017","CEO - Banco de Credito e Inversiones","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2017","CEO - Banco de Credito e Inversiones","814430"
+"CITY NATIONAL BANK OF FLORIDA","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2017","General Manager - BCI Miami Branch","814430"
+"CITY NATIONAL BANK OF FLORIDA","Secretary","S. Marshall Martin","Director","CNB Housing Foundation,"Inc."","2017","General Counsel - City National Bank of Florida","814430"
+"CITY NATIONAL BANK OF FLORIDA","Secretary","S. Marshall Martin","Director","South Florida Banking Institute,"Inc."","2017","General Counsel - City National Bank of Florida","814430"
 ```

@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2015","J. C. Petry","Common Stock","35000","17.15%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2015","Estate of T. J. Fontenot","Common Stock","36467","17.87%","n/a"
+"GUEYDAN BANCSHARES,"INC."","Gueydan,"LA"","2015","Mildred H. Hair","Common Stock","22750","11.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GUEYDAN BANCSHARES,"INC."","Director,"Chairman & President"","J. C. Petry","n/a","n/a","2015","Director,"Chairman & President Bank of Gueydan"","1084801"
+"GUEYDAN BANCSHARES,"INC."","Executive Vice-President","Cloyce H. Hammond","n/a","n/a","2015","Executive Vice-President Bank of Gueydan","1084801"
+"GUEYDAN BANCSHARES,"INC."","n/a","Estate of T. J. Fontenot","n/a","n/a","2015","Deceased","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","J. David Simon","Director","David Simon Farms","2015","Self Employed","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","Edward G. Saal,"Jr."","n/a","Edward G. Saal,"Jr APLC"","2015","Self Employed","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director,"Vice-President & Secretary"","Lana T. Broussard","n/a","n/a","2015","Vice President Director Bank of Gueydan","1084801"
+"GUEYDAN BANCSHARES,"INC."","Director","Hansford G. Hair","Production Operator","White Oak Operating Company,"LLC"","2015","Production Operator -- White Oak Operating Company,"LLC"","1084801"
+"GUEYDAN BANCSHARES,"INC."","n/a","Mildred H. Hair","n/a","n/a","2015","Retired","1084801"
+```

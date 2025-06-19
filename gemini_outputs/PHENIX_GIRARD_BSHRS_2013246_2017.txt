@@ -1,0 +1,19 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2017","John M Dudley","n/a","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2017","Menza Dudley","n/a","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2017","John M Dudley Sr Irrevocable Family Trust","n/a","215992","99.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bank","President,"Treasurer","Director Phenix-Girard Bancshares","."","Lumberman,"Phenix Lumber Company"","n/a","n/a","2017","n/a","432432"
+"Phenix-Girard Bank","Vice President,"Secretary","Director Phenix-Girard Bancshares"","Lumberman,"Phenix Lumber Company"","Shareholder","Phenix-Girard Bank / Bancshares","2017","n/a","432432"
+"Phenix-Girard Bank","CEO,"Director Phenix-Girard Bank"","Phenix Lumber – Sole Proprietorship","n/a","n/a","2017","n/a","432432"
+"Phenix-Girard Bank","President,"Director Phenix-Girard Bank"","Phenix Lumber – Sole Proprietorship","n/a","n/a","2017","n/a","432432"
+"Phenix-Girard Bank","n/a","Phenix Lumber – Sole Proprietorship","President","Girard Partners Management,"Inc"","2017","n/a","432432"
+"Phenix-Girard Bank","n/a","Phenix Lumber – Sole Proprietorship","President","Crawford Partners Management Inc","2017","n/a","432432"
+"Phenix-Girard Bank","n/a","Phenix Lumber – Sole Proprietorship","Member","MDLD,"LLC"","2017","n/a","432432"
+```

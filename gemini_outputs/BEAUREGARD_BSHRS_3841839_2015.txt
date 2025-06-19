@@ -1,19 +1,18 @@
-"Okay","here are the two CSV tables extracted from the document."
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Beauregard Bancshares,"Inc"","DeRidder","2015","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10"
-"Beauregard Bancshares,"Inc"","DeRidder","2015","Gary and Betty Blackmon","Common Stock","7731","7"
-"Beauregard Bancshares,"Inc"","DeRidder","2015","Carroll A. Green","Common Stock","18072","29"
-"Beauregard Bancshares,"Inc"","Phippsburg","2015","Eleanor Lynn Kay","Common Stock","6551","6"
-"Beauregard Bancshares,"Inc"","DeRidder","2015","Stuart S. Kay,"Jr."","Common Stock","6654","18"
-"Beauregard Bancshares,"Inc"","DeRidder","2015","Millard E. Morris","Common Stock","5323","5"
-"Beauregard Bancshares,"Inc"","None","2015","None","Common Stock","None","None"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Beauregard Bancshares,"Inc."","DeRidder,"LA"","2015","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10","3841839"
+"Beauregard Bancshares,"Inc."","DeRidder,"LA"","2015","Gary and Betty Blackmon","Common Stock","7731","7","3841839"
+"Beauregard Bancshares,"Inc."","DeRidder,"LA"","2015","Carroll A. Green","Common Stock","18072","29","3841839"
+"Beauregard Bancshares,"Inc."","Phippsburg,"ME"","2015","Eleanor Lynn Kay","Common Stock","6551","6","3841839"
+"Beauregard Bancshares,"Inc."","DeRidder,"LA"","2015","Stuart S. Kay,"Jr."","Common Stock","6654","18","3841839"
+"Beauregard Bancshares,"Inc."","DeRidder,"LA"","2015","Millard E. Morris","Common Stock","5323","5","3841839"
+"Beauregard Bancshares,"Inc."","None,"None"","2015","None","None","None","None","3841839"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Beauregard Bancshares,"Inc"","Director","Bailey Living Trust of 1996","Director","n/a","2015"
-"Beauregard Bancshares,"Inc"","Director,"Chairman","President"","Carroll A. Green","Director,"Chairman President"","Green Chevrolet,"Inc."","2015"
-"Beauregard Bancshares,"Inc"","n/a","Stuart S. Kay,"Jr."","None","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Beauregard Bancshares,"Inc."","Director","Bailey Living Trust of 1996","n/a","n/a","2013","Retired","3841839"
+"Beauregard Bancshares,"Inc."","Director,"Chairman","President"","Carroll A. Green","Director,"Chairman President"","Green Chevrolet,"Inc."","2013","N/A","3841839"
+"Beauregard Bancshares,"Inc."","n/a","Stuart S. Kay,"Jr."","n/a","n/a","2013","Retired Judge","3841839"
 ```

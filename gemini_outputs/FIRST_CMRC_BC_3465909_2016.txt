@@ -1,0 +1,37 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Commerce Bancorp,"Inc."","Lewisburg,"TN"","2016","William B Marsh","Voting Common Stock","73323","6.57%","3153297"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Commerce Bancorp,"Inc."","Director & Chairman","William B. Marsh","Chairman & CEO","First Commerce Bank","2016","n/a","3153297"
+"First Commerce Bancorp,"Inc."","Director & Chairman","William B. Marsh","n/a","B&C Property Group","2016","n/a","3153297"
+"First Commerce Bancorp,"Inc."","Director & Board Secretary","Robert E. Wiles Jr.","President,"Chief Operating Officer"","First Commerce Bank","2016","n/a","3153297"
+"First Commerce Bancorp,"Inc."","Director","David Kennedy","n/a","Southern Carton Co Inc","2016","Manufacturing-Southern Carton Co Inc","3153297"
+"First Commerce Bancorp,"Inc."","Director","David Kennedy","n/a","Trinity","2016","Manufacturing-Southern Carton Co Inc","3153297"
+"First Commerce Bancorp,"Inc."","Director","Allen L. Henderson,"Jr."","n/a","First Commerce Bank","2016","Business Owner","3153297"
+"First Commerce Bancorp,"Inc."","Director","Allen L. Henderson,"Jr."","n/a","Lewisburg Ind & Welding","2016","Business Owner","3153297"
+"First Commerce Bancorp,"Inc."","Director","Allen L. Henderson,"Jr."","n/a","NAPA Auto","2016","Business Owner","3153297"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","n/a","First Commerce Bank","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","n/a","Russell Realty","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","n/a","Russell Car Washes","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","n/a","Redi-Wash","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","James L. Russell,"Jr."","n/a","Russell Catering Service","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","First Commerce Bank","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","Truette Construction Co","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","Central States Supply,"Inc"","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","Heil Avenue Properties","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","TBC Land Investment & Development Comp","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","Chunn & Gilbert Partners","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","John O. Chunn","n/a","BBC Limited Liability Co","2016","Contractor","3153297"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","n/a","First Commerce Bank","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","n/a","David Jent Realty & Auction","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","n/a","Jent & Huey","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","Jason Jent","n/a","Jent Huey Richardson Tietgens Partnership","2016","Business Owner/Real Estate Agent","3153297"
+"First Commerce Bancorp,"Inc."","Director","Phyllis L. Brown","n/a","First Commerce Bank","2016","Business Administrator","3153297"
+"First Commerce Bancorp,"Inc."","Associate Executive Vice President","Luke T. Buckley","n/a","First Commerce Bank","2016","n/a","3153297"
+"First Commerce Bancorp,"Inc."","n/a","Kristen Gold","Senior Vice President-Executive Officer","First Commerce Bank","2016","Senior Vice President-Executive Officer","3153297"
+```

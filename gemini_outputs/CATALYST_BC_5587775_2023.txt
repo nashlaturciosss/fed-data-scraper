@@ -1,23 +1,23 @@
-Here are the two tables in CSV format as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Catalyst Bancorp,"Inc."","Opelousas","2023","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","420855","8.84%"
-"Catalyst Bancorp,"Inc."","New York","2023","Alliance Bernstein L.P.","Common Stock","309555","6.50%"
-"Catalyst Bancorp,"Inc."","Mount Grey Capital LLC","2023","Mount Grey Partners LP","Common Stock","282791","5.94%"
-"Catalyst Bancorp,"Inc."","Malvern","2023","The Vanguard Group","Common Stock","251139","5.27%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Opelousas,"Louisiana"","2023","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","420855","8.84%","n/a"
+"Catalyst Bancorp,"Inc."","New York,"New York"","2023","Alliance Bernstein L.P.","Common Stock","309555","6.50%","n/a"
+"Catalyst Bancorp,"Inc."","Little Silver,"New Jersey"","2023","Mount Grey Partners LP","Common Stock","282791","5.94%","n/a"
+"Catalyst Bancorp,"Inc."","Malvern,"Pennsylvania"","2023","The Vanguard Group","Common Stock","251139","5.27%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Chairman of the Board of Directors","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","Director","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Director","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","Director","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Director","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director","Matthew L. Scruggins","Director","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","Director,"President & CEO"","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jacques Bourque","Vice President & Chief Financial Officer","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","n/a","Amanda B. Quebedeaux","Senior Vice President & Director of Operations","Catalyst Bank","2023"
-"Catalyst Bancorp,"Inc."","n/a","Don P. Ledet","Senior Vice President & Chief Risk Officer","Catalyst Bank","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Engineering Technician","Louisiana State Dept. of Transportation","2023","Engineering technician","n/a"
+"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","President & Owner","Targil,"Inc."","2023","President & owner of food product companies","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","K&G on the Geaux,"LLC"","2023","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","Kleiser Enterprises","2023","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","President & CEO","Savoie's Sausage & Food Products,"Inc."","2023","President & CEO,"Savoie's Sausage & Food Products","Inc."","n/a"
+"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Partner","Going,"Sebastien","Fisher & LeBouef","LLP"","2023","Certified Public Accountant","n/a"
+"Catalyst Bancorp,"Inc."","Director","Matthew L. Scruggins","Retired Supervisor of Personnel","St. Landry Parish School System","2023","Retired Supervisor of Personnel","n/a"
+"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","n/a","n/a","2023","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jacques Bourque","n/a","n/a","2023","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Senior Vice President & Director of Operations","Amanda B. Quebedeaux","n/a","n/a","2023","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Senior Vice President & Chief Risk Officer","Don P. Ledet","n/a","n/a","2023","n/a","n/a"
 ```

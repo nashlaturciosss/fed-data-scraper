@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Grand Financial Corporation","Hattiesburg,"Ms"","2014","Edward J. Langton","common stock","215429","95.7879%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Grand Financial Corporation","CEO & Director","Edward J. Langton","CEO","Mortgage Funding Corp","2014","n/a","n/a"
+"Grand Financial Corporation","CEO & Director","Edward J. Langton","CEO","Macleod Publishing","2014","n/a","n/a"
+"Grand Financial Corporation","CEO & Director","Edward J. Langton","CEO","Unicap Inc.","2014","n/a","n/a"
+"Grand Financial Corporation","President and Director","Rucker W. Howell","Pres","Mortgage Funding Corp","2014","n/a","n/a"
+"Grand Financial Corporation","Vice President & Director","Bill Rogers","Owner","Clean Air Services","2014","Owner- Clean Air Services","n/a"
+"Grand Financial Corporation","Director","Fred T Hight,"Jr."","Retired","n/a","2014","n/a","n/a"
+"Grand Financial Corporation","Secretary & Director","Cary E. Williams","Owner","Williams CPA","2014","Owner - Williams CPA","n/a"
+"Grand Financial Corporation","Director","Wesley Griffin","Owner","Griffin Insurance Services","2014","Owner- Griffin Insurance Services","n/a"
+"Grand Financial Corporation","Director","Robert Cornett","Owner","The Cornett Group","2014","Owner - The Cornett Group","n/a"
+```

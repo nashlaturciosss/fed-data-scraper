@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia"","2020","Donald T. Keeter","Common Stock","607423","17.00%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"Georgia"","2020","Robert W. James","Common Stock","393485","11.02%","n/a"
+"Community Banks of Georgia,"Inc."","Fredericksburg,"Texas"","2020","Mickey T. Dunn","Common Stock","358609","10.04%","n/a"
+"Community Banks of Georgia,"Inc."","Ball Ground,"Georgia"","2020","Matthew T. Dunn","Common Stock","304273","8.52%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia"","2020","B. Scott Dobson","Common Stock","293333","8.21%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","n/a","n/a","2020","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","n/a","n/a","2020","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","President","ML Industries,"Inc."","2020","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Managing Partner","Keeter Farms,"LP"","2020","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Trustee","Donald T Keeter Family Trust","2020","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","President","Denson Insurance Agency Inc","2020","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Member","Norton Mountain Agency LLC","2020","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Member","Denson and Kemp Agency LLC","2020","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Member","S A Denson Construction LLC","2020","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Sole Proprietor","Landrum and Landrum","2020","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director & President","Ryan T. Keeter","General Partner","Keeter Farms,"LP"","2020","n/a","n/a"
+"Community Banks of Georgia,"Inc."","Director","Matthew T. Dunn","Financial Analyst","ML Industries,"Inc."","2020","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director","Kristi Ledford","Principal","Affinity Public Relations LLC","2020","Consulting","n/a"
+```

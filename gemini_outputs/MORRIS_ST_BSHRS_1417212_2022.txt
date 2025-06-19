@@ -1,0 +1,20 @@
+"Okay","here are the extracted CSV tables in the requested format:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2022","Livingston Dynasty Trust FBO Lisa Livingston","n/a","133637","6.16%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2022","Livingston Dynasty Trust FBO Claire Livingston","n/a","133636","6.16%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2022","Benefit Trust Company Trustee for Morris Bank","n/a","170462","7.86%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2022","FHF Investment Number 1,"LLC."","n/a","138889","6.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris State Bancshares,"Inc."","CFO","Chris Bond","n/a","n/a","2022","n/a","n/a"
+"Morris State Bancshares,"Inc."","n/a","Lisa Livingston","Director","n/a","2022","None","n/a"
+"Morris State Bancshares,"Inc."","Director/President & CEO","Spence Mullis","Director/President & CEO","n/a","2022","President/CEO Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Chairman/Director","Roger Miller","Director Executive Vice President","n/a","2022","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Executive Vice President","Susan Brandon","Executive Vice President","n/a","2022","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Director","Phillip Faircloth","Director","Farmers Furniture","2022","CEO/Farmers Furniture","n/a"
+"Morris State Bancshares,"Inc."","CFO","Chris M Bond","CFO","n/a","2022","CFO/Morris Bank","n/a"
+```

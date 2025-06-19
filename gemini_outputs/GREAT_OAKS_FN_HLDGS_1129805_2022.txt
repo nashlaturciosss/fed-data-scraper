@@ -1,0 +1,32 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Great Oaks Financial Holdings,"Inc."","University Park,"MD"","2022","WSS Family Trust","n/a","6542.00","20.74%","n/a"
+"Great Oaks Financial Holdings,"Inc."","St. Simons Island,"GA / Eastman","GA"","2022","Lynda S. Franklin","n/a","6331.00","20.07%","n/a"
+"Great Oaks Financial Holdings,"Inc."","Los Angeles,"CA"","2022","Jay-Gould W. Stuckey","n/a","2455","7.80%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bank and Trust Company","n/a","The WSS Family Trust","Trustee","Stuckey Timberland,"Inc."","2022","n/a","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Stuckey Timberland,"Inc."","2022","n/a","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Director/President","Franklin,"Inc."","2022","n/a","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Managing Partner","Franklin Investments,"LP"","2022","n/a","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","President","Tijuana Trading Co.","2022","n/a","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","n/a","Stuckey Timberland,"Inc."","2022","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","n/a","Franklin Investments,"LP"","2022","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","n/a","Franklin,"Inc."","2022","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Jay-Gould Stuckey","n/a","Stuckey Timberland,"Inc."","2022","Artist","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","n/a","Stuckey Timberland,"Inc."","2022","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","n/a","Non-Typical Properties,"LLC"","2022","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Henry Barclay,"III"","n/a","Stuckey Timberland,"Inc."","2022","CPA","n/a"
+"Citizens Bank and Trust Company","Director","Henry Barclay,"III"","n/a","Lehmann,"Ullman and Barclay","LLP"","2022","CPA","n/a"
+"Citizens Bank and Trust Company","Director","Henry Barclay,"III"","n/a","2908 Clairmaont Avenue Associates","2022","CPA","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Bank Executive","Stuckey Timberland,"Inc."","2022","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Bank Executive","The Mulberry Company,"LLC"","2022","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Bank Executive","Great Oaks Holdings,"LLC"","2022","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Bank Executive","Briarcrest Enterprises,"LLC"","2022","Banker","n/a"
+"Citizens Bank and Trust Company","Director","John C. Wright","n/a","Stuckey Timberland,"Inc."","2022","Retired","n/a"
+"Citizens Bank and Trust Company","Director","John McGoldrick","Attorney","Stuckey Timberland,"Inc."","2022","Attorney","n/a"
+```

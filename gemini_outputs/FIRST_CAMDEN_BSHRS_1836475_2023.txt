@@ -1,0 +1,21 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Retired President","Camden National Bank","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","wilcox Investment","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","Law Partnership","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Retired President","Community Neighbor Bank","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","wilcox Investment","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","Law Partnership","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Secretary-Treasurer","Kathryn S. Perryman","Executive Vice Pres.","Community Neighbor Bank","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Vice President","A.L. Johnson,"III"","President & CEO","Community Neighbor Bank","2023","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","John B. Travis","President","Handiman Building Supply,"Inc."","2023","Retail Business Owner","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","Retired President","Browder Veneer","2023","Wood Products Industry","n/a"
+"First Camden Bancshares,"Inc."","Director","William R. Phillippi,"Jr"","Owner","W.R. Phillippi,"DMD"","2023","Dentist","n/a"
+"First Camden Bancshares,"Inc."","Director","William B. Malone Jr.","President","Holman Insurance Agency,"Inc."","2023","Insurance Agent","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2014","L Jackson McConnell,"Sr."","n/a","211157","25.56%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2014","Alice M. Eberhardt","n/a","197763","23.93%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","n/a","2014","Retired","n/a"
+"Pinnacle Financial Corporation","Shareholder","Alice M. Eberhardt","n/a","n/a","2014","Homemaker","n/a"
+"Pinnacle Financial Corporation","President Chairman","L.Jackson McConnell,"Jr."","Chairman","n/a","2014","CEO","n/a"
+"Pinnacle Financial Corporation","Director","Don Fortson","Director","n/a","2014","Retired","n/a"
+"Pinnacle Financial Corporation","Director","Fort Oglesby","Director","Coldwell Banker Fort Realty","2014","Real Estate","n/a"
+"Pinnacle Financial Corporation","Director","Steve Williams","Director","University Family Insurance","2014","Retail Owner","n/a"
+"Pinnacle Financial Corporation","Director","Steve Williams","Director","Tri State Distributors","2014","Retail Owner","n/a"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Director","The Chestnut Company,"LLP"","2014","Medical Dr.","n/a"
+"Pinnacle Financial Corporation","Director","Robert Hardy","Director","n/a","2014","Education","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Director","n/a","2014","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Director","Dr. Thomas E. McGarity Dental,"LLC"","2014","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","Director","Bond Properties,"LLP"","2014","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","Director","Joe T. Cunningham Interiors","2014","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Director","Integrity Valuation Management,"LLC"","2014","Appraisal Order & Review","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","Director","Lee Insurance Agency","2014","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","Director","Elbert Insurance Associate,"Inc."","2014","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","David K. Voyles","Director","n/a","2014","EVP","n/a"
+```

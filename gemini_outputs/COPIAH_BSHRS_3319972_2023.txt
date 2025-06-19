@@ -1,0 +1,19 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2023","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Director","George R. Marx","n/a","n/a","2023","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2023","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Partner","Alco Farms","2023","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Price D. Henley","Owner","Price D. Henley Law Firm,"PLLC"","2023","Attorney","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Carolyn C. Loftin","n/a","n/a","2023","Businesswoman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Partner","Mississippi Machinery","2023","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Victor L. Smith","n/a","n/a","2023","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Donald R. Thompson","n/a","n/a","2023","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Kevin R. Myers","n/a","n/a","2023","Businessman","n/a"
+```

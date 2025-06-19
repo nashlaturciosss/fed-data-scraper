@@ -1,0 +1,26 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","following your exact instructions:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"People's Bank and Trust Co of Pickett","Byrdstown,"TN"","2023","Michael Officer","n/a","n/a","34.28%","n/a"
+"People's Bank and Trust Co of Pickett","Byrdstown,"TN"","2023","Gale Copeland","n/a","n/a","34.28%","n/a"
+"People's Bank and Trust Co of Pickett","Byrdstown,"TN"","2023","Bruce Elder","n/a","n/a","34.28%","n/a"
+"People's Bank and Trust Co of Pickett","Crossville,"TN"","2023","James Cecil Mullins","n/a","n/a","5.18%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"People's Bank and Trust Co of Pickett","CEO,"Trustee"","Bruce E. Elder","n/a","n/a","2023","Banker","942539"
+"People's Bank and Trust Co of Pickett","Pres/COO/CFO/Cshr/Director/Sec,"Trustee"","Michael D. Officer","n/a","n/a","2023","Banker","942539"
+"People's Bank and Trust Co of Pickett","Director","Joseph Amonett","n/a","n/a","2023","Insurance","942539"
+"People's Bank and Trust Co of Pickett","Director","Stephen Bilbrey","n/a","n/a","2023","Self","942539"
+"People's Bank and Trust Co of Pickett","Director,"Trustee"","Gale Copeland","n/a","n/a","2023","Retired","942539"
+"People's Bank and Trust Co of Pickett","Chairman","John Keisling","n/a","Keisling Insurance Agency,"Inc."","2023","Insurance","942539"
+"People's Bank and Trust Co of Pickett","Director","Larry T. Conner","n/a","n/a","2023","Retired","942539"
+"People's Bank and Trust Co of Pickett","Director","David Reeves","n/a","n/a","2023","Concrete plant","942539"
+"People's Bank and Trust Co of Pickett","Director","Terry White","n/a","BWI Pipe and Supply,"Inc."","2023","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett","Director","Terry White","n/a","White Properties,"Inc."","2023","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett","Director","Terry White","n/a","Crude LLC","2023","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett","SVP","Jeremy Howard","n/a","n/a","2023","Banker","942539"
+"People's Bank and Trust Co of Pickett","SVP","Bryan Elder","n/a","n/a","2023","Banker","942539"
+```

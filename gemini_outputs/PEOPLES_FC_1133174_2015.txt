@@ -1,0 +1,25 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Financial Corporation","Biloxi,"MS"","2015","Peoples Financial Corporation Employee Stock Ownership Plan","n/a","285785","5.58%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2015","Thomas E. Quave","n/a","516067","10.13%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2015","A. Tanner Swetman","n/a","866569","16.91%","1133174"
+"Peoples Financial Corporation","Biloxi,"MS"","2015","Chevis C. Swetman","n/a","370189","7.23%","1133174"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Financial Corporation","Chairman,"President & CEO"","Chevis C. Swetman","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","n/a","Drew Allen","President","Allen Beverages,"Inc."","2015","Businessman","1133174"
+"Peoples Financial Corporation","n/a","Rex E. Kelly","Corporate Consultant","n/a","2015","Businessman","1133174"
+"Peoples Financial Corporation","Vice-Chairman","Dan Magruder","President","Rex Distributing Co.,"Inc."","2015","Businessman","1133174"
+"Peoples Financial Corporation","n/a","Jeffrey H. O'Keefe","President","Bradford-O'Keefe Funeral Home,"Inc."","2015","Businessman","1133174"
+"Peoples Financial Corporation","Executive Vice President","A. Wes Fulmer","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","First Vice President","Ann F. Guice","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","Chief Financial Officer and Controller","Lauri A. Wood","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","Second Vice President","J. Patrick Wild","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","Vice President and Secretary","Evelyn R. Herrington","n/a","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","n/a","Thomas E. Quave","Personal Trust Officer","n/a","2015","Banker","1133174"
+"Peoples Financial Corporation","n/a","Andrew Tanner Swetman","Assistant Vice President","Swetman Land Company","2015","Banker","1133174"
+```

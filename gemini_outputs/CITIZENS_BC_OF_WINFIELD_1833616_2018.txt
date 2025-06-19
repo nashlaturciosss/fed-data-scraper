@@ -1,0 +1,25 @@
+Here are the extracted CSV tables from the provided FR Y-6 form.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2018","Russell Carothers","Class A Common Stock","1162","46%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Winfield,"AL"","2018","Robert L. Carothers","Class A Common Stock","1030","40%","n/a"
+"Citizens Bancorp of Winfield,"Inc."","Tuscaloosa,"AL"","2018","William A. Hill,"Jr."","Class A Common Stock","132","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Chairman & CEO"","Russell Carothers","Director,"Chairman","& CEO"","Citizens Bank","2018","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Vice President","Robert L. Carothers","Director & Senior Vice President","Citizens Bank","2018","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director,"Vice Chairman & President"","Christian Hill Carothers","Director,"Vice Chairman & President"","Citizens Bank","2018","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","Director","Citizens Bank","2018","retired manufact. comptroller","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Lead Director","Jimmy Dickinson","retired","Continental Conveyor & Equipment Co","2018","retired manufact. comptroller","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Director","Citizens Bank","2018","Retired manufact. CFO","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","Paul B Wilson","Retired CFO-","Baymont Inc.","2018","Retired manufact. CFO","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","Raymond C Spann,"Jr."","Director","Citizens Bank","2018","Retail business","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","Director","Citizens Bank","2018","Physician","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","William A Hill,"Jr."","Cardiologist-","Cardiology Consultants","2018","Physician","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director & Corporate Sec","Tamra P Trull","Director,"Exec. Vice President","Cashier & Corporate Sec"","Citizens Bank","2018","banker","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","Director","Citizens Bank","2018","Sales Manufact.","293437"
+"Citizens Bancorp of Winfield,"Inc."","Director","John S Garner","Sales","Cavalier Home Bldrs","2018","Sales Manufact.","293437"
+```

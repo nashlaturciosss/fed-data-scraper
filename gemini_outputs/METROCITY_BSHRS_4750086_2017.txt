@@ -1,0 +1,26 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2017","Don T.P. Leung","Common stock","647229","5.38%","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","2017","Nack Y. Paek","Common stock","976553","8.11%","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","2017","Feiying Lu","Common stock","914147","7.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Director,"Chairman & CEO"","Nack Y. Paek","Director & Chairman","Metro City Bank","2017","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Director,"& President"","Farid Tan","Director & CEO","Metro City Bank","2017","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Director,"& Executive VP"","Hwa Saeng Kim","Director & President","Metro City Bank","2017","n/a","n/a"
+"MetroCity Bankshares,"Inc."","EVP / CFO & Assistant Secretary","S. Benton Gunter","EVP / CFO / CAO & Assistant Secretary","Metro City Bank","2017","n/a","n/a"
+"MetroCity Bankshares,"Inc."","Director & Secretary","William Hungeling","Partner","Hungeling & Sons,"P.C."","2017","CPA","n/a"
+"MetroCity Bankshares,"Inc."","Director","Stan Nyen Lai","President","Fulton Beverage Center,"Inc."","2017","Manager","n/a"
+"MetroCity Bankshares,"Inc."","Director","Don T. P. Leung","Director","Metro City Bank","2017","Businessman","n/a"
+"MetroCity Bankshares,"Inc."","Director","Feiying Lu","Director","Metro City Bank","2017","Controller","n/a"
+"MetroCity Bankshares,"Inc."","Director","Young Park","Director","Metro City Bank","2017","Businessman","n/a"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Director","Metro City Bank","2017","Hotelier","n/a"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Director","Amrit & Sons I,"LLC"","2017","Hotelier","n/a"
+"MetroCity Bankshares,"Inc."","Director","Ajit A. Patel","Director","Relax Hospitality,"LLC"","2017","Hotelier","n/a"
+"MetroCity Bankshares,"Inc."","Director","Frank S. Rhee","Director","Metro City Bank","2017","Web designer","n/a"
+"MetroCity Bankshares,"Inc."","Director","Sam S. Shim","Director","SKS Consulting,"Inc."","2017","CPA","n/a"
+```

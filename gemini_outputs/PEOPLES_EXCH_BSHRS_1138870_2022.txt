@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES EXCHANGE BANCSHARES","Director","Thomas A Black,"III"","Director","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Exec V Pres","Marshall Black","n/a","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Exec V Pres","Rachael Boutwell","n/a","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","CEO","Harvey J Gaston,"Jr."","Director","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Director","Tommy Cobb","n/a","n/a","2022","CPA","n/a"
+"PEOPLES EXCHANGE BANCSHARES","President","Kevin Norris","n/a","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Exec V Pres","Bill Rogers","n/a","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Director","Daniel Sawyer","Owner","n/a","2022","Co-Owns & Operates 3- Businesses","n/a"
+"PEOPLES EXCHANGE BANCSHARES","n/a","Claudia B Smith","n/a","n/a","2022","Retired","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Director","Kenneth M Smith","n/a","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Director","Doug R Smith","Manager","Farmers Co-op","2022","Manager Farmers Co-op","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Chairman","Rebecca B Snyder","Chairman","n/a","2022","Banker","n/a"
+"PEOPLES EXCHANGE BANCSHARES","Director","Claire B Stallworth","n/a","n/a","2022","Timber","n/a"
+```

@@ -1,0 +1,27 @@
+"Here are the two tables extracted from the document","formatted as requested:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"People's Bank and Trust Co of Pickett County","Byrdstown,"TN"","2020","Employee Stock Ownership Plan Trust","n/a","16158","33.38%","942539"
+"People's Bank and Trust Co of Pickett County","Crossville,"TN"","2020","James Cecil Mullins","n/a","n/a","5.04%","942539"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"People's Bank and Trust Co of Pickett County","CEO","Bruce E. Elder","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","Trustee","Bruce E. Elder","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","Pres/COO/CFO/Cshr/Director/Sec","Michael D. Officer","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","Trustee","Michael D. Officer","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","Director","Joseph Amonett","n/a","n/a","2020","Insurance","942539"
+"People's Bank and Trust Co of Pickett County","Director","Stephen Bilbrey","n/a","n/a","2020","Grocery","942539"
+"People's Bank and Trust Co of Pickett County","Director","Gale Copeland","n/a","n/a","2020","Retired","942539"
+"People's Bank and Trust Co of Pickett County","Trustee","Gale Copeland","n/a","n/a","2020","Retired","942539"
+"People's Bank and Trust Co of Pickett County","Chairman","John Keisling","Agent/Treasurer","Keisling Insurance Agency,"Inc."","2020","Insurance","942539"
+"People's Bank and Trust Co of Pickett County","Director","Bobby H. Mullins","President","Mullins Lumber Co.,"Inc."","2020","Retired","942539"
+"People's Bank and Trust Co of Pickett County","Director","Larry T. Conner","n/a","n/a","2020","Retired","942539"
+"People's Bank and Trust Co of Pickett County","Director","David Reeves","President","Albany Redi-Mix","2020","Concrete plant","942539"
+"People's Bank and Trust Co of Pickett County","Director","Terry White","President","BWI Pipe and Supply,"Inc."","2020","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett County","Director","Terry White","President","White Properties,"Inc."","2020","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett County","Director","Terry White","President","Crude LLC","2020","Pipe Supply","942539"
+"People's Bank and Trust Co of Pickett County","SVP","Jeremy Howard","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","VP","Bryan Elder","n/a","n/a","2020","Banker","942539"
+"People's Bank and Trust Co of Pickett County","n/a","ESOP Trust","n/a","n/a","2020","Holding company","942539"
+```

@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commercial Capital Corporation","DeKalb,"MS"","2019","T.R. Daws","n/a","18245","6.05%","n/a"
+"Commercial Capital Corporation","DeKalb,"MS"","2019","Margaret S. Womble","n/a","19324","6.40%","n/a"
+"Commercial Capital Corporation","DeKalb,"MS"","2019","James D. Spinks","n/a","20136","6.67%","n/a"
+"Commercial Capital Corporation","Ranson Canyon,"TX"","2019","Louie P Spinks","n/a","15680","5.20%","n/a"
+"Commercial Capital Corporation","DeKalb,"MS"","2019","William Clay","n/a","18725","6.21%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commercial Bank,"The"","Bank Board Chairman","William Clay","Director","East Mississippi Electrical Power Assn","2019","Operator of Clay Feeds","700430"
+"Commercial Bank,"The"","Bank Board Chairman","William Clay","Director","Meridian Stockyard","2019","Operator of Clay Feeds","700430"
+"Commercial Bank,"The"","Bank Board Chairman","William Clay","Director","Ms. High School Activities Assn.","2019","Operator of Clay Feeds","700430"
+"Commercial Bank,"The"","Bank Board Chairman","William Clay","Economics Teacher","EMCC","2019","Operator of Clay Feeds","700430"
+"Commercial Bank,"The"","Bank director","David Sorrels","Director Board Member of","East Mississippi Electrical Power Assn","2019","Retired Insurance Agent","700430"
+"Commercial Bank,"The"","Bank director","David Sorrels","Director Board Member of","Farm Services community member","2019","Retired Insurance Agent","700430"
+"Commercial Bank,"The"","Bank director","David Sorrels","Director Board Member of","Soil & Water conservation district commissioner","2019","Retired Insurance Agent","700430"
+"Commercial Bank,"The"","Bank director","David Sorrels","Director Board Member of","North MS Industrial Development Authority","2019","Retired Insurance Agent","700430"
+"Commercial Bank,"The"","Bank director","David Sorrels","Director Board Member of","East Central Planning & Development District","2019","Retired Insurance Agent","700430"
+"Commercial Bank,"The"","Bank CEO/President & Director","Michael Dudley","n/a","n/a","2019","n/a","700430"
+"Commercial Bank,"The"","Bank director","James D. Spinks","Director","Choctaw Area Council - Boy Scouts","2019","Attorney","700430"
+"Commercial Bank,"The"","Bank director","James D. Spinks","Commissioner","Weems Community Mental Health Center","2019","Attorney","700430"
+"Commercial Bank,"The"","Bank director","William M. Pilgrim","n/a","n/a","2019","Owner of Quick Cash","700430"
+"Commercial Bank,"The"","Bank director","Margaret S. Womble","n/a","Kemper County Economic Development Board","2019","Retired Publications Editor/teacher","700430"
+"Commercial Bank,"The"","Bank director","Margaret S. Womble","n/a","Community Foundation of East Miss Board","2019","Retired Publications Editor/teacher","700430"
+"Commercial Bank,"The"","Bank director","Margaret S. Womble","n/a","Kemper County Historical Association Board","2019","Retired Publications Editor/teacher","700430"
+"Commercial Bank,"The"","Bank EVP/CFO & Director","Wyatt Webb","n/a","n/a","2019","n/a","700430"
+"Commercial Bank,"The"","Bank director","Robert Sanford","Owner of","Benefits Management Group","2019","President & CEO of:","700430"
+"Commercial Bank,"The"","Bank director","Robert Sanford","Owner of","Commercial Insurance Agency","2019","President & CEO of:","700430"
+"Commercial Bank,"The"","Bank director","Kent McClain","Owner of","McLain Plumbing & Electrical Service","2019","Owner of:","700430"
+```

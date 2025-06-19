@@ -1,0 +1,34 @@
+Here are the two tables in valid CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2020","Cynthia McClard","n/a","1645400","28.02%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2020","Charles E. Darnell","n/a","461200","7.85%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2020","Mike Reese","n/a","577800","9.84%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Director/ Vice Chairman","Charles E. Darnell","Partner","Franklin Rental,"Inc."","2020","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ Vice Chairman","Charles E. Darnell","Partner","P & D Investments","2020","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ Vice Chairman","Charles E. Darnell","Partner","C&F Darnell Family Limited Partnership","2020","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","Owner","MWR Enterprises,"Inc. II"","2020","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","Owner","R&P Foods LLC","2020","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","Partner","B&R Rentals","2020","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","Owner","Mike & Yvonne Reese Farm","2020","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Manager / Partner","DT McCall & Sons","2020","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Partner","McCall Realty Co.","2020","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","Manager / Partner","BD Polston & Son Builders Supply Inc","2020","Building Supply","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","Partner","P&D Investments","2020","Building Supply","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","Partner","P & Hix Investments","2020","Building Supply","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","Owner","McClards Gifts","2020","Consulting","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","Executor","Mcclard Foundation","2020","Consulting","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Gail Srygley","None","None","2020","Education","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Ransom Jones","Partner","Larco Group","2020","Retired","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Jon Alan Long","Owner","Dr. Jon Alan Long,"DDS"","2020","Dentist","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Eugene R. London,"Jr."","Owner","SIM&S Inc.","2020","Security Systems","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ EVP","Joe Carter","None","None","2020","Retired Banker","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ President/ CEO","Peter Williston","Limited Partner","Williston Family Partnership LTD","2020","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ EVP","Thomas E. Anderton,"Jr."","None","None","2020","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","CFO Treasurer","Arthur Taylor,"Jr."","None","None","2020","Banking","n/a"
+```

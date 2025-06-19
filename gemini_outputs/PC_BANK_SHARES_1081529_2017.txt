@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2017","E.J. Vann,"IV"","capital stock of P&C Bank Shares,"Inc."","8312","45.22%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2017","Susan Vann Keigans","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Nashville,"TN"","2017","E.J. Vann,"V"","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2017","Lamar Cooper","capital stock of P&C Bank Shares,"Inc."","1000","5.44%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Pres","Joe B. Adams & Sons,"Inc."","2017","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2017","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","CEO","Adams Exports,"Inc."","2017","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Shareholder","Estate of Alva E. Crow,"Jr."","n/a","n/a","2017","n/a","n/a"
+"P&C Bank Shares,"Inc."","Director","Susan V. Keigans","n/a","n/a","2017","EVP & Corporate Secretary","n/a"
+"P&C Bank Shares,"Inc."","Secretary","Susan V. Keigans","n/a","n/a","2017","EVP & Corporate Secretary","n/a"
+"P&C Bank Shares,"Inc."","Chairman","E.J. Vann IV","n/a","n/a","2017","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","President","E.J. Vann IV","n/a","n/a","2017","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","Director","E.J. Vann IV","n/a","n/a","2017","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","CEO","E.J. Vann IV","n/a","n/a","2017","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","Principal Shareholder","E.J. Vann IV","n/a","n/a","2017","Chairman,"President & CEO"","n/a"
+"P&C Bank Shares,"Inc."","Principal Shareholder","E. J. Vann,"V"","n/a","n/a","2017","Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2017","Retired Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","David Cooper","n/a","David Cooper Engineering","2017","Engineering Consultant","n/a"
+"P&C Bank Shares,"Inc."","Principal Shareholder","Lamar Cooper","n/a","Cooper Farms","2017","Retired Farmer","n/a"
+```

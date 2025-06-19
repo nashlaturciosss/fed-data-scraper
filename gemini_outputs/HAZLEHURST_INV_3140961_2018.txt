@@ -1,0 +1,33 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Darrell Beasley","n/a","23868","21.76%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Jacquelyn J. Elrod","n/a","16252","14.82%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Rabun Beasley","n/a","10533","9.60%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Zachary T. Johnson","n/a","9732","8.87%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Saralyn Sears","n/a","6900","6.29%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Derek N. Johnson","n/a","6019","5.49%","3140961"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2018","Latrelle McLeod","n/a","5514","5.03%","3140961"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Director","Darrell Beasley","General Manager","Beasley Forest Products","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Officer","Darrell Beasley","General Manager","Beasley Forst Products,"Inc."","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Partner","Darrell Beasley","General Manager","Beasley Timber Management,"LLC"","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Partner","Darrell Beasley","General Manager","Beasley Timber Company,"Inc."","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Partner,"Shareholder"","Darrell Beasley","General Manager","Beasley Tree Farms,"LLC"","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Partner","Darrell Beasley","General Manager","Beasley Renewable Fuels,"LLC"","2018","General Manager - Beasley Forest Products","3140961"
+"Hazlehurst Investors,"Inc."","Principle and Shareholder","Jacquelyn J. Elrod","Teller","Hazlehurst Main Street,"Inc."","2018","Teller","3140961"
+"Hazlehurst Investors,"Inc."","Director","Grant Gainer","President","Gainer Brothers,"Inc."","2018","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","President","Grant Gainer","President","Gainer & Ragland,"Inc."","2018","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","Secretary","Grant Gainer","President","Brooker Cotton,"Inc"","2018","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","President","Grant Gainer","President","GMG Company","2018","President - Gainer Brothers,"Inc."","3140961"
+"Hazlehurst Investors,"Inc."","Secretary/Treasurer","Latrelle McLeod","n/a","PailetOne","2018","Retired","3140961"
+"Hazlehurst Investors,"Inc."","Chairman of the Board","James H. Peterson","PalletOne Regional Manager","PailetOne","2018","Sales & Procurement","3140961"
+"Hazlehurst Investors,"Inc."","Director","Marcus Trowell,"Jr."","President","Trowell Insurance Agency","2018","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","President","Marcus Trowell,"Jr."","President","Trowell,"Inc."","2018","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","Trustee","Marcus Trowell,"Jr."","President","J.E. Trowell Family Trust","2018","President - Trowell Insurance Agency","3140961"
+"Hazlehurst Investors,"Inc."","President/CEO","Leonard H. Bateman","Bank President","n/a","2018","Bank President","3140961"
+```

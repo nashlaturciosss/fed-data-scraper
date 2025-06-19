@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First IC Corpoation","McDonough,"GA"","2023","Chong W Chun and Kyong H Chun","Common Stock","1005593","11.09%","n/a"
+"First IC Corpoation","McDonough,"GA"","2023","Chong W Chun and Kyong H Chun","Restricted Stock","3630","0.04%","n/a"
+"First IC Corpoation","McDonough,"GA"","2023","Chong W Chun and Kyong H Chun","Family Owned Common Stock","115683","1.28%","n/a"
+"First IC Corpoation","Atlanta,"GA"","2023","Choong S Cho and Boksoo Kim Cho","Common Stock","639838","7.06%","n/a"
+"First IC Corpoation","Brookhaven,"GA"","2023","Myong Tul Chu","Common Stock","599445","6.61%","n/a"
+"First IC Corpoation","Brookhaven,"GA"","2023","Myong Tul Chu","Family Owned Common Stock","76277","0.84%","n/a"
+"First IC Corpoation","Morrow,"GA"","2023","Joe C Liu and Tae Hyun Liu","Common Stock","468407","5.17%","n/a"
+"First IC Corpoation","Morrow,"GA"","2023","Joe C Liu and Tae Hyun Liu","Restricted Stock","1815","0.02%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director Chairman","Chong W Chun","n/a","n/a","2023","n/a","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha","2023","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Johnsboro Inc","2023","Business Owner","n/a"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Oasis International Cuisine Inc.","2023","Business Owner","n/a"
+"First IC Corporation","Director","Eui Suk Lee","Owner","JEC Liquor LLC","2023","Business Owner","n/a"
+"First IC Corporation","Director","Suk Hyun Kim","n/a","n/a","2023","n/a","n/a"
+"First IC Corporation","Director","Lucio Minn","n/a","n/a","2023","n/a","n/a"
+"First IC Corporation","Director President/CEO","Dong Wook Kim","n/a","n/a","2023","n/a","n/a"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2023","n/a","n/a"
+```

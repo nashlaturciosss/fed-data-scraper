@@ -1,0 +1,32 @@
+Here are the two tables extracted from the document in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNS BANCSHARES,"INC."","SCOTTSBORO,"AL"","2018","JOHN W GAY,"JR TRUST"","Common Stock","52490","4.28%","n/a"
+"FNS BANCSHARES,"INC."","SCOTTSBORO,"AL"","2018","JOHN W GAY,"III"","Common Stock","6534","0.53%","n/a"
+"FNS BANCSHARES,"INC."","SCOTTSBORO,"AL"","2018","MAURINE G GAY TRUST","Common Stock","45000","3.67%","n/a"
+"FNS BANCSHARES,"INC."","Atlanta,"Ga"","2018","Alan K. Gay","Common Stock","18793","1.53%","n/a"
+"FNS BANCSHARES,"INC."","Atlanta,"Ga"","2018","Alan K. Gay Trust","Common Stock","45000","3.67%","n/a"
+"FNS BANCSHARES,"INC."","Atlanta,"Ga"","2018","Sharon A. Gay","Common Stock","16858","1.37%","n/a"
+"FNS BANCSHARES,"INC."","Atlanta,"Ga"","2018","Sharon A. Gay Trust","Common Stock","45000","3.67%","n/a"
+"FNS BANCSHARES,"INC."","El Pas,"Tx"","2018","Leigh Ponsford Lovelady","Common Stock","49333","4.02%","n/a"
+"FNS BANCSHARES,"INC."","El Paso,"Tx"","2018","Leigh Ponsford Loveleady Family Trust","Common Stock","23840","1.94%","n/a"
+"FNS BANCSHARES,"INC."","El Paso,"Tx"","2018","Richard Gay Ponsford","Common Stock","48111","3.92%","n/a"
+"FNS BANCSHARES,"INC."","El Paso,"Tx"","2018","Richard G Ponsford Family Trust","Common Stock","23840","1.94%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNS BANCSHARES","VP,"Secretary & Treasurer"","Steven G. Beaird","Executive Vice President & CFO and Secretary of the Board","n/a","2018","n/a","n/a"
+"FNS BANCSHARES","Chairman,"Director"","Alan K Gay","Chairman,"FNB Bank","Director"","BuyMetrics","2018","n/a","n/a"
+"FNS BANCSHARES","Director","Randall H. Giles","Director,"FNB BANK"","n/a","2018","n/a","n/a"
+"FNS BANCSHARES","Director","Hoyt E. Harbin III","Director,"FNB BANK"","Harbin Motor Co.,"Inc. Scottsboro"","2018","President,"Harbin Motor Co.","Inc. Scottsboro"","n/a"
+"FNS BANCSHARES","Director","Don Webb","Director,"FNB BANK"","State Farm Insurance Co. Scottsboro","2018","General Agent,"State Farm Insurance Co. Scottsboro"","n/a"
+"FNS BANCSHARES","Director","M. Paul Holland","Director,"FNB BANK"","n/a","2018","Optometrist","n/a"
+"FNS BANCSHARES","Director","M. Paul Holland","Director,"FNB BANK"","Holland Optometry","2018","Optometrist","n/a"
+"FNS BANCSHARES","Director","James Bergman","Director,"FNB Bank"","n/a","2018","Investment Counselor","n/a"
+"FNS BANCSHARES","Director","James Bergman","Director,"FNB Bank"","Raymond James Investments","2018","Investment Counselor","n/a"
+"FNS BANCSHARES","President & CEO","Stephen M Rownd","President & CEO and Director,"FNB BANK"","n/a","2018","n/a","n/a"
+"FNS BANCSHARES","Director","Christopher J Green","Director,"FNB Bank"","n/a","2018","Doctor of Radiology - Radiology of Huntsville","n/a"
+"FNS BANCSHARES","Director","Christopher J Green","Director,"FNB Bank"","Radiology of Huntsville","2018","Doctor of Radiology - Radiology of Huntsville","n/a"
+```

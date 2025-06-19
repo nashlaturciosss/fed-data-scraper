@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Paradise Bancorp,"inc"","Boca Raton,"FL"","2019","Goldsmith 2012 Irrevocable Trust","Common Stock","215020","5.32%","n/a"
+"Paradise Bancorp,"inc"","Delray Beach,"FL"","2019","Allen D. McGee","Common Stock","203089","5.03%","n/a"
+"Paradise Bancorp,"inc"","Davie,"FL"","2019","William Burke","Common Stock","96936","8.36%","n/a"
+"Paradise Bancorp,"inc"","Boca Raton,"FL"","2019","Ward Kellogg","Common Stock","148585","5.13%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Paradise Bancorp,"inc"","Chairman,"CEO"","Ward Kellogg","n/a","n/a","2019","N/A","n/a"
+"Paradise Bancorp,"inc"","President,"COO"","William Burke","n/a","n/a","2019","N/A","n/a"
+"Paradise Bancorp,"inc"","Chief Credit Officer","Dennis Gavin","n/a","n/a","2019","N/A","n/a"
+"Paradise Bancorp,"inc"","Managing Director","David Englert","n/a","n/a","2019","N/A","n/a"
+```

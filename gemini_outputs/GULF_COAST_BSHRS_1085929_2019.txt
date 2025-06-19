@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares Inc","Lafayette,"LA"","2019","CAP Voiting Trust","COMMON","16782","26.39%","n/a"
+"Gulf Coast Bancshares Inc","Lafayette,"LA"","2019","Paul Patout,"Patrick Patout","and Raymond Patout","Trustee"","COMMON","16782","26.39%","n/a"
+"Gulf Coast Bancshares Inc","Abbeville,"LA"","2019","LeBlanc Family irrevocable Trust","COMMON","3600","5.66%","n/a"
+"Gulf Coast Bancshares Inc","Abbeville,"LA"","2019","LeBlanc","COMMON","3600","5.66%","n/a"
+"Gulf Coast Bancshares Inc","Abbeville,"LA"","2019","Charles E. Dill Jr.","COMMON","3517","5.53%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares Inc","Director","Lorraine LeBlanc","Director","Gulf Coast Bank","2019","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director","Lorraine LeBlanc","President","GCB Financial Services Inc","2019","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director & President","Paul Patout","Director","Gulf Coast Bank","2019","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director & Chairman","Patrick Patout","Director","Gulf Coast Bank","2019","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director & Chief Finance Officer","Jason Patout","n/a","Gulf Coast Bank","2019","n/a","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","Attorney","Gulf Coast Bank","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","n/a","Ottinger Hebert,"LLC"","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","n/a","Magellan Construction LLC","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","n/a","Magellan Development LLC","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","n/a","Gulf Pinhook Associates LLC","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","Paul J. Hebert","n/a","Jimmy Johns LLC Lafayette","2019","Attorney","n/a"
+"Gulf Coast Bancshares Inc","Director","EugeneM. Sellers,"Jr."","President","Gulf Coast Bank","2019","Architect","n/a"
+"Gulf Coast Bancshares Inc","Director","EugeneM. Sellers,"Jr."","n/a","The Sellers Group","2019","Architect","n/a"
+"Gulf Coast Bancshares Inc","Director","Christopher Dardeau","n/a","Gulf Coast Bank","2019","n/a","n/a"
+```

@@ -1,0 +1,31 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community State Bank","Jacksonville,"USA"","2022","Robert Peterson","common","150","3.55%","n/a"
+"Community State Bank","Jacksonville,"USA"","2022","Robert Peterson","warrants","150","1.80%","n/a"
+"Community State Bank","Jupiter,"USA"","2022","Frank Rodriquez & Kellyn Hall,"Tenants by Entirety"","common","200","4.74%","n/a"
+"Community State Bank","Jupiter,"USA"","2022","Frank Rodriquez & Kellyn Hall,"Tenants by Entirety"","warrants","200","2.40%","n/a"
+"Community State Bank","Saint Augustine,"USA"","2022","Don Wenner","common","825","19.54%","n/a"
+"Community State Bank","Saint Augustine,"USA"","2022","Don Wenner","warrants","825","9.91%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community State Bank","Chairman","Don Wenner","CEO,"DLP Caital"","DLP Capital","2022","n/a","n/a"
+"Community State Bank","Vice Chair","Robert Peterson","CFO,"DLP Capital"","n/a","2022","CFO,"DLP Capital"","n/a"
+"Community State Bank","Board Member","Frank Rodriguez","Chairman,"Miramar Group"","Miramar Group","2022","Chairman,"Miramar Group"","n/a"
+"Community State Bank","Board Member","Lisa A. Narrell-Mead","CEO,"Everett Advisory Part."","Everett Advisory Part.","2022","Attorney","n/a"
+"Community State Bank","Board Member","M. Allen Hatfield","Chairman","n/a","2022","Entrepreneur","n/a"
+"Community State Bank","Board Member","Eric Smith","n/a","n/a","2022","Attorney","n/a"
+"Community State Bank","President,"CEO","& Director"","David Bridgeman","n/a","n/a","2022","Bank CEO","n/a"
+"Community State Bank","Secretary","Carolyn Reddish","EVP/COO","n/a","2022","n/a","n/a"
+"Community State Bank","SVP / CFO","Jon C. Grebinger","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","SVP,"Director"","Joseph Marsocci","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","VP/CIO","James Eison","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","AVP / Sr. Credit Analyst","Jay DeAendrade","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","SVP / BSA,"Compliance Officer"","Andrea Wasson","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","VP / Regional Operations Manager","Tammie Woodard","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","VP / Branch Manger","Jennie Reed","n/a","n/a","2022","n/a","n/a"
+"Community State Bank","VP / Special Assets & Credit Officer","Andrea Bailey","n/a","n/a","2022","n/a","n/a"
+```

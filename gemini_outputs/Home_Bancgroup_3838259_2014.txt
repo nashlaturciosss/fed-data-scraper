@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancgroup,"Inc."","Miami Beach,"Florida"","2014","Alexey Kravtsov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2014","Chingiz Askerov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2014","Tagir Saydkuzhin","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Delray Beach,"Florida"","2014","Vladimir Berkovich","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Bluffton,"South Carolina"","2014","Sergey Khotimskiy and Dmitriy Khotimskiy","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Sunny Isles,"Florida"","2014","Mikhail Trakhtenberg and Tatiana Polozok","n/a","80","8.4%","n/a"
+"Home Bancgroup,"Inc."","Moscow,"Russia"","2014","Sergey Orlovskiy","n/a","52","5.5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancgroup,"Inc."","Director/Chairman/President/CEO","Scott F. Rosenberg","n/a","n/a","2014","Banker and Attorney","n/a"
+"Home Federal Bank of Hollywood","Chairman","Scott F. Rosenberg","n/a","n/a","2014","Banker and Attorney","2728746"
+"Home Federal Bank of Hollywood","Director/President/CEO","Robert Brookes","n/a","n/a","2014","Banker","2728746"
+"Key to Banking LLC","President","Robert Brookes","n/a","n/a","2014","Banker","n/a"
+"n/a","Director/Treasurer","Robert Brookes","Director","Rotary Club of Key Biscayne Foundation","2014","Banker","n/a"
+"n/a","Director/Treasurer","Robert Brookes","Treasurer","Miami Children's Chorus","2014","Banker","n/a"
+"n/a","Director/Treasurer","Robert Brookes","Director","Key Biscayne Chamber of Commerce","2014","Banker","n/a"
+"Home Federal Bank of Hollywood","Director/Sr Vice President","Brian Cole","n/a","n/a","2014","Banker","2728746"
+"n/a","Sr Vice President","Brian Cole","n/a","n/a","2014","Banker","n/a"
+"Home Federal Bank of Hollywood","Director","Michael Newett","n/a","n/a","2014","Bank Consultant","2728746"
+"n/a","n/a","Michael Newett","Sole Proprietor","Isla del Sol","2014","Bank Consultant","n/a"
+"Home Federal Bank of Hollywood","Director","Marta Villacorta","n/a","n/a","2014","Attorney and Retired Florida Department of Corrections Regional Director","2728746"
+"Home Federal Bank of Hollywood","Director","Carlos Rionda","n/a","n/a","2014","Engineer","2728746"
+"n/a","n/a","Carlos Rionda","Manager","QSOL Florida,"LLC"","2014","Engineer","n/a"
+"n/a","n/a","Carlos Rionda","Manager","South East Renewable Fuels,"LLC"","2014","Engineer","n/a"
+"Home Federal Bank of Hollywood","Director","Fredric Garfinkle","n/a","n/a","2014","Retired FDIC Examiner","2728746"
+```

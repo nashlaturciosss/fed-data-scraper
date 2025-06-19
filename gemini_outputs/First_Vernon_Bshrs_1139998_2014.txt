@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2014","Samuel F. Johnson","Common Shares","23784","41.21%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2014","Samuel F. Johnson","Common Shares","10203","17.68%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2014","Rebecca Lea Johnson","Common Shares","1506","2.61%","1139998"
+"First Vernon Bancshares,"Inc."","Vernon,"AL"","2014","Rebecca Lea Johnson","Common Shares","32784","56.80%","1139998"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Vernon Bancshares,"Inc."","Chairman of the Board and Chief Executive Officer","Samuel F. Johnson","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Vice President and Director","Rebecca Lea Johnson","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Vice President & Director","Rex Larry Huggins","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Co-Chief Executive Officer,"Chief Financial Officer","and Director"","Samuel A. Johnson","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Executive Vice President & Chief Operations Officer","Judy B. Biggers","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Director","Don Callaway","n/a","n/a","2014","Retired","1139998"
+"First Vernon Bancshares,"Inc."","Director","Jonathan A. Brown","n/a","n/a","2014","District Judge","1139998"
+"First Vernon Bancshares,"Inc."","Director","Charles Cook","n/a","n/a","2014","Pharmacist","1139998"
+"First Vernon Bancshares,"Inc."","Director","W. Russell Brown","n/a","n/a","2014","Insurance Executive","1139998"
+"First Vernon Bancshares,"Inc."","Director","Justin Shelton","n/a","n/a","2014","Executive in remarketing/exporting business","1139998"
+"First Vernon Bancshares,"Inc."","Director","Larry W. Clark","n/a","n/a","2014","President of Car Dealership","1139998"
+"First Vernon Bancshares,"Inc."","Director","Charles W. Rigdon","n/a","n/a","2014","President of Car Dealership","1139998"
+"First Vernon Bancshares,"Inc."","Vice President","Marsha Granen","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Co-Chief Executive Officer,"President"","Joy Spencer","n/a","n/a","2014","Banking","1139998"
+"First Vernon Bancshares,"Inc."","Executive Vice President & Senior Credit Officer","Karl Williams","n/a","n/a","2014","Banking","1139998"
+```

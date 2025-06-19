@@ -1,0 +1,33 @@
+Here are the extracted CSV tables from the document:
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Chris F. Irwin,"III"","Common Stock","878","21.95%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","William L. Salter,"III"","Common Stock","389","9.73%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Jared Findlay Irwin Morel","Common Stock","376","9.40%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Ann S. Jones","Common Stock","360","9.00%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Pendery I. McCoy","Common Stock","329","8.23%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","GDW Salter,"LLC"","Common Stock","263","6.58%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Ray S. Irwin","Common Stock","139","3.48%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Jennifer B. S. Lower","Common Stock","54","1.35%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Rebecca J. Youngblood","Common Stock","54","1.35%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Leigh A. Irwin","Common Stock","26","0.65%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Ivy L. Irwin","Common Stock","16","0.40%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Jane C. Salter","Common Stock","10","0.25%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Karin P. Salter","Common Stock","8","0.20%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Robert Z. Jones","Common Stock","8","0.20%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Austin O. Youngblood","Common Stock","2","0.05%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Carson R. McCoy","Common Stock","1","0.03%","n/a"
+"GDW Bankshares,"Inc."","Sandersville,"GA"","2023","Cooper F. McCoy","Common Stock","1","0.03%","n/a"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GDW Bankshares,"Inc."","Director Chairman/CEO","Chris F. Irwin,"III"","Director Chairman/CEO","The Geo. D. Warthen Bank","2023","n/a","n/a"
+"GDW Bankshares,"Inc."","Director President/CFO","Kenneth A. Bibb","Director President","The Geo. D. Warthen Bank","2023","n/a","n/a"
+"GDW Bankshares,"Inc."","Director","Clark C. Avant","Director","The Geo. D. Warthen Bank","2023","Retired","n/a"
+"GDW Bankshares,"Inc."","Director","Keenen R. Howard","Owner","The Law Offices of Keenan Richard Howard,"LLC"","2023","Attorney","n/a"
+"GDW Bankshares,"Inc."","Director","William F. Murhpy","Director","The Geo. D. Warthen Bank","2023","Retired","n/a"
+"GDW Bankshares,"Inc."","n/a","Ray S. Irwin","n/a","n/a","2023","N/A","n/a"
+"GDW Bankshares,"Inc."","n/a","Ivy L. Irwin","n/a","n/a","2023","N/A","n/a"
+"GDW Bankshares,"Inc."","n/a","Leigh A. Irwin","n/a","n/a","2023","N/A","n/a"
+"GDW Bankshares,"Inc."","n/a","Pendery I. McCoy","n/a","n/a","2023","N/A","n/a"
+```

@@ -1,0 +1,24 @@
+Here are your requested CSV formatted tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Director","George R. Archer,"Jr."","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","George R. Archer,"Jr."","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Billy Atkins","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Billy Atkins","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Bamett","n/a","KY-TN Livestock","2023","Livestock Warehouse/ Farmer","n/a"
+"Legends Financial Holdings,"Inc."","Director,"President & CEO"","Tommy Bates","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","n/a","Goad Construction Co","2023","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","EVP & Chief Banking Officer","Jeremy Hoard","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Kelly","n/a","The Air Assault Team - KW","2023","RE Agency","n/a"
+"Legends Financial Holdings,"Inc."","Director","Teresa Kingery","n/a","Kingery & Associates","2023","Recruiting Firm","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Vice-Chairman"","Dick Littleton","n/a","n/a","2023","Real Estate agent","n/a"
+"Legends Financial Holdings,"Inc."","Director","Pravin (Bob) Patel","n/a","n/a","2023","Retired","n/a"
+"Legends Financial Holdings,"Inc."","EVP/CFO","Lee Pedigo","n/a","n/a","2023","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jeff Turner","n/a","Ajax Distributing Co","2023","Owner/President","n/a"
+"Legends Financial Holdings,"Inc."","Director,"Chairman"","Doug Weiland","n/a","n/a","2023","Retired","n/a"
+```

@@ -1,0 +1,36 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2016","Elois B. Johnson","common stock","8125","39%","879439"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2016","Jacki Johnson Andrews","common stock","1499","7%","879439"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2016","Susan Johnson Bunch","Common Stock","1578","7%","879439"
+"Feliciana Bancshares,"Inc."","Clinton,"LA"","2016","Lyman L. Fleniken,"Jr"","Common Stock","1159","5%","879439"
+"Feliciana Bancshares,"Inc."","Zachary,"LA"","2016","Judy Johnson Myles","Common Stock","1796","8%","879439"
+"Feliciana Bancshares,"Inc."","Zachary,"LA"","2016","The Paula Jaye Johnson S-Corp Trust","Common Stock","1226","5%","879439"
+"Feliciana Bancshares,"Inc."","n/a","2016","Grandchildren of Elois B. Johnson","Common Stock","828","4%","879439"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Feliciana Bancshares,"Inc."","Director & Senior Vice President","Jaye M. Bunch","n/a","n/a","2016","n/a","879439"
+"Feliciana Bancshares,"Inc."","Director & Chairman of the Board","Susan J. Bunch","n/a","n/a","2016","Manager Law Office","879439"
+"Feliciana Bancshares,"Inc."","Director & Secretary","Judy J. Myles","Office Manager","Myles Law Firm","2016","Manager Law Office","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken One Stop","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Bluff Creek Redi-Mix","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken One-Stop Inc","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken's Sand & Gavel,"Inc"","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Flen-Rock Company LLC","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","Lyman L. Fleniken","Owner","Fleniken Farms","2016","Convenience Store Operator","879439"
+"Feliciana Bancshares,"Inc."","Director","John M. Powell,"Jr."","n/a","Feliciana Escrow","2016","Retired","879439"
+"Feliciana Bancshares,"Inc."","Director","John M. Powell,"Jr."","n/a","John Powell,"LLC"","2016","Retired","879439"
+"Feliciana Bancshares,"Inc."","Director,"President","& Chief Executive Officer"","John Irwin Stewart","n/a","CSIC LLC","2016","n/a","879439"
+"Feliciana Bancshares,"Inc."","Director","Bradley S. Gayle","Pharmacy Owner","AMG,"LLC"","2016","Pharmacy Owner","879439"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Forester","Hurst Forestry Services,"LLC"","2016","Forester","879439"
+"Feliciana Bancshares,"Inc."","Director","Mark R. Hurst","Forester","H&H Tree,"LLC"","2016","Forester","879439"
+"Feliciana Bancshares,"Inc."","n/a","Zachary,"LA USA"","n/a","n/a","2016","Retired","879439"
+"Feliciana Bancshares,"Inc."","Treasurer & CFO","Tracye L. Browning","n/a","n/a","2016","n/a","879439"
+"Feliciana Bancshares,"Inc."","COO","Matthew Knight","n/a","n/a","2016","n/a","879439"
+"Feliciana Bancshares,"Inc."","n/a","Jacki J. Andrews","Employee","n/a","2016","Nurse","879439"
+"Feliciana Bancshares,"Inc."","n/a","The Paula Jaye Johnson S-Corp Trust","n/a","n/a","2016","n/a","879439"
+```

@@ -1,0 +1,22 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2016","Madie E. Howell Trust","n/a","39042","47.7","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2016","Madie H. Poole","n/a","9036","11.0","n/a"
+"Moundville Bancshares,"Inc."","Moundville,"AL"","2016","Victor P. Poole","n/a","7199","8.8","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Moundville Bancshares,"Inc."","Director & Chairman","Madie H. Poole","n/a","n/a","2016","n/a","n/a"
+"Moundville Bancshares,"Inc."","Director & CEO/President","Howell Poole","President","Carthage Drive,"Inc."","2016","n/a","n/a"
+"Moundville Bancshares,"Inc."","Consultant","Victor P. Poole","General partner","Sotrend II Oil and Gas","2016","n/a","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Moundville Communications","2016","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Larry P. Taylor","President","Riverbend Cable","2016","President and GM,"Moundville Communications","Inc."","n/a"
+"Moundville Bancshares,"Inc."","Director","Bernard T. Martin","Alfa Area Representative","n/a","2016","Alfa Area Representative","n/a"
+"Moundville Bancshares,"Inc."","Director","Robert B. Lake","Director","West Alabama Regional Commission","2016","Director,"West Alabama Regional Commission"","n/a"
+"Moundville Bancshares,"Inc."","Director","William A. (Sonny) Ryan","n/a","n/a","2016","Retired Judge,"Hale County"","n/a"
+"Moundville Bancshares,"Inc."","Treasurer","Julie W. Thomas","Assistant Vice President of Operations","n/a","2016","n/a","n/a"
+"Moundville Bancshares,"Inc."","N/A - Trust","Madie E. Howell Trust","n/a","n/a","2016","N/A - Trust","n/a"
+```

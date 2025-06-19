@@ -1,0 +1,20 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FEB Bancshares,"Inc"","Montgomery,"Alabama"","2022","Slawson,"Jr.","Guice"","common stock","182417","31.39%","n/a"
+"FEB Bancshares,"Inc"","Montgomery,"Alabama"","2022","Slawson,"Joe Stinson"","common stock","182419","31.39%","n/a"
+"FEB Bancshares,"Inc"","Montgomery,"Alabama"","2022","Slawson,"William Edgar"","common stock","182418","31.39%","n/a"
+"FEB Bancshares,"Inc"","Enterprise,"Alabama"","2022","Carr,"William H."","common stock","29209","5.03%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FEB Bancshares,"Inc"","Director","Dennis Adam","President / CEO","Timberline Homes","2022","Mobile Home Dealership","n/a"
+"FEB Bancshares,"Inc"","Director","Guice Slawson,"Jr."","Secretary","Slawson Manufacturing Co.","2022","Woodtreating","n/a"
+"FEB Bancshares,"Inc"","Director","Joe Stinson Slawson","Vice President","Slawson Manufacturing Co.","2022","Woodtreating","n/a"
+"FEB Bancshares,"Inc"","Director","William Edgar Slawson","President","Slawson Manufacturing Co.","2022","Woodtreating","n/a"
+"FEB Bancshares,"Inc"","Director","William B. Stokes","Principal","Stokes & Stokes,"PC"","2022","Attorney","n/a"
+"FEB Bancshares,"Inc"","Director","Christopher Watkins","Manager","Point Logistics,"LLC"","2022","Managing Partner","n/a"
+"FEB Bancshares,"Inc"","President and CEO","Steve Smith","President and CEO","n/a","2022","Bank CEO","n/a"
+```

@@ -1,0 +1,38 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBG FINANCIAL SERVICES","INC","Miramar Beach","Fl","2023","Caroline Dauzat","n/a","4.09%","n/a"
+"PBG FINANCIAL SERVICES","INC","Graceville","Fl","2023","David M Watford","n/a","4%","n/a"
+"PBG FINANCIAL SERVICES","INC","Dothan","AL","2023","John B Turner","n/a","7.2%","n/a"
+"PBG FINANCIAL SERVICES","INC","Graceville","Fl","2023","Carol C Smith","n/a","7.9%","n/a"
+"PBG FINANCIAL SERVICES","INC","Graceville","Fl","2023","Benjie L Crisp","n/a","5.2%","n/a"
+"PBG FINANCIAL SERVICES","INC","Inlet Beach","Fl","2023","Charles F McRae","n/a","4.10%","n/a"
+"PBG FINANCIAL SERVICES","INC","Graceville","Fl","2023","Chris Jemigan","n/a","0","n/a"
+"PBG FINANCIAL SERVICES","INC","Graceville","Fl","2023","C Finley McRae","n/a","20.48%","n/a"
+"PBG FINANCIAL SERVICES","INC","n/a","n/a","Robert F MeRae,"Jr"","n/a","13.81%","n/a"
+"PBG FINANCIAL SERVICES","INC","Jacksonville","Fl","2023","Suzanne M Sheffield","n/a","11.62%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBG FINANCIAL SERVICES","INC","Chrm Pres Director","Donald R Graham","Director","Peoples Bank of Graceville","2023","Retired","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Michael T Smith","Director","Peoples Bank of Graceville","2023","Comptroller Rex Lumber & Related Companies","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Michael T Smith","MM MESA Properties","NW FI","2023","Comptroller Rex Lumber & Related Companies","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Ronald Barber","Director","Peoples Bank of Graceville","2023","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Ronald Barber","Partner","Donald Ronald Farms","2023","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Ronald Barber","VP","Barber Fertilizer Co,"Inc"","2023","Mgr Campbellton Farm Service","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Caroline Dauzat","Owner/President","Apalachee Pole Co","2023","CFO Rex Lumber","n/a"
+"PBG FINANCIAL SERVICES","INC","VP/Director","David M Watford","Pres,"CEO","V Chrm Director"","Peoples Bank of Graceville","2023","President Peoples Bank Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Director Secretary","John B Turner","Sec/Director","Peoples Bank of Graceville","2023","Auditor Peoples Bank Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Treas Director","Carol C Smith","EVP/Director","Peoples Bank Graceville","2023","EVP/Cashier Peoples Bank of Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Treas Director","Carol C Smith","MM","MESA Properties of NW FI","2023","EVP/Cashier Peoples Bank of Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Benjie L Crisp","SVP Director","Peoples Bank of Graceville","2023","EVP Peoples Bank of Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Benjie L Crisp","Owner","Compliance Data Plus Corp","2023","EVP Peoples Bank of Graceville","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Charles F McRae","Director","Peoples Bank of Graceville","2023","COO,"Rex Lumber"","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Chris Jemigan","Director","Peoples Bank of Graceville","2023","CEO Arnold Lumber","n/a"
+"PBG FINANCIAL SERVICES","INC","Director","Chris Jemigan","Managing Member","Jernigan Forest Products,"LLC"","2023","CEO Arnold Lumber","n/a"
+"PBG FINANCIAL SERVICES","INC","n/a","C Finley McRae","n/a","n/a","2023","n/a","n/a"
+"PBG FINANCIAL SERVICES","INC","n/a","Robert F MeRae,"Jr"","n/a","n/a","2023","n/a","n/a"
+"PBG FINANCIAL SERVICES","INC","n/a","Suzanne M Sheffield","n/a","n/a","2023","Retired","n/a"
+```

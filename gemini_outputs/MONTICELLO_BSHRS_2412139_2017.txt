@@ -1,0 +1,33 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MONTICELLO BANCSHARES,"INC."","Monticello,"GA"","2017","Don B. Kelly","n/a","2723","9.53%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Monticello,"GA"","2017","Louise N. Kelly (Wife of Don)","n/a","265",".93%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Bogart,"GA"","2017","D. Bruce Kelly Jr. (son of Don)","n/a","795","2.78%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Bogart,"GA"","2017","Melissa A. Kelly (Daugher-in - Law of Don B. Kelly)","n/a","51",".18%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Bogart,"GA"","2017","Donald Bruce Kelly,"III (Grandson of Don B. Kelly)"","n/a","62",".22%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Bogart,"GA"","2017","Taylor Anne Kelly (Granddaughter of Don B. Kelly)","n/a","52",".18%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Thomasville,"GA"","2017","Elizabeth Ausley Wade","n/a","2320","8.12%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Thomasville,"GA"","2017","Elizabeth A. Wade","n/a","400","1.40%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Decatur,"GA"","2017","Louis W. Benton,"Sr Trust"","n/a","3940","13.79%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Decatur,"GA"","2017","Ann R. Benton (Trustee of Louis W. Benton,"Sr Trust)"","n/a","1055","3.70%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Macon,"GA"","2017","E. Clyde Kelly,"III"","n/a","2647","9.26%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Cumming,"GA"","2017","Keryn K. Arnett (daughter of E. Clyde Kelly)","n/a","825","2.89%","2412139"
+"MONTICELLO BANCSHARES,"INC."","Smyrna,"GA"","2017","Jennifer Kelly (daugher of E. Clyde Kelly)","n/a","825","2.89%","2412139"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MONTICELLO BANCSHARES,"INC."","President Director","Steve Jordan","CEO Director","n/a","2017","Banker","2412139"
+"MONTICELLO BANCSHARES,"INC."","Chairman Secretary Director","Don Kelly","Chairman Director","n/a","2017","Banker","2412139"
+"MONTICELLO BANCSHARES,"INC."","Director","Joel M. Gaston","Director","Jasper County Lumber","2017","Owner Jasper Co. Lumber","2412139"
+"MONTICELLO BANCSHARES,"INC."","Director","S. Walker Jordan Jr.","President","n/a","2017","Banker","2412139"
+"MONTICELLO BANCSHARES,"INC."","Director","E.O. Jordan","Director","n/a","2017","Surveyor","2412139"
+"MONTICELLO BANCSHARES,"INC."","Director","D. Bruce Kelly Jr.","Director","n/a","2017","Investment Manager","2412139"
+"MONTICELLO BANCSHARES,"INC."","Director","W. Dan Roberts","Director","n/a","2017","Attorney","2412139"
+"MONTICELLO BANCSHARES,"INC."","Trustee","Louis W. Benton Sr. Trust","n/a","n/a","2017","n/a","2412139"
+"MONTICELLO BANCSHARES,"INC."","Trustee","Ann R. Benton","n/a","n/a","2017","n/a","2412139"
+"MONTICELLO BANCSHARES,"INC."","n/a","Dr. E. Clyde Kelly III","n/a","n/a","2017","Doctor","2412139"
+"MONTICELLO BANCSHARES,"INC."","n/a","Elizabeth Auslley Wade","n/a","n/a","2017","n/a","2412139"
+```

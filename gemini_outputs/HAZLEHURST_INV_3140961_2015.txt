@@ -1,0 +1,36 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Darrell Beasley","n/a","23868","21.76%","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Jacquelyn J. Elrod","n/a","16252","14.82%","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Rabun Beasley","n/a","10533","9.60%","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Zachary T. Johnson","n/a","9732","8.87%","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Derek N. Johnson","n/a","6019","5.49%","n/a"
+"Hazlehurst Investors,"Inc."","Hazlehurst,"GA"","2015","Latrelle McLeod","n/a","5514","5.03%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hazlehurst Investors,"Inc."","Director,"Hazlehurst Investors","Inc."","Darrell Beasley","Officer","Beasley Forst Products,"Inc."","2015","General Manager-Beasley Forest Products","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Darrell Beasley","Partner","Beasley Timber Management,"LLC"","2015","General Manager-Beasley Forest Products","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Darrell Beasley","Partner","Beasley Timber Company,"Inc."","2015","General Manager-Beasley Forest Products","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Darrell Beasley","Partner,"Shareholder"","Beasley Tree Fenns,"LLC"","2015","General Manager-Beasley Forest Products","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Darrell Beasley","Partner","Beasley Renewable Fuels,"LLC"","2015","General Manager-Beasley Forest Products","n/a"
+"Hazlehurst Investors,"Inc."","Principle and Shareholder,"Hazlehurst Investors","Inc."","Jacquelyn J. Elrod","Partner","Hazlehurst Main Street,"Inc."","2015","Teller","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Hazlehurst Investors","Inc."","Grant Gainer","President","Gainer Brothers,"Inc."","2015","President-Gainer Brothers,"Inc."","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Grant Gainer","Secretary","Gainer & Ragland,"Inc."","2015","President-Gainer Brothers,"Inc."","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Hazlehurst Investors","Inc."","Latrelle McLeod","n/a","None","2015","Retired","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Latrelle McLeod","n/a","None","2015","Retired","n/a"
+"Hazlehurst Investors,"Inc."","Secretary/Treasurer,"Director","Hazlehurst Investors","Inc."","James H. Peterson","Regional Manager","PalletOne","2015","Sales & Procurement","n/a"
+"Hazlehurst Investors,"Inc."","Secretary,"Director","Bank of Hazlehurst"","James H. Peterson","n/a","None","2015","Sales & Procurement","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Hazlehurst Investors","Inc."","Jimmie Ryles","n/a","None","2015","Retired","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Jimmie Ryles","n/a","None","2015","Retired","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Hazlehurst Investors","Inc."","Marcus Trowell,"Jr."","President","Trowell Insurance Agency","2015","President-Trowell Insurance Agency","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Marcus Trowell,"Jr."","n/a","Trowell,"Inc."","2015","President-Trowell Insurance Agency","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Bank of Hazlehurst"","Marcus Trowell,"Jr."","Trustee","J.E. Trowel Family Trust","2015","President-Trowell Insurance Agency","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Chairman","Hazlehurst Investors","Inc."","E. M. Wilkes,"III"","Director & Secratary","Jeff Davis Athletic Association,"Inc."","2015","Superior Court Judge","n/a"
+"Hazlehurst Investors,"Inc."","Director,"Chaiman","Bank of Hazlehurst"","E. M. Wilkes,"III"","Director & Secratary","Jeff Davis Athletic Association,"Inc."","2015","Superior Court Judge","n/a"
+"Hazlehurst Investors,"Inc."","President/CEO,"Director","Hazlehurst Investors","Inc."","Leonard H. Bateman","n/a","None","2015","Bank President","n/a"
+"Hazlehurst Investors,"Inc."","President/CEO,"Director","Bank of Hazlehurst"","Leonard H. Bateman","n/a","None","2015","Bank President","n/a"
+```

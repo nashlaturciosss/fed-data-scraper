@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Frankewing Bancshares,"Inc."","Pulaski,"USA"","2018","BETTY HOPKINS","common stock","37530","9.836%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"USA"","2018","MEADE C HOPKINS","common stock","44460","11.652%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"USA"","2018","EARL WAKEFIELD","common stock","41379","10.771%","n/a"
+"Frankewing Bancshares,"Inc."","Pulaski,"USA"","2018","ESTATE OF KATHLEEN WAKEFIELD","common stock","28652","7.509%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Frankewing Bancshares,"Inc."","Director,"Director & President"","David W. Barnes","n/a","n/a","2018","n/a","n/a"
+"Frankewing Bancshares,"Inc."","Director","David Blake Lay","Manager","ISS Enterprises,"LLC"","2018","Property Management","n/a"
+"Frankewing Bancshares,"Inc."","Director,"CEO/Chairman"","Meade C Hopkins","n/a","n/a","2018","n/a","n/a"
+"Frankewing Bancshares,"Inc."","Director","Gerald Martin","n/a","n/a","2018","Auto Repair","n/a"
+"Frankewing Bancshares,"Inc."","Director","Mike Mayfield","n/a","n/a","2018","Director of Farm Credit Services in Giles County","n/a"
+"Frankewing Bancshares,"Inc."","Director,"EVP/Cashier"","Jeff Stewart","n/a","n/a","2018","n/a","n/a"
+"Frankewing Bancshares,"Inc."","Director","Earl Wakefield","n/a","n/a","2018","Retired","n/a"
+```

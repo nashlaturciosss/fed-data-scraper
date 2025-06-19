@@ -1,0 +1,23 @@
+"Okay","here are the two CSV tables extracted from the document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2015","E.J. Vann,"IV"","capital stock of P&C Bank Shares,"Inc."","8312","45.22%","1081529"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2015","Susan Vann Keigans","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","1081529"
+"P&C Bank Shares,"Inc."","Nashville,"TN"","2015","E.J. Vann,"V"","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","1081529"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2015","Lamar Cooper","capital stock of P&C Bank Shares,"Inc."","1000","5.44%","1081529"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2015","n/a","n/a","n/a","n/a","1081529"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Pres","Joe B. Adams & Sons,"Inc."","2015","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2015","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","CEO","Adams Exports,"Inc."","2015","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director & Shareholder","Alva E. Crow,"Jr."","n/a","n/a","2015","Retired Automobile Dealer","1081529"
+"P&C Bank Shares,"Inc."","EVP,"Director & Corp Secretary"","Susan V. Keigans","Secretary","Freedom Gunworks,"Inc"","2015","EVP & Corporate Secretary","1081529"
+"P&C Bank Shares,"Inc."","Chairman,"President","CEO & Director"","E.J. Vann IV","n/a","n/a","2015","Chairman,"President & CEO"","1081529"
+"P&C Bank Shares,"Inc."","Director","E. J. Vann,"V"","n/a","Johnston & Murphy","2015","Retail Merchant","1081529"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2015","Retired Retail Merchant","1081529"
+"P&C Bank Shares,"Inc."","Principal Shareholder","Lamar Cooper","Partner","Cooper Farms","2015","Retired Farmer","1081529"
+```

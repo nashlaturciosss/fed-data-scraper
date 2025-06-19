@@ -1,18 +1,27 @@
-Here are the two tables extracted from the document as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Commerce Bancshares,"Inc."","Northbrook","2015","Bixby Bridge Financial Trust,"u/t/a"","Common Stock","4271335","99.981%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Northbrook,"IL"","2015","Bixby Bridge Financial Trust,"u/t/a"","Common Stock","4271335","99.981%","n/a"
+"American Commerce Bancshares,"Inc."","n/a,"n/a"","2015","n/a","n/a","n/a","n/a","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Commerce Bancshares,"Inc."","Director and President","Larry R. Mathews","President and Director","Summit,"LLC 51%"","2015"
-"American Commerce Bancshares,"Inc."","Chairman. Director","David D. Colburn","Chairman,"Director"","Bixby Bridge Capital,"LLC (25%)"","2015"
-"American Commerce Bancshares,"Inc."","Director","Charles M. Jones,"III"","Director","Consolidated Loan Co. of Albany (100%)","2015"
-"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","Director and Marketing Coordinator","n/a","2015"
-"American Commerce Bancshares,"Inc."","Director,"Executive V.P."","David A. Tate","Director,"EVP Sr. Credit Officer"","n/a","2015"
-"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Exec. Director,"Fla. Osteopathic Medical Assoc."","Stephen R. Winn Realty Corp. (51%)","2015"
-"American Commerce Bancshares,"Inc."","Director","John Steele","n/a","n/a","2015"
-"American Commerce Bancshares,"Inc."","Chief Financial Officer","Steven J. Hack","Chief Financial Officer","n/a","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Commerce Bancshares,"Inc."","Director and President","Larry R. Mathews","n/a","Summit,"LLC"","2015","n/a","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Bixby Bridge Capital,"LLC"","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Cawder Corporation","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Lincolnshire Associates,"Ltd."","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Lincolnshire Associates II,"Ltd."","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Magthan,"LLC"","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","BBC Howell LLC","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Bixby Bridge Financial Trust","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Delta Partners,"Inc."","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Chairman,"Director"","David D. Colbum","n/a","Friar Tuck Apts. LLC","2015","Investment Advisor Property Managemant Advisor","n/a"
+"American Commerce Bancshares,"Inc."","Director","Charles M. Jones,"III"","President of Consolidated Loan Company of Albany,"Inc."","Consolidated Loan Company of Albany,"Inc."","2015","Small Loan Company Owner","n/a"
+"American Commerce Bancshares,"Inc."","Director","Raymond D. Burrell","n/a","n/a","2015","Retired bank president","n/a"
+"American Commerce Bancshares,"Inc."","Director,"Executive V.P."","David A. Tate","n/a","n/a","2015","n/a","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Exec. Director,"Fla. Osteopathic Medical Assoc."","Stephen R. Winn Realty Corp.","2015","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","Stephen R. Winn","Exec. Director,"Fla. Osteopathic Medical Assoc."","Andrew Jackson Insurance LLC","2015","Business Executive,"Relator"","n/a"
+"American Commerce Bancshares,"Inc."","Director","John Steele","n/a","n/a","2015","Retired","n/a"
+"American Commerce Bancshares,"Inc."","Chief Financial Officer","Steven J. Hack","n/a","n/a","2015","n/a","n/a"
 ```

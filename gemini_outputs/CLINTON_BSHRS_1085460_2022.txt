@@ -1,0 +1,13 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2022","Dennis R. Aucoin","n/a","1000","10.74%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2022","Carolyn R. Ligon","n/a","696","7.47%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2022","Ann R. Jones","n/a","568","6.10%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2022","Kathryn E. Jones","n/a","561","6.02%","n/a"
+"Clinton Bancshares,"Inc."","n/a","2022","Leslie D. Ligon,"Jr."","n/a","896","9.62%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

@@ -1,0 +1,31 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Southwest Corporation","McComb,"USA"","2023","James W. Covington","n/a","79,"182"","27.1%","n/a"
+"First Southwest Corporation","McComb,"USA"","2023","First Bank ESOP","n/a","47,"487"","16.2%","n/a"
+"First Southwest Corporation","Summit,"USA"","2023","Stella C Dodd","n/a","19,"440"","6.6%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Southwest Corporation","Director","L Grant Bennett","Law Office of L. Grant Bennett,"Sr"","Law Office of L. Grant Bennett,"Sr"","2023","Attorney","n/a"
+"First Southwest Corporation","n/a","First Bank Employees","n/a","n/a","2023","N/A","n/a"
+"First Southwest Corporation","Sr Vice President","Stella C Dodd","n/a","n/a","2023","N/A","n/a"
+"First Southwest Corporation","Sr Vice President","Vickie M Webb","n/a","n/a","2023","N/A","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Member","Covington Family,"LLC"","2023","Banker","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Partner","E.D. Covington L.P.","2023","Banker","n/a"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Member","YBrake Farms,"LLC"","2023","Banker","n/a"
+"First Southwest Corporation","n/a","Charlie H Lewis,"IV"","President and COO","n/a","2023","Banker","n/a"
+"First Southwest Corporation","Director","E. G. Covington,"III"","Member","Covington Family,"LLC"","2023","Owner HydroClean","n/a"
+"First Southwest Corporation","Director","Victor H. Morrish","Retired","n/a","2023","Business Owner","n/a"
+"First Southwest Corporation","Director","Harrell E. Holloway,"Jr"","Partner","Alford Holloway & Smith,"CPA's"","2023","Accountant","n/a"
+"First Southwest Corporation","Director","Lucius Lampton,"MD"","Physican","Physican Magnolia Clinic","2023","Physican","n/a"
+"First Southwest Corporation","Director","Clifton Van Cleave","President","Buffalo Serivces Inc.","2023","Business Manager","n/a"
+"First Southwest Corporation","Director","Clifton Van Cleave","President","BKWIK,"LLC"","2023","Business Manager","n/a"
+"First Southwest Corporation","Director","Clifton Van Cleave","President","PFCT,"LLC"","2023","Business Manager","n/a"
+"First Southwest Corporation","Director","Johnny H. Nance","Retired","n/a","2023","Business Owner","n/a"
+"First Southwest Corporation","Director","Frankie J Montalvo","President","McComb Diesel,"Inc"","2023","Business Owner","n/a"
+"First Southwest Corporation","Director","Frankie J Montalvo","President","Fiber Plus,"LLC"","2023","Business Owner","n/a"
+"First Southwest Corporation","Director","Frankie J Montalvo","President","GilLilRay LLC","2023","Business Owner","n/a"
+```

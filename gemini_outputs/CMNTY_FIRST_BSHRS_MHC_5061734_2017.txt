@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First Bancshares,"Inc."","Covington,"GA"","2017","Community First Bancshares,"MHC"","Common Stock","n/a","54%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First Bancshares,"Inc."","Director & Chairman","William D. Fortson,"Jr."","Owner","Ginn Motor Company","2017","Automotive","321273"
+"Community First Bancshares,"Inc."","Director","Troy B. Brooks","Chief Financial Officer","Piedmont Newton Hospital","2017","Healthcare","321273"
+"Community First Bancshares,"Inc."","Director","Marshall L. Ginn","Associate Broker","RE/MAX Agents Realty","2017","Real Estate","321273"
+"Community First Bancshares,"Inc."","Director","Bob W. Richardson","Pharmacist (Retired)/Owner","People's Drug Store & Taziki's Mediterranean Café","2017","Healthcare/Entrepreneur","321273"
+"Community First Bancshares,"Inc."","Director","Howard G. Roberts","President(Retired)","FNB Bank Covington,"GA"","2017","Banking","321273"
+"Community First Bancshares,"Inc."","Director","Mark Ross","Owner","Right at Home Healthcare","2017","Entrepreneur","321273"
+"Community First Bancshares,"Inc."","President/Chief Executive Officer","Johnny S. Smith","President/Chief Executive Officer","Newton Federal Bank","2017","n/a","321273"
+"Community First Bancshares,"Inc."","Director","Edward P. Stone","President/Chief Executive Officer","Longleaf Hospice","2017","Healthcare","321273"
+"Community First Bancshares,"Inc."","Executive Vice President Chief Operating Officer","Gregory J. Proffitt","EVP COO","Newton Federal Bank","2017","Executive Vice President Chief Operating Officer","321273"
+"Community First Bancshares,"Inc."","Senior Vice President Chief Financial Officer","Tessa M. Nolan","SVP CFO","Newton Federal Bank","2017","n/a","321273"
+```

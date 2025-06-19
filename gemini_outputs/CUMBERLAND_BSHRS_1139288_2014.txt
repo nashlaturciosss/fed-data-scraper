@@ -1,0 +1,26 @@
+"Okay","I'm ready to extract the data and format it into CSV. Here are the two CSV tables based on your instructions:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cumberland Bancshares,"Inc."","Hartsville,"TN"","2014","Tom P. Thompson,"Jr."","Class B","139000","5","1139288"
+"Cumberland Bancshares,"Inc."","Hartsville,"TN"","2014","Philip W. Holder","Class B","1057200","42","1139288"
+"Cumberland Bancshares,"Inc."","Lebanon,"TN"","2014","Toby Woodmore","Class B","206600","8","1139288"
+"Cumberland Bancshares,"Inc."","Daytona Beach Shores,"FL"","2014","John Wender,"Jr."","Class B","263700","10","1139288"
+"Cumberland Bancshares,"Inc."","Knoxville,"TN"","2014","Charles M. Wender","Class B","135200","5","1139288"
+"Cumberland Bancshares,"Inc."","Hartsville,"TN"","2014","Joe Donoho","Class B","135200","5","1139288"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cumberland Bancshares,"Inc."","Director","John Wender,"Jr."","n/a","n/a","2014","Retired","1139288"
+"Cumberland Bancshares,"Inc."","n/a","Toby Woodmore","n/a","Grey Hollow Farms","2014","High school principal","1139288"
+"Cumberland Bancshares,"Inc."","Director & Secretary","Toby Woodmore","n/a","n/a","2014","High school principal","1139288"
+"Cumberland Bancshares,"Inc."","n/a","Eddie Taylor","n/a","Donoho,"Taylor & Taylor"","2014","Attorney","1139288"
+"Cumberland Bancshares,"Inc."","Director","Eddie Taylor","n/a","Riverview Speedway,"Inc."","2014","Attorney","1139288"
+"Cumberland Bancshares,"Inc."","Director","Karen Armstrong","n/a","Gene Carman Real Estate","2014","Realtor","1139288"
+"Cumberland Bancshares,"Inc."","n/a","Robert David Gregory","n/a","David Gregory Construction","2014","Farmer","1139288"
+"Cumberland Bancshares,"Inc."","Director","Robert David Gregory","n/a","n/a","2014","Farmer","1139288"
+"Cumberland Bancshares,"Inc."","Bank CEO","Betty S. Hibdon","n/a","n/a","2014","Bank CEO","1139288"
+"Cumberland Bancshares,"Inc."","Director,"President and CEO"","Betty S. Hibdon","n/a","n/a","2014","Bank CEO","1139288"
+"Cumberland Bancshares,"Inc."","Director","Philip W. Holder","n/a","PCJ Investments","2014","Certified Public Accountant/Farmer","1139288"
+"Cumberland Bancshares,"Inc."","n/a","Philip W. Holder","n/a","Holder Tobacco Farms","2014","Certified Public Accountant/Farmer","1139288"
+"Cumberland Bancshares,"Inc."","Director,"President and CEO"","Philip W. Holder","n/a","n/a","2014","Certified Public Accountant/Farmer","1139288"
+```

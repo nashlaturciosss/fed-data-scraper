@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2014","Scott Howell","common stock","1351","6.76%","n/a"
+"PBG Financial Services,"Inc."","Panama City,"Fl."","2014","Suzanne M. Sheffield & Joseph A. Sheffield","common stock","1924","9.62%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2014","C. Finley McRae","common stock","1088","5.44%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2014","Donald R. & Anne Graham","common stock","1050","5.25%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2014","Robert F. McRae,"Jr."","common stock","2761","13.81%","n/a"
+"PBG Financial Services,"Inc."","Graceville,"FL"","2014","C. Finley McRae","common stock","4096","20.48%","n/a"
+"PBG Financial Services,"Inc."","Dunedin,"Fl"","2014","David M. Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Immokalee,"Fl."","2014","John Clifford Pelham","common stock","338","1.69%","n/a"
+"PBG Financial Services,"Inc."","Maitland,"Fl"","2014","Kenneth Boyd Pelham","common stock","337","1.69%","n/a"
+"PBG Financial Services,"Inc."","Orlando,"Fl."","2014","Robert Frank Pelham","common stock","338","1.69%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PBG Financial Services,"Inc"","Pres./Chrm. & Director;Chrm. & Director","Donald R. Graham","n/a","n/a","2014","Chairman,"CEO Peoples Bank of Graceville"","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Michael T Smith","n/a","n/a","2014","Comptroller Rex Lumber & Related Companies","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Joseph Jernigan","CEO","Jernigan Co. LLC","2014","CEO Arnold Lumber Co.","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Joseph Jernigan","Pres.","Abbeville Forest Products,"LLC"","2014","CEO Arnold Lumber Co.","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Joseph Jernigan","Mg. Member","Jernigan Forest Products,"LLC"","2014","CEO Arnold Lumber Co.","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Joseph Jernigan","Chrm. CEO","Arnold Lumber Co.","2014","CEO Arnold Lumber Co.","1085415"
+"PBG Financial Services,"Inc"","Director;Director","Ronald Barber","n/a","n/a","2014","Mgr./Owner Campbellton Farm Service","1085415"
+"PBG Financial Services,"Inc"","V.Chrm,"Director;V.Chrm. Director"","C. Finley McRae","Mg. Member","McRae Investments","2014","Independent Sawmill Owner","1085415"
+"PBG Financial Services,"Inc"","V.Chrm,"Director;V.Chrm. Director"","C. Finley McRae","Pres.","North Fl. Woodlands","2014","Independent Sawmill Owner","1085415"
+"PBG Financial Services,"Inc"","VP/Director;President","David M. Watford","n/a","n/a","2014","President Peoples Bank Graceville","1085415"
+"PBG Financial Services,"Inc"","Director Secretary;Sec/Director","John B. Turner","n/a","n/a","2014","Auditor Peoples Bank Graceville","1085415"
+"PBG Financial Services,"Inc"","Treasurer;EVP & Cashier","Carol C. Smith","n/a","n/a","2014","EVP/Cashier Peoples Bank of Graceville","1085415"
+```

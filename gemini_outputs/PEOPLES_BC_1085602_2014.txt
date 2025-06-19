@@ -1,0 +1,18 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Guin,"AL"","2014","Donald E. Bussey","common stock","474.00","23%","n/a"
+"Peoples Bancorporation,"Inc."","Guin,"AL"","2014","Brenda J. Bussey","common stock","474.00","23%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2014","Sherrian McDaniel Logan","common stock","497.00","25%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2014","Dana M. Peoples","common stock","453.00","22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Chairman and Director","Donald E. Bussey","n/a","State Bank & Trust","2014","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Brenda J. Bussey","n/a","n/a","2014","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Sherrian M. Logan","n/a","State Bank & Trust","2014","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","Dana M. Peoples","n/a","State Bank & Trust","2014","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Secretary","Chele Miles","n/a","State Bank & Trust","2014","n/a","n/a"
+```

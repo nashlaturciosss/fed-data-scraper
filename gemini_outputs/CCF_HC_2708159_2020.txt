@@ -1,25 +1,29 @@
-Here are the two CSV tables extracted from the document:
-```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Heritage Southeast","Fort Lauderdale","2020","Kenneth R. Lehman","Common Stock","3069241","42.24%"
-"Heritage Southeast","Fayetteville","2020","Brent Scarbrough,"etal"","Common Stock","404045","5.56%"
-```
-```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Heritage Southeast","Non-Executive Chairman","Kenneth R. Lehman","Non-Executive Chairman","See Attached Exhibit ""A""","2020"
-"Heritage Southeast","Director","Jeffery L. Arnold","Director","PRES- Jeffery L. Arnold PC","2020"
-"Heritage Southeast","Director","Roy V. Hall","Director","TREAS - RV Hall Inc.","2020"
-"Heritage Southeast","Director","John E. Mansour","Director","Principal - Hydrolive Holdings,"LLC"","2020"
-"Heritage Southeast","CEO,"Director"","Leonard R Moreland","CEO,"Director"","n/a","2020"
-"Heritage Southeast","Director","John M. Presley","Director","Executive Chairman - Sevier County Bank","2020"
-"Heritage Southeast","Director","David H. Rupp","Director","President - Movement Bank","2020"
-"Heritage Southeast","President,"Chief Operating Officer","Director"","Brian L. Smith","President - The Heritage Bank Division,"Director"","n/a","2020"
-"Heritage Southeast","First Executive Vice President,"Chief Strategy Officer","Director"","Bradley P. Serff","President - Providence Bank Division,"Director"","n/a","2020"
-"Heritage Southeast","Executive Vice President,"Chief Operations Officer"","Melissa A. Deal","Executive Vice President,"Chief Operations Officer"","n/a","2020"
-"Heritage Southeast","Executive Vice President,"Chief Credit Officer","Chief Risk Officer"","Paul R. Hoerig","Executive Vice President,"Chief Credit Officer","Chief Risk Officer"","n/a","2020"
-"Heritage Southeast","Executive Vice President,"Chief Banking Officer"","Howard B. Lipham,"III"","President - Heritage Bank Division","n/a","2020"
-"Heritage Southeast","Executive Vice President,"Chief Financial Officer Secretary"","Philip F. Resch","Executive Vice President,"Chief Financial Officer","Secretary"","n/a","2020"
-"Heritage Southeast","Executive Vice President,"Chief Administrative Officer"","Katherine S. Zovlonsky","Executive Vice President,"Chief Administrative Officer"","n/a","2020"
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage Southeast Bank","Fort Lauderdale,"FL"","2020","Kenneth R. Lehman","Common Stock","3069241","42.24%","n/a"
+"Heritage Southeast Bank","Fayetteville,"GA"","2020","Brent Scarbrough,"etal"","Common Stock","404045","5.56%","n/a"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Partners Bancorp","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Marine Bancorp of Florida","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Village Bank & Trust Financial Corp.","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Heritage Southeast Bancorporation","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Sevier County Bancshares","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","BankFlorida","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","Freedom Bank of Virginia","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Non-Executive Chairman","Kenneth R. Lehman","See Attached Exhibit ""A""","BVC Capital,"LLC"","2020","Bank Investor","n/a"
+"Heritage Southeast Bank","Director","Jeffery L. Arnold","PRES- Jeffery L. Arnold PC","Jeffery L. Arnold PC","2020","Attorney Jeffery L. Arnold,"PC"","n/a"
+"Heritage Southeast Bank","Director","Roy V. Hall","TREAS - RV Hall Inc.","RV Hall,"Inc."","2020","Retired CPA","n/a"
+"Heritage Southeast Bank","Director","John E. Mansour","Principal - Hydrolive Holdings,"LLC"","Hydrolive Holdings,"LLC"","2020","Small Business Owner","n/a"
+"Heritage Southeast Bank","CEO,"Director"","Leonard R Moreland","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Director","John M. Presley","Executive Chairman - Sevier County Bank","Sevier County Bank","2020","Bank Chairman","n/a"
+"Heritage Southeast Bank","Director","David H. Rupp","President - Movement Bank","Movement Bank","2020","Bank President","n/a"
+"Heritage Southeast Bank","President,"Chief Operating Officer","Director"","Brian L. Smith","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","First Executive Vice President,"Chief Strategy Officer","Director"","Bradley P. Serff","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Executive Vice President,"Chief Operations Officer"","Melissa A. Deal","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Executive Vice President,"Chief Credit Officer","Chief Risk Officer"","Paul R. Hoerig","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Executive Vice President,"Chief Banking Officer"","Howard B. Lipham,"III"","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Executive Vice President,"Chief Financial Officer Secretary"","Philip F. Resch","n/a","n/a","2020","n/a","n/a"
+"Heritage Southeast Bank","Executive Vice President,"Chief Administrative Officer"","Katherine S. Zovlonsky","n/a","n/a","2020","n/a","n/a"
 ```

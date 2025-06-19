@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cogent Bancorp,"Inc."","Jacksonville,"FL"","2021","Lee E. Hanna","Common","2960000.00","6%","n/a"
+"Cogent Bancorp,"Inc."","Orlando,"FL"","2021","Chirag J. Bhavsar","Common","4674526.00","9%","n/a"
+"Cogent Bancorp,"Inc."","New Port Richey,"FL"","2021","Vijay Patel","Common","1551196.00","3%","n/a"
+"Cogent Bancorp,"Inc."","New Port Richey,"FL"","2021","Hudson Investment One LLC","Common","1551197.00","3%","n/a"
+"Cogent Bancorp,"Inc."","Winter Springs,"FL"","2021","James M Seneff,"Jr."","Common","2100000.00","4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cogent Bancorp,"Inc."","Director Chairman and CEO of Cogent Bank","Lee E. Hanna","Chairman","Currency Exchange International,"Corp."","2021","Chairman and CEO of Cogent Bank","n/a"
+"Cogent Bancorp,"Inc."","Director President Cogent Bank","Chirag J. Bhavsar","Chairman","CNL Financial Group,"Inc."","2021","President of Cogent Bank,"Co-CEO of CNL Financial Group","Inc"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Mitchel Laskey","CEO,"Manager"","FAN Management Partners,"LLC"","2021","Co-Founder and Managing Partner of DeepWork Capital Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Mitchel Laskey","Manager","Deepwork Capital Partners,"LLC"","2021","Co-Founder and Managing Partner of DeepWork Capital Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Mitchel Laskey","President","MJL Advisors,"Inc."","2021","Co-Founder and Managing Partner of DeepWork Capital Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Paul Ellis","CEO","Foundry Commercial,"LLC"","2021","CEO of Foundry Commercial,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Heath Ritenour","CEO,"Chairman"","IOA Group LLC","2021","Chairman & CEO of Insurance Office of America","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","C. Daniel Rice","President and CEO","Mayport Venture Partners,"LLC"","2021","CEO of Maypot Venture Partners,"LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Christophen B. Pillay","CEO","Meridian Technologies Holdings,"Inc."","2021","CEO of Meridian Technologies Holdings,"Inc."","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Christophen B. Pillay","Director","Consulting Solutions,"LLC"","2021","CEO of Meridian Technologies Holdings,"Inc."","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Avani M. Desai","Chairwoman","Data Aggregators","2021","CEO of Schellman Compliance,"LLC & Shellman & Company","LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Avani M. Desai","CEO","Shellman & Company,"LLC"","2021","CEO of Schellman Compliance,"LLC & Shellman & Company","LLC"","n/a"
+"Cogent Bancorp,"Inc."","Director Director Cogent Bank","Avani M. Desai","CEO","Schellman Compliance,"LLC"","2021","CEO of Schellman Compliance,"LLC & Shellman & Company","LLC"","n/a"
+```

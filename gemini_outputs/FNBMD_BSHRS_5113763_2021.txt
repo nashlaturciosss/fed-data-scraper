@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Samuel S. Sadler,"III"","n/a","50930","9.29%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Samuel S. Sadler,"III Trust"","n/a","50930","9.29%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Samuel S. Sadler,"III Custody SEP IRA"","n/a","50930","9.29%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Samuel S. Sadler,"III as trustee of the W.T. Bland","Jr. Charitable Trust"","n/a","50930","9.29%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Robert D. White","n/a","43392","7.15%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Robert & Amy White","n/a","43392","7.15%","n/a"
+"FNBMD Bancshares,"Inc."","Mount Dora,"FL"","2021","Robert D. White as trustee of the George J. White Irrevocable Trust","n/a","43392","7.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FNBMD Bancshares,"Inc."","Director","Todd M. Faden","President/Owner","Faden Builders,"Inc."","2019","Faden Builders,"Inc."","n/a"
+"FNBMD Bancshares,"Inc."","Director","Brian Gannaway","President","Vann Gannaway Chevrolet,"Inc."","2019","Vann Gannaway Chevrolet,"Inc."","n/a"
+"FNBMD Bancshares,"Inc."","Director","John D. Pease,"III"","n/a","n/a","2019","n/a","n/a"
+"FNBMD Bancshares,"Inc."","Director and Vice Chairman","John D. Pease,"IV"","n/a","n/a","2019","First National Bank of Mount Dora","n/a"
+"FNBMD Bancshares,"Inc."","Director","Del G. Potter","Attorney at Law","Bowen & Schroth PA","2019","Attorney- Bowen & Schroth PA","n/a"
+"FNBMD Bancshares,"Inc."","Director","Edee Waite-Robinson","Owner/Managing Member","Viva Gourmet,"LLC"","2019","Viva Gourmet,"LLC"","n/a"
+"FNBMD Bancshares,"Inc."","Director","Glenn R. Rogers","President","Zellwin Farms Company","2019","Zellwin Farms Company","n/a"
+"FNBMD Bancshares,"Inc."","Director,"and Corporate Secretary"","Samuel S. Sadler,"III"","Owner/Director","Sam S. Sadler,"III Inc."","2019","Sam S. Sadler,"III Inc."","n/a"
+"FNBMD Bancshares,"Inc."","Director","H. James Simpson","President","Simpson Fruit Company","2019","Simpson Fruit Company","n/a"
+"FNBMD Bancshares,"Inc."","Director","Ty R. Strode","President","Agri-Starts,"Inc."","2019","Agri-Starts,"Inc."","n/a"
+"FNBMD Bancshares,"Inc."","Vice Chairman of the Board","Robert D. White","n/a","n/a","2019","First National Bank of Mount Dora","n/a"
+"FNBMD Bancshares,"Inc."","Senior Vice President,"CFO and Cashier"","Andrew T. Kurtz","n/a","n/a","2019","First National Bank of Mount Dora","n/a"
+```

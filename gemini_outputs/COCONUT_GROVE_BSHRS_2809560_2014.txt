@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Miami,"FL"","2014","Phillip Frost,"MD"","Common Stock","788603","23.61%","2809560"
+"Coconut Grove Bankshares,"Inc."","Miami,"FL"","2014","Michael Weintraub","Common Stock","255619","7.65%","2809560"
+"Coconut Grove Bankshares,"Inc."","Miami,"FL"","2014","Charles Stuzin","Common Stock","234282","7.04%","2809560"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bank","President & CEO","Richard A. Kuci","n/a","n/a","2014","n/a","2809560"
+"Coconut Grove Bank","EVP,"Head ot Wealth Management"","Michael Cabanas","n/a","n/a","2014","n/a","2809560"
+"Coconut Grove Bank","EVP & CFO","Sam Milne","n/a","n/a","2014","Secretary/Treasuer","2809560"
+"Coconut Grove Bank","EVP,"Private & Retail Banking"","Rosary Falero Plana","n/a","n/a","2014","n/a","2809560"
+"Coconut Grove Bank","EVP,"Chief Lending Officer"","Donald Putnam","n/a","n/a","2014","n/a","2809560"
+"Coconut Grove Bank","Director of Bank","Howard Lucas","n/a","Goldstein,"Schechter Koch Price"","2014","CPA","2809560"
+"Coconut Grove Bank","Director of the Bank","George W. Foyo","n/a","Baptist Health","2014","EVP & Chief Administrative Ofcr","2809560"
+"Coconut Grove Bank","Director of the Bank","Michael Chavies","n/a","Akerman Senterfitt","2014","Retired Judge","2809560"
+"Coconut Grove Bank","Director of the Bank","Michael Chavies","n/a","Omega Capital Partners Inc.","2014","Retired Judge","2809560"
+"Coconut Grove Bank","Director of the Bank","Charles M. Hartz","n/a","Retired Capital","2014","Attorney","2809560"
+"Coconut Grove Bank","Director of the Bank","D. Alan Nichols","n/a","Retired","2014","CPA","2809560"
+"Coconut Grove Bank","Director of the Bank","D. Alan Nichols","n/a","Ball,"Humphrey & Worley","Inc."","2014","CPA","2809560"
+"Coconut Grove Bank","Director of the Bank","William T. Price,"III"","n/a","n/a","2014","Investor","2809560"
+"Coconut Grove Bank","Director of Bank","Charles Stuzin","n/a","SF Partners,"Inc."","2014","Investor","2809560"
+"Coconut Grove Bank","Director of the Bank","Michael Weintraub","n/a","Gibson & Co.,"Inc."","2014","Investor","2809560"
+"Coconut Grove Bank","Director of HC","Phillip Frost,"MD"","n/a","n/a","2014","Investor","2809560"
+```

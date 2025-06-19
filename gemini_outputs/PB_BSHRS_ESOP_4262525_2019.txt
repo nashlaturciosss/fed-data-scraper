@@ -1,0 +1,20 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Clifton,"TN"","2019","Autry Gobbell","n/a","9260.40","41.52%","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Clifton,"TN"","2019","PB Bancshares,"Inc. Employee Stock Ownership Plan"","n/a","5869.32","26.32%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","CEO,"Chairman & President"","Autry Gobbell","CEO,"Chairman & President"","n/a","2019","n/a","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Tommy Martin","Executive Vice President","n/a","2019","n/a","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director & Secretary","Gailand Grinder","Director","n/a","2019","Retired","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Carl Skelton","Director","n/a","2019","Merchant","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Kelvin Runions","Chief Loan Officer","n/a","2019","n/a","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Andrew Yarbrough","Director","Andrew Yarbrough","2019","Attorney","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","n/a","PB Bancshares,"INC Employee Stock Ownership Plan"","n/a","n/a","2019","n/a","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Larry Jeter","n/a","n/a","2019","Retired","n/a"
+"PB Bancshares,"Inc. Employee Stock Ownership Plan"","Director","Harry Floyd","n/a","Harry Floyd Livestock","2019","Livestock Dealer","n/a"
+```

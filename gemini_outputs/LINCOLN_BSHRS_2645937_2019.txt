@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lincoln Bancshares Inc","Lincolnton,"GA"","2019","Nina P Albea,"Trustee"","Common Stock","1090","10.54%","n/a"
+"Lincoln Bancshares Inc","Abbeville,"SC"","2019","Nancy L Lovelady","Stock","540","5.22%","n/a"
+"Lincoln Bancshares Inc","Columbia,"SC"","2019","Marilyn L Davis","Stock","444","4.29%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lincoln Bancshares Inc","Director","Thomas Brittan Hammond","Toombs District Superior Court Judge","n/a","2019","Shareholder","n/a"
+"Lincoln Bancshares Inc","Director","Nina P Albea Trustee","n/a","n/a","2019","Retired","n/a"
+"Lincoln Bancshares Inc","Director","John S Spratlin III","Partner","J.W. Spratlin & Sons","2019","Partner-Construction Company","n/a"
+"Lincoln Bancshares Inc","Director,"Chairman"","Edward S Turner","n/a","n/a","2019","Retired","n/a"
+"Lincoln Bancshares Inc","Director,"President/CEO"","James Bruce Turner","n/a","n/a","2019","President/CEO","n/a"
+"Lincoln Bancshares Inc","Director","Alice Marie Kavouklis","n/a","n/a","2019","Retired","n/a"
+"Lincoln Bancshares Inc","Director","Nancy Lovelady","n/a","n/a","2019","Retired","n/a"
+"Lincoln Bancshares Inc","Director","Steven Dawkins","CEO/CFO Peanuts","Peanuts Inc.","2019","Laundry/Car Wash","n/a"
+"Lincoln Bancshares Inc","Director","Steven Dawkins","CEO/CFO Peanuts","SBKC RE Holdings LLC","2019","Laundry/Car Wash","n/a"
+"Lincoln Bancshares Inc","Director","Steven Dawkins","CEO/CFO Peanuts","Sparkle Wash LLC","2019","Laundry/Car Wash","n/a"
+```

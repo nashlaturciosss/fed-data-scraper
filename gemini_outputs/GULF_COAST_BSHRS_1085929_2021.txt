@@ -1,0 +1,21 @@
+"Okay","here are the two CSV tables extracted from the provided document","following your instructions exactly."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Lafayette,"LA"","2021","CAP Voiting Trust","COMMON SHARES OWNED","16782","27.70%","1085929"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2021","LeBlanc Family irrevocable Trust","COMMON SHARES OWNED","3600","6.12%","1085929"
+"Gulf Coast Bancshares,"Inc"","Abbeville,"LA"","2021","Charles E. Dill Jr.","COMMON SHARES OWNED","3517","5.81%","1085929"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Gulf Coast Bancshares,"Inc"","Director","Lorraine LeBlanc","President","GCB Financial Services Inc","2021","n/a","1085929"
+"Gulf Coast Bancshares,"Inc"","President","Paul Patout","Director","Gulf Coast Bank","2021","n/a","1085929"
+"Gulf Coast Bancshares,"Inc"","Chairman","Patrick Patout","Director","Gulf Coast Bank","2021","n/a","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Jason Patout","Director","Gulf Coast Bank","2021","n/a","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Ottinger Hebert,"LLC"","2021","Attorney","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Magellan Construction LLC","2021","Attorney","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Magellan Development LLC","2021","Attorney","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Gulf Pinhook Associates LLC","2021","Attorney","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Paul J. Hebert","Attorney","Jimmy Johns LLC Lafayette","2021","Attorney","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","EugeneM. Sellers,"Jr."","President","The Sellers Group","2021","Architect","1085929"
+"Gulf Coast Bancshares,"Inc"","Director","Christopher Dardeau","Director","Gulf Coast Bank","2021","n/a","1085929"
+```

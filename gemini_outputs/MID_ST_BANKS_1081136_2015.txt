@@ -1,0 +1,41 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga"","2015","Dorothy Cook Way","n/a","33534.50","41.15%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga"","2015","S A Way Childrens Trust","n/a","15282.00","18.76%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga"","2015","John Daniel Way","n/a","5553.50","6.82%","n/a"
+"Mid State Banks,"Inc."","Alexandria,"Va."","2015","Mary Ann Way","n/a","1206.50","1.48%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga"","2015","S A Way III","n/a","5978.50","7.34%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga"","2015","Robert Franklin Way","n/a","1266.00","1.55%","n/a"
+"Mid State Banks,"Inc."","Perry,"Ga."","2015","Robert F Way Family Trust","n/a","4098.00","5.03%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Way Family Irrevocable Trust","n/a","7197","8.83%","n/a"
+"Mid State Banks,"Inc."","Atlanta,"Ga."","2015","Elizabeth Way Chandler","n/a","3534.25","4.34%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Felton Hatcher Way","n/a","3534.25","4.34%","n/a"
+"Mid State Banks,"Inc."","Atlanta,"Ga."","2015","Albert Glover Way","n/a","3534.25","4.34%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Mary Lynde Way","n/a","235.00","0.29%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","RT Way","n/a","1707.50","2.10%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Ramsey T Way Jr.","n/a","3534.25","4.34%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Woodson Daniel","n/a","2876.00","3.53%","n/a"
+"Mid State Banks,"Inc."","Hawkinsville,"Ga."","2015","Allene Daniel","n/a","1640.00","2.01%","n/a"
+"Mid State Banks,"Inc."","Warner Robins,"Ga."","2015","R Wayne Lowe","n/a","20082.00","24.65%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Mid State Banks,"Inc."","Director","W. Cole Woodroof","Sr Banking Officer","Planters FIRST","2015","n/a","n/a"
+"Mid State Banks,"Inc."","Director","Tommy Thompson Jr","Proprietorship","Central Ga Appraisals","2015","Appraiser","n/a"
+"Mid State Banks,"Inc."","n/a","Dorothy Cook Way","n/a","n/a","2015","NONE","n/a"
+"Mid State Banks,"Inc."","n/a","Dorothy Cook Way,"Trustee"","n/a","n/a","2015","NONE","n/a"
+"Mid State Banks,"Inc."","n/a","S A Way III","Sam Way","n/a","2015","NONE","n/a"
+"Mid State Banks,"Inc."","Director","R T Way Jr","Partner","Way & Way LLP","2015","Lawyer","n/a"
+"Mid State Banks,"Inc."","Director","R.T. Way,"SR"","President","Way Finance Inc.","2015","Auto Dealership","n/a"
+"Mid State Banks,"Inc."","Director","R.T. Way,"SR"","President","Way Brothers,"Inc."","2015","Auto Dealership","n/a"
+"Mid State Banks,"Inc."","n/a","R Wayne Lowe","Owner/ Operator","Lowe Toyota","2015","Auto Dealership","n/a"
+"Mid State Banks,"Inc."","Director","Woodson Daniel","Director","Planters FIRST Board","2015","RETIRED","n/a"
+"Mid State Banks,"Inc."","President","Robert F. Way","VP","Planters FIRST","2015","NONE","n/a"
+"Mid State Banks,"Inc."","n/a","Robert F Way,"Trustee"","VP","Planters FIRST","2015","NONE","n/a"
+"Mid State Banks,"Inc."","Director","John D. Way","H'ville Pres.","Planters FIRST","2015","NONE","n/a"
+"Mid State Banks,"Inc."","Director","John W. Bembry,"DVM"","Director","Planters FIRST","2015","VETERINARIAN","n/a"
+"Mid State Banks,"Inc."","Director","John W. Bembry,"DVM"","Director","Bembry Vet Clinic","2015","VETERINARIAN","n/a"
+```

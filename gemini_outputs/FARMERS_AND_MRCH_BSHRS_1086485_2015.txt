@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2015","Hennon L King","Common Stock","22723","9.905%","1086485"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2015","Vivian H. Tucker","Common Stock","22360","9.747%","1086485"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2015","Tucker Brothers,"LLC"","Common Stock","26800","11.682%","1086485"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2015","Mose A. Tucker","Common Stock","370","0.161%","1086485"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2015","Mose A. Tucker","Common Stock","26800","11.682%","1086485"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","Director","Chan Brinson","President","Brinson Enterprises,"LLC"","2015","Alabama-Georgia Wood","446130"
+"Farmers & Merchants Bancshares,"Inc."","President/CEO,"Director"","Stanley Tucker","Member","Tucker Brothers,"LLC"","2015","Banker","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","Philip A. Gipson","n/a","n/a","2015","Retired Banker","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","Wayne Welch","n/a","n/a","2015","Retired Lumber","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","James B. Spence","n/a","n/a","2015","Retired Military","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","W. Lewis Lowe","n/a","n/a","2015","Retired Pharmacist","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","Billy M. Langley","Owner","Billy Langley Logging,"Inc"","2015","Logger","446130"
+"Farmers & Merchants Bancshares,"Inc."","Director","Valerie Gray","n/a","n/a","2015","Director-Chambers County Industrial Development Authority","446130"
+"Farmers & Merchants Bancshares,"Inc."","n/a","Myrtle Smedley","n/a","n/a","2015","Banker","446130"
+"Farmers & Merchants Bancshares,"Inc."","Vice President","Tiffany Pitchford","n/a","n/a","2015","Banker","446130"
+```

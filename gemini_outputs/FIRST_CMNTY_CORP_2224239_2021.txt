@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Community Corporation","Rogersville,"TN"","2021","Sidney K. Lawson","n/a","99400","6.02%","n/a"
+"First Community Corporation","Rogersville,"TN"","2021","Sidney K. Lawson","n/a","7500","6.26%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2021","Tommy W. Young","n/a","94198","5.71%","n/a"
+"First Community Corporation","Rogersville,"Tennessee"","2021","Tommy W. Young","n/a","7500","5.96%","n/a"
+"First Community Corporation","Nashville,"TN"","2021","John Spence","n/a","163028","9.8756%","n/a"
+"First Community Corporation","Nashville,"TN"","2021","John Spence","n/a","0","9.55%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Community Bank","President Director","Tyler K. Clinch","Chairman and Director","Katharine Square Partnership","2021","Owner","2037185"
+"First Community Bank","Director","Dr. David R. Johnson","Director","Grand Oaks Center,"LLC"","2021","Owner","2037185"
+"First Community Bank","Director","Sidney K. Lawson","Director","Lawson Construction","2021","President Owner","2037185"
+"First Community Bank","Chairman/Secretary Director","Tommy W. Young","Secretary and Director","n/a","2021","Retired","2037185"
+"First Community Bank","Director","Steve L. Droke","Director","n/a","2021","n/a","2037185"
+"First Community Bank","Director","Kathy Richards","Director","KEP Properties,"LLC"","2021","Owner","2037185"
+"First Community Bank","Director","Matthew Cleek","Director","Intellithought,"Inc."","2021","Owner","2037185"
+"First Community Bank","Director","Matthew Cleek","Director","Wyvern Capital Group,"LLC"","2021","Owner","2037185"
+"First Community Bank","Director","Matthew Cleek","Director","Striking 7","2021","Owner","2037185"
+"First Community Bank","Director","Matthew Cleek","Director","Cleek Properties","2021","Owner","2037185"
+```

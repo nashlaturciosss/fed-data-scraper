@@ -1,0 +1,30 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Lake Charles,"USA"","2019","J. Michael Veron","Common Stock","244692","11.68%","n/a"
+"Lakeside Bancshares,"Inc"","Lake Charles,"USA"","2019","Thomas A. Flanagan","Common Stock","160000","7.63%","n/a"
+"Lakeside Bancshares,"Inc"","Lake Charles,"USA"","2019","Rusell Stutes,"Jr."","Common Stock","172120","8.21%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lakeside Bancshares,"Inc"","Director & Chairman","J. Michael Veron","Member/Partner","Veron Bice Palermo & Wilson","2019","Attorney","n/a"
+"Lakeside Bancshares,"Inc"","Director & Vice Chairman","Robert Piper","Administrator","Roberts CPA Firm","2019","Retired CEO of US Unwired - Public Company","n/a"
+"Lakeside Bancshares,"Inc"","Director & Secretary","Joseph W. Roberts","Administrator","Our Lady Queen of Heaven Church","2019","Retired Banker","n/a"
+"Lakeside Bancshares,"Inc"","Director & President/CEO","Morgan S. Harmison,"IV"","n/a","N/A","2019","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","Southland Capital,"LLC"","2019","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","West River Landing,"LLC"","2019","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","James Boyer","Managing Partner of","CEH LTD","2019","Retired - Investment Vice President Merrill Lynch","n/a"
+"Lakeside Bancshares,"Inc"","Director","D. Keith Duplechin","President","First Capital Group,"LLC"","2019","Private Investments/ Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Vincent Gagliano","Executive Vice President Chief Risk Officer","AmeriSafe,"Inc"","2019","Insurance Executive Businessman","n/a"
+"Lakeside Bancshares,"Inc"","Director","Ronnie Johns","Owner","Ronnie Johns Agency State Farm Insurance","2019","State Senator Insurance Agent","n/a"
+"Lakeside Bancshares,"Inc"","Director","Willie Mount","n/a","N/A","2019","Retired","n/a"
+"Lakeside Bancshares,"Inc"","Director","Joseph Thomas","Operating Partner","Thomas Family Properties","2019","Retired Military / Manufacturing Resin Systems,"Inc"","n/a"
+"Lakeside Bancshares,"Inc"","Director","M. Shane Chapman","n/a","N/A","2019","Physician","n/a"
+"Lakeside Bancshares,"Inc"","Executive VP","Justin Holt","Manager/Member","Jasper Ventures,"LLC"","2019","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Treasurer","Shively H. Verrette","n/a","N/A","2019","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Sr VP & CLO","E. Jeffrey Mancuso","n/a","N/A","2019","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Sr VP & CISO","Matthew Fruge","Owner","Textalertsonline","2019","N/A","n/a"
+"Lakeside Bancshares,"Inc"","Compliance Officer","La Koshia R Roberts","n/a","N/A","2019","N/A","n/a"
+```

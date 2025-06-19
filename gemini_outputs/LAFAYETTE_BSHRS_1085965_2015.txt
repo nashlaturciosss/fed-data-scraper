@@ -1,0 +1,22 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LAFAYETTE BANKSHARES,"INC."","Canton,"GA"","2015","Anne G. Barnes","n/a","27266","9.343%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2015","Charles H. Gilbert","n/a","27238","9.334%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2015","George M. Gilbert","n/a","22557","7.730%","n/a"
+"LAFAYETTE BANKSHARES,"INC."","LaFayette,"GA"","2015","Bob D. Gilbert,"Jr."","n/a","17944","6.149%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LAFAYETTE BANKSHARES,"INC."","Director,"Chairman"","B.D. Gilbert,"Jr."","Director,"Chairman"","n/a","2015","Banker","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director,"President"","C.H. Gilbert*","Director,"President"","n/a","2015","Banker","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","C. B. Parker","Director","Stiles Parker & Co.","2015","Insurance Agent","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","W. D. Cunningham","Director","Wm. David Cunningham,"P.C."","2015","Attorney","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","W. R. Loughridge","Director","Loughridge Equipment","2015","Merchant","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","R. B. Forester","Director","n/a","2015","Retired","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","H. N. Florence","Director","Medi Thrift,"Inc."","2015","Pharmacist","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Director","B. R. Potts","Director","Potts Brothers Land & Auction LLC","2015","Auctioneer","1085 965"
+"LAFAYETTE BANKSHARES,"INC."","Vice Pres./Secretary","J.S. Ingram","Vice Pres./Cashier","Hammond-Jones Hdw.","2015","Banker","1085 965"
+```

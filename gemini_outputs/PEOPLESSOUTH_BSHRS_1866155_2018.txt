@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PeoplesSouth Bancshares,"Inc."","Fort Gaines,"Georgia"","2018","Rickey E. Stuckey,"et. al."","n/a","331143","12.75%","n/a"
+"PeoplesSouth Bancshares,"Inc."","Colquitt,"Georgia"","2018","Ronald H. Rentz,"et. al."","n/a","224851","8.66%","n/a"
+"PeoplesSouth Bancshares,"Inc."","Albany,"GA"","2018","J. Alvin Newton,"Jr."","n/a","232350","8.95%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PeoplesSouth Bancshares,"Inc."","CEO,"President","Director"","Rickey E. Stuckey","CEO of PeoplesSouth Bank,"Colquitt","Director of Peoples South Bank","Colquitt","Georgia"","n/a","2018","n/a","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","C. E. Grow,"Jr."","Director of Peoples South Bank,"Colquitt"","n/a","2018","Retired","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","Jerry C. Grimsley","Director of Peoples South Bank,"Colquitt"","n/a","2018","Retired","n/a"
+"PeoplesSouth Bancshares,"Inc."","Corporate Sec & Treas,"CFO & Vice President"","Sandra Womble","Corporate Sec. & Treasurer,"CFO & Investment Officer of Peoples South Bank","Colquitt"","n/a","2018","Chief Financial Officer","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","Ronald H. Rentz","Director of Peoples South Bank,"Colquitt"","Ronald H. Rentz Attorney at Law - Owner","2018","Attorney","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","J. Alvin Newton,"Jr."","Director of Peoples South Bank,"Colquitt"","Burke,"Worsham & Harrell LLC CPA"","2018","Attorney","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","Joseph W. Grimsley","Director of Peoples South Bank,"Colquitt"","n/a","2018","Retired Dentist","n/a"
+"PeoplesSouth Bancshares,"Inc."","Director","Jana Cobb","Director of Peoples South Bank,"Colquitt"","Grow Drug Company Pharmacist","2018","Pharmacist","n/a"
+```

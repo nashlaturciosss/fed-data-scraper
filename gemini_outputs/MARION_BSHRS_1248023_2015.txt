@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MARION BANCSHARES,"INC."","Birmingham,"Alabama"","2015","Geneva Blackburn","n/a","13500","11%","1248023"
+"MARION BANCSHARES,"INC."","Birmingham,"Alabama"","2015","Mary King Dunkin","n/a","6274","5%","1248023"
+"MARION BANCSHARES,"INC."","Birmingham,"Alabama"","2015","Robert c. Walthall","n/a","6178","5%","1248023"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MARION BANCSHARES,"INC."","Director","Geneva Blackburn","Retired medical Technologist","UAB Hospital","2015","Retired medical Technologist","1248023"
+"MARION BANCSHARES,"INC."","Director","Sam Givhan","Farmer","Givhan Land and Cattle Company","2015","Farmer","1248023"
+"MARION BANCSHARES,"INC."","Director","Sam Givhan","Partner","Sam P. Givhan,"Partnership","LP"","2015","Farmer","1248023"
+"MARION BANCSHARES,"INC."","Director","Roy Barnett,"Jr"","Retired Businessman","n/a","2015","Retired Businessman","1248023"
+"MARION BANCSHARES,"INC."","Director","David Crawford","Owner","Seabed Insurance","2015","Self-employed Insurance-Seabed,"Inc."","1248023"
+"MARION BANCSHARES,"INC."","Director","Charles Dunkin","CEO","Dunkin/Lewis,"Inc."","2015","n/a","1248023"
+"MARION BANCSHARES,"INC."","Director","Bruce Fuller","CEO","Fuller Building & supply Company,"Inc."","2015","n/a","1248023"
+"MARION BANCSHARES,"INC."","Director","Robert C. Walthall","Attorney","Bradley,"Arant","Boult & Cummings","LLP"","2015","Attorney","1248023"
+"MARION BANCSHARES,"INC."","Chairman,"Board of Directors"","E. R. Richardson,"Jr"","n/a","n/a","2015","n/a","1248023"
+"MARION BANCSHARES,"INC."","President/Director","F. Conrad Taylor","n/a","n/a","2015","n/a","1248023"
+"MARION BANCSHARES,"INC."","Vice President/Cashier/CFO","Will H. Stewart","n/a","n/a","2015","n/a","1248023"
+```

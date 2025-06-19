@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Southwest Corporation","McComb,"MS"","2014","James W. Covington","n/a","68487","22.6%","1082692"
+"First Southwest Corporation","McComb,"MS"","2014","First Bank ESOP","n/a","52578","17.3%","1082692"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Chairman & CEO","First Bank","2014","Banker","1082692"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Partner","Covington Fami","2014","Banker","1082692"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Partner","E.D. Covington L.P.","2014","Banker","1082692"
+"First Southwest Corporation","Chairman & CEO","James W. Covington","Member","Ybrake Farms,"LLC"","2014","Banker","1082692"
+"First Southwest Corporation","Director","E. G. Covington,"III"","n/a","Covington Fami","2014","Owner Hydro(","1082692"
+"First Southwest Corporation","Director","Victor H. Morrish","President","TreeMart,"Inc"","2014","Business Owner","1082692"
+"First Southwest Corporation","Director","Mr. Harrell E. Holloway","Partner","Alford Holloway Smith,"CPA's"","2014","Accountant","1082692"
+"First Southwest Corporation","Director","Lucius Lampton,"MD"","n/a","Physican Magnolia Clinic","2014","Physican","1082692"
+"First Southwest Corporation","Director","Clifton Van Cleave","President","Buffalo Serivces Inc.","2014","Business Manager","1082692"
+"First Southwest Corporation","Director","Johnny H. Nance","Office Manager","Copeland,"Taylor & Bush","Attys"","2014","Business Owner","1082692"
+"First Southwest Corporation","Director","J. P. Doyle","President","D & M Equipment Company","2014","Business Owner","1082692"
+"First Southwest Corporation","Director","L Grant Bennett","n/a","Law Office of L. Grant Be","2014","Attorney","1082692"
+"First Southwest Corporation","n/a","First Bank Employee","n/a","n/a","2014","N/A","1082692"
+```

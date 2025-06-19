@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Burke Banking Company,"Inc."","Waynesboro,"GA"","2017","J. C. Palmer,"III"","Common Stock","3665","34.59%","n/a"
+"First Burke Banking Company,"Inc."","Newnan,"GA"","2017","Leigh O. Jackson","Common Stock","1935","18.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BURKE BANK COMPANY","(Advisory) Director","J. Douglas Cates,"III"","n/a","n/a","2016","Retired","n/a"
+"FIRST BURKE BANK COMPANY","Director","Roy F. Chalker,"Jr."","n/a","Chalker Publishing","2016","President Chalker Publishing","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","President","Collins Farms/ Collins Bonded Warehouse","2016","Collins Farms/ Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Robert C. Collins","President","Truflame Gas Co.,"Inc"","2016","Collins Farms/ Collins Bonded Warehouse","n/a"
+"FIRST BURKE BANK COMPANY","Director","Dr. Shelley Griffin","Physician","Physician Medical Specialist","2016","Physician Medical Specialist","n/a"
+"FIRST BURKE BANK COMPANY","Director","H.C. Hopkins,"III"","n/a","Hopkins Farms","2016","Hopkins Farms President","n/a"
+"FIRST BURKE BANK COMPANY","Director","Alan W. Jackson","n/a","Glover & Davis P.A.","2016","Glover & Davis P.A. Partner","n/a"
+"FIRST BURKE BANK COMPANY","Director","Ashley Hammett","n/a","n/a","2016","Business Owner - C & H Services","n/a"
+"FIRST BURKE BANK COMPANY","Director","J. C. Palmer,"IV"","n/a","n/a","2016","Loan Officer/First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","President/Director/Treasurer","J. C. Palmer,"III"","n/a","n/a","2016","President/Director First National Bank/Chairman of Board","n/a"
+"FIRST BURKE BANK COMPANY","n/a","Leigh O. Jackson","n/a","n/a","2016","Housewife","n/a"
+"FIRST BURKE BANK COMPANY","Secretary","Connie Smith","n/a","n/a","2016","First National Bank","n/a"
+"FIRST BURKE BANK COMPANY","Director","Johnny F. Christian","n/a","n/a","2016","Doctor","n/a"
+"FIRST BURKE BANK COMPANY","Director","Matthew Jenkins","n/a","n/a","2016","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","John Hardy Waynesboro","n/a","n/a","2016","Business Owner - Hardy Plumbing","n/a"
+"FIRST BURKE BANK COMPANY","Director","Fredrick Stewart","n/a","n/a","2016","Farmer","n/a"
+"FIRST BURKE BANK COMPANY","Director","Nan Palmer Lynch","n/a","n/a","2016","Marketing/PR First National Bank","n/a"
+```

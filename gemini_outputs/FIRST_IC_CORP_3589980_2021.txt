@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First IC Corporation","McDonough,"GA"","2021","Chong W Chun and Kyong H Chun","Common Stock","900252","9.95%","n/a"
+"First IC Corporation","McDonough,"GA"","2021","Chong W Chun and Kyong H Chun","Family Owned Common Stock","105166","1.17%","n/a"
+"First IC Corporation","Atlanta,"GA"","2021","Choong S Cho and Boksoo Kim Cho","Common Stock","581671","6.43%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2021","Myong Tul Chu","Common Stock","544950","6.02%","n/a"
+"First IC Corporation","Brookhaven,"GA"","2021","Myong Tul Chu","Family Owned Common Stock","69343","0.76%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First IC Corporation","Director Chairman","Chong W Chun","n/a","n/a","2021","n/a","2877840"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Lee's Golden Buddha","2021","Business Owner","2877840"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Johnsboro Inc","2021","Business Owner","2877840"
+"First IC Corporation","Director","Tae Hyun Liu","Owner","Oasis International Cuisine Inc.","2021","Business Owner","2877840"
+"First IC Corporation","Director","Eui Suk Lee","n/a","n/a","2021","n/a","2877840"
+"First IC Corporation","Director","Suk Hyun Kim","Co-Owner","Net K,"INC"","2021","Business Owner","2877840"
+"First IC Corporation","Director","Lucio Minn","n/a","n/a","2021","n/a","2877840"
+"First IC Corporation","Director President/CEO","Dong Wook Kim","n/a","n/a","2021","n/a","2877840"
+"First IC Corporation","EVP/CFO","Edward Briscoe","n/a","n/a","2021","n/a","2877840"
+```

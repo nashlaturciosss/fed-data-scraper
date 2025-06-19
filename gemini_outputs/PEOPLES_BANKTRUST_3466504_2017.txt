@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2017","Larry Cheek","Common Stock","145427","6.4932%","7466504"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2017","Dover & Cheek","Common Stock","106000","4.7328%","7466504"
+"PEOPLES BANKTRUST,"INC."","Jersey City,"NJ"","2017","Morgan Stanley","Common Stock","139813","6.2426%","7466504"
+"PEOPLES BANKTRUST,"INC."","Buford,"GA"","2017","Gary D. Brown","Common Stock","115501","5.1571%","7466504"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANKTRUST,"INC."","Director/President","Douglas Nichols","Director/President/ CEO/CFO","n/a","2017","NA","7466504"
+"PEOPLES BANKTRUST,"INC."","Vice President","Ted Williams","EVP/CLO","n/a","2017","NA","7466504"
+"PEOPLES BANKTRUST,"INC."","Secretary","Jan Wells","Director/ EVP/COO","n/a","2017","NA","7466504"
+"PEOPLES BANKTRUST,"INC."","Treasurer","Adam Allison","VP","n/a","2017","NA","7466504"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus","Clayton Bartlett","Director/Emeritus","n/a","2017","Retired","7466504"
+"PEOPLES BANKTRUST,"INC."","Director","Phillip Beard","Director","City of Buford","2017","City of Buford","7466504"
+"PEOPLES BANKTRUST,"INC."","Director","Robert Bowman","Director","n/a","2017","Retired","7466504"
+"PEOPLES BANKTRUST,"INC."","Director","Larry Cheek","Director","Dover & Cheek","2017","Wholesale Elec/Plumb","7466504"
+"PEOPLES BANKTRUST,"INC."","Director","Wayne Hill","Director","n/a","2017","Retired","7466504"
+"PEOPLES BANKTRUST,"INC."","Director","Garrett Reed","Director","n/a","2017","Retired","7466504"
+"PEOPLES BANKTRUST,"INC."","Director/Emeritus","Garland J. Roberts","Director/Emeritus","n/a","2017","Retired","7466504"
+```

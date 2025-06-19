@@ -1,0 +1,30 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lafayette Banking Company","Mayo,"FL"","2022","Michael and Freda Shaw","common stock","302117","8%","n/a"
+"Lafayette Banking Company","Mayo,"FL"","2022","Reynolds R. Williams","common stock","298940","8%","n/a"
+"Lafayette Banking Company","Live Oak,"FL"","2022","Dennis and T. Leann Music","common stock","204145","5%","n/a"
+"Lafayette Banking Company","Clearwater,"FL"","2022","Group Financial Investor CLW LLC","common stock","204000","5%","n/a"
+"Lafayette Banking Company","Live Oak,"FL"","2022","Jack L. Putnal","common stock","200000","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lafayette Banking Company","Director; President Adams Insurance Agency","David Adams","Director","Lafayette State Bank","2022","Insurance Agency Owner","n/a"
+"Lafayette Banking Company","Director","Roger Brooks","Retired Banker","Lafayette State Bank","2022","Retired Banker","n/a"
+"Lafayette Banking Company","Director; Director/President Suwannee Valley Probation Svcs.","Richard Calvitt","Retired Banker","Lafayette State Bank","2022","Retired Banker","n/a"
+"Lafayette Banking Company","Director; Vice-President J&J Gas Service","John Hewett","Gas Company Owner","Lafayette State Bank","2022","Gas Company Owner","n/a"
+"Lafayette Banking Company","Director; President KLZ Consulting","Kennard Page","Retired Federal Bank Examiner","Lafayette State Bank","2022","Retired Federal Bank Examiner","n/a"
+"Lafayette Banking Company","Director; President Mayo Ag Services","Michael Shaw","Agricultural Services Company Owner","Lafayette State Bank","2022","Agricultural Services Company Owner","n/a"
+"Lafayette Banking Company","Director; President Jordan Agency","Bruce Tillman","Insurance Agency Owner","Lafayette State Bank","2022","Insurance Agency Owner","n/a"
+"Lafayette Banking Company","Director; Director/President W.R. Williams Distributor","Reynolds Williams","Fuel Distribution Company Owner","Lafayette State Bank","2022","Fuel Distribution Company Owner","n/a"
+"Lafayette Banking Company","Director; Director/CEO","David Claussen","Bank CEO","Lafayette State Bank","2022","Bank CEO","n/a"
+"Lafayette Banking Company","Director; President Adams Insurance Agency","David Adams","Director","Adams Insurance Agency","2022","Insurance Agency Owner","n/a"
+"Lafayette Banking Company","Director; Director/President Suwannee Valley Probation Svcs.","Richard Calvitt","Retired Banker","Suwannee Valley Probation Svcs.","2022","Retired Banker","n/a"
+"Lafayette Banking Company","Director; Vice-President J&J Gas Service","John Hewett","Gas Company Owner","J&J Gas Service","2022","Gas Company Owner","n/a"
+"Lafayette Banking Company","Director; President KLZ Consulting","Kennard Page","Retired Federal Bank Examiner","KLZ Consulting","2022","Retired Federal Bank Examiner","n/a"
+"Lafayette Banking Company","Director; President Mayo Ag Services","Michael Shaw","Agricultural Services Company Owner","Mayo Ag Services","2022","Agricultural Services Company Owner","n/a"
+"Lafayette Banking Company","Director; President Jordan Agency","Bruce Tillman","Insurance Agency Owner","Jordan Agency","2022","Insurance Agency Owner","n/a"
+"Lafayette Banking Company","Director; Director/President W.R. Williams Distributor","Reynolds Williams","Fuel Distribution Company Owner","W.R. Williams Distributor","2022","Fuel Distribution Company Owner","n/a"
+```

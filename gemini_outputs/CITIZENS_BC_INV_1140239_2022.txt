@@ -1,0 +1,30 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"USA"","2022","Cynthia McClard","n/a","1645400","27.11%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"USA"","2022","Marcus Darnell","n/a","462000","7.61%","n/a"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"USA"","2022","Mike Reese","n/a","535400","8.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","n/a","MWR Enterprises,"Inc. II"","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","n/a","R&P Foods LLC","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","n/a","M&T Enterprises LLC","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","n/a","Mike & Yvonne Reese Farm","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Mike Reese","n/a","Mike Reese Rentals","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Todd Reese","n/a","MTR Enterprises LLC","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Todd Reese","n/a","M&T Enterprises LLC","2022","Grocery/Retail","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","n/a","DT McCall & Sons","2022","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","n/a","McCall Realty Co.","2022","Retail/ Furniture","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","n/a","BD Polston & Son Builders Supply Inc","2022","Building Supply","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","n/a","McClards Gifts","2022","Consulting","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","n/a","McClards Drug Corp","2022","Consulting","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Jon Alan Long","n/a","Dr. Jon Alan Long,"DDS"","2022","Dentist","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Eugene R. London,"Jr."","n/a","SIM&S Inc.","2022","Security Systems","n/a"
+"Citizens Bancorp Investment,"Inc."","Director","Joe Carter","n/a","n/a","2022","Retired Banker","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ President/ CEO","Peter Williston","n/a","Williston Family Partnership LTD","2022","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","Director/ EVP","Thomas E. Anderton,"Jr."","n/a","n/a","2022","Banking","n/a"
+"Citizens Bancorp Investment,"Inc."","CFO","Arthur Taylor,"Jr."","n/a","n/a","2022","Banking","n/a"
+```

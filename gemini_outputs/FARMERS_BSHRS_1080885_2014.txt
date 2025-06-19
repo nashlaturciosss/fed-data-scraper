@@ -1,0 +1,26 @@
+"Here are the two tables extracted from the document in CSV format","as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2014","Kenneth S. Dowling","n/a","38.6369","17.24%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2014","Estate of W.E. Dowling – Family Trust – FBO Kenneth S. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","33.3015","14.86%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2014","Robert E. Dowling - Family Trust","n/a","28.5204","12.72%","n/a"
+"FARMERS BANCSHARES,"INC."","McRae,"GA"","2014","Estate of W.E. Dowling – Family Trust - FBO Robert E. Dowling Sr. with Kenneth S. Dowling Sr. as Executor","n/a","27.0000","12.04%","n/a"
+"FARMERS BANCSHARES,"INC."","Dublin,"GA"","2014","Edward E. Morris","n/a","13.9998","6.24%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FARMERS BANCSHARES,"INC."","None","Estate of W.E. Dowling Family Trust","None","None","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","None","Estate of W.E. Dowling Family Trust","None","None","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","None","Robert E. Dowling Family Trust","None","None","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","Director & CEO","Security State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Chairman of the Board & Director","Kenneth S. Dowling","Director","Farmers State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","President & Director","Edward E. Morris","Director","Security State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","President & Director","Edward E. Morris","Director & CEO","Farmers State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Earl Merritt","Director & President","Security State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Earl Merritt","Director","Farmers State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Brett Bowden","Director & President","Farmers State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Kent Dowling","Director","Security State Bank","2014","None","n/a"
+"FARMERS BANCSHARES,"INC."","Director","Kent Dowling","Director","Farmers State Bank","2014","None","n/a"
+```

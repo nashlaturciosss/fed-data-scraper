@@ -1,23 +1,22 @@
-Here are the two tables in CSV format as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central State Bancorporation","Calera","2021","Stephanie Cowart Iffland","n/a","624","9.8%"
-"Central State Bancorporation","Calera","2021","Dorothy Downs Schroeder","n/a","550","8.7%"
-"Central State Bancorporation","Calera","2021","William M. Schroeder,"Sr."","n/a","685","10.6%"
-"Central State Bancorporation","Calera","2021","William M. Schroeder,"Jr."","n/a","1377","21.7%"
-"Central State Bancorporation","Calera","2021","Shane D. Schroeder","n/a","555","8.8%"
-"Central State Bancorporation","Hoover","2021","Shanda S. Watts","n/a","690","10.9%"
-"Central State Bancorporation","Calera","2021","Downs Family Trust FBO Dustin Downs","n/a","348","5.50%"
-"Central State Bancorporation","Calera","2021","Downs Family Trust FBO Dallas Downs","n/a","348","5.50%"
-"Central State Bancorporation","Calera","2021","Dustin Downs","n/a","364","5.8%"
-"Central State Bancorporation","Calera","2021","Dallas Downs","n/a","538","5.7%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central State Bancorporation","Calera,"Alabama"","2021","Stephanie Cowart Iffland","n/a","624","9.8%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Dorothy Downs Schroeder","n/a","550","8.7%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","William M. Schroeder,"Sr."","n/a","685","10.6%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","William M. Schroeder,"Jr."","n/a","1377","21.7%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Shane D. Schroeder","n/a","555","8.8%","n/a"
+"Central State Bancorporation","Hoover,"Alabama"","2021","Shanda S. Watts","n/a","690","10.9%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Downs Family Trust FBO Dustin Downs","n/a","348","5.50%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Downs Family Trust FBO Dallas Downs","n/a","348","5.50%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Dustin Downs","n/a","364","5.8%","n/a"
+"Central State Bancorporation","Calera,"Alabama"","2021","Dallas Downs","n/a","538","5.7%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central State Bancorporation","Director & Chairman","William M. Schroeder,"Sr."","Chairman","Central State Bank","2021"
-"Central State Bancorporation","Director","Shane D. Schroeder","President","Central State Bank","2021"
-"Central State Bancorporation","Director","Shanda S. Watts","Sr. Vice President","Central State Bank","2021"
-"Central State Bancorporation","Director","William M. Schroeder,"Jr."","CEO","Central State Bank","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central State Bancorporation","Director,"Chairman"","William M. Schroeder,"Sr."","Chairman","Central State Bank","2021","n/a","n/a"
+"Central State Bancorporation","Director,"President"","Shane D. Schroeder","n/a","n/a","2021","n/a","n/a"
+"Central State Bancorporation","Director,"Sr. Vice President"","Shanda S. Watts","n/a","n/a","2021","n/a","n/a"
+"Central State Bancorporation","Director,"CEO"","William M. Schroeder,"Jr."","n/a","n/a","2021","n/a","n/a"
 ```

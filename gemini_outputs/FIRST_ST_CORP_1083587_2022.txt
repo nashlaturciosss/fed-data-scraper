@@ -1,0 +1,13 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Corporation","n/a","2022","Jeff Lacey","n/a","n/a","n/a","n/a"
+"First State Corporation","n/a","2022","Allen Hodo","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Corporation","Chairman","Jeff Lacey","n/a","n/a","2022","n/a","n/a"
+"First State Corporation","CFO","Allen Hodo","n/a","n/a","2022","n/a","n/a"
+```

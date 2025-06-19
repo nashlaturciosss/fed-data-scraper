@@ -1,23 +1,21 @@
-Here are the requested CSV tables extracted from the provided document:
+"Here are the two CSV tables","SECURITIES HOLDERS and INSIDERS","extracted from the provided document","following all specified formatting and content rules:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancTenn Corp","Elizabethton","2015","William B. Greene,"Jr."","Common Stock","1794967","71.35"
-"BancTenn Corp","Kingsport","2015","Roy L. Harmon,"Jr."","Common Stock","164766","6.55"
-"BancTenn Corp","Kingsport","2015","Valerie G. Ketron","Common Stock","213687","8.49"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancTenn Corp","Elizabethton,"TN"","2015","William B. Greene,"Jr."","common stock","1794967","71.35","n/a"
+"BancTenn Corp","Kingsport,"TN"","2015","Roy L. Harmon,"Jr."","common stock","164766","6.55","n/a"
+"BancTenn Corp","Kingsport,"TN"","2015","Valerie G. Ketron","common stock","213687","8.49","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Director","Bank of Tennessee","2015"
-"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director","Bank of Tennessee","2015"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","n/a","Strategic Resources Group,"Inc."","2015"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","n/a","Aviation Strategies Group,"Inc."","2015"
-"BancTenn Corp","Executive Vice-President of the Company","Roy L. Harmon,"Jr."","Chairman of the Board and CEO","Bank of Tennessee","2015"
-"BancTenn Corp","Executive Vice-President of the Company","Roy L. Harmon,"Jr."","Director","Paragon Commercial Corp.","2015"
-"BancTenn Corp","Executive Vice-President of the Company","Roy L. Harmon,"Jr."","Director","Paragon Commercial Bank","2015"
-"BancTenn Corp","Director of the Company","Kenneth H. Maness","Director","Bank of Tennessee","2015"
-"BancTenn Corp","Director of the Company","James W. Holmes","Director","Bank of Tennessee","2015"
-"BancTenn Corp","CFO of the Company","Darla M. Scott","EVP and CFO","Bank of Tennessee","2015"
-"BancTenn Corp","Assistant Secretary of the Company","Jennifer Blakley","Secretary to the Board","Bank of Tennessee","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company;Director of Bank of Tennessee"","William B. Greene,"Jr."","n/a","n/a","2015","n/a","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company;Director of Bank of Tennessee"","John E. Seward,"Jr."","President","Strategic Resources Group,"Inc."","2015","President of Strategic Resources Group,"Inc. and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company;Director of Bank of Tennessee"","John E. Seward,"Jr."","President","Aviation Strategies Group,"Inc."","2015","President of Strategic Resources Group,"Inc. and Aviation Strategies Group","Inc."","n/a"
+"BancTenn Corp","Executive Vice-President of the Company;Chairman of the Board and CEO of Bank of Tennessee","Roy L. Harmon,"Jr."","Director","Paragon Commercial Corp.","2015","n/a","n/a"
+"BancTenn Corp","Executive Vice-President of the Company;Chairman of the Board and CEO of Bank of Tennessee","Roy L. Harmon,"Jr."","Director","Paragon Commercial Bank","2015","n/a","n/a"
+"BancTenn Corp","Director of the Company;Director of Bank of Tennessee","Kenneth H. Maness","n/a","n/a","2015","Investor/Consultant","n/a"
+"BancTenn Corp","Director of the Company;Director of Bank of Tennessee","James W. Holmes","n/a","n/a","2015","Retired","n/a"
+"BancTenn Corp","CFO of the Company;EVP and CFO of Bank of Tennessee","Darla M. Scott","n/a","n/a","2015","n/a","n/a"
+"BancTenn Corp","Assistant Secretary of the Company;Secretary to the Board of Bank of Tennessee","Jennifer Blakley","n/a","n/a","2015","n/a","n/a"
 ```

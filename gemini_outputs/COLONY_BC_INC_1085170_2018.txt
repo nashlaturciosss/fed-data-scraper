@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Colony Bank","Ocilla,"GA"","2018","Robert Sidney Ross","common stock","1165850","13.81%","491934"
+"Colony Bank","Douglas,"GA"","2018","B. Gene Waldron","common stock","633884","7.51%","491934"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Colony Bank","Director & President and Chief Executive Officer","T. Heath Fountain","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Director & Chief Financial Officer","Terry L. Hester","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Chief Credit Officer","Edward Lee Bagwell,"III"","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Chief Operating Officer","J. Stan Cook","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Regional Market Executive Officer","Eddie Hoyle,"Jr"","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Regional Market Executive Officer","Lee A. Northcutt","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Chief Administrative Officer","Kimberly Dockery","n/a","n/a","2018","n/a","491934"
+"Colony Bank","Director & Chairman of the Board","Mark H. Massee","President","Massee Builders,"Inc."","2018","Building Contractor,"Massee Builders","Inc."","491934"
+"Colony Bank","Director","Edward P. Loomis,"Jr."","Retired","n/a","2018","n/a","491934"
+"Colony Bank","Director","Scott L. Downing","President","SDI LLC","2018","Personal Investments,"SDI LLC"","491934"
+"Colony Bank","Director","M. Frederick Dwozan,"Jr."","President","Dodge County Medical Center Prescription Shop,"Inc."","2018","Medical Supplier,"Dodge County Medical Center Prescription Shop","Inc."","491934"
+"Colony Bank","Director","Jonathan WR Ross","President","Ross Construction Co.,"Inc"","2018","Construction,"Ross Construction Co.","Inc"","491934"
+"Colony Bank","n/a","Robert Sidney Ross","President","Ross of Georgia,"Inc"","2018","Construction,"Ross of Georgia","Inc"","491934"
+```

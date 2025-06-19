@@ -1,0 +1,24 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens National Banc Corp.","Meridian,"MS"","2018","Archie R. McDonnell,"Jr."","Common Stock","9632","6.81%","n/a"
+"Citizens National Banc Corp.","Memphis,"TN"","2018","Elizabeth W. Williamson","Common Stock","10272","7.26%","n/a"
+"Citizens National Banc Corp.","Memphis,"TN"","2018","Garnett W. Hutton","Common Stock","10592","7.49%","n/a"
+"Citizens National Banc Corp.","Ridgeland,"MS"","2018","Richard E. Wilbourn III","Common Stock","10202","7.21%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2018","Catherine M. Hall","Common Stock","10328","7.30%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2018","Deanna A. Wilbourn","Common Stock","42010","29.70%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Banc Corp.","Chairman","Russell H. Williamson","n/a","n/a","2018","n/a","n/a"
+"Citizens National Banc Corp.","Chairman","Russell H. Williamson","n/a","The Citizens National Bank of Meridian","2018","n/a","n/a"
+"Citizens National Banc Corp.","Director & President","Archie R. McDonnell,"Jr."","n/a","n/a","2018","n/a","n/a"
+"Citizens National Banc Corp.","Director & President","Archie R. McDonnell,"Jr."","n/a","The Citizens National Bank of Meridian","2018","n/a","n/a"
+"Citizens National Banc Corp.","Principal Shareholder","Deanna A. Wilbourn","Executrix of the Estate of Richard E. Wilbourn","n/a","2018","n/a","n/a"
+"Citizens National Banc Corp.","Principal Shareholder","Deanna A. Wilbourn","Executrix of the Estate of Richard E. Wilbourn","Deanna A. Wilbourn Marital Trust B","2018","n/a","n/a"
+"Citizens National Banc Corp.","Director","Garnett W. Hutton","n/a","n/a","2018","n/a","n/a"
+"Citizens National Banc Corp.","Director","Richard E. Wilbourn III","Richard E. Wilbourn III,"Attorney At Law"","Inn Serve Corporation","2018","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","n/a","Halltree,"Inc."","2018","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","n/a","Hallforest,"L.P."","2018","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","n/a","Halltimber,"L. P."","2018","Timber farmer & Attorney","n/a"
+"Citizens National Banc Corp.","Director","Maurice Hall","n/a","The Hall Foundation,"Inc."","2018","Timber farmer & Attorney","n/a"
+```

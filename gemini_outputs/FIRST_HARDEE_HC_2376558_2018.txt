@@ -1,0 +1,29 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Hardee Holding Corporation","Wauchula,"FL"","2018","F.L. Revell,"Jr."","Common Stock","6663","80%","n/a"
+"First Hardee Holding Corporation","Wauchula,"FL"","2018","Oneita Revell","Common Stock","600","7%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","Florida Fence Post Co","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","F L Revell,"Inc."","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","F L Revell Ranch & Groves","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","Brushy Creek Corp","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","Florida Fence Post Co","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","F L Revell,"Inc."","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","F L Revell Ranch & Groves","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","Brushy Creek Corp","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","n/a","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","n/a","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","President","n/a","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","F. L. Revell,"Jr."","Owner","n/a","2018","Manufacturing","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","M. E. Wilkins","n/a","n/a","2018","Retired","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Chairman","FNB of Wauchula"","Kenneth B. Evers","Owner","Kenneth B. Evers PA","2018","Attorney","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","President","Director FNB Wauchula"","Richard K. Justice","n/a","n/a","2018","Banker","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","William R. Lambert","Executive Director","n/a","2018","Economic Development Council","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","SVP","COO","Director FNB Wauchula"","W. Lee Mikell","n/a","n/a","2018","FNB Wauchula","n/a"
+"First Hardee Holding Corporation","Shareholder,"Director","Director FNB Wauchula"","Timothy C. Nunez","n/a","n/a","2018","Episcopal Priest","n/a"
+```

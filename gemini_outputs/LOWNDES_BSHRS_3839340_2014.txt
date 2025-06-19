@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Morven,"GA"","2014","John W. Langdale,"Jr."","n/a","12600","49.8%","n/a"
+"Lowndes Bancshares,"Inc."","Valdosta,"GA"","2014","John W. Langdale,"III"","n/a","12600","49.8%","n/a"
+"Lowndes Bancshares,"Inc."","n/a","2014","John W. Langdale,"Jr. and John W. Langdale","III as Co-Trustees of Trust B-1 FBO Harley Langdale","Jr. and the Descendants of John W. Langdale dated December 30","2009"","n/a","100","0.4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Director,"Chairman","President"","Langdale Industries,"Inc."","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Chairman","Langdale Woodlands,"LLC"","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Operating Manager","Langdale Farms,"LLC"","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Operating Manager","Kinderlou Forest Development,"LLC"","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Chairman","President"","John W. Langdale,"Jr."","Director","Southland Forest Products,"Inc."","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","John W. Langdale,"III"","Director","The Langdale Company","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","John W. Langdale,"III"","Member Manager","Langdale Farms,"LLC"","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Vice-President"","John W. Langdale,"III"","Member Manager","Kinderlou Forest Development,"LLC"","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director","Larry K. Fudge","Director","The Langdale Company","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director,"Secretary/Treasurer"","Gregory Miller","n/a","n/a","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director","Donald K. Warten","Director,"Asst Secy/Treas."","The Langdale Company","2014","n/a","n/a"
+"Lowndes Bancshares,"Inc."","Director","George D Russell","Director","n/a","2014","n/a","n/a"
+```

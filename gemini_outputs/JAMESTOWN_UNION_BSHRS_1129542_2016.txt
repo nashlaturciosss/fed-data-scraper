@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jamestown Union Bancshares,"Inc."","Houston,"TX"","2016","WMJ/RMJ Family Limited Partnership II","n/a","16728","16.728%","n/a"
+"Jamestown Union Bancshares,"Inc."","Jamestown,"TN"","2016","Fred M. Johnson,"Jr."","n/a","7227","7.227%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jamestown Union Bancshares,"Inc."","CEO & President/Director","Thomas B. Duncan","CEO & President/Director","n/a","2016","Banking","235231"
+"Jamestown Union Bancshares,"Inc."","Director","Michael I. Jones","Director","n/a","2016","Fentress County,"TN Superintendent of Schools"","235231"
+"Jamestown Union Bancshares,"Inc."","Director","Kenneth Neely","Director","n/a","2016","Farmer","235231"
+"Jamestown Union Bancshares,"Inc."","Director","Kevin M. Johnson","Director","n/a","2016","Nurse","235231"
+"Jamestown Union Bancshares,"Inc."","CFO & Executive Vice President/Director","Marion Bryant Johnson","n/a","n/a","2016","Banking","235231"
+"Jamestown Union Bancshares,"Inc."","Director","Robert E. Washburn","Director","PWP Greenhouses,"Inc."","2016","Owner & operator PWP Greenhouses,"Inc."","235231"
+"Jamestown Union Bancshares,"Inc."","Director","Marti G. Norton","Director","Estate of Bruno Gernt,"Inc."","2016","Director,"US Project Acct. Intergraph Government Solutions"","235231"
+"Jamestown Union Bancshares,"Inc."","Vice President Senior Lending Officer","Patricia Lynn Stephens","Vice President Senior Lending Officer","n/a","2016","Banking","235231"
+"Jamestown Union Bancshares,"Inc."","n/a","WMJ/RMJ Family Limited Partnership","Principal Stockholder","n/a","2016","Retired Businessman","235231"
+```

@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2017","Mary B Garnand","n/a","7964","14.2867%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2017","James O. Banks,"Jr."","n/a","3121","5.5988%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2017","Ernestelle P. Durrett","n/a","3113","5.5845%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kevin Jockisch","n/a","Joe's Repair Shop","2017","Repair Service","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Chairman,"CEO & Director"","Alvis Storey","n/a","n/a","2017","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","President & Director","Ralph R. Banks,"III"","n/a","n/a","2017","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","n/a","n/a","2017","Lawyer","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","James O. Banks,"Jr."","n/a","Banks and Company","2017","Merchant","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Gavin Edgar","n/a","Foodland","2017","Merchant","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Executive Vice President","Daniel M. Gamand","n/a","n/a","2017","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Cashier","Andrew Harrison Banks","n/a","n/a","2017","Banker","n/a"
+```

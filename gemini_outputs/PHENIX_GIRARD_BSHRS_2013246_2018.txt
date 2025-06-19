@@ -1,0 +1,14 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2018","John M Dudley","Common Stock","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2018","Menza Dudley","Common Stock","2","less than 1%","n/a"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2018","John M Dudley Sr Irrevocable Family Trust","Common Stock","215992","99.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","President","John M Dudley","n/a","n/a","2018","n/a","n/a"
+"Phenix-Girard Bancshares,"Inc."","Vice President","Menza Dudley","n/a","n/a","2018","n/a","n/a"
+```

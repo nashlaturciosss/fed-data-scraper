@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"JD BANK","Jennings,"LA"","2017","Dan L. Donald,"Jr."","n/a","142072","9.11%","n/a"
+"JD BANK","Jennings,"LA"","2017","David B. Donald","n/a","89000","5.71%","n/a"
+"JD BANK","New York,"NY"","2017","Cede & Company","n/a","313788","20.11%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"JD BANK","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC (Medical Corp)","2017","OB/GYN Physician","n/a"
+"JD BANK","Director","Clarence Berken","Partner","Berken Brothers","2017","Self-employed Farmer","n/a"
+"JD BANK","Director President/CEO","Boyd R. Boudreaux","Owner","Holly Beach Rentals,"LLC"","2017","N/A","n/a"
+"JD BANK","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2017","Certified Public Accountant","n/a"
+"JD BANK","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2017","President Oilfield Equipment Sales,"Inc."","n/a"
+"JD BANK","Director","Milton Ray Crochet","President","Calcasieu Rentals,"Inc."","2017","President Calcasieu Rentals,"Inc."","n/a"
+"JD BANK","Director Chairman","Dan L. Donald,"Jr."","n/a","Niblett Irrigation,"Inc."","2017","N/A","n/a"
+"JD BANK","Director Vice Chairman","David B. Donald","President","Niblett Irrigation,"Inc."","2017","Manager/Owner Donald Farms","n/a"
+"JD BANK","Director","Ray Hines","President","Scoboco,"Inc."","2017","N/A","n/a"
+"JD BANK","Director","Thomas E. Leger","President","Thomas E. Leger,"DDS","Inc."","2017","Dentist","n/a"
+"JD BANK","Director Secretary","Sara A. Roberts","Chairman of Board and CFO Secretary","R & R Construction,"Inc."","2017","President Sara A. Roberts,"CPA","APAC"","n/a"
+"JD BANK","Director","Victor T. Stelly","President","Vic Stelly Insurance Agency,"Inc."","2017","N/A","n/a"
+"JD BANK","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2017","N/A","n/a"
+```

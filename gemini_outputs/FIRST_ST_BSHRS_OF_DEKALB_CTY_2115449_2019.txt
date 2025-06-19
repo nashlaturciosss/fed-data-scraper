@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bancshares","Rainsville,"AL"","2019","Estate of Glen Kilgore,"Shari Jones trustee"","common stock","63406","56.52%","n/a"
+"First State Bancshares","Rainsville,"AL"","2019","Glen Kilgore Trust,"Shari Jones trustee"","common stock","32509","28.98%","n/a"
+"First State Bancshares","Rainsville,"AL"","2019","Shari Jones","common stock","11555","10.30%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Bancshares","Chairman and President","Shari K. Jones","Stockholder","Rainsville Chuch Pew,"Inc."","2019","merchant","n/a"
+"First State Bancshares","Secretary","James T. Jones","Stockholder","Rainsville Church Pew,"Inc."","2019","merchant","n/a"
+"First State Bancshares","Director and Secretary","Kerry D. Akins","President/Stockholder","W.A. Akins and Sons,"Inc."","2019","merchant","n/a"
+"First State Bancshares","President and CEO Director","David Henderson","n/a","n/a","2019","banker","n/a"
+"First State Bancshares","Director","Dr. Blake Isbell","President","Isbell Medical Group,"PC"","2019","physician","n/a"
+"First State Bancshares","Director","Joseph McNew","Owner","Dekalb Animal Hospital","2019","veterinarian","n/a"
+"First State Bancshares","Director","J.C. Ralph","Alfa Insurance Co Employee/agent","n/a","2019","insurance agent","n/a"
+"First State Bancshares","Director","R.C. Etherton","n/a","n/a","2019","retired","n/a"
+"First State Bancshares","Director","Nicholas Jones","Mayor","City of Rainsville,"AL"","2019","Mayor","n/a"
+```

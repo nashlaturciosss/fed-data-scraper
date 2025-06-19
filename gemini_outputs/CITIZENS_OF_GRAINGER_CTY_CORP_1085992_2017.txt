@@ -1,0 +1,28 @@
+Here are the requested tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","Shirley Family Trust; Betty A Shirley; George P Shirley,"Co-Trustees"","Common Stock","5058","7.51%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","Shirley GAP Marital Trust; George P Shirley,"Co-Trustee and Betty A Shirley","Co-Trustee"","Common Stock","6829","10.14%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","Betty A. Shirley","Common Stock","11035","16.39%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","Mary Grace Shirley JTC Betty A Shirley","Common Stock","180",".27%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","Mary Grace Shirley and Betty A Shirley","Common Stock","365",".54%","1085992"
+"Citizens of Grainger County Corporation","Rutledge,"TN"","2017","George Patrick Shirley","Common Stock","4261","6.33%","1085992"
+"Citizens of Grainger County Corporation","Knoxville,"TN"","2017","Mary Grace Shirley","Common Stock","4001","5.94%","1085992"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens of Grainger County Corporation","Director","Greg Corum","n/a","Cox & Wright Grocery","2017","Manager Meat Dept","1085992"
+"Citizens of Grainger County Corporation","Director","J. Frank Godwin","n/a","G&M Farms","2017","Farmer","1085992"
+"Citizens of Grainger County Corporation","Director","J. Albert Hodges","n/a","n/a","2017","Retired","1085992"
+"Citizens of Grainger County Corporation","Director","Terry Johnson","VP","The Top Shop","2017","Cabinet Mfg Jabo's Allwood Products","1085992"
+"Citizens of Grainger County Corporation","Director","Terry Johnson","VP","Grainger Doors","2017","Cabinet Mfg Jabo's Allwood Products","1085992"
+"Citizens of Grainger County Corporation","Director & President","George P. Shirley","n/a","n/a","2017","n/a","1085992"
+"Citizens of Grainger County Corporation","Director","Margaret A. Stapleton","n/a","n/a","2017","Retired Merchant Farmer","1085992"
+"Citizens of Grainger County Corporation","Secretary","Mary Jane Dalton","EVP","n/a","2017","n/a","1085992"
+"Citizens of Grainger County Corporation","Principal Shareholder","Shirley Family Trust","n/a","n/a","2017","n/a","1085992"
+"Citizens of Grainger County Corporation","Principal Shareholder","Shirley GAP Marital Trust","n/a","n/a","2017","n/a","1085992"
+"Citizens of Grainger County Corporation","Principal Shareholder","Betty Shirley","n/a","n/a","2017","n/a","1085992"
+"Citizens of Grainger County Corporation","n/a","Mary Grace Shirley","n/a","n/a","2017","n/a","1085992"
+```

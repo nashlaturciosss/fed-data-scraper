@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2020","A.L. Johnson,"Jr"","Common Stock","9291","5.75%","n/a"
+"First Camden Bancshares,"Inc."","Kingsport,"TN"","2020","Anne J Smith Life Trust","Common Stock","8125","5.03%","n/a"
+"First Camden Bancshares,"Inc."","Camden,"AL"","2020","Jane Shelton Dale","Common Stock","8250","5.10%","n/a"
+"First Camden Bancshares,"Inc."","Summerville,"SC"","2020","Carol D. Austin","Common Stock","8250","5.10%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Camden Bancshares,"Inc."","Director & Chairman","A.L. Johnson,"Jr"","Partner","Law Partnership","2020","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & President","William S. Johnson","Partner","Law Partnership","2020","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director & Secretary-Treasurer","Kathryn S. Perryman","n/a","none","2020","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","Sumpter Blackmon","Owner","Dr. Sumpter Blackmon P.A.","2020","Physician","n/a"
+"First Camden Bancshares,"Inc."","Director Vice President","A.L. Johnson,"III"","n/a","none","2020","n/a","n/a"
+"First Camden Bancshares,"Inc."","Director","Jimmie L. Travis","n/a","Wilco Timber Co.","2020","Forester","n/a"
+"First Camden Bancshares,"Inc."","Director","R.J. Browder","President","Browder Veneer","2020","Wood Products Industry","n/a"
+"First Camden Bancshares,"Inc."","Director","William R. Phillippi,"Jr"","Owner","W.R. Phillippi,"DMD"","2020","Dentist","n/a"
+"First Camden Bancshares,"Inc."","Director","William B. Malone Jr.","President","Holman Insurance Agency,"Inc."","2020","Insurance Agent","n/a"
+```

@@ -1,0 +1,21 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2019","Dr. T. B. Boyd,"III"","CSB&T stock","69946","44.81%","n/a"
+"CSB & T Bancorp,"Inc."","Chicago,"IL"","2019","INCIF","CSB&T stock","13729","8.80%","n/a"
+"CSB & T Bancorp,"Inc."","Nashville,"TN"","2019","Citizens Savings Bank & Trust ESOP","CSB&T stock","29948","19.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CSB & T Bancorp,"Inc."","Chairman Emeritus","Dr. T.B. Boyd,"III"","Partner","Boyd Partners,"LP"","2019","Retired","n/a"
+"CSB & T Bancorp,"Inc."","President & Chief Executive Officer","LaDonna Boyd","President/CEO","R.H. Boyd Publishing Corp.","2019","President & Chief Executive Officer of R.H. Boyd Publishing Corp.","n/a"
+"CSB & T Bancorp,"Inc."","President & CEO; Director","Sergio S. Ora","n/a","n/a","2019","President & Chief Executive Officer of CSB&T Bancorp,"Inc. and Citizens Savings Bank & Trust Company"","n/a"
+"CSB & T Bancorp,"Inc."","Director","James R. Schmitz","Market Leader","Elliott Davis","2019","Market Leader,"Elliott Davis"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Paul Luter","n/a","n/a","2019","Retired","n/a"
+"CSB & T Bancorp,"Inc."","Chairman","Richard Manson,"Esquire"","President","Sourcemark,"LLC"","2019","President of SourceMark,"LLC"","n/a"
+"CSB & T Bancorp,"Inc."","Director","Dr. Reavis L. Mitchell","Professor and Administrator of Fisk University","n/a","2019","n/a","n/a"
+"CSB & T Bancorp,"Inc."","Director","Joseph Walker,"III"","Pastor","Mt. Zion Baptist Church","2019","Pastor","n/a"
+"CSB & T Bancorp,"Inc."","n/a","National Community Investment Fund","CEO","National Community Investement Fund","2019","Chief Executive Officer","n/a"
+```

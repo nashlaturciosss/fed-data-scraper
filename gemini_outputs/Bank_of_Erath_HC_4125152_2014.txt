@@ -1,24 +1,10 @@
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bank of Erath Holding Company","n/a","2014","Paul G. Moresi,"Jr."","Common Stock","42406","37.88%"
-"Bank of Erath Holding Company","n/a","2014","Hervin J. Guidry","Common Stock","14140","12.62%"
-"Bank of Erath Holding Company","n/a","2014","Robert F. Bergier","Common Stock","11852","10.58%"
-"Bank of Erath Holding Company","n/a","2014","Doris A. Landry","Common Stock","9683","8.64%"
-"Bank of Erath Holding Company","n/a","2014","John A. LeBlanc","Common Stock","9023","8.05%"
-"Bank of Erath Holding Company","n/a","2014","Joseph E. Melancon","Common Stock","8684","7.75%"
-"Bank of Erath Holding Company","n/a","2014","Francis L. Richard","Common Stock","7070","6.31%"
-"Bank of Erath Holding Company","n/a","2014","Glenn P. Theriot","Common Stock","6354","5.67%"
-"Bank of Erath Holding Company","n/a","2014","Cheney Desormeaux","Common Stock","3670","3.27%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Erath Holding Company","n/a","2014","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bank of Erath Holding Company","President","Paul G. Moresi,"Jr."","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Hervin J. Guidry","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Robert F. Bergier","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Doris A. Landry","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","John A. LeBlanc","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Joseph E. Melancon","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Francis L. Richard","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","n/a","Glenn P. Theriot","Director","Bank of Erath","2014"
-"Bank of Erath Holding Company","VP/Cashier","Cheney Desormeaux","VP/Cashier","Bank of Erath","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Erath Holding Company","President","Paul G. Moresi,"Jr."","n/a","n/a","2014","n/a","412 515 2"
 ```

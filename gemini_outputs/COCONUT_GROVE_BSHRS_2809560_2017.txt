@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2017","Phillip Frost,"MD"","Common Stock","850643","24.84%","2869566"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2017","Michael Weintraub","Common Stock","308548","9.01%","2869566"
+"Coconut Grove Bankshares,"Inc."","Miami,"Florida"","2017","Charles Stuzin","Common Stock","297209","8.68%","2869566"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Coconut Grove Bankshares,"Inc."","President & CEO,"Director of HC"","Richard A. Kuci","Director,"Chairman & CEO"","Grove Bank & Trust","2017","n/a","2869566"
+"Coconut Grove Bankshares,"Inc."","Secretary/Treasuer","Daniel Chavez","EVP & CFO","Grove Bank & Trust","2017","n/a","2869566"
+"Coconut Grove Bankshares,"Inc."","n/a","Charles Porter","President,"Wealth Management Division"","Grove Bank & Trust","2017","n/a","2869566"
+"Coconut Grove Bankshares,"Inc."","n/a","Sheldon Anderson","Director","n/a","2017","n/a","2869566"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Howard Lucas","Director","BDO USA,"LLP"","2017","CPA","2869566"
+"Coconut Grove Bankshares,"Inc."","EVP & Chief","George W. Foyo","Director","Baptist Health","2017","n/a","2869566"
+"Coconut Grove Bankshares,"Inc."","n/a","Michael Chavies","Director","Akerman,"LLP"","2017","Retired Judge","2869566"
+"Coconut Grove Bankshares,"Inc."","n/a","Charles M. Hartz","Director","Retired Capital","2017","Attorney","2869566"
+"Coconut Grove Bankshares,"Inc."","Director of HC","D. Alan Nichols","Director","n/a","2017","CPA","2869566"
+"Coconut Grove Bankshares,"Inc."","n/a","William T. Price,"III"","Director","n/a","2017","Investor","2869566"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Charles Stuzin","Director","SF Partners Financial,"LLC"","2017","Investor","2869566"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Michael Weintraub","Director","Gibson & Co.,"Inc."","2017","Investor","2869566"
+"Coconut Grove Bankshares,"Inc."","Director of HC","Phillip Frost,"MD"","n/a","n/a","2017","Investor","2869566"
+```

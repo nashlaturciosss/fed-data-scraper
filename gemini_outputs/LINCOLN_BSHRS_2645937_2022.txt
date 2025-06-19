@@ -1,0 +1,23 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2022","Nina P Albea,"Trustee"","Common Stock","1000","9.67%","n/a"
+"LINCOLN BANCSHARES INC","Abbeville,"SC"","2022","Nancy L Lovelady","Common Stock","525","5.07%","n/a"
+"LINCOLN BANCSHARES INC","Watkinsville,"GA"","2022","Alice Marie Kavouklis","Common Stock","527","5.09%","n/a"
+"LINCOLN BANCSHARES INC","Lincolnton,"GA"","2022","Virginia M Turner,"Trustee"","Common Stock","590","5.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"LINCOLN BANCSHARES INC","Director","Thomas Brittan Hammond","Toombs District Superior Court Judge","n/a","2022","Toombs District Superior Court Judge","n/a"
+"LINCOLN BANCSHARES INC","Shareholder","Nina P Albea Trustee","n/a","n/a","2022","Retired","n/a"
+"LINCOLN BANCSHARES INC","Chairman","John S Spratlin III","Partner","Spratlin Hardware","2022","Partner-Hardware Company","n/a"
+"LINCOLN BANCSHARES INC","Director","Virginia M Turner,"Trustee"","n/a","n/a","2022","Retired","n/a"
+"LINCOLN BANCSHARES INC","President/CEO","James Bruce Turner","n/a","n/a","2022","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Alice Marie Kavouklis","n/a","n/a","2022","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Nancy Lovelady","n/a","n/a","2022","Retired","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO","Peanuts","2022","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO","SBKC","2022","Laundry/Car Wash","n/a"
+"LINCOLN BANCSHARES INC","Director","Steven Dawkins","CEO/CFO","Sparkle","2022","Laundry/Car Wash","n/a"
+```

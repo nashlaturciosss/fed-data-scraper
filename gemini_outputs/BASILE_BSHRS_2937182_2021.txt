@@ -1,20 +1,19 @@
-Here are the extracted CSV tables from the document:
-### SECURITIES HOLDERS CSV
 ```csv
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Basile Bancshares,"Inc."","Eunice","2021","Burson,"I Jackson Jr"","Common Stock","164","18.79%"
-"Basile Bancshares,"Inc."","Eunice","2021","Johnson,"Dave T"","Common Stock","85","9.74%"
-"Basile Bancshares,"Inc."","Basile","2021","Johnson,"John W"","Common Stock","146","16.72%"
-"Basile Bancshares,"Inc."","Eunice","2021","Johnson,"William J"","Common Stock","135","15.46%"
-"Basile Bancshares,"Inc."","Baton Rouge","2021","Kimberly Denise Vigee","Common Stock","49","5.61%"
-"Basile Bancshares,"Inc."","Eunice","2021","Vigee,"Randall"","Common Stock","50","5.73%"
-"Basile Bancshares,"Inc."","Eunice","2021","Vigee,"Timothy"","Common Stock","49","5.61%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Basile Bancshares,"Inc."","Eunice,"Louisiana"","2021","Burson,"I Jackson Jr"","common stock","164","18.79%","n/a"
+"Basile Bancshares,"Inc."","Eunice,"LA"","2021","Johnson,"Dave T"","common stock","85","9.74%","n/a"
+"Basile Bancshares,"Inc."","Basile,"Louisiana"","2021","Johnson,"John W"","common stock","146","16.72%","n/a"
+"Basile Bancshares,"Inc."","Eunice,"Louisiana"","2021","Johnson,"William J"","common stock","135","15.46%","n/a"
+"Basile Bancshares,"Inc."","Baton Rouge,"Louisiana"","2021","Kimberly Denise Vigee","common stock","49","5.61%","n/a"
+"Basile Bancshares,"Inc."","Eunice,"Louisiana"","2021","Vigee,"Randall"","common stock","50","5.73%","n/a"
+"Basile Bancshares,"Inc."","Eunice,"Louisiana"","2021","Vigee,"Timothy"","common stock","49","5.61%","n/a"
 ```
-### INSIDERS CSV
 ```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Basile Bancshares,"Inc."","Chairman of the Board & Director","Burson,"I Jackson Jr"","Chairman of the Board & Director","None","2021"
-"Basile Bancshares,"Inc."","Director,"President"","Johnson,"John W"","Director","Principal/ Owner & Attorney,"Clanton & Johnson"","2021"
-"Basile Bancshares,"Inc."","Director","Johnson,"William J"","Director","None","2021"
-"Basile Bancshares,"Inc."","Secretary","Johnson,"Dave T"","Director","Principal/ Owner & Attorney,"Johnson Law Firm"","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Basile Bancshares,"Inc."","Chairman of the Board & Director","Burson,"I Jackson Jr"","Chairman of the Board & Director","n/a","2021","Attorney - retired","n/a"
+"Basile Bancshares,"Inc."","Director,"President"","Johnson,"John W"","Principal/ Owner & Attorney","Clanton & Johnson","2021","Attorney - retired","n/a"
+"Basile Bancshares,"Inc."","President,"CEO"","Johnson,"William J"","Director","n/a","2021","n/a","n/a"
+"Basile Bancshares,"Inc."","Secretary","Johnson,"Dave T"","Principal/ Owner & Attorney","Johnson Law Firm","2021","Attorney","n/a"
 ```

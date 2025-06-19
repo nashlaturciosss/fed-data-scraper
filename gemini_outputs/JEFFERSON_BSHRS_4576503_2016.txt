@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jefferson Bankshares,"Inc."","New Port Richey,"FL"","2016","Gary L Blackwell,"Trustee"","Common Stock","137500","5.1%","4576503"
+"Jefferson Bankshares,"Inc."","New Port Richey,"FL"","2016","Gary L Blackwell,"Trustee"","Options on Common Stock","21175",".74%","4576503"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2016","Brandon Family Limited Partnership by David L. & Dana K. Brandon","Common Stock","126500","4.69%","4576503"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2016","Brandon Family Limited Partnership by David L. & Dana K. Brandon","Options on Common Stock","21175",".74%","4576503"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2016","Robert & Catherine McGivney","Common Stock","102120","3.78%","4576503"
+"Jefferson Bankshares,"Inc."","Palm Harbor,"FL"","2016","Robert & Catherine McGivney","Options on Common Stock","134908","4.6%","4576503"
+"Jefferson Bankshares,"Inc."","Washington,"D.C."","2016","SBLF US Treasury Department","Class A Preferred","3367","100%","4576503"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jefferson Bankshares,"Inc."","Chairman & President","Robert B. McGivney","Chairman/CEO","n/a","2016","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Vice President","James P. Nelson","President/COO/Senior Lender","n/a","2016","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Secretary / Treasurer","Jeffrey P. Seligsohn","Executive Vice President/CFO","n/a","2016","n/a","4576503"
+"Jefferson Bankshares,"Inc."","Director","Gary L Blackwell","President","Blackwell Investments","2016","Real Estate","4576503"
+"Jefferson Bankshares,"Inc."","Director","David L. Brandon","President","Brandon Construction Company","2016","Construction","4576503"
+"Jefferson Bankshares,"Inc."","Director","Ronald S. Hockman","President","Hockman Insurance Agency","2016","Insurance","4576503"
+"Jefferson Bankshares,"Inc."","Director","Joseph L. Oliveri","President","Oliveri Architects","2016","Architecture","4576503"
+"Jefferson Bankshares,"Inc."","Director","Paul J. Wikle","President","Wikle Real Estate Services","2016","Real Estate","4576503"
+```

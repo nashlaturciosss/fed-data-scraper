@@ -1,0 +1,22 @@
+Here are the two requested CSV tables.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"INC"","Alma,"GA"","2022","Zachary M. Johnson Jr.","Common Stock","96","58.54%","n/a"
+"First Bank Shares of the South East,"INC"","Alma,"GA"","2022","Irrevocable Trust","Common Stock","96","58.54%","n/a"
+"First Bank Shares of the South East,"INC"","Atlanta,"GA"","2022","Jonathon Martin Taylor","Common Stock","20","12.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank Shares of the South East,"INC"","President & Director","Zach Johnson","President & Director","Dixieland Farms,"Inc."","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Lawton Johnson","Director","n/a","2022","Business Consultant","n/a"
+"First Bank Shares of the South East,"INC"","Director","Jonathon Martin Taylor","Director","H.H.L. Investments","2022","Business Consultant","n/a"
+"First Bank Shares of the South East,"INC"","Director/Treasurer","Jack Johnson","Vice President","Zachary M Johnson","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director/Treasurer","Jack Johnson","Vice President","Irrevocable Trust","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Ricky D Gilliard","Senior Vice President","Southland Investments,"Inc."","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Ricky D Gilliard","Senior Vice President","Old School Alma,"LLC"","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Ricky D Gilliard","Senior Vice President","Southeast Propane,"Inc."","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Morris Johnson","Vice President","Zachary M Johnson","2022","n/a","n/a"
+"First Bank Shares of the South East,"INC"","Director","Morris Johnson","Vice President","Irrevocable Trust","2022","n/a","n/a"
+```

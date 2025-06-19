@@ -1,0 +1,17 @@
+Here are the extracted CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Holding Company,"Inc."","Columbus,"GA"","2021","Lynley Loftin Hipps","COMMON STOCK","798932","33%","n/a"
+"F & M Holding Company,"Inc."","Woodbury,"GA"","2021","Jaynie Loftin Nesmith","COMMON STOCK","798737","33%","n/a"
+"F & M Holding Company,"Inc."","Senoia,"GA"","2021","Patrick Wasden","COMMON STOCK","798931","33.%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank and Trust Company","Director","Lynley Loftin Hipps","n/a","L Squared Digital Media","2021","L Squared Digital Media","n/a"
+"F&M Bank and Trust Company","Director","Jaynie Loftin Nesmith","Retired: Dir. Of Curriculum","n/a","2021","N/A","n/a"
+"F&M Bank and Trust Company","Chairman/Director","Patrick Wasden","n/a","Self Employed Farming","2021","Self Employed Farming","n/a"
+"F&M Bank and Trust Company","CEO Director","Allen W. Parham","n/a","n/a","2021","F & M Bank","n/a"
+"F&M Bank and Trust Company","Director","Laura B. Swetnam","Retired: CFO","n/a","2021","N/A","n/a"
+```

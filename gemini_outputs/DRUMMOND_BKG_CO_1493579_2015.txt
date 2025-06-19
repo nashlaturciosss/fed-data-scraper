@@ -1,0 +1,16 @@
+"Okay","here are the two CSV tables extracted from the provided document","formatted as requested:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Drummond Banking Company","Chiefland,"FL"","2015","Graham Luther Drummond Irrevocable Trust","common stock","57075","57%","1493579"
+"Drummond Banking Company","Chiefland,"FL"","2015","Jack Mann Revocable Trust","common stock","5000","5%","1493579"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Drummond Banking Company","Chairman","Luther Drummond","Chairman / President","Drummond Community Bank","2015","Bank President","1493579"
+"Drummond Banking Company","Director","Gray Drummond","EVP/Director","Drummond Community Bank","2015","Bank EVP","1493579"
+"Drummond Banking Company","Director","Gray Drummond","President / Director","Bankers Title of the Nature Coast","2015","Bank EVP","1493579"
+"Drummond Banking Company","Secretary/Treasurer","Todd Battle","SVP/CFO","Drummond Community Bank","2015","Bank CFO","1493579"
+"Drummond Banking Company","Secretary/Treasurer","Todd Battle","Director","Bankers Title of the Nature Coast","2015","Bank CFO","1493579"
+```

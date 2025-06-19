@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2018","Estate of Herman J. Russell","n/a","606789","30.04%","n/a"
+"Citizens Bancshares Corporation","Bala Cynwyd,"Pennsylvania"","2018","Context BH Capital Management,"LP"","n/a","143996","7.13%","n/a"
+"Citizens Bancshares Corporation","Chicago,"ILL"","2018","National Community Investment Fund","n/a","101244","5.01%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","n/a","Estate of Herman J. Russell","Principal Shareholder","n/a","2018","n/a","n/a"
+"Citizens Bancshares Corporation","n/a","Ray Robinson","Serves as director","Acuity Brands,"Inc"","2018","Retired","n/a"
+"Citizens Bancshares Corporation","n/a","Ray Robinson","Serves as director","American Airlines","2018","Retired","n/a"
+"Citizens Bancshares Corporation","n/a","Ray Robinson","Serves as director","Aaron Rents","2018","Retired","n/a"
+"Citizens Bancshares Corporation","n/a","Ray Robinson","Serves as director","Fortress Transportation & GA Aquarium","2018","Retired","n/a"
+"Citizens Bancshares Corporation","Director","James E. Williams","President of Williams Communications Syster","n/a","2018","President of AT&T Business & Consumer Services","n/a"
+"Citizens Bancshares Corporation","Director","C. David Moody","President","C.D. Moody Construction Co.,"Inc"","2018","President of C.D. Moody Construction Co.,"In"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","H.J. Russell & Co.,"and Russell New Urban Development","LLC"","2018","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","Gartell Court,"Inc."","2018","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","20 West Terrain,"LLC"","2018","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","n/a"
+"Citizens Bancshares Corporation","Director","Robert Brown","Owner","R.L. Brown & Associates,"Inc"","2018","Principal,"R.L. Brown & Assoc."","n/a"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore,"Sr.","СРА","СВА"","Founder & Managing Principal","Elmore CPAs,"LLC"","2018","Managing Principal of Elmore CPAs,"LLC"","n/a"
+"Citizens Bancshares Corporation","President & CEO,"Citizens Trust Bank"","Cynthia Day","President & CEO","Citizens Bancshares","2018","n/a","n/a"
+"Citizens Bancshares Corporation","Executive VP & CFO,"Citizens Trust Bank"","Samuel J. Cox","Executive VP & CFO","Citizens Bancshares","2018","n/a","n/a"
+"Citizens Bancshares Corporation","Executive VP & COO,"Citizens Trust Bank"","Frederick L. Daniels,"Jr."","n/a","n/a","2018","n/a","n/a"
+```

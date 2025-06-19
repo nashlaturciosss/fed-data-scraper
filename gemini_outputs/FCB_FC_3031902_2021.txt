@@ -1,0 +1,24 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Financial Corp.","Savannah,"GA"","2021","Sylvan M. Byck,"Jr."","Common Stock","165000","5.5%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2021","Benny Curl","Common Stock","200936","6.7%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2021","Stephen S. Green","Common Stock","273837","9.1%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2021","Bobby Chu","Common Stock","292673","9.8%","n/a"
+"FCB Financial Corp.","Savannah,"GA"","2021","Donald A. Kole","Common Stock","164269","5.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FCB Financial Corp.","Director","Jack L. Forehand","n/a","n/a","2021","Retired","n/a"
+"FCB Financial Corp.","President & CEO","Ken Farrell","n/a","n/a","2021","N/A","n/a"
+"FCB Financial Corp.","Director","Stephen S. Green","President","Stephen Green Properties,"Inc."","2021","President Stephen Green Properties,"Inc."","n/a"
+"FCB Financial Corp.","Director (First Chatham Bank)","Stephen S. Green","President","Stephen Green Properties,"Inc."","2021","President Stephen Green Properties,"Inc."","n/a"
+"FCB Financial Corp.","Director","Bobby Chu","President","Chu Construction","2021","President Chu Construction","n/a"
+"FCB Financial Corp.","Director (First Chatham Bank)","Bobby Chu","President","Chu Construction","2021","President Chu Construction","n/a"
+"FCB Financial Corp.","Director","Benny Curl","n/a","n/a","2021","Retired","n/a"
+"FCB Financial Corp.","Director (First Chatham Bank)","Benny Curl","n/a","n/a","2021","Retired","n/a"
+"FCB Financial Corp.","Director","Jim Lientz","n/a","n/a","2021","Retired","n/a"
+"FCB Financial Corp.","Director (First Chatham Bank)","Jim Lientz","n/a","n/a","2021","Retired","n/a"
+```

@@ -1,0 +1,15 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Embassy Bancshares,"Inc."","Duluth,"GA"","2021","Nitin Shah,"(Parvina N Shah Revocable Living Trust)"","n/a","100133","7.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Embassy Bancshares,"Inc."","Chairman of the Board","Nitin Shah","VP/Secretary","Imperial Investments Inc.","2021","President","n/a"
+"Embassy Bancshares,"Inc."","CEO","Nitin Shah","VP/Secretary","Imperial Investments Inc.","2021","President","n/a"
+"Embassy Bancshares,"Inc."","Director","Bhupendra Darji","Partner","Darji Investments LLC","2021","CPA/Consultant","n/a"
+"Embassy National Bank","Bhupendra Darji","Director","VP/Secretary","Paragon Hammond Inc.","2021","Life Insurance Agent","n/a"
+"Embassy National Bank","Adam Stovall","Secretary/Treasurer","n/a","n/a","2021","EVP/CFO","n/a"
+```

@@ -1,0 +1,38 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Nokomis,"FL"","2020","Walter Russell Bogart III","Common","12976","8.05%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Stevenson,"AL"","2020","Carolyn Hall","Common","12500","7.75%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Newnan,"GA"","2020","Holbert & Julia Hale","Common","12347","7.66%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Scottsboro,"AL"","2020","Jack B Lovelady","Common","12000","7.44%","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Hollywood,"AL"","2020","Dorothy Williams Trust","Common","10000","6.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director FBS-Pres","Mike Ellenburg","n/a","n/a","2020","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Carolyn Hall","n/a","n/a","2020","Sales Rep.","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","H&H Enterprise","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","Smith/Lovelady/Hicks/Hicks","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","CDR Management","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","CHP Land","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","CGH Enterprises","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","Fat Dr","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","Blue Springs Hunting Club","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Bryan Hicks","n/a","Diversified Allied","2020","Pharmacist","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Randy Wright","n/a","n/a","2020","Farmer","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Tommy Harding","President","Harding Insurance","2020","Insurance","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Pres/CEO","Jack Lovelady","n/a","Smith/Lovelady/Hicks/Hicks","2020","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director Pres/CEO","Jack Lovelady","n/a","Stevenson Plaza Shopping Center","2020","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Danny Crownover","n/a","n/a","2020","Retired Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Ralph Hall","n/a","n/a","2020","Retired Educator","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Lindsey Brothers","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Morton Bend Farms LLC","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Coosa River Land Co.","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Osceola Farms LLC","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Kershaw Quarters LLC","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Richard Lindsey","Partner","Farm & Land Management LLC","2020","State Representative","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director EVP","Scott Kirk","Owner","Sandmont Specialty","2020","Banker","n/a"
+"FIRST BANCSHARES OF STEVENSON,"INC"","Director","Lowell Galloway","n/a","n/a","2020","Retired Banker","n/a"
+```

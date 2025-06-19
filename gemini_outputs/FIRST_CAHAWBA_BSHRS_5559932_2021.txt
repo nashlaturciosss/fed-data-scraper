@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Cahawba Bancshares,"Inc."","Selma,"Alabama"","2022","Catesby Jones","Common Stock","111875","10.0%","n/a"
+"First Cahawba Bancshares,"Inc."","Selma,"Alabama"","2022","Thomas Jones","Common Stock","107500","9.64%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Cahawba Bancshares,"Inc."","Director Chairman","Catesby Jones","Director Chairman","n/a","2022","N/A","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Thomas Jones","Director","n/a","2022","Attorney","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Van Carter","Director","n/a","2022","Retired Army Gen.","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Ralph Hobbs","Director","n/a","2022","Attorney","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Galbraith Weaver","Director","n/a","2022","Farmer","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Matthew Oaks","Director","n/a","2022","Accountant","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Chester Chappelle","Director","Rountree Inc.","2022","Owner: Rountree Inc","n/a"
+"First Cahawba Bancshares,"Inc."","Director","Robert Brown","Director","Max Trucking","2022","Owner: Max Trucking","n/a"
+"First Cahawba Bancshares,"Inc."","Director President / CEO","Richard Walters","Director President / CEO","n/a","2022","N/A","n/a"
+"First Cahawba Bancshares,"Inc."","Chief Lending Officer","Lester A. Smith","Chief Lending Officer","n/a","2022","N/A","n/a"
+```

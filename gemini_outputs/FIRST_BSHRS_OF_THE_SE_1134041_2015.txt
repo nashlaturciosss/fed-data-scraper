@@ -1,0 +1,21 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2015","Zach Johnson","Common Stock","92","46.70%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2015","Frances D. Pitts","Common Stock","13","6.60%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2015","H.H.L. Investments","Common Stock","13","6.60%","1134041"
+"First Bank Shares of the South East,"Inc."","Alma,"GA"","2015","LZ Investments,"LLLP"","Common Stock","15","7.61%","1134041"
+"First Bank Shares of the South East,"Inc."","Atlanta,"GA"","2015","Jonathon Martin Taylor","Common Stock","11","5.58%","1134041"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank Shares of the South East,"Inc."","President & Director","Zach Johnson","President & Director","Dixieland Farms,"Inc."","2015","n/a","12030"
+"First Bank Shares of the South East,"Inc."","Director","Lawton Johnson","Director","n/a","2015","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Jonathon Martin Taylor","Director","n/a","2015","Business Consultant","n/a"
+"First Bank Shares of the South East,"Inc."","Exe. Vice Pres.","Jon Lott","Director / Exe. Vice Pres.","n/a","2015","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director/Treasurer","Jack Johnson","Vice President & Secretary","n/a","2015","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Ricky D Gilliard","Senior Vice President","n/a","2015","n/a","n/a"
+"First Bank Shares of the South East,"Inc."","Director","Morris Johnson","Vice President","n/a","2015","n/a","n/a"
+```

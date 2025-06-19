@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings Inc.","South Bend,"IN"","2018","Midwest Torah Center","common stock","94425","5.08%","n/a"
+"OptimumBank Holdings Inc.","Armonk,"NY"","2018","Wrights Mills Holdings LLC","common stock","100000","5.38%","n/a"
+"OptimumBank Holdings Inc.","Singapore,"Singapore"","2018","Chan Heng Fai Ambrose","common stock","104480","5.62%","n/a"
+"OptimumBank Holdings Inc.","Brooklyn,"NY"","2018","Barry Webster","common stock","134111","7.22%","n/a"
+"OptimumBank Holdings Inc.","Aventura,"FL"","2018","The Elisha Rothman Irrevocable Trust","common stock","179553","9.66%","n/a"
+"OptimumBank Holdings Inc.","Chicago,"IL"","2018","Ari Haas","common stock","75000","4.04%","n/a"
+"OptimumBank Holdings Inc.","Chicago,"IL"","2018","NEEROD LLC/NIVARAM LLC","common stock","71430","3.84%","n/a"
+"OptimumBank Holdings Inc.","South Bend,"IN"","2018","Moishe Gubin","common stock","76327","4.11%","n/a"
+"OptimumBank Holdings Inc.","South Bend,"IN"","2018","Midwest Kosher & Deli,"LLC"","common stock","61702","3.32%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings Inc.","Director,"Chairman of the Board (Optimum Bank)"","Moishe Gubin","CEO","various nursing homes","2018","various nursing homes","n/a"
+"OptimumBank Holdings Inc.","Director","Chan Heng Fai Ambrose","Investor","Investor","2018","Investor","n/a"
+"OptimumBank Holdings Inc.","Director,"Director(OptimumBank)"","Joel Klein","Retired","Retired","2018","Retired","n/a"
+"OptimumBank Holdings Inc.","Director,"Director(OptimumBank)"","Martin Schmidt","Financial Planner","Financial Planner","2018","Financial Planner","n/a"
+"OptimumBank Holdings Inc.","Director,"Director(OptimumBank)"","Thomas Procelli","Consultant","Consultant","2018","Consultant","n/a"
+"OptimumBank Holdings Inc.","Director,"Director(OptimumBank)"","Jeffry Wagner","Retired","Retired","2018","Retired","n/a"
+"OptimumBank Holdings Inc.","Director,"Director(OptimumBank)"","Avi M. Zwelling","Attorney","Attorney","2018","Attorney","n/a"
+```

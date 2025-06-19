@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"JD Bancshares,"Inc."","Jennings,"LA"","2020","Dan L. Donald,"Jr."","n/a","142072","9.11%","n/a"
+"JD Bancshares,"Inc."","Jennings,"LA"","2020","David B. Donald","n/a","89800","5.76%","n/a"
+"JD Bancshares,"Inc."","New York,"NY"","2020","Cede & Company","n/a","656550","42.12%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"JD Bancshares,"Inc."","Director\nChairman","Dan L. Donald,"Jr."","n/a","n/a","2020","n/a","980531"
+"JD Bancshares,"Inc."","Director\nVice Chairman","David B. Donald","n/a","n/a","2020","Manager/Owner\nDonald Farms","980531"
+"JD Bancshares,"Inc."","Director\nPresident & CEO","Bruce Elder","n/a","n/a","2020","n/a","980531"
+"JD Bancshares,"Inc."","Director","Ray Hines","President","Scoboco,"Inc."","2020","Dentist","980531"
+"JD Bancshares,"Inc."","Director","Thomas E. Leger","President","Thomas E. Leger,"DDS","Inc."","2020","Dentist","980531"
+"JD Bancshares,"Inc."","Director\nSecretary","Sara A. Roberts","President","Sara A. Roberts,"CPA","APAC"","2020","President\nSara A. Roberts,"CPA","APAC"","980531"
+"JD Bancshares,"Inc."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center,"LLC"","2020","n/a","980531"
+"JD Bancshares,"Inc."","Director","Terry Terrebonne","Board Member","Jeff Davis Living Center","2020","n/a","980531"
+"JD Bancshares,"Inc."","Director","G. Vincent Bailey","Owner","G.V. Bailey APMC (Medical Corp)","2020","OB/GYN\nPhysician","980531"
+"JD Bancshares,"Inc."","Director","Clarence Berken","Partner","Berken Brothers","2020","Self-employed Farmer","980531"
+"JD Bancshares,"Inc."","Director","Daryl Burckel","President","Daryl Burckel,"CPA"","2020","Certified Public Accountant","980531"
+"JD Bancshares,"Inc."","Director","Andrew Cormier","President","Moore's Pump & Services,"Inc."","2020","President\nOilfield Equipment Sales,"Inc."","980531"
+"JD Bancshares,"Inc."","Director","Milton Ray Crochet","President","SWD,"Inc."","2020","President\nCalcasieu Rentals,"Inc."","980531"
+```

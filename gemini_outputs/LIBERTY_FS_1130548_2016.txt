@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Bank and Trust","New Orleans,"LA"","2016","Liberty Bank & Trust ESOP","n/a","32710","20.70%","283438"
+"Liberty Bank and Trust","New Orleans,"LA"","2016","Francis Family Investments,"LLC"","n/a","24169","15.29%","283438"
+"Liberty Bank and Trust","New Orleans,"LA"","2016","Norman C. Francis","n/a","24169","15.29%","283438"
+"Liberty Bank and Trust","New Orleans,"LA"","2016","Alden McDonald,"Jr."","n/a","22056","13.96%","283438"
+"Liberty Bank and Trust","Los Angeles,"CA"","2016","Carolyn C. Dorion","n/a","15664","9.91%","283438"
+"Liberty Bank and Trust","Los Angeles,"CA"","2016","Dorion Family Trust","n/a","15664","9.91%","283438"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank and Trust","President/CEO,"Director"","Alden J. McDonald,"Jr."","Owner","Chart L.L.C.","2016","President of Banking Institution","283438"
+"Liberty Bank and Trust","Director &,"Chairman"","Norman C. Francis","President","Xavier University","2016","University Administrator","283438"
+"Liberty Bank and Trust","Director","Carolyn C. Dorion","n/a","n/a","2016","Property Manager","283438"
+"Liberty Bank and Trust","Director","George Dimitri","Owner","Dimitri Eye Clinic","2016","Ophthalmologist","283438"
+"Liberty Bank and Trust","Director","Sybil H. Morial","n/a","n/a","2016","Retired University Administrator","283438"
+"Liberty Bank and Trust","Director","Ronald V. Burns,"Sr."","President/CEO","Burns Management Group","2016","Owner,"Courier Company"","283438"
+"Liberty Bank and Trust","Director","Ronald V. Burns,"Sr."","President/CEO","Quick Courier Services","2016","Owner,"Courier Company"","283438"
+"Liberty Bank and Trust","Director","Cecil Blache","n/a","n/a","2016","Attorney","283438"
+"Liberty Bank and Trust","Director","James Smith","n/a","n/a","2016","Retired/Consultant","283438"
+```

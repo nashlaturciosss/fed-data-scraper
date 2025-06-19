@@ -1,24 +1,27 @@
-"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","adhering to all specified rules:"
-```text
+Here are the requested CSV tables:
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"1st Jackson Bancshares,"Inc."","Hollywood","2020","Jimmy D. Blevins","n/a","16896","15.05%"
-"1st Jackson Bancshares,"Inc."","Stevenson","2020","Shelby Carr","n/a","7576","6.75%"
-"1st Jackson Bancshares,"Inc."","Bridgeport","2020","Charles Robert Holder","n/a","11681","10.41%"
-"1st Jackson Bancshares,"Inc."","Hoover","2020","Jami McGinty Kennedy","n/a","5781","5.15%"
-"1st Jackson Bancshares,"Inc."","Monteagle","2020","Jim Myers","n/a","11891","10.59%"
-"1st Jackson Bancshares,"Inc."","Scottsboro","2020","Pam M. Parker","n/a","6887","6.14%"
-"1st Jackson Bancshares,"Inc."","Pinson","2020","Dawn Sparks","n/a","6780","6.04%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"1st Jackson Bancshares,"Inc."","Hollywood,"AL"","2020","Jimmy D. Blevins","n/a","16896","15.05%","n/a"
+"1st Jackson Bancshares,"Inc."","Stevenson,"AL"","2020","Shelby Carr","n/a","7576","6.75%","n/a"
+"1st Jackson Bancshares,"Inc."","Bridgeport,"AL"","2020","Charles Robert Holder","n/a","11681","10.41%","n/a"
+"1st Jackson Bancshares,"Inc."","Hoover,"AL"","2020","Jami McGinty Kennedy","n/a","5781","5.15%","n/a"
+"1st Jackson Bancshares,"Inc."","Monteagle,"TN"","2020","Jim Myers","n/a","11891","10.59%","n/a"
+"1st Jackson Bancshares,"Inc."","Scottsboro,"AL"","2020","Pam M. Parker","n/a","6887","6.14%","n/a"
+"1st Jackson Bancshares,"Inc."","Pinson,"AL"","2020","Dawn Sparks","n/a","6780","6.04%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"1st Jackson Bancshares,"Inc."","Chairman/President Director","Jimmy D. Blevins","President Director Chairman","n/a","2020"
-"1st Jackson Bancshares,"Inc."","Director","Shelby Carr","Director","Carr Farm-100%","2020"
-"1st Jackson Bancshares,"Inc."","Director","Billy Duck","Director","n/a","2020"
-"1st Jackson Bancshares,"Inc."","Director/ Vice Chairman","Jim Myers","Director/ Vice Chairman","JimStan; Food Star","2020"
-"1st Jackson Bancshares,"Inc."","Director/ Secretary","Pam M. Parker","Director/ Secretary","Dawson,"McGinty & Parker-owned by retirement trust"","2020"
-"1st Jackson Bancshares,"Inc."","None","J. D. Shrader,"Jr."","Director Emeritus","n/a","2020"
-"1st Jackson Bancshares,"Inc."","None","Charles R. Holder","None","n/a","2020"
-"1st Jackson Bancshares,"Inc."","None","Jami McGinty Kennedy","None","n/a","2020"
-"1st Jackson Bancshares,"Inc."","None","Dawn Sparks","None","n/a","2020"
-"1st Jackson Bancshares,"Inc."","None","J. Sherman Barnett","Interim CEO & Exec. Vice President","n/a","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"1st Jackson Bancshares,"Inc."","Chairman/President/Director","Jimmy D. Blevins","President Director Chairman","n/a","2020","n/a","n/a"
+"1st Jackson Bancshares,"Inc."","Director","Shelby Carr","n/a","Carr Farm","2020","Farmer","n/a"
+"1st Jackson Bancshares,"Inc."","Director","Billy Duck","n/a","n/a","2020","Retired-Insurance","n/a"
+"1st Jackson Bancshares,"Inc."","Director/Vice Chairman","Jim Myers","n/a","JimStan","2020","Groceryman","n/a"
+"1st Jackson Bancshares,"Inc."","Director/Vice Chairman","Jim Myers","n/a","Food Star","2020","Groceryman","n/a"
+"1st Jackson Bancshares,"Inc."","Director/Secretary","Pam M. Parker","n/a","Dawson,"McGinty & Parker"","2020","Attorney","n/a"
+"1st Jackson Bancshares,"Inc."","Director Emeritus","J. D. Shrader,"Jr."","n/a","n/a","2020","n/a","n/a"
+"1st Jackson Bancshares,"Inc."","None","Charles R. Holder","n/a","n/a","2020","Independent contractor","n/a"
+"1st Jackson Bancshares,"Inc."","None","Jami McGinty Kennedy","n/a","n/a","2020","Retired-Teacher","n/a"
+"1st Jackson Bancshares,"Inc."","None","Dawn Sparks","n/a","n/a","2020","n/a","n/a"
+"1st Jackson Bancshares,"Inc."","None","J. Sherman Barnett","Interim CEO & Exec. Vice President","n/a","2020","n/a","n/a"
 ```

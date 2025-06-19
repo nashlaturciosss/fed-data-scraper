@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2020","John J. Mullins","n/a","60038","36.72%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2020","John J. Mullins","KSOP Plan","25494","36.72%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2020","Ann Mullins","n/a","12128","7.41%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2020","Dan J. Willingham","n/a","33562","20.53%","n/a"
+"FCB Bancshares,"Inc."","Birmingham,"AL"","2020","E.O. Browder,"Jr."","n/a","24000","14.68%","n/a"
+"FCB Bancshares,"Inc."","Cullman,"AL"","2020","FCB Bancshares,"Inc."","n/a","37752","23.09%","n/a"
+"FCB Bancshares,"Inc."","Tuscaloosa,"AL"","2020","Cletis L. Browder","n/a","10242","6.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Premier Bank of the South","Director","E.O. Browder Jr.","President","Browder & Assoc.","2020","President","n/a"
+"Premier Bank of the South","Chairman,"CEO & Director"","John J. Mullins","Partner","JAM Investors","2020","n/a","n/a"
+"Premier Bank of the South","Director","Dan J. Willingham","Partner","Fuller & Willingham","2020","Attorney","n/a"
+"Premier Bank of the South","n/a","FCB Bancshares,"Inc."","n/a","N/A","2020","Principal Share Holder","n/a"
+"Premier Bank of the South","Director","Ann Mullins","Partner","JAM Investors LLC","2020","Retired","n/a"
+"Premier Bank of the South","Director","Russell W. Morrow","Owner","Cullman Business Services,"Inc."","2020","Director Business","n/a"
+"Premier Bank of the South","Director","Russell W. Morrow","Owner","Greenhead Sales","2020","Director Business","n/a"
+"Premier Bank of the South","Director","James A Chapman","n/a","Lektron","2020","President","n/a"
+"Premier Bank of the South","Director","Jacob M.Mullins","President","Premier Bank Of the South","2020","President","n/a"
+"Premier Bank of the South","Director","Robert W. Mullins II","President","Premier Bank Of the South","2020","SVP","n/a"
+"Premier Bank of the South","Director","Don Marecle","Doctor","Cullman Regional Medical Center","2020","Doctor","n/a"
+```

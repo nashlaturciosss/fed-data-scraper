@@ -1,13 +1,11 @@
-Here are the two requested CSV tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Axiom Bancshares,"Inc"","Atlanta","2014","Frank Hanna,"Jr."","Common Stock","2000.000","100.00%"
-"Axiom Bancshares,"Inc"","n/a","2014","None","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Axiom Bancshares,"Inc"","Atlanta,"GA"","2014","Frank Hanna,"Jr."","Common Stock","2000.000","100.00%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Axiom Bancshares,"Inc"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2014"
-"Axiom Bancshares,"Inc"","Director","Angelo Palombo","CEO","Axiom Bank","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Axiom Bancshares,"Inc"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2014","Investor","n/a"
+"Axiom Bancshares,"Inc"","Director","Angelo Palombs","CEO","Axiom Bank","2014","n/a","n/a"
 ```

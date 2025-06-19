@@ -1,0 +1,27 @@
+Here are the extracted tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2016","William D. Morrison,"Jr."","n/a","45456","7.16%","1085862"
+"Exchange Bankshares,"Inc."","New York,"NY"","2016","CEDE & Co.","n/a","58104","9.15%","1085862"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2016","Morrison Family Partnership LP","n/a","89080","14.04%","1085862"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","n/a","n/a","2016","Contractor","1085862"
+"Exchange Bankshares,"Inc."","Director","John C. Childs,"Jr."","Executive Vice President","Exchange Bank","2016","n/a","1085862"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","Funeral Director and Cemeterian","n/a","2016","Funeral Director and Cemeterian","1085862"
+"Exchange Bankshares,"Inc."","Director","Thomas L. Davidson,"Jr."","Dentist","n/a","2016","Dentist","1085862"
+"Exchange Bankshares,"Inc."","Director","John W. Grant,"III"","n/a","Georgia College","2016","Georgia College","1085862"
+"Exchange Bankshares,"Inc."","Secretary","Arthur T. Gunn","n/a","n/a","2016","Retired from Exchange Bank","1085862"
+"Exchange Bankshares,"Inc."","Director","John F. Harrington,"Jr."","Dentist","n/a","2016","Dentist","1085862"
+"Exchange Bankshares,"Inc."","Director","J. Wesley King,"Jr."","Physician","n/a","2016","Physician","1085862"
+"Exchange Bankshares,"Inc."","n/a","Morrison Family Partnership LP","n/a","n/a","2016","n/a","1085862"
+"Exchange Bankshares,"Inc."","n/a","William D. Morrison,"Jr."","n/a","n/a","2016","n/a","1085862"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Retail Merchant","n/a","2016","Retail Merchant","1085862"
+"Exchange Bankshares,"Inc."","President/CEO","Henry J. Pope,"Jr."","President/CEO","Exchange Bank","2016","President/CEO Exchange Bank","1085862"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","n/a","2016","Physician","1085862"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2016","Retired BASF","1085862"
+"Exchange Bankshares,"Inc."","Treasurer","Roy D. Washburn III","n/a","n/a","2016","CFO Jones Exchange Bank","1085862"
+```

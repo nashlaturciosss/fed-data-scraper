@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB BANCORP INC.","Birmingham,"Alabama"","2014","Patrick Cooper","Common Stock","23150","11%","3635328"
+"CNB BANCORP INC.","Mobile,"Alabama"","2014","Gary Cooper","Common Stock","49150","23%","3635328"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB BANCORP INC.","Chairman","Gary Cooper","EVP","Commonwealth","2014","Retired","3635328"
+"CNB BANCORP INC.","Director","Scott Hunter","Branch Manager","Raymond James Financial Services","2014","n/a","3635328"
+"CNB BANCORP INC.","Director","Jacquitta Green","Vice President","Northside Check Exchange","2014","n/a","3635328"
+"CNB BANCORP INC.","Director","Christopher Sylvester","Vice President","Mitchell Company","2014","n/a","3635328"
+"CNB BANCORP INC.","CEO","Tyrone Fenderson","CEO","Commonwealth","2014","n/a","3635328"
+"CNB BANCORP INC.","n/a","Patrick Cooper","Attorney","n/a","2014","n/a","3635328"
+```

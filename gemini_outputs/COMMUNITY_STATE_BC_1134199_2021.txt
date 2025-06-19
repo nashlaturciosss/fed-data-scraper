@@ -1,0 +1,28 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community State Bank Corporation","Starke,"FL"","2021","Debra J Johns and Frank Williams","Common","2766.50","18.45%","n/a"
+"Community State Bank Corporation","Starke. FL,"USA"","2021","Johns Family Trust Phillip J Johns Trust","Common","2819.50","18.80%","n/a"
+"Community State Bank Corporation","Orlando,"FL","USA"","2021","Markely Ann Johns Cash","Common","2962","19.75%","n/a"
+"Community State Bank Corporation","St. Augustine,"FL","USA"","2021","Trustee of the Betty Wuenschel Reveocable Trust","Common","3527","23.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community State Bank","President / Chairman","Debra J Johns & Frank Williams Trust","Chairman / Director","n/a","2021","n/a","n/a"
+"Community State Bank","Vice President / Vice Chair","Markley Ann Cash","Director","n/a","2021","n/a","n/a"
+"Community State Bank","Director","Estate of Betty Wuenschel","Director","n/a","2021","n/a","n/a"
+"Community State Bank","Director","Eric Smith","Director","n/a","2021","Attorney","n/a"
+"Community State Bank","Director","Robert Sturm","Director","n/a","2021","n/a","n/a"
+"Community State Bank","President & CEO","David Bridgeman","Director","n/a","2021","n/a","n/a"
+"Community State Bank","Secretary","Carolyn Reddish","EVP/COO","n/a","2021","n/a","n/a"
+"Community State Bank","n/a","Jon C. Grebingern","SVP/CFO","n/a","2021","n/a","n/a"
+"Community State Bank","NA","James Eison","VP/ISO","n/a","2021","NA","n/a"
+"Community State Bank","NA","Jay DeAendrade","AVP / Sr. Credit Analyst","n/a","2021","NA","n/a"
+"Community State Bank","NA","Betty Trawick","AVP/BSA,"Compliance Officer"","n/a","2021","NA","n/a"
+"Community State Bank","NA","Tammie Woodard","VP/Regional Operations Manager","n/a","2021","NA","n/a"
+"Community State Bank","NA","Jennie Reed","VP/Branch Manger","n/a","2021","NA","n/a"
+"Community State Bank","NA","Ansley Champion","AVP/\Branch Manager","n/a","2021","NA","n/a"
+"Community State Bank","NA","Andrea Bailey","VP / Special Assets & Credit Officer","n/a","2021","NA","n/a"
+```

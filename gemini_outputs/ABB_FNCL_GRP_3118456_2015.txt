@@ -1,17 +1,20 @@
-```text
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"ABB Financial Group,"Inc."","Atlanta","2015","Serguei Kouzmine","Common","170000","7.43%"
-"ABB Financial Group,"Inc."","Atlanta","2015","James R. Henderson","Common","125000","5.47%"
-"ABB Financial Group,"Inc."","Atlanta","2015","Serguei Kouzmine","Preferred","5891","100.00%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ABB Financial Group,"Inc."","Atlanta,"GA"","2015","Serguei Kouzmine","Common","170000","7.43%","3118456"
+"ABB Financial Group,"Inc."","Atlanta,"GA"","2015","James R. Henderson","Common","125000","5.47%","3118456"
+"ABB Financial Group,"Inc."","Atlanta,"GA"","2015","Serguei Kouzmine","Preferred","5891","100.00%","3118456"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Affinity Bank","Director","Edward J. Cooney","President/Director","Affinity Bank","2015"
-"Affinity Bank","Director","Leeman Bennett","n/a","n/a","2015"
-"Affinity Bank","n/a","Frank A. Clayton,"DDS."","Owner","Clayton Dental,"PC"","2015"
-"Affinity Bank","SVP/CFO","Brandi Pajot","SVP/CFO","Affinity Bank","2015"
-"Affinity Bank","n/a","Jeffrey R. Lake","Director","Affinity Bank","2015"
-"Affinity Bank","Chairman","Robert C. McMahan","Chairman","Affinity Bank","2015"
-"Affinity Bank","n/a","Wayne V. Mitsch","Director","Affinity Bank","2015"
-"Affinity Bank","EVP/CCO","Clark N. Nelson,"Jr"","EVP/CCO","Affinity Bank","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Affinity Bank","President/Director","Edward J. Cooney","Managing Member","MEMM,"LLC"","2015","President/Director","n/a"
+"Affinity Bank","Director","Leeman Bennett","n/a","n/a","2015","n/a","n/a"
+"Affinity Bank","Owner","Frank A. Clayton,"DDS."","Owner","Clayton Dental,"PC"","2015","Clayton Dental,"PC"","n/a"
+"Affinity Bank","Owner","Frank A. Clayton,"DDS."","President","WMJ Holdings,"LLC"","2015","Clayton Dental,"PC"","n/a"
+"Affinity Bank","SVP/CFO","Brandi Pajot","n/a","n/a","2015","n/a","n/a"
+"Affinity Bank","Director","Jeffrey R. Lake","President","Dixie Electric Company","2015","n/a","n/a"
+"Affinity Bank","Chairman","Robert C. McMahan","n/a","n/a","2015","n/a","n/a"
+"Affinity Bank","Director","Wayne V. Mitsch","n/a","n/a","2015","n/a","n/a"
+"Affinity Bank","EVP/CCO","Clark N. Nelson,"Jr"","n/a","n/a","2015","n/a","n/a"
 ```

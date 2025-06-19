@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2021","Leslie D. Ligon,"Jr."","n/a","896","9.67%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2021","Dennis R. Aucoin","n/a","1000","10.80%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"LA"","2021","Kathryn Elizabeth Jones","n/a","561","6.06%","n/a"
+"Clinton Bancshares,"Inc."","Clinton,"La."","2021","Ann Reiley Jones","n/a","568","6.13%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Clinton Bancshares,"Inc"","Director","Thomas B. Legleu","Director","Landmark Bank","2021","Retired","535034"
+"Clinton Bancshares,"Inc"","Director/Chairman","Robert D. Ligon","Director/Chairman","Landmark Bank","2021","Attorney","535034"
+"Clinton Bancshares,"Inc"","Director/Chairman","Robert D. Ligon","","Ligon Law Office","2021","Attorney","535034"
+"Clinton Bancshares,"Inc"","Director/Chairman","Robert D. Ligon","","AA Abstract,"LLC"","2021","Attorney","535034"
+"Clinton Bancshares,"Inc"","Director/Chairman","Robert D. Ligon","","Feliciana Title,"Co."","2021","Attorney","535034"
+"Clinton Bancshares,"Inc"","Director","Dennis R. Aucoin","Director","Landmark Bank","2021","Logger","535034"
+"Clinton Bancshares,"Inc"","Director","James Nugent","Director","Landmark Bank","2021","Businessman","535034"
+"Clinton Bancshares,"Inc"","Director","John W. Barton,"Jr."","Director","Landmark Bank","2021","Attorney","535034"
+"Clinton Bancshares,"Inc"","Director","Phil T. Graham","Director","Landmark Bank","2021","Certified Public Accountant","535034"
+"Clinton Bancshares,"Inc"","Director","Charlene Smith","Director","Landmark Bank","2021","Retired","535034"
+"Clinton Bancshares,"Inc"","President/CEO","Benjamin T. Cavin","President/CEO","Landmark Bank","2021","n/a","535034"
+```

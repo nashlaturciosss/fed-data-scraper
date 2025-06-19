@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens' Capital Corporation","Robertsdale,"Alabama"","2016","Linda W. Gulledge","Common Stock","19894","21.56%","1144040"
+"Citizens' Capital Corporation","Foley,"Alabama"","2016","Robert I. Gulledge","Common Stock","16739","18.14%","1144040"
+"Citizens' Capital Corporation","Mobile,"Alabama"","2016","Robert I. Gulledge,"II"","Common Stock","7654","8.30%","1144040"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2016","Thomas W. Gulledge","Common Stock","7654","8.30%","1144040"
+"Citizens' Capital Corporation","Foley,"Alabama"","2016","John A. Nelson,"II"","Common Stock","5000","5.42%","1144040"
+"Citizens' Capital Corporation","Fairhope,"Alabama"","2016","Beverly J. Potter","Common Stock","5629","6.10%","1144040"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens' Capital Corporation","n/a","Robert I. Gulledge","Retired","n/a","2016","None","1144040"
+"Citizens' Capital Corporation","Director","Paul E. Hollingsworth","Retired","n/a","2016","Retired Educator","1144040"
+"Citizens' Capital Corporation","Director","Huey A. Mack,"Jr"","Sheriff","n/a","2016","Law Enforcement","1144040"
+"Citizens' Capital Corporation","Director","Robert I. Gulledge II","Minister","Methodist Church","2016","Minister","1144040"
+"Citizens' Capital Corporation","Director","John A. Nelson,"II"","Vice President","Bon Secour Fisheries","2016","Seafood Processing","1144040"
+"Citizens' Capital Corporation","Secretary","Ryan Gerstenschlager","n/a","n/a","2016","Banker","1144040"
+"Citizens' Capital Corporation","Director","Linda W. Gulledge","n/a","n/a","2016","Retired Educator","1144040"
+"Citizens' Capital Corporation","n/a","Robert E. Wilters","Attorney","n/a","2016","Attorney","1144040"
+"Citizens' Capital Corporation","Vice President Treasurer","Andrea N. Noonan","n/a","n/a","2016","Banker","1144040"
+"Citizens' Capital Corporation","n/a","Donna M. Donovan","n/a","n/a","2016","Banker","1144040"
+"Citizens' Capital Corporation","Director","Thomas W. Gulledge","n/a","n/a","2016","Banker","1144040"
+```

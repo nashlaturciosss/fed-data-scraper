@@ -1,0 +1,29 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","LaGrange,"GA."","2017","George W. Baker,"Jr."","Common Stock","641115","16.27%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2017","E. David Hart,"Jr."","Common Stock","396238","10.06%","n/a"
+"Community Bankshares,"Inc."","LaGrange GA","2017","C. Christopher Joseph","Common Stock","660615","16.77%","n/a"
+"Community Bankshares,"Inc."","Union Springs,"AL"","2017","Thomas May","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","Gainsville,"GA"","2017","Thomas W. Sheffield","Common Stock","642115","16.30%","n/a"
+"Community Bankshares,"Inc."","LaGrange,"GA"","2017","William R. Stump,"Jr."","Common Stock","653085","16.58%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA"","2017","Nancy H. Stovall","Common Stock","320695","8.14%","n/a"
+"Community Bankshares,"Inc."","Cornelia,"GA."","2017","Wingate Family","Common Stock","501000","12.72%","n/a"
+"Community Bankshares,"Inc."","Prattville,"AL"","2017","Roger Townley","Common Stock","641125","16.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","Director","George W. Baker,"Jr."","Director","n/a","2017","Dentist","n/a"
+"Community Bankshares,"Inc."","n/a","E. David Hart,"Jr."","President","Mountville Mills,"Inc."","2017","President/Mountville Mills,"Inc. (Mfg)"","n/a"
+"Community Bankshares,"Inc."","Director","C. Christopher Joseph","n/a","Gay & Joseph,"PC"","2017","CPA","n/a"
+"Community Bankshares,"Inc."","Director","Thomas May","n/a","n/a","2017","Retired","n/a"
+"Community Bankshares,"Inc."","President & CEO,"Director (Chairman)"","William R. Stump,"Jr."","n/a","n/a","2017","n/a","n/a"
+"Community Bankshares,"Inc."","Director","Thomas W. Sheffield","n/a","n/a","2017","Retired","n/a"
+"Community Bankshares,"Inc."","n/a","Linda H. Wingate","n/a","n/a","2017","Principal Securities Holder","n/a"
+"Community Bankshares,"Inc."","EVP/AL Division","Dave G. Bryant","Pres.,"CEO and Director"","n/a","2017","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & Chief Credit Officer","George H. Riddle,"III"","n/a","n/a","2017","n/a","n/a"
+"Community Bankshares,"Inc."","EVP & CFO","Emily A. Lowery","n/a","n/a","2017","n/a","n/a"
+"Community Bankshares,"Inc."","SVP,"Corp Sec. & Dir. HR"","Kay L. Carlisle","n/a","n/a","2017","n/a","n/a"
+```

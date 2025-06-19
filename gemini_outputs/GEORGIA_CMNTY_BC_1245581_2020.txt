@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Community Bank","Leesburg,"GA"","2020","Lucie VanLandingham Beeley GST Trust","Class A Common - Voting","119558","25.42%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2020","Stevan Reynolds Tuck GST Trust","Class A Common - Voting","119557","25.42%","n/a"
+"Georgia Community Bank","Leesburg,"Ga"","2020","Lucie V. Beeley","Class A Common - Voting","40164","8.54%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2020","Stevan Tuck","Class A Common - Voting","47015","10.00%","n/a"
+"Georgia Community Bank","Leesburg,"GA"","2020","Lucie VanLandingham Beeley GST Trust","Class B Common -Non - Voting","157496","13.73%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2020","Stevan Reynolds Tuck GST Trust","Class B Common -Non - Voting","157496","13.73%","n/a"
+"Georgia Community Bank","Leesburg,"Ga"","2020","Lucie V. Beeley","Class B Common -Non - Voting","416129","36.27%","n/a"
+"Georgia Community Bank","Dawson,"GA"","2020","Stevan Tuck","Class B Common -Non - Voting","416129","36.27%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Community Bank","Secretary/Treasurer","Scott Beeley","President,"COO","Senior Credit Officer"","Georgia Community Bank","2020","President,"COO","Senior Credit Officer","Georgia Community Bank"","n/a"
+"Georgia Community Bank","President,"COO","Senior Credit Officer"","Scott Beeley","President,"COO","Senior Credit Officer"","Georgia Community Bank","2020","President,"COO","Senior Credit Officer","Georgia Community Bank"","n/a"
+"Georgia Community Bank","CEO","Lucie V. Beeley","CEO,"Georgia Community Bank"","n/a","2020","CEO,"Georgia Community Bank"","n/a"
+"Georgia Community Bank","Chariman","Lucie V. Beeley","CEO,"Georgia Community Bank"","n/a","2020","CEO,"Georgia Community Bank"","n/a"
+"Georgia Community Bank","Director","Stevan Tuck","Information Reporting Officer","Georgia Community Bank","2020","Information Reporting Officer,"Georgia Community Bank"","n/a"
+```

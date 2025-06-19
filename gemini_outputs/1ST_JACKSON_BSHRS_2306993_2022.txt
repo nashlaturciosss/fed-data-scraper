@@ -1,26 +1,28 @@
-Here are the two tables extracted from the document in valid CSV format:
+Here are the two tables extracted from the document as requested in CSV format.
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"1st Jackson Bancshare,"Inc."","Hollywood","2022","Jimmy D. Blevins","n/a","16998","15.14%"
-"1st Jackson Bancshare,"Inc."","Stevenson","2022","Shelby Carr","n/a","7576","6.75%"
-"1st Jackson Bancshare,"Inc."","Bridgeport","2022","Charles Robert Holder","n/a","11681","10.41%"
-"1st Jackson Bancshare,"Inc."","Hoover","2022","Jami McGinty Kennedy","n/a","5781","5.15%"
-"1st Jackson Bancshare,"Inc."","Monteagle","2022","Jim Myers","n/a","11891","10.59%"
-"1st Jackson Bancshare,"Inc."","Scottsboro","2022","Pam M. Parker","n/a","6887","6.14%"
-"1st Jackson Bancshare,"Inc."","Pinson","2022","Dawn Sparks","n/a","6780","6.04%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"1st Jackson Bancshare,"Inc."","Hollywood,"AL"","2022","Jimmy D. Blevins","n/a","16998","15.14%","n/a"
+"1st Jackson Bancshare,"Inc."","Stevenson,"AL"","2022","Shelby Carr","n/a","7576","6.75%","n/a"
+"1st Jackson Bancshare,"Inc."","Bridgeport,"AL"","2022","Charles Robert Holder","n/a","11681","10.41%","n/a"
+"1st Jackson Bancshare,"Inc."","Hoover,"AL"","2022","Jami McGinty Kennedy","n/a","5781","5.15%","n/a"
+"1st Jackson Bancshare,"Inc."","Monteagle,"TN"","2022","Jim Myers","n/a","11891","10.59%","n/a"
+"1st Jackson Bancshare,"Inc."","Scottsboro,"AL"","2022","Pam M. Parker","n/a","6887","6.14%","n/a"
+"1st Jackson Bancshare,"Inc."","Pinson,"AL"","2022","Dawn Sparks","n/a","6780","6.04%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"1st Jackson Bancshare,"Inc."","Director","J Sherman Barnett","Director","n/a","2022"
-"1st Jackson Bancshare,"Inc."","Chairman/Pres Director","Jimmy D. Blevins","President/CEO Director Chairman","n/a","2022"
-"1st Jackson Bancshare,"Inc."","Director","Billy Duck","Director","n/a","2022"
-"1st Jackson Bancshare,"Inc."","Director/ Vice Chairman","Jim Myers","Director/ Vice Chairman","JimStan-50% Food Star-100%","2022"
-"1st Jackson Bancshare,"Inc."","Director/ Secretary","Pam M. Parker","Director/ Secretary","Dawson,"McGinty & Parker-owned by retirement trust"","2022"
-"1st Jackson Bancshare,"Inc."","n/a","J. D. Shrader,"Jr."","Director Emeritus","n/a","2022"
-"1st Jackson Bancshare,"Inc."","n/a","Charles R. Holder","n/a","n/a","2022"
-"1st Jackson Bancshare,"Inc."","n/a","Jami McGinty Kennedy","n/a","n/a","2022"
-"1st Jackson Bancshare,"Inc."","n/a","Dawn Sparks","n/a","n/a","2022"
-"1st Jackson Bancshare,"Inc."","n/a","William Todd Chapman","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"1st Jackson Bancshare,"Inc."","Director","J Sherman Barnett","Director","n/a","2022","N/A","n/a"
+"1st Jackson Bancshare,"Inc."","Chairman/Pres Director","Jimmy D. Blevins","President/CEO Director","n/a","2022","N/A","n/a"
+"1st Jackson Bancshare,"Inc."","Director","Billy Duck","Director","n/a","2022","Retired-Insurance","n/a"
+"1st Jackson Bancshare,"Inc."","Director/Vice Chairman","Jim Myers","Director/Vice Chairman","JimStan","2022","Groceryman","n/a"
+"1st Jackson Bancshare,"Inc."","n/a","Jim Myers","n/a","Food Star","2022","Groceryman","n/a"
+"1st Jackson Bancshare,"Inc."","Director/ Secretary","Pam M. Parker","Director/ Secretary","Dawson,"McGinty & Parker firm"","2022","Attorney","n/a"
+"1st Jackson Bancshare,"Inc."","n/a","Pam M. Parker","n/a","Dawson,"McGinty & Parker-owned by retirement trust"","2022","Attorney","n/a"
+"1st Jackson Bancshare,"Inc."","None","J. D. Shrader,"Jr."","Director Emeritus","n/a","2022","N/A","n/a"
+"1st Jackson Bancshare,"Inc."","Principal Securities Holder","Charles R. Holder","None","n/a","2022","Independent contractor","n/a"
+"1st Jackson Bancshare,"Inc."","None","Jami McGinty Kennedy","None","n/a","2022","Retired-Teacher","n/a"
+"1st Jackson Bancshare,"Inc."","None","Dawn Sparks","None","n/a","2022","N/A","n/a"
+"1st Jackson Bancshare,"Inc."","None","William Todd Chapman","CEO & Exec. Vice President","n/a","2022","N/A","n/a"
 ```

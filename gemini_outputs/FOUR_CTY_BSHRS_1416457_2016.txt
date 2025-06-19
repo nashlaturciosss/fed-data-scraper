@@ -1,0 +1,28 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Four County Bancshares,"Inc."","Danville,"GA"","2016","Richard A. Dykes","Common Stock","45000","18.74%","416457"
+"Four County Bancshares,"Inc."","Jeffersonville,"GA"","2016","William C. Humphries","Common Stock","30000","12.49%","416457"
+"Four County Bancshares,"Inc."","Stone Mountain,"GA"","2016","Bruce E. Miller","Common Stock","22500","9.37%","416457"
+"Four County Bancshares,"Inc."","Dublin,"GA"","2016","Roger W. Miller","Common Stock","22500","9.37%","416457"
+"Four County Bancshares,"Inc."","Cochran,"GA"","2016","Jerry Van Dykes","Common Stock","45000","18.74%","416457"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Four County Bancshares","Chairman of Board of Directors,"VP & Treasurer"","Ruth Arnold","n/a","n/a","2016","n/a","416457"
+"Four County Bancshares","Director","Rabun Faulk","n/a","n/a","2016","Attorney at Law General Counsel","416457"
+"Four County Bancshares","President & CEO,"Director","Secretary"","Amy S. Orr","President & CEO","n/a","2016","n/a","416457"
+"Four County Bancshares","Director","Charles B. Hill","President","Hill Logging,"Inc."","2016","President","416457"
+"Four County Bancshares","Director","Lantz Rogers","n/a","n/a","2016","Retired","416457"
+"Four County Bancshares","Director,"President & CEO"","Wallace Miller","Director","Morris Bank","2016","Retired","416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","Everett Dykes Grassing Company,"Inc."","2016","n/a","416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","Middle Georgia Signs,"Inc."","2016","n/a","416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","Davis Propane,"Inc."","2016","n/a","416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","Asphalt Operations,"LLC"","2016","n/a","416457"
+"Four County Bancshares","Principal Shareholder","Richard A. Dykes","Vice President","RV Enterprises LLP","2016","n/a","416457"
+"Four County Bancshares","Principal Shareholder","William C. Humphries","n/a","n/a","2016","Retired","416457"
+"Four County Bancshares","Director","Michael Kitchens","n/a","Haeco","2016","n/a","416457"
+"Four County Bancshares","Director","James M Brown","n/a","n/a","2016","Vice President","416457"
+```

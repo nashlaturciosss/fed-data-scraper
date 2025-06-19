@@ -1,0 +1,26 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Shares,"Inc"","Arlington,"VA"","2016","Kenneth R. Lehman","Common Stock","1710000","47.411%","n/a"
+"Liberty Shares,"Inc"","Hinesville,"GA"","2016","Frances R. Roberson","Common Stock","210880","5.866%","n/a"
+"Liberty Shares,"Inc"","Hinesville,"GA"","2016","Floyd Stock Holdings LP","Common Stock","508466","14.143%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Medway Group,"Inc."","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Floyd Holdings,"LLC"","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Floyd Real Estate Holdings,"LP"","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","JMF Holdings,"LP"","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Gravel Hill Farms LLC","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","KEFLO Properties LLC","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Floyd Stockholdings,"LP"","2016","Retired","507330"
+"Liberty Shares,"Inc"","Director","James M. Floyd,"Jr."","Director","Iced Down,"LLC"","2016","Retired","507330"
+"Liberty Shares,"Inc"","Vice Chairman","T. Glenn Fox,"Jr."","n/a","Coastal Discount Pharmacy","2016","Pharmacist","507330"
+"Liberty Shares,"Inc"","Director","H. Scott Kroell,"Jr."","n/a","n/a","2016","Administrator Pelham Parkway Nursing Home","507330"
+"Liberty Shares,"Inc"","Director Acting President & CEO","Brian L. Smith","n/a","n/a","2016","n/a","507330"
+"Liberty Shares,"Inc"","Director","Marian E. Smith","n/a","Strategic Commercial RE","2016","Commercial RE Broker","507330"
+"Liberty Shares,"Inc"","Director","Marian E. Smith","n/a","Strategic Financial Group","2016","Commercial RE Broker","507330"
+"Liberty Shares,"Inc"","Chairman","Jeffery L. Arnold","Chairman","Jeffery L. Arnold PC","2016","Attorney Arnold,"Stafford & Randolph"","507330"
+"Liberty Shares,"Inc"","Chief Financial Officer","Philip F. Resch","n/a","n/a","2016","n/a","507330"
+"Liberty Shares,"Inc"","Chief Operating Officer","Melissa A. Deal","n/a","n/a","2016","n/a","507330"
+"Liberty Shares,"Inc"","Chief Credit Officer","Stephen L. Parker","n/a","n/a","2016","n/a","507330"
+```

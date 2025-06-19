@@ -1,0 +1,29 @@
+Here are the extracted CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2017","A. P. Gibbs and Sandra G. Gibbs","Common Stock","125550","12.63%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"Fl"","2017","J Lamar Roberts","Common Stock","54310","5.46%","n/a"
+"Florida Bancshares,"Inc."","Dade City,"FL"","2017","Marlene Sumner","Common Stock","56434","5.68%","n/a"
+"Florida Bancshares,"Inc."","Zephyrhills,"FL"","2017","Ernest and Jimmie Peeples","Common Stock","74885","7.53","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Bancshares,"Inc."","Director","Chris Black","Director","First National Bank of Pasco","2017","Insurance","n/a"
+"Florida Bancshares,"Inc."","Director & Chairman","A.P. Gibbs","n/a","n/a","2017","Retired-Attorney","n/a"
+"Florida Bancshares,"Inc."","Director","John E. Henson","Owner","John E. Henson,"CPA"","2017","Certified Public Accountant","n/a"
+"Florida Bancshares,"Inc."","Director","Marlene H. Mann","n/a","n/a","2017","Retired Dental Office Manager","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Jovita Insurance,"Inc"","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Paul Midilli Realty,"Inc"","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Four M Properties,"Inc"","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Economy Insurance","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Mart,"Inc."","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director,"Vice Chairman"","Paul P. Midilli","President","Midilli Enterprises Inc","2017","Realtor,"Insurance Salesman"","n/a"
+"Florida Bancshares,"Inc."","Director","Ernest L. Peeples","Owner","Peeple Groves","2017","Citrus Grower","n/a"
+"Florida Bancshares,"Inc."","Director","Stephen D Carie","Owner","Hodges & Carie P.A.","2017","Attorney","n/a"
+"Florida Bancshares,"Inc."","Director","Glen Greenfelder","n/a","n/a","2017","Retired Attorney","n/a"
+"Florida Bancshares,"Inc."","President Director","Steve Hickman","n/a","n/a","2017","Banker","n/a"
+"Florida Bancshares,"Inc."","Treasurer","Kerry M Westbrook","n/a","n/a","2017","Banker","n/a"
+"Florida Bancshares,"Inc."","Secretary","Jody Grenville","n/a","n/a","2017","Banker","n/a"
+```

@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Four County Bancshares,"Inc."","Chairman of Board of Directors,"VP & Treasurer"","Ruth Arnold","n/a","n/a","2023","N/A","n/a"
+"Four County Bancshares,"Inc."","Director,"Secretary"","Amy S. Orr","n/a","n/a","2023","N/A","n/a"
+"Four County Bancshares,"Inc."","Director","Rabun Faulk","n/a","n/a","2023","Attorney at Law General Counsel","n/a"
+"Four County Bancshares,"Inc."","Director","Charles B. Hill","Chairman of Board of Directors","Hill Logging,"Inc."","2023","President Hill Logging,"Inc."","n/a"
+"Four County Bancshares,"Inc."","Director","Wallace Miller","Director","Morris Bank","2023","Retired","n/a"
+"Four County Bancshares,"Inc."","President/CEO Director","James M Brown","n/a","n/a","2023","President/CEO The Four County Bank","n/a"
+"Four County Bancshares,"Inc."","Principal Shareholder","Richard A. Dykes Estate","n/a","Dykes Holdings LLC","2023","The Scruggs Company","n/a"
+"Four County Bancshares,"Inc."","Principal Shareholder","Richard A. Dykes Estate","n/a","RAD Contracting LLC","2023","The Scruggs Company","n/a"
+"Four County Bancshares,"Inc."","Principal Shareholder","William C. Humphries","Director","n/a","2023","Retired","n/a"
+"Four County Bancshares,"Inc."","Director","Laurie & Michael Kitchens","Director","n/a","2023","Self-employed Farmer","n/a"
+```

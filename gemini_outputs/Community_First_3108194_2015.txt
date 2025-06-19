@@ -1,0 +1,42 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Total Shares of Common Stock","214332","6.54%","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Shares owned by Dr. Daniels Wife","9246","n/a","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Daniel Family Partnership","101002","n/a","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Shares held by various relatives","40320","n/a","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Shares held by various relatives","7070","n/a","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Shares or Options to purchase","1200","n/a","3108194"
+"Community First,"Inc."","Williamsport,"Tennessee"","2015","Eslick E. Daniel,"M.D."","Shares as primary owner","55494","n/a","3108194"
+"Community First,"Inc."","Columbia,"Tennessee"","2015","Ruskin Alexander Vest,"Jr."","Total Shares of Common Stock","170229","5.20%","3108194"
+"Community First,"Inc."","Columbia,"Tennessee"","2015","Ruskin Alexander Vest,"Jr."","Shares as primary owner","170229","n/a","3108194"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First,"Inc."","Chairman of the Board of Directors","Eslick E. Daniel,"M.D."","Chairman of the Board of Directors","Community First Bank & Trust","2015","Retired","3108194"
+"Community First,"Inc."","Director","Roger Witherow","President/Owner","Roger Witherow & Associates,"Inc."","2015","President/Owner of Roger Witherow & Associates,"Inc."","3108194"
+"Community First,"Inc."","Director","Roger Witherow","Partner","Witherow,"Daniel & White"","2015","President/Owner of Roger Witherow & Associates,"Inc."","3108194"
+"Community First,"Inc."","Director","Roger Witherow","Partner","Olive and Sinclair Chocolate Company LLC","2015","President/Owner of Roger Witherow & Associates,"Inc."","3108194"
+"Community First,"Inc."","n/a","Dinah C. Vire","Director","Community First Bank & Trust","2015","Retired","3108194"
+"Community First,"Inc."","Director","Bernard Childress","n/a","Community First Bank & Trust","2015","Executive Director of Tennessee Secondary School Athletic Association.","3108194"
+"Community First,"Inc."","Director","Randy A. Maxwell","President","Wealth Management of Water Valley Inc.","2015","Assistant Vice President for Investments of Tennessee Farmers Mutual Insurance Company","3108194"
+"Community First,"Inc."","Director","Stephen F. Walker","n/a","Community First Bank & Trust","2015","Commercial Property Manager for Walker Family Limited Partnership","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Owner","Hari & Associates","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","JMR,"LLC"","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","Midland Platinum,"LP"","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","Country Inn & Suites","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","Krupa Associates","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","Nashville Airport Platinum,"LLC"","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Member","Platinum Gatway II LLC","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Vasant G. Hari","Partner","Lebanon Platinum,"LLC"","2015","Investor in the Hospitality Industry","3108194"
+"Community First,"Inc."","Director","Martin Maguire","n/a","Community First Bank & Trust","2015","CPA","3108194"
+"Community First,"Inc."","Director","Michael D. Penrod","n/a","Community First Bank & Trust","2015","Industrial Contractor","3108194"
+"Community First,"Inc."","Director","Robert Eslick Daniel","n/a","Community First Bank & Trust","2015","Investment Advisor","3108194"
+"Community First,"Inc."","Director","Ruskin Alexander Vest,"Jr."","n/a","Community First Bank & Trust","2015","Private Investor","3108194"
+"Community First,"Inc."","Chief Executive Officer","Louis E. Holloway","n/a","Community First Properties,"Inc."","2015","Chief Executive Officer/President of Community First Bank and Trust","3108194"
+"Community First,"Inc."","Chief Credit Officer","Jim Bratton","n/a","Community First Properties,"Inc."","2015","Chief Credit Officer - Community First Bank and Trust","3108194"
+"Community First,"Inc."","Chief Risk Manager","Elaine Chaffin","n/a","Community First Bank & Trust","2015","Chief Risk Manager - Community First Bank and Trust","3108194"
+"Community First,"Inc."","Chief Financial Officer","Jon Thompson","n/a","Community First Bank & Trust","2015","Chief Financial Officer of Community First Bank and Trust","3108194"
+```

@@ -1,0 +1,27 @@
+Here are the two tables extracted from the document in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Madison,"Mississippi"","2016","Blythe B. & Gwendolyn B. Cragon","Common Stock","48528","12.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COPIAH BANCSHARES,"INC."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2016","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Auto Parts,"LLC"","2016","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Chairman","George R. Marx","n/a","n/a","2016","n/a","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2016","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Alford M. Cooley","Pres.","Alco Farms","2016","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2016","Banker","n/a"
+"COPIAH BANCSHARES,"INC."","Director","James W. Henley","Attorney","Henley,"Lotterhos & Henley"","2016","Attorney","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Carolyn C. Loftin","Executive","Follow One International,"Inc."","2016","Businesswoman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Principle","Williford Gearhart & Knight Inc.","2016","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Principle","WGK Leasing,"Inc."","2016","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Principle","Wolf Hollow Development","2016","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jeffery T. Knight","Principle","Community Property Development","2016","Engineer","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Victor L. Smith","Senior Vice-Pres.","Missco Corp.","2016","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Donald R. Thompson","Former Executive Director","MS Dept. of Human Services","2016","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2016","Businessman","n/a"
+"COPIAH BANCSHARES,"INC."","n/a","Blythe B. & Gwendolyn B. Cragon","n/a","n/a","2016","Business Consultant","n/a"
+"COPIAH BANCSHARES,"INC."","Director","Jane Roper","n/a","n/a","2016","n/a","n/a"
+```

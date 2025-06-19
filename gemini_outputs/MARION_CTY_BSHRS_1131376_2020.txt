@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2020","B.W. Rollins Children's Trust","Common Stock","35869","41.55%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2020","Rebecca R. Creel*","Common Stock","11789","13.71%","n/a"
+"Marion County Bancshares,"Inc."","Hoover,"AL"","2020","Rebecca R. Creel*","Common Stock","50",".06%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2020","Patricia R. Duke*","Common Stock","12040","13.92%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2020","Patricia R. Duke*","Common Stock","55",".06%","n/a"
+"Marion County Bancshares,"Inc."","Hamilton,"AL"","2020","Jennifer R. Thompson*","Common Stock","12040","13.92%","n/a"
+"Marion County Bancshares,"Inc."","Newnan,"GA"","2020","Jonathan D. Wilson","Common Stock","5645","6.54%","n/a"
+"Marion County Bancshares,"Inc."","Manhattan Beach,"CA"","2020","John R. and Mary Lee Rollins","Common Stock","7572","8.78%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion County Bancshares,"Inc."","Director Chairperson of the Board COO","Patricia R. Duke*","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director President & CEO","Brent Thompson","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Jennifer R. Thompson*","n/a","n/a","2020","Retired Teacher","n/a"
+"Marion County Bancshares,"Inc."","Director","Rebecca R. Creel*","n/a","n/a","2020","Retired Dietician","n/a"
+"Marion County Bancshares,"Inc."","Director","Dwayne R. Lewis","n/a","River Birch Homes","2020","Retired Manufacturing Supervisor","n/a"
+"Marion County Bancshares,"Inc."","CFO","Scott D. Canterbury","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Head of Lending","Mary E. Miller","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Director","Robert F. Page","Mayor","City of Hamilton,"AL"","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP Commercial Loan Officer","Dale McCreless","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Sr. VP Loan Officer","Jill Cox","n/a","n/a","2020","n/a","n/a"
+"Marion County Bancshares,"Inc."","Cashier","Sheila Peoples","n/a","n/a","2020","n/a","n/a"
+```

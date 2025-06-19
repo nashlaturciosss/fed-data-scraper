@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Miami Bancorp,"Inc."","Wood Dale,"IL"","2015","Arthur Michael Wirtz III","Common stock","6281","7.20%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2015","James Henry Wirtz","Common stock","6281","7.20%","n/a"
+"First Miami Bancorp,"Inc."","Glenview,"IL"","2015","Laura Wirtz Jenkins","Common stock","6282","7.20%","n/a"
+"First Miami Bancorp,"Inc."","South Miami,"FL"","2015","Bruce Wirtz MacArthur","Common stock","8015","9.18%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2015","Peter R. Wirtz (1)","Common stock","10748","12.31%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2015","Elizabeth Wirtz","Common stock","6000","6.87%","n/a"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2015","Karen Wirtz Fix","Common stock","5375","6.16%","n/a"
+"First Miami Bancorp,"Inc."","Lake Forest,"IL"","2015","Virginia MacArthur Jenner Trust 07/22/86","Common stock","6015","6.89%","n/a"
+"First Miami Bancorp,"Inc."","Scottsdale,"AR"","2015","Gail Wirtz Costello","Common stock","5896","6.76%","n/a"
+"First Miami Bancorp,"Inc."","Rockledge,"FL"","2015","Barbara Ann Brock","n/a","9295","9.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Co-Chairman","Breakthru Beverage Group","2015","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","Chicago Blackhawks","2015","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","First Security Trust & Savings Bank","2015","President,"Wirtz Corporation"","n/a"
+"First Miami Bancorp Inc.","Vice President,"Secretary & Director"","Donald F. Hunter","Secretary","Wirtz Corporation","2015","Attorney (Retired),"Gislason & Hunter"","n/a"
+"First Miami Bancorp Inc.","Vice President,"Secretary & Director"","Donald F. Hunter","Vice President and Director","First Security Bancorp,"Inc."","2015","Attorney (Retired),"Gislason & Hunter"","n/a"
+"First Miami Bancorp Inc.","Vice President & Director","Bruce Wirtz MacArthur","Vice President","Wirtz Realty Company","2015","Chairman of the Board & CEO,"First National Bank of South Miami"","n/a"
+"First Miami Bancorp Inc.","Treasurer & Director","Drew A. Dammeier","n/a","n/a","2015","President,"FNBSM/EVP","First Security Trust and Savings Bank"","n/a"
+"First Miami Bancorp Inc.","Director","Arthur M. Wirtz,"III"","n/a","n/a","2015","Executive Vice President,"Breakthru Beverage Group"","n/a"
+"First Miami Bancorp Inc.","Director","Daniel R. Wirtz","n/a","n/a","2015","Vice-Chairman,"Breakthru Beverage Group"","n/a"
+"First Miami Bancorp Inc.","Director","John A. Ziegler,"Jr."","n/a","n/a","2015","Attorney (Retired)","n/a"
+"First Miami Bancorp Inc.","None","Peter R. Wirtz","n/a","n/a","2015","President,"Bismarck Enterprises"","n/a"
+```

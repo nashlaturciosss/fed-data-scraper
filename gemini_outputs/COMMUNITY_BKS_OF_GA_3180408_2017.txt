@@ -1,0 +1,21 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Canton,"Georgia"","2017","Donald T. Keeter","Common Stock","440481","14.06%","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Fredericksburg,"Texas"","2017","Mickey Dunn","Common Stock","333334","10.64%","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Jasper,"Georgia"","2017","Robert W. James","Common Stock","289785","9.25%","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Canton,"Georgia"","2017","B. Scott Dobson","Common Stock","193333","6.17%","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Acworth,"Georgia"","2017","James E. Freeman","Common Stock","166667","5.32%","3180408"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director & President/CEO","John T. Trammell","Director & President/CEO","n/a","2017","n/a","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Frank N. Eubanks","Director","n/a","2017","Retired","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Robert W. James","Director","n/a","2017","Retired","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Mickey T. Dunn","Director","ML Industries,"Inc."","2017","Manufacturing","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director & Chairman","Donald T. Keeter","Director & Chairman","Keeter Farms,"LP"","2017","Consultant","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director & Chairman","Donald T. Keeter","Director & Chairman","Donald T Keeter Family Trust","2017","Consultant","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Michael G. Denson","Director","Denson Insurance Agency Inc.","2017","Insurance Agency Owner","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Michael G. Denson","Director","Norton-Denson Insurance LLC","2017","Insurance Agency Owner","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Phillip M. Landrum III","Director","Landrum and Landrum","2017","Attorney","3180408"
+"COMMUNITY BANKS OF GEORGIA,"INC."","Director","Phillip M. Landrum III","Director","SHL Ventures,"LLC"","2017","Attorney","3180408"
+```

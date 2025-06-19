@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2016","Thomas,"R.D. Jr."","Common Stock","66008","47.31%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2016","Barnard,"J.P. Jr."","Common Stock","11938","8.56%","1137202"
+"Patterson Bankshares,"Inc."","Patterson,"GA"","2016","Willingham,"Mary T."","Common Stock","14076","10.09%","1137202"
+"Patterson Bankshares,"Inc."","Waycross,"GA"","2016","Strickland,"Devin B"","Common Stock","11987","8.59%","1137202"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Barnard,"J.P. Jr."","n/a","n/a","2016","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","Director,"Bank"","Barnard,"J.P. Jr."","n/a","n/a","2016","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","Owner","The Barnard Co.","2016","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","Owner","Barnard Construction Co.","2016","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","n/a","Barnard,"J.P. Jr."","President","Julie Hat Co. Inc.","2016","Construction & Real Estate","1137202"
+"Patterson Bankshares,"Inc."","Director,"Holding Company"","Williams E. Hughes,"Jr."","n/a","n/a","2016","N/A","1137202"
+"Patterson Bankshares,"Inc."","President/CEO & Director,"Bank"","Williams E. Hughes,"Jr."","n/a","n/a","2016","N/A","1137202"
+"Patterson Bankshares,"Inc."","n/a","Stipe,"Steve"","n/a","n/a","2016","N/A","1137202"
+"Patterson Bankshares,"Inc."","CLO/SVP,"Bank"","Stipe,"Steve"","n/a","n/a","2016","N/A","1137202"
+"Patterson Bankshares,"Inc."","n/a","Stipe,"Steve"","Managing Member","Stipe Farms,"LLC"","2016","N/A","1137202"
+```

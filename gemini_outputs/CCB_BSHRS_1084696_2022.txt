@@ -1,24 +1,26 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CCB Bancshares,"Inc."","Hahira","2022","Estate of David King Hollis,"Jr."","n/a","0","0.00%"
-"CCB Bancshares,"Inc."","Hahira","2022","David King Hollis,"III"","n/a","781","15.46%"
-"CCB Bancshares,"Inc."","Hahira","2022","Karrie Kirkland Hollis","n/a","12","0.24%"
-"CCB Bancshares,"Inc."","Hahira","2022","Starling Hollis Waldron","n/a","2549","50.47%"
-"CCB Bancshares,"Inc."","Hahira","2022","Lily Starling Waldron","n/a","20","0.40%"
-"CCB Bancshares,"Inc."","Valdosta","2022","Alexander Minton Waldron","n/a","20","0.40%"
-"CCB Bancshares,"Inc."","Valdosta","2022","Hollis Marie Waldron","n/a","23","0.46%"
-"CCB Bancshares,"Inc."","Valdosta","2022","Miller Starling Hollis","n/a","189","3.74%"
-"CCB Bancshares,"Inc."","Hahira","2022","David K Hollis JR TR","n/a","0","0.00%"
-"CCB Bancshares,"Inc."","Hahira","2022","David K Hollis JR FBO Miller S Hollis TR UW","n/a","610","12.08%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","Estate of David King Hollis,"Jr."","n/a","0","0.00%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","David King Hollis,"III"","n/a","781","15.46%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","Karrie Kirkland Hollis","n/a","12","0.24%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","Starling Hollis Waldron","n/a","2549","50.47%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","Lily Starling Waldron","n/a","20","0.40%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","Alexander Minton Waldron","n/a","20","0.40%","n/a"
+"CCB Bancshares,"Inc."","Valdosta,"GA"","2022","Hollis Marie Waldron","n/a","23","0.46%","n/a"
+"CCB Bancshares,"Inc."","Valdosta,"GA"","2022","Miller Starling Hollis","n/a","189","3.74%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","David K Hollis JR TR","n/a","0","0.00%","n/a"
+"CCB Bancshares,"Inc."","Hahira,"GA"","2022","David K Hollis JR FBO Miller S Hollis TR UW","n/a","610","12.08%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CCB Bancshares,"Inc."","Chairman of the Board","Starling H. Waldron","Chairman,"Executive Officer","CFO of Citizens Community Bank"","Lone Oak LLLP general partner 33.133%","2022"
-"CCB Bancshares,"Inc."","Director,"President"","Glenn L. Copeland","Director,"Executive Officer","CEO of Citizens Community Bank"","n/a","2022"
-"CCB Bancshares,"Inc."","Director,"Vice President"","Tim S Jones","Director,"Executive Officer","President of Citizens Community Bank"","n/a","2022"
-"CCB Bancshares,"Inc."","n/a","David K Hollis JR FBO Miller S Hollis TR UW.","n/a","Lone Oak LLLP limited partner less than 1%","2022"
-"CCB Bancshares,"Inc."","Director,"Secretary"","Hollis S Waldron","Director,"Asst. Banking Officer of Citizens Community Bank"","n/a","2022"
-"CCB Bancshares,"Inc."","n/a","David K. Hollis,"III"","n/a","Lone Oak LLLP general partner 33.133%","2022"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CCB Bancshares,"Inc."","Chairman of the Board","Starling H. Waldron","n/a","Lone Oak LLLP","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","Director","Glenn L. Copeland","n/a","n/a","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","President","Glenn L. Copeland","n/a","n/a","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","Director","Tim S Jones","n/a","n/a","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","Vice President","Tim S Jones","n/a","n/a","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","Director","David K Hollis","n/a","Lone Oak LLLP","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","Secretary","Hollis Waldron","n/a","n/a","2022","n/a","n/a"
+"CCB Bancshares,"Inc."","n/a","David K. Hollis","n/a","n/a","2022","Retired","n/a"
 ```

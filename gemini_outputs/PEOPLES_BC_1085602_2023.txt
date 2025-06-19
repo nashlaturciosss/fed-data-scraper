@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Sherrian M. Logan","common stock","2883","8%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Dana M. Peoples","common stock","14008","43%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Collins Davis","common stock","93","1%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Ann E. Murphy","common stock","75","1%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Jeffery C. Davis,"Jr. Family Trust - Ann E. Murphy (Trustee)"","common stock","9171","28%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Ann Elizabeth Murphy Family Trust - Jeffery C. Davis (Trustee)","common stock","3276","10%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","Marilyn Burleson","common stock","2680","8%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2023","James T. Burleson","common stock","17","1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Marketing Director","Sherrian M. Logan","n/a","State Bank and Trust","2023","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","Dana M. Peoples","n/a","State Bank and Trust","2023","n/a","n/a"
+"Peoples Bancorporation,"Inc."","Director","Collins Davis","n/a","State Bank and Trust","2023","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Ann E. Murphy Family Trust - Jeffrey C. Davis,"Jr. (Trustee)"","n/a","n/a","2023","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Ann E. Murphy","n/a","n/a","2023","Pediatrician","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Jeffery C. Davis,"Jr. Family Trust - Ann E. Murphy (Trustee)"","n/a","n/a","2023","n/a","n/a"
+"Peoples Bancorporation,"Inc."","COO,"Cashier","& Director"","Sally Holloway","n/a","State Bank and Trust","2023","n/a","n/a"
+```

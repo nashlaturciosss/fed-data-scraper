@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Holding Company,"Inc."","Manchester,"GA"","2014","Jerry W. Loftin","COMMON STOCK","798829","33%","n/a"
+"F & M Holding Company,"Inc."","Manchester,"GA"","2014","Jaynie Loftin Nesmith","COMMON STOCK","798737","33%","n/a"
+"F & M Holding Company,"Inc."","Senoia,"GA"","2014","Patrick Wasden","COMMON STOCK","798921","33.%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank and Trust Company","Chairman & Legal Counsel","Jerry W. Loftin","Former Attorney","n/a","2014","n/a","937834"
+"F&M Bank and Trust Company","Director","Tom H. Griffin","President/CEO","F & M BANK","2014","President/CEO","937834"
+"F&M Bank and Trust Company","Director","Tom H. Griffin","President/CEO","F & M BANK","2014","Executive Officer","937834"
+"F&M Bank and Trust Company","Performance Support Office","Lynley Loftin","n/a","TYSY","2014","n/a","937834"
+"F&M Bank and Trust Company","Performance Support Office","Lynley Loftin","n/a","Columbus,"GA"","2014","n/a","937834"
+"F&M Bank and Trust Company","None","Jaynie Loftin Nesmith","Retired","n/a","2014","Retired","937834"
+"F&M Bank and Trust Company","Director","Patrick Wasden","n/a","n/a","2014","Self Employed","937834"
+"F&M Bank and Trust Company","CLO","Allen W. Parham","n/a","n/a","2014","n/a","937834"
+"F&M Bank and Trust Company","Controller","Gary A. Ledbetter","n/a","n/a","2014","Controller","937834"
+```

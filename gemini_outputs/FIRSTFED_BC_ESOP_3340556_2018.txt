@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstFed Bancorp,"Inc."","St. Louis,"MO"","2018","Stifel Trust Company,"N.A."","Sole Trustee","n/a","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2018","FirstFed Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","682021","12.84%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2018","James E. Mulkin","Common Stock","790794","14.89%","n/a"
+"FirstFed Bancorp,"Inc."","Birmingham,"AL"","2018","B. K. Goodwin,"III"","Common Stock","413589","7.79%","n/a"
+"FirstFed Bancorp,"Inc."","Bessemer,"AL"","2018","James B. Koikos","Common Stock","308475","5.81%","n/a"
+"FirstFed Bancorp,"Inc."","Morris,"AL"","2018","Henry A. Parker","Common Stock","404757","7.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstFed Bancorp,"Inc."","Trustee","Stifel Trust Company,"N.A."","n/a","n/a","2018","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Chairman of the Board,"C.Ε.Ο. and President of FirstFed Bancorp","Inc. and First Financial Bank"","B. K. Goodwin,"III"","n/a","n/a","2018","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","James B. Koikos","n/a","Bright Star Restaurant,"Inc."","2018","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","James B. Koikos","n/a","Bright Star Realty,"Inc."","2018","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","James B. Koikos","n/a","Bright Star Investment","2018","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","James B. Koikos","n/a","G. K. Properties","2018","Restaurant Owner","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","James E. Mulkin","n/a","Mulkin Enterprises","2018","Investments","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","R. Shan Paden","Attorney","Paden and Paden,"P.C."","2018","Attorney","n/a"
+"FirstFed Bancorp,"Inc."","Director of FirstFed Bancorp,"Inc. and First Financial Bank"","Susan Kirkpatrick","Executive Vice President and C.F.O.","Buddy Moore Trucking,"Inc."","2018","C.F.O.","n/a"
+"FirstFed Bancorp,"Inc."","Director,"Executive Vice President and Treasurer of FirstFed Bancorp","Inc.","and Director","Chief Financial Officer and Executive Vice President of First Financial Bank"","Kyle Goodwin","n/a","n/a","2018","n/a","n/a"
+"FirstFed Bancorp,"Inc."","Senior Vice President of FirstFed Bancorp,"Inc. and First Financial Bank"","Neil Walker","n/a","n/a","2018","n/a","n/a"
+```

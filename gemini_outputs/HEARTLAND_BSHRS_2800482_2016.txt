@@ -1,0 +1,38 @@
+"Here are the requested CSV tables","properly formatted and labeled:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heartland Bancshares,"Inc"","Lake Placid,"FL"","2016","James C. Clinard","Common Stock","49566","7.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heartland Bancshares,"Inc"","Director & President","James Clinard","n/a","n/a","2016","N/A","2800491"
+"Heartland Bancshares,"Inc"","Director","James B. Belflower","n/a","n/a","2016","Retired Banker","2800491"
+"Heartland Bancshares,"Inc"","Secretary & Treasurer","Andrew S. Bible","Vice President","Sebring Florist Inc.","2016","N/A","2800491"
+"Heartland Bancshares,"Inc"","Secretary & Treasurer","Andrew S. Bible","Managing Member","Floral Investments of FL,"LLC"","2016","N/A","2800491"
+"Heartland Bancshares,"Inc"","n/a","Jerry T. Whidden","Senior Lender","n/a","2016","N/A","2800491"
+"Heartland Bancshares,"Inc"","Director","Hosmer L. Compton","Owner","Compton Rental Properties","2016","Realtor","2800491"
+"Heartland Bancshares,"Inc"","Director","Roger D. Gurganus","Director","Twin Lakes Pointe,"Inc"","2016","Farmer/Developer","2800491"
+"Heartland Bancshares,"Inc"","Director","Roger D. Gurganus","Managing Member","GGC Investments LLC","2016","Farmer/Developer","2800491"
+"Heartland Bancshares,"Inc"","Director","Roger D. Gurganus","Managing Member","Southern Sisters LLC","2016","Farmer/Developer","2800491"
+"Heartland Bancshares,"Inc"","Director","William R. Handley","Member","Lakeside Investment Group LLC","2016","Builder","2800491"
+"Heartland Bancshares,"Inc"","Director","William R. Handley","Member","Parkside Village of Sebring LLC","2016","Builder","2800491"
+"Heartland Bancshares,"Inc"","Director","William R. Handley","Member","Handley Macon LLC","2016","Builder","2800491"
+"Heartland Bancshares,"Inc"","Director","William R. Handley","Member","Shoppes at Robin Center LLC","2016","Builder","2800491"
+"Heartland Bancshares,"Inc"","Director","Bert J. Harris III","Partner","Swaine and Harris,"P.A."","2016","Attorney","2800491"
+"Heartland Bancshares,"Inc"","Director","Issac G. Nagib","Director","AVA Rehabilitation Clinic,"Inc"","2016","Physical Therapist","2800491"
+"Heartland Bancshares,"Inc"","Director","S. Allen Skipper","President","Algin Cattle Company","2016","Surgeon","2800491"
+"Heartland Bancshares,"Inc"","Director","Edward L. Smoak","Managing Member","Western 47,"LLC"","2016","Citrus/Cattle","2800491"
+"Heartland Bancshares,"Inc"","Director","Edward L. Smoak","President","Smoak Brothers Inc","2016","Citrus/Cattle","2800491"
+"Heartland Bancshares,"Inc"","Director","Edward L. Smoak","President","Edward L Smoak Inc","2016","Citrus/Cattle","2800491"
+"Heartland Bancshares,"Inc"","Director","Malcolm C. Watters,"Jr."","President","Malcolm C Watters Caretaking Inc","2016","Citrus Grower","2800491"
+"Heartland Bancshares,"Inc"","Director","Malcolm C. Watters,"Jr."","President","Watters Groves Inc","2016","Citrus Grower","2800491"
+"Heartland Bancshares,"Inc"","Chairman of the Board","Lawrence B. Wells","President","Wells Insurance Agency,"Inc"","2016","Insurance Agent","2800491"
+"Heartland Bancshares,"Inc"","Chairman of the Board","Lawrence B. Wells","Vice President","Wells Crop Insurance Agency,"Inc"","2016","Insurance Agent","2800491"
+"Heartland Bancshares,"Inc"","Chairman of the Board","Lawrence B. Wells","Member","Justiflied LLC","2016","Insurance Agent","2800491"
+"Heartland Bancshares,"Inc"","Director","Stanley H. Wells","President","Wells Motor Company","2016","Auto Dealer","2800491"
+"Heartland Bancshares,"Inc"","Director","Stanley H. Wells","Partner","Wells Family LTD Partnership","2016","Auto Dealer","2800491"
+"Heartland Bancshares,"Inc"","Director","Stanley H. Wells","Member","Wells Brothers LLC","2016","Auto Dealer","2800491"
+"Heartland Bancshares,"Inc"","Director","Stanley H. Wells","President","Wells Brothers Investments Inc","2016","Auto Dealer","2800491"
+```

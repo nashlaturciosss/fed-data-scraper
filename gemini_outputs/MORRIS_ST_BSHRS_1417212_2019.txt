@@ -1,0 +1,21 @@
+"Okay","here are the extracted tables in CSV format","following your instructions."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2019","Livingston Dynasty Trust FBO Lisa Livingston","n/a","133637","6.37%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2019","Livingston Dynasty Trust FBO Claire Livingston","n/a","133636","6.37%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2019","Benefit Trust Company Trustee for Morris Bank","n/a","153020","7.29%","n/a"
+"Morris State Bancshares,"Inc."","Dublin,"GA"","2019","FHF Investment Number 1,"LLC."","n/a","138889","6.62%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris State Bancshares,"Inc."","Director","Thad Childs","None","None","2019","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Director","F. Scott Beasley","Director","Duncan Tire","2019","Mechanic","n/a"
+"Morris State Bancshares,"Inc."","Chairman/Director","Roger Miller","None","None","2019","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Corporate Secretary","Susan Brandon","None","None","2019","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Director","Phillip Faircloth","CEO","Farmers Furniture","2019","CEO/Farmers Furniture","n/a"
+"Morris State Bancshares,"Inc."","CFO","Chris M Bond","None","None","2019","CFO/Morris Bank","n/a"
+"Morris State Bancshares,"Inc."","Director","Lisa Livingston","Director","None","2019","None","n/a"
+"Morris State Bancshares,"Inc."","President/CEO","Spence Mullis","Director/President & CEO","None","2019","None","n/a"
+```

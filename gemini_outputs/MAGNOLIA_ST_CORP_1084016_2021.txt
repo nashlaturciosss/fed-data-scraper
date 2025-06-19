@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"THE MAGNOLIA STATE CORPORATION","Madison,"MS"","2021","Robert L. Abney,"III"","Common Stock","5944","18.95%","n/a"
+"THE MAGNOLIA STATE CORPORATION","Bay Springs,"MS"","2021","Barbara Brown","Common Stock","21447","68.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"THE MAGNOLIA STATE CORPORATION","Director,"Chairman"","Barbara Brown","Teacher (Retired)","n/a","2021","Retired","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director,"Vice President"","Robert L. Abney,"III"","Medical Doctor (Retired)","n/a","2021","Retired","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director,"Secretary & Treasurer"","Lillous A. Shoemaker","Banker","n/a","2021","Banker","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director","Andrew V. Brown","Banker","n/a","2021","Banker","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director","Tom G. Brown","Banker","n/a","2021","Banker","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director","Joseph Neely","Banker","n/a","2021","Banker","n/a"
+"THE MAGNOLIA STATE CORPORATION","Director","Kristofer T. Mangum","Banker","n/a","2021","Banker","n/a"
+```

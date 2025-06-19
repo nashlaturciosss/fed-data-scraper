@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancshares Corporation","Atlanta,"GA"","2014","Estate of Herman J. Russell","n/a","606790","29.50%","1078958"
+"Citizens Bancshares Corporation","Reno,"Nevada"","2014","Hot Creek Capital,"LLC"","n/a","184850","8.99%","1078958"
+"Citizens Bancshares Corporation","Chicago,"ILL"","2014","National Community Investment Fun","n/a","105208","5.12%","1078958"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancshares Corporation","Principal Shareholder","Estate of Herman J. Russell","n/a","n/a","2014","Retired","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","n/a","Avnet,"Inc"","2014","President of AT&T Business & Consumer Services","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","n/a","Acuity Brands,"Inc"","2014","President of AT&T Business & Consumer Services","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","n/a","American Airlines","2014","President of AT&T Business & Consumer Services","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","n/a","Aaron Rents","2014","President of AT&T Business & Consumer Services","1078958"
+"Citizens Bancshares Corporation","Chairman/Director","Ray Robinson","n/a","GA Aquarium","2014","President of AT&T Business & Consumer Services","1078958"
+"Citizens Bancshares Corporation","Director","James E. Williams","Senior Advisor","The Atlanta & Gwinnett Brave","2014","President of Williams Communications Systems","1078958"
+"Citizens Bancshares Corporation","Director","C. David Moody","President","C.D. Moody Construction Co.,"Inc"","2014","President of C.D. Moody Construction Co.,"Inc"","1078958"
+"Citizens Bancshares Corporation","Director","H. Jerome Russell","President","H.J. Russell & Co.,"and Russell New Urban Development","LLC"","2014","President of H.J. Russell & Company and Russell New Urban Development,"LLC"","1078958"
+"Citizens Bancshares Corporation","Director","Robert Brown","Owner","R.L. Brown & Associates,"Inc"","2014","Principal,"R.L. Brown & Assoc."","1078958"
+"Citizens Bancshares Corporation","Director","Steven A. Elmore,"Sr."","Founder & Managing Principal","Elmore CPAS,"LLC"","2014","Partner Smiley-Smith & Bright,"CPA's"","1078958"
+"Citizens Bancshares Corporation","Director","Donald Ratajczak","Consulting Economist","n/a","2014","Retired","1078958"
+"Citizens Bancshares Corporation","President & CEO","Cynthia Day","Senior Executive VP & COO","Citizens Trust Bank","2014","n/a","1078958"
+"Citizens Bancshares Corporation","Assistant Treasurer & CFO","Samuel J. Cox","Executive VP & CFO","Citizens Trust Bank","2014","Executive VP & CFO","1078958"
+```

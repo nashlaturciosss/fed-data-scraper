@@ -1,0 +1,571 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"THE FIRST BANCSHARES,"INC."","Chicago,"IL"","2017","RMB Capital Management,"LLC",""
+"and affiliates"","n/a","1072804","8.69%","n/a"
+"THE FIRST BANCSHARES,"INC."","Chicago,"IL"","2017","Charles J. Moore,"The Banc Funds"
+"Company","LLC and affiliates"","n/a","746364","6.05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director,"The First Bancshares",""
+"Inc."","Rodney D. Bennett,"Ed.D"","Director,"The First","A"
+National
+"Banking Assn."","n/a","2017","President,""
+University of
+Southem
+"Mississippi"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","David W. Bomboy,"M.D."","Director,"The First","A"
+National
+"Banking Assn."","n/a","2017","Orthopedic
+"Surgeon"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","President,"CEO","Director"","President,"CEO","Director and"
+Vice Chm of the
+Board of The
+"First","A"
+National
+"Banking Assn."","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","President,"CEO","Director and"
+Vice Chm of the
+Board of The
+"First","A"
+National
+"Banking Assn."","Vice Chm of the
+Board of The
+"First"","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Chairman of the Board","n/a","n/a","2017","President and
+"Owner","N & H"
+"Electronics"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","Social
+Security
+Disabllity
+"Clalms Rep."","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","President,""
+Stuart
+Contracting
+"Co.","Inc."","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director,""
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","n/a","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","CFO","CFO,"The First",""
+A National
+"Banking Assn."","n/a","2017","A National
+"Banking Assn."","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Cole Family Farms,"LLC"","2017","Orthopedic
+"Surgeon"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Yours & Mine,"LLC"","2017","Orthopedic
+"Surgeon"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Chairman of the Board","Director,"The"
+"First","A"
+National
+"Banking Assn."","N & H Electronics,"inc."","2017","President and
+"Owner","N & H"
+"Electronics"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Chairman of the Board","Director,"The"
+"First","A"
+National
+"Banking Assn."","The Warehouse","2017","President and
+"Owner","N & H"
+"Electronics"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Chairman of the Board","Director,"The"
+"First","A"
+National
+"Banking Assn."","Mid South Electronics","2017","President and
+"Owner","N & H"
+"Electronics"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Chairman of the Board","Director,"The"
+"First","A"
+National
+"Banking Assn."","ARL,"LLC"","2017","President and
+"Owner","N & H"
+"Electronics"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Havard Pest Control,"Inc."","2017","Social
+Security
+Disabllity
+"Clalms Rep."","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Oak Grove Land Co.","2017","Social
+Security
+Disabllity
+"Clalms Rep."","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","MWM Partnership","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","North Baldwin Park","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gulf Management,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","B-T,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","213-215 East 1st Street","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Career Center","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","USDA","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Professional Court","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Commerce Park","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gulf Warehouse,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","New Bay Minette,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Baldwin (AL) Development,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","J&M Materials,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Thomas W and Betty S Mitchell FLLP","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Thomas E. Mitchell Investment Corp","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Oak Ridge Development Company,"Inc."","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Battles Rd LLC","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Toro Ridge,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Pine Grove,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gulf Leasing,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Baldwin Lighting,"Inc."","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gulf Market Development,"LLC"","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gulf TWO Company","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Seashell,"Inc."","2017","President,""
+Harvard Pest
+"Control"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Neely Ventures","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Parker Livestock Growers LLC","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Trotter & Parker Cattle","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Ted Parker Cattle,"LLC"","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Gumpond Land Co.","2017","Cattle Farmer","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Molloy-Seidenburg & Co.,"P.A."","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","MD Outdoor,"LLC"","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Seaspray Investments,"LLC"","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Seidenburg Investments,"LLC"","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","SSJ Real Estate,"LLC"","2017","CPA","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","ARL,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","L & D,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","London & Stetelman,"Inc."","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","PS,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Westover Crossing,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Sunset Properties,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","ADLS,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Brittany Apts,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","New Town Properties,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","SSJ,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","Shipwreck,"LLC"","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","One Acre LLC","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","Director
+The First
+"Bancshares",""
+"Inc."","Director,"The"
+"First","A"
+National
+"Banking Assn."","AS Exchange","2017","London &
+Stetelman
+"Realtors"","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","M. Ray ""Hoppy"" Cole,"Jr."","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","E. Ricky Gibson","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","Charles R. Lightsey","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","Fred A. McMurry","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","Thomas E. Mitchell","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","Ted E. Parker","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","J Douglas Seidenburg","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","Andrew D. Stetelman","n/a","n/a","2017","n/a","2385514"
+"FIRST,"A NATIONAL BANKING ASSOCIATION","THE"","n/a","DeeDee Lowery","n/a","n/a","2017","n/a","2385514"
+```

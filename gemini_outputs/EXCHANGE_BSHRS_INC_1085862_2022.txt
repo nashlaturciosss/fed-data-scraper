@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2021","William D. Morrison,"Jr."","n/a","45456","7.492%","n/a"
+"Exchange Bankshares,"Inc."","New York,"NY"","2021","CEDE & Co.","n/a","88021","14.507%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2021","Jane Sheppard","n/a","50472","8.318%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2021","Helen Pope","n/a","53345","8.792%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Owner","Allen Construction Company","2021","Contractor","n/a"
+"Exchange Bankshares,"Inc."","n/a","CEDE & CO.","n/a","n/a","2021","N/A","n/a"
+"Exchange Bankshares,"Inc."","President/CEO","John C. Childs,"Jr."","President/CEO","Exchange Bank","2021","n/a","n/a"
+"Exchange Bankshares,"Inc."","Director","Melvin T. Couey","n/a","n/a","2021","Retired Exchange Bank","n/a"
+"Exchange Bankshares,"Inc."","Director","William M. Couey","President","Moores Funeral Home Inc.","2021","Funeral Director and Cemeterian","n/a"
+"Exchange Bankshares,"Inc."","Director","Laurie Ann Gilmore","n/a","n/a","2021","Coca-Cola Company","n/a"
+"Exchange Bankshares,"Inc."","Vice Chairman of the Board","John W. Grant,"III"","n/a","n/a","2021","Retired Georgia College Administrator","n/a"
+"Exchange Bankshares,"Inc."","Director","Dr. John F. Harrington,"Jr."","Dentist","John F. Harrington,"Jr. DDS"","2021","Dentist","n/a"
+"Exchange Bankshares,"Inc."","Director","Joan L. Jones","n/a","n/a","2021","Real Estate Broker/Owner","n/a"
+"Exchange Bankshares,"Inc."","n/a","William D. Morrison,"Jr."","n/a","n/a","2021","N/A","n/a"
+"Exchange Bankshares,"Inc."","Director","Randall A. New","Co-Owner/Managing Partner of","VBRN Investments","2021","Retail Merchant","n/a"
+"Exchange Bankshares,"Inc."","n/a","Helen Pope","n/a","n/a","2021","N/A","n/a"
+"Exchange Bankshares,"Inc."","Director","Harvey L. Simpson,"III"","Physician","Navicent Health Baldwin","2021","Physician","n/a"
+"Exchange Bankshares,"Inc."","n/a","Jane Sheppard","n/a","n/a","2021","N/A","n/a"
+"Exchange Bankshares,"Inc."","Director","Gregory T. Stephens","n/a","n/a","2021","Retired BASF","n/a"
+"Exchange Bankshares,"Inc."","Treasurer","Roy D. Washburn III","n/a","n/a","2021","Executive Vice President Exchange Bank","n/a"
+```

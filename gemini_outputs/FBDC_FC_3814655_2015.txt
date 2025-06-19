@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","James F. Eberhart,"Jr * 1"","Common Stock","31990","8.19%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Stephen K. Eberhart *","Common Stock","6100","1.56%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Norman Eberhart *","Common Stock","2000","0.51%","n/a"
+"FBDC Financial Corp.","Menton,"AL"","2015","Cathie Crow","Common Stock","33400","8.55%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2015","The Estate of Glen Kilgore **","Common Stock","26760","6.85%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2015","Randy Owen","Common Stock","27732","7.10%","n/a"
+"FBDC Financial Corp.","Rainsville,"AL"","2015","Eloise Smith **","Common Stock","61732","15.80%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Charles Stephens ***","Common Stock","24130","6.18%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Linda Stephens ***","Common Stock","100","0.03%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Johnny Young ****","Common Stock","62700","16.05%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Chris Pierson ****","Common Stock","500","0.13%","n/a"
+"FBDC Financial Corp.","Fort Payne,"AL"","2015","Chris Young ****","Common Stock","5120","1.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBDC Financial Corp.","Director & President/CEO","Stephen Kellett Eberhart","President & CEO","First Federal Bank","2015","N/A","n/a"
+"FBDC Financial Corp.","Director","Johnny David Young","President","Young Steel Stamping,"Inc."","2015","Fabricator","n/a"
+"FBDC Financial Corp.","Director","Charles Ray Stephens","President/CEO","Dixie Machine Shop,"Inc."","2015","Machinist","n/a"
+"FBDC Financial Corp.","Director","Cathie Gilbreath Crow","Director/President","Pioneer Credit Company","2015","Retired,"Motel Owner/Operator"","n/a"
+"FBDC Financial Corp.","N/A","Eloise J. Smith","Public Relations","1st State Bank","2015","Public Relations","n/a"
+"FBDC Financial Corp.","N/A","Shari Jones","Stockholder","Rainsville Church Pew,"Inc."","2015","Merchant","n/a"
+"FBDC Financial Corp.","N/A","Shari Jones","Chairman/President","First State Bancshares","2015","Merchant","n/a"
+```

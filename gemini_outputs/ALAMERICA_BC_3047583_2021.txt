@@ -1,21 +1,18 @@
-Here are the requested extractions in CSV format:
+```text
 ### SECURITIES HOLDERS CSV
-```csv
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Alamerica BancCorp,"Inc."","Birmingham","2021","Donald V. Watkins","Common Stock","473089","47.31%"
-"Alamerica BancCorp,"Inc."","Birmingham","2021","Clarissa B. Harms","Common Stock","115735","11.57%"
-"Alamerica BancCorp,"Inc."","Birmingham","2021","Daryl E Harms Irrevocable Trust for Hannah K. Harms","Common Stock","33079","3.31%"
-"Alamerica BancCorp,"Inc."","Birmingham","2021","Daryl E Harms Irrevocable Trust for Emma E. Harms","Common Stock","33079","3.31%"
-"Alamerica BancCorp,"Inc."","Birmingham","2021","Lawrence R. Tate","Common Stock","179078","17.91%"
-"Alamerica BancCorp,"Inc."","Montgomery","2021","Kenneth L. Thomas","Common Stock","120496","12.05%"
-```
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Alamerica BancCorp,"Inc."","Birmingham,"AL"","12/31/2021","Donald V. Watkins","common","473089","47.31%","n/a"
+"Alamerica BancCorp,"Inc."","Birmingham,"AL"","12/31/2021","Clarissa B. Harms","common","115735","11.57%","n/a"
+"Alamerica BancCorp,"Inc."","Birmingham,"AL"","12/31/2021","Daryl E Harms Irrevocable Trust for Hannah K. Harms","common","33079","3.31%","n/a"
+"Alamerica BancCorp,"Inc."","Birmingham,"AL"","12/31/2021","Daryl E Harms Irrevocable Trust for Emma E. Harms","common","33079","3.31%","n/a"
+"Alamerica BancCorp,"Inc."","Birmingham,"AL"","12/31/2021","Lawrence R. Tate","common","179078","17.91%","n/a"
+"Alamerica BancCorp,"Inc."","Montgomery,"AL"","12/31/2021","Kenneth L. Thomas","common","120496","12.05%","n/a"
 ### INSIDERS CSV
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Alamerica BancCorp,"Inc."","Shareholder","Donald V. Watkins","None","Information Unavailable","2021"
-"Alamerica BancCorp,"Inc."","Shareholder","Lawrence R. Tate","None","n/a","2021"
-"Alamerica BancCorp,"Inc."","Shareholder","Clarissa B. Harms","None","n/a","2021"
-"Alamerica BancCorp,"Inc."","Shareholder","Kenneth L. Thomas","None","AL State University","2021"
-"Alamerica BancCorp,"Inc."","Director","Jacqueline Anderson-Smith","Board Chair","Alamerica Bank","2021"
-"Alamerica BancCorp,"Inc."","Secretary/Treasurer","Kent McGriff","Alamerica Bank Senior VP/CFO","n/a","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Alamerica BancCorp,"Inc."","Shareholder","Donald V. Watkins","n/a","Information Unavailable","12/31/2021","Entrepreneur","n/a"
+"Alamerica BancCorp,"Inc."","Shareholder","Lawrence R. Tate","n/a","N/A","12/31/2021","Retired","n/a"
+"Alamerica BancCorp,"Inc."","Shareholder","Clarissa B. Harms","n/a","N/A","12/31/2021","Entrepreneur","n/a"
+"Alamerica BancCorp,"Inc."","Shareholder","Kenneth L. Thomas","Chief Legal Counsel","AL State University","12/31/2021","n/a","n/a"
+"Alamerica BancCorp,"Inc."","Director Board Chair","Jacqueline Anderson-Smith","n/a","Alamerica Bank","12/31/2021","Jefferson County Circuit Clerk","n/a"
+"Alamerica BancCorp,"Inc."","Secretary/Treasurer","Kent McGriff","n/a","Alamerica Bank","12/31/2021","N/A","n/a"
 ```

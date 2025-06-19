@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Financial Corporation","Elberton,"GA"","2019","L Jackson McConnell,"Sr."","Common Stock","230822","22.41%","n/a"
+"Pinnacle Financial Corporation","Elberton,"GA"","2019","L Jackson McConnell,"Sr."","Warrants on Common Stock","12900","1.25%","n/a"
+"Pinnacle Financial Corporation","Midland,"TX"","2019","Henry TAW,"LP"","Common Stock","51789","5.09%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2019","Laura E. Stille","Common Stock","77687","7.64%","n/a"
+"Pinnacle Financial Corporation","Atlanta,"GA"","2019","Linton W. Eberhardt,"IV"","Common Stock","79852","7.83%","n/a"
+"Pinnacle Financial Corporation","Atlanta,"GA"","2019","Linton W. Eberhardt,"IV"","Warrants on Common Stock","2666","0.26%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2019","Alice M. Eberhardt","Common Stock","202281","19.80%","n/a"
+"Pinnacle Financial Corporation","Spartanburg,"SC"","2019","Alice M. Eberhardt","Warrants on Common Stock","4518","0.44%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Financial Corporation","Shareholder","L. Jackson McConnell,"Sr."","n/a","McConnell & Co,"LLC"","2019","Retired","n/a"
+"Pinnacle Financial Corporation","Shareholder","Laura E. Stille","n/a","n/a","2019","Homemaker","n/a"
+"Pinnacle Financial Corporation","Shareholder","Linton W. Eberhardt,"IV"","n/a","n/a","2019","n/a","n/a"
+"Pinnacle Financial Corporation","Chairman","L.Jackson McConnell,"Jr."","Chairman","Pinnacle Bank","2019","CEO","n/a"
+"Pinnacle Financial Corporation","Director","Steve Williams","CEO","Tri State Distributors,"Inc."","2019","Retail Owner","n/a"
+"Pinnacle Financial Corporation","Director","J. Dan McAvoy","Partner","The Chestnut Company,"LLP"","2019","Medical Dr.","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Rentals,"LLC"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Farm,"LLC"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Restaurant,"LLC-Buckeye's I"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","McGarity Restaurant,"LLC-Buckeye's II"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","Buckeyes Plantation,"LLC"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","Dr. Thomas McGarity","Owner","Dr. Thomas E. McGarity Dental,"LLC"","2019","Dentist Owner","n/a"
+"Pinnacle Financial Corporation","Director","B. Scott Fogle","President","Advocate Networks,"LLC"","2019","Services","n/a"
+"Pinnacle Financial Corporation","Director","Greg T. Herring","Owner/CFO","Darnel Quick Recovery","2019","Collections Owner","n/a"
+"Pinnacle Financial Corporation","Director","Marjorie B. Moore","President/Owner","Joe T. Cunningham Interiors","2019","Retail","n/a"
+"Pinnacle Financial Corporation","Director","Roy Malcom,"Jr."","Managing Member","Integrity Valuation Management,"LLC"","2019","Appraisal Order & Review","n/a"
+"Pinnacle Financial Corporation","Director","Robert E. Lee,"III"","President/Agent","Lee Insurance Agency","2019","Insurance","n/a"
+"Pinnacle Financial Corporation","Director","David K. Voyles","n/a","n/a","2019","President","n/a"
+"Pinnacle Financial Corporation","Director","Michael Fernandez","Owner/Manager","Design Mart,"LLC"","2019","Monument Design","n/a"
+"Pinnacle Financial Corporation","Director","William McDermott","CEO","McDermott Financil Solutions,"LLC"","2019","Business Consulting","n/a"
+```

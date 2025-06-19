@@ -1,14 +1,12 @@
-Here are the requested tables in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"AXIOM BANCSHARES,"INC"","Atlanta","2021","Frank Hanna,"Jr."","Common Stock","2000000","100.00%"
-"AXIOM BANCSHARES,"INC"","n/a","2021","None","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Axiom Bancshares,"Inc"","Atlanta,"GA"","2021","Frank Hanna,"Jr."","Common Stock","2000000","100.00%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"AXIOM BANCSHARES,"INC"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2021"
-"AXIOM BANCSHARES,"INC"","Director and President","Ross Breunig","CEO","Axiom Bank,"N.A."","2021"
-"AXIOM BANCSHARES,"INC"","Director","David Hanna","n/a","n/a","2021"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Axiom Bancshares,"Inc"","Director & Chairman","Frank Hanna,"Jr."","n/a","n/a","2021","Investor","n/a"
+"Axiom Bancshares,"Inc"","CEO","Ross Breunig","n/a","n/a","2021","n/a","n/a"
+"Axiom Bancshares,"Inc"","Director","David Hanna","n/a","n/a","2021","n/a","n/a"
 ```

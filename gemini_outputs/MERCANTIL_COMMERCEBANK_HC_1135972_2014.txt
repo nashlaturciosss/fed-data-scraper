@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MERCANTIL COMMERCEBANK HOLDING CORPORATION","Venezuela","2014","Mercantil Servicios Financieros,"C.A."","Common Stock","513759092","100%","n/a"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Coral Gables,"USA"","2014","Mercantil Commercebank Voting Trust","Common Stock","125769788","100%","n/a"
+"MERCANTIL COMMERCEBANK VOTING TRUST","Florida,"USA"","2014","Mercantil Commercebank Holding Corporation","Voting Trust Certificates","1697449","100%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MERCANTIL COMMERCEBANK HOLDING CORPORATION","President & CEO and Director","Millar Wilson","n/a","The Green Farms of Hardee,"LLC"","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK HOLDING CORPORATION","President & CEO and Director","Millar Wilson","n/a","Citera Group,"LLC"","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK HOLDING CORPORATION","President & CEO and Director","Millar Wilson","n/a","J&G Florida Properties,"LLC"","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Frederick C. Copeland Jr","n/a","n/a","2014","Retired","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Jose Antonio Villamil","n/a","n/a","2014","Economist,"Educator"","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Pamella J. Dana","n/a","The Washington Economics Group","2014","Senior Strategic Advisor,"Institute for Human & Machine Recognition"","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Roberto Vanin","n/a","n/a","2014","Wealth Management at Financial Partners Capital Management","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Peter Adolfo Huwyler","Chairman of the Board of Directors","n/a","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Peter Adolfo Huwyler","Chairman of the Board of Directors","n/a","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK FLORIDA BANCORP","Director","Francis Rooney","Chairman and CEO","Rooney Holdings,"Inc."","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK VOTING THUST","President & CEO and Director","Millar Wilson","n/a","n/a","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK VOTING THUST","Treasurer","Alberto Peraza","Director","n/a","2014","n/a","83638"
+"MERCANTIL COMMERCEBANK HOLDING CORPORATION","Director","Peter Adolfo Huwyler","Chairman of the Board of Directors","n/a","2014","n/a","83638"
+```

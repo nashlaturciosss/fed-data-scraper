@@ -1,17 +1,29 @@
-Here are the two tables extracted from the document in CSV format as requested:
-```csv
+```text
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Anchor Bancorp,"Inc."","La Paz","2022","Guido Hinojosa","Common Stock","4512478","96.74%"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Anchor Bancorp,"Inc."","La Paz,"Bolivia"","2022","Guido Hinojosa","common stock","4512478","96.74%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Anchor Bank","Director","George Gentile","Director","Anchor Bank","2022"
-"Anchor Bank","Chairman of the Board CEO & President","Nelson Hinojosa","Chairman of the Board CEO & President","Anchor Bank","2022"
-"Anchor Bank","Director","Philippe C. Jeck","Director","Anchor Bank","2022"
-"Anchor Bank","Director","Randy Nobles","Director","Anchor Bank","2022"
-"Anchor Bank","Vice Chairman","Peter Pantages","Director","Anchor Bank","2022"
-"Anchor Bank","Director","Alejandro Zegarra","Director","Anchor Bank","2022"
-"Anchor Bank","Principal Shareholder","Guido Hinojosa Cardoso","None","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Anchor Bancorp,"Inc."","Director","George Gentile","Director","2GHO,"Inc.","Landscape Architects","Planners","Environmental Consultants"","2022","Environmental Consultant Land Development","3342671"
+"Anchor Bancorp,"Inc."","Director","George Gentile","Director","Plan B,"C","D...Inc."","2022","Environmental Consultant Land Development","3342671"
+"Anchor Bancorp,"Inc."","Chairman of the Board CEO & President","Nelson Hinojosa","n/a","NJ Florida Real Estate Investments Inc","2022","CEO Anchor Bank","3342671"
+"Anchor Bancorp,"Inc."","Chairman of the Board CEO & President","Nelson Hinojosa","Director","Black Terrace Developments Limited","2022","CEO Anchor Bank","3342671"
+"Anchor Bancorp,"Inc."","Director","Philippe C. Jeck","President/Director","Jeck,"Harris","Raynor & jones","P.A."","2022","Attorney","3342671"
+"Anchor Bancorp,"Inc."","Director","Philippe C. Jeck","Managing Member","JHJ Investments,"LLC"","2022","Attorney","3342671"
+"Anchor Bancorp,"Inc."","Director","Philippe C. Jeck","Vice President/Director","All Florida Land Title Company","2022","Attorney","3342671"
+"Anchor Bancorp,"Inc."","Director","Randy Nobles","n/a","n/a","2022","Retired/Charitable Organization Executive","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","Distressed Asset Fund LLC","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","GHP Capital II LLC & GHP Management","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","McCay Real Estate Corp Inc","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","McCay Real Estate Group LLC","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","Morgenthau Accelerator Fund LP & Morgenthau Venture Partners LLC","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","SaveAround Partners","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Vice Chairman","Peter Pantages","n/a","First Bank","2022","Retired Investor","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Vice President","Banco Fortaleza S.A.","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Vice President","Fortaleza Leasing S.A.","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Director","Fortaleza Caisa","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Director","Fortaleza SAFI","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Director","Aseguradora Vida Fortaleza","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Director","Alejandro Zegarra","Vice President","Sociedad Controladora Del Grupo Financiero Fortaleza","2022","Country Club Administration","3342671"
+"Anchor Bancorp,"Inc."","Principal Shareholder","Guido Hinojosa Cardoso","n/a","n/a","2022","Banker","3342671"
 ```

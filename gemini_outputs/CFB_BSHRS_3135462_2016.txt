@@ -1,19 +1,21 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CFB Bancshares,"Inc."","Oak Ridge","2016","James Wilson","Common Stock","24158","6%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CFB Bancshares,"Inc."","Oak Ridge,"TN"","2016","James Wilson","Common Stock","24158","6%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CFB Bancshares,"Inc."","Director","Mitchell Dyer","Director","M&G Precision Machinery","2016"
-"CFB Bancshares,"Inc."","Director","David Goodman","Director","Goodman Farms","2016"
-"CFB Bancshares,"Inc."","Director","Joe Cross","Director","n/a","2016"
-"CFB Bancshares,"Inc."","Director","Vander Murray","Director","VJ's Exxon","2016"
-"CFB Bancshares,"Inc."","Director","Steve Smith","Director","Smith & Smith,"P.C."","2016"
-"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Dir. & Chair.","Wilson & Brooks,"P.C."","2016"
-"CFB Bancshares,"Inc."","Director & President","Billy Rice","Director & CEO","HLR Investors","2016"
-"CFB Bancshares,"Inc."","Director & CFO","Wendell Langley","President & CFO","HLR Investors","2016"
-"CFB Bancshares,"Inc."","Director","Larry D Williams","Director","Tubby's Construction","2016"
-"CFB Bancshares,"Inc."","Secretary","Elizabeth Maden","Secretary","n/a","2016"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CFB Bancshares,"Inc."","Director","Mitchell Dyer","Owner","M&G Precision Machinery","2016","Machine Shop Owner","n/a"
+"CFB Bancshares,"Inc."","Director","David Goodman","Sole Proprietor","Goodman Farms","2016","Timberman/Farmer","n/a"
+"CFB Bancshares,"Inc."","Director","Joe Cross","n/a","n/a","2016","Pharmacist","n/a"
+"CFB Bancshares,"Inc."","Director","Vander Murray","Sole Proprietor","VJ's Exxon","2016","Businessman","n/a"
+"CFB Bancshares,"Inc."","Director","Vander Murray","Sole Proprietor","Tobacco Town","2016","Businessman","n/a"
+"CFB Bancshares,"Inc."","Director","Vander Murray","Sole Proprietor","Imprint Impressions","2016","Businessman","n/a"
+"CFB Bancshares,"Inc."","Director","Vander Murray","General Partner","M4 Investments","2016","Businessman","n/a"
+"CFB Bancshares,"Inc."","Director","Steve Smith","Pres. & Director","Smith & Smith,"P.C."","2016","Dentist","n/a"
+"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Pres. & Chair.","Wilson & Brooks,"P.C."","2016","Attorney","n/a"
+"CFB Bancshares,"Inc."","Director & Chairman","James F. Wilson","Pres. & Chair.","W. Group Properties,"Inc."","2016","Attorney","n/a"
+"CFB Bancshares,"Inc."","Director & President","Billy Rice","General Partner","HLR Investors","2016","CEO Citizens First Bank","n/a"
+"CFB Bancshares,"Inc."","Director & CFO","Wendell Langley","General Partner","HLR Investors","2016","President & CFO Citizens First Bank","n/a"
+"CFB Bancshares,"Inc."","Director","Larry D Williams","Sole Proprietor","Tubby's Construction","2016","Business Owner","n/a"
+"CFB Bancshares,"Inc."","Secretary","Elizabeth Maden","n/a","n/a","2016","Retired VP of Citizens First Bank","n/a"
 ```

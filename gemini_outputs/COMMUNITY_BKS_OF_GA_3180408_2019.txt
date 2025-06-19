@@ -1,0 +1,26 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Canton,"USA"","2019","Donald T. Keeter","Common Stock","607148","16.98%","n/a"
+"Community Banks of Georgia,"Inc."","Jasper,"USA"","2019","Robert W. James","Common Stock","393485","11.00%","n/a"
+"Community Banks of Georgia,"Inc."","Fredericksburg,"Texas/USA"","2019","Mickey T. Dunn","Common Stock","358334","10.02%","n/a"
+"Community Banks of Georgia,"Inc."","Ball Ground,"Georgia/USA"","2019","Matthew T. Dunn","Common Stock","303998","8.50%","n/a"
+"Community Banks of Georgia,"Inc."","Canton,"Georgia/USA"","2019","B. Scott Dobson","Common Stock","243333","6.81%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Banks of Georgia,"Inc."","Director","Frank N. Eubanks","Director","n/a","2019","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Robert W. James","Director","n/a","2019","Retired","n/a"
+"Community Banks of Georgia,"Inc."","Director","Mickey T. Dunn","Director","ML Industries,"Inc."","2019","Manufacturing","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Keeter Farms,"LP"","2019","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director & Chairman","Donald T. Keeter","Director & Chairman","Donald T Keeter Family Trust","2019","Consultant","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Denson Insurance Agency Inc","2019","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Norton Mountain Agency LLC","2019","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","Denson and Kemp Agency LLC","2019","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Michael G. Denson","Director","S A Denson Construction LLC","2019","Insurance Agency Owner","n/a"
+"Community Banks of Georgia,"Inc."","Director","Phillip M. Landrum III","Director","Landrum and Landrum","2019","Attorney","n/a"
+"Community Banks of Georgia,"Inc."","Director & President","Ryan T. Keeter","Director & President","Keeter Farms,"LP"","2019","n/a","n/a"
+"Community Banks of Georgia,"Inc."","Director","Matthew T. Dunn","Director","ML Industries,"Inc."","2019","Manufacturing","n/a"
+```

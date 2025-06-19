@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","Lafayette,"LA"","2014","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","689814","9.7%","385 1191"
+"Home Bancorp,"Inc."","New,"York","NY"","2014","FVP Master Fund,"L. P."","Common Stock","591975","8.3%","385 1191"
+"Home Bancorp,"Inc."","New York,"NY"","2014","Jacobs Asset Management","Common Stock","582794","8.2%","385 1191"
+"Home Bancorp,"Inc."","McLean,"VA"","2014","FJ Capital Management,"LLC"","Common Stock","498156","7.0%","385 1191"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Partner","Broussard Poche' LLP","2014","CPA,"Broussard Poche' LLP"","929978"
+"Home Bancorp,"Inc."","Director,"President & CEO (Home Bank)"","John W. Bordelon","n/a","n/a","2014","n/a","929978"
+"Home Bancorp,"Inc."","Director","Richard J. Bourgeois","n/a","n/a","2014","n/a","929978"
+"Home Bancorp,"Inc."","Director & Secretary","John A. Hendry","Chairman","Lafayette Investment Group","2014","Physician,"Self employed"","929978"
+"Home Bancorp,"Inc."","Director & Secretary","John A. Hendry","Managing Member","LabelB Investments,"LLC"","2014","Physician,"Self employed"","929978"
+"Home Bancorp,"Inc."","Director","Marc W. Judice","n/a","n/a","2014","Attorney,"Judice & Adley","PLC"","929978"
+"Home Bancorp,"Inc."","Director","Michael P. Maraist","n/a","n/a","2014","Oilfield service company,"Timco Services","Inc."","929978"
+"Home Bancorp,"Inc."","Director & Chairman","Darren E. Guidry","Owner,"Chairman"","Timco Services,"Inc."","2014","n/a","929978"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Credit Officer"","Scott A. Ridley","n/a","n/a","2014","n/a","929978"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Banking Officer"","Scott T. Sutton","n/a","n/a","2014","n/a","929978"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Operations Officer"","Joseph B. Zanco","n/a","n/a","2014","n/a","929978"
+"Home Bancorp,"Inc."","Asst. Secretary","Scott T. Sutton","n/a","n/a","2014","n/a","929978"
+```

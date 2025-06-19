@@ -1,0 +1,31 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","n/a","n/a","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","Magna Properties,"LLC"","n/a","n/a","2022","Director","Magna Properties,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","Magna Capital Corp","n/a","n/a","2022","Director","Magna Capital Corp","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","5385 JC,"LLC"","n/a","n/a","2022","Director","5385 JC,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","U Store,"LLC"","n/a","n/a","2022","Director","U Store,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Nack Y. Paek","Chairman & CEO","H & N Kimball,"LLC"","n/a","n/a","2022","Director","H & N Kimball,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Farid Tan","CEO","n/a","n/a","n/a","2022","President","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","Hwa Saeng Kim","EVP/CLO/COO","n/a","n/a","n/a","2022","Director","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Marietta,"GA"","Lucas Stewart","EVP/CFO","n/a","n/a","n/a","2022","EVP/CFO","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Frank Glover","Director","n/a","n/a","n/a","2022","Finance","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","William J. Hungeling","Director","n/a","n/a","n/a","2022","CPA","Hungeling CPA,"P.C."","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","n/a","n/a","n/a","2022","Manager","Fulton Beverage Center,"Inc."","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","Esplanade Property,"LLC"","n/a","n/a","2022","Manager","Esplanade Property,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","Esplanade Property,"LLC II"","n/a","n/a","2022","Manager","Esplanade Property,"LLC II"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","L & T Family,"LLC"","n/a","n/a","2022","Manager","L & T Family,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","Georgia Realm,"LLC"","n/a","n/a","2022","Manager","Georgia Realm,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Sion Nyen Lai","Director & Secretary","Buckhead Crown,"LLC"","n/a","n/a","2022","Manager","Buckhead Crown,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Atlanta,"GA"","Don T. P. Leung","Director","n/a","n/a","n/a","2022","Businessman","DTPL & Associates,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Duluth,"GA"","Feiying Lu","Director","n/a","n/a","n/a","2022","Controller","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Cumming,"GA"","Young Park","Director","n/a","n/a","n/a","2022","Businessman","Kani House Restaurants,"Inc."","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Gulf Breeze,"FL"","Ajit A. Patel","Director","n/a","n/a","n/a","2022","Hotelier","Amrit & Sons I,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Gulf Breeze,"FL"","Ajit A. Patel","Director","Relax Hospitality,"LLC"","n/a","n/a","2022","Hotelier","Relax Hospitality,"LLC"","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Alpharetta,"GA"","Frank S. Rhee","Director","n/a","n/a","n/a","2022","Web Designer","n/a","2022","Director","n/a"
+"MetroCity Bankshares,"Inc."","Fairview Height,"IL"","Sam S. Shim","Director","n/a","n/a","n/a","2022","CPA","SKS Consulting,"Inc."","2022","Director","n/a"
+```

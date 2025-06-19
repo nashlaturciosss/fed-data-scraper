@@ -1,0 +1,37 @@
+Here are the tables you requested in CSV format:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2015","John High Bradshaw","Voting Common Stock","57699.02","3.23%","3801899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2015","John High Bradshaw","Voting Common Stock","66300","3.47%","3801899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2015","John Robert Lancaster","Voting Common Stock","48277.79","2.71%","3801899"
+"First Freedom Bancshares,"Inc."","Lebanon,"TN"","2015","John Robert Lancaster","Voting Common Stock","66300","3.47%","3801899"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Freedom Bancshares,"Inc."","Director & Chairman/CEO","John Robert Lancaster","Partner","Dugdale & Lancaster,"GP"","2015","n/a","3801899"
+"First Freedom Bancshares,"Inc."","Director & Chairman/CEO","John Robert Lancaster","Partner","Teeley Pole Assets GP","2015","n/a","3801899"
+"First Freedom Bancshares,"Inc."","Director & Chairman Emeritus","Kenneth Cecil Howell","n/a","n/a","2015","n/a","3801899"
+"First Freedom Bancshares,"Inc."","Director & President/COO","John High Bradshaw","Partner","JB Realty","2015","n/a","3801899"
+"First Freedom Bancshares,"Inc."","Director","Robert Cameron Woods","Member","St. Thomas Heart Group","2015","Physician","3801899"
+"First Freedom Bancshares,"Inc."","Director","Veronica Rochell Bender","Principal","Friendship Christian Middle School","2015","Educator","3801899"
+"First Freedom Bancshares,"Inc."","Director","Charles Richard Haskins","Co-owner","Triple HHH Farms","2015","Farmer/ Chemical Supply Co. Owner","3801899"
+"First Freedom Bancshares,"Inc."","Director","Charles Richard Haskins","Co-owner","Lebanon Chemical,"Inc."","2015","Farmer/ Chemical Supply Co. Owner","3801899"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Owner & Affiliate Broker","Cumberland Real Estate & Auction","2015","Realtor","3801899"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Owner & Affiliate Broker","Wilson Investors,"LLC"","2015","Realtor","3801899"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Owner & Affiliate Broker","Legends Properties,"LLC"","2015","Realtor","3801899"
+"First Freedom Bancshares,"Inc."","Director","Jackie Waldon Gaither","Owner & Affiliate Broker","The G Team","2015","Realtor","3801899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Sellars Funeral Home","2015","Funeral Director","3801899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Sellars Crematory","2015","Funeral Director","3801899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Mt. Juliet Funeral Home","2015","Funeral Director","3801899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Mt. Juliet Cemetery","2015","Funeral Director","3801899"
+"First Freedom Bancshares,"Inc."","Director","Matthew Juddson Sellars","Owner","Sellars Commemorative Solutions","2015","Funeral Director","3801899"
+"First Freedom Bancshares,"Inc."","Director","Randy Gill Laine","Engineer","Engineer,"City of Lebanon"","2015","Engineer","3801899"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrels","n/a","Hardie V. Sorrells,"MD","PC"","2015","Physician","3801899"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrels","n/a","All American Classics of TN,"Inc"","2015","Physician","3801899"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrels","n/a","TUMILA,"LLC"","2015","Physician","3801899"
+"First Freedom Bancshares,"Inc."","Director","Hardie Vaughan Sorrels","n/a","Classic Cars Shareholders","2015","Physician","3801899"
+"First Freedom Bancshares,"Inc."","Director","Donald Madison Turner","Retired President","Cracker Barrel Old Country Stores,"Inc."","2015","Real Estate Investor","3801899"
+"First Freedom Bancshares,"Inc."","CFO","Michael R. Wiggington","n/a","n/a","2015","n/a","3801899"
+```

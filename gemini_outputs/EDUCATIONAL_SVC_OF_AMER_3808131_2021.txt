@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Education Loan Finance,"Inc."","Knoxville,"TN"","2021","N/A","n/a","n/a","n/a","n/a"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2021","Education Loan Finance,"Inc."","n/a","n/a","88.0%","n/a"
+"SouthEast Bancorp,"Inc."","Knoxville,"TN"","2021","SouthEast Bancorp,"Inc. ESOP"","n/a","n/a","12.0%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Education Loan Finance,"Inc."","Chairman","John E. Arnold,"Jr."","Director/Chairman/President","SouthEast Bancorp,"Inc."","2021","CEO","n/a"
+"Education Loan Finance,"Inc."","CFO/EVP","William T. Thompson","Director/Secretary/Vice President","SouthEast Bancorp,"Inc."","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Director","Dwight Kessel","n/a","n/a","2021","Retired","n/a"
+"Education Loan Finance,"Inc."","Director","Leo Cooper","n/a","n/a","2021","Retired","n/a"
+"Education Loan Finance,"Inc."","Director","Tommy Schumpert","n/a","n/a","2021","Retired","n/a"
+"Education Loan Finance,"Inc."","Director","Robert Rosenbaum","President/CEO Emeritus","Goodwill Industries","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Director","Chris Simmons","Director Corporate Devt.","United Health Group","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Director","Stephan Clark","Retired Brigadier General","US Air Force","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Accounting Officer","Eric Stewart","n/a","n/a","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Information Officer","Jeff Gibbs","Chief Information Officer","SouthEast Bank","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Compliance and Risk Officer","T. Wayne Hood","Chief Compliance and Risk Officer","SouthEast Bank","2021","n/a","n/a"
+"Education Loan Finance,"Inc."","Chief Operating Officer/EVP","Barbara Thomas","Chief Operating Officer/EVP","SouthEast Bank","2021","n/a","n/a"
+```

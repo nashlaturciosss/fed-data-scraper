@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","W. Joseph Field,"Jr."","common stock","6083","5.37%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","The Field Family Foundation","common stock","7472","6.59%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","Jane H. McDonnell","common stock","7833","6.91%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","Archie R. McDonnell,"Jr."","common stock","12464","10.99%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","The McDonnell Foundation","common stock","9977","8.80%","n/a"
+"Citizens National Banc Corp.","Meridian,"MS"","2023","Charles L. Land","common stock","12134","10.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens National Banc Corp.","Director","W. Joseph Field,"Jr."","n/a","n/a","2023","President","n/a"
+"Citizens National Banc Corp.","Director","H. Todd Buchanan","n/a","n/a","2023","Physician","n/a"
+"Citizens National Banc Corp.","Director","Jane H. McDonnell","n/a","n/a","2023","Civic Volunteer","n/a"
+"Citizens National Banc Corp.","Director","James M. Todd,"Jr."","n/a","Todd,"Barron","Thomason","Hudman & Bebout","P.A."","2023","Attorney","n/a"
+"Citizens National Banc Corp.","Director","Scott M. Elliott","n/a","n/a","2023","Business Owner","n/a"
+"Citizens National Banc Corp.","Director","Charles L. Land","n/a","n/a","2023","CPA","n/a"
+"Citizens National Banc Corp.","Director","George M. Walker,"III"","n/a","n/a","2023","President/CEO","n/a"
+"Citizens National Banc Corp.","President","Archie R. McDonnell,"Jr."","n/a","n/a","2023","President","n/a"
+```

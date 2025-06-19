@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Mansura Bancshares,"Inc."","Marksville,"LA"","2015","Anthony J. Roy,"III"","n/a","155000","50.35%","1081097"
+"Mansura Bancshares,"Inc."","Marksville,"LA"","2015","A J Roy,"III","Children's Trust"","n/a","77349","25.13%","1081097"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","President","Dir-Man Inc.","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","President","Roy & Roy Attorneys","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","Exec. Officer","DPR Properties","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","Exec. Officer","MSG,"LLC"","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","Exec. Officer","A.J. Roy,"LLC"","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","Owner","Roy Investment Properties,"LLC"","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Director/President/CEO","A.J. Roy III","Owner","Roy Farm Cabins LLC","2015","Banker/Attorney","473930"
+"The Cottonport Bank","Executive Vice President","Keith Miller","n/a","n/a","2015","Banker","473930"
+"The Cottonport Bank","Director","Julie Roy","n/a","n/a","2015","Executive Director","473930"
+"The Cottonport Bank","Senior Vice President","Michael Thevenot","n/a","n/a","2015","Banker","473930"
+"The Cottonport Bank","Senior Vice President/Treasurer","Marlene Graham","n/a","n/a","2015","Banker","473930"
+```

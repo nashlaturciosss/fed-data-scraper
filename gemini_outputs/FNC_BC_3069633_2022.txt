@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FNC Bancorp,"Inc."","Douglas,"GA"","2022","Ralph G. Evans","common","92.00","18.73%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"GA"","2022","William C. Ellis,"Jr."","common","90.00","18.33%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"GA"","2022","Norman E. Fletcher","common","37.00","7.53%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"GA"","2022","Norman E. Fletcher","common","16.48","3.35%","n/a"
+"FNC Bancorp,"Inc."","Fernandina Beach,"Florida"","2022","Robert L. Cation Revocable Trust","common","35.69","7.27%","n/a"
+"FNC Bancorp,"Inc."","Douglas,"GA"","2022","Arthur C. Farrar,"Jr."","common","26.21","5.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

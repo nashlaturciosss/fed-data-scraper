@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Pinnacle Bank","New York,"NY"","2016","BlackRock Institutional Trust Company,"N.Α."","n/a","4849946","9.75%","n/a"
+"Pinnacle Bank","Malvern,"PA"","2016","The Vanguard Group,"Inc."","n/a","3687644","7.41%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pinnacle Bank","Director","H. Gordon Bone","Partner","B&B Enterprises","2016","Builder/Developer","n/a"
+"Pinnacle Bank","Director","Charles E. Brock","President and CEO","Launch Tennessee","2016","Business Creation Executive","n/a"
+"Pinnacle Bank","Director","Renda J. Burkhart","President","Burkhart & Company,"P.C."","2016","Certified Public Accountant","n/a"
+"Pinnacle Bank","Director","Gregory L. Burns","President and CEO","Gregory Burns Consulting Group,"LLC"","2016","Consultant","n/a"
+"Pinnacle Bank","Director","Colleen Conway-Welch","n/a","n/a","2016","Retired Nursing School Administrator","n/a"
+"Pinnacle Bank","Director","Marty G. Dickens","n/a","n/a","2016","Retired Telecommunications Executive","n/a"
+"Pinnacle Bank","Director","Thomas C. Farnsworth,"III"","President","Farnsworth Investment Company","2016","Real Estate Investor","n/a"
+"Pinnacle Bank","Director","Joseph C. Galante","n/a","n/a","2016","Retired Music & Entertainment Industry Executive","n/a"
+"Pinnacle Bank","Director","Glenda Baskin Glover","President","Tennessee State University","2016","Educator","n/a"
+"Pinnacle Bank","Director","William F. Hagerty,"IV"","Partner","Hagerty Peterson & Company","2016","Private Equity Investor","n/a"
+"Pinnacle Bank","Director","William H. Huddleston,"IV"","President","Huddleston-Steele Engineering,"Inc."","2016","Engineer","n/a"
+"Pinnacle Bank","Director","David B. Ingram","Chairman of the Board","Ingram Entertainment,"Inc."","2016","Entertainment Industry Executive","n/a"
+"Pinnacle Bank","Director","Ed C. Loughry,"Jr."","n/a","n/a","2016","Retired Banker","n/a"
+"Pinnacle Bank","Chairman of the Board","Robert A. McCabe,"Jr."","n/a","n/a","2016","n/a","n/a"
+"Pinnacle Bank","Vice Chairman of the Board","Ronald L. Samuels","n/a","n/a","2016","n/a","n/a"
+"Pinnacle Bank","Director","Gary L. Scott","n/a","n/a","2016","Retired Banker","n/a"
+"Pinnacle Bank","Director","Reese L. Smith III","President","Haury & Smith Contractors,"Inc."","2016","Builder/ Developer","n/a"
+"Pinnacle Bank","President and Chief Executive Officer","M. Terry Turner","n/a","n/a","2016","n/a","n/a"
+"Pinnacle Bank","Executive Vice President and Chief Administrative Officer","Hugh M. Queener","n/a","n/a","2016","n/a","n/a"
+"Pinnacle Bank","Executive Vice President and Chief Financial Officer","Harold R. Carpenter","n/a","n/a","2016","n/a","n/a"
+"Pinnacle Bank","Executive Vice President and Chief Credit Officer","J. Harvey White","n/a","n/a","2016","n/a","n/a"
+```

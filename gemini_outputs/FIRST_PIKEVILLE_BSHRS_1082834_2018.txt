@@ -1,0 +1,15 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Pikeville,"Tennessee"","2018","Phillip Crawford","n/a","5187","14.43%","n/a"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Pikeville,"Tennessee"","2018","Howard Upchurch","n/a","2595","7.22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST PIKEVILLE BANCSHARES,"INC."","President and Director","Phillip L. Crawford","n/a","n/a","2018","Banker","702836"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Chairman","L. Clay Roberson","Chairman","n/a","2018","None","702836"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","George S. Hamilton,"Jr."","Director","Hamilton Land and Auction Co.","2018","Realtor","702836"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Secretary and Director","Howard Upchurch","Attorney","Howard Upchurch Attorney","2018","Attorney","702836"
+"FIRST PIKEVILLE BANCSHARES,"INC."","Director","James William Pope,"III"","Director","Assistant District Attorney","2018","Attorney","702836"
+```

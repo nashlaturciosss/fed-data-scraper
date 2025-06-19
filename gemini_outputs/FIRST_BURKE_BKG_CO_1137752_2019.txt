@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Burke Banking Company","Waynesboro,"GA"","2019","J. C. Palmer,"III"","Common Stock","3665","35.70%","n/a"
+"First Burke Banking Company","Newnan,"GA"","2019","Leigh O. Jackson","Common Stock","1935","18.85%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Burke Banking Company","Director","Roy F. Chalker,"Jr."","President","Chalker Publishing","2019","President Chalker Publishing","n/a"
+"First Burke Banking Company","Director","Robert C. Collins","President","Collins Farms/Collins Bonded Warehouse","2019","Collins Farms/ Collins Bonded Warehouse","n/a"
+"First Burke Banking Company","Director","Robert C. Collins","President","Truflame Gas Co.,"Inc"","2019","Collins Farms/ Collins Bonded Warehouse","n/a"
+"First Burke Banking Company","Director","Dr. Shelley Griffin","Physician","Physician Medical Specialist","2019","Physician Medical Specialist","n/a"
+"First Burke Banking Company","Director","H.C. Hopkins,"III"","President","Hopkins Farms","2019","Hopkins Farms President","n/a"
+"First Burke Banking Company","Director","Alan W. Jackson","Partner","Glover & Davis P.A.","2019","Glover & Davis P.A. Partner","n/a"
+"First Burke Banking Company","Director","Ashley Hammett","Owner - C & H Services","n/a","2019","Business Owner - C & H Services","n/a"
+"First Burke Banking Company","Director","J. C. Palmer,"IV"","Loan Officer/ Director","n/a","2019","Loan Officer/ Director","n/a"
+"First Burke Banking Company","Director","J. C. Palmer,"III"","President Director Treasurer","n/a","2019","First National Bank Chairman of Board","n/a"
+"First Burke Banking Company","n/a","Leigh O. Jackson","n/a","n/a","2019","Housewife","n/a"
+"First Burke Banking Company","Secretary","Connie Smith","n/a","n/a","2019","A A First National Bank","n/a"
+"First Burke Banking Company","Director","Johnny F. Christian","Doctor","n/a","2019","Doctor","n/a"
+"First Burke Banking Company","Director","Matthew Jenkins","Farmer","n/a","2019","Farmer","n/a"
+"First Burke Banking Company","Director","John Hardy","Business Owner - Hardy Plumbing","n/a","2019","Business Owner - Hardy Plumbing","n/a"
+"First Burke Banking Company","Director","Fredrick Stewart","Farmer","n/a","2019","Farmer","n/a"
+"First Burke Banking Company","Director","Nan Palmer Lynch","Marketing/PR","n/a","2019","Marketing/PR First National Bank","n/a"
+```

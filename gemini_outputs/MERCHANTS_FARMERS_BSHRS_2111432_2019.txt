@@ -1,0 +1,21 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2019","Mary B Garnand","n/a","7839","14.1437%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2019","James O. Banks,"Jr."","n/a","3121","5.6311%","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Eutaw,"AL"","2019","Ernestelle P. Durrett","n/a","3113","5.6167%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kevin Jockisch","Director","Merchants and Farmers Bank of Greene County","2019","Repair Service","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Kevin Jockisch","n/a","Joe's Repair Shop","2019","Repair Service","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Chairman,"CEO & Director"","Alvis Storey (Betty Storey)","Director","Merchants and Farmers Bank of Greene County","2019","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","President & Director","Ralph R. Banks,"III"","President & Director","Merchants and Farmers Bank of Greene County","2019","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","Director","Merchants and Farmers Bank of Greene County","2019","Lawyer","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Director","Gavin Edgar","Director","Merchants and Farmers Bank of Greene County","2019","Merchant","n/a"
+"Merchants & Farmers Bancshares,"Inc."","n/a","Gavin Edgar","Partner","Foodland","2019","Merchant","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Executive Vice President & Director","Daniel M. Garnand","Executive Vice President and Director","Merchants and Farmers Bank of Greene County","2019","Banker","n/a"
+"Merchants & Farmers Bancshares,"Inc."","Vice President & Cashier","Andrew Harrison Banks","Cashier","Merchants and Farmers Bank of Greene County","2019","Banker","n/a"
+```

@@ -1,0 +1,42 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of South Florida,"Inc."","Homestead,"USA"","2014","George Eicher","n/a","530869","10.67%","999430"
+"Community Bank of South Florida,"Inc."","Homestead,"USA"","2014","Robert L. Epling","n/a","288843","5.80%","999430"
+"Community Bank of South Florida,"Inc."","Florida City,"USA"","2014","Vito Strano","n/a","275080","5.53%","999430"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bank of South Florida","Director","Harold Arve,"Jr."","n/a","n/a","2014","n/a","999430"
+"Community Bank of South Florida","Director","Dr. James Boilini","n/a","n/a","2014","n/a","999430"
+"Community Bank of South Florida","Director","Martina Borek","President","Steven Borek Farms Inc.","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Chairman","ComBank Mortgage Co.","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Chairman","Community Leasing,"Inc."","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Chairman","ComBank Title,"Inc."","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Chairman","Int'l Hurricane Center","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Director","Av-Med Health","2014","n/a","999430"
+"Community Bank of South Florida","President/CEO and Director","Robert L. Epling","Director","National Football Foundation","2014","n/a","999430"
+"Community Bank of South Florida","Director","Michael Marcus","Manager/Member","Gateway Title & Closing Co.","2014","n/a","999430"
+"Community Bank of South Florida","Director","Michael Marcus","Manager/Member","H. S. Gateway Holdings","2014","n/a","999430"
+"Community Bank of South Florida","Director","Michael Marcus","Manager/Member","Solarbeam Security LLC","2014","n/a","999430"
+"Community Bank of South Florida","Director","Michael Marcus","Manager/Member","Solarbeam International Inc.","2014","n/a","999430"
+"Community Bank of South Florida","Director","Charles P. Munz","President","The Redland Co.,"Inc."","2014","n/a","999430"
+"Community Bank of South Florida","Director","Charles P. Munz","Partner & VP","Farmlife Tropical Foliage","2014","n/a","999430"
+"Community Bank of South Florida","Director","Charles P. Munz","President","Country-Flyin,"Inc."","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","President","MVRT","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","President","Cornerstone Farms","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Vice President","C&R Milling & Paving","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Managing Member","Levine Industrial Park,"LLC"","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Managing Member","260 LLC","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Managing Member","Taylor Bros Holding,"LLC"","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Managing Member","Taybro 1,"LLC"","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Managing Member","Redland Professional Park LLC","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Board of Directors","Baptist Hospital Foundation","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Chairman","Homestead Hospital Foundation","2014","n/a","999430"
+"Community Bank of South Florida","Director","Rene Taylor","Board of Directors","Homestead Hospital","2014","n/a","999430"
+"Community Bank of South Florida","Director Emeritus","George Eicher","n/a","n/a","2014","n/a","999430"
+"Community Bank of South Florida","Director","Jose Cardenal,"Jr."","Owner","JIC Enterprises,"Inc."","2014","n/a","999430"
+"Community Bank of South Florida","Director","Jose Cardenal,"Jr."","Owner","Lamaco Enterprises,"Inc."","2014","n/a","999430"
+```

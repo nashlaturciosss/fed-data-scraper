@@ -1,0 +1,25 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancorp,"Inc."","McLean,"VA"","2020","FJ Capital Management,"LLC"","Common Stock","659422","7.6%","n/a"
+"Home Bancorp,"Inc."","Lafayette,"LA"","2020","Home Bancorp Employee Stock Ownership Plan Trust","Common Stock","594752","6.8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancorp,"Inc."","Director","Paul J. Blanchet,"III"","Retired Partner","Broussard Poche' LLP","2020","CPA,"Broussard Poche' LLP"","n/a"
+"Home Bancorp,"Inc."","Chairman of the Board of Directors","John W. Bordelon","n/a","n/a","2020","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","Mark M. Cole","Managing Member","JSOMK Properties,"LLC"","2020","n/a","n/a"
+"Home Bancorp,"Inc."","Director","Daniel G. Guidry","Owner","Don's Speacialty Meats","2020","Don's Speacialty Meats,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director & Secretary","John A. Hendry","Retired Partner","Guidry & Guidry","2020","Attorney,"Guidry & Guidry"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","CEO","Rader Solutions Ltd","2020","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Member","White Lake Cattle Co LLC","2020","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","RAK Holdings,"LLC"","2020","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","Quantum Real Estate,"LLC"","2020","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Chris P. Rader","Managing Member","Hardwear and Software LLC","2020","Pediatric Dentist,"self employed"","n/a"
+"Home Bancorp,"Inc."","Director","Ann Forte Trappey","n/a","n/a","2020","VP Outreach of Forte & Tablada","n/a"
+"Home Bancorp,"Inc."","Executive Vice President,"Chief Credit Officer"","Darren E. Guidry","n/a","n/a","2020","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","Jason P. Freyou","n/a","n/a","2020","n/a","n/a"
+"Home Bancorp,"Inc."","n/a","David T. Kirkley","n/a","n/a","2020","n/a","n/a"
+```

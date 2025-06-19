@@ -1,0 +1,14 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancorp,"Inc"","Mobile,"AL"","2017","Patrick Cooper","Common Stock","23150","11%","n/a"
+"CNB Bancorp,"Inc"","Mobile,"AL"","2017","Gary Cooper","Common Stock","50644","24.09%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB Bancorp,"Inc"","Chairman","Gary Cooper","EVP","n/a","2017","Retired","n/a"
+"CNB Bancorp,"Inc"","Director","Jacquitta P. Green","Chairman","Commonwealth National Bank","2017","Northside Check Exchange","n/a"
+"CNB Bancorp,"Inc"","Director","Scott Hunter","Director","Raymond James Financial Services","2017","Vice President","n/a"
+"CNB Bancorp,"Inc"","Director of Banks' Board","Patrick Cooper","Attorney","n/a","2017","Attorney","n/a"
+```

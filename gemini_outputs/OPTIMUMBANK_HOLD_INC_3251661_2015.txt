@@ -1,0 +1,13 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2015","Moishe Gubin","common stock","884977","9.19%","3251661"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2015","Midwest Kosher Deli","common stock","776251","8.07%","3251661"
+"OptimumBank Holdings,"Inc."","Chicago,"IL"","2015","Ari Haas","common stock","750000","7.79%","3251661"
+"OptimumBank Holdings,"Inc."","South Bend,"IN"","2015","Midwest Tora Center","common stock","494250","5.14%","3251661"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings Inc.","Chairman of the Board","Moishe Gubin","Director","various nursing homes","2015","CEO various nursing homes","3251661"
+"OptimumBank Holdings Inc.","Director","Joel Klein","Director","n/a","2015","Retired","3251661"
+"OptimumBank Holdings Inc.","Director","Martin Schmidt","Director","n/a","2015","Financial Planner","3251661"
+```

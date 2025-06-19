@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Financial Corp","Lookout Mountain,"TN"","2014","Norwood E. Green","Common Stock","22200","13.63%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2014","Franklin W. Latta","Common Stock","20387","12.52%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2014","Betty L. Rankin","Common Stock","19887","12.21%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2014","Mary L. Woods","Common Stock","19687","12.09%","n/a"
+"F & M Financial Corp","Centre,"AL"","2014","Margaret L. Whorton","Common Stock","18287","11.23%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2014","The Estate of Margaret T. Latta","Common Stock","13612","8.36%","n/a"
+"F & M Financial Corp","Piedmont,"AL"","2014","Jim D. Smallwood","Common Stock","13200","8.10%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F & M Financial Corp","President","Franklin W. Latta","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","CEO","Franklin W. Latta","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","Director","Larry Deason","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","President","Larry Deason","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","Director","Betty L. Rankin","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","n/a","Betty L. Rankin","n/a","n/a","2014","n/a","n/a"
+"F & M Financial Corp","Director","Millard V. Young,"Jr."","Owner","Young Oil Company","2014","Corporate President","n/a"
+"F & M Financial Corp","Director","Arthur Fite,"IV"","Owner","Fite Law Firm","2014","Attorney","n/a"
+"F & M Financial Corp","Director","John Bekkers","n/a","n/a","2014","Corporate Executive","n/a"
+"F & M Financial Corp","Director","Joe Lively","Owner","Lively Foodland,"Inc."","2014","Corporate Executive","n/a"
+"F & M Financial Corp","Director","David Neisler","Owner","Deck Foods","2014","Corporate Executive","n/a"
+"F & M Financial Corp","n/a","Margaret Whorton","n/a","n/a","2014","Real Estate","n/a"
+"F & M Financial Corp","n/a","Mary Woods","n/a","n/a","2014","Teller","n/a"
+"F & M Financial Corp","n/a","Norwood Green","n/a","n/a","2014","Retired","n/a"
+```

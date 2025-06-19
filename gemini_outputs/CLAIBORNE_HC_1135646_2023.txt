@@ -1,0 +1,26 @@
+Here are the two CSV tables containing the requested information from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc"","Chairman","Eleanor Yoakum","General Partner","Yoakum Family LP","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Chairman","Eleanor Yoakum","Co-Trustee","Estate Of Glenn Yoakum","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Director & Vice Chairman & President","Rob Barger","Owner","Yoakum Family LP","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Director & Vice Chairman & President","Rob Barger","General Partner","Yoakum Family LP","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Principal Shareholder","Oliver Adams","Director","n/a","2023","Attorney","n/a"
+"Claiborne Holding Company,"Inc"","Director","Carroll E. Rose,"MD"","Partner","n/a","2023","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc"","Director","Carroll E. Rose,"MD"","Partner","Rose & Thomas","2023","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc"","Director","Carroll E. Rose,"MD"","Partner","Rose & Ball","2023","Physician & Real Estate Developer","n/a"
+"Claiborne Holding Company,"Inc"","Secretary to the Board","Jennifer Lovin","Secretary to the Board","n/a","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","n/a","Elizabeth Giles","Director","n/a","2023","Commercial Real Estate Leasing & Developer","n/a"
+"Claiborne Holding Company,"Inc"","Secretary To the Board","Jack A. Bonner,"Jr"","Managing Member","Press Group,"LLC"","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Secretary To the Board","Jack A. Bonner,"Jr"","Managing Ptr","Cayenne Rental Properties,"GP"","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","Secretary To the Board","Jack A. Bonner,"Jr"","President","Press Bldg. Condo Assoc","2023","n/a","n/a"
+"Claiborne Holding Company,"Inc"","n/a","William A. Dunavant,"Jr."","Director/Consultant","n/a","2023","Business consultant","n/a"
+"Claiborne Holding Company,"Inc"","n/a","Howard Phillips","Director","n/a","2023","Business owner","n/a"
+"Claiborne Holding Company,"Inc"","Director","Greg Garren","Director","n/a","2023","Farmer","n/a"
+"Claiborne Holding Company,"Inc"","n/a","Wesley Minton","Executive VP & Chief Operating Officer","n/a","2023","n/a","n/a"
+```

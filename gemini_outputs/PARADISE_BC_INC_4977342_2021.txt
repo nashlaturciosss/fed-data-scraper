@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PARADISE BANCORP,"INC."","Boca Raton,"FL"","2021","Goldsmith 2012 Irrevocable Trust","n/a","215020","5.62%","n/a"
+"PARADISE BANCORP,"INC."","Long Boat Key,"FL"","2021","Allen D. McGee","n/a","203089","5.03%","n/a"
+"PARADISE BANCORP,"INC."","Davie,"FL"","2021","William Burke","n/a","92936","8.36%","n/a"
+"PARADISE BANCORP,"INC."","Boca Raton,"FL"","2021","Ward Kellogg","n/a","74542","5.13%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PARADISE BANCORP,"INC."","Director","Ward Kellogg","n/a","n/a","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Chairman of the Board","William Burke","Managing Member","Conch Retreat Tools,"LLC"","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Chairman of the Board","William Burke","Managing Member","Burke Corporate Properties,"LLC"","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Vice Chairman","Dennis Gavin","n/a","Trustee","Goldsmith Investments","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","President,"COO"","David Englert","n/a","n/a","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Chief Credit Officer","Kevin Rafferty","n/a","n/a","2021","Paradise Bank","n/a"
+"PARADISE BANCORP,"INC."","Director","David D. Dickenson","n/a","Dickenson,"Rex & Sloan","P.A."","2021","Retired Attorney","n/a"
+"PARADISE BANCORP,"INC."","Director","David D. Dickenson","n/a","Dickenson Beach House,"LLC"","2021","Retired Attorney","n/a"
+"PARADISE BANCORP,"INC."","Director","Howard Goldsmith","n/a","Goldsmith Investment Group,"LLC"","2021","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Howard Goldsmith","n/a","Goldsmith 2012 Irrevocable Trust","2021","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Allen D. McGee","n/a","Spin Label Technologies,"Inc."","2021","Retired Investor","n/a"
+"PARADISE BANCORP,"INC."","Director","Thomas McMurrain","n/a","n/a","2021","Hospitality","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","n/a","Watchstander,"LLC."","2021","Pres/CEO Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","n/a","ST Liberty,"LLC"","2021","Pres/CEO Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","n/a","Toney Capital Holdings,"LLC"","2021","Pres/CEO Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","George Robert Toney","n/a","National Maritime Services,"Inc."","2021","Pres/CEO Marine Services","n/a"
+"PARADISE BANCORP,"INC."","Director","Lisa R. Wheeler","n/a","n/a","2021","Retired Finance","n/a"
+"PARADISE BANCORP,"INC."","EVP/SBA Manager","Kevin M. Sacket","n/a","Twin Palms Center for the Disabled","2021","CFO,"Director"","n/a"
+"PARADISE BANCORP,"INC."","EVP/SBA Manager","Kevin M. Sacket","n/a","FLAGGL Florida Association of Government Guaranteed Lenders","2021","CFO,"Director"","n/a"
+```

@@ -1,0 +1,25 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp inc","Jeanerette,"LA"","2022","Cameron Simmons","n/a","n/a","1.00%","n/a"
+"Jeanerette First National Bancorp inc","New Iberia,"LA"","2022","Errol J. Delahoussaye","n/a","n/a","1.00%","n/a"
+"Jeanerette First National Bancorp inc","Baton Rouge,"LA"","2022","Samuel B. Bourgeois","n/a","n/a","1.76%","n/a"
+"Jeanerette First National Bancorp inc","Jeanerette,"LA"","2022","Bret Bishop","n/a","n/a","2.00%","n/a"
+"Jeanerette First National Bancorp inc","Jeanerette,"LA"","2022","Damon Migues","n/a","n/a","0.82%","n/a"
+"Jeanerette First National Bancorp inc","New Iberia,"LA"","2022","Martin ""Bo"" Duhe","n/a","n/a","0.82%","n/a"
+"Jeanerette First National Bancorp inc","Lafayette,"LA"","2022","Harry Patin,"Jr."","n/a","n/a","0.82%","n/a"
+"Jeanerette First National Bancorp inc","Lafayette,"LA"","2022","Errol C Babineaux,"Jr."","n/a","n/a","0.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp inc","Director","Cameron Simmons","Director","N/A","2022","Attorney","n/a"
+"Jeanerette First National Bancorp inc","Director","Errol J. Delahoussaye","Director","New York Life Agent","2022","Insurance and Securities","n/a"
+"Jeanerette First National Bancorp inc","Chairman","Samuel B. Bourgeois","Director","Insurance Salesman","2022","CML Insurance","n/a"
+"Jeanerette First National Bancorp inc","Vice-Chairman","Bret Bishop","Director","Lumber Wholesale","2022","President Lumber Company","n/a"
+"Jeanerette First National Bancorp inc","Secretary","Damon Migues","Director","Gym Owner","2022","CEO/FNB of Jeanerette","n/a"
+"Jeanerette First National Bancorp inc","Director","Martin ""Bo"" Duhe","Director","16th Judicial District","2022","District Attorney","n/a"
+"Jeanerette First National Bancorp inc","Director","Harry Patin,"Jr."","Director","N/A","2022","Insurance Broker","n/a"
+"Jeanerette First National Bancorp inc","Director","Errol C Babineaux,"Jr."","Director","N/A","2022","Insurance Broker","n/a"
+```

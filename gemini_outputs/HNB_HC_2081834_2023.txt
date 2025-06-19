@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"HNB FIRST Bank","Vestavia Hills,"AL"","2023","Melanie M. Smith","n/a","1088.5","9.07%","n/a"
+"HNB FIRST Bank","Huntsville,"AL"","2023","Donald J. McClendon","n/a","1078.5","8.99%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2023","Sam R. Vann,"III"","n/a","1337","11.42%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2023","Mark Espy Sr. Family Trust","n/a","790","6.58%","n/a"
+"HNB FIRST Bank","Headland,"Al"","2023","Natalie E. Woods","n/a","826","6.88%","n/a"
+"HNB FIRST Bank","Auburn,"AL"","2023","Valarie Smith","n/a","871","7.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"HNB FIRST Bank","Secretary and Treasurer","Dwight L. Gamble","President/CEO","HNB FIRST Bank","2023","President/CEO of HNB FIRST Bank","n/a"
+"HNB FIRST Bank","Chairman and President","Miles V. Espy,"Sr."","Partner","Draffin & Tucker,"LLP"","2023","n/a","n/a"
+"HNB FIRST Bank","Chairman and President","Miles V. Espy,"Sr."","Vice Chairman/Vice President","Espy Mercantile Company,"Inc."","2023","n/a","n/a"
+"HNB FIRST Bank","Vice Chairman and Vice President","William E. Woods","Chairman/President","Espy Mercantile Company,"Inc."","2023","n/a","n/a"
+"HNB FIRST Bank","Director","Melanie Smith","Director","Espy Mercantile Company,"Inc."","2023","n/a","n/a"
+"HNB FIRST Bank","Director","Sam R. Vann,"III"","President and Owner","Ludlum & Vann Appraisals,"Inc."","2023","President and Owner of Ludlum & Vann Appraisals,"Inc."","n/a"
+```

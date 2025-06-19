@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancshares of Stevenson Inc.","Springhill,"FL"","2014","Addie Lou Harris Estate","Common","27736","13.87%","1869987"
+"First Bancshares of Stevenson Inc.","Nokomis,"FL"","2014","Walter Russell Bogart Trust","Common","11564","5.78%","1869987"
+"First Bancshares of Stevenson Inc.","Stevenson,"AL"","2014","Carolyn Hall","Common","12024","6.01%","1869987"
+"First Bancshares of Stevenson Inc.","Newnan,"GA"","2014","Holbert & Julia Hale","Common","12347","6.17%","1869987"
+"First Bancshares of Stevenson Inc.","Scottsboro,"AL"","2014","Jack B Lovelady","Common","12000","6.00%","1869987"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancshares of Stevenson Inc.","Director Pres/CEO","James M. Ellenburg","n/a","n/a","2014","Banker","1869987"
+"First Bancshares of Stevenson Inc.","Director","Carolyn Hall","n/a","n/a","2014","Sales Rep.","1869987"
+"First Bancshares of Stevenson Inc.","Director","John E. Rudder","President","Rudder Funeral Home","2014","Funeral Director","1869987"
+"First Bancshares of Stevenson Inc.","Director","Bryan Hicks","n/a","North Jackson Pharmacy","2014","Pharmacist","1869987"
+"First Bancshares of Stevenson Inc.","Director","Bryan Hicks","n/a","CGH Properties,"LLC"","2014","Pharmacist","1869987"
+"First Bancshares of Stevenson Inc.","Director","Bryan Hicks","n/a","Hicks and Hicks","2014","Pharmacist","1869987"
+"First Bancshares of Stevenson Inc.","Director","Bryan Hicks","n/a","Smith/Lovelady/Hicks/Hicks","2014","Pharmacist","1869987"
+"First Bancshares of Stevenson Inc.","Director","Bryan Hicks","n/a","CDR Management","2014","Pharmacist","1869987"
+"First Bancshares of Stevenson Inc.","Director","Randy Wright","n/a","n/a","2014","Farmer","1869987"
+"First Bancshares of Stevenson Inc.","n/a","Addie Lou Harris","n/a","n/a","2014","Principal","1869987"
+"First Bancshares of Stevenson Inc.","Director","Tommy Harding","President","Harding Insurance","2014","Insurance","1869987"
+"First Bancshares of Stevenson Inc.","Director SVP","Jack Lovelady","n/a","Smith Lovelady","2014","Banker","1869987"
+"First Bancshares of Stevenson Inc.","Director SVP","Jack Lovelady","n/a","Smith/Lovelady/Hicks/Hicks","2014","Banker","1869987"
+"First Bancshares of Stevenson Inc.","Director SVP","Jack Lovelady","n/a","Stevenson Plaza Shopping Center","2014","Banker","1869987"
+"First Bancshares of Stevenson Inc.","Director SVP","Danny Crownover","n/a","n/a","2014","Banker","1869987"
+"First Bancshares of Stevenson Inc.","Director","Ralph Hall","n/a","n/a","2014","Retired","1869987"
+```

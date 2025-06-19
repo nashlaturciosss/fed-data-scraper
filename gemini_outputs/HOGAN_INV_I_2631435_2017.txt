@@ -1,0 +1,27 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","adhering to all the specified rules:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hogan Investments I,"Inc."","Dublin,"GA"","2017","Estate of Barbara H. McLees","Common Stock","4732","47.32%","2631435"
+"Hogan Investments I,"Inc."","Macon,"GA"","2017","Estate of Betty H. Metts","Common Stock","168","1.68%","2631435"
+"Hogan Investments I,"Inc."","Forsyth,"GA"","2017","Beth M. Vaughn","Common Stock","5100","51.00%","2631435"
+"Hogan Investments,"LP"","Forsyth,"GA"","2017","Hogan Investments I,"Inc."","n/a","n/a","n/a","2631435"
+"Laurens Bancshares,"Inc."","Forsyth,"GA"","2017","Hogan Investments,"LP"","Common Stock","48460","80.77%","2631435"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hogan Investments I,"INC."","Officer/Director","William G. McLees,"Jr."","Director","Hogan Timberlands I,"Inc."","2017","Architect","2631435"
+"Hogan Investments I,"INC."","Officer/Director","William G. McLees,"Jr."","Secretary","Hogan Timberlands I,"Inc."","2017","Architect","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","President & Chairwoman","Hogan Timberlands I,"Inc."","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","Chairwoman","Hogan Timberlands I,"Inc."","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","Partner","Hogan Timberlands,"LP"","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","Secretary","Vaughn Land & Cattle Co.","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","CFO & Secretary","Country Oaks Farm & Pet Supply,"Inc."","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","President/Director","Beth Vaughn","CFO & Secretary","41 Feed Mill,"Inc."","2017","Chairwoman & Investment Officer (Bank of Dudley)","2631435"
+"Hogan Investments I,"INC."","Director","Rubert H. McLees","Director","Hogan Timberlands I,"Inc."","2017","Retired","2631435"
+"Hogan Investments I,"INC."","Director","Rubert H. McLees","Partner","Hogan Timberlands,"LP"","2017","Retired","2631435"
+"Hogan Investments I,"INC."","None","Estate of Barbara H. McLees","n/a","n/a","2017","None","2631435"
+"Hogan Investments I,"INC."","Director","Benjamin A. Vaughn","Owner","Dillon & Vaughn,"PC"","2017","Attorney","2631435"
+"Hogan Investments I,"INC."","Director","Benjamin A. Vaughn","Owner","Vaughn Brothers,"LLC"","2017","Attorney","2631435"
+```

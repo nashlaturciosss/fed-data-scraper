@@ -1,0 +1,12 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bankshares,"Inc."","n/a","2023","Stephen M. Jeffries","n/a","n/a","n/a","n/a"
+"Community Bankshares,"Inc."","n/a","2023","Emily A. Lowery","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bankshares,"Inc."","President & CEO","Stephen M. Jeffries","n/a","n/a","2023","n/a","n/a"
+"Community Bankshares,"Inc."","CFO","Emily A. Lowery","n/a","n/a","2023","n/a","n/a"
+```

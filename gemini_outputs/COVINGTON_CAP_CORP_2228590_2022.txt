@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","n/a","2022","John B. Pope,"Jr."","n/a","n/a","n/a","n/a"
+"Covington Capital Corporation","n/a","2022","John B. Pope,"Jr."","Common Stock","113350","18.95%","n/a"
+"Covington Capital Corporation","n/a","2022","Pope Family Investments,"LLC"","Common Stock","93805","15.73%","n/a"
+"Covington Capital Corporation","n/a","2022","Meredith W. Pope","Common Stock","56323","9.44%","n/a"
+"Covington Capital Corporation","n/a","2022","Meredith W. Pope,"Trustee"","Common Stock","34222","5.74%","n/a"
+"Covington Capital Corporation","n/a","2022","John Christopher Pope","Common Stock","30777","5.16%","n/a"
+"Covington Capital Corporation","n/a","2022","John Christopher Pope,"Trustee"","Common Stock","18668","3.13%","n/a"
+"Covington Capital Corporation","n/a","2022","JCP III Investments,"LLC"","Common Stock","30777","5.16%","n/a"
+"Covington Capital Corporation","n/a","2022","JCP III Investments,"LLC","John Christopher Pope - Manager"","Common Stock","18668","3.13%","n/a"
+"Covington Capital Corporation","n/a","2022","J Warren Smith","Common Stock","22081","3.70%","n/a"
+"Covington Capital Corporation","n/a","2022","Rhen H. Bass,"Jr."","Common Stock","18879","3.17%","n/a"
+"Covington Capital Corporation","n/a","2022","J Kent Hudson,"Sr."","Common Stock","16531","2.77%","n/a"
+"Covington Capital Corporation","n/a","2022","J Kent Hudson,"Sr."","n/a","16531","2.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Chairman of the Board","John B. Pope,"Jr."","Director","Collins Telephone Company","2022","n/a","n/a"
+"Covington Capital Corporation","Chairman of the Board","John B. Pope,"Jr."","Director","Citizens National Bank","2022","n/a","n/a"
+"Covington Capital Corporation","Director","Rhen H. Bass,"Jr."","Director","Citizens National Bank","2022","President","n/a"
+"Covington Capital Corporation","Director","J Kent Hudson,"Sr."","Director","Citizens National Bank","2022","n/a","n/a"
+"Covington Capital Corporation","Director","J Warren Smith","Director","Citizens National Bank","2022","Certified Public Accountant","n/a"
+"Covington Capital Corporation","Director","James B. Graves,"Jr."","Director","Citizens National Bank","2022","Attorney at Law","n/a"
+"Covington Capital Corporation","Director","Stephen A. Haygood","Director","Citizens National Bank","2022","Physician","n/a"
+```

@@ -1,0 +1,13 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"EMBASSY BANCSHARES,"INC."","Chairman of the Board","Nitin Shah","VP/Secretary","Imperial Investments Inc.","2023","President
+"Imperial Investments Group","Inc."","n/a"
+"EMBASSY BANCSHARES,"INC."","Director","Bhupendra Darji","Partner","Darji Investments LLC","2023","CPA/Consultant","n/a"
+"EMBASSY BANCSHARES,"INC."","Secretary/Treasurer","Josh McLaurin","EVP/CFO","n/a","2023","EVP/CFO
+"Embassy National Bank"","n/a"
+```

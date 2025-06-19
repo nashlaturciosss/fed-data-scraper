@@ -1,0 +1,27 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","following all the specified instructions and format:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2015","MICHAEL A. BEAN","Common Stock","2054","6%","n/a"
+"Citizens Southern Bancshares,"Inc."","Vernon,"Alabama"","2015","Anthony J Burnett","Common Stock","10050","31%","n/a"
+"Citizens Southern Bancshares,"Inc."","Vernon,"Alabama"","2015","Tom J Eskridge","Common Stock","1757","5%","n/a"
+"Citizens Southern Bancshares,"Inc."","Vernon,"Alabama"","2015","Edwin Collins","Common Stock","1934","6%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2015","J. STEVEN ROY","Common Stock","8648","27%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"Alabama"","2015","Michael P McCann","common stk","2567","8%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"AL"","2015","Guy F. Medley","common stk","7847","24%","n/a"
+"Citizens Southern Bancshares,"Inc."","Dothan,"AL"","2015","Michael A. Medley","common stk","7846","24%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Southern Bancshares,"Inc."","Director and President/CEO CFO","ANTHONY J. BURNETT","Director and President/CEO/CFO","Citizens Investments,"LLC"","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","WILLIAM E. COLLINS,"SR"","Chairman","n/a","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Auto Parts","2015","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","TOM J. ESKRIDGE","President","Eskridge Trucking Co.,"Inc."","2015","President/Owner of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Board Secretary","BEVERLY D. FARLEY","Board Secretary","n/a","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","VP/Compliance Officer","Edwin Collins","n/a","n/a","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","ROGER PETERSON","Director","SunSouth Bancshares,"Inc."","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","ROGER PETERSON","Director","SunSouth Bank","2015","n/a","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director and Chairman","SunSouth Bancshares,"Inc."","2015","CFO of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director and Chairman","Chilin Group,"LLC"","2015","CFO of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Director","SunSouth Bank","2015","CFO of Private Trucking Company","n/a"
+"Citizens Southern Bancshares,"Inc."","Director","J. STEVEN ROY","Chief Financial Officer","AAA Cooper Transportation","2015","CFO of Private Trucking Company","n/a"
+```

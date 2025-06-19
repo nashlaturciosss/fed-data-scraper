@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Oculina Banc Corp","Vero Beach,"FL"","2016","Jeffrey A. Maffett","Common Stock","1074866","62.27%","3721511"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Oculina Banc Corp","Director","Beverly Butt","n/a","ABC Realty","2016","Realtor","n/a"
+"Oculina Banc Corp","Director","William F. Donovan","President","William F Donovan CPA","2016","CPA","n/a"
+"Oculina Banc Corp","Director","William F. Donovan","n/a","Donovan Fogal (Rental Properties)","2016","CPA","n/a"
+"Oculina Banc Corp","Director","William F. Donovan","n/a","Fogal","2016","CPA","n/a"
+"Oculina Banc Corp","Director","William F. Donovan","n/a","Freedom Investments","2016","CPA","n/a"
+"Oculina Banc Corp","Director","Robert Fix,"PhD"","Director","Meadowbrook","2016","Retired","n/a"
+"Oculina Banc Corp","Director","Dale Harrison","n/a","n/a","2016","Retired Farmer","n/a"
+"Oculina Banc Corp","Director","Rick Hurley","Director","Becker Holdings Corp","2016","Vice President Becker Holdings","n/a"
+"Oculina Banc Corp","Director","Annette J Maffett","n/a","n/a","2016","Director of Oculina Bank","n/a"
+"Oculina Banc Corp","Chairman & President","Jeffrey A. Maffett","Director & Chm&Pres","Oculina Bank","2016","Chm/Pres of Oculina Bank","n/a"
+"Oculina Banc Corp","Director","Bernard P. Spearman","n/a","Oculina Bank","2016","Retired Executive from Dayton Adhesive Products","n/a"
+```

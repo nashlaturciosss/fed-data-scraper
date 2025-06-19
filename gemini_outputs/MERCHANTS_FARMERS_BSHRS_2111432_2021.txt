@@ -1,0 +1,22 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2021","Mary B Garnand","n/a","7839","14.5460%","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2021","Family Trust of James Oliver Banks,"Jr."","n/a","3121","5.7913%","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Eutaw,"AL"","2021","Ernestelle P. Durrett","n/a","3113","5.7765%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants and Farmers Bancshares,"Inc."","Director","Kevin Jockisch","n/a","Joe's Repair Shop","2021","Repair Service","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Director","Alvis Storey","n/a","n/a","2021","Retired Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","CEO & Board Chairman","Ralph R. Banks,"III"","n/a","n/a","2021","Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","CEO & Board Chairman","Ellen N. Banks","n/a","n/a","2021","Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Director","Ralph L. Liverman","n/a","n/a","2021","Retired Attorney","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Director","Gavin Edgar","n/a","n/a","2021","Retired Merchant","n/a"
+"Merchants and Farmers Bancshares,"Inc."","President & Director","Daniel M. Garnand","n/a","n/a","2021","Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","President & Director","Mary B Garnand","n/a","n/a","2021","Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","President & Director","James B Garnand","n/a","n/a","2021","Banker","n/a"
+"Merchants and Farmers Bancshares,"Inc."","Vice President,"Cashier & Director"","Andrew Harrison Banks","n/a","n/a","2021","Banker","n/a"
+```

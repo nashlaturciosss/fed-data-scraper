@@ -1,20 +1,24 @@
-Here are the two requested CSV tables:
+"Here are the two requested CSV tables","extracted from the provided document:"
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Central Georgia Banking Company","Cochran","2014","Jo Anne Phillips Ard","n/a","13","7.03%"
-"Central Georgia Banking Company","Cochran","2014","Marcella Cochran","n/a","13","7.03%"
-"Central Georgia Banking Company","Cochran","2014","Anne Phillips Davis","n/a","17","9.19%"
-"Central Georgia Banking Company","Cochran","2014","Randi M. Phillips","n/a","17","9.19%"
-"Central Georgia Banking Company","Cochran","2014","Leo L. Phillips,"III"","n/a","17","9.19%"
-"Central Georgia Banking Company","Cochran","2014","Kathryn P. Collier","n/a","13","7.03%"
-"Central Georgia Banking Company","Cochran","2014","Leo L. Phillips,"Jr."","n/a","23","12.43%"
-"Central Georgia Banking Company","Cochran","2014","John R. Phillips","n/a","35","18.92%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Central Georgia Banking Company","Cochran,"GA"","2014","Jo Anne Phillips Ard","n/a","13","7.03%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Marcella Cochran","n/a","13","7.03%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Anne Phillips Davis","n/a","17","9.19%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Randi M. Phillips","n/a","17","9.19%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Leo L. Phillips,"III"","n/a","17","9.19%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Kathryn P. Collier","n/a","13","7.03%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","Leo L. Phillips,"Jr."","n/a","23","12.43%","3184125."
+"Central Georgia Banking Company","Cochran,"GA"","2014","John R. Phillips","n/a","35","18.92%","3184125."
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Central Georgia Banking Company","Chairman of the Board","John R. Phillips","Chairman of the Board","State Bank of Cochran","2014"
-"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Director","State Bank of Cochran","2014"
-"Central Georgia Banking Company","President","Jackie L. Bowen","President","State Bank of Cochran","2014"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Central Georgia Banking Company","Chairman of the Board","John R. Phillips","Chairman of the Board","Cochran Oil Mill & Ginnery","2014","Businessman","n/a"
+"Central Georgia Banking Company","Chairman of the Board","John R. Phillips","Partner","Phillips & Phillips","2014","Businessman","n/a"
+"Central Georgia Banking Company","Chairman of the Board","John R. Phillips","Partner","Phillips Farm","2014","Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","President","Cochran Oil Mill & Ginnery","2014","Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips & Phillips","2014","Businessman","n/a"
+"Central Georgia Banking Company","Director/Secretary","Leo L. Phillips,"Jr."","Partner","Phillips Farm","2014","Businessman","n/a"
+"Central Georgia Banking Company","President","Jackie L. Bowen","n/a","n/a","2014","President,"State Bank of Cochran"","n/a"
 ```

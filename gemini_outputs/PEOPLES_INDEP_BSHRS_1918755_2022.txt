@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2022","Betty B Buchanan","Shares of Common Stock","19486","11.00%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2022","Phillip Amberson","Shares of Common Stock","24453","13.81%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2022","Patty Handley","Shares of Common Stock","10000","5.65%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2022","Tommy Handley","Shares of Common Stock","11396","6.43%","n/a"
+"Peoples Independent Bancshares,"Inc."","Boaz,"AL"","2022","Royce G. Ogle","Shares of Common Stock","20096","11.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","Vice President","Handley Construction Co.,"Inc."","2022","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","n/a","Property Development of Marshall Co.","2022","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Tommy Handley","n/a","Handley Management & Development Co.","2022","Construction","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steve Davis","Vice President","BPI Media Group","2022","Printing","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Phillip Amberson","Director & CEO","Amberson Clothing,"Inc."","2022","Retail","n/a"
+"Peoples Independent Bancshares,"Inc."","Director","Steven R. Knowles","n/a","Ameriprise Financial Service","2022","Certified Financial Planner","n/a"
+"Peoples Independent Bancshares,"Inc."","President & Chairman of the Board","Royce G. Ogle","n/a","n/a","2022","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","Secretary,"Board of Directors"","Jack Hancock","Executive Vice President","n/a","2022","Bank Management","n/a"
+"Peoples Independent Bancshares,"Inc."","None","Betty B. Buchanan","n/a","n/a","2022","Retired","n/a"
+"Peoples Independent Bancshares,"Inc."","None","Patty Handley","Secretary","n/a","2022","Construction","n/a"
+```

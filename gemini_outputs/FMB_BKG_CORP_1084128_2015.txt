@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Banking Corporation","Monticello,"FL"","2015","FMB Banking Corporation Employee Stock Ownership Plan w/401K Provisions","Common Stock","52797","13.51%","n/a"
+"FMB Banking Corporation","Monticello,"FL"","2015","Edward H. Carraway","Common Stock","48249","12.30%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2015","F. Wilson Carraway,"III"","Common Stock","46956","12.01%","n/a"
+"FMB Banking Corporation","Monticello,"FL"","2015","Renee Carraway Taylor","Common Stock","45945","11.76%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2015","Caroline Carraway Sutton","Common Stock","45708","11.70%","n/a"
+"FMB Banking Corporation","Tallahassee,"FL"","2015","Elisabeth L. Carraway Neilson","Common Stock","44626","11.42%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Banking Corporation","Director","Joseph J. Audie,"Jr."","n/a","Marble Medical","2015","Marble Medical","n/a"
+"FMB Banking Corporation","Director","Fred H. Beshears","n/a","Simpson Nurseries","2015","Simpson Nurseries President","n/a"
+"FMB Banking Corporation","Director/Treasurer","Edward H. Carraway","n/a","Farmers & Merchants Bank","2015","Vice President Farmers & Merchants Bank","n/a"
+"FMB Banking Corporation","Director/Chairman","F. Wilson Carraway,"III"","Chairman","Farmers & Merchants Bank","2015","Chairman Farmers & Merchants Bank","n/a"
+"FMB Banking Corporation","Director","Ian C. Donkin","President/CEO","Farmers & Merchants Bank","2015","President/CEO Farmers & Merchants Bank","n/a"
+"FMB Banking Corporation","Director","Gene D. Lord","n/a","Farmers & Merchants Bank","2015","n/a","n/a"
+"FMB Banking Corporation","Director","E. Edward Murray,"Jr."","President/Broker","TALCOR Commercial Real Estate","2015","TALCOR Commercial Real Estate President/Broker","n/a"
+"FMB Banking Corporation","Director/President","R. Michael Sims","n/a","Farmers & Merchants Bank","2015","n/a","n/a"
+"FMB Banking Corporation","Director","Caroline C. Sutton","Vice President","Farmers & Merchants Bank","2015","Vice President Farmers & Merchants Bank","n/a"
+"FMB Banking Corporation","Director","Thomas B. Walker,"Jr."","n/a","Farmers & Merchants Bank","2015","Cattleman/Dairyman","n/a"
+"FMB Banking Corporation","n/a","FMB Banking Corporation Employee Stock Ownership Plan w/401K Provisions","n/a","n/a","2015","n/a","n/a"
+"FMB Banking Corporation","n/a","Renee Carraway Taylor","n/a","n/a","2015","n/a","n/a"
+"FMB Banking Corporation","n/a","Elisabeth L. Carraway Neilson","n/a","n/a","2015","n/a","n/a"
+```

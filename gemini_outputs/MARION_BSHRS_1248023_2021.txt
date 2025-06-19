@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2021","Geneva Blackburn","n/a","13500","11.04%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2021","Robert Walthall","n/a","8031","6.57%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2021","Charles Dunkin","n/a","7403","6.06%","n/a"
+"Marion Bancshares,"Inc."","Birmingham,"Alabama"","2021","Mary King Dunkin","n/a","6274","5.13%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Marion Bancshares,"Inc."","Chairman,"Director"","Sam Givhan","Farmer","n/a","2021","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Sam Givhan","n/a","Givhan Land and Cattle Company","2021","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Sam Givhan","n/a","Sam P. Givhan,"Partnership","LP"","2021","Farmer","n/a"
+"Marion Bancshares,"Inc."","Director","Roy Barnett,"Jr."","Retired Business Owner","n/a","2021","Retired Business Owner","n/a"
+"Marion Bancshares,"Inc."","Director","Charles Dunkin","CEO","Dunkin / Lewis,"Inc."","2021","CEO - Dunkin / Lewis,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","Bruce Fuller","CEO","Fuller Building & Supply Co.,"Inc."","2021","CEO - Fuller Building & Supply Co.,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","Robert C. Walthall","Partner","Jones Walker","2021","Attorney","n/a"
+"Marion Bancshares,"Inc."","Director","R. Guy Davis","Pres/CEO/Director","Marion Community Bank","2021","Banker","n/a"
+"Marion Bancshares,"Inc."","Director","James L. Parnell","Partner","Parnell,"Inc."","2021","Partner - Parnell,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","James L. Parnell","President","Alfa Insurance","2021","Partner - Parnell,"Inc."","n/a"
+"Marion Bancshares,"Inc."","Director","Geneva Blackburn","Retired Medical Technologist","UAB Hospital","2021","Retired Medical Technologist,"UAB Hospital"","n/a"
+"Marion Bancshares,"Inc."","Director","Leslie D. Sanders","Vice President","Alabama Power Company","2021","Vice President - Alabama Power Company","n/a"
+"Marion Bancshares,"Inc."","Director","Kirk Stokes","President","Stokes Automotive","2021","President - Stokes Automotive","n/a"
+"Marion Bancshares,"Inc."","Director","James Patterson","President","Dallas Airconditioning & Heating","2021","President - Dallas Airconditioning & Heating","n/a"
+```

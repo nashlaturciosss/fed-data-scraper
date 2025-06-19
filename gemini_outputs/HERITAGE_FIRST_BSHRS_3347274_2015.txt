@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Atlanta,"GA"","2015","Andrew Heaner","Common Stock","1389164","26.01%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2015","Wayne Vick","Common Stock","516667","9.67%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2015","Kenneth Davis","Common Stock","496203","9.29%","3347274"
+"Heritage First Bancshares,"Inc."","Rome,"GA"","2015","Larry Martin","Common Stock","358075","6.70%","3347274"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage First Bancshares,"Inc."","Director","Helmut H. Cawthon","n/a","Shoney's of Rome D/B/A The Country Sportman","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Chairman","Dr Kenneth F. Davis","Chairman","Harbin Clinic","2015","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Director","Ryan P. Ernest","n/a","n/a","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","Andrew C. Heaner","CEO","Allstar Financial Group","2015","Insurance","3347274"
+"Heritage First Bancshares,"Inc."","Director","Clinton G. Hubbard","Director","IOMAX,"USA","Inc."","2015","Executive","3347274"
+"Heritage First Bancshares,"Inc."","Director","Kimberly G. Mauer","RN","Redmond Medical Center","2015","Medical","3347274"
+"Heritage First Bancshares,"Inc."","Director","Laura H. Mumber","n/a","n/a","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","David M. Parker","Owner","Parker Systems,"LLC"","2015","Telecommunications","3347274"
+"Heritage First Bancshares,"Inc."","CFO","Charles W. Thornton Jr.","n/a","n/a","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","Wayne E. Vick","n/a","n/a","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director","Thad W. Watters Sr.","n/a","n/a","2015","n/a","3347274"
+"Heritage First Bancshares,"Inc."","Director & CEO","Gregory C. Wilkes","n/a","n/a","2015","n/a","3347274"
+```

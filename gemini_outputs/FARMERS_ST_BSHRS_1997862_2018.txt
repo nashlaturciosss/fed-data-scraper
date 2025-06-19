@@ -1,0 +1,18 @@
+Here are the two tables in CSV format as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2018","John Howard Muse","n/a","3518","6.67%","n/a"
+"Farmers State Bancshares,"Inc."","Mountain City,"TN"","2018","John Howard Muse","n/a","3518","6.67%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers State Bancshares,"Inc."","Vice Chairman of the Board and Director","Dr. Sam B. Adams,"Jr."","Owner","Adams Pharmacy","2018","Owner Adams Pharmacy","n/a"
+"Farmers State Bancshares,"Inc."","Director","William P. McGuire","Partner","Cunningham & McGuire","2018","Retired","n/a"
+"Farmers State Bancshares,"Inc."","President & CEO/Director and Chairman of the Board","John Howard Muse","n/a","n/a","2018","Banking","105530"
+"Farmers State Bancshares,"Inc."","Director","James W Vincill","n/a","n/a","2018","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Dorothy Shupe","n/a","n/a","2018","Retired","n/a"
+"Farmers State Bancshares,"Inc."","Director","Daniel Cullop","Owner","Mountain City Funeral Home","2018","Funeral Home Owner","n/a"
+"Farmers State Bancshares,"Inc."","Director","David D. Arnold","n/a","n/a","2018","Banking","n/a"
+```

@@ -1,0 +1,16 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Covington Capital Corporation","Collins,"MS"","2019","Daniel L. Broadfoot","Common Stock","2614","5.14%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2019","John B. Pope,"Jr."","Common Stock","10219","20.08%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2019","Bobby T. Sullivan","Common Stock","9806","19.27%","n/a"
+"Covington Capital Corporation","Collins,"MS"","2019","Jack R. Gibson","Common Stock","3397","6.67%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Covington Capital Corporation","Director","Daniel L. Broadfoot","n/a","None","2019","Sales","n/a"
+"Covington Capital Corporation","Director","John B. Pope,"Jr."","President","Pope Co. Inc,","2019","Merchant","n/a"
+"Covington Capital Corporation","Director","Bobby T. Sullivan","Owner","Sullivan Ready Mix","2019","Owner","n/a"
+"Covington Capital Corporation","Director","Jack R. Gibson","n/a","None","2019","Retired","n/a"
+"Covington Capital Corporation","Director","John B. Pope. III","n/a","None","2019","Fire Chief","n/a"
+"Covington Capital Corporation","Director","Robert G. Sullivan","n/a","Sullivan Trucking","2019","Truck/Business","n/a"
+```

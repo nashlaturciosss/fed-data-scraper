@@ -1,0 +1,26 @@
+"Okay","here are the requested CSV tables extracted from the document","formatted as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Miami Bancorp,"Inc."","Golf,"IL"","2017","Arthur Michael Wirtz III","common stock","6281","7.20%","1250370"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2017","James Henry Wirtz","common stock","6281","7.20%","1250370"
+"First Miami Bancorp,"Inc."","Glenview,"IL"","2017","Laura Wirtz Jenkins","common stock","6282","7.20%","1250370"
+"First Miami Bancorp,"Inc."","South Miami,"FL"","2017","Bruce Wirtz MacArthur","common stock","8015","9.19%","1250370"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2017","Peter R. Wirtz (1)","common stock","10748","12.32%","1250370"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2017","FNBSM As Trustee of the TUIA of V. Wirtz FBO Elizabeth Wirtz","common stock","6000","6.88%","1250370"
+"First Miami Bancorp,"Inc."","Chicago,"IL"","2017","Karen Wirtz Fix","common stock","5375","6.16%","1250370"
+"First Miami Bancorp,"Inc."","Lake Forest,"IL"","2017","Virginia MacArthur Jenner Trust 07/22/86","common stock","6015","6.89%","1250370"
+"First Miami Bancorp,"Inc."","Scottsdale,"AR"","2017","Gail Wirtz Costello","common stock","5896.5","6.76%","1250370"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Co-Chairman","Breakthru Beverage Group","2017","President,"Wirtz Corporation"","1250370"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","Chicago Blackhawks","2017","President,"Wirtz Corporation"","1250370"
+"First Miami Bancorp Inc.","Chairman,"President & Director"","W. Rockwell Wirtz","Chairman","First Security Trust & Savings Bank","2017","President,"Wirtz Corporation"","1250370"
+"First Miami Bancorp Inc.","Vice President & Director","Bruce Wirtz MacArthur","Vice President","Wirtz Realty Company","2017","Chairman of the Board & CEO,"First National Bank of South Miami"","1250370"
+"First Miami Bancorp Inc.","Treasurer & Director","Drew A. Dammeier","President","First National Bank of South Miami","2017","President,"FNBSM/EVP","First Security Trust and Savings Bank"","1250370"
+"First Miami Bancorp Inc.","Director","Arthur M. Wirtz,"III"","n/a","Breakthru Beverage Group","2017","Executive Vice President","1250370"
+"First Miami Bancorp Inc.","Director","Daniel R. Wirtz","n/a","Breakthru Beverage Group","2017","Vice-Chairman","1250370"
+"First Miami Bancorp Inc.","None","Peter R. Wirtz","n/a","Bismarck Enterprises","2017","President","1250370"
+```

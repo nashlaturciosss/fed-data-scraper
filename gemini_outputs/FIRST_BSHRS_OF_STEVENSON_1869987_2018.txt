@@ -1,0 +1,32 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","following all instructions precisely:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Nokomis,"FL"","2018","Walter Russell Bogart III","Common","12976","8.05%","n/a"
+"First Bancshares of Stevenson,"Inc."","Stevenson,"AL"","2018","Carolyn Hall","Common","12456","7.73%","n/a"
+"First Bancshares of Stevenson,"Inc."","Newnan,"GA"","2018","Holbert & Julia Hale","Common","12347","7.66%","n/a"
+"First Bancshares of Stevenson,"Inc."","Scottsboro,"AL"","2018","Jack B Lovelady","Common","12000","7.45%","n/a"
+"First Bancshares of Stevenson,"Inc."","Hollywood,"AL"","2018","Dorothy Williams Trust","Common","10000","6.21%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bancshares of Stevenson,"Inc."","Director Pres/CEO","Mike Ellenburg","n/a","n/a","2018","Banker","n/a"
+"First Bancshares of Stevenson,"Inc."","Director Chairman","Carolyn Hall","n/a","n/a","2018","Sales Rep.","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","John E. Rudder","President","Rudder Funeral Home","2018","Funeral Director","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Bryan Hicks","n/a","n/a","2018","Pharmacist","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Randy Wright","n/a","n/a","2018","Farmer","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Tommy Harding","President","Harding Insurance","2018","Insurance","n/a"
+"First Bancshares of Stevenson,"Inc."","Director Secretary","Jack Lovelady","n/a","n/a","2018","Banker","n/a"
+"First Bancshares of Stevenson,"Inc."","Director SVP","Jack Lovelady","n/a","n/a","2018","Banker","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Danny Crownover","n/a","n/a","2018","Banker","n/a"
+"First Bancshares of Stevenson,"Inc."","Director SVP","Danny Crownover","n/a","n/a","2018","Banker","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Ralph Hall","n/a","n/a","2018","Retired","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Lindsey Brothers","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Morton Bend Farms LLC","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Coosa River Land Co.","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Osceola Farms LLC","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Kershaw Quarters LLC","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Richard Lindsey","n/a","Farm & Land Management LLC","2018","State Representative","n/a"
+"First Bancshares of Stevenson,"Inc."","Director","Scott Kirk","n/a","Sandmont Specialty","2018","Banker","n/a"
+```

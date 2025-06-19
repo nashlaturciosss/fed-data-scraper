@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2020","W. Jeffrey Turner","Common Stock","50015","8.6%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2020","Marcus C. Long","Common Stock","35000","6.0%","n/a"
+"Community Bank of Georgia,"Inc."","Baxley,"GA"","2020","Lamar R. Turner","Common Stock","30000","5.2%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community Bank of Georgia,"Inc."","Director","Mike Cleland","n/a","n/a","2020","Retired Engineer","n/a"
+"Community Bank of Georgia,"Inc."","Director","Mike Cleland","Director","Community Bank of Georgia","2020","Retired Engineer","n/a"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","Owner","Douglas & Harper Mfg Co.,"Inc."","2020","Manufacturing .Distribution","n/a"
+"Community Bank of Georgia,"Inc."","Director","David G. Douglas","Director","Community Bank of Georgia","2020","Manufacturing .Distribution","n/a"
+"Community Bank of Georgia,"Inc."","Director","William W. Eason","n/a","n/a","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","William W. Eason","Director","Community Bank of Georgia","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director/CFO/Secretary","Randy Hicks","n/a","n/a","2020","CFO of the Bank and HC/Secretary","n/a"
+"Community Bank of Georgia,"Inc."","Director/CFO/Secretary","Randy Hicks","Director","Community Bank of Georgia","2020","CFO of the Bank and HC/Secretary","n/a"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","President","J. Alexander Johnson","2020","Attorney","n/a"
+"Community Bank of Georgia,"Inc."","Director","Alex Johnson","Director","Community Bank of Georgia","2020","Attorney","n/a"
+"Community Bank of Georgia,"Inc."","Chairman/Director","Marcus C. Long","n/a","n/a","2020","Certified Public Accountant","n/a"
+"Community Bank of Georgia,"Inc."","Chairman/Director","Marcus C. Long","Chairman","Community Bank of Georgia","2020","Certified Public Accountant","n/a"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Owner & President","Mathews Trucking,"Inc."","2020","Trucking Company/Farming","n/a"
+"Community Bank of Georgia,"Inc."","Director","Robert E. Mathews","Director","Community Bank of Georgia","2020","Trucking Company/Farming","n/a"
+"Community Bank of Georgia,"Inc."","Director","Harold E. Rentz,"DMD"","Owner","Harold E Rentz Jr DMD","2020","Dentist","n/a"
+"Community Bank of Georgia,"Inc."","Director","Harold E. Rentz,"DMD"","Director","Community Bank of Georgia","2020","Dentist","n/a"
+"Community Bank of Georgia,"Inc."","Director","James R. Rentz","n/a","n/a","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","James R. Rentz","Director","Community Bank of Georgia","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director/President/CEO","Kelly Stone","n/a","n/a","2020","President/CEO of the Bank and HC","n/a"
+"Community Bank of Georgia,"Inc."","Director/President/CEO","Kelly Stone","Director","Community Bank of Georgia","2020","President/CEO of the Bank and HC","n/a"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turmer","Owner","Turmer Farms","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","Jeffery Turmer","Director","Community Bank of Georgia","2020","Farmer","n/a"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","n/a","n/a","2020","Business Machine/Low Volteage Contractor","n/a"
+"Community Bank of Georgia,"Inc."","Director","Lamar Turner","Director","Community Bank of Georgia","2020","Business Machine/Low Volteage Contractor","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","President-Co-Owner","White Electric,"Inc."","2020","Electrical Contracting Company","n/a"
+"Community Bank of Georgia,"Inc."","Director","Ronnie White","Director","Community Bank of Georgia","2020","Electrical Contracting Company","n/a"
+```

@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Bank of Wauchula","Wauchula,"Fl"","2014","F L Revell,"Jr."","common stock","6663","80%","2376558"
+"First National Bank of Wauchula","Wauchula,"Fl"","2014","Oneita Revell","common stock","600","7%","2376558"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Bank of Wauchula","shareholder/director","F L Revell,"Jr"","director","Florida Fence Post Co","2014","manufacturing","2376558"
+"First National Bank of Wauchula","shareholder/director","F L Revell,"Jr"","director","FL Revell,"Inc."","2014","manufacturing","2376558"
+"First National Bank of Wauchula","shareholder/director","F L Revell,"Jr"","director","FL Revell Ranch & Groves","2014","manufacturing","2376558"
+"First National Bank of Wauchula","shareholder/director","F L Revell,"Jr"","director","Brushy Creek Corp","2014","manufacturing","2376558"
+"First National Bank of Wauchula","Shareholder/director VP/Director","M E Wilkins","n/a","n/a","2014","banker","2376558"
+"First National Bank of Wauchula","shareholder/director","Kenneth B. Evers","Chairman/Director","Kenneth B. Evers PA","2014","attorney","2376558"
+"First National Bank of Wauchula","shareholder/director President/Director","Richard K Justice","n/a","n/a","2014","banker","2376558"
+"First National Bank of Wauchula","Golf Course Owner shareholder/director","William R Lambert","director","Torry Oaks Golf Course","2014","EDC Director","2376558"
+"First National Bank of Wauchula","banker","Debbie Wheeler","secretary","n/a","2014","Sr. VP & COO","2376558"
+```

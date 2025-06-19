@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC"","Shelbyville,"Tennessee"","2021","J.T. Darnell","Common Stock","261772","11.71%","n/a"
+"FIRST COMMUNITY BANCORP,"INC"","Shelbyville,"Tennessee"","2021","Kathleen Coldwell McGrew Canady","Common Stock","102095","8.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST COMMUNITY BANCORP,"INC"","President/Director; CEO - First Community Bank; Director - First Community Bank; Director - First Community Mortgage Co. Inc.","Scott Cocanougher","n/a","n/a","2021","Banker","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank; Director - First Community Mortgage Co. Inc.","William T. Clifford","n/a","n/a","2021","Retired Banker","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Barry D. Cooper","1/2 owner of Cooper Properties","Cooper Properties","2021","Retired Steel Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Principal Shareholder; Principal Shareholder","J. T. Darnell Shelbyville","Retired","n/a","2021","Retired Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Thurman Lee Adcock","Chief Manager - Adcock Design Build and Lease LLC; 1/3 owner of ARD Properties; Part Owner of Popular Hill LLC","Adcock Design Build and Lease LLC","2021","Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Thurman Lee Adcock","Chief Manager - Adcock Design Build and Lease LLC; 1/3 owner of ARD Properties; Part Owner of Popular Hill LLC","ARD Properties","2021","Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Thurman Lee Adcock","Chief Manager - Adcock Design Build and Lease LLC; 1/3 owner of ARD Properties; Part Owner of Popular Hill LLC","Popular Hill LLC","2021","Contractor","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","James Clark Shelbyville","n/a","n/a","2021","Retired Dentist","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Mark Cannon","Cannon Properties","Cannon Properties","2021","Retired from Verizon","1188772"
+"FIRST COMMUNITY BANCORP,"INC"","Director; Director - First Community Bank","Keith Canter","n/a","n/a","2021","CEO First Community Mortgage,"Inc"","1188772"
+```

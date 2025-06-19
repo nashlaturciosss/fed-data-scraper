@@ -1,0 +1,19 @@
+"Here are the two tables extracted from the document in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Autry Gobbell","CEO,"Chairman & President"","n/a","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Tommy Martin","Director","n/a","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Gailand Grinder","Director & Secretary","n/a","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Carl Skelton","Director","n/a","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Kelvin Runions","Director","n/a","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Andrew Yarbrough","Director","Attorney","Andrew Yarbrough Attorney at Law","2023","Attorney","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Larry Jeter","Director","n/a","n/a","2023","Retired","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Harry Floyd","Director","Director","Harry Floyd Livestock","2023","Livestock Dealer","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Hayley Inman","n/a","CFO","n/a","n/a","2023","n/a","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Greg Floyd","Director","Director","n/a","2023","Livestock Dealer","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Cal Gobbell","Director","Director","GMH Logistics","2023","Business Owner","n/a"
+"PB Bancshares,"Inc."","Clifton,"TN"","2023","Carol Culp","Director","Director","n/a","2023","CPA","n/a"
+```

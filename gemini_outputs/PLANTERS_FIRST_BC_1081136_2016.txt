@@ -1,0 +1,43 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Dorothy Cook Way","n/a","150.00","0.18%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","S A Way Childrens Trust","n/a","15282.00","18.76%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","John Daniel Way","n/a","5553.50","6.82%"
+"Planters First Bancorp","Alexandria,"USA"","2016","Mary Ann Way","n/a","1206.50","1.48%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","S A Way III","n/a","5978.50","7.34%"
+"Planters First Bancorp","n/a","2016","Robert Franklin Way","n/a","1266.00","1.55%"
+"Planters First Bancorp","Perry,"USA"","2016","Robert F Way Family Trust","n/a","4098.00","5.03%"
+"Planters First Bancorp","Atlanta,"USA"","2016","Elizabeth Way Chandler","n/a","3534.25","4.34%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Felton Hatcher Way","n/a","3534.25","4.34%"
+"Planters First Bancorp","Atlanta,"USA"","2016","Albert Glover Way","n/a","3534.25","4.34%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Mary Lynde Way","n/a","235.00","0.29%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","RT Way","n/a","1707.50","2.10%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Ramsey T Way Jr.","n/a","3534.25","4.34%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Woodson Daniel","n/a","2876.00","3.53%"
+"Planters First Bancorp","Hawkinsville,"USA"","2016","Allene Daniel","n/a","1640.00","2.01%"
+"Planters First Bancorp","Warner Robins,"USA"","2016","R Wayne Lowe","n/a","20082.00","24.65%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Planters First Bancorp","Director","Woodson Daniel","Director Emeritus","PlantersFIRST Board","2016","RETIRED","n/a"
+"Planters First Bancorp","Director","Robert F. Way","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Vice Chairman Board of Directors","Robert F. Way","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Director","Robert F Way,"Trustee"","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Vice Chairman Board of Directors","Robert F Way,"Trustee"","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Director","John D. Way","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Vice President","John D. Way","Director","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Director","John W. Bembry,"DVM"","n/a","Bembry Vet Clinic","2016","VETERINARIAN","n/a"
+"Planters First Bancorp","Director","W. Cole Woodroof","EVP","Planters FIRST","2016","NONE","n/a"
+"Planters First Bancorp","Director","Tommy Thompson Jr","n/a","Central Ga Appraisals","2016","Appraiser","n/a"
+"Planters First Bancorp","Director","Dorothy Cook Way","n/a","n/a","2016","NONE","n/a"
+"Planters First Bancorp","NONE","S A Way Childrens Trust","n/a","n/a","2016","NONE","n/a"
+"Planters First Bancorp","Sam Way Chairman of the Board","S A Way III","n/a","n/a","2016","NONE","n/a"
+"Planters First Bancorp","Director","RT Way Jr","Partner","Way & Way LLP","2016","Lawyer","n/a"
+"Planters First Bancorp","Director","R.T. Way,"SR"","President","Way Finance Inc.","2016","Auto Dealership","n/a"
+"Planters First Bancorp","Director","R.T. Way,"SR"","President","Way Brothers,"Inc."","2016","Auto Dealership","n/a"
+"Planters First Bancorp","NONE","R Wayne Lowe","Owner/ Operator","Lowe Toyota","2016","Auto Dealership","n/a"
+"Planters First Bancorp","President & CEO","T. Heath Fountain","n/a","n/a","2016","NONE","n/a"
+```

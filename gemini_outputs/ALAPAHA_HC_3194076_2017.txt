@@ -1,21 +1,25 @@
-Here are the two CSV tables extracted from the document:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Alapaha Holding Company","Alapaha","2017","Marguerite J. Gaskins Trust","n/a","2200","6.33%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Alapaha","Alapaha,"Georgia"","2017","Marguerite J. Gaskins Trust","n/a","2200","6.33%","3194076"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Alapaha Holding Company","Director","Rickey Carter","Entrepreneur","Nashville Tractor,"Inc."","2017"
-"Alapaha Holding Company","Director","Luther L. Duke,"III"","Entrepreneur","Adel Ice Company,"Inc."","2017"
-"Alapaha Holding Company","Director","James R. Gaskins","n/a","n/a","2017"
-"Alapaha Holding Company","Director","Cecil W. Hill","n/a","n/a","2017"
-"Alapaha Holding Company","President","Kenneth E. Hughes","n/a","n/a","2017"
-"Alapaha Holding Company","Director","Tommy Lee","Farmer & Entrepreneur","Lee Farm Supply,"LLC"","2017"
-"Alapaha Holding Company","Director","Steve McMillan","Farmer","Berrien Peanut Co-","2017"
-"Alapaha Holding Company","Director","C. Dane Perkins","Judge","Troutdale Corporation-","2017"
-"Alapaha Holding Company","Director","Sylvia L. Roberts","n/a","Alapaha Station Celebration,"Inc.-"","2017"
-"Alapaha Holding Company","Director","Daniel L. Studstill-","Attorney","Daniel L. Studstill,"PC"","2017"
-"Alapaha Holding Company","n/a","Erin B. Watson","n/a","n/a","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Alapaha","Director","Rickey Carter","CEO","Nashville Tractor,"Inc."","2017","Entrepreneur","3194076"
+"Bank of Alapaha","Director","Luther L. Duke,"III"","CEO","Adel Ice Company,"Inc."","2017","Entrepreneur","3194076"
+"Bank of Alapaha","Director","Luther L. Duke,"III"","CEO","Hopeful Ice of South Georgia,"Inc."","2017","Entrepreneur","3194076"
+"Bank of Alapaha","Director","James R. Gaskins","n/a","n/a","2017","n/a","3194076"
+"Bank of Alapaha","Director","Cecil W. Hill","n/a","n/a","2017","n/a","3194076"
+"n/a","President","Kenneth E. Hughes","n/a","n/a","2017","n/a","3194076"
+"Bank of Alapaha","Director","Tommy Lee","Managing Member","Lee Farm Supply,"LLC"","2017","Farmer & Entrepreneur","3194076"
+"Bank of Alapaha","Director","Steve McMillan","CEO","Berrien Peanut Co.","2017","Farmer","3194076"
+"Bank of Alapaha","Director","Steve McMillan","CEO","Southern Grace Farms,"Inc."","2017","Farmer","3194076"
+"Bank of Alapaha","Director","C. Dane Perkins","CEO","Troutdale Corporation","2017","Judge","3194076"
+"Bank of Alapaha","Director","C. Dane Perkins","CEO","Perkins Warehouse,"Inc."","2017","Judge","3194076"
+"Bank of Alapaha","Director","Sylvia L. Roberts","CEO","Alapaha Station Celebration,"Inc."","2017","n/a","3194076"
+"Bank of Alapaha","Director","Daniel L. Studstill","CEO","Daniel L. Studstill,"PC"","2017","Attorney","3194076"
+"Bank of Alapaha","Director","Daniel L. Studstill","Member","Studstill Firm,"LLP"","2017","Attorney","3194076"
+"Bank of Alapaha","Director","Daniel L. Studstill","Member","Managers of Dogwood Centre Partners,"LLC."","2017","Attorney","3194076"
+"Bank of Alapaha","CFO","Erin B. Watson","n/a","n/a","2017","n/a","3194076"
 ```

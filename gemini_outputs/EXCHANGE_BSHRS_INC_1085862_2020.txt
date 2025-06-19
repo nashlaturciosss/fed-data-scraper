@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Exchange Bankshares,"Inc."","Atlanta,"GA"","2020","William D. Morrison,"Jr."","n/a","45456","7.45%","n/a"
+"Exchange Bankshares,"Inc."","New York,"NY"","2020","CEDE & Co.","n/a","85539","14.01%","n/a"
+"Exchange Bankshares,"Inc."","Milledgeville,"GA"","2020","Morrison Family Partnership LP","n/a","89080","14.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Exchange Bankshares,"Inc."","Chairman of the Board","William R. Allen","Owner","Allen Construction Company","2021","Contractor","n/a"
+"Exchange Bankshares,"Inc."","n/a","CEDE & CO.","n/a","n/a","2021","n/a","n/a"
+"Exchange Bank","President/CEO","John C. Childs,"Jr."","n/a","n/a","2021","President/CEO","n/a"
+"Exchange Bank","President- Moores Funeral Home Inc.","William M. Couey","Funeral Director and Cemeterian","Moores Funeral Home","2021","Funeral Director and Cemeterian","n/a"
+"Exchange Bank","Georgia College Director of Community Engagement","John W. Grant,"III"","Vice Chairman of the Board","Georgia College","2021","Georgia College Director of Community Engagement","n/a"
+"Exchange Bank","n/a","Dr. John F. Harrington,"Jr."","Dentist","John F. Harrington,"Jr. DDS"","2021","Dentist","n/a"
+"Exchange Bank","n/a","Morrison Family Partnership LP","n/a","n/a","2021","n/a","n/a"
+"Exchange Bank","n/a","William D. Morrison,"Jr."","n/a","n/a","2021","n/a","n/a"
+"Exchange Bank","n/a","Randall A. New","Co-Owner/Managing Partner","VBRN Investments","2021","Retail Merchant","n/a"
+"Exchange Bank","n/a","Harvey L. Simpson,"III"","Physician","Navicent Health Baldwin","2021","Physician","n/a"
+"Exchange Bank","n/a","Gregory T. Stephens","Director","n/a","2021","Retired BASF","n/a"
+"Exchange Bank","Executive Vice President","Roy D. Washburn III","Vice President","n/a","2021","Executive Vice President","n/a"
+```

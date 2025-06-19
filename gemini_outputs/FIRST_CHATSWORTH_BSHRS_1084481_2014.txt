@@ -1,0 +1,32 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Chatsworth Bankshares,"Inc."","n/a","2014","JOHN WATERS","n/a","484514","63.48%","1084481"
+"First Chatsworth Bankshares,"Inc."","n/a","2014","FAMILY TOTAL","n/a","28247","3.70%","1084481"
+"First Chatsworth Bankshares,"Inc."","n/a","2014","FAMILY TOTAL","n/a","512761","67.18%","1084481"
+"First Chatsworth Bankshares,"Inc."","n/a","2014","SUN INVESTMENTS,"LLC"","n/a","68617","8.99%","1084481"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","J. ROLAND HARBIN","CHAIRMAN AND DIRECTOR","n/a","2014","CHATSWORTH,"GEORGIA/USA"","450632"
+"First Chatsworth Bankshares,"Inc."","VICE PRESIDENT AND DIRECTOR","BRAD K. ROWE","n/a","n/a","2014","CHATSWORTH,"GEORGIA/ USA"","n/a"
+"First Chatsworth Bankshares,"Inc."","PRESIDENT & CEO; DIRECTOR OF FIRST NATIONAL COMMUNITY BANK","LAURICE TATUM","n/a","n/a","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","EXECUTIVE VICE PRESIDENT AND DIRECTOR; CFO","K. W. GONG","n/a","n/a","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","LAMAR DUNN","n/a","Insurance Service Corporation","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","JERRY PETTY","n/a","Petty Dairy,"Inc."","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","JAMES H. PHILLIPS","n/a","RIDGEFIELD PROPERTIES,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","JAMES H. PHILLIPS","n/a","FIELDS FERRY DEVELOPMENT","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","VICE PRESIDENT & DIRECTOR","BRAD K. ROWE","n/a","n/a","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR,"PRESIDENT & CEO"","LAURICE TATUM","n/a","VENUS PROPERTIES,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","UNITED MINERALS & PROPERTIES DBA CIMBAR PERFORMANCE MINERALS","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","CIMBAR PERFORMANCE MINERALS MV,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","CIMBAR PERFORMANCE MINERALS WV,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","PERFORMATEX,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","C & A GRINDING,"LLC"","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","STACY TOMBLIN","n/a","CIMBAR PERFORMANCE MINERALS INC.","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","MICHAEL TUCK","n/a","n/a","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","JOHN H. WATERS","n/a","BADGER INDUSTRIES,"INC."","2014","n/a","n/a"
+"First Chatsworth Bankshares,"Inc."","DIRECTOR","JOHN H. WATERS","n/a","UNITED MINERALS & PROPERTIES,"INC."","2014","n/a","n/a"
+```

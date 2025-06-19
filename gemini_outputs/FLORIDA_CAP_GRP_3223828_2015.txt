@@ -1,0 +1,35 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Capital Group,"Inc."","Winter Park,"FL"","2015","William Heavener","Common Stock","332565419","53.89%","3223828"
+"Florida Capital Group,"Inc."","Altamonte Springs,"FL"","2015","James T Katsur","Common Stock","74727065","12.11%","3223828"
+"Florida Capital Group,"Inc."","Tampa,"FL"","2015","W. Andrew Krusen,"Jr."","Common Stock","43839903","7.10%","3223828"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Capital Bank,"N.A."","Director","Charles E. Hughes,"Jr."","n/a","n/a","2015","Retired Banking Executive","n/a"
+"Florida Capital Bank,"N.A."","Director","Richard R. Dostie","President","Spartan Development Grp Inc.","2015","Real Estate Developer","n/a"
+"Florida Capital Bank,"N.A."","Managing Member","Richard R. Dostie","President","Spartan Development Grp Inc.","2015","Real Estate Developer","n/a"
+"Florida Capital Bank,"N.A."","Member","Richard R. Dostie","President","Spartan Development Grp Inc.","2015","Real Estate Developer","n/a"
+"Florida Capital Bank,"N.A."","President","Richard R. Dostie","President","Spartan Development Grp Inc.","2015","Real Estate Developer","n/a"
+"Florida Capital Bank,"N.A."","President & CEO","J. Malcolm Jones,"Jr."","President & Owner","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Partner","J. Malcolm Jones,"Jr."","President & Owner","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","W. Andrew Krusen,"Jr."","Director","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Officer & Director","W. Andrew Krusen,"Jr."","Director","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Partner","W. Andrew Krusen,"Jr."","Director","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Managing Member","W. Andrew Krusen,"Jr."","Director","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Member","W. Andrew Krusen,"Jr."","Director","n/a","2015","Private Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","P. Bruce Culpepper","Attorney","Culpepper Kurland,"PLLC"","2015","Attorney","n/a"
+"Florida Capital Bank,"N.A."","Director","M.G. Sanchez","n/a","n/a","2015","Retired Banking Executive/Consultant","n/a"
+"Florida Capital Bank,"N.A."","Director","James W. Heavener","President/Owner","The Heavener Company","2015","Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","Linda McGurn","Officer & Director","n/a","2015","Attorney/CPA","n/a"
+"Florida Capital Bank,"N.A."","Partner","Linda McGurn","Officer & Director","n/a","2015","Attorney/CPA","n/a"
+"Florida Capital Bank,"N.A."","Director","Allan S Martin","Investor","n/a","2015","Investor","n/a"
+"Florida Capital Bank,"N.A."","Managing Member","Allan S Martin","Investor","n/a","2015","Investor","n/a"
+"Florida Capital Bank,"N.A."","General Partner","Allan S Martin","Investor","n/a","2015","Investor","n/a"
+"Florida Capital Bank,"N.A."","Owner","Allan S Martin","Investor","n/a","2015","Investor","n/a"
+"Florida Capital Bank,"N.A."","Director","Dr. James T. Katsur","n/a","n/a","2015","Director","n/a"
+"Florida Capital Bank,"N.A."","Director & EVP Corporate Strategy","Stephen Kunk","n/a","n/a","2015","n/a","n/a"
+"Florida Capital Bank,"N.A."","Chief Credit Officer","J Stewart Baker","n/a","n/a","2015","n/a","n/a"
+```

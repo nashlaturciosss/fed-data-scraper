@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2019","Miller Couse &
+"Couse Farms","Inc."","Common Stock","143671","12.204%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2019","First Bank-ESOP","Common Stock","144726","12.294%","n/a"
+"PIONEER BANKCORP,"INC."","Memphis,"TN"","2019","Henry A Kurtz","Common Stock","59178","5.027%","n/a"
+"PIONEER BANKCORP,"INC."","n/a","2019","AB Financial Services","Common Stock","60607","5.148%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PIONEER BANKCORP,"INC."","President/CEO","Miller Couse","Chairman of the Board","Couse Farms,"Inc."","2019","Chairman of the Board","n/a"
+"PIONEER BANKCORP,"INC."","President/CEO","Miller Couse","Chairman of the Board","Couse Farms,"Inc."","2019","Chairman of the Board","n/a"
+"PIONEER BANKCORP,"INC."","Vice President & Director","Carey Soud","General Partner","Soud Family Partnership","2019","President & CEO","n/a"
+"PIONEER BANKCORP,"INC."","Secretary","Randall N. Wood","n/a","n/a","2019","Sr. Vice President & CFO","n/a"
+"PIONEER BANKCORP,"INC."","Director","Tommy Perry","Owner","Johnson-Prewitt & Associates","2019","Civil Engineer/
+"Land surveyor"","n/a"
+"PIONEER BANKCORP,"INC."","Director","Morris Ridgdill","Owner/President","Ridgdill & Son Construction","2019","Construction/
+"Property Development"","n/a"
+"PIONEER BANKCORP,"INC."","Director","Earle E. Edwards III","Owner/President","Earle E. Edwards III,"DDS"","2019","Orthodontist","n/a"
+"PIONEER BANKCORP,"INC."","Director","Bryan Beer","Owner","Labelle Grove Management","2019","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","Director","Karl E Larsen","Retired","n/a","2019","Retired","n/a"
+"PIONEER BANKCORP,"INC."","Director","Mary Elizabeth Carroll","Partner","Hilliard Brothers of Florida","2019","Agriculture","n/a"
+```

@@ -1,0 +1,15 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Jefferson City,"TN"","2022","John M. Gill","n/a","16531","14.73%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"TN"","2022","David L. Miller","n/a","15716","14.00%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"TN"","2022","R. Lee Montgomery","n/a","15291","13.62%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"TN"","2022","David A. Bryant","n/a","13131","11.69%","n/a"
+"First Peoples Bancorp,"Inc."","Jefferson City,"TN"","2022","Steven D. Amos","n/a","12565","11.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Peoples Bancorp,"Inc."","Director and President","Steven D. Amos","n/a","n/a","2022","n/a","n/a"
+```

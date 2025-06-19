@@ -1,0 +1,32 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Paradise Bancorp,"Inc."","Boca Raton,"FL"","2023","Goldsmith 2012 Irrevocable Trust","n/a","215020","5.32%","n/a"
+"Paradise Bancorp,"Inc."","Long Boat Key,"FL"","2023","Allen D. McGee","n/a","203089","6.91%","n/a"
+"Paradise Bancorp,"Inc."","Davie,"FL"","2023","William Burke","n/a","86936","3.04%","n/a"
+"Paradise Bancorp,"Inc."","Boca Raton,"FL"","2023","Ward Kellogg","n/a","74542","5.13%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Paradise Bancorp,"Inc."","Director Chairman of the Board","Ward Kellogg","Director","n/a","2023","Paradise Bank Chairman,"CEO"","n/a"
+"Paradise Bancorp,"Inc."","Director Vice Chairman President,"COO"","William Burke","Managing Member","Conch Retreat Tools,"LLC"","2023","Paradise Bank President,"COO"","n/a"
+"Paradise Bancorp,"Inc."","Director Vice Chairman President,"COO"","William Burke","Director","Burke Corporate Properties,"LLC"","2023","Paradise Bank President,"COO"","n/a"
+"Paradise Bancorp,"Inc."","Director Trustee","William Burke","n/a","Goldsmith Investments","2023","Paradise Bank President,"COO"","n/a"
+"Paradise Bancorp,"Inc."","Director Director Chief Credit Officer","Dennis Gavin","n/a","n/a","2023","Paradise Bank CCO,"Director"","n/a"
+"Paradise Bancorp,"Inc."","Director Managing Director EVP,"Director"","David Englert","Managing Director","n/a","2023","n/a","n/a"
+"Paradise Bancorp,"Inc."","Director EVP/SBA Manager","Kevin Rafferty","Director","Twin Palms Center for the Disabled","2023","Paradise Bank EVP,"Director"","n/a"
+"Paradise Bancorp,"Inc."","Director EVP/SBA Manager","Kevin Rafferty","Director","FLAGGL Florida Association of Government Guaranteed Lenders","2023","Paradise Bank EVP,"Director"","n/a"
+"Paradise Bancorp,"Inc."","Director CFO,"Director"","Kevin M. Sacket","Treasurer & Member Board of Trustees","National Kidney Foundation of Florida","2023","Paradise Bank CFO,"Director"","n/a"
+"Paradise Bancorp,"Inc."","Director Director","David D. Dickenson","Retired Attorney","Dickenson,"Rex & Sloan","P.A."","2023","Retired Attorney","n/a"
+"Paradise Bancorp,"Inc."","Director Director","David D. Dickenson","Retired Attorney","Dickenson Beach House,"LLC"","2023","Retired Attorney","n/a"
+"Paradise Bancorp,"Inc."","Director Director","Howard Goldsmith","Managing Member","Goldsmith Investment Group,"LLC"","2023","Retired Investor","n/a"
+"Paradise Bancorp,"Inc."","Director Director","Howard Goldsmith","Grantor","Goldsmith 2012 Irrevocable Trust","2023","Retired Investor","n/a"
+"Paradise Bancorp,"Inc."","Director Director","Alien D. McGee","Director","Spin Label Technologies,"Inc."","2023","Retired Investor","n/a"
+"Paradise Bancorp,"Inc."","Director Director","Thomas McMurrain","n/a","n/a","2023","Hospitality Director","n/a"
+"Paradise Bancorp,"Inc."","Director Director","George Robert Toney","Partner","Watchstander,"LLC"","2023","Pres/CEO Marine Services","n/a"
+"Paradise Bancorp,"Inc."","Director Director","George Robert Toney","Partner","ST Liberty,"LLC"","2023","Pres/CEO Marine Services","n/a"
+"Paradise Bancorp,"Inc."","Director Director","George Robert Toney","Owner","Toney Capital Holdings,"LLC"","2023","Pres/CEO Marine Services","n/a"
+"Paradise Bancorp,"Inc."","Director Director","George Robert Toney","Owner","National Maritime Services,"Inc."","2023","Pres/CEO Marine Services","n/a"
+"Paradise Bancorp,"Inc."","Director Director","Lisa R. Wheeler","n/a","n/a","2023","Retired - Finance Director","n/a"
+```

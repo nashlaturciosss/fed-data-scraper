@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2016","G Thomas Peeples","Common Stock","173448","7.86%","2349440"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2016","Bryan Peeples","Common Stock","111544","5.05%","2349440"
+"FBD Holding Company,"Inc."","Dalton,"GA"","2016","Shelby Peeples","Common Stock","752786","34.13%","2349440"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FBD Holding Company,"Inc."","Chairman of FBD Holding Company,"Inc."","K. Scott Fletcher","Executive","Textile Management Associates,"Inc."","2016","Textiles","2349440"
+"FBD Holding Company,"Inc."","Director FBD Holding Company,"Inc."","Ronald D. Keys","n/a","American Sample Systems,"Inc."","2016","Carpet Samples","2349440"
+"FBD Holding Company,"Inc."","Director FBD Holding Company,"Inc."","J. Rodney Ownbey","President","Ownbey Enterprises,"Inc."","2016","Retail Fuel Sales","2349440"
+"FBD Holding Company,"Inc."","Director FBD Holding Company,"Inc."","G. Thomas Peeples","CEO","Universal Textile Technologies,"Inc."","2016","Textiles","2349440"
+"FBD Holding Company,"Inc."","Director FBD Holding Company,"Inc."","Fredrick H. Howalt,"III"","President & Chief Operating Officer","Textile Rubber & Chemical Company,"Inc."","2016","Rubber & Chemical Products","2349440"
+"FBD Holding Company,"Inc."","CEO/President/ Director FBD Holding Company,"Inc."","T. Larry Roye","n/a","n/a","2016","Banking","2349440"
+"FBD Holding Company,"Inc."","Executive Vice President & Chief Lending Officer FBD Holding Company,"Inc."","R. Mitch Sanford","n/a","n/a","2016","Banking","2349440"
+"FBD Holding Company,"Inc."","Executive Vice President & Chief Risk Officer FBD Holding Company,"Inc."","W. Scott Sellers","n/a","n/a","2016","n/a","2349440"
+```

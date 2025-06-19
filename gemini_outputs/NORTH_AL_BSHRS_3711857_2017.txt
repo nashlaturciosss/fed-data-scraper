@@ -1,0 +1,24 @@
+Here are the two CSV tables based on the provided document.
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2017","Hue Counts","Common Stock","28217","16.93%","n/a"
+"North Alabama Bancshares,"Inc."","Fayetteville,"TN"","2017","Charles E. Gleghorn","Common Stock","34317","20.59%","n/a"
+"North Alabama Bancshares,"Inc."","Murfreesboro,"TN"","2017","Joe B Ferrell","Common Stock","12859","7.72%","n/a"
+"North Alabama Bancshares,"Inc."","Mulberry,"TN"","2017","James B Ferrell","Common Stock","12858","7.72%","n/a"
+"North Alabama Bancshares,"Inc."","Hazel Green,"AL"","2017","Estate of Joe L Lasater","Common Stock","10834","6.50%","n/a"
+"North Alabama Bancshares,"Inc."","New Market,"AL"","2017","Roger E Jones","Common Stock","11084","6.65%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","Director & Chairman","TN Valley Reinsurance","2017","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director & Chairman","Charles E. Gleghorn","Director & Chairman","WCS Corporation","2017","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director","Hue Counts","Director","n/a","2017","N/A","n/a"
+"North Alabama Bancshares,"Inc."","Director & EVP","Terry West","Director","n/a","2017","Banker","n/a"
+"North Alabama Bancshares,"Inc."","Director","Roger Jones","Commissioner","n/a","2017","Commissioner","n/a"
+"North Alabama Bancshares,"Inc."","Director","Joe L Lasater,"Jr"","Farmer","n/a","2017","Farmer","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","Estate of Joe Lee Lasater","Shareholder","n/a","2017","N/A","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","Joe B Ferrell","Shareholder","n/a","2017","N/A","n/a"
+"North Alabama Bancshares,"Inc."","Shareholder","James B Ferrell","Shareholder","n/a","2017","N/A","n/a"
+```

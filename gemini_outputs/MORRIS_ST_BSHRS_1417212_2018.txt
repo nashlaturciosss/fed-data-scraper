@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Morris State Bancshares INC.","Dublin,"GA"","2018","Livingston Dynasty Trust FBO Lisa Livingston","n/a","133637","7.27%","n/a"
+"Morris State Bancshares INC.","Dublin,"GA"","2018","Livingston Dynasty Trust FBO Claire Livingston","n/a","133636","7.27%","n/a"
+"Morris State Bancshares INC.","Dublin,"GA"","2018","Benefit Trust Company Trustee for Morris Bank","n/a","145908","7.93%","n/a"
+"Morris State Bancshares INC.","Dublin,"GA"","2018","FHF Investment Number 1,"LLC."","n/a","138889","7.55%","n/a"
+"Morris State Bancshares INC.","Dublin,"GA"","2018","Roger Miller","n/a","94482","5.14%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Morris State Bancshares,"INC."","Director","Livingston Dynasty Trust","Director","n/a","2018","None","n/a"
+"Morris State Bancshares,"INC."","Director","Lisa Livingston","Director","n/a","2018","None","n/a"
+"Morris State Bancshares,"INC."","Director/President & CEO","Spence Mullis","None","n/a","2018","President/CEO Morris Bank","n/a"
+"Morris State Bancshares,"INC."","Chairman/Director","Thad Childs","None","n/a","2018","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"INC."","Director","F. Scott Beasley","Owner","Duncan Tire","2018","Mechanic","n/a"
+"Morris State Bancshares,"INC."","Chairman/Director","Roger Miller","None","n/a","2018","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"INC."","Corporate Secretary","Susan Brandon","None","n/a","2018","Officer/Morris Bank","n/a"
+"Morris State Bancshares,"INC."","Director","Phillip Faircloth","CEO","Farmers Furniture","2018","CEO/Farmers Furniture","n/a"
+```

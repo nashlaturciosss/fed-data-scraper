@@ -1,0 +1,18 @@
+"Okay","here are the two tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Clarksville,"Tennessee"","2014","Billy P. Atkins","common stock","69173","5.63%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Legends Financial Holdings,"Inc."","Director,"Chairman","& President/CEO"","Billy Atkins","n/a","n/a","2014","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Jill Ayers","Partner","Batson,"Nolan","etc Law firm"","2014","Attorney","n/a"
+"Legends Financial Holdings,"Inc."","Director","Mark Barnett","1/3 Partner","KY-TN Livestock","2014","Livestock Warehouse/ Farmer","n/a"
+"Legends Financial Holdings,"Inc."","Director,"EVP & COO"","Tommy Bates","n/a","n/a","2014","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Ronnie Goad","66% owner","Goad Construction Co","2014","Home builder","n/a"
+"Legends Financial Holdings,"Inc."","Director","Dick Littleton","n/a","n/a","2014","Real Estate agent","n/a"
+"Legends Financial Holdings,"Inc."","Director","Pravin (Bob) Patel","n/a","n/a","2014","Hotel/Motel operator","n/a"
+"Legends Financial Holdings,"Inc."","SVP/CFO","Lee Pedigo","n/a","n/a","2014","n/a","n/a"
+"Legends Financial Holdings,"Inc."","Director","Gene Washer","n/a","n/a","2014","Retired","n/a"
+"Legends Financial Holdings,"Inc."","Director","Doug Weiland","n/a","n/a","2014","Retired","n/a"
+```

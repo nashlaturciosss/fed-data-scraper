@@ -1,0 +1,31 @@
+```csv
+## SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2014","John D. Mclanahan,"Jr."","n/a","86350","24.57%","1138188"
+"First American Bancorp","Athens,"GA"","2014","John D. Mclanahan,"Jr."","n/a","7052","2.01 %","1138188"
+"First American Bancorp","Athens,"GA"","2014","John D. Mclanahan,"Jr."","n/a","79298","22.56%","1138188"
+"First American Bancorp","Athens,"GA"","2014","The Mclanahan Children's Irv. Trust Agreement","n/a","79298","22.56%","1138188"
+"First American Bancorp","New York,"NY"","2014","CEDE and Co","n/a","20519","5.84%","1138188"
+"First American Bancorp","Gainesville,"GA"","2014","Catherine M. Nix","n/a","20000","5.69%","1138188"
+"First American Bancorp","Ponte Vedra Beach,"FL"","2014","John L. and Dorothy M. Watson","n/a","20856","5.93%","1138188"
+```
+```csv
+## INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","n/a","Maxine H. Burton","President","Burton & BURTON","2014","Wholesale Balloon Distributor","1138188"
+"First American Bancorp","n/a","Catherine M. Nix","n/a","n/a","2014","n/a","1138188"
+"First American Bancorp","n/a","John A. Drew","President/CEO (Retired)","Athens Regional Medical Center","2014","Retired Hospital Administrator","1138188"
+"First American Bancorp","President","Robert D. Heath","President","n/a","2014","President of the Bank","1138188"
+"First American Bancorp","Chairman","Donald G. Hildebrand","Chairman","GeoVax Labs,"Inc."","2014","Retired Biotechnical Consultant","1138188"
+"First American Bancorp","n/a","Lamy L. Medders","President","Athens Orthopedic Associates","2014","Orthopedic Surgeon","1138188"
+"First American Bancorp","n/a","L. Gerry Whitworth","President","Whitworth Land Corp.","2014","Real Estate Broker","1138188"
+"First American Bancorp","n/a","Mike Power","President","Power Building Products","2014","Construction Supplier","1138188"
+"First American Bancorp","n/a","T. Michael Devore","President","Devore and Johnson,"Inc."","2014","Construction Supplier","1138188"
+"First American Bancorp","General Counsel","John D. Mclanahan,"Jr."","n/a","n/a","2014","Attorney","1138188"
+"First American Bancorp","EVP/COO","C. Rhodes Mclanahan","n/a","n/a","2014","Chief Operating Officer","1138188"
+"First American Bancorp","n/a","James Q. Wilfong,"Jr."","n/a","n/a","2014","Real Estate Investor","1138188"
+"First American Bancorp","n/a","Elbert N. Whitmire,"Ill"","Attorney","Fortson,"Bentley","& Griffin","P.A."","2014","Attorney","1138188"
+"First American Bancorp","n/a","CEDE and Co","n/a","n/a","2014","n/a","1138188"
+"First American Bancorp","n/a","The Mclanahan Children's Irv. Trust Agreement","n/a","n/a","2014","n/a","1138188"
+"First American Bancorp","n/a","The Dorothy Mclanahan Watson Living Trust","n/a","n/a","2014","n/a","1138188"
+```

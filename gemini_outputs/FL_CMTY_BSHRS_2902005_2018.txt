@@ -1,0 +1,32 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Gainesville,"FL"","2018","C. Neal Anderson","Common","62083","5.76%","n/a"
+"Florida Community Bankshares,"Inc."","Anthony,"FL"","2018","Hugh Dailey","Common","72272","6.71%","n/a"
+"Florida Community Bankshares,"Inc."","Austin,"TX"","2018","Kenneth E. Ellenberg","Common","86233","8.01%","n/a"
+"Florida Community Bankshares,"Inc."","Williston,"FL"","2018","Jimmy L. And Martha C. Gladwell III","Common","58600","5.44%","n/a"
+"Florida Community Bankshares,"Inc."","Ocala,"FL"","2018","Sequel Investments,"LLC"","Common","68625","6.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez","Director","Community Bank & Trust of FL","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez","President","Alvarez Truck Brokers of FL","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez"," ","Alvarez,"Inc"","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez"," ","John Alvarez Investment Group LLC","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez"," ","Alvarez Family Trust LLC","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez"," ","AAW LLC","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","Director","Community Bank & Trust of FL","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Director","Community Bank & Trust of FL","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Owner","C.W. Bailey,"Jr. Corp"","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","President","CW4,"Inc."","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Co-Owner","Littoral Marine LLC","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey"," ","Ocala Manufacturing Co. LTD","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director","C. Winston Bailey","Owner","DCF Inc.","2018","Rancher/Real Estate","n/a"
+"Florida Community Bankshares,"Inc."","Director President & CEO","Hugh F. Dailey","President & CEO","Community Bank & Trust of FL","2018","n/a","n/a"
+"Florida Community Bankshares,"Inc."","Director President & CEO","Hugh F. Dailey","Co-Owner","Littoral Marine LLC","2018","n/a","n/a"
+"Florida Community Bankshares,"Inc."","Director EVP & CFO","David R. Denyer","SEVP & CFO","Community Bank & Trust of FL","2018","n/a","n/a"
+"Florida Community Bankshares,"Inc."","Director","Kenneth E. Ellenberg","Director","Community Bank & Trust of FL","2018","Retired","n/a"
+"Florida Community Bankshares,"Inc."","Director","JoAnn R. Smith","Director","Community Bank & Trust of FL","2018","Retired","n/a"
+```

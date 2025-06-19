@@ -1,22 +1,32 @@
-Here are the two tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Altamaha Bancshares,"Inc."","Uvalda","2020","Mae Jones","Common Stock","30602","22.8%"
-"Altamaha Bancshares,"Inc."","Uvalda","2020","Betty Morris or Randall Morris & Austin Morris Family Trust","Common Stock","18225","13.6%"
-"Altamaha Bancshares,"Inc."","Uvalda","2020","Frank,"John","Tracey Morris"","Common Stock","8400","6.1%"
-"Altamaha Bancshares,"Inc."","Vidalia","2020","Betty Salter","Common Stock","13595","10.1%"
-"Altamaha Bancshares,"Inc."","Mt. Vernon","2020","Linda Sammons","Common Stock","9950","7.4%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Altamaha Bank and Trust","Uvalda,"GA"","2020","Mae Jones","Common Stock","30602","22.8%","n/a"
+"Altamaha Bank and Trust","Uvalda,"GA"","2020","Betty Morris or Randall Morris & Austin Morris Family Trust,","Common Stock","18225","13.6%","n/a"
+"Altamaha Bank and Trust","Uvalda,"GA"","2020","Frank,"John","Tracey Morris"","Common Stock","8400","6.1%","n/a"
+"Altamaha Bank and Trust","Vidalia,"GA"","2020","Betty Salter","Common Stock","13595","10.1%","n/a"
+"Altamaha Bank and Trust","Mt. Vernon,"GA"","2020","Linda Sammons","Common Stock","9950","7.4%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Altamaha Bancshares,"Inc."","Director","Wayne Hartley","President","Robin Builders,"Inc."","2020"
-"Altamaha Bancshares,"Inc."","Director","Mae Jones","President","Jones Farms","2020"
-"Altamaha Bancshares,"Inc."","Director","Lloyd Mason","President","Southern Eyecare","2020"
-"Altamaha Bancshares,"Inc."","Director/Randall","Randall Morris or Betty Morris & Austin Morris Family Trust,","Director/Randall","Morris Enterprises","2020"
-"Altamaha Bancshares,"Inc."","Director/Susan","Susan Salter Shook","Owner/Susan","Susan Shook,"PC"","2020"
-"Altamaha Bancshares,"Inc."","President /CEO/Director","R. Brent Sammons","President/CEO/Director","n/a","2020"
-"Altamaha Bancshares,"Inc."","Director/Thomas","S. Thomas Moore","President","S Thomas Morre & Associates","2020"
-"Altamaha Bancshares,"Inc."","Director","Tommy A. Rollins","President","Tar Land & Timber","2020"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Altamaha Bank & Trust","Director","Wayne Hartley","President","Robin Builders,"Inc"","2020","Robin Builders,"Inc."","n/a"
+"Altamaha Bank & Trust","Director","Wayne Hartley","Partner","RF,"Inc."","2020","Robin Builders,"Inc."","n/a"
+"Altamaha Bank & Trust","Director","Wayne Hartley","Partner","LCCW,"LLC"","2020","Robin Builders,"Inc."","n/a"
+"Altamaha Bank & Trust","Director","Wayne Hartley","Partner","Hartley Rental,"LLC"","2020","Robin Builders,"Inc."","n/a"
+"Altamaha Bank & Trust","Director","Wayne Hartley","President","WC Payment Solutions,"LLC"","2020","Robin Builders,"Inc."","n/a"
+"Altamaha Bank & Trust","Director","Mae Jones","President","Jones Farms","2020","Farm Owner","n/a"
+"Altamaha Bank & Trust","Director","Lloyd Mason","President","Southern Eyecare","2020","Southern Eyecare","n/a"
+"Altamaha Bank & Trust","Director","Lloyd Mason","Co-Owner","Southern Vision Care","2020","Southern Eyecare","n/a"
+"Altamaha Bank & Trust","Director","Randall Morris or Betty Morris & Austin Morris","Part owner","Morris Enterprises","2020","Farm Owner/Randall","n/a"
+"Altamaha Bank & Trust","Director","Randall Morris or Betty Morris & Austin Morris","Limited Partner","Austin Morris,"LLP"","2020","Farm Owner/Randall","n/a"
+"Altamaha Bank & Trust","Director","Randall Morris or Betty Morris & Austin Morris","Part owner","Milligan Creek Cattle","2020","Farm Owner/Randall","n/a"
+"Altamaha Bank & Trust","Director","Susan Salter Shook","Owner","Susan Shook,"PC"","2020","Lawyer","n/a"
+"Altamaha Bank & Trust","President /CEO/Director","R. Brent Sammons","n/a","None","2020","n/a","n/a"
+"Altamaha Bank & Trust","Director","S. Thomas Moore","President","S Thomas Morre & Associates","2020","CPA,"Owner of Firm"","n/a"
+"Altamaha Bank & Trust","Director","S. Thomas Moore","President","Old Garrison Ent.","2020","CPA,"Owner of Firm"","n/a"
+"Altamaha Bank & Trust","President","Tommy A. Rollins","President","Tar Land & Timber","2020","Timber Harvester","n/a"
+"Altamaha Bank & Trust","President","Tommy A. Rollins","Manager","Tar Logging,"LLC"","2020","Timber Harvester","n/a"
+"Altamaha Bank & Trust","President","Tommy A. Rollins","Manager","TAR Investments,"LLC"","2020","Timber Harvester","n/a"
+"Altamaha Bank & Trust","President","Tommy A. Rollins","Manager","Oakridge Investments","2020","Timber Harvester","n/a"
 ```

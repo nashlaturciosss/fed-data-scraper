@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Cullman Bancorp,"Inc"","Cullman,"Alabama"","2016","Cullman Savings Bank,"MHC"","common stock","1403731","55%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Cullman Savings Bank,"MHC"","Director","Dr. William F. Peinhardt","n/a","Heritage Diagnostic,"LLC"","2016","Medical Doctor","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. William F. Peinhardt","n/a","Heritage Medical Complex,"LLC"","2016","Medical Doctor","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. William F. Peinhardt","n/a","Peinhardt Edgewood Farm,"LLC"","2016","Medical Doctor","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","n/a","Galin & Riley,"LLC"","2016","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","n/a","Lincoln Brothers,"LLC"","2016","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","n/a","BBC,"LLC"","2016","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director,"President & CEO"","John A. Riley,"III"","n/a","Bainbridge 83,"LLC"","2016","Banking","n/a"
+"Cullman Savings Bank,"MHC"","Director","Gregory T. Barksdale","n/a","n/a","2016","Insurance","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","n/a","Paul D. Bussman DMD,"PC"","2016","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director","Dr. Paul D. Bussman","n/a","PHB Property,"LLC"","2016","Dentist","n/a"
+"Cullman Savings Bank,"MHC"","Director & Chairman","Kim J. Chaney","n/a","n/a","2016","Judge","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","n/a","Bland,"Harris & McClellan","PC"","2016","Attorney","n/a"
+"Cullman Savings Bank,"MHC"","Director","Nancy McClellan","n/a","Harris & McClellan,"LLC"","2016","Attorney","n/a"
+```

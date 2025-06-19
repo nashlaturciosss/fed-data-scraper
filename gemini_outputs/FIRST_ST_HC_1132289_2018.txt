@@ -1,0 +1,26 @@
+"Okay","I will generate the requested CSV tables based on the provided FR Y-6 document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Holding Company","Fayette,"AL"","2018","Rita Grayson","Common Stock","7894","10.01%","n/a"
+"First State Holding Company","Jackson,"MS"","2018","Carol B. Hamm","n/a","16854","21.39%","n/a"
+"First State Holding Company","Athens,"AL"","2018","Dr. Patrick Boyett","Common Stock","8295","10.52%","n/a"
+"First State Holding Company","Sulligent,"AL"","2018","John F. Boyett","Common Stock","9572","12.14%","n/a"
+"First State Holding Company","Hamilton,"AL"","2018","Dr. Brent Boyett","Common Stock","8139","10.33%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First State Holding Corp.","Director/CEO","John F. Boyett","n/a","CEO Holding Corp","2017","Banker","n/a"
+"First State Holding Corp.","Director","Basel Mixon","n/a","n/a","2017","Retired Banker","n/a"
+"First State Holding Corp.","n/a","Dr. Brent Boyett","n/a","Boyett Health Services","2017","Doctor","n/a"
+"First State Holding Corp.","Director","Kermit Minga","n/a","n/a","2017","Retired","n/a"
+"First State Holding Corp.","Director","Jerry Williams","Branch Manager,"Winfield First State Bank"","n/a","2017","Banker","n/a"
+"First State Holding Corp.","Director","Rita Grayson","n/a","n/a","2017","Retired teacher","n/a"
+"First State Holding Corp.","n/a","Carol B. Hamm","n/a","n/a","2017","Housewife","n/a"
+"First State Holding Corp.","n/a","Dr. J. Patrick Boyett","n/a","Orthosports Athens","2017","Doctor","n/a"
+"First State Holding Corp.","Director","Jim Northington","n/a","My Classic Car Wash","2017","Business Owner","n/a"
+"First State Holding Corp.","Director Secretary/Treasurer","J. Scott Boman","President First State Bank","n/a","2017","Banker","n/a"
+"First State Holding Corp.","Director","Hugh Windle","n/a","n/a","2017","Retired","n/a"
+"First State Holding Corp.","Director","Tim R. Wadsworth","n/a","Wadsworth Law Office","2017","Lawyer","n/a"
+```

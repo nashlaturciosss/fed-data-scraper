@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","Guin,"AL"","2016","Estate of Donald E. Bussey","common stock","14694.00","23%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Guin,"AL"","2016","Brenda J. Bussey","common stock","14694.00","23%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2016","Sherrian McDaniel Logan","common stock","15376.00","24%","n/a"
+"PEOPLES BANCORPORATION,"INC."","Winfield,"AL"","2016","Dana M. Peoples","common stock","14012.00","22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PEOPLES BANCORPORATION,"INC."","n/a","Estate of Donald E. Bussey","n/a","None","2016","n/a","n/a"
+"PEOPLES BANCORPORATION,"INC."","n/a","Brenda J. Bussey","n/a","None","2016","n/a","n/a"
+"PEOPLES BANCORPORATION,"INC."","Marketing Director & Director","Sherrian M. Logan","n/a","State Bank & Trust","2016","n/a","n/a"
+"PEOPLES BANCORPORATION,"INC."","Director","Dana M. Peoples","President & Director","State Bank & Trust","2016","n/a","n/a"
+"PEOPLES BANCORPORATION,"INC."","Secretary","Sally Holloway","Cashier","State Bank & Trust","2016","n/a","n/a"
+```

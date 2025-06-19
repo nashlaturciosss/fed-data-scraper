@@ -1,0 +1,36 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Georgia Banking Company,"Inc."","Radnor,"PA"","2023","Patriot Financial Partners III,"L.P."","Common","1491800","20.4%","n/a"
+"Georgia Banking Company,"Inc."","McLean,"VA"","2023","Financial Opportunity Fund,"LLC"","Common","418653","5.7%","n/a"
+"Georgia Banking Company,"Inc."","McLean,"VA"","2023","Financial Hybrid Opportunity SPV","Common","293751","4.0%","n/a"
+"Georgia Banking Company,"Inc."","McLean,"VA"","2023","Financial Hybrid Opportunity SLLC","Common","182727","2.5%","n/a"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2023","Bartown Morgan,"Jr."","Common","562021","7.7%","n/a"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2023","Strategic Value Private Investors","Common","383958","5.3%","n/a"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2023","Morgan Family","Common","286497","3.9%","n/a"
+"Georgia Banking Company,"Inc."","Dallas,"TX"","2023","Commerce Street Financial Partners II","Common","543478","7.5%","n/a"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2023","J. Bradford Smith","Common","334762","4.6%","n/a"
+"Georgia Banking Company,"Inc."","Atlanta,"GA"","2023","TPA Wingshooter Investors,"LLC"","Common","223174","3.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Georgia Banking Company","Director","R Elliott Miller","Director","n/a","2023","Retired","n/a"
+"Georgia Banking Company","Chairman,"Director"","James R. Lientz,"Jr."","Partner","Safe Harbor LLC","2023","Consulting","n/a"
+"Georgia Banking Company","Director","H. Ross Arnold III","President","Quest Capital Corp.","2023","Investment Management Company","n/a"
+"Georgia Banking Company","Director | CEO","Bartow Morgan,"Jr."","Director | CEO","n/a","2023","n/a","n/a"
+"Georgia Banking Company","Chief Risk Officer","David Black","Chief Risk Officer","n/a","2023","n/a","n/a"
+"Georgia Banking Company","President","Richard Fairey","President","n/a","2023","n/a","n/a"
+"Georgia Banking Company","CFO","Rob Cochran","CFO","n/a","2023","n/a","n/a"
+"Georgia Banking Company","Chief Human Resources Officer","Craig Addison","Chief Human Resources Officer","n/a","2023","n/a","n/a"
+"Georgia Banking Company","Director","Art Anton","n/a","n/a","2023","Retired","n/a"
+"Georgia Banking Company","Director","James Deutsch","Partner","Patriot Financial Partners,"LP"","2023","Partner","n/a"
+"Georgia Banking Company","Director","Mike Clarke","Senior Portfolio Advisor","FJ Capital","2023","Advisor","n/a"
+"Georgia Banking Company","Director","Sarah Borders","n/a","n/a","2023","Retired","n/a"
+"Georgia Banking Company","Director","David Fisher","Executive Managing Director","Cresset Capital","2023","Managing Director","n/a"
+"Georgia Banking Company","Director","J. Littleton Glover,"Jr."","President & CEO","Batson-Cook Development Company","2023","President & CEO","n/a"
+"Georgia Banking Company","Director","Ryan Glover","Co-Founder & Chairman","Greenwood","2023","Co-Founder & Chairman","n/a"
+"Georgia Banking Company","Director","Sunny Park","Founder/CEO","General Building Maintenance","2023","Founder/CEO","n/a"
+"Georgia Banking Company","Director","R. Lee Tucker,"Jr."","Partner","Mahaffey Pickens Tucker,"LLP"","2023","Attorney","n/a"
+```

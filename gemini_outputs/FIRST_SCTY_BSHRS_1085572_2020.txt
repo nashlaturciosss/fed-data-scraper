@@ -1,0 +1,39 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Security Bankshares,"Inc."","SIMPSONVILLE,"SC"","2020","TRACIE DOWIS","n/a","909.0","2.38%","n/a"
+"First Security Bankshares,"Inc."","SIMPSONVILLE,"SC"","2020","GRANT DOWIS","n/a","517.0","1.35%","n/a"
+"First Security Bankshares,"Inc."","SIMPSONVILLE,"SC"","2020","MADELINE DOWIS","n/a","561.0","1.47%","n/a"
+"First Security Bankshares,"Inc."","SIMPSONVILLE,"SC"","2020","MARY PATSY GILBERT","n/a","4909.0","12.86%","n/a"
+"First Security Bankshares,"Inc."","SIMPSONVILLE,"SC"","2020","HW WHITWORTH IRRV TRUST","n/a","2946.0","7.72%","n/a"
+"First Security Bankshares,"Inc."","MONROE,"GA"","2020","CAROLINE LOUISE KELLY","n/a","740.0","1.94%","n/a"
+"First Security Bankshares,"Inc."","MONROE,"GA"","2020","LEIGH W KELLY","n/a","3184.0","8.34%","n/a"
+"First Security Bankshares,"Inc."","MONROE,"GA"","2020","MATTHEW THOMAS KELLY","n/a","733.0","1.92%","n/a"
+"First Security Bankshares,"Inc."","MONROE,"GA"","2020","WESLEY WILLIAM KELLY","n/a","740.0","1.94%","n/a"
+"First Security Bankshares,"Inc."","MONROE,"GA"","2020","THOMAS F KELLY","n/a","412.0","1.08%","n/a"
+"First Security Bankshares,"Inc."","ANDERSON,"SC"","2020","JANIECE M. WHITE","n/a","2000.0","5.24%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","BARRY S WHITWORTH","n/a","3001.0","7.86%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","SARAH ELIZABETH WHITWORTH","n/a","575.0","1.51%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","STEVEN JARRETT WHITWORTH","n/a","593.0","1.55%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","LAURA J WHITWORTH","n/a","340.0","0.89%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","HW WHITWORTH IRR TRUST","n/a","3501.0","9.17%","n/a"
+"First Security Bankshares,"Inc."","LIBURN,"GA"","2020","WENDY WHITWORTH","n/a","2456.0","6.44%","n/a"
+"First Security Bankshares,"Inc."","HARTWELL,"GA"","2020","RANDY WHITWORTH","n/a","1910.0","5.00%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","CHARLES BENNETT TRUST","n/a","1289.0","3.38%","n/a"
+"First Security Bankshares,"Inc."","TOCCOA,"GA"","2020","GENEVA BENNETT","n/a","1476.0","3.87%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Security Bankshares,"Inc."","DIRECTOR","JOHN C SEAY","DIRECTOR","NONE","2020","RETIRED","n/a"
+"First Security Bankshares,"Inc."","CHAIRMAN","BARRY WHITWORTH","CHAIRMAN","FRANKLIN INSURANCE AGENCY","2020","INSURANCE AGENT","n/a"
+"First Security Bankshares,"Inc."","DIRECTOR","GERALD VOYLES","DIRECTOR","NONE","2020","RETIRED","n/a"
+"First Security Bankshares,"Inc."","PRESIDENT/CEO DIRECTOR","RICHARD A BASINGER,"JR"","PRESIDENT/CEO DIRECTOR","NONE","2020","BANKING","n/a"
+"First Security Bankshares,"Inc."","DIRECTOR","BOBBY LEE VAUGHN","SVP/DIRECTOR","NONE","2020","BANKING","n/a"
+"First Security Bankshares,"Inc."","CFO/DIRECTOR","ROBERT E CURRY","CFO/DIRECTOR","NONE","2020","BANKING","n/a"
+"First Security Bankshares,"Inc."","PRINCIPAL SHAREHOLDER","LEIGH W KELLY","DIRECTOR","NONE","2020","HOME-MAKER","n/a"
+"First Security Bankshares,"Inc."","DIRECTOR","WILLIAM P HOGAN,"SR"","SENIOR CREDIT OFFICER/DIRECTOR","NONE","2020","BANKING","n/a"
+"First Security Bankshares,"Inc."","DIRECTOR","SHADE W STOREY","SVP/DIRECTOR","NONE","2020","BANKING","n/a"
+"First Security Bankshares,"Inc."","DIRECTOR","PEGGY B SLAPPEY","DIRECTOR","PEGGY SLAPPEY PROPERTIES","2020","REAL ESTATE DEVELOPER","n/a"
+```

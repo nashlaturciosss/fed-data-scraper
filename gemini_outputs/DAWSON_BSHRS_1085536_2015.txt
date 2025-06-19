@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2015","Estate of James G. Raines","n/a","11830","30.36%","1085536"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2015","James M. Collier","n/a","3295","8.46%","1085536"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2015","H. P. Smith","n/a","6433","16.51%","1085536"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2015","Jack Laing","n/a","2360","6.06%","1085536"
+"Dawson Bancshares,"Inc."","n/a","2015","None","n/a","n/a","n/a","1085536"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dawson Bancshares,"Inc."","Former Director & Chairman","Estate of James G. Raines","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Former Chairman & President","Estate of James G. Raines","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","Barry N. Lyle","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Secretary & Treasurer","Barry N. Lyle","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","President and CEO","Barry N. Lyle","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","W.T. Gamble,"Jr."","n/a","Gamble Farms","2015","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","Jack Laing","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","William Thomas Rountree","Owner","Dawson News","2015","Owner/Publisher of Dawson News","n/a"
+"Dawson Bancshares,"Inc."","Director & Chairman","H.P. Smith","n/a","n/a","2015","Farmer","n/a"
+"Dawson Bancshares,"Inc."","Director","Phonso Donaldson","n/a","n/a","2015","Retired","n/a"
+"Dawson Bancshares,"Inc."","Director","Milton F. Foster","Owner","Southern Cable Vision","2015","Owner- cable company","n/a"
+"Dawson Bancshares,"Inc."","Director","Brad Stafford","President","Brad Stafford,"Inc."","2015","Owner - furniture store","n/a"
+"Dawson Bancshares,"Inc."","Director","Charles Scott","n/a","n/a","2015","n/a","n/a"
+"Dawson Bancshares,"Inc."","Director","John Leach","Managing Partner","Flo-Rob,"Inc."","2015","Real Estate Investments","n/a"
+```

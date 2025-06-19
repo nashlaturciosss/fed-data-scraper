@@ -1,21 +1,23 @@
-Here are the two CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2019","The Diesi Family Trusts","Common Stock","14768","18.93%"
-"American Bancorp,"Inc."","Opelousas","2019","Ronald J. Lashute","Common Stock","17821","22.84%"
-"American Bancorp,"Inc."","Clearwater","2019","Diane F Brown","Common Stock","5969","7.65%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2019","The Diesi Family Trusts (1)","Common Stock","14768","18.93%","n/a"
+"American Bancorp,"Inc."","Opelousas,"Louisiana"","2019","Ronald J. Lashute","Common Stock","17821","22.84%","n/a"
+"American Bancorp,"Inc."","Clearwater,"Florida"","2019","Diane F Brown (2)","Common Stock","5969","7.65%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","Director","Jasper J. Artall,"Sr."","Director","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","Director","Elaine E. Diesi","Director,"Asst VP & Brnch Mgr"","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","Director","Joseph W. Diesi","Director & Chairman of the Board","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","n/a","The Diesi Family Trust","n/a","None","2019"
-"American Bancorp,"Inc."","Director","Samuel C. Diesi","Director","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","Director","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","Director","Charles R. Jagneaux","Director","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","Director,"CEO & President"","Ronald J. Lashute","Director,"CEO & President"","American Bank & Trust Company","2019"
-"American Bancorp,"Inc."","CFO,"Secretary & Treasurer"","George H. Comeau","Vice President,"CFO & Cashier"","American Bank & Trust Company","2019"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","Director,"Director & Chairman of the Board"","Jasper J. Artall,"Sr."","n/a","n/a","2019","Farmer","n/a"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Elaine E. Diesi","Secretary and Treasurer","Little Capitol of Louisiana,"Inc."","2019","Assistant VP & Branch Manager of American Bank & Trust Company","n/a"
+"American Bancorp,"Inc."","Director,"Asst VP & Brnch Mgr"","Elaine E. Diesi","Secretary and Treasurer","Diesi Development Corporation","2019","Assistant VP & Branch Manager of American Bank & Trust Company","n/a"
+"American Bancorp,"Inc."","Director,"Director & Chairman of the Board"","Joseph W. Diesi","President","Little Capitol of Louisiana,"Inc."","2019","Owner/Manager","n/a"
+"American Bancorp,"Inc."","Director,"Director & Chairman of the Board"","Joseph W. Diesi","Vice President","Diesi Development Corporation","2019","Owner/Manager","n/a"
+"American Bancorp,"Inc."","Director","Samuel C. Diesi","President","Diesi Realty","2019","Clergy","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Williams Funeral Home,"Inc."","2019","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","Haynes Family Funerals,"Inc."","2019","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Alvin A. Haynes,"II"","President","CoB Williams Progressive Life Insurance Company","2019","Funeral Director","n/a"
+"American Bancorp,"Inc."","Director","Charles R. Jagneaux","n/a","n/a","2019","Clerk of Court of St. Landy Parish of Louisiana","n/a"
+"American Bancorp,"Inc."","Director,"CEO & President","Director","CEO & President"","Ronald J. Lashute","n/a","n/a","2019","President & CEO of American Bank & Trust Company","n/a"
+"American Bancorp,"Inc."","CFO,"Secretary & Treasurer","Vice President","CFO & Cashier"","George H. Comeau","n/a","n/a","2019","Vice President & CFO of American Bank & Trust Company","n/a"
 ```

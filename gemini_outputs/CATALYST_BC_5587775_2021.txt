@@ -1,20 +1,21 @@
-Here are the two tables extracted from the document in CSV format.
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Opelousas","2021","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","423200","8%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Opelousas,"Louisiana"","2021","Catalyst Bancorp,"Inc. Employee Stock Ownership Plan"","Common Stock","423200","8%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Catalyst Bancorp,"Inc."","Chairman of the Board","Todd A. Kidder","Chairman of the Board of Directors","Louisiana State Dept. of Transportation","2021"
-"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","Director","Targil,"Inc."","2021"
-"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Director","K&G on the Geaux,"LLC"","2021"
-"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","Director","Savoie's Sausage & Food Products,"Inc."","2021"
-"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Director","Going,"Sebastien","Fisher & LeBouef","LLP"","2021"
-"Catalyst Bancorp,"Inc."","Director","Matthew I. Scruggins","Director","St. Landry Parish School System","2021"
-"Catalyst Bancorp,"Inc."","Director,"President & CEO"","Joseph B. Zanco","Director,"President & CEO"","n/a","2021"
-"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jutta Codori","Senior Vice President & Chief Financial Officer","n/a","2021"
-"Catalyst Bancorp,"Inc."","n/a","Simone S. Perry","Senior Vice President & Chief Credit Officer","n/a","2021"
-"Catalyst Bancorp,"Inc."","n/a","Amanda B. Quebedeaux","Vice President & Director of Operations","n/a","2021"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Catalyst Bancorp,"Inc."","Chairman of the Board of Directors","Todd A. Kidder","Engineering Technician","Louisiana State Dept. of Transportation","2021","Engineering technician","n/a"
+"Catalyst Bancorp,"Inc."","Director","Ted D. Bellard","President & Owner","Targil,"Inc."","2021","President & owner of food product companies","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","K&G on the Geaux,"LLC"","2021","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","Kleiser Enterprises","2021","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Kirk E. Kleiser","Principal & Founder","All In GS,"LLC"","2021","Senior managing principal & founder of convenience stores","n/a"
+"Catalyst Bancorp,"Inc."","Director","Frederick L. Lafleur","President & CEO","Savoie's Sausage & Food Products,"Inc."","2021","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Director","Craig C. LeBouef","Partner","Going,"Sebastien","Fisher & LeBouef","LLP"","2021","Certified Public Accountant","n/a"
+"Catalyst Bancorp,"Inc."","Director","Matthew I. Scruggins","Supervisor","St. Landry Parish School System","2021","Supervisor of Personnel","n/a"
+"Catalyst Bancorp,"Inc."","Director,"President & CFO"","Joseph B. Zanco","Director,"President & CEO"","n/a","2021","n/a","n/a"
+"Catalyst Bancorp,"Inc."","Chief Financial Officer","Jutta Codori","Senior Vice President & Chief Financial Officer","n/a","2021","n/a","n/a"
+"Catalyst Bancorp,"Inc."","n/a","Simone S. Perry","Senior Vice President & Chief Credit Officer","n/a","2021","n/a","n/a"
+"Catalyst Bancorp,"Inc."","n/a","Amanda B. Quebedeaux","Vice President & Director of Operations","n/a","2021","n/a","n/a"
 ```

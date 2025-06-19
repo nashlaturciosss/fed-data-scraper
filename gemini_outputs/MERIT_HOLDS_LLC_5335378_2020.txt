@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merit Bancorporation","Decatur,"AL"","2020","James Chad Falciani","n/a","505000","14.39%","n/a"
+"Merit Bancorporation","Huntsville,"AL"","2020","Merit Holdings LLC","n/a","1000","100%","n/a"
+"Merit Bancorporation","Huntsville,"AL"","2020","Robert Hill Womble","n/a","175000","5.01%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merit Bancorporation","Director\nPresident/CEO","Robert Hill Womble","n/a","n/a","2020","Banker","n/a"
+"Merit Bancorporation","CFO","Jeffrey D Brown","n/a","Henry & Brown LLC","2020","Banker/CPA","n/a"
+"Merit Bancorporation","Director\nCOO","Frank Aldag","n/a","n/a","2020","Banker","n/a"
+"Merit Bancorporation","Director\nEVP","Mark McIntyre","n/a","n/a","2020","Banker","n/a"
+"Merit Bancorporation","Director\nEVP","Charles W Heaps","n/a","n/a","2020","Banker","n/a"
+"Merit Bancorporation","Director","Steven Cost","n/a","Intergraph Corp","2020","President","n/a"
+"Merit Bancorporation","Director","James Chad Falciani","n/a","Strategix Medical Solutions Inc","2020","CEO Strategic Medical Solutions Inc","n/a"
+"Merit Bancorporation","Director\nChairman of the Board","Kevin Heronimus","n/a","TMC Corporation","2020","CEO/President of Technical Micronics Control Corporation","n/a"
+"Merit Bancorporation","Director","Jeff Huntley","n/a","T-H Marine","2020","CEO/President of T-H Marine","n/a"
+"Merit Bancorporation","Director","Brent Romine","n/a","Nou Systems Inc","2020","President of Nou Systems Inc","n/a"
+```

@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Colony Bankcorp,"Inc."","Ocilla,"GA"","2017","Robert Sidney Ross","common stock","1165843","13.81%","n/a"
+"Colony Bankcorp,"Inc."","Douglas,"GA"","2017","B. Gene Waldron","common stock","633884","7.51%","n/a"
+"Colony Bankcorp,"Inc."","Greenwich,"CT"","2017","Tontine Asset Management,"LLC"","common stock","554678","6.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Colony Bankcorp,"Inc."","Director & President and Chief Executive Officer","Edward P. Loomis,"Jr."","Director & President and Chief Executive Officer","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Director,"Exec Vice President","Chief Financial Officer & Secretary"","Terry L. Hester","Director & Chief Financial Officer","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Chief Credil Officer","Edward Lee Bagwell,"III"","n/a","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Chief Operating Officer","J. Stan Cook","n/a","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Regional Market Executive Officer","Eddie Hoyle,"Jr."","n/a","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Regional Market Executive Officer","Lee A. Northcutt","n/a","n/a","2017","n/a","n/a"
+"Colony Bankcorp,"Inc."","Director & Chairman of the Board","Mark H. Massee","President","Massee Builders,"Inc"","2017","Building Contractor","n/a"
+"Colony Bankcorp,"Inc."","Director & Chairman of the Board","Mark H. Massee","President","Dorminy-Massee House,"Inc."","2017","Building Contractor","n/a"
+"Colony Bankcorp,"Inc."","Director & Chairman of the Board","Mark H. Massee","President","MHM Properties","2017","Building Contractor","n/a"
+"Colony Bankcorp,"Inc."","Director","Scott L. Downing","President","SDI LLC","2017","Personal Investments","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dodge County Medical Center Prescription Shop,"Inc."","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","IV. Care Options of Middle GA,"Inc"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Hospice Care Options,"Inc."","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","D & B Home Care,"Inc."","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Land Holdings,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Commercial Affiliated Properties,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Commercial Properties,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Amelia Island Properties,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Family RE Holdings,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","M. Frederick Dwozan,"Jr."","President","Dwozan Management,"LLC"","2017","Medical Supplier","n/a"
+"Colony Bankcorp,"Inc."","Director","Jonathan WR. Ross","President","Ross Construction Co.,"Inc"","2017","Construction","n/a"
+"Colony Bankcorp,"Inc."","n/a","Robert Sidney Ross","President","Ross of Georgia,"Inc."","2017","Construction","n/a"
+```

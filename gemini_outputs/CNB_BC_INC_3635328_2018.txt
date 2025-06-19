@@ -1,0 +1,15 @@
+"Here are the two CSV tables as requested","with the data extracted from the document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CNB Bancorp,"Inc."","Birmingham,"AL"","2018","Patrick Cooper","Common Stock","47116","18.42%","n/a"
+"CNB Bancorp,"Inc."","Mobile,"AL"","2018","Gary Cooper","Common Stock","59503","23.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CNB Bancorp,"Inc."","Chairman","Gary Cooper","EVP","n/a","2018","Retired","n/a"
+"CNB Bancorp,"Inc."","Director","Jacquitta P. Green","n/a","Northside Check Exchange","2018","Northside Check Exchange","n/a"
+"CNB Bancorp,"Inc."","Director","Scott Hunter","n/a","Raymond James Financial Services","2018","Vice President Raymond James Financial Services","n/a"
+"CNB Bancorp,"Inc."","Director of Banks' Board","Patrick Cooper","Chairman of Commonwealth National Bank","Commonwealth National Bank","2018","Attorney","n/a"
+```

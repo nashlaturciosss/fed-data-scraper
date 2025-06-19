@@ -1,14 +1,22 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bradley County Financial Corp.","Cleveland","2023","R. Scott Taylor","n/a","99174","33.62%"
-"Bradley County Financial Corp.","Cleveland","2023","Terry Buckner","n/a","16000","5.42%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bradley County Financial Corp.","Cleveland,"TN"","2023","R. Scott Taylor","n/a","99174","33.62%","n/a"
+"Bradley County Financial Corp.","Cleveland,"TN"","2023","Terry Buckner","n/a","16000","5.42%","n/a"
+```
+```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bradley County Financial Corp.","Chairman CEO President","R. Scott Taylor","Chairman CEO","Bank of Cleveland","2023"
-"Bradley County Financial Corp.","Director","Gerald Burns","Director","Bank of Cleveland","2023"
-"Bradley County Financial Corp.","Director","Fritz G. Harris","Director","Williamson & Trewhitt CPA'S PC","2023"
-"Bradley County Financial Corp.","Director","Steve Robinson","Director","Cleveland Plywood Company","2023"
-"Bradley County Financial Corp.","Director","Steve Lambert","Director","Bank of Cleveland","2023"
-"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","Director President & CFO","Bank of Cleveland","2023"
-"Bradley County Financial Corp.","Director","Terry J. Buckner","Director","Bank of Cleveland","2023"
-"Bradley County Financial Corp.","Director","Clint R. Taylor","n/a","n/a","2023"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bradley County Financial Corp.","Chairman CEO President","R. Scott Taylor","n/a","n/a","2023","Banker","n/a"
+"Bradley County Financial Corp.","Director","Gerald Burns","n/a","n/a","2023","Welder","n/a"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","n/a","Williamson & Trewhitt CPA'S PC","2023","Accountant","n/a"
+"Bradley County Financial Corp.","Director","Fritz G. Harris","n/a","Orbit Oil Inc.","2023","Accountant","n/a"
+"Bradley County Financial Corp.","Director","Steve Robinson","Owner","Cleveland Plywood Company","2023","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Bradley Concrete Inc.","2023","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambcon Inc.","2023","Businessman","n/a"
+"Bradley County Financial Corp.","Director","Steve Lambert","Owner","Lambert Investments Inc","2023","Businessman","n/a"
+"Bradley County Financial Corp.","Treasurer Director","S. Julian Sullivan III","n/a","n/a","2023","Banker","n/a"
+"Bradley County Financial Corp.","Director","Terry J. Buckner","n/a","n/a","2023","Banker","n/a"
+"Bradley County Financial Corp.","Director","Clint R. Taylor","n/a","n/a","2023","Businessman","n/a"
+```

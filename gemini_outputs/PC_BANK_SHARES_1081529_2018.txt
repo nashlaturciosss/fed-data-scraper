@@ -1,0 +1,19 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2018","E.J. Vann,"IV"","n/a","8312","45.22%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2018","Susan Vann Moss","n/a","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Nashville,"TN"","2018","E.J. Vann,"V"","n/a","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2018","Lamar Cooper","n/a","1000","5.44%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Pres","Joe B. Adams & Sons,"Inc."","2018","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2018","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","CEO","Adams Exports,"Inc."","2018","Agibusinessman","n/a"
+"P&C Bank Shares,"Inc."","Director,"Secretary"","Susan V. Moss","President & CEO","n/a","2018","n/a","n/a"
+"P&C Bank Shares,"Inc."","Executive Chairman","E.J. Vann IV","n/a","n/a","2018","n/a","n/a"
+"P&C Bank Shares,"Inc."","n/a","E. J. Vann,"V"","n/a","Johnston & Murphy","2018","Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2018","Retired Retail Merchant","n/a"
+"P&C Bank Shares,"Inc."","Director","David Cooper","Owner","David Cooper Engineering","2018","Engineering Consultant","n/a"
+"P&C Bank Shares,"Inc."","n/a","Lamar Cooper","Partner","Cooper Farms","2018","Retired Farmer","n/a"
+```

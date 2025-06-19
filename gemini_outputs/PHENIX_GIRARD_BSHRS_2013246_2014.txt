@@ -1,0 +1,16 @@
+Here are the extracted tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2014","John M Dudley,"Sr Irrevocable Family Trust"","Phenix-Girard Bancshares Common Stock","2159900","99.99%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2014","John M Dudley","Phenix-Girard Bancshares Common Stock","2","less than 1%","432432"
+"Phenix-Girard Bancshares,"Inc."","Phenix City,"Al"","2014","Menza Dudley","Phenix-Girard Bancshares Common Stock","2","less than 1%","432432"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Phenix-Girard Bancshares,"Inc."","President,"Treasurer","Director"","Lumberman,"Phenix Lumber Company"","n/a","Phenix-Girard Bank / Bancshares","2014","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","Vice President,"Secretary","Director"","Lumberman,"Phenix Lumber Company"","Shareholder","n/a","2014","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","CEO,"Director"","Phenix Lumber Company","n/a","n/a","2014","n/a","432432"
+"Phenix-Girard Bancshares,"Inc."","n/a","Phenix Lumber","n/a","Girard Partners Management,"Inc"","2014","n/a","432432"
+```

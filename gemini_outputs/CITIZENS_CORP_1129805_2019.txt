@@ -1,0 +1,40 @@
+Here are the two requested tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bank & Trust Company","University Park,"MD"","2019","WSS Family Trust","n/a","6241.00","20.59%","n/a"
+"Citizens Bank & Trust Company","St. Simons Island,"GA"","2019","Lynda S. Franklin","n/a","6285.00","20.73%","n/a"
+"Citizens Bank & Trust Company","Eastman,"GA"","2019","Lynda S. Franklin","n/a","6285.00","20.73%","n/a"
+"Citizens Bank & Trust Company","Los Angeles,"CA"","2019","Jay-Gould W. Stuckey","n/a","2380","7.85%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Stuckey Timberland,"Inc."","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Franklin,"Inc."","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Franklin Investments,"LP"","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Tijuana Trading Co.","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Saunders Stuckey & Mullis,"Inc."","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director Emeritus","Lynda S. Franklin","Business Executive","Southern Hills Dev LLC","2019","Business Executive","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","Professor","Stuckey Timberland,"Inc."","2019","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","Professor","Franklin Investments,"LP"","2019","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Russell D. Franklin,"III"","Professor","Franklin,"Inc."","2019","Professor","n/a"
+"Citizens Bank and Trust Company","Director","Jay-Gould Stuckey","Artist","Stuckey Timberland,"Inc."","2019","Artist","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","Forester","Stuckey Timberland,"Inc."","2019","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","Forester","Non-Typical Properties,"LLC"","2019","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","Forester","Southern Hills Development,"LLC"","2019","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Wade B. Hall","Forester","Stuckey Holdings,"LLC"","2019","Forester","n/a"
+"Citizens Bank and Trust Company","Director","Henry Barclay,"III"","CPA","Stuckey Timberland,"Inc."","2019","CPA","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","Stuckey Timberland,"Inc."","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","The Mulberry Company,"LLC"","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","Briarcrest Enterprises,"LLC"","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","17 Ventures,"LLC"","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","Stuckey Holdings,"LLC"","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Chairman/CEO","G. Mike Odom,"Jr."","Banker","Great Oaks Holdings,"LLC"","2019","Banker","n/a"
+"Citizens Bank and Trust Company","Director","John C. Wright","Retired","Stuckey Timberland,"Inc."","2019","Retired","n/a"
+"Citizens Bank and Trust Company","Director","John C. Wright","Retired","Stuckey Holdings,"LLC"","2019","Retired","n/a"
+"Citizens Bank and Trust Company","Director","John McGoldrick","Attorney","Stuckey Timberland,"Inc."","2019","Attorney","n/a"
+"Citizens Bank and Trust Company","Director","John McGoldrick","Attorney","The Lewis Foundation","2019","Attorney","n/a"
+"Citizens Bank and Trust Company","Director","John McGoldrick","Attorney","Martin Snow LLP","2019","Attorney","n/a"
+"Citizens Bank and Trust Company","Director","John McGoldrick","Attorney","Martin and Snow Building,"LLC"","2019","Attorney","n/a"
+```

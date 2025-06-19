@@ -1,34 +1,35 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Altrust Financial Services,"Inc."","Baileyton","2015","Terry Neal & Tressa Walker","Common Stock","300237","6.32%"
-"Altrust Financial Services,"Inc."","Cullman","2015","Robin Cummings","Common Stock","249123","5.24%"
-"Altrust Financial Services,"Inc."","Cullman","2015","Cecil Alan & Amy Walker","Common Stock","281729","5.93%"
-"Altrust Financial Services,"Inc."","Baileyton","2015","Timothy Dudley Walker","Common Stock","257860","5.43%"
-"Altrust Financial Services,"Inc."","n/a","2015","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1145511","24.11%"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Altrust Financial Services,"Inc"","Baileyton,"AL"","2015","Terry Neal & Tressa Walker","Common Stock","300237","6.32%","n/a"
+"Altrust Financial Services,"Inc"","Cullman,"AL"","2015","Robin Cummings","Common Stock","249123","5.24%","n/a"
+"Altrust Financial Services,"Inc"","Cullman,"AL"","2015","Cecil Alan & Amy Walker","Common Stock","281729","5.93%","n/a"
+"Altrust Financial Services,"Inc"","Baileyton,"AL"","2015","Timothy Dudley Walker","Common Stock","257860","5.43%","n/a"
+"Altrust Financial Services,"Inc"","Trustee","2015","Altrust Financial Services,"Inc. Savings & ESOP Trust"","Common Stock","1145511","24.11%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Altrust Financial Services,"Inc."","Director
-Vice Chairman
-"CEO"","Robin Cummings","Director
-"CEO"","Peoples Bank","2015"
-"Altrust Financial Services,"Inc."","Director","George Whit Drake","Director","Attorney-own name","2015"
-"Altrust Financial Services,"Inc."","Director","Noel Jasper Estes","Director","Peoples Bank","2015"
-"Altrust Financial Services,"Inc."","Director
-"Chairman"","Cecil Alan Walker","Director","Walker Brother LTD","2015"
-"Altrust Financial Services,"Inc."","Director
-"Secretary"","Terry Neal Walker","Director
-"Secretary"","Walker Bros. LTD","2015"
-"Altrust Financial Services,"Inc."","Director","Timothy Dudley Walker","Director","Walker Bros. LTD","2015"
-"Altrust Financial Services,"Inc."","Director","Brian Clarke Witcher","Director","South Park Auto Sales","2015"
-"Altrust Financial Services,"Inc."","Director","Candace Nail Hooten","Director","n/a","2015"
-"Altrust Financial Services,"Inc."","CFO","Tomas P. Wilbourne","CFO","Peoples Bank","2015"
-"Altrust Financial Services,"Inc."","n/a","Timothy Williams","Director
-"President"","n/a","2015"
-"Altrust Financial Services,"Inc."","n/a","Clayton R Lee,"II"","Director
-"EVP"","n/a","2015"
-"Altrust Financial Services,"Inc."","n/a","William Kinney","EVP","n/a","2015"
-"Altrust Financial Services,"Inc."","None","Altrust Financial Services,"Inc."","None","None","2015"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Altrust Financial Services,"Inc"","Director\nVice Chairman\nCEO\n(Peoples Bank)","Robin Cummings","n/a","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","Director\n(Peoples Bank)","George Whit Drake","Director","n/a","2015","Attorney","60330"
+"Altrust Financial Services,"Inc"","Director\n(Peoples Bank)","Noel Jasper Estes","Director","n/a","2015","Retired","60330"
+"Altrust Financial Services,"Inc"","Director\nChairman","Cecil Alan Walker","Director\n(Peoples Bank)","Walker Brother LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nChairman","Cecil Alan Walker","Director\n(Peoples Bank)","Walker Servicing Corp","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nChairman","Cecil Alan Walker","Director\n(Peoples Bank)","WalkerMortgages LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nChairman","Cecil Alan Walker","Director\n(Peoples Bank)","Gunters Landing LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nSecretary","Terry Neal Walker","Director\nSecretary\n(Peoples Bank)","Walker Brother LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nSecretary","Terry Neal Walker","Director\nSecretary\n(Peoples Bank)","Walker Servicing Corp","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nSecretary","Terry Neal Walker","Director\nSecretary\n(Peoples Bank)","WalkerMortgages LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\nSecretary","Terry Neal Walker","Director\nSecretary\n(Peoples Bank)","Gunters Landing LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director\n(Peoples Bank)","Walker Brother LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director\n(Peoples Bank)","Walker Servicing Corp","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director\n(Peoples Bank)","WalkerMortgages LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director","Timothy Dudley Walker","Director\n(Peoples Bank)","Gunters Landing LTD","2015","Building Supply\nReal Estate\nConstruction","60330"
+"Altrust Financial Services,"Inc"","Director\n(Peoples Bank)","Brian Clarke Witcher","Director","South Park Auto Sales","2015","Used Car Dealer\nFinancing","60330"
+"Altrust Financial Services,"Inc"","Director\n(Peoples Bank)","Brian Clarke Witcher","Director","Cuilman Auto Financing","2015","Used Car Dealer\nFinancing","60330"
+"Altrust Financial Services,"Inc"","Director\n(Peoples Bank)","Brian Clarke Witcher","Director","WW Holdings,"LLC"","2015","Used Car Dealer\nFinancing","60330"
+"Altrust Financial Services,"Inc"","Director\nEVP\n(Peoples Bank)","Candace Nail Hooten","Director","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","CFO\n(Peoples Bank)","Tomas P. Wilbourne","CFO","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","Director\nPresident\n(Peoples Bank)","Timothy Williams","n/a","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","Director\nEVP\n(Peoples Bank)","Clayton R Lee,"II"","n/a","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","EVP\n(Peoples Bank)","William Kinney","n/a","n/a","2015","Banking","60330"
+"Altrust Financial Services,"Inc"","None","Altrust Financial Services,"Inc"","None","n/a","2015","n/a","60330"
 ```

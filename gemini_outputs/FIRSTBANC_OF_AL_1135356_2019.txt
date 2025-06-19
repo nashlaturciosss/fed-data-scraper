@@ -1,0 +1,17 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Talladega,"AL"","2019","William Larkin Coker","Common Capital","40000","5.75%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FirstBanc of Alabama,"Inc."","Chairman / Director","William Larkin Coker","President","Alabama Bag Co.","2019","Industrialist","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Andrew Brown,"III"","President","Brown Lumber and Building Supply","2019","Merchant","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Julian M. King","n/a","n/a","2019","Circuit Judge Retired","n/a"
+"FirstBanc of Alabama,"Inc."","n/a","Tommy Spears","n/a","n/a","2019","Pharmacist - Retired","n/a"
+"FirstBanc of Alabama,"Inc."","Director","Richard F. Barber","Owner / President","Barber Properties","2019","Owner / Operator of Real Estate Holding Company","n/a"
+"FirstBanc of Alabama,"Inc."","Director and President","Jonathan Chad Jones","n/a","New Direction Development","2019","Bank Officer","n/a"
+"FirstBanc of Alabama,"Inc."","CFO","Chad Miller Thomas","n/a","n/a","2019","Bank Officer","n/a"
+```

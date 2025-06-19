@@ -1,0 +1,25 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Sherrian McDaniel Logan","common stock","2883","8%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Dana M. Peoples","common stock","14008","43%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Collins Davis","common stock","93","1%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Jeffery C. Davis,"Jr. Family Trust"","common stock","9171","28%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Ann Elizabeth Murphy","common stock","25","1%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Ann Elizabeth Murphy Family Trust","common stock","3276","10%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Jimmy Burleson","common stock","2697","8%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","Marilyn Burleson","common stock","2680","8%","n/a"
+"Peoples Bancorporation,"Inc."","Winfield,"AL"","2020","James T. Burleson","common stock","17","1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bancorporation,"Inc."","Marketing Director & Director","Sherrian M. Logan","n/a","n/a","2020","n/a","n/a"
+"Peoples Bancorporation,"Inc."","CEO,"President","& Director"","Dana M. Peoples","n/a","n/a","2020","n/a","n/a"
+"Peoples Bancorporation,"Inc."","CFO & Chairman","Collins Davis","n/a","n/a","2020","n/a","n/a"
+"Peoples Bancorporation,"Inc."","COO,"Cashier","& Director"","Sally Holloway","n/a","n/a","2020","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Jeffery C. Davis,"Jr."","n/a","n/a","2020","n/a","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Ann Elizabeth Murphy","n/a","n/a","2020","Pediatrician","n/a"
+"Peoples Bancorporation,"Inc."","n/a","Ann Elizabeth Murphy","n/a","n/a","2020","n/a","n/a"
+```

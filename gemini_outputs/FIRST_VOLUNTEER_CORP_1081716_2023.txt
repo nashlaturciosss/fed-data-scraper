@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Builtwell Bancorp,"Inc."","Longboat Key,"FL"","2023","Irrevocable Family Trust of Robert R. Anderson","n/a","76203","15.26%","n/a"
+"Builtwell Bancorp,"Inc."","Longboat Key,"FL"","2023","Irrevocable Family Trust of Doralynn G. Anderson","n/a","76203","15.26%","n/a"
+"Builtwell Bancorp,"Inc."","Longboat Key,"FL"","2023","Anderson Volunteer Holding,"Limited Partnership"","n/a","100000","20.02%","n/a"
+"Builtwell Bancorp,"Inc."","Chatsworth,"GA"","2023","Mosteller,"Betty B"","n/a","46069","9.22%","n/a"
+"Builtwell Bancorp,"Inc."","Chatsworth,"GA"","2023","Mosteller,"Michelle"","n/a","33631","6.73%","n/a"
+"Builtwell Bancorp,"Inc."","Chatsworth,"GA"","2023","Bartley,"Maria"","n/a","33631","6.73%","n/a"
+"Builtwell Bancorp,"Inc."","Dalton,"GA"","2023","Mosteller Family Holdings","n/a","40910","8.19%","n/a"
+"Builtwell Bancorp,"Inc."","Dalton,"GA"","2023","Watts,"Jr.","G. H. & Family"","n/a","56206","11.25%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Builtwell Bancorp,"Inc."","Principal Shareholder","Anderson Volunteer Holding,"Limited Partner"","n/a","n/a","2023","Investor","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Vice President","Builtwell Bank"","Anderson,"Howard"","n/a","n/a","2023","Banker","n/a"
+"Builtwell Bancorp,"Inc."","Executive Vice President Chief Operations Officer Secretary,"Builtwell Bank"","Cartwright,"Judy G."","n/a","n/a","2023","Banker Executive Officer","n/a"
+"Builtwell Bancorp,"Inc."","Executive Vice President Chief Financial Officer","Cassell,"Megan"","n/a","n/a","2023","Banker Executive Officer","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bancorp","Inc. Principal Shareholder"","Doralyn G Anderson Irrev. Family Trust","n/a","n/a","2023","Investor","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bancorp","Inc."","Goodwin,"Amie"","Co-Owner","The Goodwin Group Holdings,"LLC dba Save-a-Lot Food Stores"","2023","Co-Owner,"The Goodwin Group Holdings","LLC dba Save-a-Lot Food Stores"","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bank"","Mosteller,"Erika"","Owner","Erika B Digital Marketing Agency,"LLC"","2023","Owner - Marketing Agency","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bancorp","Inc."","Mosteller,"Randy C."","n/a","n/a","2023","Sales - Carpet Industry","n/a"
+"Builtwell Bancorp,"Inc."","Chairman of the Board,"Builtwell Bancorp","Inc. Principal Shareholder"","Robert R. Anderson Irev. Family Trust","n/a","n/a","2023","Banker","n/a"
+"Builtwell Bancorp,"Inc."","CEO,"Builtwell Bank Director","Builtwell Insurance Agency","Inc."","Steele,"Patti W."","n/a","n/a","2023","Banker Executive Officer","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bancorp","Inc."","Watts,"Annestacia"","Manager","Watts Enterprises & Related Companies","2023","Property Management","n/a"
+"Builtwell Bancorp,"Inc."","Director,"Builtwell Bancorp","Inc."","Watts,"Jr. G. H."","President","Watts Enterprises & Related Companies","2023","Property Management","n/a"
+```

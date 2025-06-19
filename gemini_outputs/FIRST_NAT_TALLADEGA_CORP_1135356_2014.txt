@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Talladega Corporation","Talladega,"AL"","2014","Estate of Robert C. Weaver","n/a","41320","5.9%","1135356"
+"First National Talladega Corporation","Talladega,"AL"","2014","William Larkin Coker","n/a","36000","5.2%","1135356"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Talladega Corporation","Chairman / Director","William Larkin Coker","Chairman","Alabama Bag Co.","2014","Industrialist","1135356"
+"First National Talladega Corporation","Director","Allen C. Jacobs,"Jr."","Director","Brannon's Inc.","2014","Merchant","1135356"
+"First National Talladega Corporation","Director","Andrew Brown,"III"","n/a","n/a","2014","Merchant","1135356"
+"First National Talladega Corporation","Director","Julian M. King","n/a","Tri B Associates,"LLC"","2014","Circuit Judge","1135356"
+"First National Talladega Corporation","Director","Tommy Spears","n/a","n/a","2014","Pharmacist - Retired","1135356"
+"First National Talladega Corporation","Director","Richard F. Barber","n/a","Mini Storage,"LLC"","2014","Owner / Operator of Real Estate Holding Company","1135356"
+"First National Talladega Corporation","Director","Richard F. Barber","n/a","Woodland Hills,"LLC"","2014","Owner / Operator of Real Estate Holding Company","1135356"
+"First National Talladega Corporation","Director","Richard F. Barber","n/a","R. T. Barber Properties,"LLC"","2014","Owner / Operator of Real Estate Holding Company","1135356"
+"First National Talladega Corporation","Director","Richard F. Barber","n/a","Barber Properties","2014","Owner / Operator of Real Estate Holding Company","1135356"
+"First National Talladega Corporation","Director","Jonathan Chad Jones","Sr. Vice President and Sr. Loan Officer","n/a","2014","Bank Officer","1135356"
+"First National Talladega Corporation","Director and President","John D. Belew","CEO,"President and Trust Officer"","n/a","2014","Bank Officer","1135356"
+```

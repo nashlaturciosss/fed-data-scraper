@@ -1,0 +1,24 @@
+Here are the requested extractions in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2017","Cynthia McClard","n/a","8227","28.04%","1140239"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2017","Charles E. Darnell","n/a","2277","7.76%","1140239"
+"Citizens Bancorp Investment,"Inc."","Lafayette,"Tn."","2017","Mike Reese","n/a","2520","8.59%","1140239"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp Investment,"Inc."","Director/ Vice President","Charles E. Darnell","Director/ Vice Chairman","n/a","2017","Retired","1140239"
+"Citizens Bancorp Investment,"Inc."","Director/ Treasurer","Mike Reese","Director","MWR Enterprises,"Inc."","2017","Owner Retail/ Grocery","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Director/ Secretary","DT McCall Partnership","2017","Co-owner Manager","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Tom McCall","Director/ Secretary","McCall Realty Co. Partnership","2017","Co-owner Manager","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Tony Polston","Director","BD Polston & Son Bldg Supply Partnership","2017","Manager","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","Director/ V-President","Clinical Management Consultants","2017","Consultant","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Gail Srygley","Director","n/a","2017","Education","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Ransom Jones","Director","n/a","2017","Retired","1140239"
+"Citizens Bancorp Investment,"Inc."","Director/ Secretary","Joe Carter","Director/ President","n/a","2017","Banking","1140239"
+"Citizens Bancorp Investment,"Inc."","Director/ President/ CEO","Peter Williston","Director/ Chairman/CEO","n/a","2017","Banking","1140239"
+"Citizens Bancorp Investment,"Inc."","Assistant Treasurer CFO","Arthur Taylor,"Jr."","n/a","n/a","2017","Banking","1140239"
+"Citizens Bancorp Investment,"Inc."","Director","Cynthia McClard","Director/ V-President","Clinical Management Consultants","2017","Consultant","1140239"
+```

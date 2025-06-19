@@ -1,28 +1,24 @@
-Here are the requested CSV tables:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancTenn Corp","Elizabethton","2016","William B. Greene,"Jr."","Common Stock","1795267","71.22"
-"BancTenn Corp","Kingsport","2016","Roy L. Harmon,"Jr."","Common Stock","165066","6.55"
-"BancTenn Corp","Kingsport","2016","Valerie G. Ketron","Common Stock","213687","8.48"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancTenn Corp","Elizabethton,"TN"","2016","William B. Greene,"Jr."","common stock","1795267","71.22 percent","1135002"
+"BancTenn Corp","Kingsport,"Tennessee"","2016","Roy L. Harmon,"Jr."","common stock","165066","6.55 percent","1135002"
+"BancTenn Corp","Kingsport,"TN"","2016","Valerie G. Ketron","common stock","213687","8.48 percent","1135002"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BancTenn Corp","Chairman of the Board,"President & CEO of the Company"","William B. Greene,"Jr."","Director","Bank of Tennessee","2016"
-"BancTenn Corp","n/a","William B. Greene,"Jr."","President","Huntington Hills","2016"
-"BancTenn Corp","n/a","William B. Greene,"Jr."","President","WBG Aviation,"LLC"","2016"
-"BancTenn Corp","Director,"Secretary and Treasurer of the Company"","John E. Seward,"Jr."","Director","Bank of Tennessee","2016"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","COO","Mitch Cox Companies","2016"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","President","Strategic Resources Group,"Inc."","2016"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","President","Tanasi Oil & Gas,"Inc."","2016"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","President","Aviation Strategies Group,"Inc."","2016"
-"BancTenn Corp","n/a","John E. Seward,"Jr."","n/a","GREE-SEE Technology,"LLC"","2016"
-"BancTenn Corp","Executive Vice-President and Director of the Company","Roy L. Harmon,"Jr."","Chairman of the Board and CEO","Bank of Tennessee","2016"
-"BancTenn Corp","n/a","Roy L. Harmon,"Jr."","Director","Paragon Commercial Corp.","2016"
-"BancTenn Corp","n/a","Roy L. Harmon,"Jr."","Director","Paragon Commercial Bank","2016"
-"BancTenn Corp","Director of the Company","Kenneth H. Maness","Director","Bank of Tennessee","2016"
-"BancTenn Corp","Director of the Company","James W. Holmes","Director","Bank of Tennessee","2016"
-"BancTenn Corp","CFO of the Company","Darla M. Scott","EVP and CFO","Bank of Tennessee","2016"
-"BancTenn Corp","Assistant Secretary of the Company","Jennifer Blakley","Secretary to the Board","Bank of Tennessee","2016"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company","Director of Bank of Tennessee"","William B. Greene,"Jr."","President of Huntington Hills","Huntington Hills","2016","n/a","1135002"
+"BancTenn Corp","Chairman of the Board,"President & CEO of the Company","Director of Bank of Tennessee"","William B. Greene,"Jr."","President of WBG Aviation,"LLC"","WBG Aviation,"LLC"","2016","n/a","1135002"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company","Director of Bank of Tennessee"","John E. Seward,"Jr."","COO of Mitch Cox Companies","Mitch Cox Companies","2016","COO of Mitch Cox Companies","1135002"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company","Director of Bank of Tennessee"","John E. Seward,"Jr."","President of Strategic Resources Group,"Inc."","Strategic Resources Group,"Inc."","2016","COO of Mitch Cox Companies","1135002"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company","Director of Bank of Tennessee"","John E. Seward,"Jr."","President of Tanasi Oil & Gas,"Inc."","Tanasi Oil & Gas,"Inc."","2016","COO of Mitch Cox Companies","1135002"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company","Director of Bank of Tennessee"","John E. Seward,"Jr."","President of Aviation Strategies Group,"Inc."","Aviation Strategies Group,"Inc."","2016","COO of Mitch Cox Companies","1135002"
+"BancTenn Corp","Director,"Secretary and Treasurer of the Company","Director of Bank of Tennessee"","John E. Seward,"Jr."","President of GREE-SEE Technology,"LLC"","GREE-SEE Technology,"LLC"","2016","COO of Mitch Cox Companies","1135002"
+"BancTenn Corp","Executive Vice-President and Director of the Company,"Chairman of the Board and CEO of Bank of Tennessee"","Roy L. Harmon,"Jr."","Director of Paragon Commercial Corp.","Paragon Commercial Corp.","2016","n/a","1135002"
+"BancTenn Corp","Executive Vice-President and Director of the Company,"Chairman of the Board and CEO of Bank of Tennessee"","Roy L. Harmon,"Jr."","Director of Paragon Commercial Bank","Paragon Commercial Bank","2016","n/a","1135002"
+"BancTenn Corp","Director of the Company,"Director of Bank of Tennessee"","Kenneth H. Maness","n/a","n/a","2016","Investor/Consultant","1135002"
+"BancTenn Corp","Director of the Company,"Director of Bank of Tennessee"","James W. Holmes","n/a","n/a","2016","Retired","1135002"
+"BancTenn Corp","CFO of the Company,"EVP and CFO of Bank of Tennessee"","Darla M. Scott","n/a","n/a","2016","n/a","1135002"
+"BancTenn Corp","Assistant Secretary of the Company,"Secretary to the Board of Bank of Tennessee"","Jennifer Blakley","n/a","n/a","2016","n/a","1135002"
 ```

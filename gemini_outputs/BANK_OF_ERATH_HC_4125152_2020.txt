@@ -1,19 +1,20 @@
-Here are the extracted tables:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BANK OF ERATH HOLDING COMPANY","Alpine","2020","Charles B. Caldwell II,"Trustee"","n/a","n/a","n/a"
-"BANK OF ERATH HOLDING COMPANY","Thibodaux","2020","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a"
-"BANK OF ERATH HOLDING COMPANY","Abbeville","2020","Paul G. Moresi,"Jr."","n/a","n/a","n/a"
-"BANK OF ERATH HOLDING COMPANY","n/a","2020","NONE","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BANK OF ERATH HOLDING COMPANY","Alpine,"CA"","2020","Charles B. Caldwell II,"Trustee"","n/a","n/a","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Thibodaux,"LA"","2020","Rowland E. Caldwell,"Jr."","n/a","n/a","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Abbeville,"LA"","2020","Paul G. Moresi,"Jr."","n/a","n/a","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Abbeville,"LA"","2020","Hilltop Securities,"Inc"","n/a","n/a","n/a","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BANK OF ERATH HOLDING COMPANY","CEO","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2020"
-"BANK OF ERATH HOLDING COMPANY","Attorney","James M. Segura III","Director & Secretary","n/a","2020"
-"BANK OF ERATH HOLDING COMPANY","Retired Physician","Dr. Howard Alleman","Director","n/a","2020"
-"BANK OF ERATH HOLDING COMPANY","Real Estate","Vernon L. Caldwell III","Director","n/a","2020"
-"BANK OF ERATH HOLDING COMPANY","Attorney","Paul G. Moresi,"III"","Director","n/a","2020"
-"BANK OF ERATH HOLDING COMPANY","Business Owner","Charley S. Steen,"III"","Director","n/a","2020"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF ERATH HOLDING COMPANY","CEO","Paul G. Moresi,"Jr."","Director & Chairman","n/a","2020","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director & Chairman","Paul G. Moresi,"Jr."","n/a","n/a","2020","n/a","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director","James M. Segura III","Secretary","n/a","2020","Attorney","n/a"
+"BANK OF ERATH HOLDING COMPANY","Secretary","James M. Segura III","n/a","n/a","2020","Attorney","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director","Howard Alleman","Director","n/a","2020","Retired Physician","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director","Vernon L. Caldwell III","Director","n/a","2020","Real Estate","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director","Paul G. Moresi,"III"","Director","n/a","2020","Attorney","n/a"
+"BANK OF ERATH HOLDING COMPANY","Director","Charley S. Steen,"III"","Director","n/a","2020","Business Owner","n/a"
 ```

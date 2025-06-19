@@ -1,0 +1,32 @@
+"Here are the two tables extracted from the document","formatted as CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Foothills Bancorp,"Inc."","Knoxville,"TN"","2015","Jane Qualls McGuire,"Ph.D."","Common Stock","78753","3.56%","n/a"
+"Foothills Bancorp,"Inc."","Knoxville,"TN"","2015","Jane Qualls McGuire,"Ph.D."","Options on Common Stock","63000","2.85%","n/a"
+"Foothills Bancorp,"Inc."","Knoxville,"TN"","2015","Herb J Newton","Common Stock","70000","3.16%","n/a"
+"Foothills Bancorp,"Inc."","Knoxville,"TN"","2015","Herb J Newton","Options on Common Stock","61250","2.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Foothills Bancorp,"Inc."","Secretary,"Director"","Ralph Lee Chambers,"Jr."","n/a","n/a","2015","Retired","n/a"
+"Foothills Bancorp,"Inc."","Chairman,"Director"","Samuel D. Evans,"M.D."","n/a","n/a","2015","Retired Medical Doctor","n/a"
+"Foothills Bancorp,"Inc."","Director","Joseph Hamdi","n/a","n/a","2015","Banker","n/a"
+"Foothills Bancorp,"Inc."","President/CEO,"Director"","Mark W. Loudermilk","n/a","n/a","2015","Banker","n/a"
+"Foothills Bancorp,"Inc."","Director","Denny Mayes","n/a","n/a","2015","Agency Manager","n/a"
+"Foothills Bancorp,"Inc."","Director","Jane Qualls McGuire,"Ph.D."","n/a","n/a","2015","Retired Educator","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","Fist BK Mgm,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","First Fin - Oak Ridge,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","First Fin - Waycross,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","First Fin - Scottsboro,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","First Fin - Aviation","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","GA Mall Consortium,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","HJN Properties,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","Loudon County Farms,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","R Landing,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","Herb Newton","n/a","Tellico LP2,"LLC"","2015","Real Estate Investor","n/a"
+"Foothills Bancorp,"Inc."","Director","David Pesterfield","President","Pharmacy Plus Programs,"LLC"","2015","President","n/a"
+"Foothills Bancorp,"Inc."","Director","E Terry Webb","n/a","n/a","2015","Retired Pharmacist","n/a"
+"Foothills Bancorp,"Inc."","Senior Vice President","Melissa Hodges","n/a","n/a","2015","Banker","n/a"
+```

@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First National Corporation of Picayune","Picayune,"MS"","2021","Smith & Waldrop Foundation","Common Stock","11560","6.42%","n/a"
+"First National Corporation of Picayune","Hattiesburg,"MS"","2021","Susan Thomson Eaves","Common Stock","19982","11.10%","n/a"
+"First National Corporation of Picayune","Port Orange,"FL"","2021","John Christian Thomson","Common Stock","13000","7.22%","n/a"
+"First National Corporation of Picayune","Pass Christian,"MS"","2021","Merry Rea Thomson Rev Tr","Common Stock","25480","14.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First National Corporation of Picayune","Director/Chairman,"Director/Vice-Pres."","J. Wood Spiers,"Jr."","President","Bailey Switch Development Co.,"Inc."","2021","Real Estate Development","n/a"
+"First National Corporation of Picayune","Director/Chairman,"Director/Vice-Pres."","J. Wood Spiers,"Jr."","Vice-President","Double S. Investments,"Inc."","2021","Real Estate Development","n/a"
+"First National Corporation of Picayune","Director/Secretary/Treasurer,"Director/Secretary/Treasurer"","David Allison","President","Allison Ent.,"Inc."","2021","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director/Secretary/Treasurer,"Director/Secretary/Treasurer"","David Allison","n/a","Tobacco Shack,"Inc."","2021","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director/Secretary/Treasurer,"Director/Secretary/Treasurer"","David Allison","Manager","Allison R.E.,"LLC"","2021","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director/Secretary/Treasurer,"Director/Secretary/Treasurer"","David Allison","Manager","J&M R.E.,"LLC"","2021","Sheriff & Real Estate","n/a"
+"First National Corporation of Picayune","Director","Byron Stockstill","Partner/Manager","Williams,"Smith & Stockstill","PLLC"","2021","Attorney","n/a"
+"First National Corporation of Picayune","President/Director","David B. Hemeter","n/a","n/a","2021","N/A","n/a"
+"First National Corporation of Picayune","Director,"Director/Exec.VP"","Keith W. Robinson","n/a","n/a","2021","N/A","n/a"
+"First National Corporation of Picayune","Director,"Director"","J.L. McQueen","n/a","n/a","2021","Retired","n/a"
+"First National Corporation of Picayune","Director","Susan Thomson Eaves","n/a","n/a","2021","N/A","n/a"
+"First National Corporation of Picayune","N/A","John Christian Thomson","President","Thomson & Co.,"Inc."","2021","Investment Advisor","n/a"
+"First National Corporation of Picayune","Director","Merry Thomson Rev Tr","n/a","n/a","2021","Retired","n/a"
+"First National Corporation of Picayune","Director","Stewart H. Huey","n/a","n/a","2021","N/A","n/a"
+"First National Corporation of Picayune","N/A","Crystal L. Kennedy","n/a","n/a","2021","N/A","n/a"
+"First National Corporation of Picayune","N/A","Richard S. Thomson,"Jr."","n/a","n/a","2021","Investor","n/a"
+```

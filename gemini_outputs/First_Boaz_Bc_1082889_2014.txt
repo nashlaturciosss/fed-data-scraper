@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bank of Boaz","Boaz,"Alabama"","2014","Gary D. Kilpatrick","n/a","243034","28.88%","108 2889"
+"First Bank of Boaz","Auburn,"Alabama"","2014","Horace E. Kilpatrick","n/a","241200","28.66%","108 2889"
+"First Bank of Boaz","Boaz,"AL"","2014","Gerald D. Martin","n/a","63050","7.49%","108 2889"
+"First Bank of Boaz","Boaz,"AL"","2014","W. Marion Abercrombie","n/a","44300","5.26%","108 2889"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank of Boaz","Chairman","W. Marion Abercrombie","n/a","Abbie Auto Parts","2014","Abbie Auto Parts","108 2889"
+"First Bank of Boaz","Chairman","W. Marion Abercrombie","n/a","Associate Jobbers Warehouse","2014","Abbie Auto Parts","108 2889"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","n/a","Alexander Dodge","2014","Alexander Ford","108 2889"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","n/a","Alexander Ford","2014","Alexander Ford","108 2889"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","n/a","Alexander Rentals","2014","Alexander Ford","108 2889"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","n/a","Chevrolet of Boaz","2014","Alexander Ford","108 2889"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","n/a","Kelley Auto Auction LLC","2014","Alexander Ford","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Boaz Discount Drugs","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Johnson's Hallmark","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Johnson Properties","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Mediage Pharmaceuticals,"Inc."","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Johnson Real Estate Investments,"LLC"","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Age,"LLC"","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Cary Dale Johnson","n/a","Paint Rock,"LLC"","2014","Boaz Discount Drugs","108 2889"
+"First Bank of Boaz","Director","Gary Kilpatrick","n/a","Gary's Signs","2014","Kilpatrick Chevrolet","108 2889"
+"First Bank of Boaz","Director","Gary Kilpatrick","n/a","Kilpatrick Chevrolet","2014","Kilpatrick Chevrolet","108 2889"
+"First Bank of Boaz","Director","Gary Kilpatrick","n/a","M & K Signs","2014","Kilpatrick Chevrolet","108 2889"
+"First Bank of Boaz","Director","Gary Kilpatrick","n/a","K Properties LLC","2014","Kilpatrick Chevrolet","108 2889"
+"First Bank of Boaz","Director","Horace Kilpatrick","n/a","n/a","2014","Retired","108 2889"
+"First Bank of Boaz","Director","Gerald Martin","n/a","M & K Signs","2014","Retired","108 2889"
+"First Bank of Boaz","Director","Ricky Ray","n/a","n/a","2014","First Bank of Boaz","108 2889"
+"First Bank of Boaz","Director","Craig Rigsby","n/a","n/a","2014","Boaz Gas Board Manager","108 2889"
+```

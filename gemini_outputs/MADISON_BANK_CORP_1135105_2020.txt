@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Madison Bank Corp.","Madison,"GA"","2020","Lambert Family Investment Holdings,"LLLP"","Common Stock","4461","16.80%","n/a"
+"Madison Bank Corp.","Madison,"GA"","2020","Old Post Road,"LP Family Partnership"","Common Stock","6665","25.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Madison Bank Corp.","n/a","Old Post Road LP","n/a","n/a","2020","Investment","n/a"
+"Madison Bank Corp.","Director","Ann Lambert Trulock","n/a","n/a","2020","Not Employed","n/a"
+"Madison Bank Corp.","Director","John M Moore","n/a","n/a","2020","Owner Madison Car Care","n/a"
+"Madison Bank Corp.","Sr. Vice Pres.","H. Vinson DeLaigle","n/a","n/a","2020","Senior Lender","n/a"
+"Madison Bank Corp.","Director","Lowry W Hunt,"Jr."","Director","Godfrey's Warehouse","2020","Agriculture Product","n/a"
+"Madison Bank Corp.","Director","Floyd C. Newton,"III"","Partner","King & Spalding","2020","Attorney","n/a"
+"Madison Bank Corp.","President","Charles H Haney,"III"","n/a","n/a","2020","President / CEO","n/a"
+"Madison Bank Corp.","Chairman","Wayne Tamplin","Partner","Treadwell Tamplin & Company","2020","Certified Public Accountant","n/a"
+"Madison Bank Corp.","Sr VP/CFO","L. Clifton Hanes","VP & Sect.","Hanes & White Inc","2020","Sr Vice Pres. / CFO","n/a"
+"Madison Bank Corp.","Director","Robert T Prior","n/a","Prior & Daniel LLC","2020","Attorney","n/a"
+"Madison Bank Corp.","n/a","Lambert Family Investment Holdings,"LLLP"","n/a","n/a","2020","N/A","n/a"
+```

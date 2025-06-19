@@ -1,0 +1,31 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce One Financial Corporation","Birmingham,"AL"","2022","Bill I Smith","Common Stock","605587","12.06%","n/a"
+"Commerce One Financial Corporation","Birmingham,"AL"","2022","Bill I Smith","Warrants on Common Stock","160000","3.19%","n/a"
+"Commerce One Financial Corporation","Clayton,"AL"","2022","Gail B. Cooper","Common Stock","200538","4.06%","n/a"
+"Commerce One Financial Corporation","Clayton,"AL"","2022","Gail B. Cooper","Warrants on Common Stock","80000","1.62%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce One Financial Corporation","Director & President","Arthur M. Freeman IV","Director & President","n/a","2022","n/a","n/a"
+"Commerce One Financial Corporation","Director","Benjamin H. Slaughter","Director","1919 Investment Counsel","2022","Investment Advisor","n/a"
+"Commerce One Financial Corporation","Director","Gail B. Cooper","Director","See Confidential Section","2022","Retired","n/a"
+"Commerce One Financial Corporation","Director & Chief Lending Officer","J. David Sizemore","Director & Chief Lending Officer","n/a","2022","n/a","n/a"
+"Commerce One Financial Corporation","Director","Bill I. Smith","Director","Landing","2022","Executive","n/a"
+"Commerce One Financial Corporation","Chief Financial Officer","Judson Spooner","Chief Financial Officer","n/a","2022","n/a","n/a"
+"Commerce One Financial Corporation","Director & Chief Executive Officer","Kenneth W. Till","Director & Chief Executive Officer","See Confidential Section","2022","n/a","n/a"
+"Commerce One Financial Corporation","Director","Samuel D. Haskell","Director","Colarion,"LLC"","2022","Investment Advisor","n/a"
+"Commerce One Financial Corporation","Director & Chief Credit Officer","Scott Mathews","Director & Chief Credit Officer","n/a","2022","n/a","n/a"
+"Commerce One Financial Corporation","Chairman","Ronald C. Jackson","Chairman","See Confidential Section","2022","Retired","n/a"
+"Commerce One Financial Corporation","Director","John Thomas Ennis","Director","RE Structure,"LLC"","2022","Attorney","n/a"
+"Commerce One Financial Corporation","Director","John Thomas Ennis","Director","Sundance Capital,"LLC"","2022","Attorney","n/a"
+"Commerce One Financial Corporation","Director","Travis A. Meyer","Director","30A Investment Partners","2022","Developer","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","Featheringill Capital","2022","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","Experlogic","2022","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","Eagle Automation","2022","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","InvestEdge","2022","Executive","n/a"
+"Commerce One Financial Corporation","Director","Elizabeth Pharo","Director","Completecase","2022","Executive","n/a"
+```

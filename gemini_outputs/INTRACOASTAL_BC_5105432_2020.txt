@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Intracoastal Bancorp Inc.","Flagler Beach,"FL"","2020","Bruce Page","Common Stock","100,"142"","6.50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Intracoastal Bancorp Inc.","President/CEO","Bruce Page","CEO/President","Intracoastal Bank","2020","n/a","3786435"
+"Intracoastal Bancorp Inc.","Director","C. Scott Crews","n/a","n/a","2020","Retired","3786435"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Owner","Tom Gibbs Chevrolet","2020","Owns Car dealership","3786435"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Owner","TLG,"LLC"","2020","Owns Car dealership","3786435"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Owner","Kings Point Developrs LLC","2020","Owns Car dealership","3786435"
+"Intracoastal Bancorp Inc.","Director","Thomas Gibbs","Owner","Flagler Pioneer Investments LLC","2020","Owns Car dealership","3786435"
+"Intracoastal Bancorp Inc.","Director","Mike Machin","Owner","M Machin Construction","2020","Home Builder","3786435"
+"Intracoastal Bancorp Inc.","Director","Albert Johnston","Partner","Johnston Bros Farms","2020","Farmer","3786435"
+"Intracoastal Bancorp Inc.","Director","Gerald Keyes","Partner","KSW Wealth Management LLC","2020","CPA","3786435"
+"Intracoastal Bancorp Inc.","Director","Pamela Carbiener","Partner","Schwenker & Stavoy PA","2020","Doctor","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","President","Jobalia Consulting Group,"Inc"","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","HLPC,"LLC"","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Padmavati One","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Padmavti Two","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing member","Padmavti Three","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","EFL I","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","EFL II","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Wolfcamp Lodge","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Shale Lodge Odessa","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing Member","Amelia Hospitality","2020","Developer","3786435"
+"Intracoastal Bancorp Inc.","Director","Anand Jobalia","Managing member","JP Fox Creek LLC/Amaya of Volusia LLC","2020","Developer","3786435"
+```

@@ -1,0 +1,38 @@
+"Here are the two tables extracted from the FR Y-6 form","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Commercial Bancshares,"Inc."","Jackson,"MS"","2014","William R. James","Common Stock","42347","5.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Commercial Bancshares,"Inc."","President/CEO/Director","Alan H. Walters","President/CEO/Director","n/a","2014","n/a","n/a"
+"First Commercial Bancshares,"Inc."","Secretary/Treasurer","Robert Halford","Sr. Vice-President","n/a","2014","n/a","n/a"
+"First Commercial Bancshares,"Inc."","Director","Mark S. Bounds","Member","Sabaco,"LLC"","2014","Real Estate Broker","n/a"
+"First Commercial Bancshares,"Inc."","Director","Mark S. Bounds","Member","Shiloh Land,"LLC"","2014","Real Estate Broker","n/a"
+"First Commercial Bancshares,"Inc."","Director","Mark S. Bounds","President","Madison Capital Partners,"LLC"","2014","Real Estate Broker","n/a"
+"First Commercial Bancshares,"Inc."","Director","Charles T. Cannada","Director","Nanoventions,"Inc."","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","Charles T. Cannada","Partner","1245 Old Alpharetta Partners,"LLC"","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","M. Ray Grubbs","Partner","Voice Signature. LLC","2014","Professor","n/a"
+"First Commercial Bancshares,"Inc."","Director","C. Delbert Hosemann,"Jr."","Partner","Phelps Dunbar,"LLP"","2014","Attorney","n/a"
+"First Commercial Bancshares,"Inc."","Director","C. Delbert Hosemann,"Jr."","Partner","Hosemann Investments. LLC","2014","Attorney","n/a"
+"First Commercial Bancshares,"Inc."","Director","William R. James","Director","n/a","2014","Oil & Gas","n/a"
+"First Commercial Bancshares,"Inc."","Director","J. David Marsh,"III"","Owner","Benchmark Construction Corporation","2014","Construction","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Chairman","Hood Cable Co.","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Manager","HFC-Oxford. LLC","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Treasurer","Hood Farms of MS,"Inc."","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Manager","Hood Asset Mgt,"LLC"","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Owner","MOCA,"LLC"","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","James W. Hood","Manager","Regatta Development,"LLC"","2014","Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","Gerry Ann Houston","Partner","Jackson Oncology Associates","2014","Physician","n/a"
+"First Commercial Bancshares,"Inc."","Director","Paul G. Moak,"Jr."","President","Paul Moak Pontiac,"Inc."","2014","Auto Sales","n/a"
+"First Commercial Bancshares,"Inc."","Director","Paul G. Moak,"Jr."","President","Paul Moak of Ridgeland,"Inc."","2014","Auto Sales","n/a"
+"First Commercial Bancshares,"Inc."","Director","Paul G. Moak,"Jr."","President","Topisaw,"LLC"","2014","Auto Sales","n/a"
+"First Commercial Bancshares,"Inc."","Director","Steven G. Rogers","CEO,"President & Director"","Parkway Properties","2014","Commercial Real Estate","n/a"
+"First Commercial Bancshares,"Inc."","Director","T. Calvin Wells","Partner","Wells,"Moore","Simmons & Hubbard","PLLC"","2014","Attorney","n/a"
+"First Commercial Bancshares,"Inc."","Director","William J. VanDevender","President","CLAW Forestry Services","2014","Timber Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","William J. VanDevender","President","Van Farms","2014","Timber Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","William J. VanDevender","Partner","Martha's Vineyard Golf Partners","2014","Timber Investor","n/a"
+"First Commercial Bancshares,"Inc."","Director","William J. VanDevender","Manager","Southern Timber Venture","2014","Timber Investor","n/a"
+```

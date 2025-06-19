@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Newton County Bancorporation,"Inc."","Newton,"MS"","2014","William L. Freeman,"Jr."","allotted shares of ESOP's Common Stock","3521.41","23.19%","1137556"
+"Newton County Bancorporation,"Inc."","Newton,"MS"","2014","James A. Hart","Common Stock","4455","9.90%","1137556"
+"Newton County Bancorporation,"Inc."","Newton,"MS"","2014","Wilmer H. Whittle","Common Stock","9875","21.94%","1137556"
+"Newton County Bancorporation,"Inc."","Newton,"MS"","2014","Newton County Bancorporation,"Inc. ESOP"","Common Stock","15188","33.75%","1137556"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Newton County Bancorporation,"Inc."","Director","Thomas B. Harthcock","Director","Harthcock Graham","2014","Owner","1137556"
+"Newton County Bancorporation,"Inc."","Director,"President"","William L. Freeman,"Jr."","n/a","Newton Leasing Co.","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Director Chairman","Wilmer H. Whittle","n/a","Newton Rental","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Director","James A. Hart","Vice Chairman","n/a","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Director","Wyche L. McMullan","President","McMullan Equipment Co.","2014","President McMullan Equipment Co.","1137556"
+"Newton County Bancorporation,"Inc."","Director","Wyche L. McMullan","President","Idealease of Hattiesburg","2014","President McMullan Equipment Co.","1137556"
+"Newton County Bancorporation,"Inc."","Director","Van A. Lucas","n/a","n/a","2014","Retired","1137556"
+"Newton County Bancorporation,"Inc."","Director Secretary","Douglas S. Whittle","n/a","Newton Mini Storage","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Director","W. Holt McMullan","President","Hattiesburg Metro","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","n/a","Newton County Bancorporation,"Inc. Employee Stock Ownership Plan"","n/a","n/a","2014","n/a","1137556"
+"Newton County Bancorporation,"Inc."","Trustee","William L. Freeman,"Jr."","Director","n/a","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Trustee","Wilmer H. Whittle","Director","n/a","2014","Banker","1137556"
+"Newton County Bancorporation,"Inc."","Trustee","James A. Hart","Director","n/a","2014","Banker","1137556"
+```

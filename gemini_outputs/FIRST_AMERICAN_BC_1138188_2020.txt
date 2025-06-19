@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First American Bancorp","Athens,"GA"","2020","John D. McLanahan,"Jr."","n/a","90025","26.57%","n/a"
+"First American Bancorp","Athens,"GA"","2020","John D. McLanahan,"Jr."","n/a","8991","2.65%","n/a"
+"First American Bancorp","Athens,"GA"","2020","John D. McLanahan,"Jr."","n/a","79298","23.41%","n/a"
+"First American Bancorp","Athens,"GA"","2020","John D. McLanahan,"Jr."","n/a","1736",".51%","n/a"
+"First American Bancorp","Athens,"GA"","2020","The McLanahan Children's Irv. Trust Agreement","n/a","79298","23.41%","n/a"
+"First American Bancorp","New York,"NY"","2020","CEDE and Co","n/a","20132","5.94%","n/a"
+"First American Bancorp","Gainesville,"GA"","2020","Catherine M. Nix","n/a","20000","5.9%","n/a"
+"First American Bancorp","Ponte Vedra Beach,"FL"","2020","John L. and Dorothy M. Watson","n/a","20856","6.16%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","Director","Maxine H. Burton","n/a","Burton & BURTON","2020","International Gift Retailer","n/a"
+"First American Bancorp","President","Maxine H. Burton","n/a","Burton & BURTON","2020","International Gift Retailer","n/a"
+"First American Bancorp","Trust Officer","Robert D. Heath","n/a","n/a","2020","Retired President of the Bank","n/a"
+"First American Bancorp","Director","Craig Meeks","EVP","n/a","2020","EVP Commercial Banking","n/a"
+"First American Bancorp","EVP","Craig Meeks","EVP","n/a","2020","EVP Commercial Banking","n/a"
+"First American Bancorp","Director","T. Michael Devore","President (Retired)","DeVore & Johnson","2020","n/a","n/a"
+"First American Bancorp","Director","John D. McLanahan,"Jr."","General Counsel","n/a","2020","Attorney","n/a"
+"First American Bancorp","General Counsel","John D. McLanahan,"Jr."","General Counsel","n/a","2020","Attorney","n/a"
+"First American Bancorp","Director","C. Rhodes McLanahan","President/CEO","n/a","2020","President & CEO","n/a"
+"First American Bancorp","President/CEO","C. Rhodes McLanahan","President/CEO","n/a","2020","President & CEO","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2020","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.A."","2020","Attorney","n/a"
+"First American Bancorp","Attorney","Elbert N. Whitmire,"III"","Attorney","Fortson,"Bentley","& Griffin","P.A."","2020","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","n/a","Akins Ford","2020","Akins Ford Owner","n/a"
+"First American Bancorp","Director","Dr. Catherine Marti","n/a","n/a","2020","Cardiologist","n/a"
+"First American Bancorp","Director","George G. Tribble","President","Benson's,"Inc."","2020","President","n/a"
+```

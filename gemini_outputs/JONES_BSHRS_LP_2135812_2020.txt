@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"LP"","Waycross,"GA"","2020","James C. Jones,"III"","n/a","n/a","22.538%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2020","Patrick C. Jones","n/a","n/a","22.538%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2020","The Jones Company","n/a","n/a","17.830%","n/a"
+"Jones Bancshares,"LP"","Blackshear,"GA"","2020","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","18.527%","n/a"
+"Jones Bancshares,"LP"","Waycross,"GA"","2020","JCJ Investments,"Irrevocable Trust"","n/a","n/a","18.562%","n/a"
+"PrimeSouth Bancshares,"INC"","Waycross,"GA"","2020","Jones Bancshares,"L.P."","Common Stock","2856","75.24%","n/a"
+"PrimeSouth Bancshares,"INC"","Waycross,"GA"","2020","J.C. Jones,"Jr. Estate"","Common Stock","205","5.40%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jones Bancshares,"L.P."","Limited Partner","The Jones Company","n/a","n/a","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","General Partner","J.C. Jones,"III"","Chairman/CEO","Jones Company","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","General Partner","Patrick Jones","Vice President","Jones Company","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","Director","James A. Walker,"Jr."","President","Jones Company","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","Secretary","W. Nick Taylor","n/a","n/a","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","Limited Partner","JCJ Investments,"Irrevocable Trust"","n/a","n/a","2020","n/a","n/a"
+"Jones Bancshares,"L.P."","Limited Partner","2012 Patrick Jones,"Irrevocable Trust"","n/a","n/a","2020","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Principal Shareholder","Jones Bancshares,"L.P."","n/a","n/a","2020","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","n/a","J.C. Jones,"Jr. Estate"","n/a","n/a","2020","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2020","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Patrick Jones","Vice President","Jones Company","2020","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","n/a","James A. Walker,"Jr."","President","Jones Company","2020","President","n/a"
+"PrimeSouth Bancshares,"INC."","Secretary","W. Nick Taylor","n/a","n/a","2020","n/a","n/a"
+```

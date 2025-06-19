@@ -1,14 +1,23 @@
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BCI Financial Group","Santiago","2018","Banco de Credito e Inversiones","Common Stock","927345444","100%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CITY NATIONAL BANK OF FLORIDA","Santiago,"Chile"","2018","Banco de Credito e Inversiones","common stock","927345444","100%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","President & CEO","City National Capital Finance,"LLC."","2018"
-"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","Director","BCI Factoring S.A.","2018"
-"BCI Miami Branch","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2018"
-"City National Bank of Florida","Secretary/General Manager","S. Marshall Martin","General Counsel","CNB Housing Foundation,"Inc."","2018"
-"City National Bank of Florida","Treasurer","Daniel S. Kushner,"Jr."","Chief Financial Officer","BCICapital,"Inc."","2018"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","Director","City National Capital Finance,"LLC."","2018","President & CEO","814430"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","Director","United Way of Miami Dade","2018","President & CEO","814430"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","Director","The Museum of Contemporary Art","2018","President & CEO","814430"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","Director","FIBA","2018","President & CEO","814430"
+"City National Bank of Florida","Director & General Manager","Jorge Gonzalez","Director","Nicklaus Children's Hospital","2018","President & CEO","814430"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","President","BCI Factoring S.A.","2018","CEO - Banco de Credito e Inversiones","n/a"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","Director","Empresas Yarur S.P.A","2018","CEO - Banco de Credito e Inversiones","n/a"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","President","BCI Asesoria Financiera S.A.","2018","CEO - Banco de Credito e Inversiones","n/a"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","President","Servicios Financieros y Administracion de Creditos Comerciales S.A.","2018","CEO - Banco de Credito e Inversiones","n/a"
+"Banco de Credito e Inversiones","Director/General Manager","Eugenio Von Chrismar","President","BCI Securitizadora S.A.","2018","CEO - Banco de Credito e Inversiones","n/a"
+"City National Bank of Florida","Director/General Manager","Maria Grisel Vega","Director","BCI Securities,"Inc."","2018","General Manager - BCI Miami Branch","n/a"
+"City National Bank of Florida","Secretary/General Manager","S. Marshall Martin","Director","CNB Housing Foundation,"Inc."","2018","General Counsel - City National Bank of Florida","n/a"
+"City National Bank of Florida","Secretary/General Manager","S. Marshall Martin","Director","South Florida Banking Institute,"Inc."","2018","General Counsel - City National Bank of Florida","n/a"
+"City National Bank of Florida","Treasurer","Daniel S. Kushner,"Jr."","Director","BCICapital,"Inc."","2018","Chief Financial Officer - City National Bank of Florida","n/a"
 ```

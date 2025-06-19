@@ -1,0 +1,22 @@
+"Okay","here are the two tables extracted from the document","in CSV format as requested."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"DAWSON BANCSHARES","Leesburg,"GA"","2021","Harry Phillips Smith Trust 2020","n/a","18819","49.41%","n/a"
+"DAWSON BANCSHARES","Dawson,"GA"","2021","Jack Laing","n/a","2360","6.20%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"DAWSON BANCSHARES","Director","Barry N. Lyle","Secretary & Treasurer","n/a","2021","n/a","n/a"
+"DAWSON BANCSHARES","President and CEO","Barry N. Lyle","n/a","n/a","2021","n/a","n/a"
+"DAWSON BANCSHARES","Director","W.T. Gamble,"Jr."","Owner/operator","Gamble Farms,"Inc."","2021","Retired","n/a"
+"DAWSON BANCSHARES","Director","Don Laing","Self-employed/Contractor","n/a","2021","Self-employed Contractor","n/a"
+"DAWSON BANCSHARES","Director","William Thomas Rountree","Owner/Editor","Dawson News","2021","Owner/Editor of Dawson News","n/a"
+"DAWSON BANCSHARES","Director","Ron Lee","Vice President","McCleskey Cotton","2021","Vice President of Operations / McCleskey Cotton","n/a"
+"DAWSON BANCSHARES","Director","Milton F. Foster","n/a","Foster Easypay Tire","2021","Owner - tire business","n/a"
+"DAWSON BANCSHARES","Director","Brad Stafford","President","Brad Stafford,"Inc."","2021","Owner - furniture store","n/a"
+"DAWSON BANCSHARES","Director","Charles E. Scott,"Jr."","n/a","Dawson Pharmacy","2021","Pharmacist","n/a"
+"DAWSON BANCSHARES","Director","John Leach","Managing Partner","Flo-Rob,"Inc."","2021","Real Estate Investments","n/a"
+"DAWSON BANCSHARES","Director","Edward Collier","Partner","CollierGamble","2021","Attorney","n/a"
+```

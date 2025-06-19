@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jones Bancshares,"L.P."","Waycross,"GA"","2014","James C. Jones,"III"","n/a","n/a","37.58%","n/a"
+"Jones Bancshares,"L.P."","Blackshear,"GA"","2014","Patrick C. Jones","n/a","n/a","37.53%","n/a"
+"Jones Bancshares,"L.P."","Waycross,"GA"","2014","The Jones Company","n/a","n/a","24.90%","n/a"
+"PrimeSouth Bancshares,"INC."","Waycross,"GA"","2013","Jones Bancshares,"L.P."","n/a","2856","75.24%","n/a"
+"PrimeSouth Bancshares,"INC."","Waycross,"GA"","2013","J.C. Jones,"Jr."","n/a","205","5.40%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jones Bancshares,"L.P."","Limited Partner","The Jones Company","n/a","n/a","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","Limited Partner","J.C. Jones,"Jr."","Director/Chairman","PrimeSouth Bancshares,"Inc."","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","Limited Partner","J.C. Jones,"Jr."","Director/Chairman","PrimeSouth Bank","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","General Partner","J.C. Jones,"III"","Chairman/CEO","Jones Company","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","Director","Patrick Jones","Vice President","Jones Company","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","Director","James A. Walker,"Jr."","President","Jones Company","2014","n/a","n/a"
+"Jones Bancshares,"L.P."","Director","Walter Dixon","President","Dixon New Holland Tractor Co.","2014","Agricultural retail -Dixon New Holland Tractor Co.","n/a"
+"Jones Bancshares,"L.P."","Secretary","W. Nick Taylor","n/a","n/a","2014","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Principal Shareholder","Jones Bancshares,"L.P."","n/a","n/a","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director/ Chairman","J.C. Jones,"Jr."","Administrator","Jones Company","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director/ Chairman","J.C. Jones,"Jr."","Administrator","Jones Company Blackshear,"GA"","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","J.C. Jones,"III"","Chairman/CEO","Jones Company Blackshear,"GA"","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Patrick Jones","Vice President","Jones Company","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Patrick Jones","Vice President","Jones Company Blackshear,"GA"","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Director","James A. Walker,"Jr."","President","Jones Company","2013","PresidentJones Company","n/a"
+"PrimeSouth Bancshares,"INC."","Director","James A. Walker,"Jr."","President","Jones Company Blackshear,"GA"","2013","PresidentJones Company","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Walter Dixon,"Sr."","President Dixon","Dixon New Holland Ford Tractor Co.","2013","Agricultural Retail - Dixon New Holland Ford Tractor Co.","n/a"
+"PrimeSouth Bancshares,"INC."","Director","Walter Dixon,"Sr."","President Dixon","Dixon New Holland Ford Tractor Co. Blackshear,"GA"","2013","Agricultural Retail - Dixon New Holland Ford Tractor Co.","n/a"
+"PrimeSouth Bancshares,"INC."","Secretary","W. Nick Taylor","CEO/Director","n/a","2013","n/a","n/a"
+"PrimeSouth Bancshares,"INC."","Secretary","W. Nick Taylor","CEO/Director","PrimeSouth Bank","2013","n/a","n/a"
+```

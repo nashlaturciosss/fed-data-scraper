@@ -1,0 +1,29 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Luling,"LA"","2015","Brandt J. Dufrene","Class A & Class D Common Stock","59130","51.00%","1140190"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2015","Brandt J. Dufrene Jr. Trust","Class A & Class D Common Stock","16524","14.25%","1140190"
+"First St. Charles Bancshares,"Inc."","Boutte,"LA"","2015","Stephen S. Dufrene,"Trust"","Class A & Class D Common Stock","19995","17.25%","1140190"
+"First St. Charles Bancshares,"Inc."","Metairie,"LA"","2015","Brandt J. Dufrene,"Jr."","Class A & Class D Common Stock","11882","10.25%","1140190"
+"First St. Charles Bancshares,"Inc."","Destrehan,"LA"","2015","Stephen S. Dufrene","Class A & Class D Common Stock","8411","7.25%","1140190"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First St. Charles Bancshares,"Inc."","Chairman & President,"Chairman & President"","Brandt J. Dufrene","n/a","Dormant Company","2015","Chairman & Pr","714839"
+"First St. Charles Bancshares,"Inc."","Chairman & President,"Chairman & President"","Brandt J. Dufrene","n/a","Oceanic Fleet,"Inc."","2015","Chairman & Pr","714839"
+"First St. Charles Bancshares,"Inc."","Chairman & President,"Chairman & President"","Brandt J. Dufrene","n/a","Oceanic Fleet,"LLC"","2015","Chairman & Pr","714839"
+"First St. Charles Bancshares,"Inc."","Chairman & President,"Chairman & President"","Brandt J. Dufrene","n/a","Audubon Guest House,"LLC"","2015","Chairman & Pr","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Brandt J. Dufrene,"Jr."","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Audubon Guest House,"LLC"","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Dormant Company","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Oceanic Fleet Management,"LLC"","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Branson Des Allemands Properties,"LLC"","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Brandtsons Partners","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Dufrene Title,"LLC"","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director,"Director"","Brandt J. Dufrene,"Jr."","Attorney at Law","Brandt J. Dufrene,"Jr.","LLC"","2015","Attorney","714839"
+"First St. Charles Bancshares,"Inc."","Director","Kenneth Soyez","n/a","None","2015","Retired","n/a"
+"First St. Charles Bancshares,"Inc."","n/a","Brandt J. Dufrene,"Jr. Trust"","n/a","None","2015","N/A","n/a"
+"First St. Charles Bancshares,"Inc."","n/a","Stephen S. Dufrene,"Trust"","n/a","None","2015","N/A","n/a"
+```

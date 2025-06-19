@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"General Bancshares,"Inc."","Jasper,"TN"","2018","Geoffrey Post","n/a","13367.00","8.478%","1139514"
+"General Bancshares,"Inc."","Monteagle,"TN"","2018","Robert R. Thomas","n/a","10111.50","6.413%","1139514"
+"General Bancshares,"Inc."","Whitwell,"TN"","2018","Howard & Nancy Rigsby","n/a","9546.00","6.055%","1139514"
+"General Bancshares,"Inc."","Jasper,"TN"","2018","Clara Brown","n/a","5523.25","5.090%","1139514"
+"General Bancshares,"Inc."","Signal Mountain,"TN"","2018","Robert Reece Thomas,"Jr."","n/a","6751.00","6.222%","1139514"
+"General Bancshares,"Inc."","South Pittsburg,"TN"","2018","David Thomas","n/a","6443.00","5.938%","1139514"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tower Community Bank","Board Member","Robert Reece Thomas,"Jr."","Owner","Sequatchie Concrete Services,"Inc."","2018","Manufacturing","n/a"
+"Tower Community Bank","n/a","Henry Lodge","Officer of Lodge Manufacturing","n/a","2018","Manufacturing","n/a"
+"Tower Community Bank","Board Chairman/ President/CEO","Geoffrey Post","n/a","n/a","2018","Banking","n/a"
+"Tower Community Bank","Board Member","Jerry Don Thomas","n/a","First Community Financial,"Inc."","2018","Mortgage Broker","n/a"
+"Tower Community Bank","Board Member","William S. Dinker","n/a","n/a","2018","Retired","n/a"
+"Tower Community Bank","Executive Vice President","Richard Moody","n/a","n/a","2018","Banking","n/a"
+"Tower Community Bank","Board Member/ President/CEO","Geoffrey Post","n/a","n/a","2018","Banking","n/a"
+"Tower Community Bank","n/a","Robert R. Thomas","n/a","n/a","2018","Retired","n/a"
+"Tower Community Bank","n/a","Susan Thomas","n/a","n/a","2018","Retired","n/a"
+"Tower Community Bank","n/a","Allen Thomas","n/a","n/a","2018","Counselor","n/a"
+"Tower Community Bank","n/a","Stephen Thomas","n/a","n/a","2018","Teacher","n/a"
+"Tower Community Bank","n/a","David Thomas","n/a","n/a","2018","Manufacturing","n/a"
+```

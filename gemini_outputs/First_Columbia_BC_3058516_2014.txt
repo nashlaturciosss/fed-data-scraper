@@ -1,0 +1,25 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Columbia Bancorp,"Inc."","Lake City,"FL"","2014","Lester & Anne Scaff","common stock","2938544","90.039%","3058516"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Columbia Bancorp,"Inc."","Director","Gordon P. Summers","Manager","n/a","2014","Attorney at Law","n/a"
+"First Columbia Bancorp,"Inc."","Director","Gordon P. Summers","Co-Manager","n/a","2014","Attorney at Law","n/a"
+"First Columbia Bancorp,"Inc."","CEO President","KC Trowell","n/a","n/a","2014","n/a","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","Chief Financial Officer","S & S Food Stores","2014","Chief Financial Officer","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","President","S & S Food Stores","2014","Chief Financial Officer","n/a"
+"First Columbia Bancorp,"Inc."","Director","Jenny Drawdy","Managing Member","S & S Food Stores","2014","Chief Financial Officer","n/a"
+"First Columbia Bancorp,"Inc."","Director","Michael Collins","President & Owner","C&G Manufactured Homes","2014","Owner Manufactured Homes","n/a"
+"First Columbia Bancorp,"Inc."","Director","Dr. Ronald Foreman,"("","President & Owner","North Florida Eye Care","2014","Owner Eye Care Center","n/a"
+"First Columbia Bancorp,"Inc."","Director","Norbie Ronsonet","President & Owner","Ronsonet Bulck - GMC","2014","Owner Automobile Dealership","n/a"
+"First Columbia Bancorp,"Inc."","Vice Chairman","Richard Johnson","Owner/Managing Member","Shields & Johnson CPA's","2014","CPA","n/a"
+"First Columbia Bancorp,"Inc."","Director","Richard Johnson","Owner/Managing Member","Shields & Johnson CPA's","2014","CPA","n/a"
+"First Columbia Bancorp,"Inc."","Director","S. Lester Scaff","President","n/a","2014","Owner Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Chairman","S. Lester Scaff","President","n/a","2014","Owner Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Director","S. Lester Scaff","Director","n/a","2014","Owner Convenience Stores","n/a"
+"First Columbia Bancorp,"Inc."","Chairman","S. Lester Scaff","Director","n/a","2014","Owner Convenience Stores","n/a"
+```

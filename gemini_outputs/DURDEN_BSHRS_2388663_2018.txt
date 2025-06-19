@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Durden Bankshares,"Inc."","Twin City,"GA"","2018","DURDEN BANKING CO EMPLOYEE STOCK OWNERSHIP PLAN Trustees: Clay H. Clark,"Dal D. Durden","Lacy B. Frye","III","G.W. Johnson","Jr.","J. Robert Bowen","Jr.","and James O. Cowart","Jr."","n/a","7807","19.71%","n/a"
+"Durden Bankshares,"Inc."","Swainsboro,"GA"","2018","DAL D DURDEN","n/a","2050","5.18%","n/a"
+"Durden Bankshares,"Inc."","Johns Creek,"GA"","2018","JAY FRANKLIN ROWLAND","n/a","2500","6.31%","n/a"
+"Durden Bankshares,"Inc."","Waynesboro,"GA"","2018","MELANY JONES","n/a","2150","5.43%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Durden Bankshares,"Inc."","PRESIDENT/DIRECTOR","G. W. JOHNSON,"JR."","PRES/CEO/DIRECTOR","Durden Banking Co.,"INC."","2018","BANKING","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","EAST GA INVESTMENT CO","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","MAIN STREET DEVELOPMENT CORP","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","SWAINSBORO DEVELOPMENT CORP","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","SOUTH MAIN PROPERTIES","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","FLIGHTCO,"INC."","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JERRY N. CADLE","n/a","DEER CREEK DEVELOPMENT","2018","LAWYER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LOY D. COWART,"JR."","n/a","n/a","2018","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DANNY C. OLLIFF","n/a","OLLIFF & FORDHAM CPAS.,"PC"","2018","LAWYER/ACCOUNTANT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DAL D. DURDEN","n/a","SWAINSBORO SUPPLY","2018","BUILDING SUPPLY OWNER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","DAL D. DURDEN","n/a","DURDEN INVESTMENTS","2018","BUILDING SUPPLY OWNER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","CLAY H. CLARK","n/a","n/a","2018","FARMER","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","WILLIAM L. MATHIS","n/a","MATHIS LAND APPRAISALS","2018","APPRAISER","n/a"
+"Durden Bankshares,"Inc."","n/a","DURDEN BANKING CO. EMPLOYEE STOCK OWNERSHIP PLAN","n/a","n/a","2018","ESOP","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","LACY B FRYE,"III"","n/a","n/a","2018","RETIRED SCHOOL SUPERINTENDENT","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","CANDLER PHARMACY,"P. C."","2018","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","PILLMAN ENTERPRISES,"LLC"","2018","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","CANDLER PHARMACY SERVICES,"LLC"","2018","PHARMACIST","n/a"
+"Durden Bankshares,"Inc."","DIRECTOR","JOHN ROBERT BOWEN,"JR"","n/a","KENT INVESTMENTS,"LLC"","2018","PHARMACIST","n/a"
+```

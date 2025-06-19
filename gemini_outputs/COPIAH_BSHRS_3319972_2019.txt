@@ -1,0 +1,25 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Copiah Bancshares,"Inc."","Jackson,"MS"","2019","Estate of Gwendolyn B. Cragon","Common Stock","41876","10.42%","n/a"
+"Copiah Bancshares,"Inc."","Madison,"MS"","2019","Blythe B. & Gwendolyn B. Cragon","Common Stock","48528","12.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Copiah Bancshares,"Inc."","Pres./CEO","Carl S. Bozeman,"Jr."","Pres.","Bozeman Chevron SS Inc.","2019","n/a","n/a"
+"Copiah Bancshares,"Inc."","Director","George R. Marx","n/a","n/a","2019","n/a","n/a"
+"Copiah Bancshares,"Inc."","Director","Alford M. Cooley","Pres.","Modglin Associates,"Inc."","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","Alford M. Cooley","Partner","Alco Farms","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","Robert C. Cragon","Sr. Vice-Pres.","First Commercial Bank","2019","Banker","n/a"
+"Copiah Bancshares,"Inc."","Director","James W. Henley","Partner","Cornea Clinic Urgent Care,"LLC"","2019","Attorney","n/a"
+"Copiah Bancshares,"Inc."","Director","Carolyn C. Loftin","n/a","n/a","2019","Businesswoman","n/a"
+"Copiah Bancshares,"Inc."","Director","Jeffery T. Knight","Partner","Mississippi Machinery","2019","Engineer","n/a"
+"Copiah Bancshares,"Inc."","Director","Victor L. Smith","n/a","n/a","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","Donald R. Thompson","n/a","n/a","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","John A. Sullivan","Tax Assessor","Rankin County,"Mississippi"","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","John A. Sullivan","n/a","Geler Properties,"LLC"","2019","Businessman","n/a"
+"Copiah Bancshares,"Inc."","Director","Jane Roper","n/a","n/a","2019","n/a","n/a"
+"Copiah Bancshares,"Inc."","n/a","Estate of Gwendolyn B. Cragon","n/a","n/a","2019","n/a","n/a"
+```

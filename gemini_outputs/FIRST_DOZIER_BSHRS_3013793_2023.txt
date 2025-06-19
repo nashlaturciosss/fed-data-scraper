@@ -1,0 +1,12 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Dozier,"Alabama"","2023","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Dozier Bancshares,"Inc."","Executive Vice-President","Shaun M. Wilcox","n/a","n/a","2023","n/a","n/a"
+"First Dozier Bancshares,"Inc."","Asst. Controller","Natasha Sutton","n/a","n/a","2023","n/a","n/a"
+```

@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2019","Michael Officer","n/a","n/a","n/a","n/a"
+"People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2019","Gale Copeland","n/a","n/a","n/a","n/a"
+"People's Bank and Trust Co of Pickett Coun","Byrdstown,"TN"","2019","Bruce Elder","n/a","n/a","n/a","n/a"
+"People's Bank and Trust Co of Pickett Coun","Livingston,"TN"","2019","Charlotte Elder","n/a","n/a","5.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"People's Bank and Trust Co of Pickett Coun","CEO","Bruce E. Elder","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","Trustee","Bruce E. Elder","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","President","Michael D. Officer","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","COO","Michael D. Officer","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","CFO","Michael D. Officer","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","Director","Michael D. Officer","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","Secretary","Michael D. Officer","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","Director","Joseph Amonett","n/a","n/a","2019","Insurance"
+"People's Bank and Trust Co of Pickett Coun","Director","Stephen Bilbrey","n/a","n/a","2019","Grocery"
+"People's Bank and Trust Co of Pickett Coun","Director","Gale Copeland","n/a","n/a","2019","Retired"
+"People's Bank and Trust Co of Pickett Coun","Trustee","Gale Copeland","n/a","n/a","2019","Retired"
+"People's Bank and Trust Co of Pickett Coun","Chairman","John Keisling","n/a","n/a","2019","Insurance"
+"People's Bank and Trust Co of Pickett Coun","Director","Bobby H. Mullins","n/a","n/a","2019","Retired"
+"People's Bank and Trust Co of Pickett Coun","Director","Larry T. Conner","n/a","n/a","2019","Retired"
+"People's Bank and Trust Co of Pickett Coun","Director","David Reeves","n/a","n/a","2019","Concrete plant"
+"People's Bank and Trust Co of Pickett Coun","Director","Terry White","n/a","n/a","2019","Pipe Supply"
+"People's Bank and Trust Co of Pickett Coun","SVP","Jeremy Howard","n/a","n/a","2019","Banker"
+"People's Bank and Trust Co of Pickett Coun","VP","Bryan Elder","n/a","n/a","2019","Banker"
+```

@@ -1,0 +1,25 @@
+"Okay","I'm ready to extract the data from the provided document and create the two CSV tables."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"General Bancshares,"Inc."","Jasper,"Tennessee"","2021","Geoffrey Post (voting member)","n/a","19041.85","8.469%","n/a"
+"General Bancshares,"Inc."","South Pittsburg,"Tennessee"","2021","Robert Reece Thomas,"Jr."","n/a","25253.00","11.232%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"General Bancshares,"Inc."","n/a","The Thomas Trust","n/a","n/a","2021","Estate","n/a"
+"General Bancshares,"Inc."","n/a","Susan Thomas","n/a","n/a","2021","Retired","n/a"
+"General Bancshares,"Inc."","Board Member","Robert Reece Thomas,"Jr."","n/a","n/a","2021","Retired","n/a"
+"General Bancshares,"Inc."","n/a","Allen Thomas","n/a","n/a","2021","Counselor","n/a"
+"General Bancshares,"Inc."","n/a","Stephen Thomas","n/a","n/a","2021","Teacher","n/a"
+"General Bancshares,"Inc."","n/a","David Thomas","n/a","n/a","2021","Retired","n/a"
+"General Bancshares,"Inc."","n/a","Thomas Brothers Partnership","n/a","n/a","2021","Rental Properties","n/a"
+"General Bancshares,"Inc."","Board Member/Secretary","Henry Lodge","Officer of Lodge Manufacturing","Lodge Manufacturing","2021","Manufacturing","n/a"
+"General Bancshares,"Inc."","Board Chairman/President/CEO","Geoffrey Post","President/CEO","n/a","2021","Banking","n/a"
+"General Bancshares,"Inc."","Board Member","Jerry Don Thomas","Owner","First Community Financial,"Inc."","2021","Mortgage Broker","n/a"
+"General Bancshares,"Inc."","Board Member","Jerry Don Thomas","Owner","First Community Financial,"Inc."","2021","Mortgage Broker","n/a"
+"General Bancshares,"Inc."","Board Member","William S. Dinker","n/a","n/a","2021","Retired","n/a"
+"General Bancshares,"Inc."","Board Member","Richard Moody","Vice President","n/a","2021","Executive Banking","n/a"
+"General Bancshares,"Inc."","Board Member/President/CEO","Geoffrey Post (voting member)","President/CEO","n/a","2021","Banking","n/a"
+```

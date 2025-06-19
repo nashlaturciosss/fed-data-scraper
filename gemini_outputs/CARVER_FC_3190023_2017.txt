@@ -1,18 +1,25 @@
-Here are the CSV tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"CARVER FINANCIAL CORPORATION","Savannah","2017","Robert E. James","Common Stock","285231.7650","48"
-"CARVER FINANCIAL CORPORATION","Cleveland","2017","Karlene E. Farabee","Common Stock","57665.0250","9.70"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Savannah,"GA"","2017","Robert E. James","Common Stock","285231.7650","48%","n/a"
+"CARVER FINANCIAL CORPORATION","Cleveland,"TN"","2017","Karlene E. Farabee","Common Stock","57665.0250","9.70%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","Director & President","Carver State Bank","2017"
-"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2017"
-"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","Director","Carver State Bank","2017"
-"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","Director","Carver State Bank","2017"
-"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Director","Carver State Bank","2017"
-"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","Director","Carver State Bank","2017"
-"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","Director","Carver State Bank","2017"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Bank Properties,"Ltd."","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Century Investors,"Limited"","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Anderson Street Associates,"Limited"","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","United Properties,"Inc."","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Atlantic Communications of Georgia,"Inc."","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","Director & Chairman","Robert E. James","See Attachment A","Campus Properties,"LLC"","2017","Bank President","370833"
+"CARVER FINANCIAL CORPORATION","n/a","Karlene E. Farabee","n/a","n/a","2017","n/a","370833"
+"CARVER FINANCIAL CORPORATION","Director","E. Bruce Adams","None","n/a","2017","Funeral Home Director & Owner","370833"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Century Investors,"Ltd."","2017","Executive Director of a Non-profit Agency","370833"
+"CARVER FINANCIAL CORPORATION","Director","William E. Stiles,"Sr."","General Partner","Anderson Street Associates,"Ltd."","2017","Executive Director of a Non-profit Agency","370833"
+"CARVER FINANCIAL CORPORATION","Director","David L. Douse","Sole Member","Springfield Properties,"LLC"","2017","Bank Officer","370833"
+"CARVER FINANCIAL CORPORATION","Director","Edward G. Miller","None","n/a","2017","Retired Educator & Healthcare Administrator","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Coastal Legacy Group,"LLC"","2017","Consultant & Attorney","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","CLG MLK Savannah,"LLC"","2017","Consultant & Attorney","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Golden Holley James,"LLP"","2017","Consultant & Attorney","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","Bank Properties,"Ltd."","2017","Consultant & Attorney","370833"
+"CARVER FINANCIAL CORPORATION","Director","Robert E. James,"II"","See Attachment B","GHJ Solutions,"LLC"","2017","Consultant & Attorney","370833"
 ```

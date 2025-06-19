@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Bancorp of Oviedo,"Inc."","Winter Park,"FL"","2014","Anna Ondick","n/a","37589","6.82%","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Oviedo,"Florida"","2014","Jonathan S. Lukas","n/a","29215","5.32%","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Oviedo,"Florida"","2014","Arthur Evans","n/a","34746","6.33%","2958347"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Bernard O. Blackwood","President","Blackwood Construction","2014","Construction","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","President/CEO","Richard H. Lee","n/a","n/a","2014","None","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Vice Chair & Director","Anna Ondick","President","n/a","2014","Retired","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","David Duda","President & CEO","A Duda & Sons Inc","2014","President & CEO of A Duda & Sons Inc","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Don Drummer","Retired","n/a","2014","None","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Jonathan S. Lukas","President","Red Fox Trucking,"Inc."","2014","President of Trucking company","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","W. Rex Clonts","President","Clonts Groves","2014","Farmer","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","W. Rex Clonts","President","Clonts Farms","2014","Farmer","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Robert G. Martin","n/a","n/a","2014","None","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Louis P. Tulp","Real Estate Agent","Axel Real Estate","2014","Real Estate Agent","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Chairman & Director","Arthur P. Evans","President","Nelson & Co.","2014","Mangement of Citrus and Property","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Director","Don Jacobs","Retired","n/a","2014","Retired","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President","Terry Vargo","n/a","n/a","2014","None","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President","Tim Slattery","n/a","n/a","2014","None","2958347"
+"Citizens Bancorp of Oviedo,"Inc."","Executive Vice President/CFO","Gregory E. Smith","n/a","n/a","2014","None","2958347"
+```

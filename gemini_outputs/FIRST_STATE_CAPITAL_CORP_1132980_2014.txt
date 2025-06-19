@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST STATE CAPITAL CORPORATION","Lineville,"AL"","2014","Gail McCord","Common Stock","14751","6.57%","n/a"
+"FIRST STATE CAPITAL CORPORATION","Lineville,"AL"","2014","Kenneth D. Vaughn","Common Stock","13199","5.88%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST STATE CAPITAL CORPORATION","President,"CEO","Director"","Steve Foster","President & CEO","FirstState Bank","2014","Bank President","n/a"
+"FIRST STATE CAPITAL CORPORATION","EVP,"CFO","Director","Secretary"","Carlton DeVaughn","EVP/CFO","FirstState Bank","2014","Bank Vice President","n/a"
+"FIRST STATE CAPITAL CORPORATION","Chairman","Don Hogan","Director","FirstState Bank","2014","Pharmacist","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","JoAnn Blair","Director","FirstState Bank","2014","Education","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Doyle L Phillips","Director","FirstState Bank","2014","Farmer","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","James E. Malone","Director","FirstState Bank","2014","Attorney","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Anna Marie Rush","Director","FirstState Bank","2014","Farmer","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Donald Harris","Partner","Harris Plumbing & Electric","2014","Electrical/Plumbing Supply","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Donald Harris","Partner","FirstState Bank","2014","Electrical/Plumbing Supply","n/a"
+"FIRST STATE CAPITAL CORPORATION","Director","Larry Raughton","Director","FirstState Bank","2014","Farmer","n/a"
+```

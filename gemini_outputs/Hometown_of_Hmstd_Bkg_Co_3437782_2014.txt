@@ -1,0 +1,33 @@
+"Okay","I understand. Here are the two tables extracted from the document in the requested CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Hometown of Homestead Banking Company","Homestead,"FL"","2014","William H. Losner Revocable Trust","Common Stock","5678035","40.47%","3437782"
+"Hometown of Homestead Banking Company","Homestead,"FL"","2014","William H. Losner","Common Stock","800000","5.70%","3437782"
+"Hometown of Homestead Banking Company","Homestead,"FL"","2014","Doylene Losner","Common Stock","800000","5.70%","3437782"
+"Hometown of Homestead Banking Company","Homestead,"FL"","2014","Richard T. Alger Revocable Trust","Common Stock","1560998","11.13%","3437782"
+"Hometown of Homestead Banking Company","Homestead,"FL"","2014","Richard T. Alger,"Trustee of Mason W. Alger Irrevocable Trust F/B/O Thomas Alger"","Common Stock","1500000","10.69%","3437782"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Hometown of Homestead Banking Company","Director","John L. Alger","President & Director","Alger Farms,"Inc."","2014","Farmer","3437782"
+"Hometown of Homestead Banking Company","Director","Richard T. Alger","n/a","n/a","2014","Retired Farmer","3437782"
+"Hometown of Homestead Banking Company","Director,"EVP","& Secretary"","Robert Ares","n/a","n/a","2014","Banker","3437782"
+"Hometown of Homestead Banking Company","Director","Paul J. DiMare","President","DiMare,"Inc."","2014","Farmer","3437782"
+"Hometown of Homestead Banking Company","Director","Carl Hanson","President","Carl Hanson,"P.Α."","2014","Attorney","3437782"
+"Hometown of Homestead Banking Company","Director","Medora Krome","Owner/Vice President","South Florida Grove Maintenance,"Inc."","2014","Avocado Grower","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Director","Corporate Air Charters,"Inc."","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Director","The Flight Department,"Inc."","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","Homestead Investments,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","Bridge Investment Group,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","Bridge Investment Group 2,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","Downer Palms,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","JDL Enterprises,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Director & President","Miami Air Charter,"Inc."","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Manager","J&J Investments,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director","Jeff Losner","Authorized Member","Corporate Air Group,"LLC"","2014","Business Owner","3437782"
+"Hometown of Homestead Banking Company","Director,"President & CEO"","William H. Losner","President","Bill's Aircraft Service,"Inc."","2014","Retired Banker","3437782"
+"Hometown of Homestead Banking Company","Director & EVP","David A. Peyton","Attorney","n/a","2014","Banker","3437782"
+"Hometown of Homestead Banking Company","Director & Chairman","James R. Pierce","n/a","n/a","2014","Certified Public Accountant","3437782"
+```

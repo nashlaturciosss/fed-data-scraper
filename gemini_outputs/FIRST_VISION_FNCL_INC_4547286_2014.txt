@@ -1,0 +1,30 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Vision Financial,"Inc."","Chairman & CEO","James J. Penland","Chairman","Penland-Vaughn Properties","2014","Banker","4547286"
+"First Vision Financial,"Inc."","n/a","Coyle O Clark","Partner","Clark,"Knies","& Crenshaw","PLLC"","2014","Certified Public Accountant","4547286"
+"First Vision Financial,"Inc."","n/a","William Dennis Daniel","Owner","Delta Properties","2014","Family Practitioner","4547286"
+"First Vision Financial,"Inc."","Secretary/CCO/VP","Roy Neal Eckert","n/a","n/a","2014","Banker","4547286"
+"First Vision Financial,"Inc."","n/a","Kenneth Nelson Hatchett","Owner","Hatchett Insurance Agency","2014","Owner-Insurance Agency","4547286"
+"First Vision Financial,"Inc."","n/a","Kenneth Nelson Hatchett","Partner","NLKM Heritage LLP","2014","Owner-Insurance Agency","4547286"
+"First Vision Financial,"Inc."","n/a","Jeffrey W. Keele","Partner","All Creatures Veterinary","2014","Veterinarian","4547286"
+"First Vision Financial,"Inc."","Chief Financial Officer","Denise Ledford","n/a","n/a","2014","Accountant","4547286"
+"First Vision Financial,"Inc."","n/a","Mike Niederhauser","Partner","C&N Rental","2014","Real Estate Investor","4547286"
+"First Vision Financial,"Inc."","n/a","John R Roberts","President/Owner","Roberts Automotive Group","2014","Auto Dealer","4547286"
+"First Vision Financial,"Inc."","n/a","John R Roberts","Partner","Celebration Realty Group","2014","Auto Dealer","4547286"
+"First Vision Financial,"Inc."","n/a","John R Roberts","Partner","Exit Realty","2014","Auto Dealer","4547286"
+"First Vision Financial,"Inc."","n/a","John R Roberts","Partner","RWG Realty","2014","Auto Dealer","4547286"
+"First Vision Financial,"Inc."","n/a","Tina M Rose","Owner","T. Michelle's Clothiers","2014","Retail Manager","4547286"
+"First Vision Financial,"Inc."","President and CEO","Robert M Rowland","n/a","n/a","2014","Banker","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Owner","Robertson-Vaughn Construction","2014","Construction Manager","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Partner","Washington Park Development","2014","Construction Manager","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Partner","Martin-Vaughn","2014","Construction Manager","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Partner","WPD/Collier-Norris","2014","Construction Manager","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Partner","Penland-Vaughn Properties","2014","Construction Manager","4547286"
+"First Vision Financial,"Inc."","n/a","Gregory A Vaughn","Partner","Round Cove Partners","2014","Construction Manager","4547286"
+```

@@ -1,0 +1,28 @@
+"Here are the two requested CSV tables","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2021","Wayne Porciau","Common Stock","92313","12.0335%","n/a"
+"Community First Bancshares,"Inc."","New Iberia,"LA"","2021","Greg Inzerella","Common Stock","61304","8.2138%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Community First Bancshares,"Inc."","Director","James B Falterman,"Jr."","Director","Community First Bank","2021","Medical Doctor","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","Member/Manager","James A and Kelly S Holleman Family LLC","2021","President","n/a"
+"Community First Bancshares,"Inc."","Director","James Holleman","President","Cardinal Services LLC","2021","President","n/a"
+"Community First Bancshares,"Inc."","Chairman","Greg Inzerella","President","Inzerella,"Feldman","& Pourciau","CPA's"","2021","Certified Public Accountant","n/a"
+"Community First Bancshares,"Inc."","Director","Jackie Judice","Public Relations","MA Patout","2021","MA Patout","n/a"
+"Community First Bancshares,"Inc."","Director & Executive Vice President","Benny Menard","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Director & President","Benny Menard","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Director & President","Wayne Pourciau","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Producer","Laris Insurance","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","Craig Romero","Executive Director","Port of Iberia","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Director","W Perry Stokes,"Jr."","n/a","n/a","2021","Retired","n/a"
+"Community First Bancshares,"Inc."","Director","Patrick Norris","President","Norris International Services,"LLC"","2021","Business Owner","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Joey Danos","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Larry Hensgens","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jimmy Rodrigue","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Dirk Trahan","n/a","n/a","2021","n/a","n/a"
+"Community First Bancshares,"Inc."","Senior Vice President","Jerome Weber","n/a","n/a","2021","n/a","n/a"
+```

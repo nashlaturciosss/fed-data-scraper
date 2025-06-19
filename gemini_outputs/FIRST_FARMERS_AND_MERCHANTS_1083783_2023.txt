@@ -1,0 +1,23 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Farmers and Merchants Corporation","Chairman and CEO","Brian K. Williams","n/a","n/a","2023","Chairman and CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Aiken","Deputy Commissioner","Tennessee Department of Agriculture","2023","Deputy Commissioner","n/a"
+"First Farmers and Merchants Corporation","Director","Jonathan M. Edwards","President","Edwards Oil of Lawrenceburg,"Inc."","2023","President and CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Jonathan M. Edwards","President","South TN Oil Co.,"Inc."","2023","President and CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Jonathan M. Edwards","President","Edwards Oil Co.,"Inc."","2023","President and CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Jonathan M. Edwards","General Partner","Edwards Land Co.,"LP"","2023","President and CEO","n/a"
+"First Farmers and Merchants Corporation","CFO","Robert E. Krimmel","Chief Manager","Edwards Real Estate,"LLC"","2023","n/a","n/a"
+"First Farmers and Merchants Corporation","Director","Christa S. Martin","Co-owner","Community Barbershop and Hair Styling","2023","Executive Director of Belonging and Student Resources","n/a"
+"First Farmers and Merchants Corporation","Director","Christa S. Martin","Co-owner","126 Blue Grass Barbershop","2023","Executive Director of Belonging and Student Resources","n/a"
+"First Farmers and Merchants Corporation","Director","W. Eric Mayberry","President","Tennessee Farm Bureau Federation","2023","President","n/a"
+"First Farmers and Merchants Corporation","Director","E. Marlee Mitchell","Partner","Holland & Knight,"LLP"","2023","Partner","n/a"
+"First Farmers and Merchants Corporation","Director","E. Marlee Mitchell","President","Rugby Land Company,"LLC"","2023","Partner","n/a"
+"First Farmers and Merchants Corporation","Director","Jeffrey L. Pannell","CEO","Tennessee Farmers Insurance Companies","2023","CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Richard C. Perko","Principal","ZULU Group,"LLC"","2023","President and CEO","n/a"
+"First Farmers and Merchants Corporation","Director","H. Alan Watson","n/a","n/a","2023","Retired CEO","n/a"
+"First Farmers and Merchants Corporation","Director","Gina B. Wolfe","n/a","Wolfe Enterprises dba McDonalds of Maury County","2023","Owner/Operator","n/a"
+```

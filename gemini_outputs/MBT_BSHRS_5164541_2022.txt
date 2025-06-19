@@ -1,0 +1,22 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MBT Bancshares","Metairie,"LA"","2022","Mr. & Mrs. Albert E. Ortte Trust #1","n/a","n/a","29.30%","n/a"
+"MBT Bancshares","Metairie,"LA"","2022","Mr. & Mrs. Albert E. Ortte Trust #2","n/a","n/a","0.16%","n/a"
+"MBT Bancshares","Metairie,"LA"","2022","Mr. & Mrs. Albert E. Ortte Trust #3","n/a","n/a","21.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MBT Bancshares","Director","Manuel F. Blanco","n/a","n/a","2022","Investment Manager","n/a"
+"MBT Bancshares","Director","Sean M. Bruno","CPA","Sean M. Bruno,"CPA LLC"","2022","CPA","n/a"
+"MBT Bancshares","Director","Robert A. Caplan","n/a","n/a","2022","Investment Manager & Attorney","n/a"
+"MBT Bancshares","Director & Secretary","Christopher E. Dodge","n/a","Computer's on Call,"LLC"","2022","IT analyst","n/a"
+"MBT Bancshares","Director","Kirsten E. Reisig","n/a","n/a","2022","Commercial Real Estate Ag Director","n/a"
+"MBT Bancshares","Director","Ross F. Lagarde","n/a","n/a","2022","Attorney","n/a"
+"MBT Bancshares","Director","Christopher A. Sarpy","n/a","n/a","2022","Real Estate Developer","n/a"
+"MBT Bancshares","Director","Reginald H. Smith,"Jr."","n/a","n/a","2022","n/a","n/a"
+"MBT Bancshares","Director & Chairman","Richard C. Stanley","n/a","Stanley,"Reuter","Ross","Thornton & Alford","LLC"","2022","Attorney","n/a"
+"MBT Bancshares","Director","Cynthia D. Teague","n/a","n/a","2022","n/a","n/a"
+```

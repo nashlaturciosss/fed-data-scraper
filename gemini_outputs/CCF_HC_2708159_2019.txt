@@ -1,26 +1,25 @@
-Here are the two tables extracted from the document:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Heritage Southeast Bancorporation","Fort Lauderdale","2019","Kenneth R. Lehman","Common Stock","3069241","42.12%"
-"Heritage Southeast Bancorporation","Fayetteville","2019","Brent Scarbrough,"etal"","Common Stock","404045","5.55%"
-"Heritage Southeast Bancorporation","Burr Ridge","2019","Philip J. Timyan","Common Stock","278892","8.79%"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage Southeast Bancorporation,"Inc."","Fort Lauderdale,"USA"","2019","Kenneth R. Lehman","Common Stock","3069241","42.12%","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Fayetteville,"USA"","2019","Brent Scarbrough,"etal"","Common Stock","404045","5.55%","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Burr Ridge,"USA"","2019","Philip J. Timyan","Common Stock","278892","8.79%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Heritage Southeast Bancorporation","Non-Executive Chairman","Kenneth R. Lehman","Non-Executive Chairman","See Attached Exhibit ""A""","2019"
-"Heritage Southeast Bancorporation","Director","Jeffery L. Arnold","Director","Jeffery L. Arnold PC (100%)","2019"
-"Heritage Southeast Bancorporation","Director","Roy V. Hall","Director","RV Hall,"Inc. (100%)"","2019"
-"Heritage Southeast Bancorporation","Director","John E. Mansour","Director","Hydrolive Holdings,"LLC (100%)"","2019"
-"Heritage Southeast Bancorporation","CEO,"Director"","Leonard R Moreland","CEO,"Director"","n/a","2019"
-"Heritage Southeast Bancorporation","Director","John M. Presley","Director","n/a","2019"
-"Heritage Southeast Bancorporation","Director","David H. Rupp","Director","Movement Bank","2019"
-"Heritage Southeast Bancorporation","President","Brian L. Smith","President","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Bradley P. Serff","n/a","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Melissa A. Deal","n/a","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Paul R. Hoerig","n/a","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Howard B. Lipham,"III"","n/a","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Philip F. Resch","n/a","n/a","2019"
-"Heritage Southeast Bancorporation","n/a","Katherine S. Zovlonsky","n/a","n/a","2019"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage Southeast Bancorporation,"Inc."","Non-Executive Chairman","Kenneth R. Lehman","n/a","See Attached Exhibit ""A""","2019","Bank Investor","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Director","Jeffery L. Arnold","PRES","Jeffery L. Arnold PC","2019","Attorney Jeffery L Arnold,"PC"","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Director","Roy V. Hall","TREAS","RV Hall Inc.","2019","Retired CPA","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Director","John E. Mansour","Principal","Hydrolive Holdings,"LLC"","2019","Small Business Owner","n/a"
+"Heritage Southeast Bancorporation,"Inc."","CEO,"Director"","Leonard R Moreland","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Director","John M. Presley","Executive Chairman","Sevier County Bank","2019","Bank Chairman","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Director","David H. Rupp","President","Movement Bank","2019","Bank President","n/a"
+"Heritage Southeast Bancorporation,"Inc."","President,"Chief Operating Officer","Director"","Brian L. Smith","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","First Executive Vice President,"Chief Strategy Officer","Director"","Bradley P. Serff","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Operations Officer"","Melissa A. Deal","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Credit Officer","Chief Risk Officer"","Paul R. Hoerig","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Banking Officer"","Howard B. Lipham,"III"","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Financial Officer Secretary"","Philip F. Resch","n/a","None","2019","n/a","n/a"
+"Heritage Southeast Bancorporation,"Inc."","Executive Vice President,"Chief Administrative Officer"","Katherine S. Zovlonsky","n/a","None","2019","n/a","n/a"
 ```

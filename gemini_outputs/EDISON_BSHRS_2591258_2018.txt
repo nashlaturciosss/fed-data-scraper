@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Edison National Bank","Fort Myers,"FL"","2018","Daniel E. and Celia B. Dosoretz","Common Stock","393382","34.3%","2591258"
+"Edison National Bank","Fort Myers,"FL"","2018","Daniel E. and Celia B. Dosoretz","Warrants on Common Stock","95238","7.7%","2591258"
+"Edison National Bank","Fort Myers,"FL"","2018","Howard M. and Brenda B. Sheridan","Common Stock","393382","34.3%","2591258"
+"Edison National Bank","Fort Myers,"FL"","2018","Howard M. and Brenda B. Sheridan","Warrants on Common Stock","95238","7.7%","2591258"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Edison National Bank","Director","Daniel E. Dosoretz","Director","Edison National Bank","2018","Medical Doctor","2591258"
+"Edison National Bank","Chairman","Howard M. Sheridan","Director","Edison National Bank","2018","Medical Doctor","2591258"
+"Edison National Bank","President","Geoffrey W. Roepstorff","CEO/Director","Edison National Bank","2018","Bank CEO","2591258"
+"Edison National Bank","President","Geoffrey W. Roepstorff","Partner","B & D of Southwest Florida,"L.C."","2018","Bank CEO","2591258"
+"Edison National Bank","Vice Chairman","David M. DuVall","Chairman","Edison National Bank","2018","Bank Chairman","2591258"
+"Edison National Bank","Vice Chairman","David M. DuVall","Managing Partner","B & D of Southwest Florida,"L.C."","2018","Bank Chairman","2591258"
+"Edison National Bank","Secretary/Treasurer","Robbie B. Roepstorff","President/Director","Edison National Bank","2018","Bank President","2591258"
+"Edison National Bank","Secretary/Treasurer","Robbie B. Roepstorff","Partner","B & D of Southwest Florida,"L.C."","2018","Bank President","2591258"
+```

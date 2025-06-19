@@ -1,0 +1,37 @@
+"Here are the two tables extracted from the document","in CSV format:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Albany,"GA"","2019","Jim Boyd","n/a","161900","12.63%","n/a"
+"Flint Community Bancshares,"Inc."","Pensacola,"FL"","2019","Wayne Damron","n/a","116500","9.09%","n/a"
+"Flint Community Bancshares,"Inc."","Leesburg,"GA"","2019","Henry H. Griffin","n/a","279150","21.77%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","LORAC Properties","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","Coach & Motor","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Jim Boyd","n/a","BGK Properties","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Wayne Damron","n/a","n/a","2019","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Secretary of Holding Co. and Senior Vice President of Subsidiary Bank","Elaine Davis","n/a","n/a","2019","N/A","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Harry N. Dorsey","n/a","n/a","2019","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Henry Dunn","n/a","n/a","2019","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","Southern Ag","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","Carriers Holdings","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","Wil-Mil Farms","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","HHG Properties","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","Pondtoon Boats Dist. Inc.","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","Lee County Equip.LLC","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co.","Henry H. Griffin","President","PeerSouth Inc.","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director and EVP of Holding Co. and Director and President of Subsidiary Bank","William F. Griffin","Secretary","n/a","2019","N/A","n/a"
+"Flint Community Bancshares,"Inc."","SVP of Holding Co. and Subsidiary Bank","Ross Harrison","CEO","n/a","2019","N/A","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","RCK LLC","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","TD Properties LLC","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Owner","Rolling Thunder LLC","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Ronnie T. Hinson","Member","Demi Properties LLC","2019","Executive","n/a"
+"Flint Community Bancshares,"Inc."","Chairman of Board of Holding Co. and Subsidiary Bank","Richard W. Little","n/a","n/a","2019","Retired","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Dunn Stapleton","n/a","n/a","2019","Attorney","n/a"
+"Flint Community Bancshares,"Inc."","EVP of Holding Co. and Director and EVP of Subsidiary Bank","Leonard W. Thomas","n/a","n/a","2019","Attorney","n/a"
+"Flint Community Bancshares,"Inc."","Director and CEO of Holding Co. and Subsidiary Bank","M. Scott Tomlinson","n/a","n/a","2019","N/A","n/a"
+"Flint Community Bancshares,"Inc."","Director of Holding Co. and Subsidiary Bank","Darin G. Wood","President","Woodford Plywood,"Inc."","2019","Executive","n/a"
+```

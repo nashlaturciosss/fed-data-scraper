@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Louisiana Bancorp,"Inc."","Metairie,"LA"","2014","Louisiana Bancorp ESOP","common","500976","17.27%","n/a"
+"Louisiana Bancorp,"Inc."","Denver,"CO"","2014","Arrowpoint Asset Management","common","183827","6.34%","n/a"
+"Louisiana Bancorp,"Inc."","Metairie,"LA"","2014","Lawrence J. LeBon,"III"","common","170258","5.64%","n/a"
+"Louisiana Bancorp,"Inc."","Metairie,"LA"","2014","Lawrence J. LeBon,"III"","common stock","115241","3.82%","n/a"
+"Louisiana Bancorp,"Inc."","Metairie,"LA"","2014","John P. LeBlanc","common","60694","2.00%","n/a"
+"Louisiana Bancorp,"Inc."","Metairie,"LA"","2014","John P. LeBlanc","common stock","126914","4.19%","n/a"
+"Louisiana Bancorp,"Inc."","New York,"NY"","2014","Maltese Capital Management","common","140000","4.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Louisiana Bancorp,"Inc."","n/a","Louisiana Bancorp ESOP","n/a","n/a","2014","n/a","n/a"
+"Louisiana Bancorp,"Inc."","Director,"Chairman","President and CEO"","Lawrence J. LeBon,"III"","n/a","n/a","2014","n/a","n/a"
+"Louisiana Bancorp,"Inc."","Exec VP and CFO","John P. LeBlanc","n/a","n/a","2014","n/a","n/a"
+"Louisiana Bancorp,"Inc."","Director","Brian G. LeBon,"Sr."","n/a","n/a","2014","Dentist","n/a"
+"Louisiana Bancorp,"Inc."","Director","Gordon K. Konrad","CEO","Belle Chasse Marine Transport","2014","CEO of marine transport company","n/a"
+"Louisiana Bancorp,"Inc."","Director","Maurice F. Eagan,"Jr."","President","Eagan Insurance","2014","Insurance Broker","n/a"
+"Louisiana Bancorp,"Inc."","Director","Michael E. Guarisco","Partner","Guarisco & Cordes","2014","Attorney","n/a"
+"Louisiana Bancorp,"Inc."","Director","Ivan J. Miestchovich,"Jr."","n/a","University of New Orleans","2014","Associate Professor","n/a"
+"Louisiana Bancorp,"Inc."","Sr VP","C. Holly Callia","n/a","n/a","2014","n/a","n/a"
+```

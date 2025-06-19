@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Citizens Holding Company","Philadelphia,"MS"","2023","The Molpus Company and Richard H. Molpus,"Jr."","Common Stock","401511","7.149%","29636"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Holding Company","Director","Jason R. Voyles","President","Spectrum Capital","2023","Real Estate Broker","29636"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","Mars,"Mars & Mars","Attorneys"","2023","Business Manager","29636"
+"Citizens Holding Company","Director","Daniel Adam Mars","Business Manager","MMM Investments LLC","2023","Business Manager","29636"
+"Citizens Holding Company","Director","Herbert A. King","Engineer","King Engineering,"Inc."","2023","Engineer","29636"
+"Citizens Holding Company","Director,"President & CEO"","Stacy M. Brantley","n/a","n/a","2023","N/A","29636"
+"Citizens Holding Company","Retired Director,"President & CEO"","Greg L. McKee","n/a","n/a","2023","N/A","29636"
+"Citizens Holding Company","Director","David A. King","Proprietor","Philadelphia Motor Company","2023","Proprietor,"Auto Parts supply store"","29636"
+"Citizens Holding Company","Director","V. Craig Dungan,"MD"","Physician","Meridian Gastroenterology Clinic","2023","Physician","29636"
+"Citizens Holding Company","Director","David P. Webb","Attorney","Baker Donelson","2023","Attorney","29636"
+"Citizens Holding Company","Director","Donald L Kilgore","General Counsel to","n/a","2023","Attorney","29636"
+"Citizens Holding Company","n/a","Philadelphia,"MS"","Tribal Chief","Cyrus Ben","2023","n/a","29636"
+"Citizens Holding Company","Chief Financial Officer","Terrell E. Winstead","Chief Financial Officer","Molpus Woodlands Group","2023","n/a","29636"
+"Citizens Holding Company","Executive Vice President","Jane D. Crosswhite","Executive Vice President","Williams Brothers Incorporated","2023","n/a","29636"
+"Citizens Holding Company","Director","Gregory E. Cronin","Director,"Regional President"","n/a","2023","N/A","29636"
+"Citizens Holding Company","Treasurer & CFO","Phillip R. Branch","n/a","n/a","2023","N/A","29636"
+```

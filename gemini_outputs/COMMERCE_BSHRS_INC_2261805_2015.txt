@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2015","FDIC as Receiver for Tennessee Commerce Bank","n/a","56833","27.1%","2261805"
+"Commerce Bancshares,"Inc."","Clarksville,"TN"","2015","Legends Bank","n/a","15114","7.2%","2261805"
+"Commerce Bancshares,"Inc."","Columbia,"TN"","2015","Community First Bank & Trust","n/a","29671","14.1%","2261805"
+"Commerce Bancshares,"Inc."","Carthage,"TN"","2015","Citizens Bank","n/a","12882","6.1%","2261805"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2015","David S. Myers","n/a","22173","10.6%","2261805"
+"Commerce Bancshares,"Inc."","Muscle Shoals,"AL"","2015","James D. Ashmore","n/a","21113","10.1%","2261805"
+"Commerce Bancshares,"Inc."","Franklin,"TN"","2015","Marion E. Lowery","n/a","29086","13.8%","2261805"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commerce Bancshares,"Inc."","Principal Shareholder","David S. Myers","President","Right Through Pens,"LLC"","2015","Bond Sales Manager","2261805"
+"Commerce Bancshares,"Inc."","Director","James R. Williams","Director","PSBC","2015","Banker","2261805"
+"Commerce Bancshares,"Inc."","Director","L. Hunter Battle","President & Director","PSBC","2015","Banker","2261805"
+"Commerce Bancshares,"Inc."","Director","Brenda F. Barnes","CEO & Director","PSBC","2015","Banker","2261805"
+"Commerce Bancshares,"Inc."","Director","Dr. Charles Edmonds","Director","PSBC","2015","Educator","2261805"
+"Commerce Bancshares,"Inc."","Director","Richard S. Moody","SVP & Director","PSBC","2015","Banker","2261805"
+"Commerce Bancshares,"Inc."","Principal Shareholder","FDIC as Receiver for Tennessee Commerce Bank","n/a","n/a","2015","n/a","2261805"
+"Commerce Bancshares,"Inc."","Principal Shareholder","Community First Bank & Trust","n/a","n/a","2015","n/a","2261805"
+"Commerce Bancshares,"Inc."","Principal Shareholder","James D. Ashmore","n/a","n/a","2015","n/a","2261805"
+"Commerce Bancshares,"Inc."","Principal Shareholder","Marion E. Lowery","n/a","n/a","2015","n/a","2261805"
+```

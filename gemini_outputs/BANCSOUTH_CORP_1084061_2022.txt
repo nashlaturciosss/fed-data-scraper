@@ -1,11 +1,10 @@
-Here are the two tables in CSV format:
 ```csv
-### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"BancSouth Corporation","n/a","2022","n/a","n/a","n/a","n/a"
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BancSouth Corporation","Dothan,"AL"","2022","Kenneth W. Striplin","n/a","12569","54.89%","n/a"
 ```
 ```csv
-### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"BancSouth Corporation","President and Director","Kevin R. Kirkland","Director","BancSouth Corporation","2022"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BancSouth Corporation","President and Director","Kevin R. Kirkland","n/a","n/a","2022","n/a","n/a"
 ```

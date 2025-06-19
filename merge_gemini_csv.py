@@ -8,8 +8,8 @@ INSIDERS_OUTPUT = "all_insiders.csv"
 SECURITIES_OUTPUT = "all_securities_holders.csv"
 
 # === headers ===
-INSIDERS_HEADER = ["Bank", "Internal Title", "Person", "External Title", "Affiliation", "Fiscal Year"]
-SECURITIES_HEADER = ["Bank", "Town", "Fiscal Year", "Owner Name", "Stock Class", "Number of Shares", "Percentage of Ownership"]
+INSIDERS_HEADER = ["Bank", "Internal Title", "Person", "External Title", "Affiliation", "Fiscal Year","Occupation", "RSSD_ID" ]
+SECURITIES_HEADER = ["Bank", "Town", "Fiscal Year", "Owner Name", "Stock Class", "Number of Shares", "Percentage of Ownership", "RSSD_ID"]
 
 # === Storage ===
 all_insiders = []

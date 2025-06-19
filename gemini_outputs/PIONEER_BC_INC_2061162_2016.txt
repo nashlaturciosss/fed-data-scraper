@@ -1,0 +1,25 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2016","Miller Couse","Common Stock","14626","8.756%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2016","Couse Farms,"Inc."","Common Stock","9074","5.432%","n/a"
+"PIONEER BANKCORP,"INC."","Clewiston,"FL"","2016","First Bank-ESOP","Common Stock","23824","14.262%","n/a"
+"PIONEER BANKCORP,"INC."","Memphis,"TN"","2016","Henry A Kurtz","Common Stock","9863","5.904%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PIONEER BANKCORP,"INC."","President/CEO Director","Miller Couse","President-","Couse Farms,"Inc."","2016","Chairman of the Board","n/a"
+"PIONEER BANKCORP,"INC."","President & CEO/Director","Carey Soud","Vice President-","Soud Groves,"Inc."","2016","President & CEO","n/a"
+"PIONEER BANKCORP,"INC."","n/a","Carey Soud","General Partner-","Soud Family Groves","2016","President & CEO","n/a"
+"PIONEER BANKCORP,"INC."","Senior Vice President & CFO","Randall N. Wood","n/a","n/a","2016","Sr. Vice President & CFO","n/a"
+"PIONEER BANKCORP,"INC."","Director","Tommy Perry","Owner","Johnson-Prewitt & Associates","2016","Civil Engineer/ Land surveyor","n/a"
+"PIONEER BANKCORP,"INC."","n/a","Tommy Perry","Co-Owner","Perry Farms","2016","Civil Engineer/ Land surveyor","n/a"
+"PIONEER BANKCORP,"INC."","Director","Morris Ridgdill","Owner/President","Ridgdill & Son Construction","2016","Construction/ Property Development","n/a"
+"PIONEER BANKCORP,"INC."","Director","Earle E. Edwards III","Owner/President","Earle E. Edwards III,"DDS"","2016","Orthodontist","n/a"
+"PIONEER BANKCORP,"INC."","Director","Bryan Beer","Owner","Labelle Grove Management","2016","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","n/a","Bryan Beer","Co-owner","Beer Family Groves","2016","Citrus Industry","n/a"
+"PIONEER BANKCORP,"INC."","Director","Karl E Larsen","Retired","n/a","2016","Retired","n/a"
+"PIONEER BANKCORP,"INC."","n/a","First Bank-ESOP","n/a","n/a","2016","n/a","n/a"
+```

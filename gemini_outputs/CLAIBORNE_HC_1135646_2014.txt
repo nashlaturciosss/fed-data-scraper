@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2014","Yoakum Family,"LP"","common stock","70446","40.6%","1135646"
+"Claiborne Holding Company,"Inc."","Nashville,"TN"","2014","Stephanie B. Conner","common stock","10019","5.8%","1135646"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2014","Rob Barger","common stock","13481","7.8%","1135646"
+"Claiborne Holding Company,"Inc."","Knoxville,"TN"","2014","Oliver Adams","common stock","34689","20.0%","1135646"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Claiborne Holding Company,"Inc."","Director & Chairman of Board","Eleanor Yoakum","General Partner","Yoakum Family LP","2014","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director & Vice Chairman & President","Rob Barger","General Partner","Yoakum Family LP","2014","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director","Carroll E. Rose,"MD"","Partner","Rose & Thomas","2014","Physician & Real Estate Developer","1135646"
+"Claiborne Holding Company,"Inc."","Secretary to the Board","Jennifer Lovin","n/a","n/a","2014","n/a","1135646"
+"Claiborne Holding Company,"Inc."","n/a","Brenda Burchfield","n/a","n/a","2014","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director","George Day,"M.D."","Partner","Heartland Pharmacy","2014","Physician","1135646"
+"Claiborne Holding Company,"Inc."","Treasurer","Jack A. Bonner,"Jr"","Managing Member","The Press Group,"LLC"","2014","n/a","1135646"
+"Claiborne Holding Company,"Inc."","Director","Lee Dan Stone III","Owner","Stone & Stone,"Attorney at Law"","2014","Attorney-at-Law","1135646"
+"Claiborne Holding Company,"Inc."","n/a","William A. Dunavant,"Jr."","n/a","n/a","2014","Business consultant","1135646"
+"Claiborne Holding Company,"Inc."","Director","Howard Phillips","Partner/Member","Powell Auction Realty,"LLC"","2014","Business owner","1135646"
+"Claiborne Holding Company,"Inc."","Director","Greg Garren","Operation Manager","Ready Mix USA","2014","Operation Manager","1135646"
+```

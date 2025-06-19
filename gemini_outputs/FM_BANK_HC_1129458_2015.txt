@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F & M Holding Company,"Inc."","Manchester,"GA"","2015","Jerry W. Loftin","COMMON STOCK","798829","33%","n/a"
+"F & M Holding Company,"Inc."","Manchester,"GA"","2015","Jaynie Loftin Nesmith","COMMON STOCK","798737","33%","n/a"
+"F & M Holding Company,"Inc."","Senoia,"GA"","2015","Patrick Wasden","COMMON STOCK","798921","33.%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank and Trust Company","Chairman & Director","Jerry W. Loftin","Former Attorney (retired)","n/a","2015","n/a","937834"
+"F&M Bank and Trust Company","Director","Tom H. Griffin","President/CEO","n/a","2015","n/a","937834"
+"F&M Bank and Trust Company","President/CEO","Tom H. Griffin","n/a","n/a","2015","n/a","937834"
+"F&M Bank and Trust Company","n/a","Lynley Loftin Hipps","Performance Support Office","TYSY","2015","Performance Support Office","937834"
+"F&M Bank and Trust Company","n/a","Jaynie Loftin Nesmith","Retired: Dir. Of Curriculum","n/a","2015","n/a","937834"
+"F&M Bank and Trust Company","n/a","Patrick Wasden","Self Employed Farming","n/a","2015","Self Employed Farming","937834"
+"F&M Bank and Trust Company","n/a","Allen W. Parham","CLO","n/a","2015","Chief Lending Officer","937834"
+"F&M Bank and Trust Company","Director","Allen W. Parham","n/a","n/a","2015","Chief Lending Officer","937834"
+"F&M Bank and Trust Company","n/a","Gary A. Ledbetter","CFO","n/a","2015","Chief Financial Officer","937834"
+```

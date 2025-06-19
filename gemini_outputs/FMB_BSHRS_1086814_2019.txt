@@ -1,0 +1,36 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FMB Bancshares,"Inc."","Valdosta,"GA"","2019","Jimmy Allen","Common Stock","23823","6.43%","n/a"
+"FMB Bancshares,"Inc."","n/a","2019","FMB Resolution Investor,"LLC"","Common Stock","35000","9.45%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FMB Bancshares,"Inc."","Vice Chairman","Jeff Parrish","Director/President & CEO","Farmers and Merchants Bank","2019","n/a","n/a"
+"FMB Bancshares,"Inc."","n/a","Jeff Parrish","n/a","F&J,"LLC"","2019","n/a","n/a"
+"FMB Bancshares,"Inc."","n/a","Jeff Parrish","n/a","PRY","2019","n/a","n/a"
+"FMB Bancshares,"Inc."","n/a","Jeff Parrish","n/a","Parrish Farms","2019","n/a","n/a"
+"FMB Bancshares,"Inc."","Director","James Douglas","Director","Farmers and Merchants Bank","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","n/a","James Douglas","Owner","Heritage Builders Supply","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","n/a","James Douglas","n/a","Heritage Rentals LLC","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","n/a","James Douglas","n/a","Windmill Properties","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","n/a","James Douglas","n/a","JBJ,"LLC"","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","n/a","James Douglas","n/a","Pinewood South Timber Co.","2019","Owner,"Heritage Builders Supply"","n/a"
+"FMB Bancshares,"Inc."","Director","George Lee","Chairman","Farmers and Merchants Bank","2019","Pharmacist","n/a"
+"FMB Bancshares,"Inc."","Director","Jeff Brown","Director","Farmers and Merchants Bank","2019","Vice President Finance,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","n/a","Jeff Brown","Vice President Finance","Lee Container Corp.","2019","Vice President Finance,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Robert Varnedoe","Director","Farmers and Merchants Bank","2019","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","n/a","Robert Varnedoe","President","Lee Container Corp.","2019","President,"Lee Container Corp."","n/a"
+"FMB Bancshares,"Inc."","Director","Freddie Palmer","Director","Farmers and Merchants Bank","2019","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","n/a","Freddie Palmer","Owner","Cook County Timber","2019","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","n/a","Freddie Palmer","n/a","Cook County Timber","2019","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","n/a","Freddie Palmer","n/a","F&J,"LLC"","2019","Owner,"Cook County Timber"","n/a"
+"FMB Bancshares,"Inc."","Director","L. E. Watson","Director","Farmers and Merchants Bank","2019","Farmer","n/a"
+"FMB Bancshares,"Inc."","n/a","L. E. Watson","Farmer/Owner","n/a","2019","Farmer","n/a"
+"FMB Bancshares,"Inc."","n/a","L. E. Watson","n/a","Long Bridge Peanut","2019","Farmer","n/a"
+"FMB Bancshares,"Inc."","n/a","L. E. Watson","n/a","White Pond Estates,"LLC"","2019","Farmer","n/a"
+"FMB Bancshares,"Inc."","n/a","L. E. Watson","n/a","Planters Warehouse","2019","Farmer","n/a"
+"FMB Bancshares,"Inc."","n/a","L. E. Watson","n/a","Watson Farms","2019","Farmer","n/a"
+```

@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Enterprise,"AL"","2019","William Henry Carr","Common Stock","3092","16.37%","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Statesville,"NC"","2019","Jerry Newman Carr","Common Stock","3094","16.38%","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Enterprise,"AL"","2019","Charles E. Jones","Common Stock","2896","15.33%","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Birmingham,"AL"","2019","Mary F. Weatherford Haines","Common Stock","2340","12.39%","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Enterprise,"AL"","2019","Martha E. Weatherford Williams","Common Stock","2339","12.38%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Vice President & Director","Charles E. Jones","Director","Sunny South Mobile Villa,"Inc"","2019","Retired Bank Executive","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Vice President & Director","Charles E. Jones","Director","Daleco,"Inc"","2019","Retired Bank Executive","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Vice President & Director","Charles E. Jones","Director","J&K Construction Co,"Inc"","2019","Retired Bank Executive","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Vice President & Director","Charles E. Jones","Chairman of the Board","Public Building Authority of the City of Enterprise,"Alabama"","2019","Retired Bank Executive","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","President/CEO","James H. Weatherford","Partner","Weatherford & Williams,"LLP"","2019","Attorney at law","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","President/CEO","James H. Weatherford","Shareholder","Weatherford Land Company","2019","Attorney at law","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Director","Martha E. Weatherford Williams","Partner","Weatherford & Williams,"LLP"","2019","Attorney at law","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Secretary & Director","Kelly F. Jones","Director","ESCC Foundation","2019","Bank Executive","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","Director","Shannon Carr Chancey","Partner","DCE Farms,"LLC"","2019","Homemaker","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","n/a","Mary F. Weatherford Haines","Sec/Treasurer","By the Sea Resorts","2019","Homemaker","n/a"
+"ENTERPRISE CAPITAL CORPORATION,"INC."","n/a","Mary F. Weatherford Haines","Sec/Treasurer","Pathway,"Inc."","2019","Homemaker","n/a"
+```

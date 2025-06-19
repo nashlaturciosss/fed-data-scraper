@@ -1,0 +1,20 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 form","formatted as requested."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CONTINENTAL BANCORP","Miami Beach,"Florida"","2016","Fanny Dascal and Cesar Camacho,"as Trustees of the Fanny Dascal Grantor Retained Annuity Trust","U/T/D March 7","2016"","Class A Common","323988","69.15%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Continental Bancorp","President,"Chairman"","Jacqueline Dascal Chariff","President","Krypto Intl. Export Inc.","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","South Motor Company of Dade County","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","South Motors Nissan Co.","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","South Motors Buick,"Inc."","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","South Motors Suzuki,"Inc."","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","South Motors Chrysler-Plymouth,"Inc."","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Director","Pompano Imports,"Inc."","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Managing Member","Mundi Leasing & Rentals,"Inc."","2017","Entepreneur","n/a"
+"Continental National Bank","Chairman","Jacqueline Dascal Chariff","Manager","DAHO,"LLC"","2017","Entepreneur","n/a"
+"n/a","None","Fanny Dascal and Cesar Camacho,"as Trustees of the Fanny Dascal Grantor Retained Annuity Trust","U/T/D March 7","2016"","n/a","n/a","2017","Principal Shareholder,"Continental Bancorp"","n/a"
+"Continental Bancorp","Director","Guillermo Diaz-Rousselot","n/a","n/a","2017","Banker","n/a"
+"Continental National Bank","President","Guillermo Diaz-Rousselot","n/a","n/a","2017","Banker","n/a"
+```

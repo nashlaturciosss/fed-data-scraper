@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"FIRST AMERICA BANCORP","ATHENS,"GEORGIA"","2023","JOHN D. MCLANAHAN,"JR."","COMMON STOCK - DIRECTLY OWNED","9577","2.91%","n/a"
+"FIRST AMERICA BANCORP","ATHENS,"GEORGIA"","2023","JOHN D. MCLANAHAN,"JR."","COMMON STOCK-CONTROLLED AS TRUSTEE","2335","0.71%","n/a"
+"FIRST AMERICA BANCORP","ATHENS,"GEORGIA"","2023","MCLANAHAN CHILDRENS 2022 TRUST","COMMON STOCK","79300","24.13%","n/a"
+"FIRST AMERICA BANCORP","GREENVILLE,"SC"","2023","THE DOROTHY MCLANAHAN WATSON LIVING TR","COMMON STOCK","20856","6.35%","n/a"
+"FIRST AMERICA BANCORP","GREENVILLE,"SC"","2023","CATHERINE M NIX REVOCABLE TRUST","COMMON STOCK","20000","6.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First American Bancorp","President","Craig Meeks","n/a","n/a","2023","President First American Bank","n/a"
+"First American Bancorp","Director","T. Michael Devore","n/a","n/a","2023","President (Retired) DeVore & Johnson","n/a"
+"First American Bancorp","Director","John D. McLanahan,"Jr."","General Counsel","n/a","2023","Attorney","n/a"
+"First American Bancorp","Director","C. Rhodes McLanahan","CEO","n/a","2023","Chief Executive Officer First American Bank","n/a"
+"First American Bancorp","Director","James Q. Wilfong,"Jr."","n/a","n/a","2023","Real Estate Investor","n/a"
+"First American Bancorp","Director","Elbert N. Whitmire,"III"","n/a","Fortson,"Bentley","& Griffin","P.A."","2023","Attorney","n/a"
+"First American Bancorp","Director","Bradley S. Akins","n/a","Akins Ford","2023","Akins Ford Owner","n/a"
+"First American Bancorp","Director","Dr. Catherine Marti","n/a","n/a","2023","Cardiologist","n/a"
+"First American Bancorp","Director","George G. Tribble","n/a","Benson's,"Inc."","2023","President Benson's,"Inc."","n/a"
+```

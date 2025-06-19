@@ -1,0 +1,28 @@
+Here are the two tables in CSV format as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Gainesville,"FL"","2016","C. Neal Anderson","Common","62083","5.75%","2901005"
+"Florida Community Bankshares,"Inc."","Anthony,"FL"","2016","Hugh Dailey","Common","72272","7.15%","2901005"
+"Florida Community Bankshares,"Inc."","Austin,"TX"","2016","Kenneth E. Ellenberg","Common","86233","7.98%","2901005"
+"Florida Community Bankshares,"Inc."","Williston,"FL"","2016","Jimmy L. And Martha C. Gladwell III","Common","58600","5.42%","2901005"
+"Florida Community Bankshares,"Inc."","Ocala,"FL"","2016","Sequel Investments,"LLC"","Common","68625","6.35%","2901005"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez","President","Alvarez Truck Brokers of FL","2016","Transportation Broker","2901005"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez","President","Alvarez Inc","2016","Transportation Broker","2901005"
+"Florida Community Bankshares,"Inc."","Director","John L. Alvarez","Investment","John Alvarez Investment Group LLC","2016","Transportation Broker","2901005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","President","35 Farms,"Inc"","2016","Sports/Farmer","2901005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","n/a","Alvarez Family Trust LLC","2016","Sports/Farmer","2901005"
+"Florida Community Bankshares,"Inc."","Director","C. Neal Anderson","n/a","AAW LLC","2016","Sports/Farmer","2901005"
+"Florida Community Bankshares,"Inc."","Director","C Winston Barles","Owner","CW. Bailey,"Jr. Corp"","2016","Rancher / Real Estate","2901005"
+"Florida Community Bankshares,"Inc."","Director","C Winston Barles","Managing","Ocala Manufacturing-Managing Partnership Interest","2016","Rancher / Real Estate","2901005"
+"Florida Community Bankshares,"Inc."","Director","C Winston Barles","President","CW4,"Inc"","2016","Rancher / Real Estate","2901005"
+"Florida Community Bankshares,"Inc."","Director","C Winston Barles","Co-Owner","Littoral Marine LLC","2016","Rancher / Real Estate","2901005"
+"Florida Community Bankshares,"Inc."","Director","Hugh F. Dailey","Co-Owner","Littoral Marine LLC","2016","n/a","2901005"
+"Florida Community Bankshares,"Inc."","EVP & CFO,"Director"","David R. Denyer","n/a","n/a","2016","n/a","2901005"
+"Florida Community Bankshares,"Inc."","Director","Kenneth E. Ellenberg","n/a","n/a","2016","Investments","2901005"
+"Florida Community Bankshares,"Inc."","Director","JoAnn R. Smith","n/a","n/a","2016","Consultant / Rancher","2901005"
+```

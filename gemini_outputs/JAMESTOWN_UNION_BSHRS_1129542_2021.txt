@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"JAMESTOWN UNION BANCSHARES,"INC."","Houston,"TX"","2021","John W Johnson","n/a","5409","9.98%","n/a"
+"JAMESTOWN UNION BANCSHARES,"INC."","Jamestown,"TN"","2021","Fred M. Johnson,"Jr."","n/a","7194","7.652%","n/a"
+"JAMESTOWN UNION BANCSHARES,"INC."","Houston,"TX"","2021","David M Johnson","n/a","5409","5.75%","n/a"
+"JAMESTOWN UNION BANCSHARES,"INC."","Houston,"TX"","2021","WMJ/RMJ Family Limited Partnership II","n/a","16728","17.793%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"JAMESTOWN UNION BANCSHARES,"INC."","Chairman of the Board","Michael I. Jones","Chairman of the Board","None","2021","Fentress County,"TN Superintendent of Schools"","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Kevin M. Johnson","Director","None","2021","Nurse","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","CEO & President,"Director"","Marion Bryant Johnson","Director","None","2021","Banking","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Robert E. Washburn","Director","PWP Greenhouses,"Inc."","2021","Owner & operator PWP Greenhouses,"Inc."","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Marti G. Norton","Director","Estate of Bruno Gernt,"Inc."","2021","Director,"US Project Acct. Intergraph Government Solutions"","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Mark Douglas Jones","Director","Law Office of Doug Jones","2021","Lawyer","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Mark Douglas Jones","Director","Tennessee and Upper Cumberland Title and Escrow","2021","Lawyer","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Director","Derek Gernt","Director","Gernt,"Hudson","and Associates"","2021","Land Company Manager Estate of Bruno Gernt/Allardt Land Company","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","Executive Vice President,"Senior Lending Officer"","Patricia Lynn Stephens","n/a","None","2021","Banking","235231"
+"JAMESTOWN UNION BANCSHARES,"INC."","CFO & Vice President","Jamie Rich","n/a","None","2021","Banking","235231"
+```

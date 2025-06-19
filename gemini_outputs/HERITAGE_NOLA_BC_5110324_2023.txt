@@ -1,0 +1,27 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Heritage NOLA Bancorp,"Inc."","Covington,"LA"","2023","Heritage Bank of St Tammany Employee Stock Ownership Plan","common stock","130907","10.6%","n/a"
+"Heritage NOLA Bancorp,"Inc."","Covington,"LA"","2023","W David Crumhorn","common stock","32754","2.6%","n/a"
+"Heritage NOLA Bancorp,"Inc."","Covington,"LA"","2023","W David Crumhorn","options on common stock","40000","3.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Heritage NOLA Bancorp,"Inc."","Chairman,"President and Chief Executive Officer"","W. David Crumhorn","Chairman,"President and Chief Executive Officer"","Heritage Bank of St Tammany","2023","n/a","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Julian J. Rodrigue,"Jr."","Sole Proprietor","Rodrigue and Rodrigue","2023","Attorney","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Julian J. Rodrigue,"Jr."","Sole Proprietor","JJR Realty,"LLC"","2023","Attorney","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Julian J. Rodrigue,"Jr."","Sole Proprietor","JROD,"LLC"","2023","Attorney","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","W. Thomas Ballantine","n/a","Heritage Bank of St Tammany","2023","Retired","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Elizabeth M. Eustis","Commercial Broker / Advisor","KPG Properties","2023","Commercial Realtor","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Elizabeth M. Eustis","Commercial Broker / Advisor","Cordell Eustis Group","2023","Commercial Realtor","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Elizabeth M. Eustis","Commercial Broker / Advisor","Eustis Real Estate,"LLC"","2023","Commercial Realtor","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Elizabeth M. Eustis","Commercial Broker / Advisor","SV121,"LLC"","2023","Commercial Realtor","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Salvatore A. Caruso,"Jr."","CEO","Tre Amici,"Corp"","2023","Business owner and Education Consultant","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Salvatore A. Caruso,"Jr."","CEO","Gulf States Portable Storage,"LLC"","2023","Business owner and Education Consultant","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Salvatore A. Caruso,"Jr."","CEO","Campaign Depot,"LLC"","2023","Business owner and Education Consultant","n/a"
+"Heritage NOLA Bancorp,"Inc."","Director","Jason S. Hunt","CEO & Co-Founder","Swyft Fiber","2023","Business Owner","n/a"
+"Heritage NOLA Bancorp,"Inc."","Executive Vice President and Chief Credit Officer","Dana Whitaker","n/a","Heritage Bank of St Tammany","2023","n/a","n/a"
+"Heritage NOLA Bancorp,"Inc."","Senior Vice President and Chief Financial Officer","Lisa B. Hughes","n/a","Heritage Bank of St Tammany","2023","n/a","n/a"
+```

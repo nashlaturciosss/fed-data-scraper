@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants Bank","Jackson,"AL"","2015","Merchants Bank,"Employee Stock Ownership Plan"","COMMON STOCK OUTSTANDING","8233.00","23.77%","147633"
+"Merchants Bank","Jackson,"AL"","2015","Grady L. Bedwell","COMMON STOCK OUTSTANDING","4389.67","12.67%","147633"
+"Merchants Bank","Jackson,"AL"","2015","Joseph L. Bedwell","COMMON STOCK OUTSTANDING","3260.10","9.41%","147633"
+"Merchants Bank","Grove Hill,"AL"","2015","William D. Harrigan,"III"","COMMON STOCK OUTSTANDING","2641.00","7.62%","147633"
+"Merchants Bank","Jackson,"AL"","2015","Elizabeth C. Skipper","COMMON STOCK OUTSTANDING","0.00","0.00%","147633"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants Bank","Chairman and Director","Grady L. Bedwell","Chairman & CEO","n/a","2015","n/a","147633"
+"Merchants Bank","Vice Chairman,"President and Director"","Joseph L. Bedwell","Executive Vice President and Director","n/a","2015","n/a","147633"
+"Merchants Bank","Director","William D. Harrigan,"III"","Vice President","Fulton Logging Co.,"LLC"","2015","Lumber Company Executive","147633"
+"Merchants Bank","Secretary and Director","Jim Reid","Sr. Vice President and Cashier,"Secretary and Director"","n/a","2015","n/a","147633"
+"Merchants Bank","Vice President and Director","Craig L. Scruggs","President and Director","n/a","2015","n/a","147633"
+"Merchants Bank","Director","Chris C Bailey,"III"","n/a","n/a","2015","President of All Plastics and Fiberglass,"Inc."","147633"
+```

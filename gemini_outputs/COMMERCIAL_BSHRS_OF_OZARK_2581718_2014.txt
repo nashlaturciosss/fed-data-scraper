@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Beallsville,"MD"","2014","Patricia Brown","Common Stock","6123","13.88%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2014","Charles F. Harper","Common Stock","12859","29.15%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2014","Clementine B. Harper","Common Stock","6903","15.65%","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Ozark,"AL"","2014","Dr. Ray H. McLaughlin","Common Stock","4848","10.99%","2581718"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Dir.,"Chrmn. & President"","Charles F. Harper","Dir.,"Chrmn. & President"","n/a","2014","N/A","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Clementine B. Harper","President","Brown Real Est. Co. Inc.","2014","Retired","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Ray H. McLaughlin","n/a","n/a","2014","Dentist","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Larry W. Ezell","n/a","n/a","2014","N/A","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Christopher S. Harper","n/a","n/a","2014","N/A","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Charles D. Harper","n/a","n/a","2014","N/A","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","W. Miach McNab","President/Owner","W. Miach McNab Ozark,"AL"","2014","CPA","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","W. E. Blackwell,"Jr."","n/a","n/a","2014","Mayor","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Robert H. Brogden","President/Owner","Brogden Law Firm Ozark,"AL"","2014","Attorney","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Bobby G. Snell","Partner","Ozark Veterinary Clinic","2014","Veterinarian","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","Director","Michael V. Brauer","CEO","Brauer Aerospace Products","2014","Entrepreneur","2581718"
+"COMMERCIAL BANCSHARES OF OZARK,"INC."","n/a","Patricia Brown","n/a","n/a","2014","School Teacher","2581718"
+```

@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Liberty Bank and Trust Company","New Orleans,"LA"","2017","Liberty Bank & Trust ESOP","n/a","31009","15.35%","283438"
+"Liberty Bank and Trust Company","New Orleans,"LA"","2017","Francis Family Investments,"LLC"","n/a","24169","11.97%","283438"
+"Liberty Bank and Trust Company","New Orleans,"LA"","2017","Norman C. Francis","n/a","24169","11.97%","283438"
+"Liberty Bank and Trust Company","New Orleans,"LA"","2017","Alden McDonald,"Jr."","n/a","21941","10.21%","283438"
+"Liberty Bank and Trust Company","Los Angeles,"CA"","2017","Carolyn C. Dorion","n/a","15664","7.76%","283438"
+"Liberty Bank and Trust Company","Los Angeles,"CA"","2017","Dorion Family Trust","n/a","15664","7.76%","283438"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Liberty Bank and Trust Company","Employee Benefit Plan","Liberty Bank & Trust ESOP","N/A","N/A","2017","N/A","283438"
+"Liberty Bank and Trust Company","President/CEO Director","Alden J. McDonald,"Jr."","President/CEO Director","Chart L.L.C.","2017","President of Banking Institution","283438"
+"Liberty Bank and Trust Company","Chairman & Director","Francis Family Investments,"LLC"","Chairman & Director","N/A","2017","Retired","283438"
+"Liberty Bank and Trust Company","Chairman & Director","Norman C. Francis","Chairman & Director","N/A","2017","Retired","283438"
+"Liberty Bank and Trust Company","Director","Carolyn C. Dorion","Director","N/A","2017","Property Manager","283438"
+"Liberty Bank and Trust Company","Director","George Dimitri","Director","N/A","2017","Retired","283438"
+"Liberty Bank and Trust Company","Director","Sybil H. Morial","Director","N/A","2017","Retired University Administrator","283438"
+"Liberty Bank and Trust Company","Director","Ronald V. Burns,"Sr."","Director","Burns Management Group","2017","Owner,"Courier Company"","283438"
+"Liberty Bank and Trust Company","Director","Ronald V. Burns,"Sr."","Director","Quick Courier Services","2017","Owner,"Courier Company"","283438"
+"Liberty Bank and Trust Company","Director","Cecil Blache","Director","N/A","2017","Attorney","283438"
+"Liberty Bank and Trust Company","Director","James Smith","Director","N/A","2017","Retired/Consultant","283438"
+"Liberty Bank and Trust Company","Director","Todd McDonald","Director","TM Management Group","2017","Senior Vice President of Banking Institution","283438"
+"Liberty Bank and Trust Company","Director","Todd McDonald","Director","Go To Interview","2017","Senior Vice President of Banking Institution","283438"
+"Liberty Bank and Trust Company","Director","Kim Boyle","Director","N/A","2017","Attorney","283438"
+"Liberty Bank and Trust Company","Director","David Francis","Director","N/A","2017","Media Executive","283438"
+```

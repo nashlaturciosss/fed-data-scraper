@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2020","H. P. Smith","n/a","19219","50.46%","n/a"
+"Dawson Bancshares,"Inc."","Dawson,"GA"","2020","Jack Laing","n/a","2360","6.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"
+"Secretary & Treasurer","Dawson Bancshares","Inc."
+"President and CEO","Bank of Dawson"","Barry N. Lyle","n/a","n/a","2020","N/A","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","W.T. Gamble,"Jr."","Owner/operator","Gamble Farms,"Inc."","2020","Retired","193537"
+"Dawson Bancshares,"Inc."","Director Emeritus,"Dawson Bancshares","Inc. & Bank of Dawson"","Jack Laing","n/a","n/a","2020","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","William Thomas Rountree","Owner/Editor","Dawson News","2020","Owner/Editor of Dawson News","193537"
+"Dawson Bancshares,"Inc."","Director & Chairman,"Dawson Bancshares","Inc."
+"& Bank of Dawson"","H.P. Smith","n/a","n/a","2020","Retired","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","Milton F. Foster","n/a","Foster Easypay Tire","2020","Owner - tire business","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","Brad Stafford","President","Brad Stafford,"Inc."","2020","Owner - furniture store","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","Charles Scott","n/a","Dawson Pharmacy","2020","Pharmacist","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","John Leach","Managing Partner","Flo-Rob,"Inc."","2020","Real Estate Investments","193537"
+"Dawson Bancshares,"Inc."","Director,"Dawson Bancshares","Inc. & Bank of Dawson"","Edward Collier","Partner","CollierGamble","2020","Attorney","193537"
+```

@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home Bancgroup,"Inc."","Miami Beach,"Florida"","2017","Alexey Kravtsov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Hollywood,"Florida"","2017","Chingiz Askerov","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Miami,"Florida"","2017","Tagir Saydkuzhin","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Delray Beach,"Florida"","2017","Vladimir Berkovich","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Bluffton,"South Carolina"","2017","Sergey Khotimskiy and Dmitry Khotimskiy","n/a","95","9.9%","n/a"
+"Home Bancgroup,"Inc."","Sunny Isles,"Florida"","2017","Mikhail Trakhtenberg","n/a","80","8.4%","n/a"
+"Home Bancgroup,"Inc."","Moscow,"Russia"","2017","Sergey Orlovskiy","n/a","52","5.5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Home Bancgroup,"Inc."","Director/Chairman/ President/CEO","Scott F. Rosenberg","Banker and Attorney","n/a","2017","Banker and Attorney","n/a"
+"Home Bancgroup,"Inc."","Director/Chairman/President /CEO","Scott F. Rosenberg","Banker and Attorney","Home Federal Bank of Hollywood","2017","Banker and Attorney","n/a"
+"Home Bancgroup,"Inc."","Sr Vice President","Brian R. Cole","n/a","n/a","2017","Banker","n/a"
+"Home Bancgroup,"Inc."","Director/Executive Vice President","Brian R. Cole","n/a","Home Federal Bank of Hollywood","2017","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Michael Newett","n/a","n/a","2017","Bank Consultant","n/a"
+"Home Bancgroup,"Inc."","Director","Michael Newett","n/a","Home Federal Bank of Hollywood","2017","Bank Consultant","n/a"
+"Home Bancgroup,"Inc."","Director","Marta Villacorta","Attorney and Retired Florida Department of Corrections Regional Director","n/a","2017","Attorney","n/a"
+"Home Bancgroup,"Inc."","Director","Marta Villacorta","Attorney and Retired Florida Department of Corrections Regional Director","Home Federal Bank of Hollywood","2017","Attorney","n/a"
+"Home Bancgroup,"Inc."","n/a","Carlos Rionda","n/a","South East Renewable Fuels,"LLC"","2017","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Carlos Rionda","n/a","Home Federal Bank of Hollywood","2017","Engineer","n/a"
+"Home Bancgroup,"Inc."","Director","Sergey Khotimskiy","n/a","Home Federal Bank of Hollywood","2017","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Sergey Khotimskiy","n/a","Sovcom Bank","2017","Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Maksim Slyusarchuk","n/a","Home Federal Bank of Hollywood","2017","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","n/a","Maksim Slyusarchuk","n/a","A&D Mortgage,"LLC"","2017","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","n/a","Maksim Slyusarchuk","n/a","GOP LLC","2017","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","n/a","Maksim Slyusarchuk","n/a","Imperial Manager I","2017","Mortgage Banker","n/a"
+"Home Bancgroup,"Inc."","Director","Kirill Sokolov","n/a","Home Federal Bank of Hollywood","2017","Banker","n/a"
+```

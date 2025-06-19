@@ -1,11 +1,9 @@
-Here are the two tables extracted from the document as requested:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"Bank of Central Florida Holding Company","Lakeland","2022","n/a","n/a","n/a","n/a"
-```
-```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Central Florida Holding Company","Lakeland,"FL"","2022","n/a","n/a","n/a","n/a","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"Bank of Central Florida Holding Company","Chairman & CEO","Paul J Noris","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Central Florida Holding Company","Chairman & CEO","Paul J Noris","n/a","n/a","2022","n/a","n/a"
+"Bank of Central Florida Holding Company","EVP/CFO","Michelle Netwal","n/a","n/a","2022","n/a","n/a"
 ```

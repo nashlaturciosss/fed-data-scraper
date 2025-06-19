@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Hennon L King Estate","Common Stock","22723","9.903%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Vivian H. Tucker","Common Stock","22360","9.744%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Tucker Brothers,"LLC"","Common Stock","27800","12.115%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Mose A. Tucker","Common Stock","670","0.292%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Mose A. Tucker","Common Stock","27800","12.115%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","LaFayette,"AL"","2021","Wayne Welch","Common Stock","13600","5.927%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Auburn,"AL"","2021","W. Lewis Lowe","Common Stock","2085","0.907%","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Auburn,"AL"","2021","W. Lewis Lowe","Common Stock","10722","4.672%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Farmers & Merchants Bancshares,"Inc."","Director","Chan Brinson","Director","Farmers & Merchants Bank","2021","Retired Lumber","n/a"
+"Farmers & Merchants Bancshares,"Inc."","President/CEO","Stanley Tucker","President/CEO","Farmers & Merchants Bank","2021","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Member","Stanley Tucker","n/a","Tucker Brothers,"LLC"","2021","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Philip A. Gipson","Director","Farmers & Merchants Bank","2021","Retired Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Wayne Welch","Director","Farmers & Merchants Bank","2021","Retired Lumber","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","W. Lewis Lowe","Director","Farmers & Merchants Bank","2021","Retired Pharmacist","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Billy M. Langley","Owner","Farmers & Merchants Bank","2021","Logger","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Billy Langley","Owner","Billy M. Langley","2021","Logger","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Valerie Gray","Director","Farmers & Merchants Bank","2021","Director-Chambers County Industrial Development Authority","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Director","Jeffery Rush McKelvey","Director","Farmers & Merchants Bank","2021","Car Salesman","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Part Owner","Jeffery Rush McKelvey","Director","McKelvey Chevrolet Corporation","2021","Car Salesman","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Secretary","Tiffany Pitchford","Executive Vice President","Farmers & Merchants Bank","2021","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","n/a","Tucker Brothers LLC","None","None","2021","Agriculture/Farming","n/a"
+"Farmers & Merchants Bancshares,"Inc."","None","Kira Dodgen","Vice President","Farmers & Merchants Bank","2021","Banker","n/a"
+"Farmers & Merchants Bancshares,"Inc."","Sr. Vice President","Mike Mann","None","Farmers & Merchants Bank","2021","Banker","n/a"
+```

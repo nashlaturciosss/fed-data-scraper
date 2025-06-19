@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Franklin Bancshares,"Inc."","Chevy Chase,"MD"","2016","Estate of Patricia M. Bush","Common Stock","189600","32.19%","3674215"
+"Franklin Bancshares,"Inc."","Ridgeland,"MS"","2016","Wade H. Creekmore,"Jr."","Common Stock","50000","8.49%","3674215"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Franklin Bancshares,"Inc."","CEO,"President/Director"","Bradley B. Jones","Member","Sandbar Land & Timber,"LLC"","2016","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Robert Harold Dillon","n/a","n/a","2016","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Gregory Grady","Secretary/Treasurer/Director","D.R. McGehee Ins Agy,"Inc"","2016","n/a","3674215"
+"Franklin Bancshares,"Inc."","Secretary/Director","Harold C. Graves","President/Manager/Director","Garden District Investments,"Inc"","2016","Insurance Agent","3674215"
+"Franklin Bancshares,"Inc."","Director","Patrick Larkin","Owner","Larkin Veterinary Clinic","2016","Veterinarian","3674215"
+"Franklin Bancshares,"Inc."","Vice-Chairman/ Director","Edmund E. Prestridge","n/a","n/a","2016","n/a","3674215"
+"Franklin Bancshares,"Inc."","Director","Daniel M. Scarbrough","Medical Director","Community Health Systems,"Inc."","2016","Medical Doctor","3674215"
+"Franklin Bancshares,"Inc."","Chairman/Director","James A. Torrey,"Jr."","Partner","McGehee,"McGehee & Torrey"","2016","Lawyer","3674215"
+"Franklin Bancshares,"Inc."","Director","Estate of Patricia M. Bush","VP/Director","D.R McGehee Ins Agy,"Inc."","2016","n/a","3674215"
+```

@@ -1,0 +1,27 @@
+Here are the tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","DUNLAP,"TN"","2016","L. Thomas Austin","n/a","4475","30.14%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","DUNLAP,"TN"","2016","Eunice Barker,"Estate"","n/a","1254","8.45%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","DUNLAP,"TN"","2016","Flavius A. Barker","n/a","1499","10.10%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","DUNLAP,"TN"","2016","H. Glenn Barker","n/a","2417","16.29%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","DUNLAP,"TN"","2016","John V. Barker","n/a","2352","15.85%","1085330"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","Director & Secretary","L. Thomas Austin","Attorney-At-Law","Austin,"Davis & Mitchell"","2016","Attorney","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","L. Thomas Austin","Director","Citizens Tri-County Development Corp.","2016","Attorney","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","L. Thomas Austin","Director","Sequatchie Life Insurance Company","2016","Attorney","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director & Vice President","Flavius A. Barker","Partner","Farming Operation","2016","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director & Vice President","Flavius A. Barker","Partner","Sequatchie Associates,"Inc."","2016","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director & Vice President","Flavius A. Barker","Partner","Barker Tractor & Equipment,"LLC."","2016","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","President","H. Glenn Barker","Partner","Sequatchie Assoc.","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","H. Glenn Barker","Partner","Farming Operation","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Chairman","H. Glenn Barker","Director","TN Business & Ind. Dev. Corp","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","President & CEO","John V. Barker","Director","Citizens Tri-County Development Corp.","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Treasurer","John V. Barker","Director","Sequatchie Associates","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","John V. Barker","Director","Plateau Group","2016","n/a","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","John V. Barker","Director","Financial Products & Services","2016","n/a","1085330"
+```

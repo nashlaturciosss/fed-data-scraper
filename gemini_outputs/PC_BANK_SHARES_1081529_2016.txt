@@ -1,0 +1,23 @@
+"Here are the two tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2016","E.J. Vann,"IV"","capital stock of P&C Bank Shares,"Inc."","8312","45.22%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2016","Susan Vann Keigans","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Nashville,"TN"","2016","E.J. Vann,"V"","capital stock of P&C Bank Shares,"Inc."","2315","12.59%","n/a"
+"P&C Bank Shares,"Inc."","Camilla,"GA"","2016","Lamar Cooper","capital stock of P&C Bank Shares,"Inc."","1000","5.44%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Pres","Joe B. Adams & Sons,"Inc."","2016","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","Member","M. Miley Adams,"LLC"","2016","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director","Martin Miley Adams","CEO","Adams Exports,"Inc."","2016","Agibusinessman","1081529"
+"P&C Bank Shares,"Inc."","Director","Alva E. Crow,"Jr."","n/a","n/a","2016","Retired Automobile Dealer","1081529"
+"P&C Bank Shares,"Inc."","EVP,"Director & Corp Secretary"","Susan V. Keigans","n/a","n/a","2016","EVP & Corporate Secretary","1081529"
+"P&C Bank Shares,"Inc."","Chairman,"President","CEO & Director"","E.J. Vann IV","n/a","n/a","2016","n/a","1081529"
+"P&C Bank Shares,"Inc."","n/a","E. J. Vann,"V"","n/a","Johnston & Murphy","2016","Retail Merchant","1081529"
+"P&C Bank Shares,"Inc."","Director","Laura S. Vann","n/a","n/a","2016","Retired Retail Merchant","1081529"
+"P&C Bank Shares,"Inc."","Director","David Cooper","n/a","David Cooper Engineering","2016","Engineering Consultant","1081529"
+"P&C Bank Shares,"Inc."","n/a","Lamar Cooper","Partner","Cooper Farms","2016","Retired Farmer","1081529"
+```

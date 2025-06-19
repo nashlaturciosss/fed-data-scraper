@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Amelia A. Wilson","Common Stock","749","27.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Harvey L. Wilson,"Jr."","Common Stock","174.25","6.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Harvey L. Wilson,"Jr."","Common Stock","174.25","6.36%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Harvey L. Wilson,"Sr."","Common Stock","136","4.97%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Amelia W. Haley","Common Stock","348.5","12.73%","1085901"
+"Peoples Bankshares Inc.","Eatonton,"Georgia"","2018","Amelia W. Haley","Common Stock","639","23.34%","1085901"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Peoples Bankshares Inc.","Director and Chairman","Amelia A. Wilson","Director and Chairman","n/a","2018","Retired","1085901"
+"Peoples Bankshares Inc.","Director/Vice-Chairman/CEO","Harvey L. Wilson,"Sr."","none","n/a","2018","Retired","1085901"
+"Peoples Bankshares Inc.","Director and Secretary","Amelia W. Haley","Director","n/a","2018","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","n/a","W. Michael Rountree","Director","n/a","2018","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","Director/President","Charles R. Haley","Director","n/a","2018","The Peoples Bank","1085901"
+"Peoples Bankshares Inc.","Director","Clayton R. Lancaster,"Jr."","Director","Lancaster Fertilizer Services","2018","Fertilizer Services","1085901"
+"Peoples Bankshares Inc.","Director","Randall F. Daniel","Director","Daniel Development Inc","2018","Contractor/Builder","1085901"
+"Peoples Bankshares Inc.","Director","Randall F. Daniel","Director","R&K Daniel Co.","2018","Contractor/Builder","1085901"
+"Peoples Bankshares Inc.","Director","Harvey C. Walker,"Jr."","Director","n/a","2018","Mobile Home Sales","1085901"
+"Peoples Bankshares Inc.","n/a","Steve W. Culberson","Director","n/a","2018","The Peoples Bank","1085901"
+```

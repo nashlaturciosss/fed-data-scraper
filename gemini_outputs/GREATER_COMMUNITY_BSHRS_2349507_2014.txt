@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","Frank A. Brown,"Jr."","n/a","47.3549","5.93%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","Frank A. Brown,"Jr."","n/a","3.0000","n/a","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","M. Wayne Robinson","n/a","50.5778","6.33%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","M. Wayne Robinson","n/a","4.0000","n/a","n/a"
+"Greater Community Bancshares,"Inc."","Atlanta,"GA"","2014","Joe W. Rogers,"Jr."","n/a","68.0000","8.52%","n/a"
+"Greater Community Bancshares,"Inc."","Atlanta,"GA"","2014","Joe W. Rogers,"Jr."","n/a","9.6000","n/a","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","Martha B. Walstad","n/a","47.5426","5.95%","n/a"
+"Greater Community Bancshares,"Inc."","Rome,"GA"","2014","Martha B. Walstad","n/a","4.2000","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Greater Community Bank","Director","Robert L. Berry","Partner in law firm","Brinson,"Askew","Berry","Seigler","Richardson & Davis"","2014","Partner in law firm","n/a"
+"Greater Community Bank","Director","Paul B. Brock,"Sr."","n/a","n/a","2014","n/a","n/a"
+"Greater Community Bank","Vice Chairman Director","Frank A. Brown,"Jr."","Account Executive - Insurance Agy","Brown & Brown Insurance of Georgia,"Inc."","2014","Account Executive - Insurance Agy","n/a"
+"Greater Community Bank","Director Director","Gene G. Davidson,"M.D."","Director","IDK Technologies,"Inc."","2014","Retired Physician","n/a"
+"Greater Community Bank","Director Director","Barry R. Henderson","President/CEO of Rome Memorial Park,"Inc."","Rome Memorial Park,"Inc."","2014","President/CEO of Henderson & Sons Funeral Home","n/a"
+"Greater Community Bank","Director Director","Barry R. Henderson","General Partner","Memorial Investors,"LP"","2014","President/CEO of Henderson & Sons Funeral Home","n/a"
+"Greater Community Bank","Director Director","Kenneth Wayne Jones,"Jr.","M.D."","Vice-President","Northwest Emergency Medical Associates","2014","Physician with Redmond Regional Medical Center","n/a"
+"Greater Community Bank","Pres/CEO Director","David J. Lance,"Sr."","n/a","n/a","2014","President/CEO","n/a"
+"Greater Community Bank","Director","William B. Temple","Real estate agent","Toles,"Temple & Wright","Inc."","2014","Real estate agent","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Partner","Robinson/Temple","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Partner","Warehouse Group","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Secretary","CRT Development","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Partner","RT&T Enterprise","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Member","Great Shakes,"LLC"","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Member","Calhoun Foods,"LLC"","2014","President","n/a"
+"Greater Community Bank","Pres/CEO Director","M. Wayne Robinson","Member","Hiram Foods,"LLC"","2014","President","n/a"
+"Greater Community Bank","Director","Martha B. Waldstad","Partner","Lake Toccoa Development Co.","2014","Personal investment managment","n/a"
+"Greater Community Bank","Director","Edwin C. Watters","Partner","Watters Development Corp","2014","President,"Watters & Associates Landscape","Inc."","n/a"
+"Greater Community Bank","Director","Edwin C. Watters","Member","Watters Properties,"LLC"","2014","President,"Watters & Associates Landscape","Inc."","n/a"
+"Greater Community Bank","Director","Edwin C. Watters","Member","Brook-Watters,"LLC"","2014","President,"Watters & Associates Landscape","Inc."","n/a"
+```

@@ -1,0 +1,21 @@
+Here are the tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Greensboro Bancshares,"Inc."","Chairman","B.W. Coleman,"III"","n/a","n/a","2023","Retired","n/a"
+"Greensboro Bancshares,"Inc."","Director","J.W. Kynard,"Jr."","n/a","n/a","2023","Retired","n/a"
+"Greensboro Bancshares,"Inc."","Director","N.H. Cobbs,"Jr."","Attorney","n/a","2023","Attorney","n/a"
+"Greensboro Bancshares,"Inc."","Director","Michael W. Harrow","n/a","Harrow Realty","2023","Realtor","n/a"
+"Greensboro Bancshares,"Inc."","President & CEO","Harris M. Coleman,"Jr."","n/a","n/a","2023","Farmer","n/a"
+"Greensboro Bancshares,"Inc."","Secretary","Karen Whitis","n/a","n/a","2023","n/a","n/a"
+"Greensboro Bancshares,"Inc."","Vice-Chairman","Mary Q. Holmes","Partner","C. R. Lawson,"Jr. Family Ltd Partnership"","2023","Farmer","n/a"
+"Greensboro Bancshares,"Inc."","Vice-Chairman","Mary Q. Holmes","Owner & President","Lawson Catfish Farm","2023","Farmer","n/a"
+"Greensboro Bancshares,"Inc."","Director","Amy L. Cooper","Partner","C. R. Lawson,"Jr. Family Ltd Partnership"","2023","n/a","n/a"
+"Greensboro Bancshares,"Inc."","Director","Amy L. Cooper","Owner & President","Lawson Catfish Farm","2023","n/a","n/a"
+"Greensboro Bancshares,"Inc."","Vice-President","Rhett Cooper","n/a","n/a","2023","n/a","n/a"
+"Greensboro Bancshares,"Inc."","Vice-President","Scott Arnold","n/a","n/a","2023","n/a","n/a"
+```

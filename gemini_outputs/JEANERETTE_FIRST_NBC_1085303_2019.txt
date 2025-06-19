@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Jeanerette First National Bancorp","Franklin,"LA"","2019","William S. Patout,"III Estate"","Common Stock","1478","12.07%","n/a"
+"Jeanerette First National Bancorp","McKinney,"TX"","2019","Patricia Wentrcek","Common Stock","791","6.46%","n/a"
+"Jeanerette First National Bancorp","New Iberia,"LA"","2019","Venetia M Patout","Common Stock","1028","8.4%","n/a"
+"Jeanerette First National Bancorp","Lafayette,"LA"","2019","Loretta Richard","Common Stock","840","6.86%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Jeanerette First National Bancorp","Chairman","Gerard Eldridge","n/a","n/a","2019","Banker","622037"
+"Jeanerette First National Bancorp","Director","Cameron Simmons","Judge","City of Jeanerette","2019","Attorney","622037"
+"Jeanerette First National Bancorp","Director","Cameron Simmons","Judge","Chitimacha Tribe","2019","Attorney","622037"
+"Jeanerette First National Bancorp","Director","Errol J. Delahoussaye","Agent","New York Life Agent","2019","Insurance and Securities","622037"
+"Jeanerette First National Bancorp","Vice-Chairman","Samuel B. Bourgeois","Salesman","CML Insurance","2019","Insurance Salesman","622037"
+"Jeanerette First National Bancorp","Director","Bret Bishop","n/a","Chaney Lumber Co","2019","President Lumber Company","622037"
+"Jeanerette First National Bancorp","Secretary","Damon Migues","Owner","Gym Owner","2019","CEO/FNB of Jeanerette","622037"
+"Jeanerette First National Bancorp","Director","Martin ""Bo"" Duhe","n/a","16th Judicial District","2019","District Attorney","622037"
+```

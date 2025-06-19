@@ -1,0 +1,23 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Merchants Bank","Jackson,"AL"","2017","Merchants Bank,"Employee Stock Ownership Plan"","COMMON STOCK OUTSTANDING","8463.00","24.43%","n/a"
+"Merchants Bank","Jackson,"AL"","2017","Grady L. Bedwell","COMMON STOCK OUTSTANDING","4389.67","12.67%","n/a"
+"Merchants Bank","Jackson,"AL"","2017","Joseph L. Bedwell","COMMON STOCK OUTSTANDING","3085.10","8.91%","n/a"
+"Merchants Bank","Grove Hill,"AL"","2017","William D. Harrigan,"III"","COMMON STOCK OUTSTANDING","2641.00","7.62%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Merchants Bank","Chairman and Director","Grady L. Bedwell","Chairman and Director","n/a","2017","n/a","n/a"
+"Merchants Bank","President,"Vice Chairman and Director"","Joseph L. Bedwell","CEO and Director","n/a","2017","n/a","n/a"
+"Merchants Bank","Director","William D. Harrigan,"III"","Director","Fulton Logging Co,"LLC"","2017","Lumber Company Executive","n/a"
+"Merchants Bank","Vice President,"Secretary and Director"","Jim Reid","President & CFO and Director","n/a","2017","n/a","n/a"
+"Merchants Bank","Vice President","Tracy Hall","n/a","n/a","2017","n/a","n/a"
+"Merchants Bank","Director","Chris C Bailey.III","Director","All Plastics & Fiberglass,"Inc."","2017","Plastics/Fiberglass Executive","n/a"
+"Merchants Bank","n/a","Robert A. Norman","Director","Triple N Enterprises,"Inc"","2017","Grocery Store Executive","n/a"
+"Merchants Bank","n/a","Robert A. Norman","Director","Triple N Insurance,"LLC"","2017","Grocery Store Executive","n/a"
+"Merchants Bank","n/a","Robert A. Norman","Director","Triple N Ventures,"LLC"","2017","Grocery Store Executive","n/a"
+"Merchants Bank","n/a","Merchants Bank,"Employee Stock Ownership Plan"","Principal Stockholder","n/a","2017","n/a","n/a"
+```

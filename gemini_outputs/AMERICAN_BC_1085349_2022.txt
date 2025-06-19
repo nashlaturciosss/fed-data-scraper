@@ -1,11 +1,27 @@
-Here are the two requested tables in CSV format:
 ```csv
 ### SECURITIES HOLDERS CSV
-"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"
-"American Bancorp,"Inc."","Opelousas","2022","n/a","n/a","n/a","n/a"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","20581","21.13%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","4999","5.13%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","4200","4.31%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","2332","2.39%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","16531","16.97%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","2571","2.64%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","2696","2.77%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","2249","2.31%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","1782","1.83%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","1315","1.35%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","1043","1.07%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","964","0.99%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","493","0.51%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","312","0.32%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","156","0.16%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","78","0.08%","n/a"
+"American Bancorp,"Inc."","n/a","2022","Robert & Kathi Judice","n/a","78","0.08%","n/a"
 ```
 ```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"
-"American Bancorp,"Inc."","President and CEO","Ronald J. Lashute","n/a","n/a","2022"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Bancorp,"Inc."","President and CEO","Ronald J. Lashute","n/a","n/a","2022","n/a","n/a"
+"American Bancorp,"Inc."","CFO","George Comeau","n/a","n/a","2022","n/a","n/a"
 ```

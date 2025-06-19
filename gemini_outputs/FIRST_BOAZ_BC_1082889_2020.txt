@@ -1,0 +1,37 @@
+"Okay","here are the two CSV tables extracted from the document","following your instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Boaz Bancorporation","Boaz,"Alabama"","2020","Gary D. Kilpatrick","n/a","243834","29.96%","n/a"
+"First Boaz Bancorporation","Auburn,"Alabama"","2020","Horace E. Kilpatrick","n/a","180900","22.23%","n/a"
+"First Boaz Bancorporation","Boaz,"AL"","2020","Gerald D. Martin","n/a","63050","7.75%","n/a"
+"First Boaz Bancorporation","Auburn,"Alabama"","2020","Horace E. Kilpatrick Jr.","n/a","60300","7.41%","n/a"
+"First Boaz Bancorporation","Boaz,"AL"","2020","Joseph Paul Abercrombie","n/a","50500","6.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","President","Boaz Discount Drugs","2020","n/a","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","President","Johnson's Hallmark","2020","n/a","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Owner","Johnson Real Estate Investments,"LLC"","2020","n/a","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Owner","Age,"LLC"","2020","n/a","n/a"
+"First Bank of Boaz","Chairman of the Board","Cary Dale Johnson","Limited Partner","Paint Rock,"LLC"","2020","n/a","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Alexander Ford","2020","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Alexander Rentals","2020","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","Secretary","Tackle Trap","2020","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","Managing Member","Alexander Family Investment","2020","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Leon J. Alexander,"Jr."","President","Chevrolet of Boaz","2020","Alexander Ford","n/a"
+"First Bank of Boaz","Director","Evan Johnson","President/Owner","Family Medicine of Sardis","2020","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Evan Johnson","Board of Directors","Boaz Discount Drugs","2020","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Evan Johnson","Owner","Johnson Properties","2020","Family Medicine of Sardis","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","President","Kilpatrick Chevrolet","2020","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","Owner","Gary's Signs","2020","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","Co-Owner","Bent River Development","2020","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","Co-Owner","M & K Signs","2020","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Gary Kilpatrick","President","K Properties LLC","2020","Kilpatrick Chevrolet","n/a"
+"First Bank of Boaz","Director","Horace Kilpatrick","Retired","n/a","2020","Retired","n/a"
+"First Bank of Boaz","Director","Horace E. Kilpatrick Jr.","Director","n/a","2020","Siemens Energy Inc. Legal Counsel","n/a"
+"First Bank of Boaz","Director","Gerald Martin","Partner","M & K Signs","2020","Retired","n/a"
+"First Bank of Boaz","President,"Director","C.E.O."","Ricky Ray","n/a","n/a","2020","First Bank of Boaz","n/a"
+"First Bank of Boaz","Director","Craig Rigsby","n/a","n/a","2020","Boaz Gas Board Manager","n/a"
+```

@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Meriwether Bank Shares,"Inc."","Greenville,"Georgia"","2014","Elizabeth A. Duncan","n/a","11","8%","2470090"
+"Meriwether Bank Shares,"Inc."","Greenville,"Georgia"","2014","Ann A. Hill","n/a","53","43%","2470090"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Meriwether Bank Shares,"Inc."","Principal Stockholder","Ann A. Hill","Director","n/a","2014","None","2470090"
+"Meriwether Bank Shares,"Inc."","Chief Operating Officer","John W. Townsend","Chief Executive Officer","n/a","2014","None","2470090"
+"Meriwether Bank Shares,"Inc."","Executive Officer","John W. Townsend","Executive Officer","n/a","2014","None","2470090"
+"Meriwether Bank Shares,"Inc."","Director","Alexander A. Hill","Director","Advanced Medical Design","2014","Vice President & Gen. Mgr.","2470090"
+"Meriwether Bank Shares,"Inc."","Director","James Mabon","Director","Meriwether County School System","2014","None","2470090"
+"Meriwether Bank Shares,"Inc."","Director","William Leverett","Director","Durand-Wayland,"Inc."","2014","Vice President","2470090"
+```

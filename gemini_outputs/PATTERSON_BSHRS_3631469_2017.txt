@@ -1,0 +1,21 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2017","Robert D. Watson","Common Stock","71262","33.63%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2017","William R. Marin,"Jr."","Common Stock","37875","17.87%","n/a"
+"Patterson Bancshares,"Inc."","Patterson,"LA"","2017","Peter J. Lipari","Common Stock","21800","10.29%","n/a"
+"Patterson Bancshares,"Inc."","Factoryville,"PA"","2017","Susan Jennings","Common Stock","16398","7.74%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Patterson Bancshares,"Inc."","Director & Chairman Emeritus","Robert D. Watson","Director & Chairman Emeritus","Patterson State Bank","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & Chairman,"Executive V.P."","William R. Marin,"Jr."","Director & Chairman,"Executive V.P."","Patterson State Bank","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director & President","Peter J. Lipari","Secretary","Waveland Plantation","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Robert M. Marin","Director & Chief Lending Officer","Patterson State Bank","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Robert S. Carter","Director","Kolder,"Champagne","Slaven and Company"","2017","Public Accounting (Partner)","85931"
+"Patterson Bancshares,"Inc."","Director & Treasurer","Jason H. Watson","Director & Senior V.P. & CFO","Patterson State Bank","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Dennis W. Taylor","Director & Senior V.P.","Patterson State Bank","2017","n/a","85931"
+"Patterson Bancshares,"Inc."","Director","Russel J. Cremaldi","Director","Patterson State Bank","2017","Attorney at Law (Partner)","85931"
+```

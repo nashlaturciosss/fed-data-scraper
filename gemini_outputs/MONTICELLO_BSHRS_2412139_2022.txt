@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MONTICELLO BANCSHARES,"INC"","CHAIRMAN/SECRETARY","DON B. KELLY","Chairman","n/a","2022","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","President Director","Steve Jordan","Ex. VP Director","n/a","2022","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Joel M. Gaston","Director","n/a","2022","Retired","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","S. Walker Jordan,"Jr."","President Director","n/a","2022","Banker","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","E.O. Jordan","Director","n/a","2022","Surveyor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","D. Bruce Kelly,"Jr."","Director","n/a","2022","Investment Manager","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Amps Sports LLC","2022","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Crocus Properties LLC","2022","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Director","Shannon Barton","Director","Team Bullpen Academy","2022","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Principal Shareholder","Dr. E. Clyde Kelly,"III"","n/a","n/a","2022","Doctor","n/a"
+"MONTICELLO BANCSHARES,"INC"","Principal Shareholder","Elizabeth Auslley Wade","n/a","n/a","2022","N/A","n/a"
+```
