@@ -1,0 +1,21 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2018","Stratton Lewis,"Jr"","n/a","4750","13.01%","3346745"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2018","Mary Jane Loftin","n/a","6750","18.50%","3346745"
+"Tombigbee Bancshares,"Inc."","Tuscaloosa,"AL"","2018","Betty Owensby","n/a","5000","13.70%","3346745"
+"Tombigbee Bancshares,"Inc."","Demopolis,"AL"","2018","Joyce L. Kerby","n/a","3000","8.22%","3346745"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2018","S. Ford Lewis,"III"","n/a","2000","5.48%","3346745"
+"Tombigbee Bancshares,"Inc."","Gallion,"AL"","2018","James M. Lewis","n/a","2000","5.48%","3346745"
+"Tombigbee Bancshares,"Inc."","Nanafalia,"AL"","2018","A.W. Compton,"Jr"","n/a","2000","5.48%","3346745"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Director & Chairman","Stratton F. Lewis,"Jr."","President & CEO","Sweet Water State Bank","2018","n/a","3346745"
+"Tombigbee Bancshares,"Inc."","Director & Vice Chairman","Mary Jane Loftin","Sr. Vice President","Sweet Water State Bank","2018","n/a","3346745"
+"Tombigbee Bancshares,"Inc."","Director","S. Ford Lewis,"III"","Executive V Pres","Sweet Water State Bank","2018","n/a","3346745"
+"Tombigbee Bancshares,"Inc."","Director & Secretary","J. Olen Kerby,"Jr"","Sr Executive V Pres","Sweet Water State Bank","2018","n/a","3346745"
+"Tombigbee Bancshares,"Inc."","Director","Thomas L. Duke","Loan Officer","n/a","2018","n/a","3346745"
+```

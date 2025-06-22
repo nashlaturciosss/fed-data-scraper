@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2019","Paul T. Bennett","common shares","1707","28.93%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Paul T. Bennett","common shares","15","0.25%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Paul T. Bennett","n/a","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Paul T. Bennett","n/a","242","4.10%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Lawrence Bennett","common shares","1316","22.31%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Lawrence Bennett","common shares","266","4.51%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Lawrence Bennett","n/a","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Lawrence Bennett","n/a","242","4.10%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Harry Keith Bennet,"Jr."","common shares","384","6.51%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Harry Keith Bennet,"Jr."","common shares","56","0.95%","n/a"
+"South Banking Company","Alma,"Georgia"","2019","Holly B. Porter","common shares","399","6.76%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Director,"President & Treasurer"","Paul T. Bennett","Chairman of the Board & President","Peoples Bank","2019","Banking","n/a"
+"South Banking Company","Director,"President & Treasurer"","Paul T. Bennett","Chairman of the Board & President","South Georgia Bankshares","2019","Banking","n/a"
+"South Banking Company","Director,"Executive Vice President & Secretary"","Lawrence Bennett","Director","Peoples Bank","2019","Banking","n/a"
+"South Banking Company","Director,"Executive Vice President & Secretary"","Lawrence Bennett","Director","South Georgia Bankshares","2019","Banking","n/a"
+"South Banking Company","Director","Kenneth Wade Banker","n/a","n/a","2019","Retired Banker","n/a"
+"South Banking Company","Director","Charlie Stuckey","n/a","n/a","2019","Banking","n/a"
+"South Banking Company","Director","Al D. Ross","n/a","Owl Ventures,"LLC"","2019","Banking","n/a"
+"South Banking Company","Director","Al D. Ross","n/a","South Georgia Bankshares","2019","Banking","n/a"
+"South Banking Company","Director","James Stephen Tuten,"III"","n/a","n/a","2019","Banking","n/a"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","Morben Blueberry","2019","Blueberry Farmer","n/a"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","South Georgia Bankshares","2019","Blueberry Farmer","n/a"
+```

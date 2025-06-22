@@ -1,0 +1,25 @@
+Here are the extracted CSV tables in the requested format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Group Bancshares","Glennville,"GA"","2017","Michael C. Crummey","Common Stock","16000","7.464%","3049569"
+"South Group Bancshares","Glennville,"GA"","2017","Jackie Dasher","Common Stock","13975","6.519%","3049569"
+"South Group Bancshares","Glennville,"GA"","2017","Bran Thompson","Common Stock","18276","8.525%","3049569"
+"South Group Bancshares","Glennville,"GA"","2017","Edward L. Nelson","Common Stock","15790","7.366%","3049569"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares","Director","J. Troy Rahn","Dentist","n/a","2017","Dentist","3049569"
+"South Group Bancshares","Director","J. Troy Rahn","Dentist","J. Troy Rahn,"Dentistry"","2017","Dentist","3049569"
+"South Group Bancshares","Chairman of Board","B. Branford Thompson","CEO","Coastal Wood Products","2017","n/a","3049569"
+"South Group Bancshares","Chairman of Board","B. Branford Thompson","CEO","Baxter Forest Products","2017","n/a","3049569"
+"South Group Bancshares","Director","Dale Dutton","Director","n/a","2017","Tattnall County Tax Commissioner","3049569"
+"South Group Bancshares","Director","Jackie Dasher","Director","n/a","2017","Farmer","3049569"
+"South Group Bancshares","Director","Clyde McCall Woolard,"Jr"","Director","Owner Woodland Oil","2017","Business Owner","3049569"
+"South Group Bancshares","Director","Gregory Jones Woolard","Director","Owner Woodland Oil","2017","Business Owner","3049569"
+"South Group Bancshares","Director","Gregory Jones Woolard","Director","Baldinos","2017","Business Owner","3049569"
+"South Group Bancshares","Director","Steve Kimbrell","Director","n/a","2017","President","3049569"
+"South Group Bancshares","Director","Edward L. Nelson","Director","n/a","2017","Manufacturing","3049569"
+"South Group Bancshares","Director","Charles Paul Rose Jr","Director","n/a","2017","Judge","3049569"
+```

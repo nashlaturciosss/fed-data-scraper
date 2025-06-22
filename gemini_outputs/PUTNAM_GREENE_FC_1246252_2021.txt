@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Putnam-Greene Financial Corporation","Monticello,"GA"","2021","L.O. Benton,"IV"","n/a","680028","62.27%","n/a"
+"Putnam-Greene Financial Corporation","Tryon,"NC"","2021","Ann Fitzpatrick","n/a","172276","15.77%","n/a"
+"Putnam-Greene Financial Corporation","Monticello,"GA"","2021","L.O. Benton,"IV Trustee for Caro Fitzpatrick"","n/a","153748","14.08%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Putnam-Greene Financial Corporation","Chairman of the Board","L.O. Benton,"IV"","Partner","Urban Equity Properties,"LLC"","2021","Real Estate Property Mgt","n/a"
+"Putnam-Greene Financial Corporation","Chairman of the Board & President/CEO","L.O. Benton,"IV"","Partner","Urban Equity Properties,"LLC"","2021","Real Estate Property Mgt","n/a"
+"Putnam-Greene Financial Corporation","Chairman of the Board","L.O. Benton,"IV"","n/a","n/a","2021","Real Estate Property Mgt","n/a"
+"Putnam-Greene Financial Corporation","n/a","L.O. Benton,"IV Trustee for Caro Fitzpatrick"","n/a","n/a","2021","None","n/a"
+"Putnam-Greene Financial Corporation","n/a","Anne Fitzpatrick","Advisory Director","Farmers & Merchants Bank","2021","Bank Stockholder","n/a"
+"Putnam-Greene Financial Corporation","n/a","Anne Fitzpatrick","Advisory Director","First Bank of Coastal Georgia","2021","Bank Stockholder","n/a"
+"Putnam-Greene Financial Corporation","Director","Nancy Benton","Owner","Benton Farms","2021","None","n/a"
+"Putnam-Greene Financial Corporation","Director","Nancy Benton","Co-Owner","Barrett Creek Land & Investment Company,"LLC"","2021","None","n/a"
+"Putnam-Greene Financial Corporation","Director","J.S. Blackwell,"Jr."","President","Blackwell Furniture Company,"Inc."","2021","President of a furniture company","n/a"
+"Putnam-Greene Financial Corporation","Director","J.S. Blackwell,"Jr."","Owner","Blackwell Farms","2021","President of a furniture company","n/a"
+"Putnam-Greene Financial Corporation","Director","J.S. Blackwell,"Jr."","Partner","Blackwell & Hudson,"LLC"","2021","President of a furniture company","n/a"
+"Putnam-Greene Financial Corporation","Director","Stacy M. Benton","n/a","n/a","2021","None","n/a"
+"Putnam-Greene Financial Corporation","Director","J.T. Gregory,"Jr."","President & CEO","Gregory Bridge Company,"Inc."","2021","President of a construction company","n/a"
+"Putnam-Greene Financial Corporation","Director","J.T. Gregory,"Jr."","Chairman","Putnam County Hospital Authority","2021","President of a construction company","n/a"
+"Putnam-Greene Financial Corporation","Director","R. Linton Jordan","n/a","n/a","2021","None","n/a"
+"Putnam-Greene Financial Corporation","Director","Earnest R. Turk","Owner","Earnest R. Turk Dairy","2021","Dairy owner","n/a"
+"Putnam-Greene Financial Corporation","Director","Earnest R. Turk","Member","Eatonton Co-Op Feed Company,"Inc."","2021","Dairy owner","n/a"
+"Putnam-Greene Financial Corporation","Director","William L. Glower","Secretary/Treasurer","Evermore Community Improvement District","2021","COO/SLO Farmers & Merchants Bank","n/a"
+```

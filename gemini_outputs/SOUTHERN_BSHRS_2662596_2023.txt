@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2023","Clements Family Investments,"LLC"","n/a","5777","8.56%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2023","W. Ross Singletary,"II"","n/a","4902","7.26%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2023","Don Glisson,"Jr."","n/a","4902","7.26%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2023","George W. Strickland Jr. Foundation,"Inc."","n/a","4700","6.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Bankshares,"Inc."","Chairman & Director,"Chairman & Director"","Robert Clements","Chairman & CEO","Covius Holdings","2023","Chairman & CEO","n/a"
+"Southern Bankshares,"Inc."","Director","George Egan","Chairman","Reinhold Corporation","2023","Chairman","n/a"
+"Southern Bankshares,"Inc."","Director","Don Glisson","President","Glisson Family Investments,"LCC"","2023","President","n/a"
+"Southern Bankshares,"Inc."","Director","Jerry Lane","n/a","n/a","2023","Retired","n/a"
+"Southern Bankshares,"Inc."","Director","William Ross Singletary,"II"","Managing Member","Arcus Capital Partners,"LLC"","2023","Managing Member","n/a"
+"Southern Bankshares,"Inc."","Director","John Surface","CEO & Director","Covius Services,"LLC"","2023","CEO & Director","n/a"
+"Southern Bankshares,"Inc."","President & CEO,"Director"","Scott C. Verlander","President & CEO","n/a","2023","Director","n/a"
+```

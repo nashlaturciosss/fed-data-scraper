@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TriStar Bancshares,"Inc"","Nashville,"TN"","2019","Stuart Speyer","Common Stock","130475","14.34%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2019","Ted Williams","Common Stock","79864","8.78%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2019","Linda Hayes","Stock","52300","5.75%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2019","Jerry V. Smith","Common Stock","57800","6.35%","3442795"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TriStar Bancshares,"Inc"","Director President and CEO","Ted Williams","n/a","Williams Cattle and Farm","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director President and CEO","Ted Williams","n/a","Williams Real Estate","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director President and CEO","Ted Williams","n/a","The Jackson Foundation","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director President and CEO","Ted Williams","n/a","Freed Hardeman University","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director","Melissa Street","n/a","n/a","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Executive Vice President","Sharon Ferrell","n/a","n/a","2019","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director","Stuart Speyer","n/a","Tennsco LLC","2019","Manufacturing Company Tennsco","n/a"
+"TriStar Bancshares,"Inc"","Director","Stuart Speyer","n/a","Stuart Family Trust","2019","Manufacturing Company Tennsco","n/a"
+"TriStar Bancshares,"Inc"","Director","Stuart Speyer","n/a","Tennessee Brew Works LLC","2019","Manufacturing Company Tennsco","n/a"
+"TriStar Bancshares,"Inc"","Director","Stuart Speyer","n/a","Tennessee Brew Holdings LLC","2019","Manufacturing Company Tennsco","n/a"
+"TriStar Bancshares,"Inc"","Director","Jerry Smith","n/a","Jerry Smith Attorney at Law","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director Chairman (non-employee)","Linda P Hayes","n/a","n/a","2019","Retired Teacher","n/a"
+"TriStar Bancshares,"Inc"","Director","D. Wilson Overton","D Wilson Overton CPA-owner","Donegan and Overton-GP","2019","CPA","n/a"
+"TriStar Bancshares,"Inc"","Director","Paul G. Summers","n/a","Sommers Farm,"Fayette County","TN"","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","Benefits Inc","2019","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","Morrison,"Fuson","Smith","White","Benefits Inc"","2019","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","Innovative Benefits Group LLC","2019","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","Weiss,"Smith and White GP"","2019","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","W&W Properties","2019","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Brian Ragan","n/a","Reynolds,"Potter","Ragan & Vandivort"","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Brian Ragan","n/a","RPRV Real Estate Partnership","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Brian Ragan","n/a","Ragan Brothers,"a Tennessee GP"","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Brian Ragan","n/a","Merchants of East Hills,"a Tennessee GP"","2019","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Executive Vice President","Robby Harmon","Chief Manager,","WHR Properties,"LLC"","2019","n/a","n/a"
+```

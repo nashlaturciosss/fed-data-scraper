@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bank Corporation","Barnesville,"GA"","2016","United Bank Corporation Employee Stock Ownership Plan","n/a","329132","22.18%","1082777"
+"United Bank Corporation","Forsyth,"GA"","2016","James J. Edwards,"Jr."","n/a","292095","19.68%","1082777"
+"United Bank Corporation","Griffin,"GA"","2016","Christopher C. Edwards","n/a","237367","15.99%","1082777"
+"United Bank Corporation","Zebulon,"GA"","2016","Allie E. Armistead","n/a","145203","9.78%","1082777"
+"United Bank Corporation","Sewanee,"TN"","2016","Laurie E. Fisher","n/a","132662","8.94%","1082777"
+"United Bank Corporation","Zebulon,"GA"","2016","John W. Edwards,"Jr."","n/a","99973","6.74%","1082777"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bank Corporation","Director","Allie E Armistead","Senior Attorney for United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director & President","Christopher C. Edwards","Director & Chief Information Officer of United Bank","Edwards Real Estate Holdings,"LLLP"","2016","n/a","1082777"
+"United Bank Corporation","Director & President","Christopher C. Edwards","Director & Chief Information Officer of United Bank","Edwards Real Estate Management,"LLC"","2016","n/a","1082777"
+"United Bank Corporation","Director & President","Christopher C. Edwards","Director & Chief Information Officer of United Bank","JAASSEE Holdings,"LLLP"","2016","n/a","1082777"
+"United Bank Corporation","Director & President","Christopher C. Edwards","Director & Chief Information Officer of United Bank","Edwards Farm","2016","n/a","1082777"
+"United Bank Corporation","Director & Chief Executive Officer","J. Joseph Edwards,"Sr."","Director & Vice-chairman of United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer of United Bank","Edwards Real Estate Holdings,"LLLP"","2016","n/a","1082777"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer of United Bank","Edwards Real Estate Management,"LLC"","2016","n/a","1082777"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer of United Bank","JAASSEE Holdings,"LLLP"","2016","n/a","1082777"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer of United Bank","Edwards Farm","2016","n/a","1082777"
+"United Bank Corporation","Director & VP","John W. Edwards,"Jr."","Director,"Chairman & President of United Bank"","JBJ Developers,"LLC"","2016","n/a","1082777"
+"United Bank Corporation","Director","J. William Edwards,"Sr."","Director & Vice-chairman of United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director","Laurie E. Fisher","Director of United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director","Robert E. Mason","Director of United Bank","R.E. Mason Corporation","2016","Commercial Real Estate","1082777"
+"United Bank Corporation","Director","Robert E. Mason","Director of United Bank","Mason FMC","2016","Commercial Real Estate","1082777"
+"United Bank Corporation","Director","Robert E. Mason","Director of United Bank","Mason Gin & Fertilizer Company","2016","Commercial Real Estate","1082777"
+"United Bank Corporation","Director","Douglas J. Tuttle","Director of United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","n/a","United Bank Corporation Employee Stock Ownership Plan","n/a","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director","Forrest A. Watson,"Jr."","Director & General Counsel for United Bank","n/a","2016","n/a","1082777"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Thomas Two LLC","2016","Physician","1082777"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Orthopedic & Sports Injury Center of Griffin","2016","Physician","1082777"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Hopkins-Neel LLC","2016","Physician","1082777"
+```

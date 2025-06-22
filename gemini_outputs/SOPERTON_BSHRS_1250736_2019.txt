@@ -1,0 +1,35 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOPERTON BANCSHARES","Adel,"Georgia"","2019","Jeanmarie G. Harris","Common Stock","5024","8.59%","n/a"
+"SOPERTON BANCSHARES","Ocala,"Florida"","2019","Margaret Lois G. Clardy","Common Stock","7593","12.98%","n/a"
+"SOPERTON BANCSHARES","Atlanta,"Georgia"","2019","Kate Felton","Common Stock","5942","10.15%","n/a"
+"SOPERTON BANCSHARES","Soperton,"Georgia"","2019","Hugh Gillis,"Jr."","Common Stock","6448","11.02%","n/a"
+"SOPERTON BANCSHARES","Dublin,"Georgia"","2019","Donald W. Gillis","Common Stock","4914","8.40%","n/a"
+"SOPERTON BANCSHARES","Soperton,"Georgia"","2019","Richard M. Dennard","Common Stock","5179","8.85%","n/a"
+"SOPERTON BANCSHARES","Soperton,"Georgia"","2019","Jim L. Gillis,"III"","Common Stock","7973","16.32%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOPERTON BANCSHARES","Director Emeritus","Jim L. Gillis,"III"","n/a","n/a","2019","Retired","n/a"
+"SOPERTON BANCSHARES","Director/Secretary","Donald W. Gillis","Partner","Nelson,"Gillis & Thomas","LLC"","2019","Judge","n/a"
+"SOPERTON BANCSHARES","Director/Secretary","Donald W. Gillis","Partner","SNS Operations Inc.","2019","Judge","n/a"
+"SOPERTON BANCSHARES","Director Chairman of the Board","Richard M. Dennard","Owner","Dennard Drugs & Jewelry","2019","Pharmacist","n/a"
+"SOPERTON BANCSHARES","Director Chairman of the Board","Richard M. Dennard","Owner","Dennard True Value Hardware","2019","Pharmacist","n/a"
+"SOPERTON BANCSHARES","Director/President","Chandler Maurice Beasley,"III"","n/a","n/a","2019","Bank President,"CEO & Director"","n/a"
+"SOPERTON BANCSHARES","Director","David Roberts","Owner","Chick-fil-a of Dublin","2019","Businessman","n/a"
+"SOPERTON BANCSHARES","Director","James Mark Burns","n/a","n/a","2019","Retired","n/a"
+"SOPERTON BANCSHARES","Director","Dennis H. Ingley","Partner","Ingley Rope Moore & Co LLC","2019","Accountant","n/a"
+"SOPERTON BANCSHARES","Director","Margaret Lois G. Clardy","n/a","n/a","2019","Retired","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","HAMUND Investment LLC","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","Dental Center of Vidalia","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","Dental Center of Baxley","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","Dental Center of St Simons","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","Dental Center of Ga","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Partner","KMH Landholdings LLC","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Director","Stewart Ashley Hamilton","Owner","Stewart Ashley Hamilton DMD PC","2019","Dentist","n/a"
+"SOPERTON BANCSHARES","Principal Shareholder","Jeanmarie G. Harris","n/a","n/a","2019","Retired","n/a"
+"SOPERTON BANCSHARES","Principal Shareholder","Hugh Gillis,"Jr."","Partner","Gillis Ag & Timber","2019","Businessman","n/a"
+"SOPERTON BANCSHARES","Principal Shareholder","Kate Felton","Owner","Felton Forestry,"Inc."","2019","Businesswoman","n/a"
+```

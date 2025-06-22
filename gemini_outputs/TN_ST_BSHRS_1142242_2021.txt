@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2021","Richard Todd Proffitt","common stock","256","57.92%","n/a"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2021","Billy Proffitt","common stock","96","21.72%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2021","Lee Reagan Trust,"Ray Lee Reagan and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","common stock","51","12.67%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2021","Proffitt Trust 2012 No 1","common stock","87","19.68%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2021","Proffitt Trust 2012 No 2","common stock","72","16.29%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2021","John Reagan Descendants Trust,"Kay Stephens and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","common stock","51","11.54%","n/a"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2021","Wayne Ayers","common stock","35","7.92%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","President Chairman Director","Richard Todd Proffitt","President Chairman Director","Smokey Mtn. Foods,"Inc."","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director","Travis McCroskey","Owner","Landmark Inn","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director Secretary","Mitchell H. McCarter","Owner","Parkway Liquor Store","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director","Charles R. Frost Jr","Owner","n/a","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director","Robert A. Tino","Owner","Art Galleries","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director","Lawrence Andrew Proffitt","Owner","Real Estate","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Billy Proffitt","President / Owner","Smokey Mtn. Foods,"Inc."","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Secretary Director","Wayne Ayers","Owner","Real Estate","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Senior Executive Vice-President","J. Scott Gibson","n/a","Sterling Breeze Condo","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Executive Vice-President","Tammie M. Sutton","n/a","n/a","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Executive Vice-President","Jennifer Lynn Reinhard","n/a","n/a","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Executive Vice-President","R. Stephen Hagood","n/a","Sandtrap Road,"LLC"","2021","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Executive Vice-President","Ray B. Sterling","n/a","n/a","2021","n/a","n/a"
+```

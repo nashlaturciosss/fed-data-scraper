@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Relations Bancshares,"Inc."","Vernon,"AL"","2020","Richard ""Mac"" Mayers","Common Stock","48182","9.388%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Relations Bancshares,"Inc."","Chairman & CEO,"Director"","Mark Wilson","None","None","2020","Banker","n/a"
+"Relations Bancshares,"Inc."","President,"Director"","Tony Sparks","None","None","2020","Banker","n/a"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Mayers & Co,"РС"","2020","Accountant","n/a"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Midsouth Petro Corp","2020","Accountant","n/a"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Sipsey River Oil","2020","Accountant","n/a"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Partner","Titan Capital,"LLC"","2020","Accountant","n/a"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","GM Properties,"LLC"","2020","Accountant","n/a"
+"Relations Bancshares,"Inc."","Director","Ronald K. Harris","President","Delta Transfer","2020","Cross Country Moving & Storage","n/a"
+"Relations Bancshares,"Inc."","Director","Jim Woods","Owner","Jasper Auto Sales","2020","Auto Sales","n/a"
+"Relations Bancshares,"Inc."","Senior Vice President","Walker Wilson","None","None","2020","Banker","n/a"
+"Relations Bancshares,"Inc."","Chief Operating Officer","Debra Kay Sartain","None","None","2020","Banker","n/a"
+"Relations Bancshares,"Inc."","Director","Haig Wright","Owner","Byars-Wright Insurance","2020","Insurance Broker","n/a"
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Justin Dyar LLC","2020","Real Estate Agent","n/a"
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Lake Homes Realty","2020","Real Estate Agent","n/a"
+```

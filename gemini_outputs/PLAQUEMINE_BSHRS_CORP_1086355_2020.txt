@@ -1,0 +1,23 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2020","Stephen Panepinto","Common Stock","24364","44.8816%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2020","Frances D. Durand","Common Stock","4000","7.3685%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2020","Joseph D. Weldon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bancshares Corporation","Calabasa,"CA"","2020","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2020","M/M J. D. Weldon","Common Stock","2371","4.3677%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bancshares Corporation","Director","Frances D. Durand","Managing Partner","Durand Property LLC","2020","Owner of Durand Property LLC 99%","n/a"
+"Plaquemine Bancshares Corporation","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2020","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director","Kenneth C. Caruso","Managing Partner","KC5,"LLC"","2020","Managing Partner KC5,"LLC"","n/a"
+"Plaquemine Bancshares Corporation","Director","Harry J Philips,"Jr."","Partner","Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","2020","Partner Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","n/a"
+"Plaquemine Bancshares Corporation","Director","Leo D Sternfels","President","Service Mortgage Co.","2020","President of Service Mortgage Co.","n/a"
+"Plaquemine Bancshares Corporation","Director & Chairman/ President/CEO","Stephen Panepinto","n/a","n/a","2020","n/a","n/a"
+"Plaquemine Bancshares Corporation","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2020","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Caroline B. Causin","n/a","n/a","2020","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Elizabeth Rivet","n/a","n/a","2020","n/a","n/a"
+"Plaquemine Bancshares Corporation","Assistant Vice President","Rhett Vaughn","n/a","n/a","2020","n/a","n/a"
+```

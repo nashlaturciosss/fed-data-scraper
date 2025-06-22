@@ -1,0 +1,19 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2014","Security Federal Bank Employee Stock Ownership Plan (""ESOP"")","n/a","38680","8.4","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2014","Margaret H Hampton","n/a","61909","13.5","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2014","Peter W. Hampton,"Jr."","n/a","28236","6.2","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Federal Bank","Chairman,"President/ CEO and Director"","Peter W. Hampton,"Jr."","n/a","n/a","2014","Attorney and CEO of Security Federal Bank","406778"
+"Security Federal Bank","CEO of Security Federal Bank and Director","Peter W. Hampton,"Jr."","n/a","n/a","2014","Attorney and CEO of Security Federal Bank","406778"
+"Security Federal Bank","Vice Chairman and Director","Frank D. Newman","n/a","n/a","2014","Attorney and Director of Security Federal Bank","n/a"
+"Security Federal Bank","Director","Michael L. McKinney","n/a","n/a","2014","Contractor and Director of Security Bank","n/a"
+"Security Federal Bank","President of Security Federal Bank and Director","Carmella F. Price","n/a","n/a","2014","n/a","n/a"
+"Security Federal Bank","Director","Barry Steven Sykes","n/a","n/a","2014","Architect and Director of Security Federal Bank","n/a"
+"Security Federal Bank","EVP/CFO of Security Federal Bank","David LeVeau","n/a","n/a","2014","n/a","n/a"
+```

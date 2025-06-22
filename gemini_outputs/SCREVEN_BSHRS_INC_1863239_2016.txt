@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2016","MARY H. BLACKBURN","COMMON STOCK","4100","5.42%","1863239"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2016","CHARLES D. REED","COMMON STOCK","5977","7.91%","1863239"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2016","DONALD O. SHEPPARD","COMMON STOCK","4228","5.59%","1863239"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2016","RUTH B. BAZEMORE","COMMON STOCK","4689","6.20%","1863239"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Director,"CEO and President"","James W. Adams","Director,"CEO"","Farmers and Merchants Bank","2016","Bank Officer","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Otis M. Chivers","Director","Farmers and Merchants Bank","2016","Retired","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2016","Real Estate","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","R. J. Martin,"III"","Director","Farmers and Merchants Bank","2016","Retired","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","President (David W. Reed,"Co.)","Partner (Whitehill Farm)"","David W. Reed,"Co."","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","President (David W. Reed,"Co.)","Partner (Whitehill Farm)"","Whitehill Farm","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Donald O. Sheppard","President and shareholder","Sheppard Brothers Gas Co.","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Donald O. Sheppard","President and shareholder","Sheppards' Livestock","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Donald O. Sheppard","President and shareholder","Dostan Farms","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2016","CEO","1863239"
+"SCREVEN BANCSHARES,"INC."","n/a","Ruth Bazemore","Owner","Professional Insurance Agency","2016","Insurance Broker","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Hoke S. Reeves,"III"","n/a","n/a","2016","Bank Officer","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","David Burke","n/a","n/a","2016","Plant Manager","1863239"
+"SCREVEN BANCSHARES,"INC."","Director","Todd Bazemore","Owner,"Todd Bazemore","CPA"","n/a","2016","Certified Public Accountant Insurance Co.","1863239"
+```

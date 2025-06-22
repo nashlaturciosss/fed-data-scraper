@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunshine Financial,"Inc."","New York,"NY"","2017","Joseph Stilwell,"Stilwell Value Partners VII","L.P.","Stilwell Partners","L.P.","Stilwell Activist Fund","L.P.","Stilwell Activist Investments","L.P.","Stilwell Value LLC"","n/a","98300","9.46%","n/a"
+"Sunshine Financial,"Inc."","Tallahassee,"FL"","2017","Sunshine Financial Employee Stock Ownership Plan","n/a","93339","8.98%","n/a"
+"Sunshine Financial,"Inc."","New York,"NY"","2017","Maltese Capital Management,"LLC","Maltese Capital Holdings","LLC","and Terry Maltese"","n/a","92500","8.90%","n/a"
+"Sunshine Financial,"Inc."","Bala Cdynwyd,"PA"","2017","Context BH Capital Management,"LP"","n/a","62457","6.01%","n/a"
+"Sunshine Financial,"Inc."","Dallas,"TX"","2017","Palogic Value Management,"L.P.","Palogic Value Fund","L.P.","Palogic Capital Management","LLC","and Ryan L. Vardeman"","n/a","52700","5.07%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunshine Financial,"Inc."","Director & Chairman","Benjamin F. Betts","Retired Partner","Carr,"Riggs & Ingram","LLC"","2017","CPA","n/a"
+"Sunshine Financial,"Inc."","Director & President","Louis O. Davis,"Jr."","n/a","n/a","2017","n/a","n/a"
+"Sunshine Financial,"Inc."","Director & EVP & Sec","Brian P. Baggett","n/a","n/a","2017","n/a","n/a"
+"Sunshine Financial,"Inc."","Director","Robert K. Bacon","CEO","Earl Bacon Agency","2017","Insurance","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","HR Consultant","Mainline IS","2017","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","Owner","Chastain Consulting","2017","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Richard A. Moore","Owner and Partner","Moore Bass Consulting","2017","Civil Engineering","n/a"
+"Sunshine Financial,"Inc."","Director","Fred G. Shelfer,"Jr."","President & CEO","Goodwill Industries of the Big Bend,"Inc"","2017","Nonprofit CEO","n/a"
+"Sunshine Financial,"Inc."","SVP & CFO Treasurer","Scott A. Swain","n/a","n/a","2017","n/a","n/a"
+```

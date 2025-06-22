@@ -1,0 +1,34 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Craig E. Robertson","Common Stock","5742.115","28.13%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","John Adam Robertson","Common Stock","5100.1375","24.985%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Emily A (Robertson) King","Common Stock","5100.1375","24.985%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Craig E. Robertson","Common Stock","1117.59","5.47%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Craig E. Robertson","Common Stock","1117.59","5.47%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Craig E. Robertson","Common Stock","1117.59","5.47%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Craig E. Robertson","Common Stock","1117.59","5.47%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Robertson Holding Company,"L.P."","Common Stock","20412.75","53.580%","n/a"
+"Commercial Bancgroup,"Inc."","Harrogate,"TN"","2021","Unified Shares,"LLC"","Common Stock","10422","27.356%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Commercial Bancgroup,"Inc."","CEO & Chairman","Craig E. Robertson","President","Harrogate Insurance Agency,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","CEO & Chairman","Craig E. Robertson","President","SCR Rentals,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","CEO & Chairman","Craig E. Robertson","President","EI O Farms,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","CEO & Chairman","Craig E. Robertson","President","Cards Etc.,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","CEO & Chairman","Craig E. Robertson","President","Harrogate Restaurant Group,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","President","John Adam Robertson","Member","JACE Investments,"LLC"","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","President","John Adam Robertson","President","JACE Foods,"Inc."","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","Auditor","Craig E. Robertson","Member","JACE Investments,"LLC"","2021","n/a","n/a"
+"Commercial Bancgroup,"Inc."","Director","Julian R. West","Owner/Manager","JR West Properties,"LLC"","2021","Commercial Real Estate Rentals","n/a"
+"Commercial Bancgroup,"Inc."","Director","Julian R. West","Managing Partner","West Realty Agency","2021","Commercial Real Estate Rentals","n/a"
+"Commercial Bancgroup,"Inc."","Director","Julian R. West","President","West Finch Corporation","2021","Commercial Real Estate Rentals","n/a"
+"Commercial Bancgroup,"Inc."","President & Director","Terry L. Lee","President & CEO","Lee Oil Company,"Inc."","2021","CEO","n/a"
+"Commercial Bancgroup,"Inc."","President & Director","Terry L. Lee","President & CEO","L&M Ventures,"Inc."","2021","CEO","n/a"
+"Commercial Bancgroup,"Inc."","President & Director","Terry L. Lee","President & CEO","Green Hills Properties,"Inc."","2021","CEO","n/a"
+"Commercial Bancgroup,"Inc."","President & Director","Terry L. Lee","President & CEO","Cumberland Ford Motors,"Inc."","2021","CEO","n/a"
+"Commercial Bancgroup,"Inc."","President & Director","Terry L. Lee","Member","Cumberland Gap Ventures,"LLC"","2021","CEO","n/a"
+```

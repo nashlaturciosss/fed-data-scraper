@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2018","J. PRESTON CONNER","COMMON STOCK","3894","14.9769%","n/a"
+"SARDIS BANKSHARES,"INC."","ST. AUGUSTINE,"FL"","2018","JOE T. CONNER,"JR."","COMMON STOCK","6353","24.00%","n/a"
+"SARDIS BANKSHARES,"INC."","THOMASTON,"GA"","2018","ROSE WARREN","COMMON STOCK","3733","14.00%","n/a"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2018","ANN CLINE","COMMON STOCK","2620","10.10%","n/a"
+"SARDIS BANKSHARES,"INC."","APPLING,"GA"","2018","SANDI J. CLARK","COMMON STOCK","1773","6.82%","n/a"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2018","TONYA DIΧΟΝ","COMMON STOCK","1773","6.82%","n/a"
+"SARDIS BANKSHARES,"INC."","MILLEN,"GA"","2018","MICHELLE HARGROVE","COMMON STOCK","1773","6.82%","n/a"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2018","ESTATE OF SANDRA C. LONG","COMMON STOCK","5320","20.46%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","Director,"CEO and President"","J. Preston Conner","Director,"CEO"","Southern Bank","2018","Bank Officer","n/a"
+"SARDIS BANKSHARES,"INC."","Director and Executive Vice President","Ralph E. Dickey","Director,"President"","Southern Bank","2018","Bank Officer","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Joe T. Conner,"Jr."","President,"CEO"","Khem-Tech,"Inc."","2018","Sales","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Rose Warren","n/a","n/a","2018","Retired","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Ann Cline","n/a","n/a","2018","Retired","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Sandi Clark","n/a","n/a","2018","Homemaker","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Tonya Dixon","n/a","n/a","2018","Nurse","n/a"
+"SARDIS BANKSHARES,"INC."","n/a","Michelle Hargrove","n/a","n/a","2018","Homemaker","n/a"
+"SARDIS BANKSHARES,"INC."","Director","J. Sean Conner","Director","Southern Bank","2018","Bank Officer","n/a"
+"SARDIS BANKSHARES,"INC."","Director","George L. Deloach","Director","Southern Bank,"Funeral home"","2018","Businessman","n/a"
+"SARDIS BANKSHARES,"INC."","Director","Wayne Dixon","Director","Southern Bank","2018","Businessman","n/a"
+```

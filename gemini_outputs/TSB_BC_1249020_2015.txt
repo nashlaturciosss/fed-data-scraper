@@ -1,0 +1,24 @@
+Here are the two tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"," RSSD_ID"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2015","Edgar D. Chapman,"Jr."","Common Stock","101","50.2488%","1249020"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2015","Samuel P. Chapman","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Wildwood,"MO"","2015","Edgar Wright Chapman","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Dothan,"AL"","2015","Barbara C. Haas","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Senoia,"GA"","2015","Mary C. Chapman","Common Stock","25","12.4378%","1249020"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year"," Occupation"," RSSD_ID"
+"Talbot State Bank","Chairman of the Board & President","Edgar E. Chapman,"Jr."","n/a","n/a","2015","n/a","577230"
+"Talbot State Bank","Director & Vice President","James T. Davidson","n/a","n/a","2015","n/a","577230"
+"Talbot State Bank","Director & Secretary","Kenneth Chapman","n/a","n/a","2015","n/a","577230"
+"Talbot State Bank","Director","Vivian Collier","n/a","n/a","2015","Retired","577230"
+"Talbot State Bank","Director","Darrell Moore","n/a","n/a","2015","Retired","577230"
+"Talbot State Bank","n/a","Samuel P. Chapman","n/a","n/a","2015","Real Estate Agent","577230"
+"Talbot State Bank","Director","Nancy T. Miles","n/a","n/a","2015","Retired","577230"
+"Talbot State Bank","n/a","Edgar Wright Chapman","n/a","n/a","2015","Electrical Engineer","577230"
+"Talbot State Bank","n/a","Barbara C. Haas","n/a","n/a","2015","Student/Homemaker","577230"
+"Talbot State Bank","Director","Mary C. Chapman","n/a","n/a","2015","n/a","577230"
+```

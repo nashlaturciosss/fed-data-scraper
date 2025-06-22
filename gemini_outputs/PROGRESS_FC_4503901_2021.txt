@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Progress Financial Corporation","n/a","2021","None","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Progress Financial Corporation","Chairman and Director","Charlie Vaughn","Owner/President","Tera Properties","2021","Government Contractor","n/a"
+"Progress Financial Corporation","Chairman and Director","Charlie Vaughn","Owner/President","Recast","2021","Government Contractor","n/a"
+"Progress Financial Corporation","Chairman and Director","Charlie Vaughn","Owner/President","Charger Holdings","2021","Government Contractor","n/a"
+"Progress Financial Corporation","Director,"President and CEO"","David Nast","n/a","n/a","2021","N/A","n/a"
+"Progress Financial Corporation","Vice Chairman and Director","Larry Weaver","Attorney","Wilmer & Lee","2021","Attorney","n/a"
+"Progress Financial Corporation","Secretary and Director","Bhavani Kakani","President","AshaKiran,"A Ray of Hope"","2021","Community Advocate","n/a"
+"Progress Financial Corporation","Director,"Huntsville President","General Banking Executive"","Lee Hoekenschnieder","n/a","n/a","2021","N/A","n/a"
+"Progress Financial Corporation","Committee Chair and Director","Sheila Brown","Founder/CEO","QuantiTech","2021","Government Contractor","n/a"
+"Progress Financial Corporation","Committee Chair and Director","Jim Caudle","Chairman/CEO","United Plating","2021","Manufacturing","n/a"
+"Progress Financial Corporation","Director","Eric Janssen","President and Surgeon","Sportsmed","2021","Surgeon","n/a"
+"Progress Financial Corporation","Director","Phillip ""Trey"" Bentley III","Operator","Pontiac,"Cadillac","Hyundai","& Chevrolet"","2021","Automobile Dealer","n/a"
+"Progress Financial Corporation","Director","Doug Ruggles","CEO","MSCO,"Inc."","2021","Industrial Supplier","n/a"
+"Progress Financial Corporation","Director","Bradley J. Sklar","Attorney","Sirote & Permutt,"P.C."","2021","Tax Attorney","n/a"
+"Progress Financial Corporation","Director","Elam P. Holley,"Jr."","Retired President & CEO","First Partners Bank","2021","Bank President,"Retired"","n/a"
+"Progress Financial Corporation","Director","Kevin B. Kynerd","President & CEO","Bradford Building Co,"Inc."","2021","General Contractor","n/a"
+"Progress Financial Corporation","Director","Charles A. ""Chip"" McCallum,"III"","Retired Chairman of Board","First Partners Bank","2021","Accountant & Attorney","n/a"
+```

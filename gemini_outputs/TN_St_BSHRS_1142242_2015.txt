@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","Sevierville,"TN"","2016","Alfred Newman","common stock","257","58.15%","1142242"
+"Tennessee State Bancshares,"Inc."","Sevierville,"TN"","2016","Billy Proffitt","common stock","176","39.82%","1142242"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"TN"","2016","Brownlee Reagan and Kelley E. Reagan 2012 Irrevocable Trust","common stock","103","23.30%","1142242"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","n/a","Brownlee Reagan and Kelley E. Reagan","Owner","Restaurants and Motels","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","President / Owner","Billy Proffitt","n/a","Smokey Mtn. Foods,"Inc."","2016","Restaurants & Motels","n/a"
+"Tennessee State Bancshares,"Inc."","Vice-President Director","Alfred Newman","Vice Chairman Director","Real Estate","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Secretary Director","Wayne Ayers","Director","Real Estate","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","President Director","Richard Todd Proffitt","Chairman Director","n/a","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Travis McCroskey","Director","Landmark Inn Motel","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Director Secretary","Mitchell H. McCarter","n/a","Parkway Liquor Store","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Charles R. Frost Jr","Director","Motels","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Robert A. Tino","Director","Art Galleries","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Lawrence Andrew Proffitt","Director","Real Estate","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","J. Scott Gibson","Senior Executive Vice-President","n/a","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Tammie M. Sutton","Executive Vice-President","n/a","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Jennifer Lynn Reinhard","Executive Vice-President","n/a","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","R. Stephen Hagood","Executive Vice-President","n/a","2016","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Ray B. Sterling","Executive","n/a","2016","n/a","n/a"
+```

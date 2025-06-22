@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","n/a","2023","John V Barker","n/a","13762","12.28%"
+"Sequatchie Valley Bancshares,"Inc."","n/a","2023","Virginia D Cash","n/a","11980","10.69%"
+"Sequatchie Valley Bancshares,"Inc."","n/a","2023","James A Henry","n/a","9633","8.59%"
+"Sequatchie Valley Bancshares,"Inc."","n/a","2023","Jeffrey M Land","n/a","9022","8.05%"
+"Sequatchie Valley Bancshares,"Inc."","n/a","2023","Hugh D Graham","n/a","8559","7.63%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","President and Director","John V Barker","Director","Community Trust and Banking Company","2023","n/a","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Chief Financial Officer","Jeffrey M Land","n/a","n/a","2023","n/a","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Director","James A Henry","Director","Community Trust and Banking Company","2023","Self Employed","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Director","Hugh D Graham","n/a","n/a","2023","Physician","n/a"
+"Sequatchie Valley Bancshares,"Inc."","Director","Virginia D Cash","Director","Community Trust and Banking Company","2023","CPA","n/a"
+```

@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2014","Joe B. Bruce","n/a","78257","13.17","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2014","Ben Robertson","n/a","89031","14.98","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2014","Leon Shields","n/a","37979","6.39","1082478"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Citizens Bank of Blount County","Director","Joe W. Downey","Director","None","2014","Retired","218131"
+"Citizens Bank of Blount County","Director","John W. Clabough","Director","None","2014","Retired","218131"
+"Citizens Bank of Blount County","Director","Leann Hicks","Director","None","2014","Education","218131"
+"Citizens Bank of Blount County","Director","John Proffitt","Director","None","2014","Retired","218131"
+"Citizens Bank of Blount County","Chairman and Director","Ben Robertson","Chairman and Director","None","2014","Retired","218131"
+"Citizens Bank of Blount County","Director","Leon Shields","Director","None","2014","Insurance","218131"
+"Citizens Bank of Blount County","Secretary and Director","Jim Warren","Secretary and Director","None","2014","Engineer","218131"
+"Citizens Bank of Blount County","President/CEO Director","Gaynell Lawson","President/CEO Director","None","2014","Banker","218131"
+"Citizens Bank of Blount County","Vice Chairman and Director","Robert L. Carroll","Vice Chairman and Director","None","2014","Retired","218131"
+"Citizens Bank of Blount County","Assis Secretary","G. Alvin Grubb","SEVP/Assi Sec","None","2014","Banker","218131"
+"Citizens Bank of Blount County","Director","Joe B. Bruce","Director","None","2014","Retired","218131"
+```

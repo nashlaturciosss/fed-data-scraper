@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee Community Bank Holdings,"Inc."","Nashville,"TN"","2014","James or Vickie Dillingham","common stock","45332","4.383%","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Nashville,"TN"","2014","Dillingham Foundation","common stock","17020","1.646%","3213847"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee Community Bank Holdings,"Inc."","Director","Samuel Balthrop","Director","n/a","2014","Retired Attorney","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","James Dillingham","Owner","TN Geothermal Technologies,"LLC"","2014","Contractor Property Leasing","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","James Dillingham","Owner","Triangle Leasing","2014","Contractor Property Leasing","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","James Dillingham","Owner","Further Endeavors","2014","Contractor Property Leasing","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","James Dillingham","Owner","Double R Properties","2014","Contractor Property Leasing","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","David Gunn","Partner","Gunn Farms","2014","Farming","3213847"
+"Tennessee Community Bank Holdings,"Inc."","President","Johnnie Marlin","Director","Robertson County","2014","Banking","3213847"
+"Tennessee Community Bank Holdings,"Inc."","President","Johnnie Marlin","Director","Morgan Stanley","2014","Banking","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Owner","Dixieland Co.","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","Radiation Billing So","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","RBS Evolution","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Demonbreun & Melton","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Wilkinson & Melton","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Melton & Moore","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","Miller Oil & Gas","2014","Real Estate Investment","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Richard Murray","n/a","n/a","2014","Retired Owner Harpeth Clock Co.","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Darwin Newton","n/a","n/a","2014","Soil Conservation & Engineering","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","J. Thomas Perry","Secretary","Sen Vice Pres CFO","Delta Dental","2014","Insurance","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Doris Sanders","n/a","n/a","2014","Retired from County Govt.","3213847"
+"Tennessee Community Bank Holdings,"Inc."","President/CEO","Debbie C. Small","n/a","n/a","2014","Banking","3213847"
+"Tennessee Community Bank Holdings,"Inc."","Director","Evie Somers","n/a","n/a","2014","Retired Attorney","3213847"
+```

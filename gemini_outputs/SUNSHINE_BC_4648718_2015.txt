@@ -1,0 +1,29 @@
+"Here are the two CSV tables","as requested:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunshine Bancorp,"Inc."","Plant City,"FL"","2015","Sunshine State Bank Employee Stock Ownership Plan Trust","Common Stock","338548","6.4%","n/a"
+"Sunshine Bancorp,"Inc."","Arlington,"VA"","2015","EJF Capital LLC Emanuel J. Friedman","Common Stock","360489","6.9%","n/a"
+"Sunshine Bancorp,"Inc."","New York,"NY"","2015","Maltese Capital Management,"LLC and Terry Maltese","Managing Member of MCM"","Common Stock","250000","5.91%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunshine Bancorp,"Inc."","Director","Ray H. Rollyson,"Jr."","Insurance Agent","V&R Insurance","2015","Insurance Agent","432478"
+"Sunshine Bancorp,"Inc."","Director","Kenneth H. Compton","Managing partner","Compton & Associates","2015","Managing partner of Compton & Associates","432478"
+"Sunshine Bancorp,"Inc."","Director","W.D. McGinnes,"Jr."","Retired","n/a","2015","Retired","432478"
+"Sunshine Bancorp,"Inc."","Director","D. William Morrow","President & CEO","Morrow Steel","2015","President & CEO","432478"
+"Sunshine Bancorp,"Inc."","Director","Marion Smith","President","Greater Plant City Chamber of Commerce","2015","President,"Greater Plant City Chamber of Commerce"","432478"
+"Sunshine Bancorp,"Inc."","Director","J. Floyd Hall","Retired (Former President & CEO)","n/a","2015","Retired (Former President & CEO)","432478"
+"Sunshine Bancorp,"Inc."","Director","Winfred Harrell","Owner","Harrell's Nursery Inc. and Harrell's Liner Farm,"Inc."","2015","Owner Harrell's Nursery Inc. and Harrell's Liner Farm,"Inc."","432478"
+"Sunshine Bancorp,"Inc."","Director","Joseph E. Newsome","Retired","n/a","2015","Retired","432478"
+"Sunshine Bancorp,"Inc."","Director","James Coleman Davis","Retired","n/a","2015","Retired","432478"
+"Sunshine Bancorp,"Inc."","Director","George Parmer","President/CEO","Fine Line Homes","2015","President/CEO of Fine Line Homes; CEO Residential Warranty Corp.","432478"
+"Sunshine Bancorp,"Inc."","Director","George Parmer","President/CEO","Residential Warranty Corp.","2015","President/CEO of Fine Line Homes; CEO Residential Warranty Corp.","432478"
+"Sunshine Bancorp,"Inc."","Director","William E. Pommerening","CEO","RP Financial LC","2015","CEO of RP Financial LC","432478"
+"Sunshine Bancorp,"Inc."","Director","William Weatherford","Managing Partner","Weatherford Partners","2015","Managing Partner of Weatherford Partners,"former Speaker of the Florida House of Representatives"","432478"
+"Sunshine Bancorp,"Inc."","Director,"President and CEO"","Andrew S. Samuel","Director/President and CEO","n/a","2015","n/a","432478"
+"Sunshine Bancorp,"Inc."","Chief Financial Officer","John D. Finley","Executive VP","n/a","2015","n/a","432478"
+"Sunshine Bancorp,"Inc."","Chief Risk Officer","Jane B. Tompkins","Executive VP","n/a","2015","n/a","432478"
+"Sunshine Bancorp,"Inc."","Corporate Development Officer","Brent S. Smith","Senior VP","n/a","2015","n/a","432478"
+```

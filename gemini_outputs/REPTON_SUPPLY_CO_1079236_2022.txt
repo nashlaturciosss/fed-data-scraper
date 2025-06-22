@@ -1,0 +1,12 @@
+"Here are the tables you requested","extracted from the document and formatted as CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Repton Supply Company,"Inc."","n/a","2022","William M. Jordan","n/a","n/a","50.00%","n/a"
+"Repton Supply Company,"Inc."","n/a","2022","Jerry W. Kelly","n/a","n/a","50.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Repton Supply Company,"Inc."","President","Jerry Kelly","n/a","n/a","2022","n/a","n/a"
+```

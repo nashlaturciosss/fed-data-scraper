@@ -1,0 +1,13 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ST Hldgs,"Inc."","n/a","2023","Lexington Capital Partners","Class A Voting Shares","1224184","89.90%","n/a"
+"ST Hldgs,"Inc."","n/a","2023","Lexington Capital Partners","Common Stock","16531","14.73%","n/a"
+"ST Hldgs,"Inc."","n/a","2023","Rajib Das","Class A Voting Shares","137931","10.10%","n/a"
+"ST Hldgs,"Inc."","n/a","2023","Rajib Das","Common Stock","95368","85.27%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ST Hldgs,"Inc."","President and Chairman","Rajib Das","n/a","n/a","2023","n/a","n/a"
+```

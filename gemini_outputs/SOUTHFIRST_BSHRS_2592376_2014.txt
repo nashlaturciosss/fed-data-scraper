@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthFirst Bancshares","Tuscaloosa,"Al"","2014","Luther S. Pate,"IV"","common stock","70850","10.1%","n/a"
+"SouthFirst Bancshares","Chevy Chase,"Md."","2014","Robert J. Salmon and Mary Anne J. Salmon","common stock","174167","24.84%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthFirst Bancshares","Director","Kenneth Easterling","Director","South First Bank","2014","n/a","n/a"
+"SouthFirst Bancshares","Chairman,"Director"","Allen Gray McMillan","President","Brecon Knitting Mill","2014","Manufacturing Textiles","n/a"
+"SouthFirst Bancshares","Director","H. David Foote","President","Foote Bro. Furniture","2014","Construction","n/a"
+"SouthFirst Bancshares","Director","Donald R. Hardy","President","H&B Builders","2014","n/a","n/a"
+"SouthFirst Bancshares","Director,"CEO"","Randall L. Fields","n/a","n/a","2014","n/a","n/a"
+"SouthFirst Bancshares","Director","Robert C. Hayes","President","Hayes Eye Center","2014","Optometrist","n/a"
+"SouthFirst Bancshares","Director","Rocky W. Jackson","President","RW Jackson & Company PC","2014","CPA-Tax Accountant","n/a"
+"SouthFirst Bancshares","n/a","Luther S. Pate,"IV"","President","Pate Holdings","2014","Developer","n/a"
+"SouthFirst Bancshares","n/a","Robert J. & Mary Anne J. Salmon","n/a","n/a","2014","Retired","n/a"
+```

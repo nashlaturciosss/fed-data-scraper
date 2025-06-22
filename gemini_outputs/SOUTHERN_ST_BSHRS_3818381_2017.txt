@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern States Bancshares,"Inc."","Sausalito,"CA"","2017","Davis Partnership LP","Common Stock","503571","8.88%","n/a"
+"Southern States Bancshares,"Inc."","Arlington,"VA"","2017","EJF Sidecar Fund Series LLC Series E","Common Stock","503571","8.88%","n/a"
+"Southern States Bancshares,"Inc."","Salt Lake City,"UT"","2017","Ithan Creek Investors USB LLC","Common Stock","503571","8.88%","n/a"
+"Southern States Bancshares,"Inc."","Anniston,"AL"","2017","Stephen W. Whatley","Common Stock","383864","6.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern States Bancshares,"Inc."","Director,"Director"","J. Henry Smith","President/ Owner","Interstate Sheet Metal Co.,"Inc."","2017","Interstate Sheet Metal Co.,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Robert F. Davie","President","Davie's School Supply,"Inc."","2017","Davie's School Supply,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Brent David Hitson","Partner","Burr & Forman,"LLP"","2017","Burr & Forman,"LLP"","n/a"
+"Southern States Bancshares,"Inc."","Director","Brian Stacy Holmes","President","Holmes II Excavation,"Inc."","2017","Holmes II Excavation,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Jimmy Alan LaFoy","President","LaFoy & Associates,"CPA","PC"","2017","LaFoy & Associates,"CPA","PC"","n/a"
+"Southern States Bancshares,"Inc."","Director","Jay Florey Pumroy","Partner","Wilson,"Dillon","Pumroy & James","LLC"","2017","Wilson,"Dillon","Pumroy & James","LLC"","n/a"
+"Southern States Bancshares,"Inc."","Chairman,"CEO and President"","Stephen Woods Whatley","n/a","n/a","2017","N/A","n/a"
+"Southern States Bancshares,"Inc."","Director","Henry A. Turner,"Jr."","n/a","n/a","2017","N/A","n/a"
+"Southern States Bancshares,"Inc."","Director","Lucinda S. Cannon","n/a","n/a","2017","N/A","n/a"
+"Southern States Bancshares,"Inc."","Director","Alfred J. Hayes,"Jr."","n/a","n/a","2017","Retired Banker","n/a"
+"Southern States Bancshares,"Inc."","Director","Jon Farmer","n/a","n/a","2017","Retired Banker","n/a"
+"Southern States Bancshares,"Inc."","Director","James J. Lynch","Founding / Managing Partn","Patriot Financial Partners","2017","Patriot Financial Partners","n/a"
+```

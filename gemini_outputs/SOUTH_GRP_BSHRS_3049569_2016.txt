@@ -1,0 +1,20 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Group Bancshares","Glennville,"GA"","2016","Michael C. Crummey","Common Stock","16000","7.342%","3049569"
+"South Group Bancshares","Glennville,"GA"","2016","Jackie Dasher","Common Stock","13975","6.413%","3049569"
+"South Group Bancshares","Glennville,"GA"","2016","Jimmy Dubberly","Common Stock","13281","6.094%","3049569"
+"South Group Bancshares","Glennville,"GA"","2016","Bran Thompson","Common Stock","18151","8.329%","3049569"
+"South Group Bancshares","Glennville,"GA"","2016","Edward L. Nelson","Common Stock","15790","7.246%","3049569"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares,"Inc."","President,"CEO and Director"","Jimmy Dubberly","Chm of Board","South Georgia Bank","2016","n/a","3049569"
+"South Group Bancshares,"Inc."","Director","J. Troy Rahn","Dentist","n/a","2016","Dentist","3049569"
+"South Group Bancshares,"Inc."","Director","B. Branford Thompson","CEO and Director","South Georgia Bank","2016","n/a","3049569"
+"South Group Bancshares,"Inc."","Director","B. Branford Thompson","Owner","Coastal Wood Products","2016","n/a","3049569"
+"South Group Bancshares,"Inc."","Director","Dale Dutton","Director","South Georgia Bank","2016","Tattnall County Tax Commissioner","3049569"
+"South Group Bancshares,"Inc."","Director","Jackie Dasher","Director","South Georgia Bank","2016","Farmer","3049569"
+```

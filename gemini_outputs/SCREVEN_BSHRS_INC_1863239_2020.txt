@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2020","MARY H. BLACKBURN","COMMON STOCK","4100","5.423%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2020","CHARLES D. REED","COMMON STOCK","5977","7.906%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2020","RUTH B. BAZEMORE","COMMON STOCK","4689","6.200%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Director","James W. Adams","Director","Farmers and Merchants Bank","2020","Retired Banker","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Mary H. Blackbum","n/a","n/a","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Otis M. Chivers","Director/Secretary of Board of Directors","Farmers and Merchants Bank","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","R. J. Martin,"III"","Director/Chairman of Board of Directors","Farmers and Merchants Bank","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","Director","Farmers and Merchants Bank","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","Partner","Whitehill Farm","2020","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Farmers and Merchants Bank","2020","CEO","n/a"
+"SCREVEN BANCSHARES,"INC."","President","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2020","CEO","n/a"
+"SCREVEN BANCSHARES,"INC."","President","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2020","CEO","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Ruth Bazemore","Owner","Professional Insurance Agency","2020","Insurance Broker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director/President / CEO","Hoke S. Reeves,"III"","Director/President / CEO","Farmers and Merchants Bank","2020","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David Burke","Manager","Koyo Bearings Plant Sylvania,"GA"","2020","Plant Manager","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2020","Certified Public Accountant","n/a"
+"SCREVEN BANCSHARES,"INC."","Officer/Vice President","Andrew J. Clifton","n/a","n/a","2020","Insurance Co. Bank Officer","n/a"
+```

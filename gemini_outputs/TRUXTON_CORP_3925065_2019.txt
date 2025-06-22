@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Truxton Corporation","n/a","2019","n/a","All Common Stock","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Truxton Corporation","Director","David Brewster Dobie","CEO","Dobie Media","2019","CEO,"Dobie Media","former publisher of Nashville Scene"","n/a"
+"Truxton Corporation","Director","Stanley M. Ezell","n/a","n/a","2019","Retired; President Purity Dairies,"Inc."","n/a"
+"Truxton Corporation","Director","Decosta E. Jenkins","President & CEO","Nashville Electric Service","2019","President & CEO,"Nashville Electric Service"","n/a"
+"Truxton Corporation","Director","Matthew A. King","Managing Partner","FCA Venture Partners","2019","Managing Partner,"FCA Venture Partners"","n/a"
+"Truxton Corporation","Director","Gustavus A Puryear IV","General Counsel and Senior Vice President,","Asurion","2019","General Counsel and Senior Vice President,"Human Resources","Asurion"","n/a"
+"Truxton Corporation","Director","Christopher C. Whitson","Attorney; Partner","Sherrard & Roe,"PLC"","2019","Attorney; Partner Sherrard & Roe,"PLC"","n/a"
+"Truxton Corporation","Director","Deborah A. McDermott","n/a","Media General,"Inc"","2019","SVP & Chief Operating Media","n/a"
+"Truxton Corporation","Director","Jeffrey Buntin Jr.","President & CEO","The Buntin Group","2019","CEO & President,"The Buntin Group"","n/a"
+"Truxton Corporation","Director","V. Larkin Martin","Vice President","The Albemarle Corporation","2019","The Albemarle Corporation","n/a"
+"Truxton Corporation","Director & President & CEO","Thomas S. Stumb","Chairman & Chief Executive Officer","Truxton Trust Co","2019","n/a","n/a"
+"Truxton Corporation","Secretary","J. Overton Colton","Managing Director &","Truxton Trust Co","2019","n/a","n/a"
+"Truxton Corporation","n/a","Derrick A. Jones","Managing Director","Truxton Trust Co","2019","n/a","n/a"
+"Truxton Corporation","n/a","Thomas R. Snyder","Managing Director","Truxton Trust Co","2019","n/a","n/a"
+"Truxton Corporation","n/a","Andrew L May","President & Chief Financial Officer","Truxton Trust Co","2019","n/a","n/a"
+"Truxton Corporation","n/a","Julie M. Marr","SVP & Controller","Truxton Trust Co","2019","n/a","n/a"
+```

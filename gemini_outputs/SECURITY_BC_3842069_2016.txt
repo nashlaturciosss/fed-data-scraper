@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2016","Joe H. Pugh","Common Stock","40318","10.46%","3842069"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2016","Earl H. Barr","Common Stock","21030","5.46%","3842069"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2016","Robert W. Newman","Common Stock","20118","5.22%","3842069"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Bancorp,"Inc."","Director & President/CEO","Joe H. Pugh","n/a","n/a","2016","n/a","3842069"
+"Security Bancorp,"Inc."","Director & Chairman","Robert W. Newman","Partner","Galligan & Newman Atty","2016","Attorney","3842069"
+"Security Bancorp,"Inc."","Director","Ray (""Buzz"") Spivey,"Jr."","President","Cumberland Lumber & Mfg,"Inc."","2016","Cumberland Lumber & Mfg,"Inc."","3842069"
+"Security Bancorp,"Inc."","Director","Thomas Foster","Owner","Foster Realty","2016","Foster & Foster Realty and Auction Company","3842069"
+"Security Bancorp,"Inc."","Director","Thomas Foster","Owner","Foster & Foster Realty and Auction Company","2016","Foster & Foster Realty and Auction Company","3842069"
+"Security Bancorp,"Inc."","Director","Herschel Wells,"Jr."","Owner","Tennessee Warehouse and Dist","2016","Tennessee Warehouse and Distribution","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Danny Martin","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Ken Martin","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Barbara A. Page","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Sherry Clendenon","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Chief Financial Officer","Angela Brown","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Michael Griffith","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+"Security Bancorp,"Inc."","Sr. Vice President","Kelly Basham","n/a","n/a","2016","Security Federal Savings Bank","3842069"
+```

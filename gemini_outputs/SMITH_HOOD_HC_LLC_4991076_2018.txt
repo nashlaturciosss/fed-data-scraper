@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2018","Marshall T. Reynolds","n/a","1604252","18.2%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2018","William K. Hood","n/a","1591057","18.1%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2018","Smith & Hood Holding Company LLC","n/a","878361","10.0%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2018","Edgar R. Smith III","n/a","1618864","18.4%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2018","Smith & Hood Investments LLC","n/a","480118","5.5%","422433"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2018","William K. Hood","N/A-LLC","n/a","50.0%","n/a"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2018","Edgar R. Smith III","N/A - LLC","n/a","50.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","First Guaranty Bank","2018","President of Hood Automotive Group","422433"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","n/a","2018","President of Hood Automotive Group","422433"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","n/a","2018","President of Hood Automotive Group","422433"
+"First Guaranty Bancshares,"Inc."","CEO/President","Alton B. Lewis","CEO/President","First Guaranty Bank","2018","n/a","422433"
+"First Guaranty Bancshares,"Inc."","Chief Financial Officer,"Treasurer & Secretary"","Eric J. Dosch","Chief Financial Officer","First Guaranty Bank","2018","n/a","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Premier Financial Bancorp","2018","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Director","Summit State Bank","2018","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Director","Jack Rossi","Director","First Guaranty Bank","2018","Certified Public Accountant","422433"
+"First Guaranty Bancshares,"Inc."","President and CEO","Edgar R. Smith","Director","First Guaranty Bank","2018","Smitty's Supply Inc.","422433"
+```

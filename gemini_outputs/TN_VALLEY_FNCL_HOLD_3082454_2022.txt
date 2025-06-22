@@ -1,0 +1,18 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Thomas H. Dickenson","Attorney/Chief Member","Hodges Doughty & Carson","2022","Attorney/Chief Member,"Hodges Doughty & Carson"","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Leslie J. England","n/a","n/a","2022","n/a","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","President/Director","Mark B. Holder","n/a","n/a","2022","n/a","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Terry L. Kerbs","Retired,"President"","Advanced Office Systems","2022","Retired,"President","Advanced Office Systems"","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Christopher R. Keziah","President","Oak Ridge Hardwoods. Inc.","2022","President,"Oak Ridge Hardwoods. Inc."","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Thomas D. Moye","Retired","Oral Surgeon","2022","Retired,"Oral Surgeon"","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Noah Myers","Owner","Myers Brothers Holdings,"Inc."","2022","Owner,"Myers Brothers Holdings","Inc."","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","Thomas E. Tuck","Retired","n/a","2022","Retired,"TNBANK President"","n/a"
+"Tennessee Valley Financial Holdings,"Inc."","Director","W. Robert Witt","Owner and President","Witt Building Materials","2022","Owner and President,"Witt Building Materials"","n/a"
+```

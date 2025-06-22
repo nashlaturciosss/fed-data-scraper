@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2020","Dr. J.J. Shah","common stock","417079","30.06%","n/a"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2020","Dr. Meena Shah","common stock","458000","10.23%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Touchmark Bancshares,"Inc."","Director","William D. Crosby","Owner","Bank Organization & Structure,"LLC"","2020","Banking consultant","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Sudhirkumar Patel","n/a","n/a","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","EVP,"Chief Financial Officer"","Lynn Barron","n/a","n/a","2020","n/a","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mukund Raja","CEO","Dr. M. Raja & Associates,"Inc."","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Dinesh Raju","n/a","n/a","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","H.P. Rama","Partner","JHM Enterprises Associates","2020","Hotel Executive","3645840"
+"Touchmark Bancshares,"Inc."","Director","H.P. Rama","Chairman/CEO","JHM Enterprises,"Inc."","2020","Hotel Executive","3645840"
+"Touchmark Bancshares,"Inc."","Director Chairman,"CEO"","Dr. J.J. Shah","n/a","n/a","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Partner","Metro Behavorial Care. LLC","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Partner","Yogiraj Family Ltd Partnership","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Partner","Yogiraj Management Co","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director,"Vice Chair"","Dr. Meena J. Shah","n/a","n/a","2020","Physician","3645840"
+"Touchmark Bancshares,"Inc."","Director","Vivian Wong","n/a","n/a","2020","Real Estate Development","3645840"
+```

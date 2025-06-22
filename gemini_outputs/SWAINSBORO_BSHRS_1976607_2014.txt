@@ -1,0 +1,35 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","Patricia A. Ragsdale","n/a","21382","12.57%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","Lori R. Bonds","n/a","418",".25%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","Michael Scott Ragsdale","n/a","515",".30%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","Michael Scott Ragsdale","n/a","515","13.12%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","William E. Simmons","n/a","5213","3.07%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","H. E. Simmons","n/a","5000","2.94%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","H. E. Simmons","n/a","5000","6.01%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","J. Rufus Youmans,"Jr."","n/a","10000","5.88%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","James R. Youmans,"Jr.","LLLP"","n/a","5800","3.41%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","James R. Youmans,"Jr.","LLLP"","n/a","5800","9.29%","1976007"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2014","H. G. Yeomans,"III"","n/a","11033","6.49%","1976007"
+"Swainsboro Bankshares,"Inc."","Lyons,"GA"","2014","Maxie Mosley","n/a","5144","3.03%","1976007"
+"Swainsboro Bankshares,"Inc."","Lyons,"GA"","2014","Marshall D. Mosley,"Jr."","n/a","7715","4.54%","1976007"
+"Swainsboro Bankshares,"Inc."","Lyons,"GA"","2014","Marshall D. Mosley,"Jr."","n/a","7715","7.57%","1976007"
+"Swainsboro Bankshares,"Inc."","Soperton,"GA"","2014","Royce W. Fowler","n/a","11190","6.58%","1976007"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","President","Patricia A. Ragsdale","President","A&R Auto Parts & Supply","2014","A&R Auto Parts & Supply","1976007"
+"Swainsboro Bankshares,"Inc."","n/a","Lori R. Bonds","Teacher","n/a","2014","Emanuel County Board of Education","1976007"
+"Swainsboro Bankshares,"Inc."","Secretary","Michael Scott Ragsdale","n/a","A&R Auto Parts & Supply","2014","A&R Auto Parts & Supply","1976007"
+"Swainsboro Bankshares,"Inc."","President & Director","W. D.(Denny) Key","n/a","Citizens Bk","2014","Retired","1976007"
+"Swainsboro Bankshares,"Inc."","Director","W. E. Simmons","President","Adrian Building Concepts","2014","Modular Buildings","1976007"
+"Swainsboro Bankshares,"Inc."","Director","J. Rufus Youmans,"Jr."","Owner","n/a","2014","Investor","1976007"
+"Swainsboro Bankshares,"Inc."","Director","Larry J. Parrish","Owner","Medical Center Pharmacy","2014","Pharmacist and State Representative","1976007"
+"Swainsboro Bankshares,"Inc."","Director","Minton D. Hester","Franchise Owner","Kentucky Fried Chicken","2014","Restaurant Owner","1976007"
+"Swainsboro Bankshares,"Inc."","Director","Milton B. Gray,"Jr."","President&CEO","n/a","2014","n/a","1976007"
+"Swainsboro Bankshares,"Inc."","Director","R. Jeffery Cannon","Branch President","n/a","2014","n/a","1976007"
+"Swainsboro Bankshares,"Inc."","CFO","Donna G. Bellamy","n/a","n/a","2014","n/a","1976007"
+```

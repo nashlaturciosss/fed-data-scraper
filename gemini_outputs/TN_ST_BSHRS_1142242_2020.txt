@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee State Bancshares,"Inc"","Sevierville,"Tennessee"","2020","Todd Proffitt","common stock","256","57.92%"
+"Tennessee State Bancshares,"Inc"","Sevierville,"Tennessee"","2020","Billy Proffitt","common stock","96","21.72%"
+"Tennessee State Bancshares,"Inc"","Sevierville,"Tennessee"","2020","Wayne Ayers","common stock","35","7.92%"
+"Tennessee State Bancshares,"Inc"","Gatlinburg,"Tennessee"","2020","Lee Reagan Trust,"Ray Lee Reagan and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","common stock","51","11.54%"
+"Tennessee State Bancshares,"Inc"","Gatlinburg,"Tennessee"","2020","Proffitt Trust 2012 No 1","common stock","87","19.68%"
+"Tennessee State Bancshares,"Inc"","Gatlinburg,"Tennessee"","2020","Proffitt Trust 2012 No 2","common stock","72","16.29%"
+"Tennessee State Bancshares,"Inc"","Gatlinburg,"Tennessee"","2020","John Reagan Descendants Trust,"Kay Stephens and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","common stock","51","11.54%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bancshares,"Inc"","n/a","Billy Proffitt","n/a","Smokey Mtn. Foods,"Inc."","2020","President / Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Secretary","Wayne Ayers","Director","n/a","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Secretary","Wayne Ayers","Director","n/a","2020","Real Estate","n/a"
+"Tennessee State Bancshares,"Inc"","President Chairman Director","Richard Todd Proffitt","n/a","n/a","2020","n/a","n/a"
+"Tennessee State Bancshares,"Inc"","n/a","Travis McCroskey","n/a","Landmark Inn Motel","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Director Secretary","Mitchell H. McCarter","n/a","Parkway Liquor Store","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Director","Charles R. Frost Jr","n/a","n/a","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Director","Robert A. Tino","n/a","n/a","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Director","Lawrence Andrew Proffitt","Director","n/a","2020","Owner","n/a"
+"Tennessee State Bancshares,"Inc"","Senior Executive","J. Scott Gibson","n/a","Blue Smoke Hemp Company","2020","n/a","n/a"
+"Tennessee State Bancshares,"Inc"","Executive","R. Stephen Hagood","n/a","n/a","2020","n/a","n/a"
+"Tennessee State Bancshares,"Inc"","Executive","Jennifer Lynn Reinhard","n/a","n/a","2020","n/a","n/a"
+"Tennessee State Bancshares,"Inc"","Executive","Ray B. Sterling","n/a","n/a","2020","n/a","n/a"
+"Tennessee State Bancshares,"Inc"","Executive","Tammie M. Sutton","n/a","n/a","2020","n/a","n/a"
+```

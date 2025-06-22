@@ -1,0 +1,33 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Synergy Bancshares,"Inc."","Houma,"LA"","2015","Terry C. Calongne","Common Stock","63544","6.80%","2748490"
+"Synergy Bancshares,"Inc."","Houma,"LA"","2015","Michel H. Claudet","Common Stock","68326","7.32%","2748490"
+"Synergy Bancshares,"Inc."","Houma,"LA"","2015","Jeffrey J. Scott","Common Stock","70127","7.51%","2748490"
+"Synergy Bancshares,"Inc."","Houma,"LA"","2015","Frank Jeffrey Teuton","Common Stock","72193","7.73%","2748490"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Synergy Bancshares,"Inc."","Treasurer/ Chief Financial Officer","Benjamin D. Borne","Executive Vice President & Chief Financial Officer","n/a","2015","n/a","2748490"
+"Synergy Bancshares,"Inc."","Director","Donald P. Callais","n/a","n/a","2015","Retired Insurance Executive","2748490"
+"Synergy Bancshares,"Inc."","Vice Chairman of the Board","Terry C. Calongne","Secretary-Treasurer","Calongne Incorporated","2015","General Contractor","2748490"
+"Synergy Bancshares,"Inc."","Vice Chairman of the Board","Terry C. Calongne","Secretary-Treasurer","General Contractors","2015","General Contractor","2748490"
+"Synergy Bancshares,"Inc."","Director","Danniel B. Cannon","President & Chief Executive Officer","Arkos Field Services","2015","Natural Gas Compression Service Company Executive","2748490"
+"Synergy Bancshares,"Inc."","Director","Kerry J. Chauvin","n/a","n/a","2015","Business Consultant","2748490"
+"Synergy Bancshares,"Inc."","Director","Michel H. Claudet","President","Michel H. Claudet,"APLC"","2015","Retired Terrebonne Parish President & Attorney","2748490"
+"Synergy Bancshares,"Inc."","Director","Gordon E. Dove","Terrebonne Parish President","Terrebonne Parish","2015","Terrebonne Parish President","2748490"
+"Synergy Bancshares,"Inc."","Director","Gordon E. Dove","Terrebonne Parish President","Vacco,"Inc."","2015","Terrebonne Parish President","2748490"
+"Synergy Bancshares,"Inc."","Director","Gordon E. Dove","Terrebonne Parish President","Vacco Marine,"Inc."","2015","Terrebonne Parish President","2748490"
+"Synergy Bancshares,"Inc."","Director","Gordon E. Dove","Terrebonne Parish President","Dove & Dove,"Inc."","2015","Terrebonne Parish President","2748490"
+"Synergy Bancshares,"Inc."","Chairman of the Board","Morris P. Hebert","President","Morris P. Hebert,"Inc."","2015","Surveying and Engineering Company Executive","2748490"
+"Synergy Bancshares,"Inc."","Chairman of the Board","Morris P. Hebert","President","Verna Wood,"Inc."","2015","Surveying and Engineering Company Executive","2748490"
+"Synergy Bancshares,"Inc."","President,"Chief Executive Officer & Director"","Jerry P. Ledet,"Jr."","n/a","n/a","2015","n/a","2748490"
+"Synergy Bancshares,"Inc."","Senior Vice President - Compliance & Loan Review","Marie M. Morris,"CRCM"","n/a","n/a","2015","n/a","2748490"
+"Synergy Bancshares,"Inc."","Director","Jeffery J. Scott","President","J&L Properties Inc","2015","Seafood Consultant","2748490"
+"Synergy Bancshares,"Inc."","Director","Jeffery J. Scott","President","J&M Rentals of Houma Inc","2015","Seafood Consultant","2748490"
+"Synergy Bancshares,"Inc."","Director","Frank Jeffrey Teuton","President","Southland Dodge Chrysler Jeep,"LLC"","2015","Automobile / Truck Dealer","2748490"
+"Synergy Bancshares,"Inc."","Director","Frank Jeffrey Teuton","President","Southland Automotive Leasing LLC","2015","Automobile / Truck Dealer","2748490"
+"Synergy Bancshares,"Inc."","Director","Frank Jeffrey Teuton","President","Southland Speed & Performance LLC","2015","Automobile / Truck Dealer","2748490"
+```

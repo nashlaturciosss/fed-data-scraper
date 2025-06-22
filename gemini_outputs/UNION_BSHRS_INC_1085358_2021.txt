@@ -1,0 +1,18 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Union BANC Shares Inc.","Pell City,"Alabama"","2021","Thomas Reed Alexander","Common Stock","274306","20.80%","n/a"
+"Union BANC Shares Inc.","Cropwell,"AL"","2021","Reed Alexander","Common Stock","56550","4.29%","n/a"
+"Union BANC Shares Inc.","Cropwell,"Alabama"","2021","SAL for benefit of Thomas Reed Alexander Sr.","Common Stock","42000","3.19%","n/a"
+"Union BANC Shares Inc.","Pell City,"Alabama"","2021","Rex V. Alexander","Common Stock","305864","23.20%","n/a"
+"Union BANC Shares Inc.","Birmingham,"AL"","2021","Rex Alexander","Common Stock","56550","4.29%","n/a"
+"Union BANC Shares Inc.","Pell City,"alabama"","2021","SAL for benefit of Rex V. Alexander","Common Stock","19490","1.48%","n/a"
+"Union BANC Shares Inc.","n/a","2021","Others","Common Stock","563736","42.76%","n/a"
+"Union BANC Shares Inc.","n/a","2021","Reed Alexander,"President"","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Union BANC Shares Inc.","President Director,"CEO & Director Union State Bank","Director of Union State Insurance"","Thomas Reed Alexander","n/a","n/a","2021","Banker","n/a"
+"Union BANC Shares Inc.","Treasurer Director,"President & Director Union State Bank","Director of Union State Insurance"","Rex V. Alexander","n/a","n/a","2021","Banker","n/a"
+"Union BANC Shares Inc.","Director,"Director of Union State Bank",","Patrick S. Burnham","Attorney at Law,"Member Owner"","Patrick S. (Rick) Burnham","2021","Attorney","n/a"
+"Union BANC Shares Inc.","Secretary,"Vice President Union State Bank"","Allison Kilgore","n/a","n/a","2021","Banker","n/a"
+```

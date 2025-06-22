@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunSouth Bancshares","Dothan,"AL"","2022","H. MONTY WEIGEL","Common Stock","13139","23.55%","n/a"
+"SunSouth Bancshares","Dothan,"AL"","2022","J. STEVEN Roy","Common Stock","11585","20.76%","n/a"
+"SunSouth Bancshares","Dothan,"AL"","2022","EDC INVESTMENTS","Common Stock","4200","7.53%","n/a"
+"SunSouth Bancshares","Dothan,"AL"","2022","JOHN H. WATSON","Common Stock","4354","7.80%","n/a"
+"SunSouth Bancshares","Dothan,"AL"","2022","CALVIN R TURNER","Common Stock","3542","6.35%","n/a"
+"SunSouth Bancshares","Dothan,"AL"","2022","D. SHANE SINQUEFIELD","Common Stock","2910","5.22%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunSouth Bancshares","Director","DAWN W. DUNNING-THEUNE","n/a","n/a","2022","Homemaker","n/a"
+"SunSouth Bancshares","Director","MICHELLE LEWIS","CFO","AAA Cooper Transportation","2022","CFO - Trucking Company","n/a"
+"SunSouth Bancshares","Director and Chairman","J. STEVEN ROY","Director and Chairman","Citizens Southern Bancshares,"Inc."","2022","Financial Consultant","n/a"
+"SunSouth Bancshares","Director and Chairman","J. STEVEN ROY","Director","Citizens State Bank","2022","Financial Consultant","n/a"
+"SunSouth Bancshares","Director and Chairman","J. STEVEN ROY","n/a","Professional Fiduciary & Board of Directors AAA Cooper Transportation","2022","Financial Consultant","n/a"
+"SunSouth Bancshares","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Holdings,"LLC"","2022","Insurance","n/a"
+"SunSouth Bancshares","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Phenix City,"LLC"","2022","Insurance","n/a"
+"SunSouth Bancshares","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Eufalua,"LLC"","2022","Insurance","n/a"
+"SunSouth Bancshares","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Real Estate Holdings,"LLC"","2022","Insurance","n/a"
+"SunSouth Bancshares","Director","CALVIN R. TURNER,"JR."","Vice President / CFO/Co-Owner","Bob Woodall Air Care Systems,"LLC"","2022","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares","Director","CALVIN R. TURNER,"JR."","Co-Owner,"Managing Partner"","Ten Four,"LLC"","2022","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares","Director","CALVIN R. TURNER,"JR."","Owner","Renrut,"LLC"","2022","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares","Director","CALVIN R. TURNER,"JR."","Owner","Turnfield Properties,"LLC"","2022","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares","President / CEO Director","H. MONTY WEIGEL","n/a","n/a","2022","n/a","n/a"
+```

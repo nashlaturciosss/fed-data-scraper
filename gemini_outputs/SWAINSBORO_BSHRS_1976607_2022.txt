@@ -1,0 +1,15 @@
+Here are the two tables extracted from the document in CSV format.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","n/a","2022","D. Milton Gray,"Jr."","n/a","n/a","n/a","n/a"
+"Swainsboro Bankshares,"Inc."","n/a","2022","T. Greg Key","n/a","n/a","n/a","n/a"
+"Swainsboro Bankshares,"Inc."","n/a","2022","David G. Lee","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","Director","D. Milton Gray,"Jr."","n/a","n/a","2022","Chief Financial Officer","n/a"
+"Swainsboro Bankshares,"Inc."","Director","T. Greg Key","n/a","n/a","2022","President and CEO","n/a"
+"Swainsboro Bankshares,"Inc."","Director","David G. Lee","n/a","n/a","2022","Executive Vice President","n/a"
+```

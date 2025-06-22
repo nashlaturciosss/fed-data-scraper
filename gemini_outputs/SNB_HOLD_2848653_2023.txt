@@ -1,0 +1,33 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SNB Holdings,"Inc."","Dothan,"AL"","2023","Hope H. Johnson","Common Stock","525","87.21%","n/a"
+"SNB Holdings,"Inc."","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SNB Holdings,"Inc."","Director & Chairman,"Director","Chairman","CEO","CFO"","Hope H. Johnson","Trustee","Malone Trusts","2023","NA","n/a"
+"SNB Holdings,"Inc."","Director & Chairman,"Director","Chairman","CEO","CFO"","Hope H. Johnson","Trustee","Johnson Family Ventures","2023","NA","n/a"
+"SNB Holdings,"Inc."","Director","Judson Brooks","n/a","n/a","2023","NA","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Dalton Drug Co,"Inc."","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Dalton Properties,"LLC"","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Abbeville Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Hartford Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Troy Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Dadeville Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Opp Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","President","Headland Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","Partner","B&B Discount Drugs LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman,"Director & COO"","Joe Dalton","Partner","Double Springs Pharmacy LLC","2023","Managing Owner/Partner,"The Dalton Group"","n/a"
+"SNB Holdings,"Inc."","Director","Paul Hufham","n/a","n/a","2023","Dentist-Retired","n/a"
+"SNB Holdings,"Inc."","Director & Secretary/ Treasurer,"Dothan Market President"","Joseph Johnson","n/a","n/a","2023","NA","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Acre LLC","2023","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Acre Properties LLC","2023","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Little Acre Properties LLC","2023","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Bow & Arrow LLC","2023","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Kennedy Family LLC","2023","Retired","n/a"
+"SNB Holdings,"Inc."","Chief Loan Officer","Charlie Breedlove","n/a","n/a","2023","NA","n/a"
+"SNB Holdings,"Inc."","Executive Vice President","Lawrence Johnson","Owner","Move4 LLC","2023","NA","n/a"
+```

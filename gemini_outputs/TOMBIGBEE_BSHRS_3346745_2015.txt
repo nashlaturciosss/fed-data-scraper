@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2015","Stratton Lewis","n/a","4750","11.60%","n/a"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2015","Mary Jane Loftin","n/a","6750","16.46%","n/a"
+"Tombigbee Bancshares,"Inc."","Linden,"AL"","2015","Paul & Betty Owensby","n/a","5000","12.20%","n/a"
+"Tombigbee Bancshares,"Inc."","Demopolis,"AL"","2015","Estate of Jack O. Kerby","n/a","3000","7.32%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Director & Chairman","Stratton F. Lewis,"Jr."","n/a","n/a","2015","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","Director & Vice Chairman","Mary Jane Loftin","n/a","n/a","2015","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","n/a","Paul & Betty Owensby","n/a","n/a","2015","Retired","n/a"
+"Tombigbee Bancshares,"Inc."","n/a","Estate of Jack O. Kerby,"Sr."","Former Director","n/a","2015","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","Director","James Lewis","Employee","River City Ind","2015","Businessman","n/a"
+"Tombigbee Bancshares,"Inc."","Director","Pat Young","Owner","Young Timber Enterprises","2015","Businessman","n/a"
+"Tombigbee Bancshares,"Inc."","Director","A.W. Compton. Jr.","Owner","Compton Cattle & Store","2015","Businessman","n/a"
+"Tombigbee Bancshares,"Inc."","Director","S. Ford Lewis,"III"","Executive V Pres.","n/a","2015","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","n/a","J. Olen Kerby,"Jr."","Director & Secretary","n/a","2015","n/a","n/a"
+```

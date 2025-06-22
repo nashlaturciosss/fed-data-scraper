@@ -1,0 +1,29 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern States Bancshares,"Inc."","Cleveland,"OH"","2023","Strategic Value Investors,"LP"","Common Stock","848403","9.60%","n/a"
+"Southern States Bancshares,"Inc."","Sausalito,"CA"","2023","Davis Asset Management LP","Common Stock","774046","8.75%","n/a"
+"Southern States Bancshares,"Inc."","Chicago,"IL"","2023","The Banc Funds Company,"LLC"","Common Stock","732343","8.28%","n/a"
+"Southern States Bancshares,"Inc."","Wedowee,"AL"","2023","Floyd C Davis Sr","Common Stock","633135","7.16%","n/a"
+"Southern States Bancshares,"Inc."","Anniston,"AL"","2023","Stephen W. Whatley","Common Stock","629109","7.23%","n/a"
+"Southern States Bancshares,"Inc."","St. Louis,"MO"","2023","Fourthstone LLC","Common Stock","599850","6.89%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern States Bancshares,"Inc."","Director","Lewis Beavers","Managing Partner","Lawrence,"See & Beavers"","2023","Lawrence,"See & Beavers Managing Partner"","n/a"
+"Southern States Bancshares,"Inc."","Director","Daniel A. Cummings","Commercial Real Estate Developer","n/a","2023","Commercial Real Estate","n/a"
+"Southern States Bancshares,"Inc."","Director","Alfred J. Hayes,"Jr."","N/A","n/a","2023","Retired Banker","n/a"
+"Southern States Bancshares,"Inc."","Director","Jonathan W. Hinton","Entrepreneur","n/a","2023","Entrepreneur","n/a"
+"Southern States Bancshares,"Inc."","Director","Brent David Hitson","Partner","Burr & Forman,"LLP"","2023","Burr & Forman,"LLP"","n/a"
+"Southern States Bancshares,"Inc."","Director","Brian Stacy Holmes","President","Holmes II Excavation,"Inc."","2023","Holmes II Excavation,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Christine Hunsaker","Founder & President","Hunsaker Partners","2023","Hunsaker Partners Founder & President","n/a"
+"Southern States Bancshares,"Inc."","Director","Cynthia S. McCarty","Professor","Jacksonville State University","2023","Jacksonville State University","n/a"
+"Southern States Bancshares,"Inc."","Director","Jay Florey Pumroy","Partner","Wilson,"Dillon","Pumroy & James","LLC"","2023","Wilson,"Dillon","Pumroy & James","LLC"","n/a"
+"Southern States Bancshares,"Inc."","Director","J. Henry Smith","President / Owner","Interstate Sheet Metal Co.,"Inc."","2023","Interstate Sheet Metal Co.,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Mark Chambers","n/a","n/a","2023","N/A","n/a"
+"Southern States Bancshares,"Inc."","SEVP/Chief Financial Off","Lynn Joyce","n/a","n/a","2023","N/A","n/a"
+"Southern States Bancshares,"Inc."","SEVP/Chief Risk Officer","Greg Smith","n/a","n/a","2023","N/A","n/a"
+"Southern States Bancshares,"Inc."","SEVP / Chief Operating Of","Jack Swift","n/a","n/a","2023","N/A","n/a"
+```

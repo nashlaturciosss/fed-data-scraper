@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PriorityOne Capital Corporation","Ridgeland,"MS"","2015","Robert Eason Leake","n/a","114405","28.204%","n/a"
+"PriorityOne Capital Corporation","Jackson,"MS"","2015","Mary Montague Yerger Dunbar","n/a","41153","10.145%","n/a"
+"PriorityOne Capital Corporation","Batesville,"MS"","2015","Eugene B. Polk,"Sr. Family Trust"","n/a","28000","6.903%","n/a"
+"PriorityOne Capital Corporation","Jackson,"MS"","2015","Mary Montague Yerger","n/a","28543","7.037%","n/a"
+"PriorityOne Capital Corporation","Jackson,"MS"","2015","Frank Montague Yerger","n/a","35368","8.719%","n/a"
+"PriorityOne Capital Corporation","Jackson,"MS"","2015","Wirt A. Yerger,"III"","n/a","30029","7.403%","n/a"
+"PriorityOne Capital Corporation","Magee,"MS"","2015","PriorityOne Capital Corp. ESOP","n/a","40160","9.900%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PriorityOne Capital Corporation","Director","Robert Barnes","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","President,"CEO","Chief Lending Officer"","Robert Barnes","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","Director","Odean Busby","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","President","Odean Busby","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","Director","Marcia N. Wright","partner","Wright CPA Group","2015","public practice CPA","n/a"
+"PriorityOne Capital Corporation","Director","Robert Eason Leake","Chairman & CEO","Ross & Yerger","2015","owner and officer,"insurance company"","n/a"
+"PriorityOne Capital Corporation","Vice-Chairman","Robert Eason Leake","Chairman & CEO","Ross & Yerger","2015","owner and officer,"insurance company"","n/a"
+"PriorityOne Capital Corporation","Director","Robert L. Lyle","Executive Vice President","The Molpus Woodlands Group","2015","officer,"woodlands management company"","n/a"
+"PriorityOne Capital Corporation","Director","Charles R. Prince","n/a","n/a","2015","public practice CPA","n/a"
+"PriorityOne Capital Corporation","Director","Charles R. Prince","sole proprietor","Charles R. Prince CPA","2015","public practice CPA","n/a"
+"PriorityOne Capital Corporation","Director","Gale Martin","n/a","n/a","2015","executive","n/a"
+"PriorityOne Capital Corporation","Director","Gale Martin","Executive Director","Rankin County Chamber of Commerce","2015","executive","n/a"
+"PriorityOne Capital Corporation","Director","Eugene Brinson Polk,"Jr."","Pharmacist","Polk's Pharmacy","2015","pharmacist","n/a"
+"PriorityOne Capital Corporation","Director","Wirt A.Yerger,"III"","Manager","Crown Communications","2015","entrepreneur","n/a"
+"PriorityOne Capital Corporation","Division President","Edward G. Woodard","n/a","n/a","2015","n/a","n/a"
+"PriorityOne Capital Corporation","Vice President","Willie Macko","n/a","n/a","2015","n/a","n/a"
+"PriorityOne Capital Corporation","Vice President","Anthony Chester White","n/a","n/a","2015","n/a","n/a"
+"PriorityOne Capital Corporation","Secretary","Martha G. Underwood","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","EVP,"CFO Controller"","Martha G. Underwood","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","EVP,"COO"","John Mark Williams","n/a","n/a","2015","N/A","n/a"
+"PriorityOne Capital Corporation","Division President","Fountaine McNair","n/a","n/a","2015","n/a","n/a"
+```

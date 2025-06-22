@@ -1,0 +1,39 @@
+Here are the two tables in CSV format based on your instructions:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Resurgens Bancorp","Tucker,"Georgia"","2016","Resurgens Bancorp ESOP with 401K Provisions","Common Stock","121755","9.21%","3717569"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Resurgens Bancorp","CEO","Charles M. DeWitt,"III"","CEO and President","Resurgens Bank","2016","n/a","n/a"
+"Resurgens Bancorp","CFO & Secretary","Wayne W. Byers","CFO & Secretary","Resurgens Bank","2016","n/a","n/a"
+"Resurgens Bancorp","CCO","Rebecca Abraham","Chief Credit Officer","Resurgens Bank","2016","n/a","n/a"
+"Resurgens Bancorp","Director","William W. Guerry","President & CEO","Nexus Intelligence,"LLC"","2016","IT Professional","n/a"
+"Resurgens Bancorp","Director","Joseph W. Odom,"Jr."","President/Director","Joseph W Odom Jr PC","2016","Certified Public Accountant","n/a"
+"Resurgens Bancorp","Director","Gary D. Dorminey","n/a","n/a","2016","Retired/Consultant","n/a"
+"Resurgens Bancorp","Director","Lee Frank Van Dyke","Partner","Knox Avenue Partners","2016","Insurance Sales","n/a"
+"Resurgens Bancorp","Director","Charles S. Conklin,"III"","Manager","Centurion Building Systems,"LLC"","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","Charles S. Conklin,"III"","Vice President","Charlie Sierra Charlie,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","Charles S. Conklin,"III"","Manager","Harris Property Holdings I,"LLC"","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","Vice President","Old Peachtree Estates III Ltd","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President of the GP","1000 Corporate Center Drive,"LP"","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","1000 Corporate Center,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","Vice President","American Holdings,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Ansley Development Corporation","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","B&B Management Co.,"LP"","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Baker and Lassiter,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President of GP","BI Properties,"LP"","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Chase Management Inc.","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Costa Camino Development Co. of Georgia Inc.","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Eighty One Twenty Investments,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Hudson Bridge Company,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Jamestown Investment Corp.","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Ridgefield Corporation","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Riverdale Building Corporation","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Spivey Chase,"Inc."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President of the GP","Station Eighty,"Ltd."","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","The Chaseland Corporation","2016","Real Estate Developer","n/a"
+"Resurgens Bancorp","Director","James M. Baker","President","Twenty-Eighty One,"Inc."","2016","Real Estate Developer","n/a"
+```

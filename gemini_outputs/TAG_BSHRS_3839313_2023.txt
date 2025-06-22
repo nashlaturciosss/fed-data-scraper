@@ -1,0 +1,23 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TAG Bancshares,"Inc."","Lookout Mtn,"TN"","2023","C. Lentz Reynolds,"Jr"","n/a","12553","14.16%","n/a"
+"TAG Bancshares,"Inc."","Lookout Mtn.,"TN"","2023","Margaret Reynolds","n/a","12808","14.45%","n/a"
+"TAG Bancshares,"Inc."","Trenton,"GA"","2023","Patricia Bradshaw","n/a","7217","8.14%","n/a"
+"TAG Bancshares,"Inc."","Rising Fawn,"GA"","2023","Dennis Watson","n/a","4877","5.50%","n/a"
+"TAG Bancshares,"Inc."","Chickamauga,"GA"","2023","Eva Suggs","n/a","5000","5.64%","n/a"
+"TAG Bancshares,"Inc."","Trenton,"GA"","2023","Patricia Bradshaw","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TAG Bancshares,"Inc."","Director Emeritus","C. Lentz Reynolds,"Jr."","Director Emeritus","n/a","2023","Retired Dentist","n/a"
+"TAG Bancshares,"Inc."","Director Emeritus","Margaret Reynolds","Director Emeritus","n/a","2023","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Joel McCormick","n/a","Citizens Bank & Trust","2023","Magistrate Judge","n/a"
+"TAG Bancshares,"Inc."","Director","Patricia Bradshaw","n/a","Citizens Bank & Trust","2023","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Dennis Watson","n/a","Citizens Bank & Trust","2023","Attorney","n/a"
+"TAG Bancshares,"Inc."","Director","C. Lentz Reynolds III","n/a","Citizens Bank & Trust","2023","Property Manager","n/a"
+"TAG Bancshares,"Inc."","President/CEO/Director","Chris R. Powell","n/a","Citizens Bank & Trust","2023","Bank President","n/a"
+"TAG Bancshares,"Inc."","Director","Karen Ingle","n/a","Citizens Bank & Trust","2023","Attorney","n/a"
+```

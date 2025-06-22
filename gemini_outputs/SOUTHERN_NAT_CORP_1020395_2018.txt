@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Corporation","Andalusia,"AL"","2018","The U.W.W. Sidney Fuller Family Trust","Common","99998","8.37%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2018","Louisa Mann Baker","Common","70000","5.86%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2018","David McKowen,"Jr"","Common","110500","9.25%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2018","James M. Taylor II Family Trust","Common","75000","6.28%","n/a"
+"Southern National Corporation","Birmingham,"AL"","2018","Riley R Taylor Non-Marital Trust","Common","100000","8.37%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2018","Charles Roland","Common","150500","12.59%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2018","John Vick","Common","100000","8.37%","n/a"
+"Southern National Corporation","Freeport,"FL"","2018","Thomas E Lane","Common","85000","7.11%","n/a"
+"Southern National Corporation","Destin,"FL"","2018","Rupert E. Phillips","Common","100000","8.37%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Corporation","Director","Charles Roland","Director","CCB Community Bank","2018","Farmer","n/a"
+"Southern National Corporation","Director","Kim Roland","Director","CCB Community Bank","2018","Spicer's Dry Cleaning,"Owner"","n/a"
+"Southern National Corporation","Spicer's Dry Cleaning Owner","Kim Roland","Spicer's Dry Cleaning Owner","Spicer's Dry Cleaning","2018","Spicer's Dry Cleaning,"Owner"","n/a"
+"Southern National Corporation","Director","J Mel Fuller","Director","CCB Community Bank","2018","Builder Columns & Moldings","n/a"
+"Southern National Corporation","Director","Mark Harper","Director","CCB Community Bank","2018","President,"Harper Electric Const Co"","n/a"
+"Southern National Corporation","President","Mark Harper","President","Harper Electric Company","2018","President,"Harper Electric Const Co"","n/a"
+"Southern National Corporation","Director
+"Vice-Chariman of the Board"","David McKowen,"Jr"","Director","CCB Community Bank","2018","M.D.,"Retired"","n/a"
+"Southern National Corporation","Director","John Taylor","Director","CCB Community Bank","2018","VP General Parts,"Inc.","Carquest"","n/a"
+"Southern National Corporation","Director","Riley R. Taylor","Director","CCB Community Bank","2018","Owner,"Taylor Linen Service"","n/a"
+"Southern National Corporation","Taylor Linen Service,"President"","Riley R. Taylor","Taylor Linen Service,"President"","Taylor Linen Service","2018","Owner,"Taylor Linen Service"","n/a"
+"Southern National Corporation","Director
+"Chairman of the Board"","John E Vick","Director","CCB Community Bank","2018","Owner,"John Vick & Company"","n/a"
+"Southern National Corporation","Owner","John E Vick","Owner","John Vick & Co.","2018","Owner,"John Vick & Company"","n/a"
+"Southern National Corporation","President","Thomas E Lane","Chairman of the Board,"CEO"","CCB Community Bank","2018","Southern National Corp President","n/a"
+"Southern National Corporation","Director
+"Secretary"","Louisa M Baker","Director","CCB Community Bank","2018","Retired","n/a"
+"Southern National Corporation","Director","Daniel Taylor","Director","CCB Community Bank","2018","Owner Medical Clinics","n/a"
+"Southern National Corporation","Medical Clinics Owner","Daniel Taylor","Medical Clinics Owner","Medical Clinics","2018","Owner Medical Clinics","n/a"
+```

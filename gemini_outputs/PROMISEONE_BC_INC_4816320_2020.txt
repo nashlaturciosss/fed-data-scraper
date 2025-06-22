@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Promise One Bancorp,"Inc."","Alpharetta,"GA"","2020","Jame Cho","Common Stock","323850","5.50%","3832127"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2020","Francis D. Kim","Common Stock","366750","6.23%","3832127"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2020","Gina Kim","Common Stock","312000","5.30%","3832127"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2020","Dohyung Lim","Common Stock","326391","5.54%","3832127"
+"Promise One Bancorp,"Inc."","Englewood,"NJ"","2020","Younsung Kim","Common Stock","717555","12.18%","3832127"
+"Promise One Bancorp,"Inc."","New York,"NY"","2020","Young A. Sohn","Common Stock","316950","5.38%","3832127"
+"Promise One Bancorp,"Inc."","Big Canoe,"GA"","2020","W. Alex Choi","Common Stock","330219","5.69%","3832127"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Promise One Bancorp,"Inc."","Chairman / Director","James Cho","Chairman/Director","Am-Ko Building Maintenance Inc.","2020","Business Owner","3832127"
+"Promise One Bancorp,"Inc."","Director","Francis D. Kim","n/a","n/a","2020","Retired","3832127"
+"Promise One Bancorp,"Inc."","Director","Yoonsung Kim","Owner","European Optical Corp","2020","Optometrist","3832127"
+"Promise One Bancorp,"Inc."","Director","Jong K (Jake) Lee","CFO/Director","Unlimited PCS","2020","Business Owner","3832127"
+"Promise One Bancorp,"Inc."","Director","Dohyung (Daniel) Lim","Owner","Twin Peak International","2020","Business Owner","3832127"
+"Promise One Bancorp,"Inc."","Director","Bong U (Peter) Nam","n/a","n/a","2020","Retired","3832127"
+"Promise One Bancorp,"Inc."","Director","Young A. Sohn","n/a","n/a","2020","Retired","3832127"
+"Promise One Bancorp,"Inc."","Director/CEO & President","Jake D Park","n/a","n/a","2020","n/a","3832127"
+"Promise One Bancorp,"Inc."","EVP & Chief Financial Officer","Tammy Jang","n/a","n/a","2020","n/a","3832127"
+"Promise One Bancorp,"Inc."","EVP & Chief Credit Officer","Soo Song","n/a","n/a","2020","n/a","3832127"
+"Promise One Bancorp,"Inc."","EVP & Chief Operations Administrator","Hyelee Yoon","n/a","n/a","2020","n/a","3832127"
+```

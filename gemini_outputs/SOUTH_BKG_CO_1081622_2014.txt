@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2014","Lawrence Bennett","common","209","3.51%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Lawrence Bennett","common","266","4.47%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Lawrence Bennett","common","3321","55.81%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Lawrence Bennett","common","5","0.08%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Lawrence Bennett","common","242","4.07%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Paul Bennett","common","600","10.08%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Paul Bennett","common","10","0.17%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Paul Bennett","common","3321","55.81%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Paul Bennett","common","5","0.08%","108/622"
+"South Banking Company","Alma,"Georgia"","2014","Paul Bennett","common","242","4.07%","108/622"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director,"Chairman and President"","Peoples Bank","2014","Banking","108/622"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director and President","South Georgia Bankshares","2014","Banking","108/622"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","n/a","n/a","2014","Banking","108/622"
+"South Banking Company","Director,"Senior Vice President","and Interim CFO/Cashier"","Kenneth F. Wade","n/a","n/a","2014","Banking","108/622"
+"South Banking Company","Director and Executive Vice President","Charlie Stuckey","n/a","n/a","2014","Banking","108/622"
+"South Banking Company","Director","Richard Williams","n/a","n/a","2014","Banking","108/622"
+"South Banking Company","Director","Stephen Tuten","n/a","n/a","2014","Banking","108/622"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","n/a","2014","Banking","108/622"
+```

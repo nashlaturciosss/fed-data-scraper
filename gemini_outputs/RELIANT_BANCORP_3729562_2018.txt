@@ -1,0 +1,29 @@
+```csv
+###SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Reliant BanCorp,"Inc"","CHICAGO,"IL"","2018","RMB CAPITAL MANAGEMENT LLC","n/a","1051709","9.12%","n/a"
+"Reliant BanCorp,"Inc"","JERSEY CITY,"NJ"","2018","JEFFERIES LLC","n/a","682000","5.91%","n/a"
+```
+```csv
+###INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Reliant BanCorp,"Inc"","Director and Assistant Secretary","Homayoun Aminmadani","See Confidential Exhibit A","n/a","2018","Restaurateur","n/a"
+"Reliant BanCorp,"Inc"","Director,"Chairman","President","and CEO"","DeVan D. Ard,"Jr."","See Confidential Exhibit A","n/a","2018","n/a","n/a"
+"Reliant BanCorp,"Inc"","Director","Charles Trimble Beasley","President","Center Star,"Inc"","2018","Materials Research","n/a"
+"Reliant BanCorp,"Inc"","Director","John Lewis Bourne","n/a","n/a","2018","Agriculture Production","n/a"
+"Reliant BanCorp,"Inc"","Director","Robert E. Daniel","n/a","Partners on the Lane","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","Robert E. Daniel","n/a","Base,"Inc."","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","Robert E. Daniel","n/a","DSS ProDiesel Partners,"LLC"","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","William Ronald DeBerry","President","Compass Capital,"LLC"","2018","Retired","n/a"
+"Reliant BanCorp,"Inc"","Director","Sharon H. Edwards","See Confidential Exhibit A","n/a","2018","Retired","n/a"
+"Reliant BanCorp,"Inc"","Director","Farzin Ferdowsi","n/a","n/a","2018","Restaurateur","n/a"
+"Reliant BanCorp,"Inc"","Director","Darrell S. Freeman,"Sr."","Chief Executive Officer","Management Resources Company","2018","n/a","n/a"
+"Reliant BanCorp,"Inc"","Director","James Gilbert Hodges","President","Hodges Group,"Inc."","2018","Construction","n/a"
+"Reliant BanCorp,"Inc"","Director and Chief Operating Officer","Louis E. Holloway","n/a","n/a","2018","Attorney","n/a"
+"Reliant BanCorp,"Inc"","Director and Secretary","James R. Kelley","Member","Neal & Harwell,"PLC"","2018","Pharmacist","n/a"
+"Reliant BanCorp,"Inc"","Director","Don R. Sloan","n/a","Springfield Drugs","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","Don R. Sloan","n/a","South Side Drug Company","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","Ruskin A. Vest","President","Southeastern Pant,"LLC"","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Director","Ruskin A. Vest","President","Southeastern Shirt Corporation","2018","-","n/a"
+"Reliant BanCorp,"Inc"","Chief Financial Officer","James Daniel Dellinger","President","Nashville Krav Maga LLC","2018","n/a","n/a"
+```

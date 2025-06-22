@@ -1,0 +1,53 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","James L. Ferman,"Jr."","Common Stock","263504","11.24%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","James L. Ferman,"Jr."","Options on Common Stock","2753","11.35%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","WRB Enterprises,"Inc."","Common Stock","226730","9.67%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","WRB Enterprises,"Inc."","Options on Common Stock","1376","9.73%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","G. Robert Blanchard,"Jr. (President of WRB)"","Common Stock","226730","9.67%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","G. Robert Blanchard,"Jr. (President of WRB)"","Options on Common Stock","1376","9.73%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","179285","7.65%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","A. Gerald Divers","Common Stock","142549","6.08%"
+"Tampa Bay Banking Company","Tampa,"FL"","2015","A. Gerald Divers","Options on Common Stock","15500","6.70%"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company","2015","President","n/a"
+"Tampa Bay Banking Company","Vice Chairman- The Bank of Tampa","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company","2015","President","n/a"
+"Tampa Bay Banking Company","Vice Chairman","A. Gerald Divers","Chairman","The Bank of Tampa","2015","Banker","n/a"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","Director","WRB Enterprises,"Inc."","2015","President","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","G. Robert Blanchard,"Jr."","Director","WRB Enterprises,"Inc."","2015","President","n/a"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","Director","Celestar Corporation","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Gregory J. Celestan","Director","Celestar Corporation","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","Director","HARTCO LLC","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Cathy M. Collins","Director","HARTCO LLC","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director","Luis Garcia","Senior Partner (CPA)","Garcia & Ortiz,"PA"","2015","Senior Partner (CPA)","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Luis Garcia","Senior Partner (CPA)","Garcia & Ortiz,"PA"","2015","Senior Partner (CPA)","n/a"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2015","President","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2015","President","n/a"
+"Tampa Bay Banking Company","Director","A.D. MacKinnon","CEO","ADM Ventures,"Inc. DBA MacKinnon Equipment and Services"","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","A.D. MacKinnon","CEO","ADM Ventures,"Inc. DBA MacKinnon Equipment and Services"","2015","CEO","n/a"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","n/a","Retired","2015","Retired","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Judy A. Mitchell","n/a","Retired","2015","Retired","n/a"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","President","Seabreeze Holdings,"Inc."","2015","President","n/a"
+"Tampa Bay Banking Company","Director - The Bank of Tampa","Paul L. Whiting","President","Seabreeze Holdings,"Inc."","2015","President","n/a"
+"Tampa Bay Banking Company","Director and President/CEO","William O. West III","n/a","Banker","2015","Banker","n/a"
+"Tampa Bay Banking Company","Director,"President/CEO - Bank of Tampa"
+"Chairman - TBC Insurance","Inc."
+"Chairman - Florida Investment Advisors","Inc."","William O. West III","n/a","Banker","2015","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CFO","Richard L. Junkermann","Executive Vice President","The Bank of Tampa
+"Director - Florida Investment Advisors","Inc."","2015","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President - The Bank of Tampa
+"Director - Florida Investment Advisors","Inc."","Richard L. Junkermann","Executive Vice President","The Bank of Tampa
+"Director - Florida Investment Advisors","Inc."","2015","Banker","n/a"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Senior Vice President","The Bank of Tampa
+"Director - TBC Insurance","Inc."
+"Director - Florida Investment Advisors","Inc."","2015","Banker","n/a"
+"Tampa Bay Banking Company","Senior Vice President - The Bank of Tampa
+"Director - TBC Insurance","Inc."
+"Director - Florida Investment Advisors","Inc."","Ronald V. Hernandez","Senior Vice President","The Bank of Tampa
+"Director - TBC Insurance","Inc."
+"Director - Florida Investment Advisors","Inc."","2015","Banker","n/a"
+```

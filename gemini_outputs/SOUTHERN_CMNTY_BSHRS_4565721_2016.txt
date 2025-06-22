@@ -1,0 +1,37 @@
+"Okay","here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","William R. Faulk","Common Stock","39295","31.05%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Beth Branch","Common Stock","21563","17.04%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Yvonne Pichelmayer","Common Stock","13406","10.59%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Terry Harbin","Common Stock","10091","7.97%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Kellie Johnson","Common Stock","9430","7.45%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Patricia Wren","Common Stock","8694","6.87%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Kim Flynn","Common Stock","7878","6.23%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Southern Community Bancshares,"Inc"","Common Stock","126541","25.18%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","William R. Faulk","Common Stock","48597","9.67%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","W. Daniel Keel","Common Stock","37835","7.53%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Arab,"Alabama"","2016","Gerald L. Jones","Common Stock","26197","5.21%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Ronald P. Martin","Common Stock","32620","6.49%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","Yvonne Pichelmayer","Common Stock","31150","6.20%","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","Cullman,"Alabama"","2016","F.E. St. John IV","Common Stock","48307","9.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","TRUSTEE","William R. Faulk","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","DIRECTOR-SCBS","William R. Faulk","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","TRUSTEE","F.E. St. John IV","n/a","CULLMAN ENVIRONMENTAL,"INC"","2016","ATTORNEY","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","DIRECTOR/CHAIRMAN-SCBS","F.E. St. John IV","OWNER","CULLMAN ENVIRONMENTAL,"INC"","2016","ATTORNEY","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","PARTICIPANT","Beth Branch","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","SECRETARY-SCBS","Beth Branch","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","V.P. FINANCE-FIRST","Beth Branch","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","PARTICIPANT","Yvonne Pichelmayer","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","V.P OPERATIONS-FIRST","Yvonne Pichelmayer","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","PRESIDENT/DIRECTOR","William R. Faulk","n/a","n/a","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","PRESIDENT","William R. Faulk","n/a","FIRST COMMUNITY BANK","2016","n/a","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","DIRECTOR","Maxie T. Hudson","n/a","n/a","2016","RETIRED","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","DIRECTOR","W. Daniel Keel","n/a","n/a","2016","RETIRED","n/a"
+"SOUTHERN COMMUNITY BANCSHARES,"INC"","DIRECTOR/CHAIRMAN","F.E. St. John IV","OWNER","CULLMAN ENVIRONMENTAL,"INC"","2016","ATTORNEY","n/a"
+```

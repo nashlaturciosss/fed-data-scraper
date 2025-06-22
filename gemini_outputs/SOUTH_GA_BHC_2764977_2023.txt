@@ -1,0 +1,32 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bank Holding Company","Omega,"GA"","2023","Ponder Family","n/a","220784","12.055%","n/a"
+"South Georgia Bank Holding Company","Ty Ty,"GA"","2023","Willis Family","n/a","196412","10.724%","n/a"
+"South Georgia Bank Holding Company","Omega,"GA"","2023","Hornbuckle Family","n/a","164693","8.992%","n/a"
+"South Georgia Bank Holding Company","Tifton,"GA"","2023","Reinhardt Family","n/a","110632","6.040%","n/a"
+"South Georgia Bank Holding Company","n/a","2023","None","n/a","None","None","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bank Holding Company","Director","Jones Ponder","n/a","n/a","2023","Retired Farmer","n/a"
+"South Georgia Bank Holding Company","Director","Grady M. Thompson,"Jr."","President","Bishop Well & Pump Services,"Inc."","2023","Well Drilling","n/a"
+"South Georgia Bank Holding Company","Director","Doyle Medders","Managing Member","Medders Irrigation,"LLC"","2023","Irrigation Business Owner","n/a"
+"South Georgia Bank Holding Company","Director","Doyle Medders","Managing Member","Welee Farms,"LLC"","2023","Irrigation Business Owner","n/a"
+"South Georgia Bank Holding Company","Director","Joe M. Turner","Partner","Tifton Professional Buildings,"LLP"","2023","Retired Physician","n/a"
+"South Georgia Bank Holding Company","Director","Gilbert Lamar Martin","n/a","n/a","2023","Retired Extension Service","n/a"
+"South Georgia Bank Holding Company","Director","Jonathan Jones","President","Jones & Jones Inc.","2023","Construction Owner","n/a"
+"South Georgia Bank Holding Company","Director","Jonathan Jones","Member","Jones Group,"LLC"","2023","Construction Owner","n/a"
+"South Georgia Bank Holding Company","Director","Jonathan Jones","Manager","Edgemont Properties,"LLC"","2023","Construction Owner","n/a"
+"South Georgia Bank Holding Company","Director","Teresa Lasseter","Member","Hardy Mill Investments,"LLC"","2023","Retired USDA Farm Agency","n/a"
+"South Georgia Bank Holding Company","CEO & Chairman of the Board","Glenn P. Willis,"Jr."","n/a","n/a","2023","n/a","n/a"
+"South Georgia Bank Holding Company","Director","James Brian Ponder","Secretary & Treasurer","Pond-O-Gold,"Inc."","2023","Farmer","n/a"
+"South Georgia Bank Holding Company","Director","James Brian Ponder","Partner","K & B Ponder Properties,"LLC"","2023","Farmer","n/a"
+"South Georgia Bank Holding Company","Noel Williams","Director","Owner","Partners Benefit Group/Noel Williams","2023","Insurance Broker","n/a"
+"South Georgia Bank Holding Company","Director","Madison Coley","Sole Member","MCC Farms,"LLC"","2023","Agri-Business","n/a"
+"South Georgia Bank Holding Company","Director","Melinda J. Moore","Vice President","Five Bridges Capital,"LLC"","2023","n/a","n/a"
+"South Georgia Bank Holding Company","Director","Bill Reinhardt","Co-Manager","First Tifton,"LLC"","2023","Judge","n/a"
+"South Georgia Bank Holding Company","President","Humprey Sam McCard","Trustee","Cortez Sconyers Charitable","2023","N/A","n/a"
+```

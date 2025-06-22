@@ -1,0 +1,36 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2017","Lawrence Bennett","common shares","209","3.51%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Lawrence Bennett","common shares","266","4.47%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Lawrence Bennett","common shares","3321","55.81%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Lawrence Bennett","common shares","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Lawrence Bennett","common shares","242","4.07%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Paul Bennett","common shares","600","10.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Paul Bennett","common shares","10","0.17%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Paul Bennett","common shares","3321","55.81%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Paul Bennett","common shares","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2017","Paul Bennett","common shares","242","4.07%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Pineland Bank","Director,"President","and Treasurer"","Paul Bennett","Director and Chairman","Pineland Bank","2017","Banking","n/a"
+"Pineland Bank","Director,"President","and Treasurer"","Paul Bennett","Director and Secretary","South Financial Products,"Inc."","2017","Banking","n/a"
+"Pineland Bank","Director,"President","and Treasurer"","Paul Bennett","Director,"Chairman and President"","Peoples Bank","2017","Banking","n/a"
+"Pineland Bank","Director,"President","and Treasurer"","Paul Bennett","Director and President","South Georgia Bankshares","2017","Banking","n/a"
+"Pineland Bank","Director","Kenneth F. Wade","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director,"Senior Vice President"","Kenneth F. Wade","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director","Charlie Stuckey","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director and Executive Vice President","Charlie Stuckey","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director,"Vice Chairman"","Pineland Bank","2017","Banking","n/a"
+"Pineland Bank","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director","Peoples Bank","2017","Banking","n/a"
+"Pineland Bank","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director","South Georgia Bankshares","2017","Banking","n/a"
+"Pineland Bank","Director","Al D Ross","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director and President/CEO","Al D Ross","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","n/a","Stephen Tuten","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director","Stephen Tuten","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director & Vice President","Harry Keith Bennett,"Jr."","n/a","n/a","2017","Banking","n/a"
+"Pineland Bank","Director & Vice President","Harry Keith Bennett,"Jr."","Director & President","South Financial Products,"Inc."","2017","Banking","n/a"
+```

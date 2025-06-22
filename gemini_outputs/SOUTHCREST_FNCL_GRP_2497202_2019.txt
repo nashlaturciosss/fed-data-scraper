@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Rancho SanteFe,"CA"","2019","Castle Creek Capital Partners V,"LP"","n/a","505,"000"","8.13%","n/a"
+"SouthCrest Financial Group,"Inc."","Arlington,"VA"","2019","Investment Vehicles Advised by EJF Capital","n/a","442,"313"","7.12%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","Owner","Wyatt Realty Company","2019","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","Member","Wyatt Investment Group,"Inc."","2019","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","General Partner","SWH Wyatt 2060 DH,"LLC."","2019","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","General Partner","SWH Wyatt 1356,"LLC."","2019","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Joan Cravey","n/a","n/a","2019","N/A","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","President","Duffey Southeast,"Inc."","2019","Construction Company","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Owner","Spring Farm,"LLC"","2019","Construction Company","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","President","Three Rivers Resort,"Inc."","2019","Construction Company","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Attorney","McRae,"Smith","Peek","Harman","& Monroe","LLP"","2019","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","Director & Secretary","Michael D. McRae","Director & Secretary","Pinetree Properties","2019","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","n/a","Tony Scavuzzo","Principal","Castle Creek Capital","2019","Investments","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Daniel G. Broos","Managing Member","Brighton Partners,"LLC"","2019","Private Equity Investment","2497202"
+"SouthCrest Financial Group,"Inc."","Director","George Hovis","President","Hovis Homes,"Inc."","2019","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","President and Chief Executive Officer","Brian Schmitt","n/a","n/a","2019","N/A","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Financial Officer"","David Andrew Borrmann","n/a","n/a","2019","N/A","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Accounting Officer"","Rebecca Bell","n/a","n/a","2019","N/A","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Credit Officer"","Michael R. Washburn","n/a","n/a","2019","N/A","2497202"
+```

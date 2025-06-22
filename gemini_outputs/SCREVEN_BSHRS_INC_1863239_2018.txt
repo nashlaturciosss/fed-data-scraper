@@ -1,0 +1,27 @@
+"Okay","here are the two CSV tables extracted from the provided FR Y-6 document","adhering to all specified formatting and content rules."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2018","MARY H. BLACKBURN","COMMON STOCK","4200","5.420%","n/a"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2018","CHARLES D. REED","COMMON STOCK","5977","7.910%","n/a"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2018","RUTH B. BAZEMORE","COMMON STOCK","4689","6.200%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Screven Bancshares,"Inc."","Director","James W. Adams","Director","Farmers and Merchants Bank","2018","Retired Banker","n/a"
+"Screven Bancshares,"Inc."","n/a","Mary H. Blackburn","n/a","n/a","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","Director/Secretary of Board of Directors","Otis M. Chivers","Director","Farmers and Merchants Bank","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","Director/Chairman of Board of Directors","R. J. Martin,"III"","Director/Chairman of Board of Directors","Farmers and Merchants Bank","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","Charles D. Reed","President","David W. Reed,"Co."","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","Charles D. Reed","Partner","Whitehill Farm","2018","Retired","n/a"
+"Screven Bancshares,"Inc."","CEO","David P. Boddiford","Director","Farmers and Merchants Bank","2018","n/a","n/a"
+"Screven Bancshares,"Inc."","CEO","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2018","n/a","n/a"
+"Screven Bancshares,"Inc."","CEO","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2018","n/a","n/a"
+"Screven Bancshares,"Inc."","n/a","Ruth Bazemore","Owner","Professional Insurance Agency","2018","Insurance Broker","n/a"
+"Screven Bancshares,"Inc."","Director/President/CEO","Hoke S. Reeves,"III"","Director/President/CEO","Farmers and Merchants Bank","2018","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","n/a","David Burke","Manager","Koyo Bearings Plant","2018","Plant Manager","n/a"
+"Screven Bancshares,"Inc."","n/a","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2018","Certified Public Accountant Insurance Co.","n/a"
+"Screven Bancshares,"Inc."","n/a","Andrew J. Clifton","Officer/Vice President","n/a","2018","Bank Officer","n/a"
+```

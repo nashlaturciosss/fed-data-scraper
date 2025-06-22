@@ -1,0 +1,22 @@
+```csv
+## SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2020","Edward Hurley","Common Stock","16572","28.43%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Rome,"Georgia"","2020","William B Hurley Daughters Trust","Common Stock","16550","28.40%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2020","Cynthia Suzanne Hurley Bowman","Common Stock","9900","16.49%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2020","William Bowman,"Minor Cynthia Suzanne Hurley","Custodian"","Common Stock","6732","11.55%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2020","L. Sue Hurley","n/a","n/a","n/a","n/a"
+```
+```csv
+## INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","CEO & Director","William B Hurley","Director","Hurley Foods","2020","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO & Director","William B Hurley","Owner","Capital Contour,"LLC"","2020","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO & Director","William B Hurley","Owner","Hurley Law Firm,"LLC"","2020","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & President","Edward Hurley","Director","Hurley Foods","2020","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Secretary","Suzanne Hurley","Director","Hurley Foods","2020","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Katherine Hurley","n/a","n/a","2020","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","J Hoyt Williams","n/a","n/a","2020","Retired Merchant","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Christopher Sutton Connelly","Employee","Cook & Connelly","2020","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Vice President","William Tutten","n/a","n/a","2020","n/a","n/a"
+```

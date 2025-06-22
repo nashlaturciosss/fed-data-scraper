@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Baltimore,"MD"","2020","T. Rowe Price Associates,"Inc."","Voting Common Stock","1842360","13.48%","n/a"
+"Professional Holding Corp.","Greenwich,"CT"","2020","Endeavor Capital Advisors,"Inc."","Voting Common Stock","1061608","7.7%","n/a"
+"Professional Holding Corp.","Arlington,"VA"","2020","EJF Capital","Voting Common Stock","888224","6.5%","n/a"
+"Professional Holding Corp.","Key Largo,"FL"","2020","Mendon Capital","Voting Common Stock","499890","6.1%","n/a"
+"Professional Holding Corp.","Boston,"MA"","2020","Bay Boston Capital,"L.P."","Voting CommonStock","422890","5.1%","n/a"
+"Professional Holding Corp.","Leola,"PA"","2020","Emerald Banking and Finance Fund","n/a","175683","1.298%","n/a"
+"Professional Holding Corp.","Leola,"PA"","2020","Emerald Banking and Finance Fund","n/a","103494","0.765%","n/a"
+"Professional Holding Corp.","Little Rock,"AR"","2020","Stephens Professional Holding LLC","n/a","279177","2.063%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO","Director","Chairman and CEO (Professional Bank)"","Daniel Sheehan","n/a","n/a","2020","n/a","n/a"
+"Professional Holding Corp.","Director,"Director (Professional Bank)"","Roland DiGasbarro","n/a","Windsor Investments and Affiliated entities","2020","Real Estate Investor","n/a"
+"Professional Holding Corp.","CEO,"BayBoston Managers LLC","Director"","Carlos Garcia","Chairman and Director (CFG TopCo GP LLC)","CFG TopCo GP LLC","2020","n/a","n/a"
+"Professional Holding Corp.","Director","Jon Gorney","Chairman Director (First Commonwealth Bank and Corporation)","First Commonwealth Bank and Corporation","2020","Retired Financial Services","n/a"
+"Professional Holding Corp.","Director","Herbert Martens","Managing Partner,"Advent Associates"","Advent Associates","2020","Investments","n/a"
+"Professional Holding Corp.","Director","Dr. Lawrence Schimmel","Chief Medical Officer (Clinigence Holdings)","Clinigence Holdings","2020","Physician / Health Care Entrepreneur","n/a"
+"Professional Holding Corp.","Director","Anton Schutz","President (Mendon Capital Advisors Corp.)","Mendon Capital Advisors Corp.","2020","Portfolio Manager","n/a"
+"Professional Holding Corp.","Director","Abel Iglesias","Director (Doctor's Hospital)","Doctor's Hospital","2020","n/a","n/a"
+"Professional Holding Corp.","Director","Ava Parker","President Palm Beach State College","Palm Beach State College","2020","College President","n/a"
+"Professional Holding Corp.","Director","Margaret Blakey","EVP Triple Five Investment Group","Triple Five Investment Group","2020","Finance Executive","n/a"
+"Professional Holding Corp.","Director","Norman Edelcup","Director (Barrons Funds)","Barrons Funds","2020","Retired","n/a"
+"Professional Holding Corp.","Assistant Secretary","Luis Castillo","n/a","n/a","2020","n/a","n/a"
+"Professional Holding Corp.","Chief Accounting Officer","Mary B. Usategui","n/a","n/a","2020","n/a","n/a"
+"Professional Holding Corp.","Secretary","Michael Sontag","Manager JI Madomica Real Estate LLC","JI Madomica Real Estate LLC","2020","n/a","n/a"
+```

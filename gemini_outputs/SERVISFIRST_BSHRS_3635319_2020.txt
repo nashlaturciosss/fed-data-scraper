@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ServisFirst Bancshares,"Inc."","New York,"NY"","2020","BlackRock,"Inc."","Common Stock","7254600","13.5%","n/a"
+"ServisFirst Bancshares,"Inc."","Malvern,"PA"","2020","The Vanguard Group","Common Stock","4799090","8.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ServisFirst Bancshares,"Inc."","President,"Chief Executive Officer","Bank President","Chief Executive Officer and Chairman"","Thomas A. Broughton III","n/a","n/a","2020","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Bank - Director"","Michael D. Fuller","n/a","n/a","2020","Retired President of Double Oak Water Reclamation","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Bank - Director"","James J. Filler","n/a","n/a","2020","Retired Chief Executive Officer of Jefferson Iron & methal Brokerage,"Inc."","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Bank - Director"","J. Richard Cashio","n/a","n/a","2020","Retired formerly Chief Executive Officer,"Tassco","LLC"","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Bank - Director"","Hatton C. V. Smith","Chief Executive Officer","Back Forty Beer Company","2020","Retired Chief Executive Officer of Royal Cup Coffee","n/a"
+"ServisFirst Bancshares,"Inc."","Executive Vice President,"Chief Financial Officer","Treasurer and Secretary","Bank - Executive Vice President","Chief Financial Officer","Treasurer and Secretary"","William M. Foshee","n/a","n/a","2020","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Executive Vice President and Chief Operating Officer,"Bank Executive Vice President and Chief Operating Officer"","Clarence C. Pouncey III","n/a","n/a","2020","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Manager of Tuder Investments","LLC"","Irma Loya Tuder","n/a","n/a","2020","Manager of Tuder Investments,"LLC"","n/a"
+"ServisFirst Bancshares,"Inc."","Director,"Bank Director"","Christopher Mettler","Founder and President","Sovereign Co.","2020","Founder and President of Sovereign Co.","n/a"
+```

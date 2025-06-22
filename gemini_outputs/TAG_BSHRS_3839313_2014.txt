@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TAG Bancshares,"Inc."","Lookout Mountain,"TN"","2014","C. Lentz Reynolds Jr.","n/a","12356","13.94%","n/a"
+"TAG Bancshares,"Inc."","Lookout Mountain,"TN"","2014","Margaret Reynolds","n/a","12230","13.80%","n/a"
+"TAG Bancshares,"Inc."","Trenton,"GA"","2014","Deloris Smyth","n/a","6972","7.87%","n/a"
+"TAG Bancshares,"Inc."","Rising Fawn,"GA"","2014","Dennis Watson","n/a","4697","5.30%","n/a"
+"TAG Bancshares,"Inc."","Chickamauga,"GA"","2014","Eva Suggs","n/a","5000","5.64%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TAG Bancshares,"Inc."","Director","C. Lentz Reynolds,"Jr."","Director","Citizens Bank & Trust","2014","Retired Dentist","n/a"
+"TAG Bancshares,"Inc."","None","Margaret Reynolds,","None","None","2014","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Douglas Anderton","Director","Citizens Bank & Trust","2014","Manager Dade Water Co","n/a"
+"TAG Bancshares,"Inc."","Director","Deloris Smyth","Director","Citizens Bank & Trust","2014","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Fred Stephens","Director","Citizens Bank & Trust","2014","Retired Banker","n/a"
+"TAG Bancshares,"Inc."","Director","Dennis Watson","Director","Citizens Bank & Trust","2014","Attorney","n/a"
+"TAG Bancshares,"Inc."","Director","C. Lentz Reynolds,"III"","Director","Citizens Bank & Trust","2014","Property Manager","n/a"
+"TAG Bancshares,"Inc."","President/CEO","Chris R. Powell","None","None","2014","Bank President","n/a"
+"TAG Bancshares,"Inc."","Director","Karen Ingle","Director","Citizens Bank & Trust","2014","Attorney","n/a"
+```

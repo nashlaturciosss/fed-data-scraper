@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2016","Todd Proffitt","n/a","256","57.92%","1142242"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2016","Billy Proffitt","n/a","176","39.82%","1142242"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2016","Brownlee Reagan and Kelley E. Reagan 2012 Irrevocable Trust","n/a","103","23.30%","1142242"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bank","President and Chairman","Richard Todd Proffitt","President Chairman","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Director","Travis McCroskey","n/a","Landmark Inn Motel","2016","n/a","1142242"
+"Tennessee State Bank","Director Secretary","Mitchell H. McCarter","n/a","Parkway Liquor Store","2016","n/a","1142242"
+"Tennessee State Bank","Director","Charles R. Frost Jr","n/a","Motels","2016","n/a","1142242"
+"Tennessee State Bank","Director","Robert A. Tino","n/a","Art Galleries","2016","n/a","1142242"
+"Tennessee State Bank","Interim Director","Lawrence Andrew Proffitt","n/a","Real Estate","2016","n/a","1142242"
+"Tennessee State Bank","Senior Executive Vice-President","J. Scott Gibson","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Executive Vice-President","Tammie M. Sutton","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Executive Vice-President","Jennifer Lynn Reinhard","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Executive Vice-President","R. Stephen Hagood","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Executive","Ray B. Sterling","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","Director","Wayne Ayers","n/a","Real Estate","2016","n/a","1142242"
+"Tennessee State Bank","Secretary Director","Wayne Ayers","n/a","n/a","2016","n/a","1142242"
+"Tennessee State Bank","n/a","Brownlee Reagan and Kelley E. Reagan","n/a","Restaurants and Motels","2016","n/a","1142242"
+"Tennessee State Bank","n/a","Billy Proffitt","President / Owner","Smokey Mtn. Foods,"Inc."","2016","n/a","1142242"
+"Tennessee State Bank","n/a","Alfred Newman","n/a","Real Estate","2016","n/a","1142242"
+```

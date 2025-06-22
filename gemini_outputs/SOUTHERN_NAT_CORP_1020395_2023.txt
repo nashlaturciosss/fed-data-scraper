@@ -1,0 +1,10 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Corporaton","Chairman/Chief Executive Officer","John Vick","n/a","n/a","2023","n/a","n/a"
+"Southern National Corporaton","Treasurer","Wendy A. Butler","n/a","n/a","2023","n/a","n/a"
+```

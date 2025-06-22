@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2019","Derrell W. Gaddis","Class B","5931.3645","28.7394%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2019","Charles D. Gross","Class B","4127.6845","20.0000%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2019","Jay T. Jones","Class B","3889.6845","18.8468%","n/a"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2019","Charles & Brenda Poe","Class B","1944.8407","9.4234%","n/a"
+"Tri-States Bankshares,"Inc."","Dalton,"GA"","2019","Carolyn Ellis","Class B","1944.8407","9.4234%","n/a"
+"Tri-States Bankshares,"Inc."","Fort Payne,"AL"","2019","John E. Beck","Class B","800.0000","3.8763%","n/a"
+"Tri-States Bankshares,"Inc."","Lookout Mtn,"GA"","2019","Aubrey Black","Class B","1200.0000","5.8144%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2019","Leisa Cagle","Class B","800.0000","3.8763%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Dade","President/Director","Derrell Gaddis","n/a","n/a","2019","Retired","n/a"
+"Bank of Dade","Director","Charles D. Gross","Chairman/Director","Gross Furniture Center","2019","Self-employed","n/a"
+"Bank of Dade","Director","Jay T. Jones","Executive VP Bank of Dade","n/a","2019","n/a","n/a"
+"Bank of Dade","Director","Brenda Poe","n/a","n/a","2019","Retired","n/a"
+"Bank of Dade","Director","John E Beck","n/a","Fort Payne Gun Works,"LLC"","2019","Self-employed","n/a"
+"Bank of Dade","Director","Aubrey Black","n/a","Aubrey Black Const. Inc.","2019","Self-employed","n/a"
+"Bank of Dade","Director","Aubrey Black","n/a","Ol'South Fence,"Inc."","2019","Self-employed","n/a"
+"Bank of Dade","Director","Leisa Cagle","Vice President","McKee Bakery","2019","n/a","n/a"
+```

@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Robertson Family Limited Partnership","n/a","45530","8.47%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","James D Robertson,"Manager"","n/a","45530","8.47%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Ben Myers Robertson IRRV Trust","n/a","44561","8.28%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","James D Robertson,"Trustee"","n/a","44561","8.28%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Mary Jo Willocks","n/a","33928","6.31%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Leeann E. Hicks","n/a","31963","5.94%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Leon Shields","n/a","30000","5.58%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2020","Joe B. Bruce","n/a","63281","11.77%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Director","Jerry Dean","Director","None","2020","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Bill Clabough","Director","None","2020","Exec of Non Profit","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Leann Hicks","Director","None","2020","Education","n/a"
+"Twin Cities Financial Services,"Inc."","Vice Chairman Director","John Proffitt","Vice Chairman Director","None","2020","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","James D Robertson","Director","None","2020","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Leon Shields","Director","None","2020","Insurance","n/a"
+"Twin Cities Financial Services,"Inc."","Chairman Director","Gaynell Lawson","Chairman Director","None","2020","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Robert L. Carroll","Director","None","2020","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","G. Alvin Grubb","Consultant Director","None","2020","Banker","n/a"
+"Twin Cities Financial Services,"Inc."","President/CEO Director","Mike Baker","President/CEO Director","None","2020","Banker","n/a"
+```

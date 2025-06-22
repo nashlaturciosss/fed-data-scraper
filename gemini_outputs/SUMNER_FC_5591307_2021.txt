@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sumner Financial Corporation","Gallatin,"TN"","2021","Richard Isaacson","Common Stock","80956","6%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sumner Financial Corporation","Director","Bryan Bondurant","Director","Critter Clinic LLC","2021","Veterinarian/Real Estate Investor","n/a"
+"Sumner Financial Corporation","Director","Bryan Bondurant","Director","Bondurant Enterprises","2021","Veterinarian/Real Estate Investor","n/a"
+"Sumner Financial Corporation","Director","Bryan Bondurant","Director","CHR of Gallatin LLC","2021","Veterinarian/Real Estate Investor","n/a"
+"Sumner Financial Corporation","Director","Everton Campbell","n/a","n/a","2021","Real-estate investor/Insurance/Tax Preparer","n/a"
+"Sumner Financial Corporation","Director","Marshall Cook","n/a","n/a","2021","Attorney","n/a"
+"Sumner Financial Corporation","Director","Charles Curtis","n/a","Charles R Curtis Construction Inc","2021","General Contractor","n/a"
+"Sumner Financial Corporation","Director","Charles Curtis","n/a","CGS Properties Inc","2021","General Contractor","n/a"
+"Sumner Financial Corporation","Director","Charles Curtis","n/a","Curtis & Givens","2021","General Contractor","n/a"
+"Sumner Financial Corporation","Director","Trudy Harrison","n/a","Harrison Investments LLC","2021","Attorney/Real-estate Investor","n/a"
+"Sumner Financial Corporation","Director","Trudy Harrison","n/a","1164 Nashville Pike LLC","2021","Attorney/Real-estate Investor","n/a"
+"Sumner Financial Corporation","Director","Trudy Harrison","n/a","Smith Sholar Milliken PLLC","2021","Attorney/Real-estate Investor","n/a"
+"Sumner Financial Corporation","Director","Trudy Harrison","n/a","Giles Lane Partnership","2021","Attorney/Real-estate Investor","n/a"
+"Sumner Financial Corporation","Director","Jamie McMurry","n/a","n/a","2021","CPA","n/a"
+"Sumner Financial Corporation","Director & Chairman","Reginald Mudd","n/a","n/a","2021","Real-estate Investor","n/a"
+"Sumner Financial Corporation","Director","Albert Strawther","n/a","Strawther Funeral Home Inc","2021","Funeral Home Director","n/a"
+"Sumner Financial Corporation","Director","Albert Strawther","n/a","Serenity Funeral Home","2021","Funeral Home Director","n/a"
+"Sumner Financial Corporation","Director/President and Chief Executive Officer","Keith Hatley","n/a","n/a","2021","n/a","n/a"
+"Sumner Financial Corporation","Director/Secretary of Board and Chief Financial Officer","Bonita Spiegl","n/a","n/a","2021","n/a","n/a"
+"Sumner Financial Corporation","Chief Credit Officer","Charles Hooks","n/a","n/a","2021","n/a","n/a"
+```

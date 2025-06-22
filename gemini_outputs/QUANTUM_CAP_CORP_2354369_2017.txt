@@ -1,0 +1,17 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Quantum Capital Corporation","Atlanta,"Georgia"","2017","Infinity Trust","Common Stock","481711","83.90%","n/a"
+"Quantum Capital Corporation","Alpharetta,"Georgia"","2017","Narasimhulu Neelaguru,"M.D"","Common Stock","92326","16.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Quantum Capital Corporation","n/a","Infinity Trust","n/a","n/a","2017","n/a","n/a"
+"Quantum Capital Corporation","Chairman & CEO","Narasimhulu Neelaguru","Owner","Quantum Nations Bank","2017","Cardiologist","n/a"
+"Quantum Capital Corporation","Chairman & CEO","Narasimhulu Neelaguru","Owner","Commerce Cardiology","2017","Cardiologist","n/a"
+"Quantum Capital Corporation","n/a","Bryan Cohen","CEO","Quantum National Bank","2017","President","n/a"
+"Quantum Capital Corporation","n/a","Brad Day","President & COO","Quantum National Bank","2017","n/a","n/a"
+"Quantum Capital Corporation","EVP,"Secretary & CFO"","Dana Litman","EVP,"Secretary","CFO & CRO"","Quantum National Bank","2017","n/a","n/a"
+```

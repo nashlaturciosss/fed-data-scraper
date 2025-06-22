@@ -1,0 +1,35 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Regent Bancorp,"Inc."","New York,"NY"","2014","Basswood Related Interests","Common Stock","287746","9%"
+"Regent Bancorp,"Inc."","New York,"NY"","2014","Basswood Related Interests","Preferred Stock","15408","9%"
+"Regent Bancorp,"Inc."","Fort Lauderdale,"FL"","2014","Cyril S. Spiro","n/a","81446","9%"
+"Regent Bancorp,"Inc."","Boston,"MA"","2014","Ithan Creek Investors USB,"LLC"","Common Stock","287746","9%"
+"Regent Bancorp,"Inc."","Boston,"MA"","2014","Ithan Creek Investors USB,"LLC"","Preferred Stock","15408","9%"
+"Regent Bancorp,"Inc."","New York,"NY"","2014","Consector Partners Master Fund,"LP"","Common Stock","227738","7%"
+"Regent Bancorp,"Inc."","New York,"NY"","2014","Consector Partners Master Fund,"LP"","Preferred Stock","15408","9%"
+"Regent Bancorp,"Inc."","Fulton,"MD"","2014","Bridge Equities III,"LLC"","Common Stock","223564","7%"
+"Regent Bancorp,"Inc."","Fulton,"MD"","2014","Bridge Equities III,"LLC"","Preferred Stock","14007","9%"
+"Regent Bancorp,"Inc."","Berwyn,"PA"","2014","Joel S. Lawson IV","Common Stock","209556","7%"
+"Regent Bancorp,"Inc."","Berwyn,"PA"","2014","Joel S. Lawson IV","Preferred Stock","15408","9%"
+"Regent Bancorp,"Inc."","Franklin Lakes,"NJ"","2014","Richard Jacinto II,"Roth IRA FCC As Custodian"","Preferred Stock","14546","9%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Regent Bancorp,"Inc."","Chairman and Chief Executive Officer","Cyril S. Spiro","n/a","n/a","2014","Chairman and Chief Executive Officer - Regent Bank","1008731"
+"Regent Bancorp,"Inc."","Director","Alfred D. Griffin,"Jr."","President,"Secretary and Director"","Grifs Western,"Inc."","2014","President - Grifs Western,"Inc."","1008731"
+"Regent Bancorp,"Inc."","Director","Thomasina Caporella","Owner","University Centre","2014","Owner - University Centre","1008731"
+"Regent Bancorp,"Inc."","Director","Olin M. Hill,"III"","Owner and President","In-Con Construction Consultants,"Inc."","2014","President - In-Con Construction Consultants,"Inc."","1008731"
+"Regent Bancorp,"Inc."","Director","G. Jean Cerra","n/a","n/a","2014","(Retired) Dean – School of Human Performance and Leisure Sciences - Barry University","1008731"
+"Regent Bancorp,"Inc."","Director","John C. Csapo","Chief Development Officer","The Kolter Group,"LLC"","2014","Chief Development Officer - The Kolter Group,"LLC"","1008731"
+"Regent Bancorp,"Inc."","Director","Irving Rosenbaum","n/a","NCS Realty,"Inc."","2014","Executive Dean for Administration Nova Southeastern University","1008731"
+"Regent Bancorp,"Inc."","Director","Irving Rosenbaum","n/a","New Community Strategies,"Inc."","2014","Executive Dean for Administration Nova Southeastern University","1008731"
+"Regent Bancorp,"Inc."","Director","George D. Town","Vice President","Advanced Insurance Underwriters","2014","Vice President - Advanced Insurance Underwriters","1008731"
+"Regent Bancorp,"Inc."","Director","Barry S. Webber","President","Webber,"Hinden","McLean & Arbeiter P.A."","2014","President - Webber,"Hinden","McLean & Arbeiter P.A."","1008731"
+"Regent Bancorp,"Inc."","President and Chief Operating Officer","Neill LeCorgne","n/a","n/a","2014","n/a","1008731"
+"Regent Bancorp,"Inc."","Executive Vice President and Chief Financial Officer","Pamela Joy Owens","n/a","n/a","2014","n/a","1008731"
+"Regent Bancorp,"Inc."","Executive Vice President","James D. Afflerback","n/a","n/a","2014","n/a","1008731"
+"Regent Bancorp,"Inc."","Executive Vice President","Dawn H. Calder","n/a","n/a","2014","n/a","1008731"
+```

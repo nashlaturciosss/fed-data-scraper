@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Servis First Bancshares,"Inc."","New York,"NY"","2016","BlackRock,"Inc."","Common Stock","5001599","9.5%","n/a"
+"Servis First Bancshares,"Inc."","Malvern,"PA"","2016","The Vanguard Group","Common Stock","2942769","5.6%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Servis First Bancshares,"Inc."","President,"Chief Executive Officer and Director"","Thomas A. Broughton III","n/a","n/a","2016","n/a","n/a"
+"Servis First Bancshares,"Inc."","Chairman of the Board","Stanley M. Brock","President of Brock Investment Company","Brock Investment Company","2016","President of Brock Investment Company","n/a"
+"Servis First Bancshares,"Inc."","Director","Michael D. Fuller","President of Double Oak Water Reclamation","Double Oak Water Reclamation","2016","President of Double Oak Water Reclamation","n/a"
+"Servis First Bancshares,"Inc."","Director","James J. Filler","Private investor","n/a","2016","Private investor","n/a"
+"Servis First Bancshares,"Inc."","Director","J. Richard Cashio","Retired - formerly Chief Executive Officer,"Tassco","LLC"","Tassco,"LLC"","2016","Retired - formerly Chief Executive Officer,"Tassco","LLC"","n/a"
+"Servis First Bancshares,"Inc."","Director","Hatton C. V. Smith","President of National Accounts,"Royal Cup Coffee"","Royal Cup Coffee","2016","President of National Accounts,"Royal Cup Coffee"","n/a"
+"Servis First Bancshares,"Inc."","Executive Vice President,"Chief Financial Officer","Treasurer and Secretary"","William M. Foshee","n/a","n/a","2016","n/a","n/a"
+"Servis First Bancshares,"Inc."","Executive Vice President and Chief Operating Officer","Clarence C. Pouncey III","n/a","n/a","2016","n/a","n/a"
+```

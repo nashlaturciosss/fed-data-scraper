@@ -1,0 +1,37 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St. Landry Bancshares,"Inc."","Opelousas,"Louisiana"","2016","Janys H Schexnayder","n/a","9810","5.12%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"Louisiana"","2016","Allen T. Tomlinson","n/a","54846","28.62%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"Louisiana"","2016","Robert S. Tomlinson,"Jr."","n/a","42181","22.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St. Landry Bancshares,"Inc."","Chairman","Michelle R. Poulet","President","n/a","2017","N/A","n/a"
+"St. Landry Bancshares,"Inc."","Director","Robert S. Tomlinson,"Jr."","Chief Information Officer","Robert & Marie Tomlinson Family,"LLC"","2017","N/A","n/a"
+"St. Landry Bancshares,"Inc."","Director","Robert S. Tomlinson,"Jr."","Managing Member","Robert & Marie Tomlinson Family,"LLC"","2017","N/A","n/a"
+"St. Landry Bancshares,"Inc."","Vice Chairman","Allen T. Tomlinson","Managing Member","Tomlinson Realty Co,"LLC"","2017","N/A","n/a"
+"St. Landry Bancshares,"Inc."","Vice Chairman","Allen T. Tomlinson","Managing Member","ATT Realty,"LLC"","2017","N/A","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugene D. Ardoin","Director","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugene D. Ardoin","Retired","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugene D. Ardoin","Business Owner","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugenia L. Bordelon","Housewife","n/a","2017","Housewife","n/a"
+"St. Landry Bancshares,"Inc."","Director","Daniel H. Buller","Retired","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Daniel H. Buller","Medical Doctor","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Frank T. Daly,"Jr."","Retired","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Frank T. Daly,"Jr."","Business Owner","n/a","2017","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Theodore W.H. DeBlanc","Physician","n/a","2017","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Theodore W.H. DeBlanc","Medical Doctor","n/a","2017","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Carolyn G. Jarrell","Educator","n/a","2017","Educator","n/a"
+"St. Landry Bancshares,"Inc."","Director","Carolyn G. Jarrell","Retired","n/a","2017","Educator","n/a"
+"St. Landry Bancshares,"Inc."","Director","Carolyn G. Jarrell","Educator","n/a","2017","Educator","n/a"
+"St. Landry Bancshares,"Inc."","Director","Thomas P. LaHaye","Physician","n/a","2017","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Thomas P. LaHaye","Retired","n/a","2017","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Thomas P. LaHaye","Medical Doctor","n/a","2017","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Edward Kurtz","Private Investor","n/a","2017","Private Investor","n/a"
+"St. Landry Bancshares,"Inc."","Director","Edward Kurtz","Private Investments","n/a","2017","Private Investor","n/a"
+"St. Landry Bancshares,"Inc."","Director","Mary B. Tomlinson","Housewife","n/a","2017","Housewife","n/a"
+"St. Landry Bancshares,"Inc."","Director","Ross S. Tomlinson","Director","n/a","2017","N/A","n/a"
+```

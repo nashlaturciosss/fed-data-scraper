@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Banks,"Inc."","n/a","2022","J. Larry Beasley,"Sr."","Common Stock","124029","11.33%","n/a"
+"Southern National Banks,"Inc."","n/a","2022","Charles S. Hall,"Sr."","Common Stock","116681","10.66%","n/a"
+"Southern National Banks,"Inc."","n/a","2022","James E. Helfrich,"Jr."","Common Stock","111330","10.16%","n/a"
+"Southern National Banks,"Inc."","n/a","2022","Harry H. Bell","Common Stock","139448","12.73%","n/a"
+"Southern National Banks,"Inc."","n/a","2022","David A. Donaldson","Common Stock","116747","10.66%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","Director","Southern National Banks,"Inc."","2022","n/a","n/a"
+"Southern National Banks,"Inc."","President and CEO","Charles S. Hall,"Sr."","Director","Southern National Banks,"Inc."","2022","n/a","n/a"
+"Southern National Banks,"Inc."","Director","James E. Helfrich,"Jr."","n/a","n/a","2022","Certified Public Accountant","n/a"
+"Southern National Banks,"Inc."","Director","Harry H. Bell","n/a","n/a","2022","Business Owner","n/a"
+"Southern National Banks,"Inc."","Director","David A. Donaldson","n/a","n/a","2022","Real Estate Developer","n/a"
+```

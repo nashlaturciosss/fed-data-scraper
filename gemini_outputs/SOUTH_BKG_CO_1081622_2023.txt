@@ -1,0 +1,21 @@
+Here are the requested CSV tables in plain text format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","President,"Treasurer"","Paul T Bennett","Chairman of Board","Pineland Bank","2023","Banking","n/a"
+"South Banking Company","President,"Treasurer"","Paul T Bennett","Chairman of Board & President","Peoples Bank","2023","Banking","n/a"
+"South Banking Company","President,"Treasurer"","Paul T Bennett","Chairman of Board & President","South Georgia Bankshares","2023","Banking","n/a"
+"South Banking Company","Executive Vice President & Secretary","Lawrence Bennett","Vice Chairman of Board","Pineland Bank","2023","Banking","n/a"
+"South Banking Company","Executive Vice President & Secretary","Lawrence Bennett","Director","Peoples Bank","2023","Banking","n/a"
+"South Banking Company","Executive Vice President & Secretary","Lawrence Bennett","Director","South Georgia Bankshares","2023","Banking","n/a"
+"South Banking Company","Director","Al D Ross","Director and President/CEO","Pineland Bank","2023","Banking","n/a"
+"South Banking Company","Director","James Stephen Tuten,"III"","Director and Executive Vice President","Pineland Bank","2023","Banking","n/a"
+"South Banking Company","Director","Harry Keith Bennett","Director","Pineland Bank","2023","Blueberry Farmer","n/a"
+"South Banking Company","Director","Thomas Valene Bennett","Director and CCO","Pineland Bank","2023","Banking","n/a"
+"South Banking Company","Director","Thomas Valene Bennett","President","SBA Grows LLC","2023","Banking","n/a"
+"South Banking Company","Director","Lorie Hyers","Director and IS Officer","Pineland Bank","2023","Banking","n/a"
+```

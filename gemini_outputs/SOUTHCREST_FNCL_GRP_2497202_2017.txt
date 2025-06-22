@@ -1,0 +1,33 @@
+"Here are the two requested CSV tables","based on the extracted text from the provided document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Rancho SanteFe,"CA"","2017","Castle Creek Capital Partners V,"LP"","n/a","505000","7.77%","n/a"
+"SouthCrest Financial Group,"Inc."","Arlington,"VA"","2017","Investment Vehicles Advised by EJF Capital","n/a","505000","7.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Crest Financial Group,"Inc."","Director,"Chairman"","Joan Cravey","N/A","N/A","2017","N/A","2497202"
+"South Crest Financial Group,"Inc."","Director","Robert D. Baker","President","Duffey Southeast,"Inc."","2017","Construction Company Owner","2497202"
+"South Crest Financial Group,"Inc."","Director","Robert D. Baker","Owner","Spring Farm,"LLC"","2017","Construction Company Owner","2497202"
+"South Crest Financial Group,"Inc."","Director","Robert D. Baker","President","Three Rivers Resort,"Inc."","2017","Construction Company Owner","2497202"
+"South Crest Financial Group,"Inc."","Director","Michael D. McRae","Attorney","McRae,"Smith","Peek","Harman","& Monroe","LLP"","2017","Attorney","2497202"
+"South Crest Financial Group,"Inc."","Director","Michael D. McRae","Director & Secretary","Pinetree Properties","2017","Attorney","2497202"
+"South Crest Financial Group,"Inc."","Director","Michael D. McRae","N/A","McRae Family Limited Partnership","2017","Attorney","2497202"
+"South Crest Financial Group,"Inc."","Director","Michael D. McRae","N/A","MSP Partners,"LLC"","2017","Attorney","2497202"
+"South Crest Financial Group,"Inc."","Director","Michael D. McRae","N/A","Seven Springs,"LLC"","2017","Attorney","2497202"
+"South Crest Financial Group,"Inc."","Director","Tony Scavuzzo","Principal","Castle Creek Capital","2017","Investments","2497202"
+"South Crest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","Owner","Wyatt Realty Company","2017","Real Estate","2497202"
+"South Crest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","Owner","Wyatt Capital,"LLC"","2017","Real Estate","2497202"
+"South Crest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","Member","Wyatt Investment Group,"Inc."","2017","Real Estate","2497202"
+"South Crest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","General Partner","SWH Wyatt 2060 DH,"LLC"","2017","Real Estate","2497202"
+"South Crest Financial Group,"Inc."","Director","Daniel G. Broos","General Partner","SWH Wyatt 1356,"LLC"","2017","Private Equity Investment","2497202"
+"South Crest Financial Group,"Inc."","Director","Daniel G. Broos","Managing Member","Brighton Partners,"LLC"","2017","Private Equity Investment","2497202"
+"South Crest Financial Group,"Inc."","Director","George Hovis","President","Hovis Homes,"Inc."","2017","Real Estate","2497202"
+"South Crest Financial Group,"Inc."","President and Chief Executive Officer","Brian Schmitt","N/A","N/A","2017","N/A","2497202"
+"South Crest Financial Group,"Inc."","Executive VP,"Chief Financial Officer"","David Andrew Borrmann","N/A","N/A","2017","N/A","2497202"
+"South Crest Financial Group,"Inc."","Executive VP,"Chief Accounting Officer"","Rebecca Bell","N/A","N/A","2017","N/A","2497202"
+"South Crest Financial Group,"Inc."","Executive VP,"Chief Credit Officer"","Michael R. Washburn","N/A","N/A","2017","N/A","2497202"
+"South Crest Financial Group,"Inc."","President,"Community Banking Group"","Edmond H. Wilson","N/A","N/A","2017","N/A","2497202"
+```

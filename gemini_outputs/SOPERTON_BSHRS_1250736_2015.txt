@@ -1,0 +1,29 @@
+Here are the requested CSV tables in plain text format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Soperton Bancshares,"Inc."","Soperton,"Georgia"","2015","Jim L. Gillis,"Jr."","Common Stock","2084","5.59%","1250736"
+"Soperton Bancshares,"Inc."","Soperton,"Georgia"","2015","Jim L. Gillis,"III"","Common Stock","5711","15.32%","1250736"
+"Soperton Bancshares,"Inc."","Adel,"Georgia"","2015","Jeanmarie G. Harris","Common Stock","4654","12.49%","1250736"
+"Soperton Bancshares,"Inc."","Ocala,"Florida"","2015","Margaret Lois G. Clardy","Common Stock","4151","11.14%","1250736"
+"Soperton Bancshares,"Inc."","Atlanta,"Georgia"","2015","Kate Felton","Common Stock","3664","9.83%","1250736"
+"Soperton Bancshares,"Inc."","Soperton,"Georgia"","2015","Hugh Gillis,"Jr."","Common Stock","4062","10.90%","1250736"
+"Soperton Bancshares,"Inc."","Dublin,"Georgia"","2015","Donald W. Gillis","Common Stock","3841","10.31%","1250736"
+"Soperton Bancshares,"Inc."","Soperton,"Georgia"","2015","Richard M. Dennard","Common Stock","2754","7.39%","1250736"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Soperton Bancshares,"Inc."","Chairman/Director,"Chairman/Director"","Jim L. Gillis,"Jr."","n/a","n/a","2015","Executive","1250736"
+"Soperton Bancshares,"Inc."","Director Emeritus,"Director Emeritus"","Jim L. Gillis,"III"","n/a","n/a","2015","Executive","1250736"
+"Soperton Bancshares,"Inc."","Director/Secretary,"Director/Secretary"","Donald W. Gillis","Partner","Nelson,"Gillis & Thomas","LLC"","2015","Judge","1250736"
+"Soperton Bancshares,"Inc."","Director,"Director"","Richard Dennard","Owner","Dennard Drugs & Jewelry","2015","Pharmacist","1250736"
+"Soperton Bancshares,"Inc."","Director,"Director"","Richard Dennard","Owner","Dennard True Value Hardware","2015","Pharmacist","1250736"
+"Soperton Bancshares,"Inc."","Director/President,"Director/President/CEO"","Chandler Maurice Beasley,"III"","n/a","n/a","2015","Bank President,"CEO & Director"","1250736"
+"Soperton Bancshares,"Inc."","Director,"Director"","David Roberts","Owner","Chic-fil-a of Dublin","2015","Businessman","1250736"
+"Soperton Bancshares,"Inc."","Director,"Director"","James Mark Burns","n/a","n/a","2015","Retired","1250736"
+"Soperton Bancshares,"Inc."","Director,"Director"","Dennis H. Ingley","Partner","Ingley Moore Paradice & Co LLC","2015","Accountant","1250736"
+"Soperton Bancshares,"Inc."","Principal Shareholder","Margaret Lois G. Clardy","n/a","n/a","2015","Retired","1250736"
+"Soperton Bancshares,"Inc."","Principal Shareholder","Jeanmarie G. Harris","n/a","n/a","2015","Retired","1250736"
+"Soperton Bancshares,"Inc."","Principal Shareholder","Hugh Gillis,"Jr"","Partner","Gillis Ag & Timber","2015","Businessman","1250736"
+```

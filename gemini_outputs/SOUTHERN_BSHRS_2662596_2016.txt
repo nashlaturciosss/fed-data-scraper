@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Bankshares,"Inc."","Statesboro,"GA"","2016","R.A. Dixon Estate","n/a","44122","65.37%"
+"Southern Bankshares,"Inc."","Valdosta,"GA"","2016","George W. Strickland Jr,"QTIP Trust FBO Muriel A. Strickland"","n/a","4700","6.96%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Bankshares,"Inc."","Director","W G Boney","n/a","W G Boney Family Partnership","2016","Retired Owner Boney's Drug Store Pharmacist","n/a"
+"Southern Bankshares,"Inc."","Director","C Wayne Collins","n/a","Donald Fountain/ C Wayne Collins Partnership","2016","Retired EVP & CEO The Claxton Bank","n/a"
+"Southern Bankshares,"Inc."","President","Emmett O Daniel","President","Daniel Inc","2016","President Daniel,"Inc."","n/a"
+"Southern Bankshares,"Inc."","Director","Middleton A Parker","Vice President","Claxton Bakery Inc","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","Middleton A Parker","Vice President","ADMP Enterprises Inc","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","Paul E Parker","Vice President","Claxton Bakery,"Inc"","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","Paul E Parker","Vice President","ADMP Enterprises Inc","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","William Dale Parker","Vice President","Claxton Bakery,"Inc"","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","William Dale Parker","Vice President","ADMP Enterprises,"Inc"","2016","Vice President Claxton Bakery Inc","n/a"
+"Southern Bankshares,"Inc."","Director","Aubrey Strickland","n/a","n/a","2016","Retired VP & Cashier The Claxton Bank","n/a"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Pres-Canoochee Vet Assn","Canoochee Veterinary Assoc","2016","President Keith E. Miller DVM P.C.","n/a"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Sec-Treas-MBM-DBA","Claxton Hardware","2016","President Keith E. Miller DVM P.C.","n/a"
+"Southern Bankshares,"Inc."","Director","Jerry Lane","n/a","n/a","2016","President N W Fries Inc","n/a"
+"Southern Bankshares,"Inc."","Director","Tommy Strickland","Partner,"President"","Satilla Mining Inc","2016","Chairman of the Board Evans Concrete,"LLC"","n/a"
+"Southern Bankshares,"Inc."","VP","Marshall R. Thigpen,"Jr."","President","Bulloch Outdoor Adv","2016","Retired CPA Thigpen,"Lanier","Westerfield & Deal CPA Statesboro","GA"","n/a"
+"Southern Bankshares,"Inc."","VP","Marshall R. Thigpen,"Jr."","Sec & CFO","Dixon Mtr Co.","2016","Retired CPA Thigpen,"Lanier","Westerfield & Deal CPA Statesboro","GA"","n/a"
+"Southern Bankshares,"Inc."","Director","Philip Williams","n/a","n/a","2016","President Director The Claxton Bank","n/a"
+```

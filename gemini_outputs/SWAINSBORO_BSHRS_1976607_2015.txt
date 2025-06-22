@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","Patricia A. Ragsdale","n/a","21382","12.57%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","Lori R. Bonds","n/a","418",".25%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","Michael Scott Ragsdale","n/a","515",".30%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","William E. Simmons","n/a","5213","3.07%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","H. E. Simmons","n/a","5000","2.94%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","J. Rufus Youmans,"Jr."","n/a","10000","5.88%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","James R. Youmans,"Jr.","LLLP"","n/a","5800","3.41%","1976607"
+"Swainsboro Bankshares,"Inc."","Swainsboro,"GA"","2015","H. G. Yeomans,"III"","n/a","11033","6.49%","1976607"
+"Swainsboro Bankshares,"Inc."","Lyons,"GA"","2015","Wanda M. Delk","n/a","2572","1.51%","1976607"
+"Swainsboro Bankshares,"Inc."","Lyons,"GA"","2015","Marshall D. Mosley,"Jr."","n/a","10287","6.05%","1976607"
+"Swainsboro Bankshares,"Inc."","Soperton,"GA"","2015","Royce W. Fowler","n/a","11190","6.58%","1976607"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Swainsboro Bankshares,"Inc."","Principal Shareholder","Patricia A. Ragsdale","President","A&R Auto Parts & Supply","2015","A&R Auto Parts & Supply","1976607"
+"Swainsboro Bankshares,"Inc."","Principal Shareholder","Lori R. Bonds","Teacher","n/a","2015","Emanuel County Board of Education","1976607"
+"Swainsboro Bankshares,"Inc."","Principal Shareholder","Michael Scott Ragsdale","Secretary","A&R Auto Parts & Supply","2015","A&R Auto Parts & Supply","1976607"
+"Swainsboro Bankshares,"Inc."","President & Director","W. D.(Denny) Key","Director","Citizens Bk","2015","Retired","1976607"
+"Swainsboro Bankshares,"Inc."","Director","W. E. Simmons","President","Adrian Building Concepts","2015","Modular Buildings","1976607"
+"Swainsboro Bankshares,"Inc."","Director","W. E. Simmons","President","Simmons Mcke nzie,"LLC"","2015","Modular Buildings","1976607"
+"Swainsboro Bankshares,"Inc."","Director","J. Rufus Youmans,"Jr."","Owner","n/a","2015","Investor","1976607"
+"Swainsboro Bankshares,"Inc."","Director","J. Rufus Youmans,"Jr."","Owner","JR Youmans,"Jr. LLLP"","2015","Investor","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Larry J. Parrish","Owner and Pharmacist","Medical Center Pharmacy","2015","Pharmacist and State Representative","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Larry J. Parrish","Owner and Pharmacist","Fordville Realty Co.,"Inc."","2015","Pharmacist and State Representative","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Larry J. Parrish","Owner and Pharmacist","ParTap","2015","Pharmacist and State Representative","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Larry J. Parrish","Owner and Pharmacist","Ohoopee Inv","2015","Pharmacist and State Representative","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Minton D. Hester","Franchise Owner","Hester Foods,"Inc"","2015","Restaurant Owner","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Minton D. Hester","Franchise Owner","Hester Land Co","2015","Restaurant Owner","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Minton D. Hester","Franchise Owner","Hester Prop Inc.","2015","Restaurant Owner","1976607"
+"Swainsboro Bankshares,"Inc."","Director","Milton B. Gray,"Jr."","n/a","n/a","2015","n/a","1976607"
+"Swainsboro Bankshares,"Inc."","Director","R. Jeffery Cannon","n/a","n/a","2015","n/a","1976607"
+```

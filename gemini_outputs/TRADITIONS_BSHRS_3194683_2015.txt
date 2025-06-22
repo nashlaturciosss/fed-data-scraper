@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2015","Tim Compton","Common Stock","65622","5.48%","3194683"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2015","Tim Compton","Options on Common Stock","11900","0.99%","3194683"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2015","Tim Compton","ESOP Trustee - Common Stock","72847","6.08%","3194683"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Traditions Bancshares,"Inc."","Director","Tim Compton","Managing member","Partners Development,"LLC"","2015","Banking","3194683"
+"Traditions Bancshares,"Inc."","Chairman","Tim Compton","Managing member","Partners Development,"LLC"","2015","Banking","3194683"
+"Traditions Bancshares,"Inc."","President","Tim Compton","Managing member","Partners Development,"LLC"","2015","Banking","3194683"
+"Traditions Bancshares,"Inc."","CEO","Tim Compton","Managing member","Partners Development,"LLC"","2015","Banking","3194683"
+"Traditions Bancshares,"Inc."","Director","Jimmy Walker","Owner","Walker Appraisal Services","2015","Real Estate Appraiser","3194683"
+"Traditions Bancshares,"Inc."","Vice Chairman","Jimmy Walker","Owner","Walker Appraisal Services","2015","Real Estate Appraiser","3194683"
+"Traditions Bancshares,"Inc."","Director","Billy Williams","President","B Williams Supply Inc","2015","Building Supplies","3194683"
+"Traditions Bancshares,"Inc."","Secretary","Billy Williams","President","Shoreline Properties LLC","2015","Real estate development","3194683"
+"Traditions Bancshares,"Inc."","n/a","Gary Campbell","Self employed","Lakeside Lands Inc.","2015","Farming","3194683"
+"Traditions Bancshares,"Inc."","Director","Gary Campbell","Self employed","n/a","2015","Farming","3194683"
+"Traditions Bancshares,"Inc."","Director","Melody Basch","Owner","Prestigious Pets","2015","Pet grooming/retail sales","3194683"
+"Traditions Bancshares,"Inc."","Director","Terri Thomas","Judge","State of Alabama","2015","Judge","3194683"
+"Traditions Bancshares,"Inc."","Director","Terri Thomas","Judge","n/a","2015","Attorney","3194683"
+"Traditions Bancshares,"Inc."","Director","Wayne Robertson","Manager","O'Reilly Auto Parts","2015","Retail Auto Parts","3194683"
+"Traditions Bancshares,"Inc."","Treas.","Wayne Robertson","Manager","n/a","2015","Retail Auto Parts","3194683"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Secretary/Treasurer","Bement Hammock Enterprises Inc","2015","Mortician","3194683"
+"Traditions Bancshares,"Inc."","n/a","Faith Hammock","Secretary/Treasurer","n/a","2015","Farming & Cattle","3194683"
+"Traditions Bancshares,"Inc."","Director","Jacquelin Spike","Special Education Coordinator","Marshall County Board of Ed.","2015","Education","3194683"
+"Traditions Bancshares,"Inc."","Director","Wayne Widner","Self Employed","n/a","2015","Farming","3194683"
+"Traditions Bancshares,"Inc."","n/a","Wayne Widner","Self Employed","n/a","2015","Excavation","3194683"
+```

@@ -1,0 +1,28 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2023","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","12.59%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2023","Bobby D. or Anita B. Cook Living Trust","Common Stock","7196","10.40%","n/a"
+"TCB Bancshares,"Inc."","Lexington,"GA"","2023","Marion C. Johnson","Common Stock","5452","7.88%","n/a"
+"TCB Bancshares,"Inc."","Athens,"GA"","2023","Robbie B. Paine & William F. Paine tru","Common Stock","4766","6.89%","n/a"
+"TCB Bancshares,"Inc."","Maxeys,"GA"","2023","Kathryn R. Cabaniss","Common Stock","3988","5.76%","n/a"
+"TCB Bancshares,"Inc."","Colbert,"GA"","2023","Edwin R. Hart,"Jr."","Common Stock","3563","5.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TCB Bancshares,"Inc."","Director","William M. Cabaniss","Director/Secretary to Board","n/a","2023","Retired","n/a"
+"TCB Bancshares,"Inc."","Director","Bobby D. Cook or Anita B. Cook","Lead Director","n/a","2023","Retired","n/a"
+"TCB Bancshares,"Inc."","Director President and CEO Chairman to Board","Michael D. Sale","Director President & CEO","n/a","2023","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Robbie B. Paine Living Trust &","Director","n/a","2023","Retired","n/a"
+"TCB Bancshares,"Inc."","n/a","Charles C. Brooks,"Jr. Entrusted of the Charles C. Brooks","Jr. Living Trust"","n/a","n/a","2023","Retired","n/a"
+"TCB Bancshares,"Inc."","CFO","William D. Tanneberger,"Jr"","CFO","n/a","2023","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Joseph D. Taylor,"Jr"","Managing Director/Partner","The Avenue Wealth Management Group","2023","Investment Advisor","n/a"
+"TCB Bancshares,"Inc."","Director","Jennifer M. Burel","Director Chief Risk Officer","n/a","2023","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Robert D. Cook","Director Senior Loan Officer","n/a","2023","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Scott Beaver","Partner","Arch Partners & Wealth Management","2023","Insurance Advisor","n/a"
+"TCB Bancshares,"Inc."","Director","Russ Moon","Secretary President","Moon Farms & Cattle","2023","Farmer","n/a"
+"TCB Bancshares,"Inc."","Director","Russ Moon","President","Moon Farms Investments,"LLC"","2023","Farmer","n/a"
+"TCB Bancshares,"Inc."","Director","Russ Moon","President","RMF Investments,"LLC"","2023","Farmer","n/a"
+```

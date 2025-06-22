@@ -1,0 +1,33 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Baltimore,"MD"","2021","T. Rowe Price Associates,"Inc."","Voting Common Stock","1790774","13.3%","n/a"
+"Professional Holding Corp.","Greenwich,"CT"","2021","Endeavor Capital Advisors,"Inc."","Voting Common Stock","1115623","8.3%","n/a"
+"Professional Holding Corp.","Arlington,"VA"","2021","EJF Capital","Voting Common Stock","840497","6.3%","n/a"
+"Professional Holding Corp.","n/a","2021","FMR,"LLC"","Voting Common Stock","733912","5.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Chairman,"Director","and President/ CEO"","Daniel Sheehan","n/a","n/a","2021","N/A","n/a"
+"Professional Holding Corp.","Director","Roland DiGasbarro","n/a","Windsor Investments and Affiliated entities","2021","Real Estate Investor","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","Chairman and Director","CFG TopCo GP LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","n/a","BayBoston Managers LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","n/a","BayBoston LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","n/a","BayBoston Capital GP II LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","n/a","BayBoston Capital GP LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","n/a","BayBoston Capital GP III LLC","2021","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Jon Gorney","Chairman Director","First Commonwealth Bank and Corporation","2021","Retired Financial Services","n/a"
+"Professional Holding Corp.","Director","Herbert Martens","Managing Partner","Advent Associates","2021","Investments","n/a"
+"Professional Holding Corp.","Director","Dr. Lawrence Schimmel","Chief Medical Officer","Clinigence Holdings","2021","Physician / Health Care Entrepreneur","n/a"
+"Professional Holding Corp.","Director","Abel Iglesias","Vice Chair - BOD","Doctor's Hospital","2021","N/A","n/a"
+"Professional Holding Corp.","Director","Abel Iglesias","Director","Federal Reserve Bank of Atlanta","2021","N/A","n/a"
+"Professional Holding Corp.","Director","Ava Parker","President","Palm Beach State College","2021","College President","n/a"
+"Professional Holding Corp.","Director","Margaret Blakey","Director","Barrons Funds","2021","Finance Executive","n/a"
+"Professional Holding Corp.","Director","Margaret Blakey","n/a","Triple Five Investment Group","2021","Finance Executive","n/a"
+"Professional Holding Corp.","Director","Norman Edelcup","n/a","n/a","2021","Retired","n/a"
+"Professional Holding Corp.","Chief Accounting Officer","Mary B. Usategui","n/a","n/a","2021","N/A","n/a"
+"Professional Holding Corp.","Secretary","Michael Sontag","Manager","JI Madomica Real Estate LLC","2021","N/A","n/a"
+"Professional Holding Corp.","Secretary","Michael Sontag","President","Michael Sontag Professional Association","2021","N/A","n/a"
+```

@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TRI-STATES BANKSHARES,"INC."","Fort Payne,"AL"","2014","John E. Beck","Class B","1190.000","05.7650%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Lookout Mtn,"GA"","2014","Aubrey Black","Class B","900.000","04.3608%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Trenton,"n/a"","2014","Leisa Cagle","Class B","800.000","03.8763%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Trenton,"GA"","2014","W.Clarence Durham","Class B","3889.686","18.8470%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Trenton,"GA"","2014","Derrell W. Gaddis","Class B","5931.369","28.7394%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Trenton,"GA"","2014","Charles D. Gross","Class B","4127.685","20.0000%","1082898"
+"TRI-STATES BANKSHARES,"INC."","Trenton,"GA"","2014","Jay T. Jones","Class B","3889.686","18.8470%","1082898"
+"TRI-STATES BANKSHARES,"INC."","n/a","2014","Frank Crownover","Class B","3889.686","18.7470%","1082898"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-States Bankshares","Inc\nDirector","Bank of Dade"","John E Beck","n/a","n/a","2014","Self-employed","1082898"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-States Bankshares","Inc\nDirector","Bank of Dade"","Aubrey Black","n/a","n/a","2014","self-employed","1082898"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-States Bankshares","Inc\nDirector","Bank of Dade"","Leisa Cagle","n/a","n/a","2014","Vice President McKee Baker","1082898"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-State Bankshares","Inc\nVice Chairman/Director","Bank of Dade"","W.Clarence Durham","n/a","n/a","2014","Retired","1082898"
+"TRI-STATES BANKSHARES,"INC"","President/Director,"Tri-State Bankshares","Inc\nDirector","Bank of Dade"","Derrell Gaddis","n/a","n/a","2014","Retired","1082898"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-State Bankshares","Inc\nChairman/Director","Bank of Dade"","Charles D.Gross","n/a","n/a","2014","Self-employed","1082898"
+"TRI-STATES BANKSHARES,"INC"","Director,"Tri-State Bankshares","Inc\nDirector","Bank of Dade"","Jay T. Jones","n/a","n/a","2014","Senior Vice Pres. Bank of Dade","1082898"
+```

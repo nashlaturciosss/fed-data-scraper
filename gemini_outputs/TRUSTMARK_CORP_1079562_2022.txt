@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Trustmark Corporation","New York,"New York"","2022","BlackRock,"Inc."","common stock","8628385","14.2%","n/a"
+"Trustmark Corporation","Malvern,"PA"","2022","The Vanguard Group","common stock","6648706","10.9%","n/a"
+"Trustmark Corporation","Jackson,"MS"","2022","The Robert M. Hearin Foundation/The Robert M. Hearin Support Foundation","common stock","3983560","6.5%","n/a"
+"Trustmark Corporation","Austin,"TX"","2022","Dimensional Fund Advisors LP","common stock","3946176","6.5%","n/a"
+"Trustmark Corporation","Atlanta,"GA"","2022","EARNEST Partners,"LLC"","common stock","3689701","6.1%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Trustmark Corporation","Director","Adolphus B. Baker","Director","Cal-Maine Foods,"Inc."","2022","Producer and Distributor of Shell Eggs","n/a"
+"Trustmark Corporation","Director","William A. Brown","Director","Franciscan Missionaries of Our Lady Health System","2022","Beverage Distributor","n/a"
+"Trustmark Corporation","Director","William A. Brown","Director","Hinds Community College Foundation","2022","Beverage Distributor","n/a"
+"Trustmark Corporation","Director","William A. Brown","Director","Mississippi Beverage Association","2022","Beverage Distributor","n/a"
+"Trustmark Corporation","Director","William A. Brown","Director","Pepsi Cola Bottlers Association","2022","Beverage Distributor","n/a"
+"Trustmark Corporation","Director","William A. Brown","Director","Wis-Pak,"Inc"","2022","Beverage Distributor","n/a"
+"Trustmark Corporation","Director","Augustus L. Collins","Independent Director","AFBA 5 Star Life Insurance Company","2022","Job Training,"Development and Management"","n/a"
+"Trustmark Corporation","Director","Augustus L. Collins","Independent Director","Huntington Ingalls Industries","2022","Job Training,"Development and Management"","n/a"
+"Trustmark Corporation","Director","Augustus L. Collins","Director","Mississippi Power Company","2022","Job Training,"Development and Management"","n/a"
+"Trustmark Corporation","Director","Tracy T. Conerly","Manager","n/a","2022","Accounting","n/a"
+"Trustmark Corporation","Director","Duane A. Dewey","President","n/a","2022","n/a","n/a"
+"Trustmark Corporation","Director","Marcelo Eduardo","Dean","Mississippi College School of Business","2022","College Dean","n/a"
+"Trustmark Corporation","Director","Marcelo Eduardo","Trustee","Jackson Preparatory School","2022","College Dean","n/a"
+"Trustmark Corporation","Director","J. Clay Hays,"Jr.","M.D."","Partner and President","Jackson Heart Clinic,"PA"","2022","Cardiologist","n/a"
+"Trustmark Corporation","Director and Chairman","Gerard R. Host","Manager","The Luckyday Foundation","2022","n/a","n/a"
+"Trustmark Corporation","Director","Harris V. Morrissette","Trustee","University of Alabama System","2022","Packaged Food and Food Services","n/a"
+"Trustmark Corporation","Lead Director","Richard H. Puckett","President","Mississippi Aviation Service,"LLC"","2022","Distributor of Heavy Earth Moving Equipment","n/a"
+"Trustmark Corporation","Director","William G. Yates III","Director","CWS Insurance Company","2022","Construction","n/a"
+"Trustmark Corporation","Director","William G. Yates III","Director","Mississippi Economic Council","2022","Construction","n/a"
+"Trustmark Corporation","Director","William G. Yates III","Director","New Orleans Branch of the Federal Reserve Bank of Atlanta","2022","Construction","n/a"
+"Trustmark Corporation","Officer","George T. Chambers","n/a","n/a","2022","n/a","n/a"
+"Trustmark Corporation","Treasurer,"Principal Financial Officer"","Thomas C. Owens","n/a","n/a","2022","n/a","n/a"
+"Trustmark Corporation","Secretary","Granville Tate,"Jr."","Manager","The Luckyday Foundation","2022","n/a","n/a"
+"Trustmark Corporation","Secretary","Granville Tate,"Jr."","Director","Purvis Grange Foundation,"Inc."","2022","n/a","n/a"
+```

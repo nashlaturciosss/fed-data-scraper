@@ -1,0 +1,23 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2017","Joe B. Bruce","Common Shares","62471","11.62","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2017","Ben Robertson","Common Shares","90091","16.75","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2017","Leon Shields","Common Shares","35500","6.6","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2017","John Proffitt","Common Shares","27813","5.17","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2017","John W Clabough Jr","Common Shares","26928","5.0","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBBC Bank","Director","Jerry Dean","Director","n/a","2017","Retired","218131"
+"CBBC Bank","Director","Bill Clabough","Director","n/a","2017","Exec of Non Profit","218131"
+"CBBC Bank","Director","Leann Hicks","Director","n/a","2017","Education","218131"
+"CBBC Bank","Director","John Proffitt","Director","n/a","2017","Retired","218131"
+"CBBC Bank","Director","Ben Robertson","Director","n/a","2017","Retired","218131"
+"CBBC Bank","Director","Leon Shields","Director","Insurance","2017","Insurance","218131"
+"CBBC Bank","Secretary and Director","Jim Warren","Secretary and Director","n/a","2017","Retired","218131"
+"CBBC Bank","Vice Chairman Director","Gaynell Lawson","Vice Chairman Director","n/a","2017","Retired","218131"
+"CBBC Bank","Chairman and Director","Robert L. Carroll","Chairman and Director","n/a","2017","Retired","218131"
+"CBBC Bank","Assis Secretary and Director","G. Alvin Grubb","Consultant Director","n/a","2017","Banker","218131"
+"CBBC Bank","n/a","Joe B. Bruce","n/a","n/a","2017","Retired","218131"
+"CBBC Bank","President/CEO Director","Mike Baker","President/CEO Director","n/a","2017","Banker","218131"
+```

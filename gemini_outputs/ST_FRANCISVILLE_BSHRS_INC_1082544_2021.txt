@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St Francisville Bancshares,"Inc."","St. Francisville,"USA"","2021","H. Carter Leak III","n/a","73424","36.61","n/a"
+"St Francisville Bancshares,"Inc."","St. Francisville,"USA"","2021","W. Conville Lemoine","n/a","53201","26.53","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St Francisville Bancshares,"Inc."","Director","H. Carter Leak III","n/a","Catalpa Lane,"LLC"","2021","Bank of St Francisville","n/a"
+"St Francisville Bancshares,"Inc."","Director","H. Carter Leak III","n/a","Hesse & Butterworth LLC","2021","Bank of St Francisville","n/a"
+"St Francisville Bancshares,"Inc."","Director","H. Carter Leak III","n/a","Frank Rosemound LLC","2021","Bank of St Francisville","n/a"
+"St Francisville Bancshares,"Inc."","Director","Michael Hesse","Owner","Hesse & Butterworth LLC","2021","Attorney","n/a"
+"St Francisville Bancshares,"Inc."","Director","Thomas R. Temple,"Jr."","n/a","n/a","2021","Attorney","n/a"
+"St Francisville Bancshares,"Inc."","Director","Mitch Brashier","President","Arthur J Gallagher of LA Inc.","2021","President","n/a"
+"St Francisville Bancshares,"Inc."","Chairman of the Board","W. Conville Lemoine","Chairman of the Board","n/a","2021","Chairman of the Board","n/a"
+"St Francisville Bancshares,"Inc."","Director","Nolan Percy","Owner","Nolan Percy Company","2021","Owner","n/a"
+"St Francisville Bancshares,"Inc."","Director","Susan G. Davis","Owner","Grandmothers Buttons","2021","Owner","n/a"
+"St Francisville Bancshares,"Inc."","Director","James N. Chaffin,"Jr."","Exec VP","n/a","2021","CFO and Exec Vice President","n/a"
+"St Francisville Bancshares,"Inc."","Exec VP","James N. Chaffin,"Jr."","CFO and Exec Vice President","n/a","2021","CFO and Exec Vice President","n/a"
+"St Francisville Bancshares,"Inc."","President & Director","H. Carter Leak,"IV"","n/a","n/a","2021","President","n/a"
+"St Francisville Bancshares,"Inc."","Director","H. Carter Leak,"IV"","n/a","n/a","2021","President","n/a"
+"St Francisville Bancshares,"Inc."","Director","Challie P Daniel","Owner/Manager","Daniel Clinic","2021","Physician","n/a"
+"St Francisville Bancshares,"Inc."","Director","Scott Sanchez","Owner","Discovery Real Estate and Development LLC","2021","Owner","n/a"
+```

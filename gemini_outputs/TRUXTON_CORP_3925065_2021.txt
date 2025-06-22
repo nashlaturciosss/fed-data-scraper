@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Truxton Corporation","n/a","2021","None","n/a","n/a","None","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Truxton Corporation","Director","Howard H Lamar","Attorney/Member","Bass,"Berry & Sims PLC"","2021","Attorney/Member; Bass,"Berry & Sims PLC"","n/a"
+"Truxton Corporation","Director","Louise Bryan","Commissioner","City of Belle Meade","2021","Commissioner; City of Belle Meade","n/a"
+"Truxton Corporation","Director","Matthew A. King","Managing Partner","FCA Venture Partners","2021","Managing Partner,"FCA Venture Partners"","n/a"
+"Truxton Corporation","Director","Gustavus A Puryear IV","General Counsel and Chief Human Resources","Asurion","2021","General Counsel and Chief Human Resources Officer,"Asurion"","n/a"
+"Truxton Corporation","Director","Christopher C. Whitson","Attorney; Partner","Sherrard Roe Voigt & Harbison,"PLC"","2021","Attorney; Partner Sherrard Roe Voigt & Harbison,"PLC"","n/a"
+"Truxton Corporation","Director","Deborah A. McDermott","CEO & President","Standard Media Holdings,"LLC"","2021","CEO & President,"Standard Media Holdings","LLC"","n/a"
+"Truxton Corporation","Director","Jeffrey Buntin Jr.","CEO & President","The Buntin Group","2021","CEO & President,"The Buntin Group"","n/a"
+"Truxton Corporation","Director","V. Larkin Martin","Vice President","The Albemarle Corporation","2021","The Albemarle Corporation","n/a"
+"Truxton Corporation","Director & President & CEO","Thomas S. Stumb","Chairman & Chief Executive Officer","Truxton Trust Co","2021","n/a","n/a"
+"Truxton Corporation","Secretary","J. Overton Colton","Managing Director","Truxton Trust Co","2021","n/a","n/a"
+"Truxton Corporation","n/a","Derrick A. Jones","Managing Director","Truxton Trust Co","2021","n/a","n/a"
+"Truxton Corporation","n/a","Andrew L May","President & Chief Financial Officer","Truxton Trust Co","2021","n/a","n/a"
+"Truxton Corporation","SVP & Controller","Julie M. Marr","n/a","Truxton Trust Co","2021","n/a","n/a"
+```

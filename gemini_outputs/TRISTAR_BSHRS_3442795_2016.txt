@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TriStar BancShares,"Inc"","Nashville,"TN"","2016","Stuart Speyer","Common Stock","130475","14.09%","3442795"
+"TriStar BancShares,"Inc"","Dickson,"TN"","2016","Ted Williams","Common Stock","83300","9.12%","3442795"
+"TriStar BancShares,"Inc"","Dickson,"TN"","2016","Linda Hayes","Stock","52300","5.73%","3442795"
+"TriStar BancShares,"Inc"","Dickson,"TN"","2016","Jerry V. Smith","Common Stock","55847","6.12%","3442795"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TriStar BancShares,"Inc"","Director President and CEO","Ted Williams","Director & President & CEO","Williams Cattle-GP","2016","n/a","3442795"
+"TriStar BancShares,"Inc"","Director President and CEO","Ted Williams","Director & President & CEO","Willams Real Estate-GP","2016","n/a","3442795"
+"TriStar BancShares,"Inc"","Director","Melissa Street","Director","n/a","2016","n/a","3442795"
+"TriStar BancShares,"Inc"","Executive Vice President","Sharon Ferrell","Executive Vice President","n/a","2016","n/a","3442795"
+"TriStar BancShares,"Inc"","Director","Stuart Speyer","Director","n/a","2016","Manufacturing Company Tennsco","3442795"
+"TriStar BancShares,"Inc"","Director","Jerry Smith","Director Chairman (non-employee)","Jerry Smith Attorney at Law Owner","2016","Attorney at Law","3442795"
+"TriStar BancShares,"Inc"","Director","Linda P Hayes","Director","n/a","2016","Retired Teacher","3442795"
+"TriStar BancShares,"Inc"","Director","D. Wilson Overton","Director","D Wilson Overton CPA-owner","2016","CPA","3442795"
+"TriStar BancShares,"Inc"","Director","D. Wilson Overton","Director","Donegan and Overton-GP","2016","CPA","3442795"
+"TriStar BancShares,"Inc"","Director","Paul G. Summers","Director","Summers Farm -GP","2016","Attorney at Law","3442795"
+"TriStar BancShares,"Inc"","Director","Kevin Smith","Director","n/a","2016","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc"","Director","Brian Ragan","Director","n/a","2016","Attorney at Law","3442795"
+"TriStar BancShares,"Inc"","Executive Vice President","Robby Harmon","Executive Vice President","n/a","2016","n/a","3442795"
+"TriStar BancShares,"Inc"","Executive Vice President","Kevin Wilson","Executive Vice President","n/a","2016","n/a","3442795"
+```

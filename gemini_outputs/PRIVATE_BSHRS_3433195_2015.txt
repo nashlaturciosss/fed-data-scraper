@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Private Bancshares,"Inc."","Atlanta,"GA"","2015","Jill K. Jinks","n/a","104412","5.42%","n/a"
+"Private Bancshares,"Inc."","Atlanta,"GA"","2015","John G. Jinks,"Jr."","n/a","104412","5.42%","n/a"
+"Private Bancshares,"Inc."","Atlanta,"GA"","2015","John G. Jinks,"III"","n/a","104412","5.42%","n/a"
+"Private Bancshares,"Inc."","Atlanta,"GA"","2015","Ronald Beerman","n/a","117000","6.07%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Private Bancshares,"Inc."","Director","Joel Arogeti","President & CEO","Kitchens Kelley Gaines PC","2015","Attorney","3433186"
+"Private Bancshares,"Inc."","Director","Marvin Banks,"Jr."","President","M. Banks Realty Partners","2015","Commercial R/E Executive","3433186"
+"Private Bancshares,"Inc."","Director","Ron Beerman","Founder & President","Profitmaster Displays,"Inc."","2015","Marketing Executive","3433186"
+"Private Bancshares,"Inc."","Director","John Lewis","Global Chief Diversity Officer","The Coca Cola Company","2015","Attorney","3433186"
+"Private Bancshares,"Inc."","Director","Adolph Casal","Medical Director of Psychiatry","Children's Healthcare of Atlanta","2015","Child Psychologist","3433186"
+"Private Bancshares,"Inc."","Director,"Chairman & President"","Charlie Crawford","President & CEO","Private Bank of Buckhead","2015","n/a","3433186"
+"Private Bancshares,"Inc."","Director","Bryan Freeman","Founder & President","Habersham Funding,"LLC"","2015","President","3433186"
+"Private Bancshares,"Inc."","n/a","Jim Givan","n/a","n/a","2015","Retired Executive","3433186"
+"Private Bancshares,"Inc."","n/a","Rick Huddleston","n/a","n/a","2015","Retired Executive","3433186"
+"Private Bancshares,"Inc."","n/a","Donny Jackson","n/a","n/a","2015","Retired Executive","3433186"
+"Private Bancshares,"Inc."","Director","Jill Jinks","President & CEO","Insurance House","2015","President & CEO","3433186"
+"Private Bancshares,"Inc."","Director","Jeff Lemming","Managing Partner","Caldwell Partners","2015","Executive Recruiter","3433186"
+```

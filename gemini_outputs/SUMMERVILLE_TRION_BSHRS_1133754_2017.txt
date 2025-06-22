@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc."","Summerville,"GA"","2017","L. Sue Hurley","Common stock","21058","35.35%","1133754"
+"Summerville/Trion Bancshares,"Inc."","Rome,"Georgia"","2017","William B. Hurley","Common stock","9559","16.05%","1133754"
+"Summerville/Trion Bancshares,"Inc."","Summerville,"Georgia"","2017","Edward Hurley","Common stock","9552","16.03%","1133754"
+"Summerville/Trion Bancshares,"Inc."","Summerville,"Georgia"","2017","Cynthia S. Hurley-Bowman","Common stock","9613","16.14%","1133754"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc."","Director","William B. Hurley","Director","Hurley Foods","2017","n/a","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","William B. Hurley","Owner","Capital Couture,"LLC"","2017","n/a","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","J. Hoyt Williams","Director","n/a","2017","Retired merchant","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","Edward Hurley","Director","Hurley Foods","2017","Attorney","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","Cynthia S. Hurley-Bowman","Director","Hurley Foods","2017","n/a","1133754"
+"Summerville/Trion Bancshares,"Inc."","President & Director","L. Sue Hurley","Dir. & sec.","Hurley Foods","2017","n/a","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","Bobby Lee Cook","Owner","Cook & Connelly","2017","Attorney","1133754"
+"Summerville/Trion Bancshares,"Inc."","Director","Christopher Sutton Connelly","Employee","Cook & Connelly","2017","Attorney","1133754"
+```

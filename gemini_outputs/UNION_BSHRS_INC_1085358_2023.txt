@@ -1,0 +1,22 @@
+"Here are the two tables extracted from the document","in CSV format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Union BARCShares Inc.","Pell City,"Alabama"","2023","Thomas Reed Alexander","Common Stock","295081","22.38%","467733"
+"Union BARCShares Inc.","Cropwell,"AL"","2023","Reed Alexander","Common Stock","56550","4.29%","467733"
+"Union BARCShares Inc.","Cropwell,"Alabama"","2023","SAL for benefit of Thomas Reed Alexander Sr.","Common Stock","42000","3.19%","467733"
+"Union BARCShares Inc.","Pell City,"Alabama"","2023","Rex V. Alexander","Common Stock","326514","24.76%","467733"
+"Union BARCShares Inc.","Birmingham,"AL"","2023","Rex Alexander","Common Stock","56550","4.29%","467733"
+"Union BARCShares Inc.","Pell City,"alabama"","2023","SAL for benefit of Rex V. Alexander","Common Stock","19490","1.48%","467733"
+"Union BARCShares Inc.","n/a","2023","Others","Common Stock","522311","39.61%","467733"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Union BARCShares Inc.","President,"Director"","Thomas Reed Alexander","CEO & Director","Union State Bank","2023","Banker","467733"
+"Union BARCShares Inc.","President,"Director"","Thomas Reed Alexander","Director","Union State Insurance","2023","Banker","467733"
+"Union BARCShares Inc.","Treasurer,"Director"","Rex V. Alexander","President & Director","Union State Bank","2023","Banker","467733"
+"Union BARCShares Inc.","Treasurer,"Director"","Rex V. Alexander","Director","Union State Insurance","2023","Banker","467733"
+"Union BARCShares Inc.","Director","Patrick S. Burnham","Attorney","Patrick S. (Rick) Burnham Attorney at Law,"LCC"","2023","Attorney","467733"
+"Union BARCShares Inc.","Secretary","Allison Kilgore","n/a","n/a","2023","Banker","467733"
+```

@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"State Bank Financial Corporation","Malvern,"PA"","2017","The Vanguard Group","Common Stock","3136360","8.04%","n/a"
+"State Bank Financial Corporation","San Mateo,"CA"","2017","Franklin Resources,"Inc."","Common Stock","2235360","5.73%","n/a"
+"State Bank Financial Corporation","New York,"NY"","2017","BlackRock Inc.","Common Stock","2121798","5.44%","n/a"
+"State Bank Financial Corporation","Chicago,"IL"","2017","Banc Funds Co. LLC","Common Stock","1701639","4.36%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Chairman","TMG Gases,"Inc."","2017","Chairman of Board,"TMG Gases","Inc."","3384318"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Operating Partner","Council Ventures,"Inc."","2017","Chairman of Board,"TMG Gases","Inc."","3384318"
+"State Bank Financial Corporation","Director","Archie L. Bransford,"Jr."","President","Bransford & Associates,"LLC"","2017","President,"Bransford & Associates","LLC"","3384318"
+"State Bank Financial Corporation","President","Remer Y. Brinson III","n/a","n/a","2017","n/a","3384318"
+"State Bank Financial Corporation","Executive Vice President & Corporate Development Officer","David C. Brown","n/a","n/a","2017","n/a","3384318"
+"State Bank Financial Corporation","Vice Chairman & Executive Risk Officer","Kim M. Childers","Managing Principal","Bankers' Capital Group,"LLC"","2017","n/a","3384318"
+"State Bank Financial Corporation","Chief Operating Officer","David W. Cline","Managing Principal","The Bowman Cline Group LLC","2017","n/a","3384318"
+"State Bank Financial Corporation","Director","Ann Q. Curry","n/a","n/a","2017","Chair & Chief Client Strategist,"Coxe Curry & Associates"","3384318"
+"State Bank Financial Corporation","Enterprise Risk Officer & Executive Vice President","Steven G. Deaton","n/a","n/a","2017","n/a","3384318"
+"State Bank Financial Corporation","Chairman","Joseph W. Evans","Managing Principal","Bankers' Capital Group,"LLC"","2017","n/a","3384318"
+"State Bank Financial Corporation","Chairman","Joseph W. Evans","President & Chief Executive Officer","Rosebub Farm,"Inc."","2017","n/a","3384318"
+"State Bank Financial Corporation","Director","Virginia A. Hepner","Principal Investor","GHL,"LLC"","2017","Retired","3384318"
+"State Bank Financial Corporation","Director","Virginia A. Hepner","Principal Investor","GHL 2,"LLC"","2017","Retired","3384318"
+"State Bank Financial Corporation","Director","John D. Houser","n/a","n/a","2017","Of Counsel,"McNair","McLemore Middlebrooks & Co.","LLC"","3384318"
+"State Bank Financial Corporation","Director","Anne H. Kaiser","n/a","n/a","2017","Vice President of Community and Economic Development,"Georgia Power"","3384318"
+"State Bank Financial Corporation","Director","William D. McKnight","President","Will McKnight Construction Company","2017","President & Chief Executive Officer McKnight Construction Company","3384318"
+"State Bank Financial Corporation","Director","Asif Ramji","n/a","n/a","2017","President & Chief Executive Officer Paymetric,"Inc."","3384318"
+"State Bank Financial Corporation","Chief Financial Officer","Sheila E. Ray","n/a","n/a","2017","n/a","3384318"
+"State Bank Financial Corporation","Director","G. Scott Uzzell","n/a","n/a","2017","President and General Manager of Venturing & Emerging Brands,"a division of The Coca-Cola Company"","3384318"
+"State Bank Financial Corporation","Vice Chairman,"Chief Executive Officer"","J. Thomas Wiley,"Jr."","Managing Principal","Bankers' Capital Group,"LLC"","2017","n/a","3384318"
+"State Bank Financial Corporation","Vice Chairman,"Chief Executive Officer"","J. Thomas Wiley,"Jr."","Member","J.T. Wiley Management,"LLC"","2017","n/a","3384318"
+"State Bank Financial Corporation","Vice Chairman,"Chief Executive Officer"","J. Thomas Wiley,"Jr."","Limited Partner","Kiokee Creek Holdings,"LLLP"","2017","n/a","3384318"
+```

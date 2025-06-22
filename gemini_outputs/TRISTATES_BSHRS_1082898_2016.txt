@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2016","Derrell W. Gaddis","Class B","5931.3645","28.7394%","1082898"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2016","Charles D. Gross","Class B","4127.6845","20.0000%","1082898"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2016","Jay T. Jones","Class B","3889.6845","18.8468%","1082898"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2016","Brenda Poe","Class B","2169.8154","10.5135%","1082898"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2016","W.Clarence Durham","Class B","1719.8691","8.3333%","1082898"
+"Tri-States Bankshares,"Inc."","Fort Payne,"AL"","2016","John E. Beck","Class B","1000.0000","4.8453%","1082898"
+"Tri-States Bankshares,"Inc."","Lookout Mtn,"GA"","2016","Aubrey Black","Class B","1000.0000","4.8453%","1082898"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2016","Leisa Cagle","Class B","800.0000","3.8763%","1082898"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Dade","President/Director,"Tri-State Bankshares","Inc"","Derrell Gaddis","n/a","n/a","2016","Retired","441630"
+"Bank of Dade","Director,"Bank of Dade"","Derrell Gaddis","n/a","n/a","2016","Retired","441630"
+"Bank of Dade","Director,"Tri-State Bankshares","Inc"","Charles D. Gross","n/a","Gross Furniture Center","2016","Self-employed","441630"
+"Bank of Dade","Chairman/Director,"Bank of Dade"","Charles D. Gross","n/a","Gross Furniture Center","2016","Self-employed","441630"
+"Bank of Dade","Director,"Tri-State Bankshares","Inc"","Jay T. Jones","n/a","n/a","2016","Senior Vice Pres. Bank of Dade","441630"
+"Bank of Dade","Director,"Bank of Dade"","Jay T. Jones","n/a","n/a","2016","Senior Vice Pres. Bank of Dade","441630"
+"Bank of Dade","Director,"Tri-States Bankshares","Inc."","Brenda Poe","n/a","n/a","2016","None","441630"
+"Bank of Dade","Director,"Bank of Dade"","Brenda Poe","n/a","n/a","2016","None","441630"
+"Bank of Dade","Director,"Tri-State Bankshares","Inc"","W. Clarence Durham","n/a","n/a","2016","Retired","441630"
+"Bank of Dade","Vice Chairman/Director,"Bank of Dade"","W. Clarence Durham","n/a","n/a","2016","Retired","441630"
+"Bank of Dade","Director,"Tri-States Bankshares. Inc"","John E Beck","n/a","Fort Payne Gun Works,"LLC"","2016","Self-employed","441630"
+"Bank of Dade","Director,"Bank of Dade"","John E Beck","n/a","Fort Payne Gun Works,"LLC"","2016","Self-employed","441630"
+"Bank of Dade","Director,"Tri-States Bankshares. Inc"","John E Beck","n/a","Cube Sauces,"LLC"","2016","Self-employed","441630"
+"Bank of Dade","Director,"Bank of Dade"","John E Beck","n/a","Cube Sauces,"LLC"","2016","Self-employed","441630"
+"Bank of Dade","Director,"Tri-States Bankshares","Inc"","Aubrey Black","n/a","Aubrey Black Const. Inc.","2016","Self-employed","441630"
+"Bank of Dade","Director,"Bank of Dade"","Aubrey Black","n/a","Aubrey Black Const. Inc.","2016","Self-employed","441630"
+"Bank of Dade","Director,"Tri-States Bankshares","Inc"","Aubrey Black","n/a","Ol South Fence,"Inc."","2016","Self-employed","441630"
+"Bank of Dade","Director,"Bank of Dade"","Aubrey Black","n/a","Ol South Fence,"Inc."","2016","Self-employed","441630"
+"Bank of Dade","Director,"Tri-States Bankshares","Inc"","Leisa Cagle","n/a","n/a","2016","Vice President McKee Bakery","441630"
+"Bank of Dade","Director,"Bank of Dade"","Leisa Cagle","n/a","n/a","2016","Vice President McKee Bakery","441630"
+```

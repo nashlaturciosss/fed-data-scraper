@@ -1,0 +1,27 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern States Bancshares,"Inc."","Wedowee,"AL"","2019","Floyd C Davis Sr","Common Stock","671488","9.81%","n/a"
+"Southern States Bancshares,"Inc."","Sausalito,"CA"","2019","Davis Partnership LP","Common Stock","503571","7.36%","n/a"
+"Southern States Bancshares,"Inc."","Arlington,"VA"","2019","EJF Sidecar Fund Series LLC Series E","Common Stock","503571","7.36%","n/a"
+"Southern States Bancshares,"Inc."","Salt Lake City,"UT"","2019","Ithan Creek Investors USB LLC","Common Stock","503571","7.36%","n/a"
+"Southern States Bancshares,"Inc."","Anniston,"AL"","2019","Stephen W. Whatley","Common Stock","396511","5.79%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern States Bancshares,"Inc."","Director","J. Henry Smith","President / Owner","Interstate Sheet Metal Co.,"Inc."","2019","Interstate Sheet Metal Co.,"Inc."","3629420"
+"Southern States Bancshares,"Inc."","Director","Robert F. Davie","President","Davie's School Supply,"Inc."","2019","Davie's School Supply,"Inc."","3629420"
+"Southern States Bancshares,"Inc."","Director","Brent David Hitson","Partner","Burr & Forman,"LLP"","2019","Burr & Forman,"LLP"","3629420"
+"Southern States Bancshares,"Inc."","Director","Brian Stacy Holmes","President","Holmes II Excavation,"Inc."","2019","Holmes II Excavation,"Inc."","3629420"
+"Southern States Bancshares,"Inc."","Director","Jimmy Alan LaFoy","President","LaFoy & Associates,"CPA","PC"","2019","LaFoy & Associates,"CPA","PC"","3629420"
+"Southern States Bancshares,"Inc."","Director","Jay Florey Pumroy","Partner","Wilson,"Dillon","Pumroy & James","LLC"","2019","Wilson,"Dillon","Pumroy & James","LLC"","3629420"
+"Southern States Bancshares,"Inc."","Chairman and CEO","Stephen Woods Whatley","n/a","n/a","2019","n/a","3629420"
+"Southern States Bancshares,"Inc."","Director","Henry A. Turner,"Jr."","n/a","n/a","2019","n/a","3629420"
+"Southern States Bancshares,"Inc."","Director","Lucinda S. Cannon","n/a","n/a","2019","n/a","3629420"
+"Southern States Bancshares,"Inc."","Director","Alfred J. Hayes,"Jr."","n/a","n/a","2019","Retired Banker","3629420"
+"Southern States Bancshares,"Inc."","Director","James J. Lynch","Founding / Managing Partne","Patriot Financial Partners","2019","Patriot Financial Partners","3629420"
+"Southern States Bancshares,"Inc."","Director","Floyd C Davis Sr","Owner","Millworks Sales and Salvage","2019","Millworks Sales and Salvage","3629420"
+"Southern States Bancshares,"Inc."","Director","Lewis Beavers","Managing Partner","Lawrence,"See & Beavers"","2019","Lawrence,"See & Beavers"","3629420"
+```

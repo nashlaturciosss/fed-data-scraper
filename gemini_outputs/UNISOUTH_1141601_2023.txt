@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","308 East 5th Ave.,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","1503 Donnelly,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","American Title Ins. Agency,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","PC Equipment Leasing,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","Canoe Creek Self Storage,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Manager","C Real Estate Properties,"LLC"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","VP","Lowndes,"Drosdick","Doster","Kantor & Reed","Inc."","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director / Chairman of the Board","Clement,"Edward G"","Owner","Summerland Eola Land,"LLLP"","2023","Attorney","n/a"
+"UniSouth,"Inc."","Director","Paul W. Bryan II","Pres.","Bryan Properties,"Inc"","2023","Realtor","n/a"
+"UniSouth,"Inc."","Director","Paul W. Bryan II","Part owner","Piney Island Ferns,"Inc"","2023","Realtor","n/a"
+"UniSouth,"Inc."","Director","Paul W. Bryan II","Managing Member/Owner","B & B Ferns,"LLC"","2023","Realtor","n/a"
+"UniSouth,"Inc."","Director","Paul W. Bryan II","Managing Member/Owner","Tavares Regional Medical Group,"LLC"","2023","Realtor","n/a"
+"UniSouth,"Inc."","Director","Paul W. Bryan II","Managing Partner/Owner","Bryan Rentals","2023","Realtor","n/a"
+"UniSouth,"Inc."","Director","Sean Parks","President & Owner","Parks Consulting Services,"LLC"","2023","County Commissioner","n/a"
+"UniSouth,"Inc."","Director President & CEO","Nelson,"Gregory L."","n/a","n/a","2023","N/A","n/a"
+"UniSouth,"Inc."","Director","Granger,"Robert C","Jr."","Pres.","Granger-Carter Construction & Development,"Inc"","2023","Construction & Development","n/a"
+"UniSouth,"Inc."","Director","Granger,"Robert C","Jr."","Pres.","Ridge Outdoors U.S.A. Inc","2023","Construction & Development","n/a"
+"UniSouth,"Inc."","Director","Granger,"Robert C","Jr."","Pres.","G & C Enterprises of Lake County,"Inc."","2023","Construction & Development","n/a"
+"UniSouth,"Inc."","Director","Andrews,"Daniel M."","Part Owner","Andrews & Miller,"P.A."","2023","Public Accountant","n/a"
+"UniSouth,"Inc."","Director","Andrews,"Daniel M."","Part Owner","Kairos Ventures,"LLC"","2023","Public Accountant","n/a"
+"UniSouth,"Inc."","Director","Andrews,"Daniel M."","Part Owner","Andrews Real Estate Ventures,"LLC"","2023","Public Accountant","n/a"
+"UniSouth,"Inc."","Director","Andrews,"Daniel M."","Part Owner","Kairos Real Estate Ventures,"LLC"","2023","Public Accountant","n/a"
+"UniSouth,"Inc."","Director","Andrews,"Daniel M."","Partner","Crippen & Company","2023","Public Accountant","n/a"
+"UniSouth,"Inc."","Executive VP/CFO/Secretary","Nelson,"Connie C."","n/a","n/a","2023","N/A","n/a"
+"UniSouth,"Inc."","Sr. Executive Vice President","Adrid,"Robert P."","n/a","n/a","2023","N/A","n/a"
+"UniSouth,"Inc."","Senior Vice President","Lewis,"Gregory R."","n/a","n/a","2023","N/A","n/a"
+"UniSouth,"Inc."","Senior Vice President","Stephens,"Michael"","n/a","n/a","2023","N/A","n/a"
+"UniSouth,"Inc."","Senior Vice President","Wonus,"William S."","n/a","n/a","2023","N/A","n/a"
+```

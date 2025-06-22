@@ -1,0 +1,36 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Soperton Bancshares,"Incorporated"","Soperton,"Georgia"","2018","Jim L. Gillis,"III"","Common Stock","7973","16.32%","n/a"
+"Soperton Bancshares,"Incorporated"","Adel,"Georgia"","2018","Jeanmarie G. Harris","Common Stock","5024","10.29%","n/a"
+"Soperton Bancshares,"Incorporated"","Ocala,"Florida"","2018","Margaret Lois G. Clardy","Common Stock","5977","12.24%","n/a"
+"Soperton Bancshares,"Incorporated"","Atlanta,"Georgia"","2018","Kate Felton","Common Stock","5354","10.96%","n/a"
+"Soperton Bancshares,"Incorporated"","Soperton,"Georgia"","2018","Hugh Gillis,"Jr."","Common Stock","5196","10.64%","n/a"
+"Soperton Bancshares,"Incorporated"","Dublin,"Georgia"","2018","Donald W. Gillis","Common Stock","4914","10.06%","n/a"
+"Soperton Bancshares,"Incorporated"","Soperton,"Georgia"","2018","Richard M. Dennard","Common Stock","3708","7.59%","n/a"
+"Soperton Bancshares,"Incorporated"","Soperton,"Georgia"","2018","Jim L. Gillis,"Jr"","Common Stock","2666","5.46%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Soperton Bancshares,"Incorporated"","Director Emeritus","Jim L. Gillis,"III"","n/a","n/a","2018","Retired","n/a"
+"Soperton Bancshares,"Incorporated"","Director/Secretary","Donald W. Gillis","Partner","Nelson,"Gillis & Thomas","LLC"","2018","Judge","n/a"
+"Soperton Bancshares,"Incorporated"","Director/Chairman of the Board","Richard M. Dennard","Owner","Dennard Drugs & Jewelry","2018","Pharmacist","n/a"
+"Soperton Bancshares,"Incorporated"","Director/Chairman of the Board","Richard M. Dennard","Owner","Dennard True Value Hardware","2018","Pharmacist","n/a"
+"Soperton Bancshares,"Incorporated"","Director/President","Chandler Maurice Beasley,"III"","n/a","n/a","2018","Bank President,"CEO & Director"","n/a"
+"Soperton Bancshares,"Incorporated"","Director","David Roberts","Owner","Chick-fil-a of Dublin","2018","Businessman","n/a"
+"Soperton Bancshares,"Incorporated"","Director","James Mark Burns","n/a","n/a","2018","Retired","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Dennis H. Ingley","Partner","Ingley Moore Paradice & Co LLC","2018","Accountant","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Margaret Lois G. Clardy","n/a","n/a","2018","Retired","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","HAMUND Investment LLC","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","Dental Center of Vidalia","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","Dental Center of Baxley","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","Dental Center of St Simons","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","Dental Center of Ga","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Partner","KMH Landholdings LLC","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Director","Stewart Ashley Hamilton","Owner","Stewart Ashley Hamilton DMD PC","2018","Dentist","n/a"
+"Soperton Bancshares,"Incorporated"","Principal Shareholder","Jeanmarie G. Harris","n/a","n/a","2018","Retired","n/a"
+"Soperton Bancshares,"Incorporated"","Principal Shareholder","Hugh Gillis,"Jr."","Partner","Gillis Ag & Timber","2018","Businessman","n/a"
+"Soperton Bancshares,"Incorporated"","Principal Shareholder","Kate Felton","Owner","Felton Forestry,"Inc."","2018","Businesswoman","n/a"
+```

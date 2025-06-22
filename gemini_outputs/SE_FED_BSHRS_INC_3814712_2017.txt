@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2017","C.Don Thompson","Common Stock","36412","34.6540%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2017","C. Todd Thompson","Common Stock","3912","3.7232%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2017","Kathryn O'Rear","Common Stock","7500","7.1379%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2017","Joel C. Thompson","Common Stock","8163","7.7689%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2017","H. Douglas Farris","Common Stock","6726","6.4011%","n/a"
+"Se-Fed Bancshares,"Inc."","Panama City,"FL"","2017","John H. Drummond Jr.","Common Stock","5250","4.9965%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Chairman & VP","C. Don Thompson","General Partner","TATT Holdings LLC.","2017","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","General Partner","TATT Holdings LLC.","2017","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director","H. Douglas Farris","Judge","n/a","2017","Judge","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Linda Rosser","n/a","n/a","2017","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","n/a","n/a","2017","Business Owner","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Jeffrey Grice","n/a","n/a","2017","Insurance Agency Owner","n/a"
+"Se-Fed Bancshares,"Inc."","VP","Jana Webster","n/a","n/a","2017","n/a","n/a"
+```

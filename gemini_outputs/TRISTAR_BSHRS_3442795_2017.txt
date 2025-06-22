@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TriStar BancShares,"Inc."","Nashville,"TN"","2017","Stuart Speyer","Common Stock","130475","14.29%","3442795"
+"TriStar BancShares,"Inc."","Dickson,"TN"","2017","Ted Williams","Common Stock","82777","9.07%","3442795"
+"TriStar BancShares,"Inc."","Dickson,"TN"","2017","Linda Hayes","Stock","52300","5.73%","3442795"
+"TriStar BancShares,"Inc."","Dickson,"TN"","2017","Jerry V. Smith","Common Stock","57431","6.29%","3442795"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TriStar BancShares,"Inc."","Director\nPresident and CEO","Ted Williams","Director & President & CEO","n/a","2017","n/a","3442795"
+"TriStar BancShares,"Inc."","Director","Melissa Street","n/a","n/a","2017","n/a","3442795"
+"TriStar BancShares,"Inc."","Executive Vice President","Sharon Ferrell","n/a","n/a","2017","n/a","3442795"
+"TriStar BancShares,"Inc."","Director","Stuart Speyer","n/a","Tennsco LLC","2017","Manufacturing Company Tennsco","3442795"
+"TriStar BancShares,"Inc."","Director\nChairman (non employee)","Jerry Smith","n/a","Jerry Smith Attorney at Law","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director\nChairman (non employee)","Jerry Smith","n/a","Legg- Wolcott Smith Property","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director","Linda P Hayes","n/a","n/a","2017","Retired Teacher","3442795"
+"TriStar BancShares,"Inc."","Director","D. Wilson Overton","D Wilson Overton CPA-owner","Donegan and Overton-GP","2017","CPA","3442795"
+"TriStar BancShares,"Inc."","Director","Paul G. Summers","n/a","n/a","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director","Kevin Smith","n/a","Benefits Inc","2017","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc."","Director","Kevin Smith","n/a","Morrison,"Fuson","Smith","White","Benefits Inc"","2017","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc."","Director","Kevin Smith","n/a","Innovative Benefits Group LLC","2017","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc."","Director","Kevin Smith","n/a","Weiss,"Smith and White GP"","2017","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc."","Director","Kevin Smith","n/a","W&W Properties","2017","Benefits Consultant","3442795"
+"TriStar BancShares,"Inc."","Director","Brian Ragan","n/a","Reynolds,"Potter","Ragan & Vandivort"","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director","Brian Ragan","n/a","RPRV Real Estate Partnership","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director","Brian Ragan","n/a","Ragan Brothers,"a Tennessee GP"","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Director","Brian Ragan","n/a","Merchants of East Hills,"a Tennessee GP"","2017","Attorney at Law","3442795"
+"TriStar BancShares,"Inc."","Executive Vice President","Robby Harmon","Chief Manager,","WHR Properties,"LLC"","2017","n/a","3442795"
+"TriStar BancShares,"Inc."","Executive Vice President","Kevin Wilson","n/a","n/a","2017","n/a","3442795"
+```

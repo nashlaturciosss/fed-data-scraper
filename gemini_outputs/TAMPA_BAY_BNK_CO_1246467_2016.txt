@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","James L. Ferman,"Jr."","Common Stock","266642","11.28%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","WRB Enterprises,"Inc."","Common Stock","228106","9.65%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","G. Robert Blanchard,"Jr."","Common Stock","228106","9.65%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","180108","7.62%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","A. Gerald Divers","Common Stock","139969","5.92%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2016","A. Gerald Divers","Options on Common Stock","3500","6.06%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Vice Chairman,"Chairman"","A. Gerald Divers","Banker (Retired 12/31/2016)","n/a","2016","Retired 12/31/2016","n/a"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2016","President - WRB Enterprises,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","CEO","Celestar Corporation","2016","CEO - Celestar Corporation","n/a"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2016","President & CEO - Clinical Consulting Solutions","n/a"
+"Tampa Bay Banking Company","Director","Luis Garcia","Senior Partner (CPA)","Garcia & Ortiz,"PA"","2016","Senior Partner (CPA) - Garcia & Ortiz,"PA"","n/a"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2016","CEO - Harrod Properties,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2016","President - Sun State International Trucks,"LLC"","n/a"
+"Tampa Bay Banking Company","Director","A.D. MacKinnon","CEO","ADM Ventures,"Inc. DBA MacKinnon Equipment and Services"","2016","CEO - ADM Ventures,"Inc. DBA MacKinnon Equipment and Services"","n/a"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","Retired","n/a","2016","Retired","n/a"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","CEO","Seabreeze Holdings Inc.","2016","CEO - Seabreeze Holdings Inc.","n/a"
+"Tampa Bay Banking Company","President/CEO","William O. West III","Banker","n/a","2016","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CFO","Richard L. Junkermann","Banker","n/a","2016","Banker","n/a"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Banker","n/a","2016","Banker","n/a"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","CEO & President - Ferman Motor Car Company","Ferman Motor Car Company","2016","CEO & President - Ferman Motor Car Company","n/a"
+```

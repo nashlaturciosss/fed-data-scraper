@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2020","Edgar E. Chapman,"Jr."","Common Stock","101","50.2488%","577230"
+"TSB Bancorp,"Inc."","Senoia,"GA"","2020","Samuel P. Chapman","Common Stock","25","12.4378%","577230"
+"TSB Bancorp,"Inc."","O'Fallon,"MO"","2020","Edgar Wright Chapman","Common Stock","25","12.4378%","577230"
+"TSB Bancorp,"Inc."","Dothan,"AL"","2020","Barbara C. Haas","Common Stock","25","12.4378%","577230"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2020","Mary C. Chapman","Common Stock","25","12.4378%","577230"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TSB Bancorp,"Inc."","Chairman of the Board,"CEO & President","Sr Executive Officer","Sr Executive Loan Officer","Investment Officer"","Edgar E. Chapman,"Jr."","n/a","n/a","2020","n/a","577230"
+"TSB Bancorp,"Inc."","Director,"Vice Chairman & Vice President","Director","Acting Chairman of the Board & Acting CEO"","James T. Davidson","n/a","n/a","2020","n/a","577230"
+"TSB Bancorp,"Inc."","Director & Secretary/Treasurer,"Director & President"","Kenneth Chapman","n/a","n/a","2020","n/a","577230"
+"TSB Bancorp,"Inc."","Director","Darrell Moore","n/a","n/a","2020","Retired","577230"
+"TSB Bancorp,"Inc."","n/a","Samuel P. Chapman","n/a","n/a","2020","Real Estate Agent","577230"
+"TSB Bancorp,"Inc."","Director","Nancy T. Miles","n/a","n/a","2020","Retired","577230"
+"TSB Bancorp,"Inc."","n/a","Edgar Wright Chapman","n/a","n/a","2020","Electrical Engineer","577230"
+"TSB Bancorp,"Inc."","n/a","Barbara C. Haas","n/a","n/a","2020","Student/Homemaker","577230"
+"TSB Bancorp,"Inc."","Director","Mary C. Chapman","n/a","n/a","2020","n/a","577230"
+```

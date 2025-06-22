@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Financial,"Inc"","Tuscaloosa,"AL"","2018","Robert W. Poellnitz,"Jr."","n/a","154768","27.187%","n/a"
+"Southeastern Financial,"Inc"","Tuscaloosa,"AL"","2018","Lehman Pendley","n/a","100194","17.601%","n/a"
+"Southeastern Financial,"Inc"","Tuscaloosa,"AL"","2018","H. Chester Boston,"Jr."","n/a","54290","9.537%","n/a"
+"Southeastern Financial,"Inc"","Tuscaloosa,"AL"","2018","Poellnitz Family Trust","n/a","53235","9.352%","n/a"
+"Southeastern Financial,"Inc"","Tuscaloosa,"AL"","2018","James Walburn","n/a","35749","6.280%","n/a"
+"Southeastern Financial,"Inc"","Birmingham,"AL"","2018","D Walburn Revoc Trust","n/a","30000","5.270%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Financial,"Inc"","Chairman","Robert W. Poellnitz,"Jr."","Chairman","First Federal Bank","2018","Insurance","n/a"
+"Southeastern Financial,"Inc"","Chairman","Robert W. Poellnitz,"Jr as Trustee for"","Chairman","First Federal Bank","2018","Insurance","n/a"
+"Southeastern Financial,"Inc"","Director,"President"","Charles G. Wolbach,"Jr."","Director,"President"","First Federal Bank","2018","Banker","n/a"
+"Southeastern Financial,"Inc"","SR VP","H. Kelley Ouzts","n/a","First Federal Bank","2018","Banker","n/a"
+"Southeastern Financial,"Inc"","Director","Robert Earl Stewart","n/a","n/a","2018","College Administrator","n/a"
+"Southeastern Financial,"Inc"","Director","James H. Walburn","n/a","n/a","2018","Retired Physician","n/a"
+"Southeastern Financial,"Inc"","Director","H. Chester Boston,"Jr."","n/a","n/a","2018","Physician","n/a"
+"Southeastern Financial,"Inc"","Director","Lehman Pendley","n/a","n/a","2018","Retired Business Owner","n/a"
+```

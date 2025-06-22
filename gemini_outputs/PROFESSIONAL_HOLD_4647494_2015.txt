@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Boston,"MA"","2015","Bay Boston Capital,"L.P."","Voting Common Stock","339073","9.66%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2015","Mendon Capital Master Fund","Voting Common","264900","7.55%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2015","Mendon Capital Master Fund","Voting Common","39735","1.13%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2015","Mendon Capital Master Fund","Voting Common","34438","0.98%","n/a"
+"Professional Holding Corp.","Amsterdam,"Netherlands"","2015","De Linea CSV","Voting Common Stock","339000","9.66%","n/a"
+"Professional Holding Corp.","Columbus,"OH"","2015","David Belford","Voting Common Stock","185500","5.28%","n/a"
+"Professional Holding Corp.","Miami,"FL"","2015","General Capital Holdings LLC","n/a","113000","5.23%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO"","Daniel Sheehan","Senior Managing Director","Cohen Financial","2015","Investment Banker","n/a"
+"Professional Holding Corp.","Director","Leslie Adler","Partner","Binstock,"Rubin","Adler","Aldecoa & Ellzey","P.A."","2015","Certified Public Accountant","n/a"
+"Professional Holding Corp.","Director","Roland DiGasbarro","Principal & Founder","Windsor Capital Corporation","2015","Commercial Real Estate Investor","n/a"
+"Professional Holding Corp.","Director","Roland DiGasbarro","Principal & Founder","Windsor Wynwood Inc.","2015","Commercial Real Estate Investor","n/a"
+"Professional Holding Corp.","Director","Roland DiGasbarro","Principal & Founder","Windsor Investments Wynwood II,"Inc."","2015","Commercial Real Estate Investor","n/a"
+"Professional Holding Corp.","Director","Roland DiGasbarro","Principal & Founder","Windsor Investments CR LLC","2015","Commercial Real Estate Investor","n/a"
+"Professional Holding Corp.","Director","Carlos Garcia","Managing Partner & CEO","Bay Boston Capital L.P.","2015","Investor","n/a"
+"Professional Holding Corp.","Director","Herbert Martens","Managing Partner","Advent Associates","2015","Businessman; Retired Bank Executive","n/a"
+"Professional Holding Corp.","Director","Lawrence Schimmel","Chairman","Qualmetrix,"Inc."","2015","Physician","n/a"
+"Professional Holding Corp.","Director","Lawrence Schimmel","Managing Member","Allied Health Advisors,"LLC"","2015","Physician","n/a"
+"Professional Holding Corp.","Director","Anton Schutz","Portfolio Manager","Mendon Capital Master Fund LTD","2015","Executive","n/a"
+"Professional Holding Corp.","Director","Anton Schutz","Portfolio Manager","Mendon Capital QP Fund LP","2015","Executive","n/a"
+"Professional Holding Corp.","Director","Anton Schutz","Portfolio Manager","Iron Road Multi-Strategy Fund LP","2015","Executive","n/a"
+"Professional Holding Corp.","Director","Stanley Shapiro","Director/Consultant","Superior Vision Services","2015","Executive; Consultant","n/a"
+"Professional Holding Corp.","Director","Chad Tendrich","Owner","Daddy Opon Holding Co","2015","ACLF Owner and manager","n/a"
+"Professional Holding Corp.","Director","Chad Tendrich","Owner","Kasey LLC","2015","ACLF Owner and manager","n/a"
+"Professional Holding Corp.","Director","Chad Tendrich","Owner","Dr. Corn LLC","2015","ACLF Owner and manager","n/a"
+"Professional Holding Corp.","Director","Raul Valdes-Fauli","n/a","n/a","2015","n/a","n/a"
+"Professional Holding Corp.","n/a","Abel Iglesias","n/a","n/a","2015","n/a","n/a"
+"Professional Holding Corp.","n/a","Daniel Martinez","n/a","n/a","2015","n/a","n/a"
+"Professional Holding Corp.","Assistant Secretary","Larry Goldberg","n/a","n/a","2015","n/a","n/a"
+"Professional Holding Corp.","Secretary","Mary Benevente","n/a","n/a","2015","n/a","n/a"
+```

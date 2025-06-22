@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"RiverHills Capital Corporation","Port Gibson,"MS"","2018","Robert D. Gage IV","Common Stock","37980","9.58%","1082786"
+"RiverHills Capital Corporation","Port Gibson,"MS"","2018","Jacquelyn S. Gage","Common Stock","17944","4.53%","1082786"
+"RiverHills Capital Corporation","Jackson,"MS"","2018","William M. Gage","Common Stock","42377","10.69%","1082786"
+"RiverHills Capital Corporation","Cincinnati,"OH"","2018","Terry Gage Quinn","Common Stock","41240","10.40%","1082786"
+"RiverHills Capital Corporation","North Charleston,"SC"","2018","Ann McConaughy Baker","Common Stock","23780","6.00%","1082786"
+"RiverHills Capital Corporation","Port Gibson,"MS"","2018","Isabella Myles Person Trust","Common Stock","25820","6.51%","1082786"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"RiverHills Capital Corporation","Director","James O. Carpenter","n/a","n/a","2018","Farmer","1082786"
+"RiverHills Capital Corporation","Director","Robert Cowart","n/a","n/a","2018","Contractor","1082786"
+"RiverHills Capital Corporation","Director","Daniel P. Edney,"MD"","n/a","n/a","2018","Physician","1082786"
+"RiverHills Capital Corporation","Director Board Chairman","Howell N. Gage,"Jr."","Board Chairman","n/a","2018","Retired","1082786"
+"RiverHills Capital Corporation","Director CEO","Robert D. Gage,"IV"","CEO","n/a","2018","Banker","1082786"
+"RiverHills Capital Corporation","Director","William B. Hopson,"Jr.","MD"","n/a","n/a","2018","Physician","1082786"
+"RiverHills Capital Corporation","Director President","Joel H. Horton","President","n/a","2018","Banker","1082786"
+"RiverHills Capital Corporation","Director","J. W. Person,"111"","Director","n/a","2018","Real Estate and Securities Investor","1082786"
+"RiverHills Capital Corporation","Director","Frank M. Wilson","Director","n/a","2018","Retired","1082786"
+"RiverHills Capital Corporation","President,"Vicksburg"","Michael S. King","President,"Vicksburg"","n/a","2018","Banker","1082786"
+"RiverHills Capital Corporation","President,"Madison"","Joel B. Neely","President,"Madison"","n/a","2018","Banker","1082786"
+```

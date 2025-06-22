@@ -1,0 +1,25 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Reserve Financial Associates LLC","Columbus,"OH"","2014","Steve Skilken","n/a","428417","42.375%","3488234"
+"Reserve Financial Associates LLC","New York,"NY"","2014","Phil Milstein","n/a","428417","42.375%","3488234"
+"Reserve Financial Associates LLC","Sarasota,"FL"","2014","Zuheir Sofia","n/a","154179","15.250%","3488234"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Reserve Financial Associates LLC","Member","Steve Skilken","n/a","n/a","2014","Real Estate Developer","n/a"
+"Reserve Financial Associates LLC","Member","Phil Milstein","n/a","n/a","2014","Property Management","n/a"
+"Reserve Financial Associates LLC","Managing Member","Zuheir Sofia","Chairman,"President","CEO"","Business Bank of Florida Corp","2014","Financial Advisory","n/a"
+"Business Bank of Florida Corp","n/a","Steve Skilken","n/a","n/a","2014","Real Estate Developer","n/a"
+"Business Bank of Florida Corp","n/a","Phil Milstein","n/a","n/a","2014","Property Management","n/a"
+"Business Bank of Florida Corp","Chairman,"President","CEO"","Zuheir Sofia","n/a","n/a","2014","Financial Advisory","n/a"
+"Business Bank of Florida Corp","President & CEO,"Director"","William R. Norris","n/a","n/a","2014","n/a","n/a"
+"Business Bank of Florida Corp","Director","Andrew C Buckle,"Jr"","Director","Business Bank of Florida Corp","2014","Banker","n/a"
+"Business Bank of Florida Corp","Director","Charles J Frazee","Director","Florida Business Bank","2014","Developer","n/a"
+"Business Bank of Florida Corp","Director","Gary B. Frese","n/a","Frase & Hansen PA","2014","Attorney","n/a"
+"Business Bank of Florida Corp","Director","Gary B. Frese","n/a","Fowler White Boggs","2014","Attorney","n/a"
+"Business Bank of Florida Corp","Director","John P Geroni","n/a","n/a","2014","Developer","n/a"
+"Business Bank of Florida Corp","Director","William A Harr","n/a","Or William Harr DPM PA","2014","Physician","n/a"
+"Business Bank of Florida Corp","Chairman,"Director"","Thomas L Powers","n/a","n/a","2014","Retired","n/a"
+"Business Bank of Florida Corp","Director","Jansen Noyes III","n/a","n/a","2014","Banker","n/a"
+"Business Bank of Florida Corp","Director","Susan Thompson","n/a","n/a","2014","Real Estate","n/a"
+```

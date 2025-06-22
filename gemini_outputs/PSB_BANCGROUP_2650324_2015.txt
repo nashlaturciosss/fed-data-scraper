@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Renny B. Eadie,"III"","Common Stock Held","29100","4.76%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Renny B. Eadie,"III"","Preferred Stock Conversion (If converted)","16665","7.29%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Robert M. Eadie","Common Stock Held","22900","3.75%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Robert M. Eadie","Preferred Stock Conversion (If converted)","8334","5.04%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Garland Kirby","Common Stock Held","31201","5.11%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Garland Kirby","Preferred Stock Conversion (If converted)","8334","6.38%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Robin C. Green","Common Stock Held","666","0.11%","4650324"
+"PSB Bancgroup,"Inc."","Lake City,"USA"","2015","Robin C. Green","Preferred Stock Conversion (If converted)","34125","5.39%","4650324"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PSB Bancgroup,"Inc."","Pres & Chairman,"Director"","Renny B. Eadie,"III"","Chairman","Columbia Ready Mix Concrete,"Inc."","2015","Owner","4650324"
+"PSB Bancgroup,"Inc."","President/CEO,"Director"","Robin C. Green","n/a","n/a","2015","n/a","4650324"
+"PSB Bancgroup,"Inc."","Agent","John W. Burns,"III"","Director","State Farm Insurance Agency","2015","Insurance Agent","4650324"
+"PSB Bancgroup,"Inc."","Owner","Robert M. Eadie","Director","Lake City Industries,"Inc."","2015","Owner","4650324"
+"PSB Bancgroup,"Inc."","Office Manager","Shilpa U. Mhatre","Director","n/a","2015","Medical Practice","4650324"
+```

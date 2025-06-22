@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville Bancshares,"Inc"","Thomasville,"GA"","2023","Stephen H. Cheney","Voting Securities","314948","4.99%","n/a"
+"Thomasville Bancshares,"Inc"","Thomasville,"GA"","2023","Richard L. Singletary","Voting Securities","353208","5.60%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville Bancshares,"Inc"","President","Charles A Balfour","Director","Balfour Timber Co.,"Inc."","2023","Director","n/a"
+"Thomasville Bancshares,"Inc"","EVP","Joel W. Barrett","Director & EVP","n/a","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","CEO","Stephen H Cheney","Chairman & CEO","n/a","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","President","David A. Cone","Director/Vice Chairn","Cone Machinery,"Inc."","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Nephrologist","Daryl Crenshaw","Director","Nephrology Consultants,"Inc."","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Owner/Broker","Mills Herndon","Director","Cumbest Mill,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Owner/Broker","Mills Herndon","Director","BLVD Acquisition,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","President","Charles H. Hodges,"III"","Director & EVP","n/a","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","President","Randall L. Moore","Director","Moore & Porter Produce Brokers","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Tallahasse Homes,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Manassas Homes,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Tallahasse Homes Realty,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Tallahasse Homes Residential,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Dahlgren Homes,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Pedrick Homes,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Developer/Investor","Richard L Singletary,"Jr."","Lead Independent [ Director:","Oak Grove Hammock,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","Owner/Manager","Haile McCollum","Director","Fontaine Maury,"LLC"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","President/CEO","Dale R. Powell,"Jr."","Director","Senior Life Insurance Co.","2023","Attorney","n/a"
+"Thomasville Bancshares,"Inc"","Attorney","Clay Sewell","Director","Glasgow Farms,"LP"","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","President","Van Champion","Director","Childers Construction Co.","2023","n/a","n/a"
+"Thomasville Bancshares,"Inc"","EVP/CFO","Hollie W. Lloyd","CFO","n/a","2023","n/a","n/a"
+```

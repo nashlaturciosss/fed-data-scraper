@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2019","Stephen Panepinto","Common Stock","24344","44.8448%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2019","Frances D. Durand","Common Stock","4000","7.3685%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2019","Joseph D. Weldon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bank & Trust Company","Calabasa,"CA"","2019","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2019","M/M J. D. Weldon","Common Stock","2371","4.3677%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bank & Trust Company","Director","Frances D. Durand","Managing Partner","Durand Property LLC","2019","Owner of Durand Property LLC","n/a"
+"Plaquemine Bank & Trust Company","Director & Secretary","G.W. Banta","President","J.W. Banta Towing","2019","Owner of J.W. Banta Towing,"Inc."","n/a"
+"Plaquemine Bank & Trust Company","Director & Secretary","G.W. Banta","Secretary and Treasurer","Plaquemine Towing","2019","Owner of J.W. Banta Towing,"Inc."","n/a"
+"Plaquemine Bank & Trust Company","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2019","Retired","n/a"
+"Plaquemine Bank & Trust Company","Director","Kenneth C. Caruso","n/a","n/a","2019","Managing Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Harry J Philips,"Jr."","n/a","n/a","2019","Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Leo D Sternfels","n/a","n/a","2019","President of Service Mortgage Co.","n/a"
+"Plaquemine Bank & Trust Company","Director & Chairman/ President/CEO","Stephen Panepinto","n/a","n/a","2019","Director & Chairman/ President/CEO","n/a"
+"Plaquemine Bank & Trust Company","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2019","Sr. Vice President,"CFO & Cashier"","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Caroline B. Causin","n/a","n/a","2019","Vice President","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Elizabeth Rivet","n/a","n/a","2019","Vice President","n/a"
+"Plaquemine Bank & Trust Company","Asst. Vice President","Rhett Vaughn","n/a","n/a","2019","Assistant Vice President","n/a"
+```

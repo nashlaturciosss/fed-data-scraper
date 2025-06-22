@@ -1,0 +1,19 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","RICARDO ROSSI","n/a","290927","34.89","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","ADOLFO HENRIQUEZ","n/a","110313","13.20","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","EPIFANIO GIALORENZO","n/a","64243","7.68","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","FABRICIO MACASTROPA","n/a","58078","6.95","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","EDUARDO UZCATEGUI","n/a","58078","6.95","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2022","DIEGO OVIEDO","n/a","55156","6.60","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SUNSTATE BANCSHARES,"INC"","DIRECTOR","FABRICIO MACASTROPA","n/a","n/a","2022","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","CHIEF EXECUTIVE OFFICER","RICARDO ROSSI","n/a","n/a","2022","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","CHIEF FINANCIAL OFFICER","EDUARDO UZCATEGUI","n/a","n/a","2022","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","PRESIDENT","ADOLFO HENRIQUEZ","n/a","n/a","2022","n/a","n/a"
+```

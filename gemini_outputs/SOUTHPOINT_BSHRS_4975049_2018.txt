@@ -1,0 +1,29 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2018","J. Stephen Smith","Common Stock","218449","10.51%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2018","J. Stephen Smith","Options on Common Stock","82001","3.94%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2018","Charlotte B. Smith","Common Stock","3005","0.15%","n/a"
+"SouthPoint Bancshares,"Inc."","Chicago,"IL"","2018","Starboard Fund for New Bancs,"LP"","Common Stock","190026","9.52%","n/a"
+"SouthPoint Bancshares,"Inc."","Ridgeland,"MS"","2018","Wirt A. Yerger III","Common Stock","155075","7.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Director,"Chairman","President & CEO"","J. Stephen Smith","Director,"Chairman","President & CEO"","SouthPoint Bank","2018","N/A","3386536"
+"SouthPoint Bancshares,"Inc."","N/A","Charlotte B. Smith","N/A","N/A","2018","N/A","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Robert L. Henderson","Director","SouthPoint Bank","2018","Retired","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","Surgical Dermatology Group","2018","Dermatologist","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","N/A","Harmon Holdings,"LLC"","2018","Dermatologist","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","N/A","KB5,"LLC"","2018","Dermatologist","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","N/A","Stonegate Group,"LLC"","2018","Dermatologist","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","N/A","Cutaneous Oncology Surgery Center","2018","Dermatologist","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","VP of Finance","Thompson Tractor Co.,"Inc."","2018","Equipment Dealer","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","Kassouf & Company,"P.C."","2018","CPA","3386536"
+"SouthPoint Bancshares,"Inc."","Director","David W. Mims","N/A","N/A","2018","Retired","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","CEO","Retail Specialists,"LLC"","2018","Real Estate","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","CEO","Retail Strategies,"LLC"","2018","Real Estate","3386536"
+"SouthPoint Bancshares,"Inc."","Director","Stephen P. Leara","EVP and General Counsel","Retail Specialists,"LLC"","2018","Attorney","3386536"
+"SouthPoint Bancshares,"Inc."","CFO & Secretary","Robin Trimm","N/A","N/A","2018","N/A","3386536"
+```

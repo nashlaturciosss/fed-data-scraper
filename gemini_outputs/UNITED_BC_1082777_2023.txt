@@ -1,0 +1,38 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bank Corporation","Barnesville,"GA"","2023","United Bank Corporation Employee Stock Ownership Plan","n/a","383779","17.59%","n/a"
+"United Bank Corporation","Forsyth,"GA"","2023","James J. Edwards,"Jr."","n/a","275702","12.64%","n/a"
+"United Bank Corporation","Griffin,"GA"","2023","Christopher C. Edwards","n/a","251473","11.53%","n/a"
+"United Bank Corporation","Forsyth,"GA"","2023","Laura S. Edwards","n/a","175951","8.06%","n/a"
+"United Bank Corporation","Zebulon,"GA"","2023","John W. Edwards,"Jr."","n/a","140956","6.46%","n/a"
+"United Bank Corporation","Sewanee,"TN"","2023","Laurie E. Fisher","n/a","135019","6.19%","n/a"
+"United Bank Corporation","Zebulon,"GA"","2023","Allie E. Armistead","n/a","128820","5.90%","n/a"
+"United Bank Corporation","Griffin,"GA"","2023","Tina M. Edwards","n/a","122227","5.60%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bank Corporation","Director","Allie E Armistead","Director","United Bank","2023","n/a","n/a"
+"United Bank Corporation","CEO,"President & Director"","Christopher C. Edwards","Director & Chief Information Officer","United Bank","2023","n/a","n/a"
+"United Bank Corporation","Director & Vice Chairman","J. Joseph Edwards,"Sr."","Director & Vice-Chairman","United Bank","2023","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","United Bank","2023","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","Edwards Real Estate Holdings,"LLLP"","2023","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","Edwards Real Estate Management,"LLC"","2023","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","JAASSEE Holdings,"LLLP"","2023","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","Edwards Farm","2023","n/a","n/a"
+"United Bank Corporation","Director & VP","John W. Edwards,"Jr."","Director,"Chairman & President"","United Bank","2023","n/a","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Thomas Two LLC","2023","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Orthopedic & Sports Injury Center of Griffin","2023","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Hopkins-Neel LLC","2023","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Newton Hopkins Enterprises LLC","2023","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Pinewood Greenbelt LLC","2023","Physician","n/a"
+"United Bank Corporation","Director","Steve C. Keadle","n/a","Keadle Land Company","2023","Private Investor","n/a"
+"United Bank Corporation","Director","Douglas J. Tuttle","Director","United Bank","2023","n/a","n/a"
+"United Bank Corporation","Director & General Counsel","Forrest A. Watson,"Jr."","Director & General Counsel","United Bank","2023","n/a","n/a"
+"United Bank Corporation","n/a","United Bank Corporation Employee Stock Ownership Plan","n/a","n/a","2023","n/a","n/a"
+"United Bank Corporation","n/a","Laura S. Edwards","n/a","n/a","2023","College Counselor","n/a"
+"United Bank Corporation","n/a","Laurie E. Fisher","n/a","n/a","2023","n/a","n/a"
+"United Bank Corporation","n/a","Tina M. Edwards","n/a","n/a","2023","n/a","n/a"
+```

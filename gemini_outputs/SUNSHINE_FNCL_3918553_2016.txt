@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunshine Financial,"Inc."","New York,"NY"","2016","Joseph Stilwell,"Stilwell Value Partners VII","L.P.","Stilwell Partners","L.P.","Stilwell Activist Fund","L.P.","Stilwell Activist Investments","L.P.","Stilwell Value LLC"","n/a","98300","9.54%","3918553"
+"Sunshine Financial,"Inc."","Tallahassee,"FL"","2016","Sunshine Financial Employee Stock Ownership Plan","n/a","93975","9.12%","3918553"
+"Sunshine Financial,"Inc."","New York,"NY"","2016","Maltese Capital Management,"LL.C","Maltese Capital Holdings","LLC","and Terry Maltese"","n/a","92500","8.98%","3918553"
+"Sunshine Financial,"Inc."","Boston,"MA"","2016","Wellington Management Group LLP,"Wellington Group Holdings LLP","Wellington Investment Advisors Holding LLP and Wellington Management Company LLP and Ithan Creek Master Investors (Cayman) LP","Wellington Hedge Management","LLC"","n/a","76678","7.44%","3918553"
+"Sunshine Financial,"Inc."","Dallas,"TX"","2016","Palogic Value Management,"L.P.","Palogic Value Fund","L.P.","Palogic Capital Management","LLC","and Ryan L. Vardeman"","n/a","52700","5.12%","3918553"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunshine Financial,"Inc."","Director & Chairman","Benjamin F. Betts","Director & Chairman","Carr,"Riggs & Ingram","LLC"","2016","CPA","n/a"
+"Sunshine Financial,"Inc."","Director & President","Louis O. Davis,"Jr."","n/a","n/a","2016","N/A","n/a"
+"Sunshine Financial,"Inc."","Director & EVP & Sec","Brian P. Baggett","n/a","n/a","2016","N/A","n/a"
+"Sunshine Financial,"Inc."","Director","Robert K. Bacon","CEO","Earl Bacon Agency","2016","Insurance","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","HR Consultant","Mainline IS","2016","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","Owner","Chastain Consulting","2016","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Susan J. Conte","Retired Health Care executive","Capital Medical Society","2016","Health Care Exec","n/a"
+"Sunshine Financial,"Inc."","Director","Richard A. Moore","Owner and Partner","Moore Bass Consulting","2016","Civil Engineering","n/a"
+"Sunshine Financial,"Inc."","Director","Fred G. Shelfer,"Jr."","President & CEO","Goodwill Industries of the Big Bend,"Inc"","2016","Nonprofit CEO","n/a"
+"Sunshine Financial,"Inc."","SVP & CFO","Scott A. Swain","n/a","n/a","2016","N/A","n/a"
+```

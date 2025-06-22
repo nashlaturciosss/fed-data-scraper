@@ -1,0 +1,40 @@
+Here are the extracted CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","Patricia A. Ragsdale","n/a","21382","12.15%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","Lori R. Bonds","n/a","418",".24%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","Michael Scott Ragsdale","n/a","515",".29%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","William E. Simmons","n/a","5213","2.96%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","H. E. Simmons","n/a","5000","2.84%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","William E. Simmons,"Jr."","n/a","750",".43%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Statesboro,"GA"","2017","William E. Simmons,"Jr."","n/a","750","6.23%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","J. Rufus Youmans,"Jr."","n/a","10000","5.68%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","James R. Youmans,"Jr.","LLLP"","n/a","5800","3.30%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","James R. Youmans,"Jr.","LLLP"","n/a","5800","8.98%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Swainsboro,"GA"","2017","H. G. Yeomans,"III"","n/a","11033","6.27%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Lyons,"GA"","2017","Wanda M. Delk","n/a","2572","1.46%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Lyons,"GA"","2017","Marshall D. Mosley,"Jr."","n/a","10287","5.84%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Lyons,"GA"","2017","Marshall D. Mosley,"Jr."","n/a","10287","7.30%","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Soperton,"GA"","2017","Royce W. Fowler","n/a","11190","6.36%","268136"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"THE CITIZENS BANK OF SWAINSBORO","Principal Shareholder","Patricia A. Ragsdale","President","A&R Auto Parts & Supply","2017","A&R Auto Parts & Supply","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Principal Shareholder","Lori R. Bonds","Teacher","Emanuel County Board of Education","2017","n/a","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Principal Shareholder","Michael Scott Ragsdale","Secretary","A&R Auto Parts & Supply","2017","A&R Auto Parts & Supply","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","W. D.(Denny) Key","n/a","Citizens Bk","2017","Retired","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","W. E. Simmons","President","Adrian Building Concepts","2017","Modular Buildings","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","W. E. Simmons","n/a","Adrian Building Concepts","2017","Modular Buildings","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","J. Rufus Youmans,"Jr."","Owner","JR Youmans,"Jr. LLLP"","2017","Investor","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Larry J. Parrish","Owner","Medical Center Pharmacy","2017","Pharmacist and State Representative","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Minton D. Hester","Franchise Owner","Hester Foods,"Inc"","2017","Restaurant Owner","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Minton D. Hester","Franchise Owner","Hester Land Co","2017","Restaurant Owner","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Minton D. Hester","Franchise Owner","Hester Prop Inc.","2017","Restaurant Owner","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Minton D. Hester","Franchise Owner","Racoon Key LLC","2017","Restaurant Owner","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Milton B. Gray,"Jr."","n/a","n/a","2017","n/a","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","R. Jeffery Cannon","n/a","n/a","2017","n/a","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Gary L. Johnson","Owner","LEB,"LLC"","2017","n/a","268136"
+"THE CITIZENS BANK OF SWAINSBORO","Director","Gary L. Johnson","Owner","JOHI,"LLC"","2017","n/a","268136"
+```

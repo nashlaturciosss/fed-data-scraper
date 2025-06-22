@@ -1,0 +1,21 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bankshares","Alma,"GA"","2021","Lawrence and Joyce Bennett","n/a","17483","19%","n/a"
+"South Georgia Bankshares","Alma,"GA"","2021","Paul T. Bennett","n/a","26684","30%","n/a"
+"South Georgia Bankshares","Lyons,"GA"","2021","William N. Clark","n/a","5324","6%","n/a"
+"South Georgia Bankshares","Lyons,"GA"","2021","R.T. Stanley,"Jr"","n/a","5000","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bankshares","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","PINELAND STATE BK","2021","BANKER","n/a"
+"South Georgia Bankshares","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH BANKING CO","2021","BANKER","n/a"
+"South Georgia Bankshares","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH FINANCIAL PRO","2021","BANKER","n/a"
+"South Georgia Bankshares","PRESIDENT DIRECTOR CHAIRMAN DIRECTOR","PAUL T BENNETT","n/a","n/a","2021","BANKER","n/a"
+"South Georgia Bankshares","DIRECTOR","BILLY BENTON","DIRECTOR","The Bankers Bank","2021","RETIRED","n/a"
+"South Georgia Bankshares","DIRECTOR","BEN NEWTON","n/a","NEWTON FARMS","2021","NEWTON FARMS","n/a"
+"South Georgia Bankshares","DIRECTOR","R.T. STANLEY,"JR."","n/a","STANLEY FARMS","2021","STANLEY FARMS","n/a"
+"South Georgia Bankshares","DIRECTOR CEO","WENDELL H DIXON","n/a","n/a","2021","BANKER","715032"
+```

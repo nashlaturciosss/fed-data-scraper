@@ -1,0 +1,16 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Quantum Capital Corporation","Atlanta,"Georgia"","2020","Infinity Trust","Common Stock","481711","83.89%","n/a"
+"Quantum Capital Corporation","Alpharetta,"Georgia"","2020","Narasimhulu Neelaguru,"M.D"","Common Stock","92326","16.08%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Quantum Capital Corp","n/a","Infinity Trust","n/a","n/a","2020","n/a","2354387"
+"Quantum Capital Corp","Chairman","Narasimhulu Neelaguru","Owner","Commerce Cardiology","2020","Cardiologist","2354387"
+"Quantum Capital Corp","Chairman","Narasimhulu Neelaguru","n/a","Sandy Creek Ranch,"LLC"","2020","Cardiologist","2354387"
+"Quantum Capital Corp","Chairman","Narasimhulu Neelaguru","n/a","2817 Mabry Road,"NE","LLC"","2020","Cardiologist","2354387"
+"Quantum Capital Corp","Chairman","Narasimhulu Neelaguru","n/a","Kirin Enterprises LLC","2020","Cardiologist","2354387"
+"Quantum Capital Corp","President","Bryan Cohen","n/a","n/a","2020","n/a","2354387"
+"Quantum Capital Corp","n/a","Brad Day","n/a","n/a","2020","n/a","2354387"
+"Quantum Capital Corp","EVP,"Secretary"","Dana Litman","n/a","n/a","2020","n/a","2354387"
+```

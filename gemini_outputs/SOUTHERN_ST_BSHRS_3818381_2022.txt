@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern States Bancshares,"Inc."","Cleveland,"OH"","2022","Strategic Value Investors,"LP"","Common Stock","848404","9.74%","n/a"
+"Southern States Bancshares,"Inc."","Sausalito,"CA"","2022","Davis Asset Management LP","Common Stock","797244","9.16%","n/a"
+"Southern States Bancshares,"Inc."","Wedowee,"AL"","2022","Floyd C Davis Sr","Common Stock","636202","7.31%","n/a"
+"Southern States Bancshares,"Inc."","Anniston,"AL"","2022","Stephen W. Whatley","Common Stock","629109","7.23%","n/a"
+"Southern States Bancshares,"Inc."","St. Louis,"MO"","2022","Fourthstone LLC","Common Stock","599850","6.89%","n/a"
+"Southern States Bancshares,"Inc."","Chicago,"IL"","2022","The Banc Funds Company,"LLC"","Common Stock","506022","5.81%","n/a"
+"Southern States Bancshares,"Inc."","Radnor,"PA"","2022","Patriot Financial Partners","Common Stock","822287","9.12%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern States Bancshares,"Inc."","Director","Lewis Beavers","Lawrence,"See & Beavers"","Lawrence,"See & Beavers"","2022","Lawrence,"See & Beavers"","n/a"
+"Southern States Bancshares,"Inc."","Director","Alfred J. Hayes,"Jr."","n/a","n/a","2022","Retired Banker","n/a"
+"Southern States Bancshares,"Inc."","Director","Brent David Hitson","Partner","Burr & Forman,"LLP"","2022","Burr & Forman,"LLP"","n/a"
+"Southern States Bancshares,"Inc."","Director","Brian Stacy Holmes","President","Holmes II Excavation,"Inc."","2022","Holmes II Excavation,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Cynthia S. McCarty","Professor","Jacksonville State University","2022","Jacksonville State University","n/a"
+"Southern States Bancshares,"Inc."","Director","Jay Florey Pumroy","Partner","Wilson,"Dillon","Pumroy & James","LLC"","2022","Wilson,"Dillon","Pumroy & James","LLC"","n/a"
+"Southern States Bancshares,"Inc."","Director","J. Henry Smith","President / Owner","Interstate Sheet Metal Co.,"Inc."","2022","Interstate Sheet Metal Co.,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Henry A. Turner,"Jr."","n/a","n/a","2022","n/a","n/a"
+"Southern States Bancshares,"Inc."","Director,"Chairman and CEO"","Stephen Woods Whatley","n/a","n/a","2022","n/a","n/a"
+"Southern States Bancshares,"Inc."","SEVP/President","Mark Chambers","n/a","n/a","2022","n/a","n/a"
+"Southern States Bancshares,"Inc."","SEVP/Chief Financial Off","Lynn Joyce","n/a","n/a","2022","n/a","n/a"
+"Southern States Bancshares,"Inc."","SEVP/Chief Risk Officer","Greg Smith","n/a","n/a","2022","n/a","n/a"
+"Southern States Bancshares,"Inc."","SEVP/Chief Operating Of","Jack Swift","n/a","n/a","2022","n/a","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","Estate of James B. Little,"Jr."","Common Stock","50333","6.24%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","Gates Little","Common Stock","79498","9.86%","0002496193"
+"The Southern Banc Company,"Inc."","Birmingham,"AL"","2018","James B. Little,"III"","Common Stock","123598","15.3%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","Directors (4 persons)","Common Stock","97939","12.15%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","Thomas F. Dowling,"III"","n/a","12123","1.5%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","F. Michael Haney","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","Thomas Alan Ritchie,"Jr."","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","John E. Bell,"III"","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","The Southern Banc Company,"Inc."","n/a","39260","4.9%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2018","The Southern Banc Company,"Inc."","n/a","46256","5.74%","0002496193"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Southern Banc Company,"Inc."","Director & President","Gates Little","Director & President","n/a","2018","N/A","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas Alan Ritchie,"Jr."","CFO","ComplyMD","2018","President of RMI,"Inc."","0002496193"
+"The Southern Banc Company,"Inc."","Director","F. Michael Haney","Director","Inzer,"Haney","McWhorter","and Haney LLC"","2018","Attorney","0002496193"
+"The Southern Banc Company,"Inc."","Director","F. Michael Haney","Director","Spanish Acquisitions,"LLC"","2018","Attorney","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas F. Dowling,"III"","n/a","n/a","2018","Consultant Sarrol Dental","0002496193"
+"The Southern Banc Company,"Inc."","Director","John E. Bell,"III"","CEO of FireRock Products,"LLC"","FireRock Products,"LLC"","2018","CEO of FireRock Products,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","New Capital Partners,"LLC"","2018","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","N/A","Teresa Elkins","Vice President","n/a","2018","N/A","0002496193"
+"The Southern Banc Company,"Inc."","Secretary/Treasurer","Peggy Smith","n/a","n/a","2018","N/A","0002496193"
+```

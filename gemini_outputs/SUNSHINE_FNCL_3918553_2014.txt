@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunshine Financial,"Inc."","New York,"NY"","2014","Stilwell Value Partners II,"L.P.","Stilwell Value Partners VII","L.P.","Stilwell Partners","L.P.","and Joseph Stilwell"","n/a","106300","9.7%","n/a"
+"Sunshine Financial,"Inc."","Tallahassee,"FL"","2014","Sunshine Financial Employee Stock Ownership Plan","n/a","96391","8.8%","n/a"
+"Sunshine Financial,"Inc."","New York,"NY"","2014","Maltese Capital Management,"LLC and Terry Maltese"","n/a","91900","8.4%","n/a"
+"Sunshine Financial,"Inc."","Boston,"MA"","2014","Ithan Creek Master Investors (Cayman) LP,"Wellington Hedge Management","LLC"","n/a","85300","7.8%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunshine Financial,"Inc."","Director & Chairman","Benjamin F. Betts","Director & Chairman","Sunshine Savings Bank","2014","CPA","n/a"
+"Sunshine Financial,"Inc."","Director & President","Louis O. Davis,"Jr."","Director & President","Sunshine Savings Bank","2014","n/a","n/a"
+"Sunshine Financial,"Inc."","Director & EVP & Sec","Brian P. Baggett","Director & EVP & SEC","Sunshine Savings Bank","2014","n/a","n/a"
+"Sunshine Financial,"Inc."","Director","Robert K. Bacon","CEO","Earl Bacon Agency","2014","Insurance","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","HR Consultant","Mainline IS","2014","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Joyce E. Chastain","Owner","Chastain Consulting","2014","HR Consultant","n/a"
+"Sunshine Financial,"Inc."","Director","Susan J. Conte","Retired Health Care executive","Capital Medical Society","2014","Health Care Exec","n/a"
+"Sunshine Financial,"Inc."","Director","Richard A. Moore","Owner and Partner","Moore Bass Consulting","2014","Civil Engineering","n/a"
+"Sunshine Financial,"Inc."","Director","Fred G. Shelfer,"Jr."","President & CEO","Goodwill Industries of the Big Bend,"Inc"","2014","Nonprofit CEO","n/a"
+"Sunshine Financial,"Inc."","SVP & CFO Treasurer","Scott A. Swain","SVP & CFO","Sunshine Savings Bank","2014","n/a","n/a"
+```

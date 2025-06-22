@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","MARCELO CLAURE","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","FABRICIO C MACASTROPA","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","LUIS E BACHS","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","RODOLFO A CONCEPCION","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","JOSE R MAS","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","RAUL G VALDES-FAULI","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","ALBERTO J ZAYAS","common stock","69671","n/a","n/a"
+"SUNSTATE BANCSHARES,"INC"","n/a","2023","JOSE A VILLALON","common stock","69671","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SUNSTATE BANCSHARES,"INC"","Director","MARCELO CLAURE","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","FABRICIO C MACASTROPA","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","LUIS E BACHS","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","RODOLFO A CONCEPCION","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","JOSE R MAS","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","RAUL G VALDES-FAULI","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","ALBERTO J ZAYAS","n/a","n/a","2023","Managing Partner","n/a"
+"SUNSTATE BANCSHARES,"INC"","Director","JOSE A VILLALON","n/a","n/a","2023","Managing Partner","n/a"
+```

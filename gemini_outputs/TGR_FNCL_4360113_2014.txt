@@ -1,0 +1,42 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR Financial,"Inc."","Andover,"MA"","2014","John Rodgers,"L.P."","n/a","1355737","8.08%","n/a"
+"TGR Financial,"Inc."","Andover,"MA"","2014","John J. Guinee","n/a","1355737","8.08%","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2014","Endicott Group","n/a","1355737","8.08%","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2014","J. Michael Gibbons","n/a","1355737","8.08%","n/a"
+"TGR Financial,"Inc."","Atlanta,"GA"","2014","GMT Capital Group","n/a","2678503","15.95%","n/a"
+"TGR Financial,"Inc."","Atlanta,"GA"","2014","Adam D. Compton","n/a","2678503","15.95%","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2014","Lightyear Group","n/a","1552983","9.25%","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2014","Bradford B. Kopp","n/a","1552983","9.25%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TGR Financial,"Inc."","Director","Adam D. Compton","Director","First Florida Integrity Bank","2014","Managing Director & Portfolio Manager","4360113"
+"TGR Financial,"Inc."","Director","Robert M. Feerick","Board Member","Alico,"Inc."","2014","n/a","4360113"
+"TGR Financial,"Inc."","Director","Robert M. Feerick","Chairman","Xymox Technologies,"Inc."","2014","n/a","4360113"
+"TGR Financial,"Inc."","Director","Robert M. Feerick","n/a","Horizon Partners,"Ltd"","2014","n/a","4360113"
+"TGR Financial,"Inc."","Director","J. Michael Gibbons","n/a","n/a","2014","Vice President","4360113"
+"TGR Financial,"Inc."","Director","John J. Guinee","n/a","n/a","2014","Managing Partner","4360113"
+"TGR Financial,"Inc."","Director","Michael J. Kerschner","n/a","n/a","2014","Retired","4360113"
+"TGR Financial,"Inc."","Director","Michael J. Kerschner","Director","First Florida Integrity Bank","2014","Retired","4360113"
+"TGR Financial,"Inc."","Director","Bradford B. Kopp","Director","CertusHoldings,"Inc."","2014","Self Employed Consultant","4360113"
+"TGR Financial,"Inc."","Director","Bradford B. Kopp","Director","CertusBank","2014","Self Employed Consultant","4360113"
+"TGR Financial,"Inc."","Director","Dianne Gillmor Krumsee","Chairman","Old Fort Banking Company","2014","Chairman & Owner","4360113"
+"TGR Financial,"Inc."","Director","Dianne Gillmor Krumsee","Trustee","The Paul M & Lucy J Gillmor Charitable Foundation","2014","Chairman & Owner","4360113"
+"TGR Financial,"Inc."","Director","James S. Lindsay","n/a","n/a","2014","Realtor","4360113"
+"TGR Financial,"Inc."","Director","James S. Lindsay","Director","First Florida Integrity Bank","2014","Realtor","4360113"
+"TGR Financial,"Inc."","Director","Edward J. Mace","Sole Proprietor: Edward J Mace Certified Public Accountant","n/a","2014","Chief Operating Officer","4360113"
+"TGR Financial,"Inc."","Director","Edward J. Mace","Director","First Florida Integrity Bank","2014","Chief Operating Officer","4360113"
+"TGR Financial,"Inc."","Director","Donald W. Major","n/a","n/a","2014","President & Owner","4360113"
+"TGR Financial,"Inc."","Director","Donald W. Major","Director","Summit Medical Supplies,"Inc."","2014","President & Owner","4360113"
+"TGR Financial,"Inc."","SEVP & Chief Admin. Officer","Robert T. Reichert","n/a","n/a","2014","Chief Administrative Officer","4360113"
+"TGR Financial,"Inc."","SEVP & Chief Admin. Officer","Robert T. Reichert","SEVP & Chief Administrative Officer","First Florida Integrity Bank","2014","Chief Administrative Officer","4360113"
+"TGR Financial,"Inc."","Director & President","Garrett S. Richter","Florida State Senator,"District 21"","n/a","2014","President","4360113"
+"TGR Financial,"Inc."","Director & President","Garrett S. Richter","Director & President","First Florida Integrity Bank","2014","President","4360113"
+"TGR Financial,"Inc."","Chairman & Chief Executive Officer","Gary L. Tice","Director","Federal Reserve Bank of Atlanta","2014","Chief Executive Officer","4360113"
+"TGR Financial,"Inc."","Chairman & Chief Executive Officer","Gary L. Tice","Chairman & Chief Executive Officer","First Florida Integrity Bank","2014","Chief Executive Officer","4360113"
+"TGR Financial,"Inc."","Director","Robert T. Zellers","n/a","n/a","2014","President","4360113"
+```

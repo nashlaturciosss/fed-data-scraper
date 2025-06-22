@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Anthony T Moore","n/a","1232","38.54%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Anthony T Moore","Employee KSOP plan for which security holder is co-trustee","198","38.54%","n/a"
+"Southeastern Bancorp,"Inc"","St Petersburg,"FL"","2019","Larry Vickers","n/a","330","10.32%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Barney B Regen","n/a","208","6.51%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Charles K Pruett","n/a","160","5.00%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Joe S Corlew","n/a","248","7.76%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","Joe S Corlew","Employee KSOP plan for which security holder is co-trustee","198","7.76%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2019","First Federal Bank KSOP","n/a","198","6.19%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Chairman President and Director","Anthony T Moore","CEO & President","First Federal Bank","2019","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director","C.K. Pruett","n/a","See Attached List","2019","Contractor","n/a"
+"Southeastern Bancorp,"Inc"","Director","Barney B Regen","n/a","See Attached List","2019","Attorney","n/a"
+"Southeastern Bancorp,"Inc"","Director","B.J. Smith","n/a","n/a","2019","Retired Physician","n/a"
+"Southeastern Bancorp,"Inc"","Director","Reid Walker","n/a","n/a","2019","Retired Sales","n/a"
+"Southeastern Bancorp,"Inc"","Director","Larry E Vickers","n/a","See Attached List","2019","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Secretary","Joe Corlew","Sr. VP & CFO First Federal Bank/Sec First Service Corp","Dickson Rebuilders","2019","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director & EVP","Ronald Sleigh","n/a","Sleigh Brothers Partnership","2019","Banker","n/a"
+```

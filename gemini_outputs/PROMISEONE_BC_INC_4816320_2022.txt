@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Promise One Bancorp,"Inc."","Alpharetta,"GA"","2022","Jame Cho","Common Stock","401250","6.27%","n/a"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2022","Francis D. Kim","Common Stock","376750","5.89%","n/a"
+"Promise One Bancorp,"Inc."","Johns Creek,"GA"","2022","Bong U. Nam","Common Stock","327900","5.12%","n/a"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2022","Dohyung Lim","Common Stock","376391","5.88%","n/a"
+"Promise One Bancorp,"Inc."","Englewood,"NJ"","2022","Yoonsung Kim","Common Stock","767555","11.99%","n/a"
+"Promise One Bancorp,"Inc."","New York,"NY"","2022","Young A Sohn","Common Stock","316950","5.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

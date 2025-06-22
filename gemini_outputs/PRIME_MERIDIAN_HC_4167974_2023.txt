@@ -1,0 +1,30 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Prime Meridian Holding Company","Chicago,"IL"","2023","1st & Main Growth Partners","Common Stock","232776","7.14%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2023","Sammie D. Dixon,"Jr."","Common Stock","160786","4.89%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2023","Sammie D. Dixon,"Jr."","options on Common Stock","25000","0.76%","n/a"
+"Prime Meridian Holding Company","Blakely,"GA"","2023","Spence Limited,"LP"","Common Stock","176659","5.58%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Prime Meridian Holding Company","Director","William D. Crona","Director","Prime Meridian Bank","2023","Retired Certified Public Accountant","n/a"
+"Prime Meridian Holding Company","Vice Chairman,"CEO/President","Director"","Sammie D. Dixon,"Jr."","n/a","n/a","2023","n/a","n/a"
+"Prime Meridian Holding Company","Director","Steven L. Evans","Director","Prime Meridian Bank","2023","Retired Business Executive (IBM)","n/a"
+"Prime Meridian Holding Company","Director","R. Randy Guemple","Director","Prime Meridian Bank","2023","Retired Banker,"Certified Public Accountant"","n/a"
+"Prime Meridian Holding Company","EVP,"Director"","Chris L. Jensen,"Jr."","Director","Prime Meridian Bank","2023","n/a","n/a"
+"Prime Meridian Holding Company","Director","Kathleen C. Jones","Director","Prime Meridian Bank","2023","Retired Banker","n/a"
+"Prime Meridian Holding Company","Director","Robert H. Kirby","Director","Prime Meridian Bank","2023","Rehab Technologies,"LLC"","n/a"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Director","Prime Meridian Bank","2023","Real Estate","n/a"
+"Prime Meridian Holding Company","Director","L. Collins Proctor,"Sr."","Director","Prime Meridian Bank","2023","Partner & Chief Operating Officer","n/a"
+"Prime Meridian Holding Company","Director","Garrison A. Rolle,"M.D."","Director","Prime Meridian Bank","2023","Tallahassee Orthopedic Clinic","n/a"
+"Prime Meridian Holding Company","Director","Steven D. Smith","Director","Prime Meridian Bank","2023","Krispy Kreme Franchises","n/a"
+"Prime Meridian Holding Company","Director,"Chairman"","Richard A. Weidner","Director","Prime Meridian Bank","2023","Retired Certified Public Accountant","n/a"
+"Prime Meridian Holding Company","EVP/Chief Risk Officer","Susan Payne Turner","n/a","n/a","2023","n/a","n/a"
+"Prime Meridian Holding Company","EVP/Chief Information Officer","Monté L. Ward","n/a","Prime Meridian Bank","2023","n/a","n/a"
+"Prime Meridian Holding Company","EVP/Chief Financial Officer","Clint F. Weber","n/a","Prime Meridian Bank","2023","n/a","n/a"
+"Prime Meridian Holding Company","Director","Michael A. Micallef,"Jr."","Director","Prime Meridian Bank","2023","Retired Banker","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","Director","Prime Meridian Bank","2023","Wealth Management","n/a"
+```

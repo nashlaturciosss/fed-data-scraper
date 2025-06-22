@@ -1,0 +1,24 @@
+"Here are your requested CSV tables","extracted from the provided document:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Relations Bancshares,"Inc."","Vernon,"AL"","2017","Richard ""Mac"" Mayers","Common Stock","42080","8.199%","3569049"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Relations Bancshares,"Inc."","Chairman & CEO,"Director"","Mark Wilson","Chairman & CEO,"Director"","Bank of Walker County","2017","Banker","3569049"
+"Relations Bancshares,"Inc."","President,"Director"","Tony Sparks","President,"Director"","Bank of Walker County","2017","Banker","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Mayers & Co,"PC."","2017","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Midsouth Petro Corp","2017","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Partner","Titan Capital,"LLC"","2017","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","GM Properties,"LLC"","2017","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Ronald K. Harris","President","Delta Transfer","2017","Cross Country Moving & Storage","3569049"
+"Relations Bancshares,"Inc."","Director","Phillip Laird","Owner","Laird & Robertson","2017","Attorney","3569049"
+"Relations Bancshares,"Inc."","Director","Jim Woods","Owner","Jasper Auto Sales","2017","Auto Sales","3569049"
+"Relations Bancshares,"Inc."","Senior Vice President","Walker Wilson","n/a","None","2017","Banker","3569049"
+"Relations Bancshares,"Inc."","Chief Operating Officer","Debra Kay Sartain","n/a","None","2017","Banker","3569049"
+"Relations Bancshares,"Inc."","Director","Haig Wright","Owner","Byars-Wright Insurance","2017","Insurance Broker","3569049"
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Justin Dyar LLC","2017","Real Estate Agent","3569049"
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Lake Homes Realty","2017","Real Estate Agent","3569049"
+```

@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"RBC,"INC."","DEMOPOLIS,"AL"","2021","GLENN K. MAYTON","Common Stock","42519","8.13%","n/a"
+"RBC,"INC."","DEMOPOLIS,"AL"","2021","GLENN K. MAYTON","Common Stock","7901","1.51%","n/a"
+"RBC,"INC."","OXFORD,"MS"","2021","MARIE H. BARKSDALE","Common Stock","44138","8.44%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"RBC,"INC."","Director,"President","and CEO"","WILLIAM GARY HOLEMON","n/a","n/a","2021","Banker","430036"
+"RBC,"INC."","Director","R.A. PRITCHETT","n/a","n/a","2021","N/A","430036"
+"RBC,"INC."","Director","JAMES W. BIRD,"JR."","President","James W. Bird,"Jr.","LLC"","2021","Private Investor","430036"
+"RBC,"INC."","Director & Chairman","JOE BRADLEY","n/a","n/a","2021","Key Account Manager,"Pretium Packaging"","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","n/a","Doghouse Properties,"LLC"","2021","N/A","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","Shareholder/Director","Jaber,"Inc."","2021","N/A","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","Member","Bogue Creek Investments,"LLC"","2021","N/A","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","Member","OverPhil Holdings,"LLC"","2021","N/A","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","Manager","Overflow Express Wash Skyland,"LLC"","2021","N/A","430036"
+"RBC,"INC."","Director","HUGH V. OVERMYER","Manager","Overflow Express Wash McFarland,"LLC"","2021","N/A","430036"
+"RBC,"INC."","Director","GLENN K. MAYTON","President/Owner","Warrior One-Stop Building Supply,"Inc."","2021","President,"One-Stop Building Supply","Inc."","430036"
+"RBC,"INC."","Director","WOODFORD W. DINNING,"JR."","Partner","Lloyd and Dinning,"LLC"","2021","Attorney with law firm of Lloyd and Dinning,"LLC."","430036"
+"RBC,"INC."","Director","WOODFORD W. DINNING,"JR."","President","TABCO,"INC."","2021","Attorney with law firm of Lloyd and Dinning,"LLC."","430036"
+"RBC,"INC."","Director","WOODFORD W. DINNING,"JR."","Managing Member","Brandco & Associates","2021","Attorney with law firm of Lloyd and Dinning,"LLC."","430036"
+"RBC,"INC."","Director","WOODFORD W. DINNING,"JR."","President","Walnut Avenue Holding Company,"Inc."","2021","Attorney with law firm of Lloyd and Dinning,"LLC."","430036"
+"RBC,"INC."","Director","ALBERT H. GARRETT","Trustee","Lillian P. Andrews Foundation","2021","N/A","430036"
+"RBC,"INC."","Director","ALBERT H. GARRETT","Board Member","West Alabama Mental Health Center","2021","N/A","430036"
+"RBC,"INC."","Executive Vice President,"Chief Financial Officer"","PETER M. REYNOLDS,"JR."","Trustee,"Secretary/Treasurer"","Black Warrior EMC","2021","N/A","430036"
+"RBC,"INC."","Director","RICHARD E. GIBSON","Part Owner","Jamison Money Farmer PC","2021","CPA","430036"
+"RBC,"INC."","Director","RICHARD E. GIBSON","Partner","JMF Consulting,"LLC"","2021","CPA","430036"
+"RBC,"INC."","Director","RICHARD E. GIBSON","Partner","JMF Building,"LLC"","2021","CPA","430036"
+"RBC,"INC."","Director","RICHARD E. GIBSON","Partner","JMF Wealth Management,"LLC"","2021","CPA","430036"
+"RBC,"INC."","Director","RICHARD E. GIBSON","Partner","Backwater Properties,"LLC"","2021","CPA","430036"
+"RBC,"INC."","Director","JASON C. WALKER","Executive Vice President","TTL,"Inc."","2021","Civil Engineer","430036"
+"RBC,"INC."","Director","JASON C. WALKER","Member","WSF Property,"LLC"","2021","Civil Engineer","430036"
+"RBC,"INC."","Director","JASON C. WALKER","Member","Summer Ridge,"LLC"","2021","Civil Engineer","430036"
+```

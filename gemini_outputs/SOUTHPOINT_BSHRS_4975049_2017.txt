@@ -1,0 +1,23 @@
+Here are the two tables extracted from the document as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Point Bancshares,"Inc."","Vestavia,"AL"","2017","J. Stephen Smith","Common Stock","218449","10.54%","n/a"
+"South Point Bancshares,"Inc."","Vestavia,"AL"","2017","J. Stephen Smith","Options on Common Stock","82001","3.96%","n/a"
+"South Point Bancshares,"Inc."","Vestavia,"AL"","2017","Charlotte B. Smith","Common Stock","3005","0.15%","n/a"
+"South Point Bancshares,"Inc."","Chicago,"IL"","2017","Starboard Fund for New Bancs,"LP"","Common Stock","190026","9.55%","n/a"
+"South Point Bancshares,"Inc."","Ridgeland,"MS"","2017","Wirt A. Yerger III","Common Stock","100000","5.02%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Point Bancshares,"Inc."","Director,"Chairman","President & CEO"","J. Stephen Smith","n/a","n/a","2017","N/A","n/a"
+"South Point Bancshares,"Inc."","n/a","Charlotte B. Smith","n/a","n/a","2017","N/A","n/a"
+"South Point Bancshares,"Inc."","Director","Robert L. Henderson","n/a","n/a","2017","Retired","n/a"
+"South Point Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","Surgical Dermatology Group","2017","Dermatologist","n/a"
+"South Point Bancshares,"Inc."","Director","Thomas H. McGough","VP of Finance","Thompson Tractor Co.,"Inc."","2017","Equipment Dealer","n/a"
+"South Point Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","Kassouf & Company,"P.C."","2017","CPA","n/a"
+"South Point Bancshares,"Inc."","Director","David W. Mims","n/a","Star Properties,"LLC"","2017","Retired","n/a"
+"South Point Bancshares,"Inc."","n/a","David W. Mims","n/a","Castles at the Sand Beach,"LLC"","2017","Retired","n/a"
+"South Point Bancshares,"Inc."","CFO & Secretary","Robin Trimm","n/a","n/a","2017","N/A","n/a"
+```

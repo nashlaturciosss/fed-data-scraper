@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PSB BANCSHARES,"INC."","Clanton,"Alabama"","2017","C. Richard Moore,"Jr."","500 Shares PSB Bancshares,"Inc.","constituting 50% of voting stock."","500","50%","n/a"
+"PSB BANCSHARES,"INC."","Memphis,"Tennessee"","2017","Jackson W. Moore","500 Shares PSB Bancshares,"Inc.","constituting 50% of voting stock."","500","50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PSB BANCSHARES,"INC."","President","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","Director","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","Chief Executive Officer","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","Director","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","Chairman","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","President","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","Chief Executive Officer","C. Richard Moore,"Jr."","n/a","n/a","2017","Banker","601733"
+"PSB BANCSHARES,"INC."","n/a","Jackson W. Moore","n/a","n/a","2017","Retired","n/a"
+"PSB BANCSHARES,"INC."","Chairman","Josephine M. Hutchinson","n/a","n/a","2017","None","n/a"
+"PSB BANCSHARES,"INC."","Director","Josephine M. Hutchinson","n/a","n/a","2017","None","n/a"
+"PSB BANCSHARES,"INC."","Secretary","Patricia H. Baker","n/a","n/a","2017","Banker","n/a"
+"PSB BANCSHARES,"INC."","Secretary & Cashier","Patricia H. Baker","n/a","n/a","2017","Banker","n/a"
+"PSB BANCSHARES,"INC."","Director","Sally B. Moore","n/a","n/a","2017","None","n/a"
+"PSB BANCSHARES,"INC."","Director","Jackson W. Moore Jr.","n/a","n/a","2017","Retail Furniture","n/a"
+"PSB BANCSHARES,"INC."","Director","Jackson W. Moore Jr.","n/a","n/a","2017","Retail Furniture","n/a"
+"PSB BANCSHARES,"INC."","Director","Charles R. Moore III","n/a","n/a","2017","Attorney","n/a"
+"PSB BANCSHARES,"INC."","Director","Charles R. Moore III","n/a","n/a","2017","Attorney","n/a"
+```

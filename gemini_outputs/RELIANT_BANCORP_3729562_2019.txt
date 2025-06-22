@@ -1,0 +1,26 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Reliant Bancorp,"Inc."","CHICAGO,"IL"","2019","RMB CAPITAL HOLDINGS,"LLC"","n/a","992251","8.85%","n/a"
+"Reliant Bancorp,"Inc."","NEW YORK,"NY"","2019","BLACKROCK,"INC."","n/a","575102","5.13%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Reliant Bancorp,"Inc."","Director and Assistant Secretary","Homayoun Aminmadani","See Confidential Exhibit A","n/a","2019","Restaurateur","n/a"
+"Reliant Bancorp,"Inc."","Director,"Chairman","President","and CEO"","DeVan D. Ard,"Jr."","n/a","n/a","2019","N/A","n/a"
+"Reliant Bancorp,"Inc."","Director","Charles Trimble Beasley","President","Center Star,"Inc."","2019","Materials Research","n/a"
+"Reliant Bancorp,"Inc."","Director","Robert E. Daniel","President","Compass Capital,"LLC"","2019","Investment Advisor","n/a"
+"Reliant Bancorp,"Inc."","Director","William Ronald DeBerry","n/a","n/a","2019","Retired","n/a"
+"Reliant Bancorp,"Inc."","Director","Sharon H. Edwards","Chief Operating Officer","RSC Insurance Brokerage,"Inc."","2019","Executive","n/a"
+"Reliant Bancorp,"Inc."","Director","Darrell S. Freeman,"Sr."","Chairman","Resource Regeneration,"LLC"","2019","Information Technology Services","n/a"
+"Reliant Bancorp,"Inc."","Director","Darrell S. Freeman,"Sr."","Chairman","Pinnacle Construction Partners,"LLC"","2019","Information Technology Services","n/a"
+"Reliant Bancorp,"Inc."","Director","Darrell S. Freeman,"Sr."","Executive Managing Director","Zycron,"Inc."","2019","Information Technology Services","n/a"
+"Reliant Bancorp,"Inc."","Director","James Gilbert Hodges","n/a","n/a","2019","Construction","n/a"
+"Reliant Bancorp,"Inc."","Director and Chief Operating Officer","Louis E. Holloway","Director","Cross Country Healthcare,"Inc."","2019","N/A","n/a"
+"Reliant Bancorp,"Inc."","Director","Connie S. McGee","n/a","n/a","2019","Healthcare Executive","n/a"
+"Reliant Bancorp,"Inc."","Director","Linda E. Rebrovick","n/a","n/a","2019","Business Consultant","n/a"
+"Reliant Bancorp,"Inc."","Director","Ruskin A. Vest","President","Southeastern Shirt Corporation","2019","Private Investor","n/a"
+"Reliant Bancorp,"Inc."","Chief Financial Officer","James Daniel Dellinger","President","Nashville Krav Maga LLC","2019","N/A","n/a"
+```

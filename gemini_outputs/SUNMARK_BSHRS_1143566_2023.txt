@@ -1,0 +1,9 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunMark Bancshares Inc","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunMark Bancshares Inc","President","Bradley G. Collins","n/a","n/a","2023","n/a","n/a"
+```

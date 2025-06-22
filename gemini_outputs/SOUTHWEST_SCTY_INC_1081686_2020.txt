@@ -1,0 +1,34 @@
+"Okay","here are the two CSV tables extracted from the provided document","following all instructions and constraints:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southwest Security,"Inc."","Natchez,"MS"","2020","James. Biglane 2015 Irrev Trust SSI Stock","Common Stock Shares","29217","24.3005%","n/a"
+"Southwest Security,"Inc."","Natchez,"MS"","2020","Nancy K. Biglane 2016 Irrev Trust SSI Stock","Common Stock Shares","26253","21.8353%","n/a"
+"Southwest Security,"Inc."","Natchez,"MS"","2020","Southwest Security,"Inc. ESOP"","Common Stock Shares","14045","11.6816%","n/a"
+"Southwest Security,"Inc."","Natchez,"MS"","2020","Denton B. Biglane 2011 Trust","Common Stock Shares","14165","11.7814%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Director & VP/Treasurer","Biglane Operating","2020","N/A","n/a"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Director & VP/Secretary","Mike Oil Company","2020","N/A","n/a"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Director/Secretary/Treasurer","Scotland Plantation","2020","N/A","n/a"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Director & VP/Treasurer","Silverland,"Inc."","2020","N/A","n/a"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Director & VP/Treasurer","D. A. Biglane Foundation","2020","N/A","n/a"
+"Southwest Security,"Inc."","Principal Shareholder","Nancy K Biglane,"Trustee"","Member","Scotland NKB,"UC"","2020","N/A","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Director,"President & Treas"","Mike Oil Company","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Director & President","Biglane Operating","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Director & President","Scotland Plantation","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Director & President","Silver Land Inc.","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Director & President","D. A. Biglane Foundation","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Partner","Biglane Investments,"LP"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Manager","JMB Management,"LLC"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Manager","Biglane Leasing Co.,"LLP"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Manager","BLC Management,"LLC"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Manager","The Whiskey Bldg. Guesthouse,"LLC"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Manager","The Whiskey Bldg,"LLC"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director & President","James M Biglane,"Trustee & Co-Trustee"","Member","Pecania POA,"LLC"","2020","Banker","n/a"
+"Southwest Security,"Inc."","Director","Bruce M. Kuehnle,"Jr."","Director & Chairman","United Mississippi Bank","2020","Attorney","n/a"
+"Southwest Security,"Inc."","Secretary/Treasury","H. Adrian Sandel","Chief Executive Officer","United Mississippi Bank","2020","None","n/a"
+"Southwest Security,"Inc."","Director/CEO","Lauren Biglane Middleton","Chief Financial Officer","United Mississippi Bank","2020","None","n/a"
+```

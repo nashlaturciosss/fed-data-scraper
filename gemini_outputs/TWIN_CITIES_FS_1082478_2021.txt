@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","Robertson Family Limited Partnership","n/a","45530","8.43%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","James D Robertson,"Manager"","n/a","45530","8.43%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","Ben Myers Robertson IRRV Trust","n/a","44561","8.25%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","James D Robertson,"Trustee"","n/a","44561","8.25%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","Mary Jo Willocks","n/a","34463","6.38%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","Leeann E. Hicks","n/a","32698","6.05%","1082478"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2021","Leon Shields","n/a","30500","5.64%","1082478"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBBC Bank","Chairman","Jerry Dean","Chairman","n/a","2021","Retired","n/a"
+"CBBC Bank","Director","Bill Clabough","Director","n/a","2021","Exec of Non Profit","n/a"
+"Secretary","Leann Hicks","Secretary Director","n/a","n/a","2021","Education","n/a"
+"Director","Leann Hicks","Secretary Director","n/a","n/a","2021","Education","n/a"
+"CBBC Bank","Director","John Proffitt","Director","n/a","2021","Retired","n/a"
+"CBBC Bank","Vice Chairman","James D Robertson","Vice Chairman Director","n/a","2021","Retired","n/a"
+"Director","James D Robertson","Vice Chairman Director","n/a","2021","Retired","n/a"
+"CBBC Bank","Director","Leon Shields","Director","n/a","2021","Insurance","n/a"
+"CBBC Bank","Director","Gaynell Lawson","Director","n/a","2021","Retired","n/a"
+"CBBC Bank","Director","Robert L. Carroll","Director","n/a","2021","Retired","n/a"
+"CBBC Bank","Director","G. Alvin Grubb","Director","n/a","2021","Retired","n/a"
+"CBBC Bank","President/CEO","Mike Baker","President/CEO Director","n/a","2021","Banker","n/a"
+"Director","Mike Baker","President/CEO Director","n/a","2021","Banker","n/a"
+```

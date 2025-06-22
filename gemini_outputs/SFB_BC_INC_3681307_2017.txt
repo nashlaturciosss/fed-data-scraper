@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2017","Security Federal Bank Employee Stock Ownership Plan ("ESOP")","n/a","31225","11.8","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2017","HLH Family LLC","n/a","26490","10.0","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2017","Bryan D. Cowan Family Trust Harriette L. Hampton Trustee","n/a","4500","1.7","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2017","Harriette L. Hampton RIRA","n/a","822","0.3","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2017","Peter W. Hampton,"Jr."","n/a","64960","24.5","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2017","ESOP","n/a","2779","1.0","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SFB Bancorp,"Inc."","Chairman","Peter W. Hampton,"Jr."","CEO","Security Federal Bank","2017","Attorney and CEO of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","President","Peter W. Hampton,"Jr."","CEO","Security Federal Bank","2017","Attorney and CEO of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Peter W. Hampton,"Jr."","CEO","Security Federal Bank","2017","Attorney and CEO of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Vice Chairman","Frank D. Newman","Director","n/a","2017","Attorney and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Michael L. McKinney","Director","n/a","2017","Contractor and Director of Security Bank","406778"
+"SFB Bancorp,"Inc."","Director","Carmella F. Price","President","Security Federal Bank","2017","President of Security Federal Bank and Director","406778"
+"SFB Bancorp,"Inc."","Director","Barry Steven Sykes","Director","n/a","2017","Architect and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","CFO","David LeVeau","EVP","n/a","2017","EVP/CFO of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","HLH Family LLC","Director","n/a","2017","Doctor and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Harriette L Hampton","Director","n/a","2017","Doctor and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Bryan D Cowan Family Trust","Director","n/a","2017","Doctor and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Harriette L. Hampton Trustee","Director","n/a","2017","Doctor and Director of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Director","Earl R Booze","Director","n/a","2017","Attorney and Director of Security Federal Bank","406778"
+```

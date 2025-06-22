@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Corporation","Andalusia,"AL"","2014","The U.W.W. Sidney Fuller Family Trust","Common","99998","8.43%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2014","Louisa Mann Baker","Common","70000","5.90%","1020395"
+"Southern National Corporation","Destin,"AL"","2014","David McKowen,"Jr"","Common","100000","9.32%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2014","James M. Taylor II Family Trust","Common","75000","6.32%","1020395"
+"Southern National Corporation","Birmingham,"AL"","2014","Riley R Taylor Non-Marital Trust","Common","100000","8.43%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2014","Charles Roland","Common","140000","12.69%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2014","John Vick","Common","100000","8.43%","1020395"
+"Southern National Corporation","Freeport,"FL"","2014","Thomas E Lane","Common","85000","7.17%","1020395"
+"Southern National Corporation","Destin,"FL"","2014","Rupert E. Phillips","Common","100000","8.43%","1020395"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Corporation","Director","Charles Roland","Director","CCB Community Bank","2014","Farmer","1020395"
+"Southern National Corporation","Director","Kim Roland","Director","CCB Community Bank","2014","Spicer's Dry Cleaning,"Owner"","1020395"
+"Southern National Corporation","Director","J Mel Fuller","Director","CCB Community Bank","2014","Builder Columns & Moldings","1020395"
+"Southern National Corporation","Director","Mark Harper","Director","CCB Community Bank","2014","President,"Harper Electric Const Co"","1020395"
+"Southern National Corporation","Director","David McKowen,"Jr"","Director","CCB Community Bank","2014","M.D.,"Retired"","1020395"
+"Southern National Corporation","Director","John Taylor","Director","CCB Community Bank","2014","VP General Parts,"Inc.","Carquest"","1020395"
+"Southern National Corporation","Director","Riley R. Taylor","Director","CCB Community Bank","2014","Owner,"Taylor Linen Service"","1020395"
+"Southern National Corporation","Chairman of the Board","John E Vick","Director","CCB Community Bank","2014","Owner,"John Vick & Company"","1020395"
+"Southern National Corporation","President","Thomas E Lane","Chairman of the Board","CCB Community Bank","2014","Southern National Corp President","1020395"
+"Southern National Corporation","Director
+"Secretary"","Louisa M Baker","Director","CCB Community Bank","2014","Retired","1020395"
+"Southern National Corporation","Director","Daniel Taylor","Director","CCB Community Bank","2014","Owner Medical Clinics","1020395"
+```

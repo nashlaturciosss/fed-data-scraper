@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOUTHWEST BANC SHARES,"INC."","Bay Minette,"AL"","2017","The Fred K. Granade Irrevocable Trust","Common Stock","4303","6.03%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Bay Minette,"AL"","2017","The William A. Granade Irrevocable Trust","Common Stock","4304","6.03%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Flagstaff,"AZ"","2017","James N. Granade III","Common Stock","7094","9.95%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Chatom,"AL"","2017","William A. Granade","Common Stock","5067","7.10%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Southhampton,"NY"","2017","Laura Deer Moore","Common Stock","5530","7.75%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Austin,"TX"","2017","Stanley G. Moore","Common Stock","10556","14.80%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Lovingston,"VA"","2017","Mary Heather Moore Riser","Common Stock","5530","7.75%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOUTHWEST BANC SHARES,"INC."","Director","Fred K. Granade","Director","Stone,"Granade & Crosby","PC"","2017","Attorney","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","William A. Granade","n/a","n/a","2017","Private Investor","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Shareholder","Stanley G. Moore","n/a","Over the Rainbow,"Inc."","2017","Retailer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director & Secretary","James H. Massey","Advisory","Massey Automotive & Massey Chrysler Center,"Inc."","2017","Retired Auto Dealer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","Lindsey Boney ill","Principal","Smith,"Dukes & Buckelew","LLP"","2017","Accountant","n/a"
+"SOUTHWEST BANC SHARES,"INC."","President & Director","William A. Blackmon","n/a","n/a","2017","Banker","n/a"
+```

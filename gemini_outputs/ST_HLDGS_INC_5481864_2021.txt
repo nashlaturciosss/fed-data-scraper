@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ST Hldgs,"Inc."","Orlando,"Florida"","2021","Rajib Das","Class A Common Stock","1100","9.99%","n/a"
+"ST Hldgs,"Inc."","Orlando,"Florida"","2021","Rajib Das","Class A Voting Shares","3050","9.99%","n/a"
+"ST Hldgs,"Inc."","Morganville,"New Jersey"","2021","Bikram Gill & Jatinder Gill","n/a","1000","8.79%","n/a"
+"ST Hldgs,"Inc."","Winter Park,"Florida"","2021","Ketan Pandya & Nisha Pandya","n/a","1000","8.79%","n/a"
+"ST Hldgs,"Inc."","Orlando,"Florida"","2021","Paul Blake O'Brien","n/a","1000","8.79%","n/a"
+"ST Hldgs,"Inc."","Orlando,"Florida"","2021","Drs. Sanjay & Kavita Pattani","n/a","680","n/a","n/a"
+"ST Hldgs,"Inc."","New York,"New York"","2021","Rajesh A. Subraj","n/a","1000","8.79%","n/a"
+"ST Hldgs,"Inc."","Orlando,"Florida"","2021","Heylin & Weylin Sing","n/a","1000","8.79%","n/a"
+"ST Hldgs,"Inc."","Coral Gables,"Florida"","2021","Leonard Davenport","n/a","600","5.27%","n/a"
+"ST Hldgs,"Inc."","Mumbai,"India"","2021","Kunal Shroff","n/a","850","9.67%","n/a"
+"ST Hldgs,"Inc."","Chicago,"Illinois"","2021","Harsh Shroff","n/a","250","9.67%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```

@@ -1,0 +1,24 @@
+Here are the two tables in valid CSV format.
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2019","Edgar E. Chapman,"Jr."","Common Stock","101","50.2488%","n/a"
+"TSB Bancorp,"Inc."","Senoia,"GA"","2019","Samuel P. Chapman","Common Stock","25","12.4378%","n/a"
+"TSB Bancorp,"Inc."","O'Fallon,"MO"","2019","Edgar Wright Chapman","Common Stock","25","12.4378%","n/a"
+"TSB Bancorp,"Inc."","Dothan,"AL"","2019","Barbara C. Haas","Common Stock","25","12.4378%","n/a"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2019","Mary C. Chapman","Common Stock","25","12.4378%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Talbot State Bank","Chairman of the Board,"CEO & President; Sr Executive Loan Officer","Investment Officer"","Edgar E. Chapman,"Jr"","n/a","n/a","2019","NA","577230"
+"Talbot State Bank","Director,"Acting Chairman of the Board & Acting CEO"","James T Davidson","n/a","n/a","2019","NA","577230"
+"Talbot State Bank","Director & President","Kenneth Chapman","n/a","n/a","2019","NA","577230"
+"Talbot State Bank","Director","Darrell Moore","n/a","n/a","2019","Retired","577230"
+"Talbot State Bank","n/a","Samuel P Chapman","n/a","n/a","2019","Real Estate Agent","577230"
+"Talbot State Bank","Director","Nancy T Mides","n/a","n/a","2019","Retired","577230"
+"Talbot State Bank","n/a","Edgar Wright Chapman","n/a","n/a","2019","Electrical Engineer","577230"
+"Talbot State Bank","n/a","Barbara C. Haas","n/a","n/a","2019","Student/Homemaker","577230"
+"Talbot State Bank","Director","Mary C. Chapman","n/a","n/a","2019","NA","577230"
+"Talbot State Bank","Director","Charles E. Meeks","n/a","n/a","2019","Retired","577230"
+```

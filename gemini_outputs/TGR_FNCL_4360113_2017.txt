@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2017","John J. Guinee","n/a","1355737","7.85%","n/a"
+"TGR FINANCIAL,"INC."","New York,"NY"","2017","Endicott Group","n/a","1355737","7.85%","n/a"
+"TGR FINANCIAL,"INC."","Atlanta,"GA"","2017","GMT Capital Group","n/a","2673503","15.49%","n/a"
+"TGR FINANCIAL,"INC."","New York,"NY"","2017","Lightyear Group","n/a","1552783","9.00%","n/a"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2017","John Rodgers,"LP"","n/a","1355737","7.85%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"FIRST FLORIDA INTEGRITY BANK","Director","Adam D. Compton","Head of Finance","Skuchain Inc.","2017","n/a","3591282"
+"n/a","Director","Dulce V. Dudley","Partner","Lighthouse Pediatrics of Naples","2017","n/a","3591282"
+"n/a","Chairman & CEO","Robert M. Feerick","Chairman","Xymox Technologies,"Inc."","2017","n/a","3591282"
+"n/a","Chairman & CEO","Robert M. Feerick","Director","Gulfshore Insurance","2017","n/a","3591282"
+"n/a","Director","J. Michael Gibbons","Vice President","W.R. Endicott III","2017","Endicott Management Company","n/a"
+"n/a","Director","J. Michael Gibbons","Director","W.R. Endicott IV","2017","Endicott Management Company","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","John J. Guinee","Managing Partner","Constitution Capital Partners,"LLC"","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","Michael J. Kerschner","Commissioner","Free I LLC","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","Bradford B. Kopp","Self Employed","Radius Bancorp,"Inc."","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","Bradford B. Kopp","Director","Radius Bank","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","Bradford B. Kopp","Director","Source One Holdings","2017","n/a","n/a"
+"n/a","Director","James S. Lindsay","Realtor","Dor-J's LLP","2017","The Lindsay Company","n/a"
+"n/a","Director","James S. Lindsay","Realtor","720 Commons LLC","2017","The Lindsay Company","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Director","Edward J. Mace","Self Employed","Ribek Corporation","2017","Edward J. Mace,"СРА"","n/a"
+"n/a","Director","Donald W. Major","Retired","n/a","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","SEVP & Chief Admin. Officer","Robert T. Reichert","n/a","n/a","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","President","Garrett S. Richter","Director & President","First Florida Integrity Bank","2017","n/a","n/a"
+"FIRST FLORIDA INTEGRITY BANK","Chairman","Gary L. Tice","Chairman of the Board","First Florida Integrity Bank","2017","n/a","n/a"
+"n/a","Director","Robert T. Zellers","President","n/a","2017","Tamiami Ford & Tamiami Hyundai","n/a"
+```

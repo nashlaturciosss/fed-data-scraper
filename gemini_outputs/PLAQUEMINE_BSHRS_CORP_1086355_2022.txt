@@ -1,0 +1,24 @@
+"Okay","I'm ready to extract the data from the provided document. Here are the two CSV tables in the requested format:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2022","Stephen Panepinto","Common Stock","28577","52.6425%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2022","Joseph D. Weldon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bancshares Corporation","Calabasa,"CA"","2022","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2022","Frances Durand","n/a","n/a","None","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bancshares Corporation","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2022","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director & Secretary of the Board","Kenneth C. Caruso","n/a","KC5,"LLC"","2022","Managing Partner","n/a"
+"Plaquemine Bancshares Corporation","Director","Harry J Philips,"Jr."","Partner","Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","2022","Former","n/a"
+"Plaquemine Bancshares Corporation","Director","Leo D Sternfels","President","Service Mortgage Co.","2022","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director","Brian M Aguillard","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Director","Mark Graffeo","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Director & Chairman/ President/CEO","Stephen Panepinto","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Executive Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Caroline B. Causin","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Elizabeth Rivet","n/a","n/a","2022","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Rhett Vaughn","n/a","n/a","2022","n/a","n/a"
+```

@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2016","Security Federal Bank Employee Stock Ownership Plan (''ESOP'')","Common Stock","37188","11.2","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2016","Peter W. Hampton Marital Trust","Common Stock","48306","14.5","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2016","Bryan D. Cowan Family Trust","Common Stock","4500","1.3","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2016","Margaret Hampton IRA","Common Stock","9853","3.0","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2016","Margaret H. Hampton Revoc Trust","Common Stock","4005","1.2","n/a"
+"SFB Bancorp,"Inc."","Ridgeland,"Mississippi"","2016","Harriette L. Hampton RIRA","Common Stock","822","0.3","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2016","Peter W. Hampton,"Jr."","Common Stock","34005","10.3","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2016","ESOP","Common Stock","2778","0.8","n/a"
+"SFB Bancorp,"Inc."","Scottsdale,"AZ"","2016","Trondheim Capital Partners LP","Common Stock","32600","9.8","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SFB Bancorp,"Inc."","Chairman,"President/CEO and Director"","Peter W. Hampton,"Jr."","CEO of Security Federal Bank","Security Federal Bank","2016","Attorney and CEO of Security Federal"
+"SFB Bancorp,"Inc."","Vice Chairman and Director","Frank D. Newman","Director","n/a","2016","Attorney of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Michael L. McKinney","Director","n/a","2016","Contractor of Security Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Carmella F. Price","President of Security Federal Bank and Director","n/a","2016","President of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Barry Steven Sykes","Director","n/a","2016","Architect of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","CFO","David LeVeau","EVP/CFO of Security Federal Bank","n/a","2016","EVP/CFO of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","n/a","Security Federal Bank Employee Stock Ownership Plan","n/a","n/a","2016","n/a","n/a"
+"SFB Bancorp,"Inc."","n/a","Peter W. Hampton","n/a","n/a","2016","Deceased","n/a"
+"SFB Bancorp,"Inc."","Director","Harriette L. Hampton","Director","n/a","2016","Doctor of Security Federal Bank","n/a"
+```

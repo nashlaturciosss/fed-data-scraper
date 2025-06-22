@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancshares,"Inc."","Thibodaux,"LA"","2022","Dwayne J. Breerwood","Common Stock","10600","9.46%","n/a"
+"SBT Bancshares,"Inc."","Thibodaux,"LA"","2022","Dwayne J. Breerwood","Class A Voting Shares","1156","1.03%","n/a"
+"SBT Bancshares,"Inc."","Galliano,"LA"","2022","Steve J. Lefort","Common Stock","16531","14.73%","n/a"
+"SBT Bancshares,"Inc."","Golden Meadow,"LA"","2022","Boysie J. Bollinger,"Jr."","Common Stock","10250","9.14%","n/a"
+"SBT Bancshares,"Inc."","Thibodaux,"LA"","2022","Robert J. Naquin","Common Stock","6700","5.98%","n/a"
+"SBT Bancshares,"Inc."","Thibodaux,"LA"","2022","Robert J. Naquin","Class A Voting Shares","1325","1.18%","n/a"
+"SBT Bancshares,"Inc."","Lockport,"LA"","2022","Mark Danos","Common Stock","8796","7.84%","n/a"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2022","Warren J. Plaisance,"Jr."","Common Stock","10000","8.91%","n/a"
+"SBT Bancshares,"Inc."","Golden Meadow,"LA"","2022","Darrin J. Duet","Common Stock","6283","5.60%","n/a"
+"SBT Bancshares,"Inc."","Houma,"LA"","2022","David A. Chauvin","Common Stock","6413","5.72%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancshares,"Inc."","President","Steve J. Lefort","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Steve J. Lefort","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Boysie J. Bollinger,"Jr."","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Robert J. Naquin","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Mark Danos","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Warren J. Plaisance,"Jr."","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Darrin J. Duet","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","David A. Chauvin","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Dwayne J. Breerwood","n/a","n/a","2022","n/a","n/a"
+"SBT Bancshares,"Inc."","C.F.O.","Charles J. Plaisance","n/a","n/a","2022","n/a","n/a"
+```

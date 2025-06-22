@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bank Holding Company","Omega,"GA"","2016","Ponder Family","n/a","216416","11.816%","2764977"
+"South Georgia Bank Holding Company","Ty Ty,"GA"","2016","Willis Family","n/a","194731","10.632%","2764977"
+"South Georgia Bank Holding Company","Omega,"GA"","2016","Hornbuckle Family","n/a","174826","9.545%","2764977"
+"South Georgia Bank Holding Company","Tifton,"GA"","2016","Reinhardt Family","n/a","108402","5.919%","2764977"
+"South Georgia Bank Holding Company","Omega,"GA"","2016","Patrick Family","n/a","94858","5.179%","2764977"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bank Holding Company","Chairman of Board","Jones Ponder","n/a","n/a","2016","Retired Farmer","2764977"
+"South Georgia Bank Holding Company","Director","Grady M. Thompson,"Jr."","President","Bishop Well & Pump Services,"Inc."","2016","Well Drilling","2764977"
+"South Georgia Bank Holding Company","Director","Thomas D. Hornbuckle","President","T. M. Hornbuckle,"Inc."","2016","Wholesale Florist","2764977"
+"South Georgia Bank Holding Company","Director","Thomas D. Hornbuckle","President","Hornbuckle Wholesale Florist of Macon,"Inc."","2016","Wholesale Florist","2764977"
+"South Georgia Bank Holding Company","Director","Thomas D. Hornbuckle","President","Hornbuckle Wholesale Florist of Lyons,"Inc."","2016","Wholesale Florist","2764977"
+"South Georgia Bank Holding Company","Director","Doyle Medders","Owner","Medders Irrigation,"LLC"","2016","Irrigation Business Owner","2764977"
+"South Georgia Bank Holding Company","Director","Joe M. Turner","n/a","n/a","2016","Physician","2764977"
+"South Georgia Bank Holding Company","Director","Lamar G. Martin","n/a","n/a","2016","Retired Extension Service","2764977"
+"South Georgia Bank Holding Company","Chairman of Board","G. Pait Willis","n/a","n/a","2016","n/a","2764977"
+"South Georgia Bank Holding Company","Director","Jonathan Jones","President","Jones & Jones Inc.","2016","Construction Owner","2764977"
+"South Georgia Bank Holding Company","Director","Jonathan Jones","President","Jones Group,"LLC"","2016","Construction Owner","2764977"
+"South Georgia Bank Holding Company","Director","Teresa Lasseter","n/a","n/a","2016","Retired USDA Farm Agency","2764977"
+"South Georgia Bank Holding Company","Director","Bill Reinhardt","n/a","Reinhardt Family Partnership","2016","Judge","2764977"
+"South Georgia Bank Holding Company","Director","Bill Reinhardt","n/a","Estate of J. C. Rodgers Trust","2016","Judge","2764977"
+"South Georgia Bank Holding Company","Director","Willis Collins","Secretary","ELCO Farms","2016","Farmer","2764977"
+"South Georgia Bank Holding Company","Director","Willis Collins","President","Cotton Warehousers","2016","Farmer","2764977"
+"South Georgia Bank Holding Company","President","Glenn P. Willis,"Jr."","n/a","n/a","2016","n/a","2764977"
+"South Georgia Bank Holding Company","Corporate Secretary","Dale McGriff","n/a","n/a","2016","n/a","2764977"
+```

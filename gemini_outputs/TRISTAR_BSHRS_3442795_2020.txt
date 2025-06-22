@@ -1,0 +1,29 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 form","following your strict instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TriStar Bancshares,"Inc"","Nashville,"TN"","2020","Stuart Speyer","Common Stock","135520","14.89%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2020","Ted Williams","Common Stock","101733","11.18%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2020","Jerry V. Smith","Common Stock","59423","6.53%","3442795"
+"TriStar Bancshares,"Inc"","Dickson,"TN"","2020","Linda Hayes","Stock","43502","4.78%","3442795"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TriStar Bancshares,"Inc"","President and CEO","Ted Williams","n/a","See Attached","2020","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director","Harvey Church","n/a","n/a","2020","n/a","n/a"
+"TriStar Bancshares,"Inc"","EVP & COO","Robby Harmon","Chief Manager","WHR Properties,"LLC"","2020","Executive Vice President","n/a"
+"TriStar Bancshares,"Inc"","EVP & CIO","Becky Ragan","n/a","n/a","2020","Executive Vice President","n/a"
+"TriStar Bancshares,"Inc"","EVP Deposit Operations","Sharon Ferrell","n/a","n/a","2020","Executive Vice President","n/a"
+"TriStar Bancshares,"Inc"","EVP & CFO","George Schneider","n/a","n/a","2020","Chief Financial Officer","n/a"
+"TriStar Bancshares,"Inc"","Director","Melissa Street","n/a","n/a","2020","n/a","n/a"
+"TriStar Bancshares,"Inc"","Director","Stuart Speyer","n/a","See Attached","2020","Vanufacturing Company Tennsco","n/a"
+"TriStar Bancshares,"Inc"","Director","Jerry Smith","n/a","See Attached","2020","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Linda P Hayes","Chairman (non-employee)","n/a","2020","Retired Teacher","n/a"
+"TriStar Bancshares,"Inc"","Director","D. Wilson Overton","D Wilson Overton CPA-owner","Donegan and Overton-GP","2020","CPA","n/a"
+"TriStar Bancshares,"Inc"","Director","Paul G. Summers","n/a","See Attached","2020","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","Kevin Smith","n/a","See Attached","2020","Benefits Consultant","n/a"
+"TriStar Bancshares,"Inc"","Director","Brian Ragan","n/a","See Attached","2020","Attorney at Law","n/a"
+"TriStar Bancshares,"Inc"","Director","John King","n/a","See Attached","2020","Business Owner","n/a"
+"TriStar Bancshares,"Inc"","Director","John Law","n/a","See Attached","2020","Retired Insurance Executive","n/a"
+```

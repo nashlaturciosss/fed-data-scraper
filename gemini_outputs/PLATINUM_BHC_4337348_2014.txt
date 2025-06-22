@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Platinum Bank Holding Company","Valrico,"FL"","2014","Lawrence & Jacqueline Heard","common stock","65504","6.03%","4337348"
+"Platinum Bank Holding Company","Valrico,"FL"","2014","Jerry & Deborah Kyle","common stock","61809","5.69%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2014","Mark Steven Sembler","common stock","58270","5.36%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2014","Thomas J. Shannon,"Jr."","common stock","65371","6.02%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2014","Jack D. Suarez","common stock","65371","6.02%","4337348"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Platinum Bank Holding Company","Director/President/CEO","Jerry M. Kyle","Member","M & M Properties LLP","2014","n/a","2631314"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Manager","Thuzi,"LLC"","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Secretary/Treasurer","JFJ Investments,"inc"","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Manager","Hereford Holdings LLC","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Manager","Hereford Investments LLC","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Manager","Oaktrail Apartments LLC","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Manager","Thuzi Investment I,"LLC"","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","Secretary/Treasuer","Kimmins Corp","2014","Investor","n/a"
+"Platinum Bank Holding Company","Director/Polk County Region President","Kenneth D. Ely","Managing Member","10 EC Joke LLC","2014","Contracting Executive","n/a"
+"Platinum Bank Holding Company","Director","Ross S. Elsberry","n/a","n/a","2014","Retired Agricultural Executive","n/a"
+"Platinum Bank Holding Company","Director","Dr. W. Edward Gonzalez,"Jr."","Sole Owner","Pediatric Dental Center","2014","n/a","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","M & M Properties,"LLP"","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Gandy Partners LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","LaViva Associates LLP","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Ariana Associates LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Heard Investments LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Parkview Investments LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","Partner","3020 Azeele,"Inc."","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Red Fish Investments LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Anchor I Investments LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Dore Properties LLC","2014","Real Estate Executive","n/a"
+"Platinum Bank Holding Company","Director","Henry Gonzalez","n/a","n/a","2014","n/a","n/a"
+"Platinum Bank Holding Company","Director","Richard Straughn","President","Straughn & Turner,"PA"","2014","Attorney at Law","n/a"
+"Platinum Bank Holding Company","Director","Richard Straughn","President","Magnolia Properties","2014","Attorney at Law","n/a"
+"Platinum Bank Holding Company","Director","Phillip Carroll","President","Carroll Air Systems","2014","Air Conditioning Executive","n/a"
+```

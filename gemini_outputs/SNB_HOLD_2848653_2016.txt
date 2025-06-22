@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2016","David Lawrence Harris Family Trust","Common Stock","127","21.10%","n/a"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2016","Hope H. Johnson","Common Stock","418","69.44%","n/a"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2016","Marjorie H. Harris","Common Stock","136","22.59%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SNB Holdings,"Inc."","Director & Chairman","Hope H. Johnson","Trustee","Malone Trusts","2016","n/a","n/a"
+"SNB Holdings,"Inc."","Director","Judson Brooks","n/a","n/a","2016","n/a","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman","Joe Dalton","President","Dalton Drug Co,"Inc."","2016","Director of Pharmacy","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman","Joe Dalton","President","Dalton Properties,"LLC"","2016","Director of Pharmacy","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman","Joe Dalton","President","Abbeville Pharmacy","2016","Director of Pharmacy","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman","Joe Dalton","President","Hartford Pharmacy LLC","2016","Director of Pharmacy","n/a"
+"SNB Holdings,"Inc."","Director & Vice Chairman","Joe Dalton","President","Daleville Pharmacy LLC","2016","Director of Pharmacy","n/a"
+"SNB Holdings,"Inc."","Director","Paul Hufham","President","Healthwest Dental Association,"PC"","2016","Dentist & Owner","n/a"
+"SNB Holdings,"Inc."","Director & Secretary/Treasurer","Joseph Johnson","n/a","n/a","2016","n/a","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Acre LLC","2016","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Acre Properties LLC","2016","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Little Acre Properties LLC","2016","Retired","n/a"
+"SNB Holdings,"Inc."","Director","Steve Bancroft","Financial Manager","Kennedy Family LLC","2016","Retired","n/a"
+"SNB Holdings,"Inc."","Chief Loan Officer","Charile Breedlove","n/a","n/a","2016","n/a","n/a"
+```

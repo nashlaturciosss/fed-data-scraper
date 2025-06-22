@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Baltimore,"MD"","2022","T. Rowe Price Associates,"Inc."","Voting Common Stock","907264","6.6%","n/a"
+"Professional Holding Corp.","Greenwich,"CT"","2022","Endeavor Capital Advisors,"Inc."","Voting Common Stock","1061608","8.3%","n/a"
+"Professional Holding Corp.","Arlington,"VA"","2022","EJF Capital","Voting Common Stock","887349","6.2%","n/a"
+"Professional Holding Corp.","New York,"NY"","2022","Blackrock,"Inc."","Voting Common Stock","775681","5.6%","n/a"
+"Professional Holding Corp.","Boston,"MA"","2022","FMR,"LLC"","Voting Common Stock","733912","5.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Director","Carlos Garcia","Chairman and Director","CFG TopCo GP LLC","2022","CEO,"BayBoston Managers LLC"","n/a"
+"Professional Holding Corp.","Director","Jon Gorney","Chairman Director","First Commonwealth Bank and Corporation","2022","Retired Financial Services","n/a"
+"Professional Holding Corp.","COB","Herbert Martens","Managing Partner","Advent Associates","2022","n/a","n/a"
+"Professional Holding Corp.","Director","Lawrence Schimmel","Chief Medical Officer","Clinigence Holdings","2022","Physician/Health Care Entrepreneur","n/a"
+"Professional Holding Corp.","Director,"President","CEO"","Abel Iglesias","Director","Doctor's Hospital","2022","n/a","n/a"
+"Professional Holding Corp.","Director","Ava Parker","President","Palm Beach State College","2022","College President","n/a"
+"Professional Holding Corp.","Director","Margaret Blakey","EVP","Triple Five Investment Group","2022","Finance Executive","n/a"
+"Professional Holding Corp.","Director","Norman Edelcup","None.","n/a","2022","Retire","n/a"
+"Professional Holding Corp.","Director","Joseph Willet","None.","n/a","2022","Retired","n/a"
+"Professional Holding Corp.","Director","Hillel Shohet","None.","n/a","2022","Real Estate Investor","n/a"
+"Professional Holding Corp.","Chief Financial Officer","Mary 8. Usategui","None","n/a","2022","n/a","n/a"
+"Professional Holding Corp.","Secretary","Michael Sontag","Manager","JI Madomica Real Estate LLC","2022","n/a","n/a"
+```

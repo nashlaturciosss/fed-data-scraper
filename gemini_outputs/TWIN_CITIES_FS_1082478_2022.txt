@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2022","Robertson Family Limited Partnership","n/a","45530","8.37%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2022","Mary Jo Willocks","n/a","33928","6.24%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2022","Leann E. Hicks","n/a","32118","5.91%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2022","Ben Myers Robertson IRRV Trust","n/a","44561","8.20%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2022","Leon Shields","n/a","20500","3.77%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Chairman","Jerry Dean","Chairman","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Bill Clabough","Director","n/a","2022","Exec of Non Profit","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Secretary Director","Leann Hicks","Secretary Director","n/a","2022","Education","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","John Proffitt","Director","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Vice Chairman Director","James D Robertson","Vice Chairman Director","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Leon Shields","Director","n/a","2022","Insurance","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Gaynell Lawson","Director","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Robert L. Carroll","Director","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","G. Alvin Grubb","Director","n/a","2022","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","CEO Director","Mike Baker","CEO Director","n/a","2022","Banker","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","President Director","Mike Hearon","President Director","n/a","2022","Banker","n/a"
+```

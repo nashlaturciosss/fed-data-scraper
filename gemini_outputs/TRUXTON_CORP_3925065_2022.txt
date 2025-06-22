@@ -1,0 +1,25 @@
+Here are the two CSV tables requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Truxton Corporation","Chairman and CEO","Tom Stumb","n/a","n/a","2022","n/a","n/a"
+"Truxton Corporation","Director","Howard H Lamar","n/a","Bass","Berry & Sims PLC","2022","Attorney/ Member","n/a"
+"Truxton Corporation","Director","Louise Bryan","Commissioner","City of Belle Meade","City of Belle Meade","2022","Commissioner","n/a"
+"Truxton Corporation","Director","Matthew A. King","n/a","FCA Venture Partners","2022","Managing Partner","n/a"
+"Truxton Corporation","General Counsel and Chief Human Resources Officer","Gustavus A Puryear IV","n/a","Asurion","2022","n/a","n/a"
+"Truxton Corporation","Director","Christopher C. Whitson","n/a","Sherrard Roe Voigt & Harbison","PLC","2022","Attorney","n/a"
+"Truxton Corporation","Director","Deborah A. McDermott","n/a","Standard Media Holdings","LLC","2022","CEO & President","n/a"
+"Truxton Corporation","Director","Jeffrey Buntin Jr.","n/a","The Buntin Group","2022","CEO & President","n/a"
+"Truxton Corporation","Director","V. Larkin Martin","Vice President","The Albemarle Corporation","2022","n/a","n/a"
+"Truxton Corporation","Director","R. Claiborne Richards Jr.","Operating Advisor","Clayton","Dubilier & Rice ("CD&R")","2022","n/a","n/a"
+"Truxton Corporation","Director","Derek Young","President & CEO","YMG Enterprises","LLC","2022","n/a","n/a"
+"Truxton Corporation","Director","Thomas S. Stumb","n/a","n/a","2022","n/a","n/a"
+"Truxton Corporation","Secretary","J. Overton Colton","Managing Director","Truxton Trust Co","2022","n/a","n/a"
+"Truxton Corporation","n/a","Derrick A. Jones","Managing Director","Truxton Trust Co","2022","n/a","n/a"
+"Truxton Corporation","n/a","Andrew L May","President & Chief Financial Officer","Truxton Trust Co","2022","n/a","n/a"
+"Truxton Corporation","n/a","Julie M. Marr","SVP & Controller","Truxton Trust Co","2022","n/a","n/a"
+```

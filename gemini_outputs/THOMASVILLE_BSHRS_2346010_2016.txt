@@ -1,0 +1,38 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2016","Stephen H. Cheney","Voting Securities","297420","5.01%","2346010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2016","Stephen H. Cheney","Restricted Stock Rights (Deferred Director Comp/Exec Stock Grant)","45389","n/a","2346010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2016","Richard L. Singletary","Voting Securities","305490","5.15%","2346010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2016","Richard L. Singletary","Restricted Stock Rights (Deferred Director Compensation)","37743","n/a","2346010"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville National Bank","President","Charles A Balfour","President","Balfour Timber Co.,"Inc."","2016","Balfour Timber Company,"Inc."","2346010"
+"Thomasville National Bank","President","Charles A Balfour","President","Balfour Pole Company,"LLC"","2016","Balfour Timber Company,"Inc."","2346010"
+"Thomasville National Bank","President","Charles A Balfour","Chairman","Balfour Land Company","2016","Balfour Timber Company,"Inc."","2346010"
+"Thomasville National Bank","President","John Bannister","President","Bannister Electric Co.","2016","Bannister Electric Co.","2346010"
+"Thomasville National Bank","President","John Bannister","President","K & L Land,"LLC"","2016","Bannister Electric Co.","2346010"
+"Thomasville National Bank","President","John Bannister","","Thomasville Service Center","2016","Bannister Electric Co.","2346010"
+"Thomasville National Bank","Director & EVP","Joel W. Barrett","n/a","n/a","2016","n/a","2346010"
+"Thomasville National Bank","Director & CEO","Stephen H Cheney","n/a","n/a","2016","n/a","2346010"
+"Thomasville National Bank","President","David A. Cone","President","Cone Machinery,"Inc."","2016","n/a","2346010"
+"Thomasville National Bank","President","David A. Cone","President","PDK Investments,"Inc."","2016","n/a","2346010"
+"Thomasville National Bank","Director","Charles E Hancock","Chairman","DEVHAN Holdings","2016","Orthopedic Surgeon","2346010"
+"Thomasville National Bank","Director","Mills Herndon","Owner/Broker","First Thomasville Realty,"Inc."","2016","n/a","2346010"
+"Thomasville National Bank","Director","Mills Herndon","Partner","Cumbest Mill,"LLC"","2016","n/a","2346010"
+"Thomasville National Bank","Director","Mills Herndon","Partner","BLVD Acquisition,"LLC"","2016","n/a","2346010"
+"Thomasville National Bank","Director & President","Charles H. Hodges,"III"","n/a","n/a","2016","n/a","2346010"
+"Thomasville National Bank","Director","Harold Jackson","CEO","Petroleum Products","2016","n/a","2346010"
+"Thomasville National Bank","Director","Harold Jackson","President","Petroleum Transportation","2016","n/a","2346010"
+"Thomasville National Bank","Director","Randall L. Moore","President","Moore & Porter Produce Brokers","2016","n/a","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","Partner & President of","Pine Landing,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","Member","Tallahasse Homes,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","Member","Manassas Homes,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","","Halleck Homes,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","","Tallahasse Homes Realty,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","","Tallahasse Homes Residential,"LLC"","2016","Developer/Investor","2346010"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","","Preserve Homes,"LLC"","2016","Developer/Investor","2346010"
+```

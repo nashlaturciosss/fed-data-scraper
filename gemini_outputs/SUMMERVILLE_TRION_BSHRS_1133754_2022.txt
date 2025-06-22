@@ -1,0 +1,22 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2022","Edward Hurley","Common Stock","16572","28.71%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Rome,"Georgia"","2022","William B Hurley Daughters Trust","Common Stock","16550","28.67%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Rome,"Georgia"","2022","Katherine H Lugo","Common Stock","7","012%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2022","Cynthia Suzanne Hurley Bowman","Common Stock","9900","17.15%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2022","Cynthia Suzanne Hurley,"Custodian"","Common Stock","6732","11.66%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Hurley Foods,"Inc"","2022","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Capital Contour,"LLC"","2022","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Hurley Law Firm,"LLC"","2022","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & President","Edward Hurley","Director & Secretary","Hurley Foods,"Inc"","2022","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Secretary","Suzanne Hurley","Director & President","Hurley Foods,"Inc"","2022","Banker","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Katherine Hurley Lugo","n/a","Weatherford International","2022","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Christopher Sutton Connelly","n/a","Cook & Connelly","2022","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Vice President","William Tutton","n/a","n/a","2022","Banker","n/a"
+```

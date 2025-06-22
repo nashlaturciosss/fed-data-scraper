@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Relations Bancshares,"Inc."","Vernon,"AL"","2019","Richard ""Mac"" Mayers","Common Stock","43182","8.41%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Relations Bancshares,"Inc."","Chairman & CEO Director","Mark Wilson","Chairman & CEO,"Director"","Bank of Walker County","2019","Banker","C.I."
+"Relations Bancshares,"Inc."","President Director","Tony Sparks","President,"Director"","Bank of Walker County","2019","Banker","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Director","Bank of Walker County","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Mayers & Co,"PC"","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Midsouth Petro Corp","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Sipsey River Oil","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Partner","Titan Capital,"LLC"","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Partner","GM Properties,"LLC"","2019","Accountant","C.I."
+"Relations Bancshares,"Inc."","Director","Ronald K. Harris","President of Delta Transfer","Bank of Walker County","2019","Cross Country Moving & Storage","C.I."
+"Relations Bancshares,"Inc."","Director Emeritis","Phillip Laird","Owner","Laird & Robertson","2019","Attorney","C.I."
+"Relations Bancshares,"Inc."","Director","Jim Woods","Owner","Jasper Auto Sales","2019","Auto Sales","C.I."
+"Relations Bancshares,"Inc."","Senior Vice President","Walker Wilson","Senior Vice President Secretary to BOD","Bank of Walker County","2019","Banker","C.I."
+"Relations Bancshares,"Inc."","Chief Operating Officer","Debra Kay Sartain","Chief Operating Officer","Bank of Walker County","2019","Banker","C.I."
+"Relations Bancshares,"Inc."","Director","Haig Wright","Director","Bank of Walker County","2019","Insurance Broker","C.I."
+"Relations Bancshares,"Inc."","Director","Haig Wright","Owner","Byars-Wright Insurance","2019","Insurance Broker","C.I."
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Director","Bank of Walker County","2019","Real Estate Agent","C.I."
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Justin Dyar LLC","2019","Real Estate Agent","C.I."
+"Relations Bancshares,"Inc."","Director","Justin Dyar","Owner","Lake Homes Realty","2019","Real Estate Agent","C.I."
+```

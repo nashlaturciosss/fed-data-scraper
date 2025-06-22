@@ -1,0 +1,38 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2017","Jennings Family Trust III","n/a","5033","31.72%","100236"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2017","Jennings Family Trust IV","n/a","4896","30.21%","100236"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2017","Michael D. McClain","n/a","1089","6.72%","100236"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Pulaski County Commissioner","n/a","2017","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Royal Care,"Inc."","2017","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Tri South Management,"Inc."","2017","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Kingsford of Warner Robins,"Inc."","2017","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","Thomas. L. Arnold","n/a","n/a","2017","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director","Thomas. L. Arnold","Owner","Royal Care,"Inc."","2017","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director","Thomas. L. Arnold","Owner","Tri South Management,"Inc."","2017","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director","Thomas. L. Arnold","Owner","Kingsford of Warner Robins,"Inc."","2017","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director","C. Brooks Bailey","Pulaski County Commissioner","n/a","2017","Retired Pulaski County Commissioner","n/a"
+"SunMark Bancshares,"Inc."","Director","Shaw Blackmon,"III"","President & CEO","National Bank Products","2017","President & CEO National Bank Products","n/a"
+"SunMark Bancshares,"Inc."","Director","Royce Conner","n/a","n/a","2017","Retired Farmer","n/a"
+"SunMark Bancshares,"Inc."","Director & President","Jeanntte G. Ford","Owner","Southern Care Management,"Inc."","2017","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director & President","Jeanntte G. Ford","Owner","Royal Care,"Inc."","2017","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director & President","Jeanntte G. Ford","Owner","Tri South Management,"Inc."","2017","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director & President","Jeanntte G. Ford","Owner","Kingsford of Warner Robins,"Inc."","2017","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","Vice President","Community Health Services of Georgia","2017","Vice President,"Community Health Services of Georgia"","n/a"
+"SunMark Bancshares,"Inc."","Vice Chairman","W. M. Jennings,"III"","General Partner","J & J Properties","2017","Vice Chairman,"ComSouth Telecommunications","Inc."","n/a"
+"SunMark Bancshares,"Inc."","Director","James C. Liipfert,"Jr."","Secretary-Treasurer","A. M. Bickley Chemcial,"Inc."","2017","Secretary-Treasurer A. M. Bickley Chemcial,"Inc."","n/a"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","Chief Strategy Officer","Jennings Investments,"LP"","2017","Chief Strategy Officer of Jennings Investments,"LP and ComSouth Corporation"","n/a"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","Chief Strategy Officer","ComSouth Corporation","2017","Chief Strategy Officer of Jennings Investments,"LP and ComSouth Corporation"","n/a"
+"SunMark Bancshares,"Inc."","n/a","Meredith Jennings McDaniel","n/a","n/a","2017","Homemaker","n/a"
+"SunMark Bancshares,"Inc."","n/a","Meredith Jennings McDaniel","General Partner","J & J Properties","2017","Homemaker","n/a"
+"SunMark Bancshares,"Inc."","Director","Larry Sneligrove","n/a","n/a","2017","Developer","n/a"
+"SunMark Bancshares,"Inc."","Director","H. Jay Walker,"III"","Attorney","Walker Law Firm","2017","Attorney","n/a"
+"SunMark Bancshares,"Inc."","Director","H. Jay Walker,"III"","Member","Houston Co. Board of Commissions","2017","Attorney","n/a"
+"SunMark Bancshares,"Inc."","President","Gary M. McLure","n/a","n/a","2017","n/a","n/a"
+```

@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TSB Bancorp,"Inc."","n/a","2022","Kenneth E. Chapman,"Jr."","n/a","148463","15.11%","n/a"
+"TSB Bancorp,"Inc."","n/a","2022","Talbot C. Black,"Jr."","n/a","109469","11.14%","n/a"
+"TSB Bancorp,"Inc."","n/a","2022","Edgar E. Chapman,"Jr."","n/a","100027","10.17%","n/a"
+"TSB Bancorp,"Inc."","n/a","2022","Hughes Family Limited Partnership","n/a","64000","6.51%","n/a"
+"TSB Bancorp,"Inc."","n/a","2022","L. Linwood Lunsford","n/a","59112","6.01%","n/a"
+"TSB Bancorp,"Inc."","n/a","2022","Charles W. Pruitt","n/a","52559","5.34%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TSB Bancorp,"Inc."","Director","Kenneth E. Chapman,"Jr."","n/a","n/a","2022","President and CEO","n/a"
+"TSB Bancorp,"Inc."","Director","Talbot C. Black,"Jr."","n/a","n/a","2022","Attorney","n/a"
+"TSB Bancorp,"Inc."","Director","Edgar E. Chapman,"Jr."","n/a","n/a","2022","Bank President","n/a"
+"TSB Bancorp,"Inc."","Director","Linda S. Hughey","n/a","n/a","2022","CPA","n/a"
+"TSB Bancorp,"Inc."","Director","L. Linwood Lunsford","n/a","n/a","2022","Consultant","n/a"
+"TSB Bancorp,"Inc."","Director","Charles W. Pruitt","n/a","n/a","2022","Retired Educator","n/a"
+```

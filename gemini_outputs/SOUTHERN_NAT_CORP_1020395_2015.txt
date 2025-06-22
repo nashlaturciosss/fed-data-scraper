@@ -1,0 +1,26 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Corporation","Andalusia,"AL"","2015","The U.W.W. Sidney Fuller Family Trust","Common","99998","8.43%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2015","Louisa Mann Baker","Common","70000","5.90%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2015","David McKowen,"Jr"","Common","100000","9.32%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2015","James M. Taylor II Family Trust","Common","75000","6.32%","1020395"
+"Southern National Corporation","Birmingham,"AL"","2015","Riley R Taylor Non-Marital Trust","Common","100000","8.43%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2015","Charles Roland","Common","140000","12.69%","1020395"
+"Southern National Corporation","Andalusia,"AL"","2015","John Vick","Common","100000","8.43%","1020395"
+"Southern National Corporation","Freeport,"FL"","2015","Thomas E Lane","Common","85000","7.17%","1020395"
+"Southern National Corporation","Destin,"FL"","2015","Rupert E. Phillips","Common","100000","8.43%","1020395"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Corporation","Director","Charles Roland","Farmer","None","2015","Farmer","1020395"
+"Southern National Corporation","Director","Kim Roland","Owner","Spicer's Dry Cleaning","2015","Spicer's Dry Cleaning,"Owner"","1020395"
+"Southern National Corporation","Director","J Mel Fuller","Builder Columns & Moldings","None","2015","Builder Columns & Moldings","1020395"
+"Southern National Corporation","Director","Mark Harper","President","Harper Electric Company","2015","President,"Harper Electric Const Co"","1020395"
+"Southern National Corporation","Director","David McKowen,"Jr"","M.D.,"Retired"","None","2015","M.D.,"Retired"","1020395"
+"Southern National Corporation","Director","John Taylor","VP General Parts,"Inc.","Carquest"","None","2015","VP General Parts Inc.,"Carquest"","1020395"
+"Southern National Corporation","Director","Riley R Taylor","Owner","Taylor Linen Service","2015","Owner,"Taylor Linen Service"","1020395"
+"Southern National Corporation","Director","John E Vick","Owner","John Vick & Co","2015","Owner,"John Vick & Company"","1020395"
+"Southern National Corporation","Chairman of the Board,"CEO"","Thomas E Lane","President","None","2015","Southern National Corp President","1020395"
+"Southern National Corporation","Director","Louisa M Baker","Retired","None","2015","Retired","1020395"
+"Southern National Corporation","Director","Daniel Taylor","Owner","Medical Clinics","2015","Owner Medical Clinics","1020395"
+```

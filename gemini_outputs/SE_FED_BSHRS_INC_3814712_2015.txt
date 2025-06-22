@@ -1,0 +1,25 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2015","C.Don Thompson","Common Stock","35656","33.8633%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2015","C. Todd Thompson","Common Stock","11255","10.6891%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2015","Kathryn O'Rear","Common Stock","7500","7.1229%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2015","Joel C. Thompson","Common Stock","8163","7.7526%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2015","H. Douglas Farris","Common Stock","5846","5.5521%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Chairman & VP","C. Don Thompson","CFO","Security Federal Savings Bank (SFSB)","2015","N/A","558574"
+"Se-Fed Bancshares,"Inc."","Chairman & VP","C. Don Thompson","General Partner","TATT Holdings LLC.","2015","N/A","558574"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","Director,"CEO","President","& Treasurer"","Security Federal Savings Bank (SFSB)","2015","N/A","558574"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","General Partner","TATT Holdings LLC.","2015","N/A","558574"
+"Se-Fed Bancshares,"Inc."","Director","H. Douglas Farris","Director","Security Federal Savings Bank (SFSB)","2015","Judge","558574"
+"Se-Fed Bancshares,"Inc."","Director","Linda Rosser","Director","Security Federal Savings Bank (SFSB)","2015","N/A","558574"
+"Se-Fed Bancshares,"Inc."","Director","Bonnie Williams","Director","Security Federal Savings Bank (SFSB)","2015","Educator","558574"
+"Se-Fed Bancshares,"Inc."","Director","Mike Wiginton","President","H.L. Wiginton Capital Management","2015","Securities Broker","558574"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","Director","Security Federal Savings Bank (SFSB)","2015","Business Owner","558574"
+"Se-Fed Bancshares,"Inc."","Director","Jeffrey Grice","Director","Security Federal Savings Bank (SFSB)","2015","Insurance Agency Owner","558574"
+"Se-Fed Bancshares,"Inc."","VP","Jana Webster","VP/Savings","Security Federal Savings Bank (SFSB)","2015","N/A","558574"
+```

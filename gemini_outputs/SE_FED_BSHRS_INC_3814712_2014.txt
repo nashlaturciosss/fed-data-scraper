@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2014","C.Don Thompson","Common Stock","35291","33.5868%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2014","C. Todd Thompson","Common Stock","10863","10.3384%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2014","Kathryn O'Rear","Common Stock","7500","7.1378%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2014","Joel C. Thompson","Common Stock","8163","7.7688%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Chairman & VP","C. Don Thompson","General Partner","TATT Holdings LLC.","2014","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","General Partner","TATT Holdings LLC.","2014","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director","H. Douglas Farris","n/a","n/a","2014","Judge","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Linda Rosser","n/a","n/a","2014","N/A","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Bonnie Williams","n/a","n/a","2014","Educator","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Mike Wiginton","President","H.L. Wiginton Capital Management","2014","Securities Broker","n/a"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","n/a","n/a","2014","Business Owner","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Jeffrey Grice","n/a","n/a","2014","Insurance Agency Owner","n/a"
+"Se-Fed Bancshares,"Inc."","VP","Jana Webster","n/a","n/a","2014","N/A","n/a"
+```

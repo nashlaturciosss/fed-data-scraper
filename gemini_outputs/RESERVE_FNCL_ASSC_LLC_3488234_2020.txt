@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Reserve Financial Associates LLC","Columbus,"OH"","2020","Skilken Financial LLC","n/a","428265","42.360%","3488234"
+"Reserve Financial Associates LLC","New York,"NY"","2020","RFA Investments LP","n/a","428265","42.360%","3488234"
+"Reserve Financial Associates LLC","Sarasota,"FL"","2020","Zuheir Sofia","n/a","154483","15.280%","3488234"
+"Business Bank of Florida Corp","Melbourne,"FL"","2020","Reserve Financial Associates LLC","n/a","1011013","90.89%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Reserve Financial Associates LLC","Member","Steve Skilken","n/a","n/a","2020","Real Estate Developer","3488234"
+"Reserve Financial Associates LLC","Member","Phil Milstein","n/a","n/a","2020","Property Management","3488234"
+"Reserve Financial Associates LLC","Managing Member","Zuheir Sofia","Chairman,"President","CEO"","Business Bank of Florida Corp","2020","Financial Advisory","3488234"
+"Business Bank of Florida Corp","n/a","Zuheir Sofia","Director","Florida Business Bank","2020","Financial Advisory","2896216"
+"Business Bank of Florida Corp","Treasurer,"Secretary","EVP"","William R. Norris","President & CEO,"Director"","Florida Business Bank","2020","n/a","2896216"
+"Business Bank of Florida Corp","Director","Andrew C Burkle,"Jr"","Director","Florida Business Bank","2020","Banker","2896216"
+"Business Bank of Florida Corp","Director","Charles J Frazee","Director","Florida Business Bank","2020","Developer","2896216"
+"Business Bank of Florida Corp","Director","Gary B. Frese","n/a","Frase & Hansen PA","2020","Attorney","2896216"
+"Business Bank of Florida Corp","Director","John P Genoni","Chairman,"Director"","Florida Business Bank","2020","Developer","2896216"
+"Business Bank of Florida Corp","Director","William A Harr","n/a","Dr William Harr DPM PA","2020","Physician","2896216"
+"Business Bank of Florida Corp","Director","Thomas L Powers","Director","Florida Business Bank","2020","Retired","2896216"
+"Business Bank of Florida Corp","n/a","Susan Thompson","Director","Florida Business Bank","2020","Real Estate","2896216"
+"Business Bank of Florida Corp","n/a","John R. Hopkins","Director","Florida Business Bank","2020","Retired Accountant","2896216"
+```

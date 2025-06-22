@@ -1,0 +1,24 @@
+"Here are the two CSV tables","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2020","J. Stephen Smith","Common Stock","218449","10.48%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2020","J. Stephen Smith","Options on Common Stock","82001","3.94%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2020","Charlotte B. Smith","Common Stock","3005","0.15%","n/a"
+"SouthPoint Bancshares,"Inc."","Ridgeland,"MS"","2020","Wirt A. Yerger III","Common Stock","172302","8.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Director,"Chairman","President & CEO"","J. Stephen Smith","Director,"Chairman","President & CEO"","SouthPoint Bank","2020","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","n/a","Charlotte B. Smith","n/a","n/a","2020","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert L. Henderson","n/a","SouthPoint Bank","2020","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","Surgical Dermatology Group","2020","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","SouthPoint Bank","2020","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","VP of Finance","Thompson Tractor Co.,"Inc."","2020","Equipment Dealer","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","VP of Finance","SouthPoint Bank","2020","Equipment Dealer","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","Kassouf & Company,"P.C."","2020","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","Director","South Point Bank","2020","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","David W. Mims","n/a","SouthPoint Bank","2020","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","CEO (Retail Specialists,"LLC and Retail Strategies","LLC)"","SouthPoint Bank","2020","Real Estate","n/a"
+```

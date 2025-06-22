@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2022","Youmans Family Trust","Common Stock","23097","1.63%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2022","Donna Youmans","Common Stock","66884","4.73%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2022","Savannah Youmans-Jones","Common Stock","5329","0.38%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2022","Spencer Youmans","Common Stock","9359","0.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Micah J Garner","n/a","n/a","2022","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director & CFO","John D Adams","n/a","n/a","2022","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","Farmer","2022","Retired Veterinarian","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Owner","Andalusia Dental Group","2022","Dentist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Harden Enterprises","2022","Entrepreneur","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Norman Hobson","President","Forman Brown Funeral Home","2022","Funeral Director","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","J.M. Jackson Chevrolet","2022","Car Dealer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Laird Baker & Blackstock","2022","Lawyer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Pharm-A-Care Pharmacy","2022","Pharmacist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Gary L. Smith","CEO","PowerSouth","2022","CEO","n/a"
+"Southern Independent Bancshares,"Inc"","Director","James H Tillman,"JR"","Owner","Andalusia Eye Clinic","2022","Optometrist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Donna Youmans","n/a","n/a","2022","House Wife & Private Investor","n/a"
+```

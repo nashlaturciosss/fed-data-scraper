@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Brewton","Brewton,"Alabama"","2018","Jerry M. Kelly","common","1","0.62","n/a"
+"Bank of Brewton","Brewton,"Alabama"","2018","Kandace McDaniel Testamentary Trust F/B/O Charles McDaniel","common","53","32.72","n/a"
+"Bank of Brewton","Brewton,"Alabama"","2018","Lauren Luczkow","common","13","8.02","n/a"
+"Bank of Brewton","Brewton,"Alabama"","2018","Jerry M. Kelly,"Jr."","common","37","22.84","n/a"
+"Bank of Brewton","Brewton,"Alabama"","2018","Helen R. Kelly","common","29","17.9","n/a"
+"Bank of Brewton","Gulf Breeze,"Florida"","2018","Heather Picardi","common","29","17.9","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Brewton","President/Chairman of BHC and Director","Jerry M. Kelly","Vice-President and Chairman of the Board","Bank of Brewton","2018","Banker","n/a"
+"Bank of Brewton","Principal Securities Holder","Kandace McDaniel Testamentary Trust F/B/O Charles McDaniel","n/a","n/a","2018","None","n/a"
+"Bank of Brewton","Principal Securities Holder","Jerry M. Kelly,"Jr."","President of the Bank","Bank of Brewton","2018","Banker","n/a"
+"Bank of Brewton","Principal Securities Holder","Helen R. Sayre","n/a","n/a","2018","None","n/a"
+"Bank of Brewton","Principal Securities Holder","Heather Picardi","n/a","n/a","2018","None","n/a"
+```

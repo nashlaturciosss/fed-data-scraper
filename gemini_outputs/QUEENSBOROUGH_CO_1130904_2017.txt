@@ -1,0 +1,21 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Wadley,"GA"","2017","Estate of Wayne Battle","n/a","80605","5.99%","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Louisville,"GA"","2017","Lillian A. Easterlin","n/a","189895","14.11%","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Louisville,"GA"","2017","William F. Easterlin,"III"","n/a","81328","6.04%","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Wrens,"GA"","2017","Robert Brian Lewis","n/a","79934","5.94%","960935"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","n/a","Lillian A. Easterlin","n/a","n/a","2017","Retired","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Director","Louisa Abbot","Superior Ct. Judge","n/a","2017","n/a","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Director","W. Abbot Easterlin","Physicians Assistant","n/a","2017","n/a","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Chairman,"CEO","Director"","W.F. Easterlin,"III"","CEO and Director","Louisville Storage & Loan Co.","2017","n/a","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Director","Thomas W. Jones","Managing Director","Jones,"Jones","Davis and Associates","CPA","PC"","2017","CPA Public Accounting","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","Director","Sam S. Pennington","President","Pennington Farms,"Inc."","2017","Farmer","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","CFO,"VP Director"","D. Phillips Polhill","Director,"CFO"","Louisville Storage & Loan Co.,"Inc."","2017","n/a","960935"
+"QUEENSBOROUGH NATIONAL BANK & TRUST COMPANY","n/a","Julie Evans","Corporate Secretary","n/a","2017","n/a","960935"
+```

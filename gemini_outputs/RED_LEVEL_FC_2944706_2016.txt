@@ -1,0 +1,21 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Red Level Financial Corporation","Red Level,"AL"","2016","Robert H. Foshee,"Jr."","Common Stock","9378","40.71%","2944706"
+"Red Level Financial Corporation","Red Level,"AL"","2016","Lindel M. Foshee","Common Stock","7836","34.02%","2944706"
+"Red Level Financial Corporation","Tampa,"FL"","2016","Lewis M. Foshee","Common Stock","2909","12.63%","2944706"
+"Red Level Financial Corporation","Red Level,"AL"","2016","Robert H. Foshee,"III"","Common Stock","2909","12.63%","2944706"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Red Level Financial Corporation","Chairman,"Director","and President"","Robert H. Foshee,"Jr."","President","Peoples Bank of Red Level","2016","Banker","2944706"
+"Red Level Financial Corporation","Chairman of the Board","Robert H. Foshee,"Jr."","n/a","n/a","2016","Banker","2944706"
+"Red Level Financial Corporation","Director and Vice President","Lindel M. Foshee","Vice President","Peoples Bank of Red Level","2016","Banker","2944706"
+"Red Level Financial Corporation","Vice Chairman of Board","Lindel M. Foshee","n/a","n/a","2016","Banker","2944706"
+"Red Level Financial Corporation","Director and Secretary","Lewis M. Foshee","Chief Executive Officer","Peoples Bank of Red Level","2016","Financial Software Sales Executive","2944706"
+"Red Level Financial Corporation","Director and Secretary","Lewis M. Foshee","Vice President","Argus Software,"Inc."","2016","Financial Software Sales Executive","2944706"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Vice President","Peoples Bank of Red Level","2016","Business Owner (Welding & Fabrication)","2944706"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Owner","Bullets Welding & Fabrication","2016","Business Owner (Welding & Fabrication)","2944706"
+```

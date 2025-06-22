@@ -1,0 +1,18 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Red Level Financial Corporation","Red Level,"AL"","2015","Robert H. Foshee,"Jr."","Common Stock","9378","40.71%","2944706"
+"Red Level Financial Corporation","Red Level,"AL"","2015","Lindel M. Foshee","Common Stock","7836","34.02%","2944706"
+"Red Level Financial Corporation","Tampa,"FL"","2015","Lewis M. Foshee","Common Stock","2909","12.63%","2944706"
+"Red Level Financial Corporation","Red Level,"AL"","2015","Robert H. Foshee,"III"","Common Stock","2909","12.63%","2944706"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Red Level Financial Corporation","Chairman,"Director","and President"","Robert H. Foshee,"Jr."","President","Peoples Bank of Red Level","2015","Banker","2944706"
+"Red Level Financial Corporation","Director and Vice President","Lindel M. Foshee","Vice Chairman of Board","Peoples Bank of Red Level","2015","Banker","2944706"
+"Red Level Financial Corporation","Director and Secretary","Lewis M. Foshee","Chief Executive Officer","Argus Software,"Inc."","2015","Financial Software Sales Executive","2944706"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Vice President","Peoples Bank of Red Level","2015","Business Owner (Welding & Fabrication)","2944706"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Owner","Bullet's Welding & Fabrication","2015","Business Owner (Welding & Fabrication)","2944706"
+```

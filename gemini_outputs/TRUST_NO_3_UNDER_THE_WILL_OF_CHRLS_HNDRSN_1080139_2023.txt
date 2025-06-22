@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Henderson Bancshares","Troy,"AL"","2023","Trust 3 Under the Will of Charles Henderson","n/a","204488","51.12%","n/a"
+"Henderson Bancshares","Troy,"AL"","2023","Corley Chapman,"Jr. Trust"","n/a","20736","5.18%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Henderson Bancshares","Chairman & Director,"Henderson Bancshares"","Sherrill E. Crowe","Director: Troy Bank & Trust","n/a","2023","Real Estate Investments","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Dr. Jack Hawkins,"Jr."","Director. Troy Bank & Trust","n/a","2023","Chancellor,"Troy State University"","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","N. Kenneth Campbell","President,"K &W Plastics"","K &W Plastics","2023","President,"K &W Plastics"","134437"
+"Henderson Bancshares","CEO and Director,"Henderson Bancshares"","Jeff Kervin","President,"Phelker Investments Inc"","Phelker Investments Inc","2023","Timber Investments","134437"
+"Henderson Bancshares","Vice-Chairman,"Henderson Bancshares"","W. G. Sellers","Sellers Inc","Sellers Inc","2023","n/a","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","William Ross Jinright","Director of Tax Svcs - Gibson & Carden,"LLC"","Gibson & Carden,"LLC"","2023","CPA/Public Accounting/Tax Services","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Frank H. Murphree","President-Murphree Bridge Corp.","n/a","2023","Construction","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Allen C. Jones","Attorney at Law","n/a","2023","Attorney","134437"
+"Henderson Bancshares","COO,"Henderson Bancshares"","William D (Bo) Coppage","EVP/COO,"Troy Bank & Trust"","n/a","2023","n/a","134437"
+"Henderson Bancshares","n/a","Trust 3 Under the Will of Charles Henderson","CFO/EVP,"Troy Bank & Trust"","n/a","2023","Trust","134437"
+"Henderson Bancshares","n/a","Jon Gordon","n/a","n/a","2023","CFO,"Henderson Bancshares"","134437"
+"Henderson Bancshares","n/a","Tenise Owens","n/a","n/a","2023","n/a","134437"
+"Henderson Bancshares","n/a","John R. Ramage","n/a","n/a","2023","n/a","134437"
+"Henderson Bancshares","n/a","Valerie Kyzar","n/a","n/a","2023","n/a","134437"
+```

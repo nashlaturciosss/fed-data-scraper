@@ -1,0 +1,22 @@
+"Here are the two CSV tables","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2023","Robertson Family Limited Partnership James D Robertson,"Manager"","n/a","45530","8.35%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2023","Donna Sue Bishop","n/a","41079","7.53%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2023","Mary Jo Willocks","n/a","33928","6.22%","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"TN"","2023","Leann E. Hicks","n/a","33153","6.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Chairman","Jerry Dean","Chairman","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Bill Clabough","Director","None","2023","Exec of Non Profit","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Secretary Director","Leann Hicks","Secretary Director","None","2023","Education","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","John Proffitt","Director","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Vice Chairman Director","James D Robertson","Vice Chairman Director","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Gaynell Lawson","Director","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Robert L. Carroll","Director","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","Director","Mike Baker","Director","None","2023","Retired","n/a"
+"TWIN CITIES FINANCIAL SERVICES,"INC."","President/CEO Director","Mike Hearon","President/CEO Director","None","2023","Banker","n/a"
+```

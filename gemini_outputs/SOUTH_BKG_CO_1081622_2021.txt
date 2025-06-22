@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2021","Paul T. Bennett","common shares","1900","32.20%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Paul T. Bennett","common shares","16","0.27%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Lawrence Bennett","common shares","1316","22.31%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Lawrence Bennett","common shares","400","6.78%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Harry Keith Bennett,"Jr."","common shares","384","6.51%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Harry Keith Bennett,"Jr."","common shares","56","0.95%","n/a"
+"South Banking Company","Alma,"Georgia"","2021","Holly B. Porter","common shares","399","6.76%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Director,"President & Treasurer"","Paul T. Bennett","Chairman of the Board & President","Peoples Bank","2021","Banking","n/a"
+"South Banking Company","Director,"President & Treasurer"","Paul T. Bennett","Chairman of the Board & President","South Georgia Bankshares","2021","Banking","n/a"
+"South Banking Company","Director,"Executive Vice President & Secretary"","Lawrence Bennett","Director","South Georgia Bankshares","2021","Banking","n/a"
+"South Banking Company","Director","Kenneth Wade","n/a","n/a","2021","Retired Banker","n/a"
+"South Banking Company","Director","Al D. Ross","President/CEO","Owl Ventures,"LLC"","2021","Banking","n/a"
+"South Banking Company","Director","Al D. Ross","President/CEO","South Georgia","2021","Banking","n/a"
+"South Banking Company","Director","James Stephen Tuten,"III"","Director & Executive Vice President","n/a","2021","Banking","n/a"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","Morben Blueberry","2021","Blueberry Farmer","n/a"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","South Georgia Bankshares","2021","Blueberry Farmer","n/a"
+```

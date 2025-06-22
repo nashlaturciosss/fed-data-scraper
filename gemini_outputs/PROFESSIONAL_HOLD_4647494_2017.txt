@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Boston,"MA"","2017","Bay Boston Capital,"L.P."","Voting Common","422890","9.41%","n/a"
+"Professional Holding Corp.","Boston,"MA"","2017","Bay Boston Capital,"L.P."","Stock Options","422890","9.41%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2017","Anton Schutz","Voting Common","264900","5.89%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2017","Anton Schutz","Voting Common","123552","2.75%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2017","Anton Schutz","Voting Common","34438","0.77%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2017","Anton Schutz","Stock Options","442890","9.41%","n/a"
+"Professional Holding Corp.","Arlington,"VA"","2017","EJF Sidecar Fund Series LLC","Voting Common","422890","9.41%","n/a"
+"Professional Holding Corp.","Arlington,"VA"","2017","EJF Sidecar Fund Series LLC","Stock Options","422890","9.41%","n/a"
+"Professional Holding Corp.","Amsterdam,"Netherlands"","2017","De Linea CSV","Voting Common","421104","9.37%","n/a"
+"Professional Holding Corp.","Amsterdam,"Netherlands"","2017","De Linea CSV","Stock Options","421104","9.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO"","Daniel Sheehan","SVP/MD","Walker & Dunlop","2017","Investment Banker","3816510"
+"Professional Holding Corp.","Director & Chairman","Daniel Sheehan","SVP/MD","Walker & Dunlop","2017","Investment Banker","3816510"
+"Professional Holding Corp.","Director","Leslie Adler","Partner","Kabat,"Schertzer","De La Torre","Taraboulos & Co","LLC"","2017","Certified Public Accountant Director","3816510"
+"Professional Holding Corp.","Director","Roland DiGasbarro","Principal & Founder","Windsor Capital Corporation","2017","Commercial Real Estate Investor","3816510"
+"Professional Holding Corp.","Director","Carlos Garcia","Director","Radius Bancorp and Radius Bank","2017","Investor","3816510"
+"Professional Holding Corp.","Director","Carlos Garcia","Director","Make-A-Wish Foundation of MA & RI","2017","Investor","3816510"
+"Professional Holding Corp.","Director","Carlos Garcia","Director","Hyde Square Task Force","2017","Investor","3816510"
+"Professional Holding Corp.","Director","Jon Gorney","Director","First Commonwealth Bank and Corporation","2017","Businessman; Retired Bank Executive","3816510"
+"Professional Holding Corp.","Director","Herbert Martens","Managing Partner","Advent Associates","2017","Businessman; Retired Bank Executive","3816510"
+"Professional Holding Corp.","Director","Lawrence Schimmel","Chief Medical Officer","Qualmetrix,"Inc."","2017","Physician","3816510"
+"Professional Holding Corp.","Director","Anton Schutz","President / Director","Mendon Capital Advisors Corp","2017","Executive","3816510"
+"Professional Holding Corp.","Director","Anton Schutz","Director","Bank of the Carolinas","2017","Executive","3816510"
+"Professional Holding Corp.","Director","Abel Iglesias","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","Assistant Secretary","Larry Goldberg","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","n/a","Daniel Martinez","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","n/a","Luis Mechoso","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","n/a","Miguel Montaner","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","Secretary","Mary B. Usategui","n/a","n/a","2017","n/a","3816510"
+"Professional Holding Corp.","n/a","J Michael Woody,"Jr."","n/a","n/a","2017","n/a","3816510"
+```

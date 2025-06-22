@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"MOUNTAIN VALLEY BANK","Director/ Chairman","W. Randolph Allen","Owner","Sequatchie Valley Eye Care","2023","Optometrist","714437"
+"MOUNTAIN VALLEY BANK","Director/ Vice-Chairman","Wendell A. Spicer","Partner","Timberwood Dev. Co","2023","Retired","714437"
+"MOUNTAIN VALLEY BANK","President / CEO Director","Wendell A. Billingsley","Partner","Bledsoe Investment Group,"LLC"","2023","Banker","714437"
+"MOUNTAIN VALLEY BANK","Director","Elizabeth Greer Adams","Owner/President","Stephen T. Greer,"PC"","2023","Attorney","714437"
+"MOUNTAIN VALLEY BANK","Director","Joshua E. Cain","Co-Owner","Cain Construction","2023","General Contractor","714437"
+"MOUNTAIN VALLEY BANK","Director","Joshua E. Cain","Co-Owner","Bulletproof Waterproofing","2023","General Contractor","714437"
+"MOUNTAIN VALLEY BANK","Director","Joshua E. Cain","Primary","Whistle Stop,"LLC"","2023","General Contractor","714437"
+"MOUNTAIN VALLEY BANK","Director","Joshua E. Cain","Primary","The Gray Dove,"LLC"","2023","General Contractor","714437"
+"MOUNTAIN VALLEY BANK","Director","Sherry Johnson","CFO","Seq Co Board of Education","2023","Accountant","714437"
+"MOUNTAIN VALLEY BANK","Vice-President Director","Marvin L. Price","Director","BTC Fiber","2023","Banker","714437"
+"MOUNTAIN VALLEY BANK","Director","Michael H. Willis","Owner","Cutting Edge","2023","General Contractor","714437"
+"MOUNTAIN VALLEY BANK","Secretary","Sherry Brock","n/a","n/a","2023","Office Manager Stephen T. Greer,"PC"","714437"
+```

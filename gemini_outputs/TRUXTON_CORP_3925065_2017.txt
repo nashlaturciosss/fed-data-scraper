@@ -1,0 +1,26 @@
+Here are the two tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Truxton Corporation","n/a","2017","n/a","common stock","n/a","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Truxton Corporation","Director","William F. Blaufuss Jr","n/a","n/a","2017","Retired,"Accountant","Partner KPMG LLP"","3290240"
+"Truxton Corporation","Director","David Brewster Dobie","CEO","Dobie Media","2017","CEO,"Dobie Media","former publisher of Nashville Scene"","3290240"
+"Truxton Corporation","Director","Stanley M. Ezell","n/a","n/a","2017","Retired; President Purity Dairies,"Inc."","3290240"
+"Truxton Corporation","Director","Decosta E. Jenkins","President & CEO","Nashville Electric Service","2017","President & CEO,"Nashville Electric Service"","3290240"
+"Truxton Corporation","Director","Matthew A. King","Managing Partner","FCA Venture Partners","2017","Managing Partner,"FCA Venture Partners"","3290240"
+"Truxton Corporation","Director","Gustavus A Puryear IV","General Counsel and Senior Vice President,","Asurion","2017","General Counsel and Senior Vice President,"Human Resources","Asurion"","3290240"
+"Truxton Corporation","Director","Christopher C. Whitson","Attorney; Partner","Sherrard & Roe,"PLC"","2017","Attorney; Partner Sherrard & Roe,"PLC"","3290240"
+"Truxton Corporation","Director","Deborah A. McDermott","n/a","Media General,"Inc"","2017","SVP & Chief Operating Media","3290240"
+"Truxton Corporation","Director","Jeffrey Buntin Jr.","President & CEO","The Buntin Group","2017","CEO & President,"The Buntin Group"","3290240"
+"Truxton Corporation","Director","V. Larkin Martin","Vice President","The Albemarle Corporation","2017","n/a","3290240"
+"Truxton Corporation","Director & President","Thomas S. Stumb","n/a","n/a","2017","n/a","3290240"
+"Truxton Corporation","Secretary","J. Overton Colton","n/a","n/a","2017","n/a","3290240"
+"Truxton Corporation","n/a","Derrick A. Jones","n/a","n/a","2017","n/a","3290240"
+"Truxton Corporation","n/a","Thomas R. Snyder","n/a","n/a","2017","n/a","3290240"
+"Truxton Corporation","n/a","Andrew L May","n/a","n/a","2017","n/a","3290240"
+"Truxton Corporation","n/a","Julie M. Marr","n/a","n/a","2017","n/a","3290240"
+```

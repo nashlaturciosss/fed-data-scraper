@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2023","Donald J. Vizier","Common Stock","103604","26.10%","n/a"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2023","Donald J. Vizier","Class A Voting Shares","4589","100.00%","n/a"
+"SBT Bancshares,"Inc."","Golden Meadow,"LA"","2023","Katherine V. Lefort","Common Stock","78254","19.69%","n/a"
+"SBT Bancshares,"Inc."","Golden Meadow,"LA"","2023","Steve J. Lefort","Common Stock","72383","18.23%","n/a"
+"SBT Bancshares,"Inc."","Golden Meadow,"LA"","2023","Steve J. Lefort","Class A Voting Shares","0","0.00%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancshares,"Inc."","President","Steve J. Lefort","n/a","n/a","2023","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Donald J. Vizier","n/a","Vizier Consulting,"LLC"","2023","Consultant","n/a"
+"SBT Bancshares,"Inc."","Director","Donald J. Vizier","n/a","Vizier Farms,"LLC"","2023","Consultant","n/a"
+"SBT Bancshares,"Inc."","Director","Katherine V. Lefort","n/a","n/a","2023","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Charles J. Plaisance","n/a","n/a","2023","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","William J. Lefort","n/a","n/a","2023","n/a","n/a"
+"SBT Bancshares,"Inc."","Director","Ryan D. Lefort","n/a","n/a","2023","n/a","n/a"
+```

@@ -1,0 +1,14 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"QUANTUM CAPITAL CORP","Commerce,"GA"","2014","Narasimhulu Neelaguru,"M.D."","Common Stock","573786","99.93%","2354369"
+"QUANTUM CAPITAL CORP","Lavonia,"GA"","2014","W. M. Gilbert,"Jr."","Common Stock","36140","6.29%","2354369"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"QUANTUM CAPITAL CORP","Chairman & CEO","Narasimhulu Neelaguru","Chairman","Commerce Cardiology","2014","Cardiologist","n/a"
+"QUANTUM CAPITAL CORP","Chairman & CEO","Narasimhulu Neelaguru","Owner","Quantum National Bank","2014","Cardiologist","n/a"
+"QUANTUM CAPITAL CORP","President","Bryan Cohen","President & CEO","Quantum National Bank","2014","N/A","n/a"
+"QUANTUM CAPITAL CORP","SVP,"Secretary & CFO"","Dana Litman","SVP,"Secretary & CFO"","Quantum National Bank","2014","n/a","n/a"
+```

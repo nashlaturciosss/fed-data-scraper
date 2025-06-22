@@ -1,0 +1,21 @@
+Here are the CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancorp,"Inc"","Yonkers,"NY"","2019","Gem Industries,"Inc."","Common Stock","237135","19.06%","n/a"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2019","James C. Weidner","Common Stock","69111","5.49%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancorp,"Inc"","Director","Kenneth Coggins","President/CEO","Funeral Home & Crystal Hill Cemetery","2019","Funeral Director","n/a"
+"SBT Bancorp,"Inc"","Director","Michael B. Hill","President","Clarkesville Auto Parts","2019","Retail Auto Parts","n/a"
+"SBT Bancorp,"Inc"","Treasurer","Michael E. Mixon","Owner","Michael Mixon Accounting Firm","2019","Certified Public Accountant","n/a"
+"SBT Bancorp,"Inc"","Treasurer","Michael E. Mixon","Member/Manager","North East Ga Exchange","2019","Certified Public Accountant","n/a"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Owner/CEO","Holland Investments LLC","2019","Entreprenuer","n/a"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Partner","George P. Burdell Associates LLC","2019","Entreprenuer","n/a"
+"SBT Bancorp,"Inc"","President & CEO","Tony E. Collins","n/a","n/a","2019","N/A","n/a"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Oliver & Weidner Attorney at Law","2019","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director","Ernest H. Woods","Managing Member of","Ernest H. Woods,"III","LLC"","2019","Attorney","n/a"
+"SBT Bancorp,"Inc"","CFO","Deanna A. Mote","n/a","n/a","2019","N/A","n/a"
+```

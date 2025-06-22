@@ -1,0 +1,14 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"QUANTUM CAPITAL CORP","Atlanta,"GA"","2015","Infinity Trust","Common Stock","481711","83.90%","2354369"
+"QUANTUM CAPITAL CORP","Commerce,"GA"","2015","Narasimhulu Neelaguru,"M.D."","Common Stock","90075","16.04%","2354369"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"QUANTUM CAPITAL CORP","n/a","Infinity Trust","n/a","n/a","2015","N/A","2354369"
+"QUANTUM CAPITAL CORP","Chairman & CEO","Narasimhulu Neelaguru","Chairman","Quantum National Bank","2015","Cardiologist","2354369"
+"QUANTUM CAPITAL CORP","Chairman & CEO","Narasimhulu Neelaguru","Owner","Commerce Cardiology","2015","Cardiologist","2354369"
+"QUANTUM CAPITAL CORP","n/a","Bryan Cohen","CEO","Quantum National Bank","2015","N/A","2354369"
+"QUANTUM CAPITAL CORP","n/a","Brad Day","President & COO","Quantum National Bank","2015","N/A","2354369"
+"QUANTUM CAPITAL CORP","SVP,"Secretary & CFO"","Dana Litman","EVP,"Secretary","CFO & CRO"","Quantum National Bank","2015","N/A","2354369"
+```

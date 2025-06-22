@@ -1,0 +1,27 @@
+"Okay","here are the two CSV tables extracted from the document","following your instructions:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2018","James L. Ferman,"Jr."","Common Stock","267268","11.284%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2018","WRB Enterprises,"Inc."","Common Stock","228162","9.633%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2018","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","154007","6.502%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2018","A. Gerald Divers","Common Stock","138401","5.843%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","CEO & President","Ferman Motor Car Company","2018","Chairman","273336"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","CEO","Celestar Corporation","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Brett D. Divers","Vice President & Managing Partner","Mills Paskert Divers","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2018","Director","273336"
+"Tampa Bay Banking Company","Director","A.D. MacKinnon","CEO","ADM Ventures,"Inc."","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","Retired","n/a","2018","Director","273336"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","CEO","Seabreeze Holdings,"Inc."","2018","Banker","273336"
+"Tampa Bay Banking Company","President/CEO","William O. West III","Banker","n/a","2018","Director and President/CEO","273336"
+"Tampa Bay Banking Company","Executive Vice President/CAO","Richard L. Junkermann","Banker","n/a","2018","Executive Vice President/CAO","273336"
+"Tampa Bay Banking Company","Executive Vice President/CFO","Susan K. Miller","Banker","n/a","2018","Executive Vice President/CFO","273336"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Banker","n/a","2018","Vice President","273336"
+```

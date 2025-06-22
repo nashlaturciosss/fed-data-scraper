@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2016","Jennings Family Trust III","common stock","5015","30.93%","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2016","Jennings Family Trust IV","common stock","4896","30.21%","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2016","Michael D. McClain","common stock","1089","6.72%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Pulaski County Commissioner","Pulaski County","2016","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","n/a","Royal Care,"Inc."","2016","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","n/a","Tri South Management,"Inc."","2016","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","n/a","Kingsford of Warner Robins,"Inc."","2016","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director,"Vice President"","Thomas L. Arnold","n/a","Royal Care,"Inc."","2016","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director,"Vice President"","Thomas L. Arnold","n/a","Tri South Management,"Inc."","2016","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director,"Vice President"","Thomas L. Arnold","n/a","Kingsford of Warner Robins,"Inc."","2016","Retired President SunMark Community Bank","n/a"
+"SunMark Bancshares,"Inc."","Director","C. Brooks Bailey","Pulaski County Commissioner","Pulaski County","2016","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","Shaw Blackmon,"III"","President & CEO","National Bank Products","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Royce Conner","n/a","n/a","2016","Retired Farmer","n/a"
+"SunMark Bancshares,"Inc."","Director,"President"","Jeanntte G. Ford","n/a","Southern Care Management,"Inc."","2016","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director,"President"","Jeanntte G. Ford","n/a","Royal Care,"Inc."","2016","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director,"President"","Jeanntte G. Ford","n/a","Tri South Management,"Inc."","2016","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director,"President"","Jeanntte G. Ford","n/a","Kingsford of Warner Robins,"Inc."","2016","Retired President,"SunMark Community Bank"","n/a"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","Vice President","Community Health Services of Georgia","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","GA Hospitality Investments,"LLC"","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","GA Hospitality Management,"LLC"","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","Griffin Investments,"LLC"","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director,"Chairman"","W. M. Jennings,"III"","Vice Chairman","ComSouth Telecommunications,"Inc."","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","James C. Liipfert,"Jr."","Secretary-Treasurer","A. M. Bickley Chemcial,"Inc."","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","Chief Strategy Officer","Jennings Investments,"LP"","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","Chief Strategy Officer","ComSouth Corporation","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","H. Jay Walker,"III"","Attorney","Walker Law Firm","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","H. Jay Walker,"III"","n/a","Walker Law Firm","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","H. Jay Walker,"III"","n/a","Houston Driver Improvement Clinic","2016","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director,"President"","Gary M. McLure","n/a","SunMark Community Bank","2016","n/a","n/a"
+```

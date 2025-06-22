@@ -1,0 +1,34 @@
+"Okay","here are the two CSV tables extracted from the document","following all specified rules and formatting:"
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancorp,"Inc"","Thomaston,"GA"","2014","Kenneth Coggins","Common Stock","35184","2.93%","3353275"
+"SBT Bancorp,"Inc"","Thomaston,"GA"","2014","Kenneth Coggins","Warrants on Common Stock","29204","2.37%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","J. Terry Greene","Common Stock","16000","1.33%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","J. Terry Greene","Warrants on Common Stock","45000","3.61%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","Sidney L. Roland","Common Stock","30000","2.50%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","Sidney L. Roland","Stock Options on Common Stock","20000","1.64%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","Sidney L. Roland","Warrants on Common Stock","30000","2.43%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","James C. Weidner","Common Stock","54111","4.51%","3353275"
+"SBT Bancorp,"Inc"","Clarkesville,"GA"","2014","James C. Weidner","Warrants on Common Stock","50000","4.00%","3353275"
+"SBT Bancorp,"Inc"","Yonkers,"NY"","2014","Gem Industries,"Inc."","Common Stock","171735","14.3%","3353275"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancorp,"Inc"","Director","Kenneth Coggins","President/CEO","Funeral Home & Crystal Hill Cemetery","2014","Funeral Director","3353275"
+"SBT Bancorp,"Inc"","Director","Kenneth Coggins","President/CEO","Crystal Hill Cemetery","2014","Funeral Director","3353275"
+"SBT Bancorp,"Inc"","Director/Chairman","J. Terry Greene","President","Habersham Primary Care","2014","Physician Internal Medicine","3353275"
+"SBT Bancorp,"Inc"","Director/Chairman","J. Terry Greene","President","n/a","2014","Physician Internal Medicine","3353275"
+"SBT Bancorp,"Inc"","Director","Michael B. Hill","President","Clarkesville Auto Parts","2014","Retail Auto Parts","3353275"
+"SBT Bancorp,"Inc"","Director","Michael B. Hill","President","n/a","2014","Retail Auto Parts","3353275"
+"SBT Bancorp,"Inc"","Director/Treasurer","Michael E. Mixon","Owner","Michael E. Mixon Accounting Firm","2014","Certified Public Accountant","3353275"
+"SBT Bancorp,"Inc"","Director/Treasurer","Michael E. Mixon","Owner","North East Ga Exchange","2014","Certified Public Accountant","3353275"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Owner/CEO","Holland Investments LLC","2014","Entreprenuer","3353275"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Partner","George P. Burdell Associates LLC","2014","Entreprenuer","3353275"
+"SBT Bancorp,"Inc"","Director","Tony E. Collins","n/a","n/a","2014","n/a","3353275"
+"SBT Bancorp,"Inc"","Director President & CEO","Tony E. Collins","n/a","n/a","2014","n/a","3353275"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Oliver & Weidner Attorney at Law","2014","Attorney","3353275"
+"SBT Bancorp,"Inc"","Director","Ernest H. Woods","Managing Member of","Ernest H. Woods,"III","LLC"","2014","Attorney","3353275"
+"SBT Bancorp,"Inc"","CFO","Deanna A. Mote","n/a","n/a","2014","n/a","3353275"
+```

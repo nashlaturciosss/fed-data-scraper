@@ -1,0 +1,30 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bank Corporation","Barnesville,"GA"","2022","United Bank Corporation Employee Stock Ownership Plan","n/a","418659","19.11%","n/a"
+"United Bank Corporation","Forsyth,"GA"","2022","James J. Edwards,"Jr."","n/a","274202","12.51%","n/a"
+"United Bank Corporation","Griffin,"GA"","2022","Christopher C. Edwards","n/a","250123","11.42%","n/a"
+"United Bank Corporation","Forsyth,"GA"","2022","Laura S. Edwards","n/a","175651","8.02%","n/a"
+"United Bank Corporation","Zebulon,"GA"","2022","John W. Edwards,"Jr."","n/a","143029","6.53%","n/a"
+"United Bank Corporation","Sewanee,"TN"","2022","Laurie E. Fisher","n/a","135019","6.16%","n/a"
+"United Bank Corporation","Zebulon,"GA"","2022","Allie E. Armistead","n/a","128820","5.88%","n/a"
+"United Bank Corporation","Griffin,"GA"","2022","Tina M. Edwards","n/a","122077","5.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bank Corporation","Director","Allie E. Armistead","Director","United Bank","2022","n/a","n/a"
+"United Bank Corporation","CEO,"President & Director"","Christopher C. Edwards","Director & Chief Information Officer","United Bank","2022","n/a","n/a"
+"United Bank Corporation","Director & Vice Chairman","J. Joseph Edwards,"Sr."","Director & Vice-Chairman","United Bank","2022","n/a","n/a"
+"United Bank Corporation","Director & Chairman","James J. Edwards,"Jr."","Director & Chief Executive Officer","United Bank","2022","n/a","n/a"
+"United Bank Corporation","Director & VP","John W. Edwards,"Jr."","Director,"Chairman & President"","United Bank","2022","n/a","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Thomas Two LLC","2022","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Orthopedic & Sports Injury Center of Griffin","2022","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Hopkins-Neel LLC","2022","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Newton Hopkins Enterprises LLC","2022","Physician","n/a"
+"United Bank Corporation","Director","Dr. Tommy Hopkins","n/a","Pinewood Greenbelt LLC","2022","Physician","n/a"
+"United Bank Corporation","Director","Steve C. Keadle","n/a","Keadle Land Company","2022","Private Investor","n/a"
+"United Bank Corporation","Director","Douglas J. Tuttle","Director","United Bank","2022","n/a","n/a"
+"United Bank Corporation","Director & General Counsel","Forrest A. Watson,"Jr."","Director & General Counsel","United Bank","2022","n/a","n/a"
+```

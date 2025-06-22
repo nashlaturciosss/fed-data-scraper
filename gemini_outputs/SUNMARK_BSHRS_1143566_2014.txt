@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2014","Jennings Family Trust I & III","common stock","5015","30.93%","1143766"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2014","Jennings Family Trust II & IV","common stock","4896","30.21%","1143766"
+"SunMark Bancshares,"Inc."","Hawkinsville,"Georgia"","2014","Michael D. McClain","common stock","1089","6.72%","1143766"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Commissioner","Pulaski County","2014","Retired","1143766"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Royal Care,"Inc."","2014","Retired","1143766"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Tri South Management,"Inc."","2014","Retired","1143766"
+"SunMark Bancshares,"Inc."","Director","John H. Anderson,"Jr."","Owner","Kingsford of Warner Robins,"Inc."","2014","Retired","1143766"
+"SunMark Bancshares,"Inc."","President","Thomas L. Arnold","n/a","n/a","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Vice President","Thomas L. Arnold","Owner","Royal Care,"Inc."","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Vice President","Thomas L. Arnold","Owner","Tri South Management,"Inc."","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Vice President","Thomas L. Arnold","Owner","Kingsford of Warner Robins,"Inc."","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","C. Brooks Bailey","n/a","n/a","2014","Retired Pulaski Coun","1143766"
+"SunMark Bancshares,"Inc."","Director","Royce Conner","n/a","n/a","2014","Retired Farmer","1143766"
+"SunMark Bancshares,"Inc."","Director","Jeanntte G. Ford","n/a","Southern Care Management,"Inc."","2014","Retired President,"SunMark Community Bank"","1143766"
+"SunMark Bancshares,"Inc."","Director","Jeanntte G. Ford","n/a","Royal Care,"Inc."","2014","Retired President,"SunMark Community Bank"","1143766"
+"SunMark Bancshares,"Inc."","Director","Jeanntte G. Ford","n/a","Tri South Management,"Inc."","2014","Retired President,"SunMark Community Bank"","1143766"
+"SunMark Bancshares,"Inc."","Director","Jeanntte G. Ford","n/a","Kingsford of Warner Robins,"Inc."","2014","Retired President,"SunMark Community Bank"","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","Vice President","Con Health Services of Georgia","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","Director","Ocmulgee Enterprises,"Inc."","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","Director","Equinox Management,"Inc."","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","GA Hospitality Investments,"LLC"","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","GA Hospitality Management,"LLC"","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Director","Ben H. Griffin,"Jr."","n/a","Griffin Investments,"LLC"","2014","n/a","1143766"
+"SunMark Bancshares,"Inc."","Chairman","W. M. Jennings,"Jr."","General Partner","Jennings Investments,"LP"","2014","Telecommunication","1143766"
+"SunMark Bancshares,"Inc."","Vice Chairman","W. M. Jennings,"III"","n/a","J. & J Properties","2014","Vice Chairman,"ComSouth Telecommunications","Inc."","1143766"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","n/a","Jennings Investments,"LP"","2014","Chief Strategy Office","1143766"
+"SunMark Bancshares,"Inc."","Director","Michael D. McClain","n/a","ComSouth C","2014","Chief Strategy Office","1143766"
+"SunMark Bancshares,"Inc."","n/a","Meredith Jennings McDaniel","n/a","J & J Properties","2014","Homemaker","1143766"
+"SunMark Bancshares,"Inc."","Director","Larry Snellgrove","n/a","n/a","2014","Developer","1143766"
+```

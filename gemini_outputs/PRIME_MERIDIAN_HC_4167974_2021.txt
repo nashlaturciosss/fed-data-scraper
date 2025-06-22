@@ -1,0 +1,35 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Prime Meridian Holding Company","Blakely,"GA"","2021","Spence Limited,"LP"","Common Stock","176,"659"","5.65%","n/a"
+"Prime Meridian Holding Company","Chicago,"IL"","2021","The Banc Funds Co LLC","Common Stock","213,"176"","6.81%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2021","Sammie D. Dixon,"Jr."","Common Stock","117,"474"","3.69%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2021","Sammie D. Dixon,"Jr."","options on Common Stock","52,"207"","1.64%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Prime Meridian Holding Company","Director","William D. Crona","Retired","n/a","2021","Retired Certified Public Accountant","n/a"
+"Prime Meridian Holding Company","Vice Chairman,"CEO/President","Director"","Sammie D. Dixon,"Jr."","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","Director","Steven L. Evans","Retired","n/a","2021","Retired Business Executive (IBM)","n/a"
+"Prime Meridian Holding Company","Director","R. Randy Guemple","Retired","n/a","2021","Retired Banker,"Certified Public Accountant"","n/a"
+"Prime Meridian Holding Company","EVP,"Director"","Chris L. Jensen,"Jr."","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","Director","Kathleen C. Jones","Retired","n/a","2021","Retired Banker","n/a"
+"Prime Meridian Holding Company","Director","Robert H. Kirby","Partner","Rehab Technologies,"LLC"","2021","Rehab Technologies,"LLC"","n/a"
+"Prime Meridian Holding Company","Director","Frank L. Langston","Principal","NAI TALCOR","2021","Real Estate","n/a"
+"Prime Meridian Holding Company","Director","L. Collins Proctor,"Sr."","Partner & Chief Operating Officer","kW Control-Holdings,"LLC"","2021","Partner & Chief Operating Officer","n/a"
+"Prime Meridian Holding Company","Director","Garrison A. Rolle,"M.D."","Surgeon","Tallahassee Orthopedic Clinic","2021","Tallahassee Orthopedic Clinic","n/a"
+"Prime Meridian Holding Company","Director","Steven D. Smith","Owner","Krispy Kreme Franchises","2021","Krispy Kreme Franchises","n/a"
+"Prime Meridian Holding Company","Director,"Chairman"","Richard A. Weidner","Retired","n/a","2021","Retired Certified Public Accountant","n/a"
+"Prime Meridian Holding Company","EVP/Chief Banking Officer","Kyle D. Phelps","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","EVP/Chief Risk Officer","Susan Payne Turner","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","EVP/Chief Information Officer","Monté L. Ward","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","EVP/Chief Financial Officer","Clint F. Weber","None","n/a","2021","n/a","n/a"
+"Prime Meridian Holding Company","Director","Michael A. Micallef,"Jr."","None","n/a","2021","Retired Banker","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","Principal","Compton & Associates","2021","Wealth Management","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","None","Boone Ventures,"LLC"","2021","Wealth Management","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","Director","Gulf Atlantic Bank,"Key West","FL USA"","2021","Wealth Management","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","None","Restoration Holdings,"LLC"","2021","Wealth Management","n/a"
+"Prime Meridian Holding Company","Director","Kenneth H. Compton","None","Compton Farms","2021","Wealth Management","n/a"
+```

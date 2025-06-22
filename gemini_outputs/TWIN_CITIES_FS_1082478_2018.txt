@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"CBBC Bank","Maryville,"TN"","2018","Joe B. Bruce","n/a","63281","11.72%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","Ben Myers Robertson IRRV Trust","n/a","44561","8.25%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","Robertson Family Limited Partnership","n/a","45530","8.43%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","Leon Shields","n/a","35000","6.48%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","Ben Robertson","n/a","44561","8.25%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","Robertson Family Limited Partnership","n/a","45530","8.43%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","John Proffitt","n/a","34403","6.37%","n/a"
+"CBBC Bank","Maryville,"TN"","2018","John W Clabough,"Jr."","n/a","26928","5.00%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"CBBC Bank","Director","Jerry Dean","Director","n/a","2018","Retired","n/a"
+"CBBC Bank","Director","Bill Clabough","Director","n/a","2018","Exec of Non Profit","n/a"
+"CBBC Bank","Secretary Director","Leann Hicks","Director","n/a","2018","Education","n/a"
+"CBBC Bank","Vice Chairman Director","John Proffitt","Vice Chairman Director","n/a","2018","Retired","n/a"
+"CBBC Bank","Director","James D Robertson","Director","n/a","2018","Retired","n/a"
+"CBBC Bank","Director","Leon Shields","Director","n/a","2018","Insurance","n/a"
+"CBBC Bank","Chairman Director","Gaynell Lawson","Chairman Director","n/a","2018","Retired","n/a"
+"CBBC Bank","Director","Robert L. Carroll","Director","n/a","2018","Retired","n/a"
+"CBBC Bank","Director","G. Alvin Grubb","Consultant Director","n/a","2018","Banker","n/a"
+"CBBC Bank","n/a","Joe B. Bruce","n/a","n/a","2018","Retired","n/a"
+"CBBC Bank","President/CEO Director","Mike Baker","President/CEO Director","n/a","2018","Banker","n/a"
+```

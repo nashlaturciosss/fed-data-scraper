@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Relations Bancshares,"Inc."","Vernon,"AL"","2021","Laura Ashley Egan & Amberly Jackson Family Trust","Common Stock","47782","9.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Walker County","Chairman & CEO","Mark Wilson","n/a","None","2021","Banker","n/a"
+"Bank of Walker County","President","Tony Sparks","n/a","None","2021","Banker","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Owner","Mayers & Co,"PC."","2021","Accountant","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Owner","Midsouth Petro Co","2021","Accountant","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Owner","Sipsey River Oil","2021","Accountant","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Partner","Titan Capital,"LLC"","2021","Accountant","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Partner","GM Properties,"LLC"","2021","Accountant","n/a"
+"Bank of Walker County","Director","Richard ""Mac"" Mayers","Owner/President","Delta Transfer","2021","Accountant","n/a"
+"Bank of Walker County","Director","Ronald K. Harris","Owner","Delta Transfer","2021","Cross Country Moving & Storage","n/a"
+"Bank of Walker County","Director","Ronald K. Harris","Owner","Harris & Harris","2021","Cross Country Moving & Storage","n/a"
+"Bank of Walker County","Director","Ronald K. Harris","Owner","Delta Mini Storage","2021","Cross Country Moving & Storage","n/a"
+"Bank of Walker County","Director","Jim Woods","Owner","Jasper Auto Sales","2021","Auto Sales","n/a"
+"Bank of Walker County","Senior Vice President","Walker Wilson","n/a","None","2021","Banker","n/a"
+"Bank of Walker County","Chief Operating Officer","Debra Kay Sartain","n/a","None","2021","Banker","n/a"
+"Bank of Walker County","Director","Haig Wright","Owner","Byars Wright Insurance","2021","Insurance Broker","n/a"
+"Bank of Walker County","Director","Justin Dyar","Owner","Justin Dyar LLC","2021","Real Estate Agent","n/a"
+"Bank of Walker County","Director","Justin Dyar","Owner","Lake Homes Realty","2021","Real Estate Agent","n/a"
+```

@@ -1,0 +1,22 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Security Federal Bank Employee Stock Ownership Plan (""ESOP"")","n/a","27484","10.89","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Harriette Hampton Revocable Trust","n/a","26490","10.50","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Bryan D. Cowan Family Trust Harriette L. Hampton Trustee","n/a","4500","1.78","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Harriette L. Hampton RIRA","n/a","822","0.33","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Peter W. Hampton,"Jr."","n/a","65012","25.76","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Peter W. Hampton,"Jr."","ESOP","2779","1.10","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Carmella F. Price","n/a","9089","3.60","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"Tennessee"","2020","Carmella F. Price","ESOP","6406","2.54","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SFB Bancorp,"Inc."","Chairman,"President/ CEO and Director CEO of Security Federal Bank and Director"","Peter W. Hampton,"Jr."","n/a","n/a","2020","Attorney and CEO of Security Federal Bank","406778"
+"SFB Bancorp,"Inc."","Attorney and Director of Security Federal Bank Vice Chairman and Director","Frank D. Newman","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","President of Security Federal Bank and Director President of Security Federal Bank and Director","Carmella F. Price","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","EVP/CFO of Security Federal Bank EVP/CFO of Security Federal Bank","David LeVeau","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","Doctor and Director of Security Federal Bank Director","Harriette Hampton","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","Doctor and Director of Security Federal Bank Director","Harriette L Hampton","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","Doctor and Director of Security Federal Bank Director","Bryan D Cowan Family Trust Harriette L. Hampton Trustee","n/a","n/a","2020","n/a","406778"
+"SFB Bancorp,"Inc."","Retired Attorney and Director of Security Federal Bank Director","Earl R Booze","n/a","n/a","2020","n/a","406778"
+```

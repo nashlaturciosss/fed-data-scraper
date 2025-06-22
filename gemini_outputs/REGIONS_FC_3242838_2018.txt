@@ -1,0 +1,28 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Regions Financial Corporation","New York,"NY"","2018","BlackRock,"Inc. (and subsidiaries)"","n/a","84520421","8.2%","3242838"
+"Regions Financial Corporation","Boston,"MA"","2018","State Street Corporation (and subsidiaries):","n/a","53427263","5.2%","3242838"
+"Regions Financial Corporation","Malvern,"PA"","2018","The Vanguard Group,"Inc. (and subsidiaries):"","n/a","124204107","12.01%","3242838"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Regions Financial Corporation","Director","Carolyn H. Byrd","Chairman and CEO","GlobalTech Financial,"LLC"","2018","Chairman and CEO","3242838"
+"Regions Financial Corporation","Director","Don DeFosset","Non-Executive Chair and Director","National Retail Properties","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Don DeFosset","Director","Terex Corporation","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Don DeFosset","Director","ITT Corporation","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Samuel A. Di Piazza,"Jr."","Director","AT&T Inc.","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Samuel A. Di Piazza,"Jr."","Director","ProAssurance Corporation","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Samuel A. Di Piazza,"Jr."","Director","Jones Lang LaSalle Incorporated","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Eric C. Fast","Director","Automatic Data Processing,"Inc."","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Eric C. Fast","Director","National Integrity Life Insurance Company","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Eric C. Fast","Director","Lord Abbett Family of Funds","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Eric C. Fast","Senior Advisor","Crestview Partners","2018","Retired","3242838"
+"Regions Financial Corporation","Director","Zhanna Golodryga","Chief Digital and Administrative Officer","Phillips 66","2018","Chief Digital and Administrative Officer","3242838"
+"Regions Financial Corporation","Executive Chairman and Director","O. B. Grayson Hall,"Jr."","Director","Vulcan Materials Company","2018","N/A","3242838"
+"Regions Financial Corporation","Executive Chairman and Director","O. B. Grayson Hall,"Jr."","Director","Alabama Power Company","2018","N/A","3242838"
+"Regions Financial Corporation","Executive Chairman","John D. Johns","Lead Independent Director","Genuine Parts Company","2018","Executive Chairman","3242838"
+"Regions Financial Corporation","Executive Chairman","John D. Johns","Director","Southern Company","2018","Executive Chairman","3242838"
+"Regions Financial Corporation","President and CEO and Director","John M. Turner,"Jr."","Director","Ochsner Health Systems","2018","N/A","3242838"
+"Regions Financial Corporation","Director","Timothy Vines","President and CEO","Blue Cross and Blue Shield of Alabama","2018","President and CEO","3242838"
+"Regions Financial Corporation","Director","Timothy Vines","Vice Chair","Prime Therapeutics LLC","2018","President and CEO","3242838"
+```

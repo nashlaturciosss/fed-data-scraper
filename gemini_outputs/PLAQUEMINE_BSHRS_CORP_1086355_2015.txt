@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2015","Stephen Panepinto","Common Stock","23356","43.0248%","1086355"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2015","Frances D. Durand","Common Stock","4000","7.3685%","1086355"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2015","Joseph D. Weldon","Common Stock","2897","5.3366%","1086355"
+"Plaquemine Bank & Trust Company","Calabasa,"CA"","2015","Kathleen Weldon","Common Stock","2886","5.3164%","1086355"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2015","M/M J. D. Weldon","Common Stock","2371","4.3677%","1086355"
+"Plaquemine Bank & Trust Company","Plattenville,"LA"","2015","Gretchen Stemfels","Common Stock","2075","3.8224%","1086355"
+"Plaquemine Bank & Trust Company","Plattenville,"LA"","2015","Service Mortgage Company,"Inc."","Common Stock","1333","2.4556%","1086355"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bank & Trust Company","Director & Chairman/ President/CEO","Stephen Panepinto","Director & Chairman/ President/CEO","Plaquemine Bank and Trust Company","2015","Director & Chairman/ President/CEO","1086355"
+"Plaquemine Bank & Trust Company","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","Sr. Vice President,"CFO & Cashier"","Plaquemine Bank and Trust Company","2015","Sr. Vice President,"CFO & Cashier"","1086355"
+"Plaquemine Bank & Trust Company","Vice President","Caroline B. Causin","Vice President","Plaquemine Bank and Trust Company","2015","n/a","1086355"
+"Plaquemine Bank & Trust Company","Vice President","Elizabeth Rivet","Vice President","Plaquemine Bank and Trust Company","2015","n/a","1086355"
+"Plaquemine Bank & Trust Company","Assistant Vice President","Rhett Vaughn","Asst. Vice President","Plaquemine Bank and Trust Company","2015","n/a","1086355"
+"Plaquemine Bank & Trust Company","Director","Frances D. Durand","Director","Plaquemine Bank and Trust Company","2015","Owner of Durand Property LLC","1086355"
+"Plaquemine Bank & Trust Company","Director & Secretary","G.W. Banta","President","J.W. Banta Towing","2015","Owner of J.W. Banta Towing,"Inc."","1086355"
+"Plaquemine Bank & Trust Company","Director","J. D. Weldon","n/a","Plaquemine Bank and Trust Company","2015","Retired","1086355"
+"Plaquemine Bank & Trust Company","Director & Vice Chairman","John N. Gum,"Jr."","Director & Vice Chairman","Plaquemine Bank and Trust Company","2015","Retired","1086355"
+"Plaquemine Bank & Trust Company","Director","Kenneth C. Caruso","n/a","Plaquemine Bank and Trust Company","2015","President Resource Management Associates,"Inc."","1086355"
+"Plaquemine Bank & Trust Company","Director","Harry J Philips,"Jr."","n/a","Plaquemine Bank and Trust Company","2015","Managing Partner Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","1086355"
+"Plaquemine Bank & Trust Company","Director","Leo D Sternfels","n/a","Plaquemine Bank and Trust Company","2015","President Sternfel's Realty","1086355"
+```

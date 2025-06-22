@@ -1,0 +1,23 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2019","C.Don Thompson","Common Stock","36714","34.932%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2019","C. Todd Thompson","Common Stock","3912","3.7222%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2019","Joel C. Thompson","Common Stock","8163","7.7669%","n/a"
+"Se-Fed Bancshares,"Inc."","Jasper,"AL"","2019","H. Douglas Farris","Common Stock","7466","7.1037%","n/a"
+"Se-Fed Bancshares,"Inc."","Panama City,"FL"","2019","John H. Drummond Jr.","Common Stock","5250","4.9952%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Se-Fed Bancshares,"Inc."","Chairman","Don Thompson","General Partner","TATT Holdings LLC.","2019","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","General Partner","TATT Holdings LLC.","2019","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director,"CEO","President & Treasurer"","C. Todd Thompson","General Partner","GNHLLC","2019","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director","H. Douglas Farris","n/a","n/a","2019","Judge","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Linda Rosser","n/a","n/a","2019","n/a","n/a"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","Managing Partner","Contamination Control Svcs,"LLC"","2019","Business Owner","n/a"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","Partner","AJMJ Properties","2019","Business Owner","n/a"
+"Se-Fed Bancshares,"Inc."","Director","William Alan Johnson","Owner","Mining Support Svc LLC","2019","Business Owner","n/a"
+"Se-Fed Bancshares,"Inc."","Director","Jeffrey Grice","President","Lacy Grice Insurance Agency","2019","Insurance Agency Owner","n/a"
+```

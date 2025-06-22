@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2023","Charles & Brenda Poe","Class B","3029.7500","14.6801%","n/a"
+"Tri-States Bankshares,"Inc."","Rising Fawn,"GA"","2023","Gary Gross","Class B","2063.8424","10.0000%","n/a"
+"Tri-States Bankshares,"Inc."","Rising Fawn,"GA"","2023","Stan Gross","Class B","2063.8424","10.0000%","n/a"
+"Tri-States Bankshares,"Inc."","Flintstone,"GA"","2023","Janice Pilgrim","Class B","2000.0000","9.6907%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2023","Joe Gaddis","Class B","2000.0000","9.6907%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2023","Derrell W. Gaddis","Class B","1931.3690","9.3581%","n/a"
+"Tri-States Bankshares,"Inc."","Lookout Mtn,"GA"","2023","Aubrey Black","Class B","1200.0000","5.8144%","n/a"
+"Tri-States Bankshares,"Inc."","Rising Fawn,"GA"","2023","Jay Jones,"Jr."","Class B","1000.0000","4.8453%","n/a"
+"Tri-States Bankshares,"Inc."","Ider,"AL"","2023","Angie Brown","Class B","1000.0000","4.8453%","n/a"
+"Tri-States Bankshares,"Inc."","Flat Rock,"AL"","2023","Amy Jones","Class B","1000.0000","4.8453%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2023","Jay T. Jones,"Sr."","Class B","889.6845","4.3108%","n/a"
+"Tri-States Bankshares,"Inc."","Fort Payne,"AL"","2023","John E. Beck","Class B","800.0000","3.8763%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2023","Leisa Cagle","Class B","800.0000","3.8763%","n/a"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2023","Emily Collier","Class B","429.9673","2.0833%","n/a"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2023","Sheri Greene","Class B","429.9673","2.0833%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2023","Charles D. Gross","Class B","1375.8949","6.6666%","n/a"
+"Tri-States Bankshares,"Inc."","Dalton,"GA"","2023","Carolyn Ellis","Class B","1944.8423","9.4234%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Dade","Director","Brenda Poe","n/a","n/a","2023","Retired","n/a"
+"Bank of Dade","President/Director","Derrell Gaddis","n/a","n/a","2023","Retired","n/a"
+"Bank of Dade","Director","Gary Gross","n/a","Gross Furniture Center","2023","Self-employed","n/a"
+"Bank of Dade","Chairman/Director","Aubrey Black","n/a","Aubrey Black Const. Inc.","2023","Self-employed","n/a"
+"Bank of Dade","Chairman/Director","Aubrey Black","n/a","Ol'South Fence,"Inc."","2023","Self-employed","n/a"
+"Bank of Dade","Director","Jay T. Jones,"Sr."","n/a","n/a","2023","Executive VP Bank of Dade","n/a"
+"Bank of Dade","Director","John E Beck","n/a","n/a","2023","Retired","n/a"
+"Bank of Dade","Director","Leisa Cagle","n/a","n/a","2023","Vice President McKee Bakery","n/a"
+```

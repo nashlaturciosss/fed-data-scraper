@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"State Bank Financial Corporation","Malvern,"PA"","2015","The Vanguard Group","Common Stock","2295881","6.19%","n/a"
+"State Bank Financial Corporation","Short Hills,"NJ"","2015","Franklin Mutual Advisers,"LLC"","Common Stock","2235360","6.03%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Director","TMG Gases,"Inc."","2015","Chairman of Board","n/a"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Director","EndoChoice,"Inc."","2015","Chairman of Board","n/a"
+"State Bank Financial Corporation","Director","Kelly H. Barrett","n/a","The Home Depot,"Inc."","2015","Vice President,"Internal Audit & Corporate Compliance"","n/a"
+"State Bank Financial Corporation","Director","Archie L. Bransford,"Jr."","n/a","Bransford & Associates,"LLC"","2015","President","n/a"
+"State Bank Financial Corporation","President","Remer Y. Brinson III","n/a","n/a","2015","Executive Vice President","n/a"
+"State Bank Financial Corporation","Executive Vice President","David C. Brown","n/a","n/a","2015","Executive Vice President & Corporate Development Officer","n/a"
+"State Bank Financial Corporation","Vice Chairman & Executive Risk Officer","Kim M. Childers","Managing Principal","Bankers' Capital Group,"LLC"","2015","n/a","n/a"
+"State Bank Financial Corporation","Executive Vice President & Chief Information Officer","David W. Cline","Managing Principal","The Bowman Cline Group LLC","2015","n/a","n/a"
+"State Bank Financial Corporation","Director","Ann Q. Curry","n/a","Coxe Curry & Associates","2015","Chief Client Strategist","n/a"
+"State Bank Financial Corporation","Enterprise Risk Officer & Executive Vice President","Steven G. Deaton","n/a","n/a","2015","n/a","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","Managing Principal","Bankers' Capital Group,"LLC"","2015","n/a","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","President & Chief Executive Officer","Rosebub Farm,"Inc."","2015","n/a","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","General Partner","Howell,"Dexter","Evans Family Partnership"","2015","n/a","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","Principal","Sagus Parnters","2015","n/a","n/a"
+"State Bank Financial Corporation","Director","Virginia A. Hepner","Principal Investor","GHL,"LLC"","2015","President & Chief Executive Officer","n/a"
+"State Bank Financial Corporation","Director","John D. Houser","Member","Southern Specialty Underwriters,"LLC"","2015","President & Chief Executive Officer","n/a"
+"State Bank Financial Corporation","Director","William D. McKnight","President","Will McKnight Construction Company","2015","President & Chief Executive Officer","n/a"
+"State Bank Financial Corporation","Director","Major General (Retired) Robert H. McMahon","n/a","Fickling Management Services","2015","President","n/a"
+"State Bank Financial Corporation","Chief Financial Officer","Sheila E. Ray","n/a","n/a","2015","n/a","n/a"
+"State Bank Financial Corporation","Vice Chairman & President","J. Thomas Wiley,"Jr."","Managing Principal","Bankers' Capital Group,"LLC"","2015","n/a","n/a"
+```

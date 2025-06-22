@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2018","Stephen Panepinto","Common Stock","24332","44.8227%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2018","Frances D. Durand","Common Stock","4000","7.3885%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2018","Joseph D. Weldon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bancshares Corporation","Calabasa,"CA"","2018","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2018","M/M J. D. Weldon","Common Stock","2371","4.3677%","n/a"
+"Plaquemine Bancshares Corporation","Plattenville,"LA"","2018","Gretchen Stenfels","Common Stock","2075","3.8224%","n/a"
+"Plaquemine Bancshares Corporation","Plattenville,"LA"","2018","Service Mortgage Company,"Inc."","Common Stock","1333","2.4556%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bancshares Corporation","Director","Frances D. Durand","Managing Partner","Durand Property LLC","2018","Owner of Durand Property LLC","n/a"
+"Plaquemine Bancshares Corporation","Director & Secretary","G.W. Banta","President","J.W. Banta Towing","2018","Owner of J.W. Banta Towing,"Inc."","n/a"
+"Plaquemine Bancshares Corporation","Director","J.D. Weldon","n/a","n/a","2018","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director & Vice Chairman","John N. Guma,"Jr."","n/a","n/a","2018","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director","Kenneth C. Caruso","n/a","n/a","2018","Managing Partner KC5,"LLC"","n/a"
+"Plaquemine Bancshares Corporation","Director","Harry J Phillips,"Jr."","n/a","n/a","2018","Managing Partner Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","n/a"
+"Plaquemine Bancshares Corporation","Director","Leo D Stemfels","n/a","Arthur J. Gallagher & Co.","2018","President Stemfel's Realty Risk Manager","n/a"
+"Plaquemine Bancshares Corporation","Director & Chairman/PresidenVCEO","Stephen Panepinto","n/a","n/a","2018","n/a","n/a"
+"Plaquemine Bancshares Corporation","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2018","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Caronne B. Causin","n/a","n/a","2018","n/a","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Elizabeth Rivel","n/a","n/a","2018","n/a","n/a"
+"Plaquemine Bancshares Corporation","Assistant Vice President","Rhett Vaughn","n/a","n/a","2018","n/a","n/a"
+```

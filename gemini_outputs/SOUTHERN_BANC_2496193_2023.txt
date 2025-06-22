@@ -1,0 +1,33 @@
+Here are the two tables in CSV format as requested.
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2023","Gates Little","Common Stock","83193","10.32%","0002496193"
+"The Southern Banc Company,"Inc."","Birmingham,"AL"","2023","James B. Little,"III"","Common Stock","122873","15.24%","0002496193"
+"The Southern Banc Company,"Inc."","Birmingham,"AL"","2023","James Pendergast","Common Stock","47236","5.86%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2023","Directors (4 persons)","Common Stock","75601","8.68%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2023","The Southern Banc Company,"Inc."","n/a","24504","3.04%","0002496193"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Southern Banc Company,"Inc."","Director & President","Gates Little","Director & President","The Southern Bank Company","2023","N/A","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas Alan Ritchie,"Jr."","President of Clearmind,"Inc"","Ritchie Realty,"LLC"","2023","President of Return Mail Inc.","0002496193"
+"The Southern Banc Company,"Inc."","Director","F. Michael Haney","Partner in Inzer,"Haney","McWhorter","Haney","& Skelton","LLC"","Inzer,"Haney","McWhorter","Haney","& Skelton","LLC"","2023","Attorney","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas F. Dowling,"III"","Director","n/a","2023","Retired Dentist","0002496193"
+"The Southern Banc Company,"Inc."","Director","John E. Bell,"III"","CFO of HighFive Healthcare","HighFive Healthcare","2023","CFO of HighFive Healthcare","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP Management Holding Holdings Inc.","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP CAPCO Partners,"Inc."","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Old Realty,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Waveland Texas Ventures Management,"LP"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Depot Properties","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Fanning Branch Realty,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Telluride Productions,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP Sidecar Investments,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","Telluride Baja,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","LTC PBM Holdings,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP II,"LLC"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP Executive Interests,"LLC Series D"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of New Capital Partners,"LLC"","NCP Executive Interests,"LLC Series E"","2023","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Vice President","James Pendergast","n/a","n/a","2023","N/A","0002496193"
+```

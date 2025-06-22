@@ -1,0 +1,22 @@
+"Here are the two tables extracted from the document","formatted as requested in CSV."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Chairman of the Board","L.O. Benton,"IV"","n/a","Urban Equity Properties,"LLC"","2022","Real Estate Property Mgt","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","President/CEO","L.O. Benton,"IV"","n/a","Urban Equity Properties,"LLC"","2022","Real Estate Property Mgt","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Chairman of the Board","L.O. Benton,"IV"","n/a","Urban Equity Properties,"LLC"","2022","Real Estate Property Mgt","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","n/a","L.O. Benton,"IV"","n/a","n/a","2022","Real Estate Property Mgt","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","n/a","L.O. Benton,"IV"","n/a","n/a","2022","Real Estate Property Mgt","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Principal Shareholder","L.O. Benton,"IV"","n/a","n/a","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Principal Shareholder","Anne Fitzpatrick","Advisory Director","Rigby's Green Farm,"LLC"","2022","Bank Stockholder","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Vice President","Nancy Benton","Owner","Benton Farms","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Vice President","Nancy Benton","Co-Owner","Barrett Creek Land & Investment Company,"LLC"","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Director","Stacy M. Benton","n/a","n/a","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Director","R. Linton Jordan","n/a","n/a","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","Director","Amy McElhenney","n/a","n/a","2022","None","n/a"
+"PUTNAM-GREENE FINANCIAL CORPORATION","COO/SLO","William L. Gower","Secretary/Treasurer","Evermore Community Improvement District","2022","Farmers & Merchants Bank","n/a"
+```

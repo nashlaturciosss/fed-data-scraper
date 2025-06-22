@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie County Bancorp,"Inc."","Dunlap,"Tennessee"","2020","David F. Barker","n/a","38","0.15%","n/a"
+"Sequatchie County Bancorp,"Inc."","Dunlap,"Tennessee"","2020","Dorris B. Birchett","n/a","1883","7.27%","n/a"
+"Sequatchie County Bancorp,"Inc."","Dunlap,"Tennessee"","2020","Jane Britt Brown","n/a","1600","6.18%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie County Bancorp,"Inc."","Director/ Chairman","Wendell A. Spicer","Partner","Timberwood Dev. Co","2020","Retired","714437"
+"Sequatchie County Bancorp,"Inc."","President / CEO Director","Wendell A. Billingsley","n/a","n/a","2020","Banker","714437"
+"Sequatchie County Bancorp,"Inc."","Director","Elizabeth Greer Adams","n/a","n/a","2020","Attorney","714437"
+"Sequatchie County Bancorp,"Inc."","Director","W. Randolph Allen","Owner","Sequatchie Valley Eye Care","2020","Optometrist","714437"
+"Sequatchie County Bancorp,"Inc."","Director","C. Gene Hixson","n/a","n/a","2020","Retired","714437"
+"Sequatchie County Bancorp,"Inc."","Director","Lynn Johnson","Partner","The Victor Johnson Farm","2020","USDA","714437"
+"Sequatchie County Bancorp,"Inc."","Director","William L. Kelly","n/a","n/a","2020","Real Estate Agent","714437"
+"Sequatchie County Bancorp,"Inc."","Vice-President","Marvin L. Price","n/a","n/a","2020","Banker","714437"
+"Sequatchie County Bancorp,"Inc."","Secretary","Sherry Brock","n/a","n/a","2020","Office Manager Stephen T. Greer,"PC"","714437"
+"Sequatchie County Bancorp,"Inc."","Asst. Secretary","Gayla A. Harmon","n/a","n/a","2020","Banker","714437"
+```

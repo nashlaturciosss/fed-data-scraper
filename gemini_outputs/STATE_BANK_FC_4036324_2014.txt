@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"State Bank Financial Corporation","Short Hills,"NJ"","2014","Franklin Mutual Advisers,"LLC"","Common Stock","2037860","6.32%","n/a"
+"State Bank Financial Corporation","Malvern,"PA"","2014","The Vanguard Group","Common Stock","1980005","6.14%","n/a"
+"State Bank Financial Corporation","Boston,"MA"","2014","Eaton Vance Management","Common Stock","1610626","4.99%","n/a"
+"State Bank Financial Corporation","New York,"NY"","2014","Maltese Capital Management,"formerly Sandler O'Neill Asset Management","LLC"","Common Stock","1277800","3.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Chairman of Board","EndoChoice,"Inc."","2014","Chairman of Board,"EndoChoice","Inc."","n/a"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Operating Partner","Council Ventures,"Inc."","2014","Chairman of Board,"EndoChoice","Inc."","n/a"
+"State Bank Financial Corporation","Director","James R. Balkcom,"Jr."","Chairman of Board","TMG Gases Inc.","2014","Chairman of Board,"EndoChoice","Inc."","n/a"
+"State Bank Financial Corporation","Director","Kelly H. Barrett","Vice President,"Internal Audit & Corporate Compliance"","The Home Depot,"Inc."","2014","Vice President,"Internal Audit & Corporate Compliance","The Home Depot","Inc."","n/a"
+"State Bank Financial Corporation","Director","Archie L. Bransford,"Jr."","President","Bransford & Associates,"LLC"","2014","President,"Bransford & Associates","LLC"","n/a"
+"State Bank Financial Corporation","Chief Financial Officer","Thomas L. Callicutt,"Jr."","n/a","n/a","2014","N/A","n/a"
+"State Bank Financial Corporation","Vice Chairman & Executive Risk Officer","Kim M. Childers","Managing Principal","Bankers' Capital Group,"LLC"","2014","N/A","n/a"
+"State Bank Financial Corporation","Director","Anne Q. Curry","President","Coxe Curry & Associates","2014","President,"Coxe Curry & Associates"","n/a"
+"State Bank Financial Corporation","Corporate Development Officer","Stephen W. Doughty","Managing Principal","Bankers' Capital Group,"LLC"","2014","N/A","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","Managing Principal","Bankers' Capital Group,"LLC"","2014","N/A","n/a"
+"State Bank Financial Corporation","Chairman & Chief Executive Officer","Joseph W. Evans","President & Chief Executive Officer","Rosebub Farm,"Inc."","2014","N/A","n/a"
+"State Bank Financial Corporation","Director","Virginia A. Hepner","Principal Investor","GHL,"LLC"","2014","President & Chief Executive Officer Woodruff Arts Center","n/a"
+"State Bank Financial Corporation","Director","John D. Houser","President & Chief Executive Officer","Southern Trust Ins. Co.","2014","President & Chief Executive Officer,"Southern Trust Corporation"","n/a"
+"State Bank Financial Corporation","Director","John D. Houser","Member","Southern Specialty Underwriters,"LLC"","2014","President & Chief Executive Officer,"Southern Trust Corporation"","n/a"
+"State Bank Financial Corporation","Director","Major General (Retired) Robert H. McMahon","n/a","n/a","2014","Director of C-17 Field Operations,"Boeing"","n/a"
+"State Bank Financial Corporation","Vice Chairman & Chief Operating Officer","J. Daniel Speight,"Jr."","Managing Principal","Bankers' Capital Group,"LLC"","2014","N/A","n/a"
+"State Bank Financial Corporation","Vice Chairman & President","J. Thomas Wiley,"Jr."","Managing Principal","Bankers' Capital Group,"LLC"","2014","N/A","n/a"
+```

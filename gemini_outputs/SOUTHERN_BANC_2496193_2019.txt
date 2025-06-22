@@ -1,0 +1,26 @@
+Here are the CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","Estate of James B. Little,"Jr."","Common Stock","50333","6.24%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","Gates Little","Common Stock","79498","9.86%","0002496193"
+"The Southern Banc Company,"Inc."","Birmingham,"USA"","2019","James B. Little,"III"","Common Stock","120873","15.00%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","Directors (4 persons)","Common Stock","88785","11.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","Thomas F. Dowling,"III"","n/a","7273","0.90%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","F. Michael Haney","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","Thomas Alan Ritchie,"Jr."","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","John E. Bell,"III"","n/a","100","0.01%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","The Southern Banc Company,"Inc. Stock Option and Incentive Plan"","n/a","39260","4.87%","0002496193"
+"The Southern Banc Company,"Inc."","Gadsden,"USA"","2019","The Southern Banc Company,"Inc. Employee Stock Ownership Plan"","n/a","37102","4.60%","0002496193"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Southern Banc Company,"Inc."","Director & President","Gates Little","Director & President","The Southern Bank Company","2019","n/a","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas Alan Ritchie,"Jr."","CFO","ComplyMD","2019","President of RMI,"Inc."","0002496193"
+"The Southern Banc Company,"Inc."","Director","F. Michael Haney","Partner","Inzer,"Haney","McWhorter","and Haney LLC"","2019","Attorney","0002496193"
+"The Southern Banc Company,"Inc."","Director","Thomas F. Dowling,"III"","n/a","Sarrol Dental","2019","Consultant","0002496193"
+"The Southern Banc Company,"Inc."","Director","John E. Bell,"III"","CFO","HighFive Dental","2019","CFO of HighFive Dental","0002496193"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner","New Capital Partners,"LLC"","2019","Founder of New Capital Partners,"LLC"","0002496193"
+"The Southern Banc Company,"Inc."","Secretary/ Treasurer","Peggy Smith","Secretary/ Treasurer","The Southern Bank Company","2019","n/a","0002496193"
+```

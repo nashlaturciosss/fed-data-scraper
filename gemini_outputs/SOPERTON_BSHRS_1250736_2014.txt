@@ -1,0 +1,30 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOPERTON BANCSHARES,"INCORPORATED"","Soperton,"Georgia"","2014","Jim L. Gillis,"Jr."","n/a","2084","5.59%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Soperton,"Georgia"","2014","Jim L. Gillis,"III"","n/a","5711","15.32%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Adel,"Georgia"","2014","Jeanmarie G. Harris","n/a","4654","12.49%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Ocala,"Florida"","2014","Margaret Lois G. Clardy","n/a","4151","11.14%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Atlanta,"Georgia"","2014","Kate Felton","n/a","3664","9.83%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Soperton,"Georgia"","2014","Hugh Gillis,"Jr."","n/a","4062","10.90%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Dublin,"Georgia"","2014","Donald W. Gillis","n/a","3841","10.31%","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Soperton,"Georgia"","2014","Richard M. Dennard","n/a","2754","7.39%","1250736"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOPERTON BANCSHARES,"INCORPORATED"","Chairman","Jim L. Gillis,"Jr."","Chairman/Director","Bank of Soperton","2014","Executive","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director/President","Jim L. Gillis,"III"","Director/President","Bank of Soperton","2014","Executive","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director/Secretary","Donald W. Gillis","Director/Secretary","Bank of Soperton","2014","Judge","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","Richard Dennard","Director","Bank of Soperton","2014","Pharmacist","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","Richard Dennard","Owner","Dennard Drugs & Jewelry","2014","Pharmacist","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","Richard Dennard","Owner","Dennard True Value Hardware","2014","Pharmacist","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","Chandler Maurice Beasley,"III"","Director/SVP","Bank of Soperton","2014","Banking Officer","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","David Roberts","Owner","Chic-fil-a of Dublin","2014","Executive","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","James Mark Burns","n/a","n/a","2014","Retired","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","Director","Dennis H. Ingley","n/a","Ingley Moore Paradice & Co LLC","2014","Partner","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","n/a","Margaret Lois G. Clardy","n/a","n/a","2014","Retired","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","n/a","Jeanmarie G. Harris","n/a","n/a","2014","Retired","1250736"
+"SOPERTON BANCSHARES,"INCORPORATED"","n/a","Hugh Gillis,"Jr"","n/a","Gillis Ag & Timber","2014","Partner","1250736"
+```

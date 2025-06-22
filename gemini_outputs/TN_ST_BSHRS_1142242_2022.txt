@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","President and Chairman","Richard Todd Proffitt","n/a","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","Secretary Director","Wayne Ayers","Director","n/a","2022","Real Estate","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Travis McCroskey","Director","n/a","2022","Owner","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Mitchell H. McCarter","Director Secretary","n/a","2022","Owner","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Charles R. Frost Jr","Director","n/a","2022","Owner","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Robert A. Tino","Director","n/a","2022","Owner","n/a"
+"Tennessee State Bancshares,"Inc."","Director","Lawrence Andrew Proffitt","Director","n/a","2022","Owner","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","J. Scott Gibson","Senior Executive Vice-President","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Tammie M. Sutton","Executive Vice-President","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Jennifer Lynn Reinhard","Executive Vice-President","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","R. Stephen Hagood","Executive Vice-President","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Ray B. Sterling","Executive Vice-President","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Ray Lee Reagan","Shareholder and Trustee Role","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Lisa M Reagan","Trustee Role","n/a","2022","n/a","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Kay Stephens","Trustee Role","n/a","2022","n/a","n/a"
+```

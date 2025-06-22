@@ -1,0 +1,28 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Traditions First Bancorp,"Inc."","Erin,"TN"","2023","Rebecca L. Averitt","Common Stock","60020","5%","n/a"
+"Traditions First Bancorp,"Inc."","Clarksville,"TN"","2023","Ronald D. Moore","Common Stock","97859","8%","n/a"
+"Traditions First Bancorp,"Inc."","Clarksville,"TN"","2023","Penny Reynolds","Common Stock","88351","7%","n/a"
+"Traditions First Bancorp,"Inc."","Clarksville,"TN"","2023","Penny Reynolds","Options","2000","<1%","n/a"
+"Traditions First Bancorp,"Inc."","Tennessee Ridge,"TN"","2023","Rodney Schmidt","Common Stock","60191","5%","n/a"
+"Traditions First Bancorp,"Inc."","Tennessee Ridge,"TN"","2023","Rodney Schmidt","Options","2000","<1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Traditions First Bancorp,"Inc."","Director,"President & CEO"","Thomas W. Mitchell","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director,"President"","W. Kyle Miller","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director,"Chairman"","Clint A. Reynolds","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director,"Vice-Chairman"","Daniel E. Martin","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director Secretary of the Board","Beverly G. Nolen","n/a","n/a","2023","Boilermaker","n/a"
+"Traditions First Bancorp,"Inc."","Director","Eldon D. Schmidt","n/a","n/a","2023","Business Owner","n/a"
+"Traditions First Bancorp,"Inc."","Director","W. Sid Vinson","n/a","n/a","2023","Attorney","n/a"
+"Traditions First Bancorp,"Inc."","Director,"COO"","Raymond H,"Fussell","Jr"","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director,"CFO"","Melinda Mitchell","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director","Seth W. Rye","n/a","n/a","2023","Engineer","n/a"
+"Traditions First Bancorp,"Inc."","Director","Jon R. Clouser","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Director","Clifton Eugene Whitfield","n/a","n/a","2023","n/a","n/a"
+"Traditions First Bancorp,"Inc."","Montgomer Co. Market President","Kyle D. Luther","n/a","n/a","2023","N?A","n/a"
+```

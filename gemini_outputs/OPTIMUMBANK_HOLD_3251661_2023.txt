@@ -1,0 +1,18 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"OptimumBank Holdings,"Inc."","Boca Raton,"FL"","2023","Moishe Gubin","9.64% common stock","699000","n/a","n/a"
+"OptimumBank Holdings,"Inc."","Surfside,"FL"","2023","Michael Blisko","8.25% common stock","598388","n/a","n/a"
+"OptimumBank Holdings,"Inc."","Singapore,"Singapore"","2023","Chan Heng Fai Ambrose","8.25% common stock","598000","n/a","n/a"
+"OptimumBank Holdings,"Inc."","N/A","2023","N/A","n/a","N/A","N/A","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"OptimumBank Holdings Inc.","Director,"Chairman of the Board (Optimum Bank)"","Moishe Gubin","n/a","n/a","2023","CEO various nursing homes","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Steven Newman","n/a","Real Estate Investor","2023","Real Estate Investor","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Joel Klein","n/a","n/a","2023","Retired","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Martin Schmidt","n/a","Financial Planner","2023","Financial Planner","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Thomas Procelli","n/a","Consultant","2023","Consultant","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Michael Blisko","n/a","CEO various nursing homes","2023","CEO various nursing homes","n/a"
+"OptimumBank Holdings Inc.","Director (OptimumBank)","Avi M. Zwelling","n/a","n/a","2023","Attorney","n/a"
+"OptimumBank Holdings Inc.","CEO/President","Timothy Terry","n/a","n/a","2023","Bank President","n/a"
+```

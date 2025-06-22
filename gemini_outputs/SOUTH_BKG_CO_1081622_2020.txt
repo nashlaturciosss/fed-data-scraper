@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2020","Paul T. Bennett","common shares","1786","30.27%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Paul T. Bennett","common shares","13","0.22%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Paul T. Bennett","n/a","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Paul T. Bennett","n/a","242","4.10%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Lawrence Bennett","common shares","1316","22.31%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Lawrence Bennett","common shares","276","4.68%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Lawrence Bennett","n/a","5","0.08%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Lawrence Bennett","n/a","242","4.10%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Harry Keith Bennett,"Jr."","common shares","384","6.51%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Harry Keith Bennett,"Jr."","common shares","56","0.95%","n/a"
+"South Banking Company","Alma,"Georgia"","2020","Holly B. Porter","common shares","399","6.76%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Chairman of the Board Pineland Bank,"Director & Secretary"","Paul T. Bennett","Chairman of the Board & President","Peoples Bank","2020","Banking","n/a"
+"South Banking Company","Chairman of the Board Pineland Bank,"Director & Secretary"","Paul T. Bennett","Director & President","South Georgia Bankshares","2020","Banking","n/a"
+"South Banking Company","Vice Chairman of the Board - Pineland Bank,"Director and Vice President"","Lawrence Bennett","Director","Peoples Bank","2020","Banking","n/a"
+"South Banking Company","Vice Chairman of the Board - Pineland Bank,"Director and Vice President"","Lawrence Bennett","Director","South Georgia Bankshares","2020","Banking","n/a"
+"South Banking Company","Director","Kenneth Wade","n/a","None","2020","Retired Banker","n/a"
+"South Banking Company","Director and President/CEO","Al D. Ross","n/a","None","2020","Banking","n/a"
+"South Banking Company","Director & Executive Vice President","James Stephen Tuten,"III"","n/a","None","2020","Banking","n/a"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","None","2020","Blueberry Farmer","n/a"
+```

@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TraCorp,"Inc."","Tullahoma,"TN"","2014","Thomas H. Copeland","n/a","10789","14.70%","1250718"
+"TraCorp,"Inc."","Tullahoma,"TN"","2014","Kyle Copeland","n/a","7100","9.67%","1250718"
+"TraCorp,"Inc."","Gray,"GA"","2014","Claudia & Michael Copeland Vaden","n/a","8000","10.90%","1250718"
+"TraCorp,"Inc."","Tullahoma,"TN"","2014","Scott Copeland","n/a","6902","9.41%","1250718"
+"TraCorp,"Inc."","Tullahoma,"TN"","2014","Kim & Clay Copeland Uselton","n/a","8920","12.15%","1250718"
+"TraCorp,"Inc."","Tullahoma,"TN"","2014","Bennie R. Garrick","n/a","12602","17.17%","1250718"
+"TraCorp,"Inc."","Winchester,"TN"","2014","Daryl Hammers","n/a","12467","17.03%","1250718"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TRACORP,"INC."","Director & Pres.","Thomas H. Copeland","Director","Smith/Copeland Ptr.","2014","Attorney","1250718"
+"TRACORP,"INC."","Director & Pres.","Thomas H. Copeland","Partner","Copeland Partnership","2014","Attorney","1250718"
+"TRACORP,"INC."","Director & Pres.","Thomas H. Copeland","Partner","Copeland & Bell,"PLLC"","2014","Attorney","1250718"
+"TRACORP,"INC."","Director & Pres.","Thomas H. Copeland","Partner","Broadrick Street Partnership","2014","Attorney","1250718"
+"TRACORP,"INC."","Director & Sec.","Bennie R. Garrick","Partner","KRS Properties","2014","Banker","1250718"
+"TRACORP,"INC."","Director & Sec.","Bennie R. Garrick","Partner","Broadrick Street Partnership","2014","Banker","1250718"
+"TRACORP,"INC."","Director","Daryl Hammers","n/a","C & S Plastics,"LLC"","2014","Businessman","1250718"
+"TRACORP,"INC."","Director","Kim Copeland Uselton","n/a","n/a","2014","n/a","1250718"
+"TRACORP,"INC."","Director","Claudia & Michael Copeland Vaden","n/a","n/a","2014","Homemaker/ Director of Nursing - VA","1250718"
+"TRACORP,"INC."","Director","Kyle Copeland","Partner","Southern Electric & Plumbing Supply,"Inc."","2014","Businessman","1250718"
+"TRACORP,"INC."","Director","Scott Copeland","n/a","n/a","2014","Businessman","1250718"
+```

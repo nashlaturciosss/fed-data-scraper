@@ -1,0 +1,32 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2015","John Rodgers,"L.P."","n/a","1355737","7.87%","n/a"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2015","Endicott Group","n/a","1355737","7.87%","n/a"
+"TGR FINANCIAL,"INC."","Atlanta,"GA"","2015","GMT Capital Group","n/a","2678503","15.55%","n/a"
+"TGR FINANCIAL,"INC."","New York,"NY"","2015","Lightyear Group","n/a","1552783","9.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TGR FINANCIAL,"INC."","Director","Adam D. Compton","Director","Alico,"Inc."","2015","Managing Director & Portfolio Manager"
+"TGR FINANCIAL,"INC."","Director","Adam D. Compton","Director","First Florida Integrity Bank","2015","Managing Director & Portfolio Manager"
+"TGR FINANCIAL,"INC."","Chairman","Robert M. Feerick","Chairman","Xymox Technologies,"Inc."","2015","Chairman & CEO"
+"TGR FINANCIAL,"INC."","Chairman","Robert M. Feerick","Director","Gulfshore Insurance","2015","Chairman & CEO"
+"TGR FINANCIAL,"INC."","Director","Robert M. Feerick","Chairman","Horizon Partners,"Ltd"","2015","Chairman & CEO"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Vice President","Endicott Management Company","2015","n/a","n/a"
+"TGR FINANCIAL,"INC."","Director","John J. Guinee","Managing Partner","Constitution Capital Partners,"LLC"","2015","n/a","n/a"
+"TGR FINANCIAL,"INC."","Director","Michael J. Kerschner","Commissioner","Seneca County,"Ohio"","2015","n/a","n/a"
+"TGR FINANCIAL,"INC."","Director","Bradford B. Kopp","Self Employed Consultant","Lightyear Capital,"LLC"","2015","Senior Advisor to Lightyear Capital,"LLC"","n/a"
+"TGR FINANCIAL,"INC."","Director","Dianne Gillmor Krumsee","Chairman","Old Fort Banking Company","2015","Chairman & Owner"
+"TGR FINANCIAL,"INC."","Director","Dianne Gillmor Krumsee","Board Member","Paul M & Lucy J Gillmor Charitable Foundation","2015","Chairman & Owner"
+"TGR FINANCIAL,"INC."","Director","James S. Lindsay","Realtor","n/a","2015","Realtor","n/a"
+"TGR FINANCIAL,"INC."","Director","Edward J. Mace","Sole Proprietor","n/a","2015","Edward J Mace,"CPA"","n/a"
+"TGR FINANCIAL,"INC."","Director","Donald W. Major","Retired","n/a","2015","Retired","n/a"
+"TGR FINANCIAL,"INC."","SEVP & Chief Admin. Officer","Robert T. Reichert","n/a","n/a","2015","Chief Administrative Officer","n/a"
+"TGR FINANCIAL,"INC."","Director & President","Garrett S. Richter","Florida State Senator,"District 21"","n/a","2015","President","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","Director","Federal Reserve Bank of Atlanta,"Miami Branch"","2015","Chief Executive Officer","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","Board Member","Light to the Nations Ministry","2015","Owner Dealer","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","Board Member","Motivated by Love Ministries","2015","Owner Dealer","n/a"
+```

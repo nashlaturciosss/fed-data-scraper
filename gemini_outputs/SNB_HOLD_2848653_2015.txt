@@ -1,0 +1,18 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2015","Marjorie H. Harris","Common Stock","136","22.59%","n/a"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2015","David Lawrence Harris Trust","Common Stock","127","21.10%","n/a"
+"SNB Holdings,"Inc."","Dothan,"Alabama"","2015","Hope H. Johnson","Common Stock","270","44.85%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SNB Holdings,"Inc."","n/a","Marjorie H. Harris","n/a","n/a","2015","n/a","n/a"
+"SNB Holdings,"Inc."","Director & Chairman","Hope H. Johnson","Trustee","Malone Trusts","2015","n/a","n/a"
+"SNB Holdings,"Inc."","Director","David Lawrence Harris Trust","n/a","n/a","2015","n/a","n/a"
+"SNB Holdings,"Inc."","Director","Judson Brooks","n/a","n/a","2015","n/a","n/a"
+"SNB Holdings,"Inc."","Director & Vice CH","Joe Dalton","President","Dalton Drug Co,"Inc."","2015","Director of Pharmacy,"Flowers Hospital"","n/a"
+"SNB Holdings,"Inc."","Director & Vice CH","Joe Dalton","President","Dalton Properties","2015","Director of Pharmacy,"Flowers Hospital"","n/a"
+"SNB Holdings,"Inc."","Director & Vice CH","Joe Dalton","President","Abbeville Pharmacy","2015","Director of Pharmacy,"Flowers Hospital"","n/a"
+"SNB Holdings,"Inc."","Director","Paul Hufham","President","Healthwest Dental","2015","Dentist,"Healthwest Dental"","n/a"
+"SNB Holdings,"Inc."","Director","Joseph Johnson","n/a","n/a","2015","n/a","n/a"
+```

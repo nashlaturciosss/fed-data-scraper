@@ -1,0 +1,34 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunTrust Banks,"Inc."","New York,"NY"","2016","BlackRock,"Inc."","common shares","53462333","10.86%"
+"SunTrust Banks,"Inc."","Malvern,"PA"","2016","The Vanguard Group","common shares","33723707","6.85%"
+"SunTrust Banks,"Inc."","Boston,"MA"","2016","FMR LLC","common shares","27936583","5.67%"
+"SunTrust Banks,"Inc."","Boston,"MA"","2016","State Street Corporation","common shares","26739196","5.43%"
+"SunTrust Banks,"Inc."","Atlanta,"GA"","2016","SunTrust Banks,"Inc."","common shares","n/a","100%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunTrust Banks,"Inc."","Chief Human Resources Officer","Margaret Callihan","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Vice Chairman - Consumer Segment Executive","Mark A. Chancy","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Vice Chairman - Consumer Segment Executive","Mark A. Chancy","Director","SunTrust Robinson Humphrey,"Inc."","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Chief Information Officer","Anil T. Cheriyan","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Dallas S. Clement","EVP & CFO","Cox Enterprises,"Inc."","2016","n/a","675332"
+"SunTrust Banks,"Inc."","General Counsel & Corporate Secretary","Raymond D. Fortin","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Efficiency & Strategic Partnerships Executive","Thomas E. Freeman","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Paul R. Garcia","Former Chairman & CEO","Global Payments Inc.","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Aleem Gillani","Chief Financial Officer","March of Dimes Foundation","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","M. Douglas Ivester","President","Deer Run Investments,"LLC"","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Kyle P. Legg","Former President & CEO","Brown Advisory Funds","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Kyle P. Legg","Former President & CEO","OM Asset Management plc","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Jerome T. Lienhard,"II"","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Donna S. Morea","CEO","Adesso Group","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","David M. Ratcliffe","Retired Chairman,"President and CEO"","CSX Corporation","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Chairman and Chief Executive Officer","William H. Rogers,"Jr."","n/a","n/a","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Frank P. Scruggs,"Jr."","Partner","Berger Singerman LLP","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Bruce L. Tanner","EVP & CFO","Lockheed Martin Corporation","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Thomas R. Watjen","Retired President & CEO","Unum Group","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Dr. Phail Wynn,"Jr."","Vice President for Durham and Regional Affairs","North Carolina Mutual Life Insurance Co.","2016","n/a","675332"
+"SunTrust Banks,"Inc."","Director","Dr. Phail Wynn,"Jr."","Vice President for Durham and Regional Affairs","Triangle Community Foundation","2016","n/a","675332"
+```

@@ -1,0 +1,39 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Platinum Bank Holding Company","Valrico,"FL"","2015","Lawrence & Jacqueline Heard","common stock","65504","5.98%","4337348"
+"Platinum Bank Holding Company","Valrico,"FL"","2015","Jerry & Deborah Kyle","common stock","61892","5.65%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2015","Mark Steven Sembler","common stock","58270","5.32%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2015","Thomas J. Shannon,"Jr."","common stock","65371","5.96%","4337348"
+"Platinum Bank Holding Company","Tampa,"FL"","2015","Jack D. Suarez","common stock","65371","5.96%","4337348"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Platinum Bank Holding Company","Director/President/CEO","Jerry M. Kyle","Member","M & M Properties LLP","2015","n/a","4337348"
+"Platinum Bank Holding Company","Director","Amy Carey Lee","n/a","n/a","2015","Investor","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Manager","Thuzi,"LLC"","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Secretary/Treasurer","JFJ Investments,"Inc"","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Manager","Hereford Holdings LLC","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Manager","Hereford Investments LLC","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Manager","Oaktrail Apartments LLC","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Manager","Thuzi Investment I,"LLC"","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Joseph Williams","Secretary/Treasuer","Kimmins Corp","2015","Contracting Executive","4337348"
+"Platinum Bank Holding Company","Director","Kenneth D. Ely","Managing Member","10 EC Joke LLC","2015","n/a","4337348"
+"Platinum Bank Holding Company","Director","Ross S. Elsberry","n/a","n/a","2015","Retired Agricultural Executive","4337348"
+"Platinum Bank Holding Company","Director","Dr. W. Edward Gonzalez,"Jr."","Sole Owner","Pediatric Dental Center","2015","Pediatric Dentist","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","M & M Properties,"LLP"","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Gandy Partners LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","LaViva Associates LLP","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Ariana Associates LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Heard Investments LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Parkview Investments LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","Partner","3020 Azeele,"Inc."","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Red Fish Investments LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Anchor I Investments LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director/Chairman of the Board","Lawrence M. Heard","President","Dore Properties LLC","2015","Real Estate Executive","4337348"
+"Platinum Bank Holding Company","Director","Richard Straughn","President","Straughn & Turner,"PA"","2015","Attorney at Law","4337348"
+"Platinum Bank Holding Company","Director","Richard Straughn","President","Magnolia Properties","2015","Attorney at Law","4337348"
+"Platinum Bank Holding Company","Director","Phillip Carroll","President","Carroll Air Systems","2015","Air Conditioning Executive","4337348"
+```

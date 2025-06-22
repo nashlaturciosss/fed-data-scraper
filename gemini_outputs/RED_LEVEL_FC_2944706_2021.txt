@@ -1,0 +1,18 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Red Level Financial Corporation","Red Level,"AL"","2021","Robert H. Foshee,"Jr."","Common Stock","9378","40.71%","n/a"
+"Red Level Financial Corporation","Red Level,"AL"","2021","Lindel M. Foshee","Common Stock","7836","34.02%","n/a"
+"Red Level Financial Corporation","Tampa,"FL"","2021","Lewis M. Foshee","Common Stock","2909","12.63%","n/a"
+"Red Level Financial Corporation","Red Level,"AL"","2021","Robert H. Foshee,"III"","Common Stock","2909","12.63%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Red Level Financial Corporation","Chairman,"Director","and President"","Robert H. Foshee,"Jr."","President","n/a","2021","Banker","n/a"
+"Red Level Financial Corporation","Vice President","Lindel M. Foshee","Vice Chairman of Board","n/a","2021","Banker","n/a"
+"Red Level Financial Corporation","Director and Secretary","Lewis M. Foshee","Vice President","Altus Group,"Ltd."","2021","Financial Software Sales Executive","n/a"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Owner","Bullet's Welding & Fabrication","2021","Business Owner (Welding & Fabrication)","n/a"
+"Red Level Financial Corporation","Director and Treasurer","Robert H. Foshee,"III"","Owner","Foshee Partnership,"Ltd."","2021","Business Owner (Welding & Fabrication)","n/a"
+```

@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunrise Bank","Merritt Island,"FL"","2017","Michael H. Erdman","Common Stock","431218","14.70%","n/a"
+"Sunrise Bank","Merrimack,"NH"","2017","Frederick W. Tausch","Common Stock","425000","14.49%","n/a"
+"Sunrise Bank","Windermere,"FL"","2017","Julia L. Johnson,"Trustee"","Common Stock","235385","8.02%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunrise Bank","President & Chief Executive Officer,"Director"","Kevin M. Sacket","Director","Paradise Bank","2017","Banker","3370133"
+"Sunrise Bank","President & Chief Executive Officer,"Director"","Kevin M. Sacket","Chief Executive Officer,"Chairman of the Board"","Paradise Bank","2017","Banker","3370133"
+"Sunrise Bank","Chairman of the Board","Ward Kellogg","Chief Executive Officer,"Chairman of the Board"","Paradise Bank","2017","Banker","3370133"
+"Sunrise Bank","Chairman of the Board","Ward Kellogg","Director","Paradise Bancorp Inc.","2017","Banker","3370133"
+"Sunrise Bank","Executive Vice President,"Director"","Charles B. Lowe,"Jr."","n/a","n/a","2017","Banker","3370133"
+"Sunrise Bank","Executive Vice President,"Director"","M. Craig Crimmings","n/a","n/a","2017","Banker","3370133"
+"Sunrise Bank","Executive Vice President,"Director"","Thomas M. Ravenscroft","Partner","Phillips Ravenscroft Partnership","2017","Banker","3370133"
+"Sunrise Bank","Director","Steven L. Oktela","Owner","SOMOJO Properties LLC","2017","Property Manager","3370133"
+"Sunrise Bank","Vice Chairman of the Board","Michael H. Erdman","President","Mike Erdman Motors,"LLC"","2017","Auto Dealer","3370133"
+"Sunrise Bank","Vice Chairman of the Board","Michael H. Erdman","President","East Florida Motor Sales Inc.","2017","Auto Dealer","3370133"
+"Sunrise Bank","Vice Chairman of the Board","Michael H. Erdman","Manager","KEW LLC","2017","Auto Dealer","3370133"
+"Sunrise Bank","Director","William S. Moss","Senior Managing Director","CBRE,"Inc."","2017","Manager","3370133"
+"Sunrise Bank","Director","Kevin Paffrath","General Manager","Conoley Citrus Packers Inc.","2017","Agriculture Management & Marketing","3370133"
+"Sunrise Bank","Director","Kevin Paffrath","Owner/Shareholder","Mid-South Ranches,"LLC"","2017","Agriculture Management & Marketing","3370133"
+"Sunrise Bank","Executive Vice President,"Chief Financial Officer"","Karen Carraway","n/a","n/a","2017","Banker","3370133"
+"Sunrise Bank","n/a","Frederick W. Tausch","n/a","n/a","2017","Private Investor","3370133"
+```

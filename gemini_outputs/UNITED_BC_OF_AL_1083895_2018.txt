@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Monroeville,"Alabama"","2018","L. Walter Crim","Class A Common Stock","19075","0.78%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","Richard K. Maxwell","Class A Common Stock","9994","0.41%","1083895"
+"United Bancorporation of Alabama,"Inc."","Bay Minette,"Alabama"","2018","Michael R. Andreoli","Class A Common Stock","25418","1.04%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","Robert R. Jones,"III"","Class A Common Stock","68523","2.80%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","Dale M. Ash","Class A Common Stock","18409","0.75%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","David D. Swift","Class A Common Stock","38176","1.56%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","Ricky Smith","Class A Common Stock","10482","0.43%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2018","C. Danny Cottrell","Class A Common Stock","2910","0.12%","1083895"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Director","L. Walter Crim","Owner","Central Farm Supply","2018","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","L. Walter Crim","n/a","Central Farm Supply,"Inc."","2018","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Owner","Maxwell Construction,"Inc."","2018","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Owner","West Side Storage Company.","2018","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Partner","Triterra Development Co.,"LLC"","2018","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Michael R. Andreoli","Partner","Robertson,"Andreoli and Covington P.C."","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Vice-Chairman","Michael R. Andreoli","General Partner","Alcon Properties","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director,"President","and CEO"","Robert R. Jones,"III"","member","Grampian Investments","2018","None","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner,"VP"","Pepsi-Cola Bottling Company of Atmore","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner,"VP"","South Alabama Vending Company.","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","Weeks Bay Mitigation Bank","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","Wetlands Restorations,"LLC."","2018","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Chairman & CEO","Swift Supply,"Inc."","2018","Chairman & CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Partner","Swift Brother,"LLC."","2018","Chairman & CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Partner","Palustris Products.","2018","Chairman & CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","President and CEO","Smith Tractor Company,"Inc."","2018","President and CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Owner","Smith Tractor Company","2018","President and CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","LTC Care of Jay","2018","President and CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","Smith Family LLC.","2018","President and CEO","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","C. Danny Cottrell","Pharmacist,"Co-owner"","Medical Center Pharmacy","2018","Pharmacist","1083895"
+```

@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Renny B. Eadie,"III"","Common Stock Held","29100","4.76%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Renny B. Eadie,"III"","Preferred Stock Conversion (If converted)","16665","7.29%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Robert M. Eadie","Common Stock Held","22900","3.75%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Robert M. Eadie","Preferred Stock Conversion (If converted)","8334","5.04%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Garland Kirby","Common Stock Held","31201","5.11%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Garland Kirby","Preferred Stock Conversion (If converted)","8334","6.38%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Robin C. Green","Common Stock Held","691","0.11%","2650324."
+"PSB BancGroup,"Inc."","Lake City,"FL"","2017","Robin C. Green","Preferred Stock Conversion (If converted)","34125","5.40%","2650324."
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PSB BancGroup,"Inc."","Pres & Chairman Director","Renny B. Eadie,"III"","Owner","Concrete Materials Co.","2017","Owner Concrete Materials Co.","2650324."
+"PSB BancGroup,"Inc."","Pres & Chairman Director","Renny B. Eadie,"III"","Chairman & Director","Columbia Ready Mix Concrete,"Inc."","2017","Owner Concrete Materials Co.","2650324."
+"PSB BancGroup,"Inc."","President/CEO","Robin C. Green","Sr. Vice President,"Corporate Secretary Director"","n/a","2017","President/CEO Peoples State Bank","2650324."
+"PSB BancGroup,"Inc."","President/CEO","Robin C. Green","President/CEO Director","n/a","2017","President/CEO Peoples State Bank","2650324."
+"PSB BancGroup,"Inc."","Director","John W. Burns,"III"","Agent","State Farm Insurance","2017","Insurance Agent","2650324."
+"PSB BancGroup,"Inc."","Director","Robert M. Eadie","Owner","Lake City Industries,"Inc"","2017","Owner Building Materials Co","2650324."
+```

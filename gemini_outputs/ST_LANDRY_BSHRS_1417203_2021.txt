@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2021","Janys H Schexnayder","n/a","9810","5.12%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2021","Allen T. Tomlinson","n/a","57062","29.78%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2021","Robert S. Tomlinson,"Jr."","n/a","42181","22.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St. Landry Bancshares,"Inc."","Chairman","Michelle R. Poulet","President","n/a","2021","N/A","885430"
+"St. Landry Bancshares,"Inc."","Director","Robert S. Tomlinson,"Jr."","Chief Information Officer","n/a","2021","N/A","885430"
+"St. Landry Bancshares,"Inc."","Director","Allen T. Tomlinson","Vice Chairman","Tomlinson Realty Co,"LLC"","2021","N/A","885430"
+"St. Landry Bancshares,"Inc."","Director","Allen T. Tomlinson","Managing Member","ATT Realty,"LLC"","2021","N/A","885430"
+"St. Landry Bancshares,"Inc."","Director","Frank T. Daly,"Jr."","Director","n/a","2021","Retired","885430"
+"St. Landry Bancshares,"Inc."","Director","Theodore W.H. DeBlanc","Director","n/a","2021","Physician","885430"
+"St. Landry Bancshares,"Inc."","Director","Carolyn G. Jarrell","Director","n/a","2021","Educator","885430"
+"St. Landry Bancshares,"Inc."","Director","Charles M. Jarrell","Member","Jarrell Family Properties,"LLC"","2021","Attorney","885430"
+"St. Landry Bancshares,"Inc."","Director","Charles M. Jarrell","Member","Billy's Kozy Properties,"LLC"","2021","Attorney","885430"
+"St. Landry Bancshares,"Inc."","Director","Charles M. Jarrell","Member","WHJ,"Jr. Properties","LLC"","2021","Attorney","885430"
+"St. Landry Bancshares,"Inc."","Director","Charles M. Jarrell","Partner","Guglielmo,"Lopez","Tuttle","Hunter & Jarrell","LLP"","2021","Attorney","885430"
+"St. Landry Bancshares,"Inc."","Director","Edward Kurtz","Director","n/a","2021","Private Investor","885430"
+"St. Landry Bancshares,"Inc."","Director","Robert A. Roy,"Jr."","Member","Roy Marine,"LLC"","2021","Certified Public Accountant","885430"
+"St. Landry Bancshares,"Inc."","Director","Robert A. Roy,"Jr."","Member","CBRR,"LLC"","2021","Certified Public Accountant","885430"
+"St. Landry Bancshares,"Inc."","Director","Mary B. Tomlinson","Director","n/a","2021","Housewife","885430"
+"St. Landry Bancshares,"Inc."","Director","Ross S. Tomlinson","Senior Vice President Director","n/a","2021","N/A","885430"
+```

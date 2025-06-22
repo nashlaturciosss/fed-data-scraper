@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership"," RSSD_ID"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","HT Investments,"LLC"","Common Stock","160","6.24%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","Leisa McCreless","Common Stock","204","7.95%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","E.F. Walker,"Jr."","Common Stock","152","5.92%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","Rena Carol Walker","Common Stock","153","5.96%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","William E. Walker","Common Stock","204","7.95%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","Missy Whiteside","Common Stock","204","7.95%","n/a"
+"Traders and Farmers Bancshares,"Inc."","Haleyville,"Al."","2014","Walker Family Trust","Common Stock","147.5","5.75%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation"," RSSD_ID"
+"Traders and Farmers Bancshares,"Inc."","Director & Vice Chairman","E. F. Walker Jr.","Director & Executive Officer","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Billy McNutt","Director & Executive Vice President","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Rickey McCreless","Director & CEO","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Rickey McCreless","Director","TFB Financial Services","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Rickey McCreless","Director","TFB Mortgage","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director & Chairman","Will Walker","Director","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director & Chairman","Will Walker","President Chairman","TFB Financial Services","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director & Chairman","Will Walker","President Chairman","TFB Mortgage","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Albert Partridge","Director,"President"","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Bret Whiteside","Director,"Senior Vice President"","Traders and Farmers Bank","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Bret Whiteside","Director","TFB Financial Services","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Bret Whiteside","Director","TFB Mortgage","2014","n/a","n/a"
+"Traders and Farmers Bancshares,"Inc."","Director","Donny Hood","Director & Executive Vice President","Traders and Farmers Bank","2014","n/a","n/a"
+```

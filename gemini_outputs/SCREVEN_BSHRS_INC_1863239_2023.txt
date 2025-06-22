@@ -1,0 +1,21 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2023","CHARLES D. REED","COMMON STOCK","5977","7.906%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2023","RUTH B. BAZEMORE","COMMON STOCK","4689","6.200%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Director","James W. Adams","Director","Farmers and Merchants Bank","2023","Retired Banker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director/ Secretary of Board of Directors","Otis M. Chivers","Director","Farmers and Merchants Bank","2023","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","William C. Lard","Director","Farmers and Merchants Bank","2023","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director / Chairman of Board of Directors","R. J. Martin,"III"","Director/Chairman of Board of Directors","Farmers and Merchants Bank","2023","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","Partner","Whitehill Farm","2023","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Owner","Ruth Bazemore","Owner","Professional Insurance Agency","2023","Insurance Broker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director/President","Hoke S. Reeves,"III"","Director / President/CEO","Farmers and Merchants Bank","2023","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David Burke","Manager","Koyo Bearings Plant","2023","Plant Manager","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2023","Certified Public Accountant","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Andrew J. Clifton","Officer/Vice President","n/a","2023","Bank Officer","n/a"
+```

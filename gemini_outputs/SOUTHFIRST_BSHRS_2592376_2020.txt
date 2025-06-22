@@ -1,0 +1,17 @@
+Here are the two requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthFirst Bancshares","Tuscaloosa,"Al"","2020","Luther S. Pate,"IV"","common stock","70850","10.1%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthFirst Bancshares","Director","Sidney Tankersley","n/a","n/a","2020","Manufacturer","455477"
+"SouthFirst Bancshares","Chairman,"Director"","Allen Gray McMillan","President","Brecon Knitting Mill","2020","Manufacturing Textiles","455477"
+"SouthFirst Bancshares","Director","Ronnie G. Salloway","President","Ronnie Salloway & Co.","2020","Clothing Manufacturer","455477"
+"SouthFirst Bancshares","Director,"CEO SouthFirst Bank"","Randall L. Fields","n/a","n/a","2020","Attorney","455477"
+"SouthFirst Bancshares","Director","J. Bradley Proctor","Partner","Proctor Vaughn LLC","2020","n/a","455477"
+"SouthFirst Bancshares","Director","Rocky W. Jackson","President","RW Jackson & Company PC","2020","CPA-Tax Accountant","455477"
+"SouthFirst Bancshares","n/a","Luther S. Pate,"IV"","President","Pate Holdings","2020","Developer","455477"
+```

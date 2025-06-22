@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","13.70%","1417418"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Bobby D. or Anita B. Cook","Common Stock","7196","11.31%","1417418"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Marion C. Johnson","Common Stock","5452","8.57%","1417418"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Robbie B. Paine Living Trust","Common Stock","4166","6.55%","1417418"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Kathryn R. Cabaniss","Common Stock","3988","6.27%","1417418"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2016","Edwin R. Hart","Common Stock","3563","5.60%","1417418"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TCB Bancshares,"Inc."","Director,"Secretary to Board"","William M. Cabaniss","n/a","n/a","2016","Retired","1417418"
+"TCB Bancshares,"Inc."","Director","Bobby D. Cook or Anita B. Cook","Owner","Cook Builders","2016","Home Builder","1417418"
+"TCB Bancshares,"Inc."","Director","Robert C. Johnson","n/a","n/a","2016","Retired","1417418"
+"TCB Bancshares,"Inc."","Director,"President"","Michael D. Sale","n/a","n/a","2016","Banker","1417418"
+"TCB Bancshares,"Inc."","Director,"Compliance Officer"","Robbie B. Paine Living Trust","n/a","n/a","2016","Banker","1417418"
+"TCB Bancshares,"Inc."","n/a","Charles C. Brooks,"Jr."","Owner","Just-In Motor Company,"LLC"","2016","Car Dealer","1417418"
+```

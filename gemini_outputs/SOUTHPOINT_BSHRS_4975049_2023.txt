@@ -1,0 +1,31 @@
+Here are the extracted CSV tables from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2023","J. Stephen Smith*","Common Stock","218449","7.22%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2023","J. Stephen Smith*","Options on Common Stock","82001","2.71%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2023","J. Stephen Smith*","AGGREGATE","n/a","9.93%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2023","Charlotte B. Smith*","Common Stock","3005","0.10%","n/a"
+"SouthPoint Bancshares,"Inc."","Ridgeland,"MS"","2023","Wirt A. Yerger III","Common Stock","181916","6.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Director,"Chairman","President & CEO"","J. Stephen Smith*","Director,"Chairman","President & CEO"","SouthPoint Bank","2023","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","n/a","Charlotte B. Smith*","n/a","n/a","2023","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert L. Henderson","n/a","South Point Bank","2023","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","Christopher B Harmon MD PC","2023","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Dermatologist","SouthPoint Bank","2023","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","COO,"Fairway Risk Solutions"","SouthPoint Bank","2023","Fairway Risk Solutions","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","Kassouf & Company,"P.C."","2023","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","n/a","SouthPoint Bank","2023","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Andrew J. Ratliff","Owner","Farmers Poultry Supply","2023","Businessman","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Andrew J. Ratliff","Partner","AR & DR Holdings,"Inc"","2023","Businessman","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Andrew J. Ratliff","Owner","SouthPoint Bank","2023","Businessman","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Andrew J. Ratliff","Partner","Ratliff Contracting","2023","Businessman","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Steven R. Glasscock","Partner","SASG Properties,"LLC"","2023","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Steven R. Glasscock","n/a","SouthPoint Bank","2023","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","CEO (Retail","Retail Specialists,"LLC"","2023","Real Estate","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","CEO (Retail","Retail Strategies,"LLC)"","2023","Real Estate","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert R. Jolly,"Jr."","n/a","SouthPoint Bank","2023","Real Estate","n/a"
+```

@@ -1,0 +1,14 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"QUANTUM CAPITAL CORP.","Atlanta,"Georgia"","2019","Infinity Trust","Common Stock","481711","83.90%","n/a"
+"QUANTUM CAPITAL CORP.","Alpharetta,"Georgia"","2019","Narasimhulu Neelaguru,"M.D"","Common Stock","92326","16.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Quantum National Bank","Chairman & CEO","Narasimhulu Neelaguru","Owner","Commerce Cardiology","2019","Cardiologist","n/a"
+"Quantum National Bank","President","Bryan Cohen","CEO","n/a","2019","n/a","n/a"
+"Quantum National Bank","n/a","Brad Day","President","n/a","2019","n/a","n/a"
+"Quantum National Bank","EVP,"Secretary & CFO"","Dana Litman","EVP,"Secretary","CFO & CRO"","n/a","2019","n/a","n/a"
+```

@@ -1,0 +1,23 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2017","J. PRESTON CONNER","COMMON STOCK","3894","14.9769%","1141816"
+"SARDIS BANKSHARES,"INC."","ST. AUGUSTINE,"FL"","2017","JOE T. CONNER,"JR."","COMMON STOCK","6353","24.00%","1141816"
+"SARDIS BANKSHARES,"INC."","THOMASTON,"GA"","2017","ROSE WARREN","COMMON STOCK","3733","14.00%","1141816"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2017","ANN CLINE","COMMON STOCK","2620","10.10%","1141816"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2017","ESTATE OF SANDRA C. LONG","COMMON STOCK","5320","20.46%","1141816"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","Director,"CEO","Director","CEO"","J. Preston Conner","n/a","n/a","2017","Bank Officer","1141816"
+"SARDIS BANKSHARES,"INC."","Director and Executive,"Director","President"","Ralph E. Dickey","n/a","n/a","2017","Bank Officer","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Joe T. Conner,"Jr."","President,"CEO"","Khem-Tech,"Inc."","2017","Sales","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Rose Warren","n/a","n/a","2017","Retired","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Ann Cline","n/a","n/a","2017","Retired","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Sandra C. Long,"Estate"","n/a","n/a","2017","N/A","1141816"
+"SARDIS BANKSHARES,"INC."","Director,"Director"","J. Sean Conner","n/a","n/a","2017","Bank Officer","1141816"
+"SARDIS BANKSHARES,"INC."","Director,"Director"","George L. Deloach","n/a","n/a","2017","Businessman","1141816"
+"SARDIS BANKSHARES,"INC."","Director,"Director"","Wayne Dixon","n/a","n/a","2017","Businessman","1141816"
+```

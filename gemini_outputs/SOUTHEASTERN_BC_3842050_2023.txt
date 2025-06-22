@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Dickson,"USA"","2023","Anthony T Moore","n/a","1067","38.72%","n/a"
+"Southeastern Bancorp,"Inc"","Nashville,"TN"","2023","Larry Vickers","n/a","330","11.97%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2023","Charles K Pruett","n/a","160","5.81%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2023","Joe S Corlew","n/a","51","1.85%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2023","Catherine Regen & Estate Of Barney B Regen","n/a","160","5.81%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Chairman President and Director","Anthony T Moore","CEO & President","First Federal Bank","2023","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Chairman President and Director","Anthony T Moore","n/a","See Attached List","2023","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director","C.K. Pruett","n/a","See Attached List","2023","Contractor","n/a"
+"Southeastern Bancorp,"Inc"","Director","Ben Regen","Owner of law firm","n/a","2023","Attorney","n/a"
+"Southeastern Bancorp,"Inc"","Director","Reid Walker","n/a","N/A","2023","Retired Sales","n/a"
+"Southeastern Bancorp,"Inc"","Director","Larry E Vickers","n/a","N/A","2023","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Secretary","Joe Corlew","Sr. VP & CFO","First Federal Bank","2023","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Secretary","Joe Corlew","n/a","Sec First Service Corp","2023","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director & EVP","Ronald Sleigh","n/a","Sleigh Brothers Partnership","2023","Banker","n/a"
+```

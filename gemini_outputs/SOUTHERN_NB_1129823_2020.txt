@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","John Tringas","Common Stk","14700","29%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Alex James Tringas","Common Stk","10000","20%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Darren Sneed","Common Stk","5405","11%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Alex Tringas","Common Stk","5434","11%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Lark Tringas Bostick","Common Stk","4967","10%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Lark Tringas Bostick","Common Stk","4020","8%","n/a"
+"Southern National Banks,"Inc."","Fort Walton Beach,"USA"","2020","Tringas Childrens Trust","Common Stk","2521","5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Banks,"Inc."","Director","Alex Tringas","Director","Seahorse Realty,"Inc."","2020","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Alex Tringas","Vice President","The James Travis Tringas Memorial Foundation,"Inc."","2020","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","President","Air-Lark,"Inc."","2020","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","Director","Seahorse Realty,"Inc."","2020","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","ST","The James Travis Tringas Memorial Foundation,"Inc."","2020","n/a","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Cinema,"Incorporated"","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","Director","Automated Teller Systems,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Tringas Theatres,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","Director/President","Seahorse Realty,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","Director","Destin Financial Services,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","The James Travis Tringas Memorial Foundation,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Shareholder","Darren M. Sneed","Managing Member","Athena Fund,"LLC"","2020","Investor","n/a"
+"Southern National Banks,"Inc."","Shareholder","Darren M. Sneed","Manager","ARASMAS LLC","2020","Investor","n/a"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","Director","Automated Teller Systems,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","Director","Destin Financial Services,"Inc."","2020","Banking","n/a"
+"Southern National Banks,"Inc."","EVP/CFO","Marklyn E. Wade","n/a","n/a","2020","Banking","n/a"
+```

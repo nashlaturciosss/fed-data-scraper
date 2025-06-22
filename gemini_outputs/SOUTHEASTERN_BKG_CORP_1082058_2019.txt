@@ -1,0 +1,25 @@
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Banking Corporation","Crescent,"GA"","2019","Alyson G. Beasley","common stock","816509","25.91%","n/a"
+"Southeastern Banking Corporation","St. Simons Island,"GA"","2019","William Downey","common stock","182514","5.79%","n/a"
+```
+```text
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Banking Corporation","Executive Vice President and Director","Alyson G. Beasley","n/a","n/a","2019","N/A","210238"
+"Southeastern Banking Corporation","Director","Albert P. Downey","Vice President","Golden Isles Realty Company","2019","Realtor","210238"
+"Southeastern Banking Corporation","n/a","William Downey","Secretary","Wymberly Development Company,"Inc."","2019","Retired","210238"
+"Southeastern Banking Corporation","n/a","William Downey","General Partner","DMP Partnership","2019","Retired","210238"
+"Southeastern Banking Corporation","n/a","William Downey","Manager","Downey Company,"LLC"","2019","Retired","210238"
+"Southeastern Banking Corporation","n/a","William Downey","General Partner","Downey Family Limited Partnership","2019","Retired","210238"
+"Southeastern Banking Corporation","Director","S. Michael Hardy","Real Estate Agent","Michael Hardy Real Estate,"LLC"","2019","Realtor,"Retired Sales and Marketing Executive"","210238"
+"Southeastern Banking Corporation","Director","Michele Henderson","Sole Member","Henderson Law Firm,"LLC"","2019","Attorney","210238"
+"Southeastern Banking Corporation","President and Chief Executive Officer,"Director"","Cornelius P. Holland,"III"","n/a","n/a","2019","N/A","210238"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","President and Director","Toledo Manufacturing Company","2019","Timber Land Management","210238"
+"Southeastern Banking Corporation","None","John C. Houser","n/a","n/a","2019","N/A","210238"
+"Southeastern Banking Corporation","Director","Cedric Z. King","CEO","King's Consulting LLC","2019","Business Consultant","210238"
+"Southeastern Banking Corporation","Director","Craig Root","President","Vista Outdoor Corp.","2019","Real Estate","210238"
+"Southeastern Banking Corporation","Director","Craig Root","President","Satilla Planning,"Inc."","2019","Real Estate","210238"
+"Southeastern Banking Corporation","Treasurer","Donald J. Torbert,"Jr."","n/a","n/a","2019","N/A","210238"
+```

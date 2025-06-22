@@ -1,0 +1,25 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOUTHWEST BANC SHARES,"INC."","Bay Minette,"AL"","2015","The Fred K. Granade Irrevocable Trust","Common Stock","4303","6.03%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Bay Minette,"AL"","2015","The William A. Granade Irrevocable Trust","Common Stock","4304","6.03%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Flagstaff,"AZ"","2015","James N. Granade III","Common Stock","7094","9.95%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Chatom,"AL"","2015","William A. Granade","Common Stock","5067","7.10%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Southhampton,"NY"","2015","Laura Deer Moore","Common Stock","5530","7.50%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Austin,"TX"","2015","Stanley G. Moore","Common Stock","10556","14.80%","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Lovingston,"VA"","2015","Mary Heather Moore Riser","Common Stock","5530","7.75%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOUTHWEST BANC SHARES,"INC."","Director","Fred K. Granade","Chairman","First Community Bank","2015","Attorney","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","Fred K. Granade","Shareholder","Stone,"Granade & Crosby","PC"","2015","Attorney","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","William A. Granade","n/a","First Community Bank","2015","Private Investor","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director,"Vice President"","Stanley G. Moore","Owner/President","First Community Bank","2015","Retailer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director,"Vice President"","Stanley G. Moore","Owner/President","Over the Rainbow,"Inc."","2015","Retailer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director & Secretary","James H. Massey","Advisory","First Community Bank","2015","Retired Auto Dealer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director & Secretary","James H. Massey","Advisory","Massey Automotive & Massey Chrysler Center,"Inc."","2015","Retired Auto Dealer","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","Lindsey Boney III","Principal","First Community Bank","2015","Accountant","n/a"
+"SOUTHWEST BANC SHARES,"INC."","Director","Lindsey Boney III","Principal","Smith,"Dukes & Buckelew","LLP"","2015","Accountant","n/a"
+"SOUTHWEST BANC SHARES,"INC."","President & Director","William A. Blackmon","n/a","First Community Bank","2015","Banker","n/a"
+```

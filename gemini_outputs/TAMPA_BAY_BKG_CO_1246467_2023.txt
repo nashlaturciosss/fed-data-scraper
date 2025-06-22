@@ -1,0 +1,29 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2023","James L. Ferman,"Jr."","Common Stock","287594","10.867%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2023","WRB Enterprises,"Inc."","Common Stock","235671","8.905%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2023","Brett D. Divers","n/a","168204","6.355%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2023","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","134712","5.090%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company,"Inc."","2023","Chairman - Ferman Motor Car Company,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2023","President and CEO - WRB Enterprises,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","CEO","Celestar Corporation","2023","CEO - Celestar Corporation","n/a"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2023","President & CEO - Clinical Consulting Solutions","n/a"
+"Tampa Bay Banking Company","Director","Brett D. Divers","Managing Partner","Mills Paskert Divers","2023","Managing Partner - Mills Paskert Divers","n/a"
+"Tampa Bay Banking Company","Director","Preston L. Farrior","Chief Executive Officer","Ferman Motor Car Co.","2023","Chief Executive Officer - Ferman Motor Car Co. and Cigar City Motors,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Preston L. Farrior","Chief Executive Officer","Cigar City Motors,"Inc."","2023","Chief Executive Officer - Ferman Motor Car Co. and Cigar City Motors,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","President","Harrod Properties,"Inc."","2023","President - Harrod Properties,"Inc."","n/a"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","Chairman and Chief Executive Officer","Horton Holdings","2023","Chairman and Chief Executive Officer - Horton Holdings","n/a"
+"Tampa Bay Banking Company","Director","Robert J. Lane,"Jr."","Managing Shareholder","Kerkering Barberio and Co.","2023","Managing Shareholder - Kerkering Barberio and Co.","n/a"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","n/a","n/a","2023","Retired","n/a"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","n/a","n/a","2023","Retired","n/a"
+"Tampa Bay Banking Company","Director and President/CEO","William O. West III","n/a","n/a","2023","Banker","n/a"
+"Tampa Bay Banking Company","Director - Exec Vice President","T. Corey Neil","n/a","n/a","2023","Banker","n/a"
+"Tampa Bay Banking Company","EVP - Chief Administrative Officer","Thomas W. Oliver","n/a","n/a","2023","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CFO and Corporate Secretary","Susan K. Miller","n/a","n/a","2023","Banker","n/a"
+```

@@ -1,0 +1,35 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee Community Bank Holdings,"Inc."","Kingston Springs,"TN"","2017","James or Vickie Dillingham","common stock","36832","3.5296%","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Kingston Springs,"TN"","2017","Dillingham Foundation","common stock","25520","2.4456%","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Nashville,"TN"","2017","John Spence","common stock","48920","4.6880%","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Nashville,"TN"","2017","Spence Unlimited","common stock","35771","3.4279%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee Community Bank Holdings,"Inc."","Director","Samuel Balthrop","Director","Retired Attorney","2017","Retired Attorney","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Shayne Bell","Director","Banking","2017","Banking","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","James Dillingham","Partner","L & J Ventures","2017","Contractor Property Leasing","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","David Gunn","Director","Gunn Farms","2017","Farming","n/a"
+"Tennessee Community Bank Holdings,"Inc."","President","Johnnie Marlin","Director","Robertson County","2017","Banking","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Morgan Stanley FBO Johnnie Marlin","Director","Banking","2017","Banking","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Owner","Dixieland Co","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Radiation Billing Ser","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Demonbreun & Melton","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Wilkinson & Melton","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Partner","Melton & Moore","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","Miller Oil & Gas","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","Aulidge/Melton","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Johnny Melton","Secretary/Treasurer","C & L Broadcasting","2017","Real Estate Investment","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Richard Murray","Director","Retired","2017","Retired Owner Harpeth Clock Co.","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Reliance Trust FBO Richard Murray","Retired","n/a","2017","Retired owner Harpeth Clock Co.","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Darwin Newton","President","Soil Search of TN","2017","Soil Conservation & Engineering","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Daniel Reigle","","","2017","Contractor","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director Secretary","J. Thomas Perry","Retired","","2017","Retired","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Doris Sanders","Retired","","2017","Retired from County Govt.","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director President/CEO","Debbie C. Small","","","2017","Banking","n/a"
+"Tennessee Community Bank Holdings,"Inc."","Director","Mark Thomas","Retired","","2017","Retired Banker","n/a"
+```

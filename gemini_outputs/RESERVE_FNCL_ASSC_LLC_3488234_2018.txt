@@ -1,0 +1,27 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Reserve Financial Associates LLC","Columbus,"OH"","2018","Skilken Financial LLC","n/a","428265","42.360%","3488234"
+"Reserve Financial Associates LLC","New York,"NY"","2018","RFA Investments LP","n/a","428265","42.360%","3488234"
+"Reserve Financial Associates LLC","Sarasota,"FL"","2018","Zuheir Sofia","n/a","154483","15.280%","3488234"
+"Business Bank of Florida Corp","Melbourne,"FL"","2018","Reserve Financial Associates LLC","n/a","1011013","90.89%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Reserve Financial Associates LLC","Member","Steve Skilken","n/a","n/a","2018","Real Estate Developer","n/a"
+"Reserve Financial Associates LLC","Member","Phil Milstein","n/a","n/a","2018","Property Management","n/a"
+"Reserve Financial Associates LLC","Managing Member","Zuheir Sofia","Chairman,"President","CEO"","Business Bank of Florida Corp","2018","Financial Advisory","n/a"
+"Business Bank of Florida Corp","n/a","Reserve Financial Associates","n/a","n/a","2018","n/a","n/a"
+"Business Bank of Florida Corp","Chairman,"President","CEO"","Zuheir Sofia","Director","Florida Business Bank","2018","Financial Advisory","n/a"
+"Business Bank of Florida Corp","Treasurer,"Secretary","EVP"","William R. Norris","President & CEO,"Director"","Florida Business Bank","2018","n/a","n/a"
+"Business Bank of Florida Corp","Director","Andrew C Burkle,"Jr"","Director","Florida Business Bank","2018","Banker","n/a"
+"Business Bank of Florida Corp","Director","Charles J Frazee","Director","Florida Business Bank","2018","Developer","n/a"
+"Business Bank of Florida Corp","Director","Gary B. Frese","Director","Florida Business Bank","2018","Attorney","n/a"
+"Business Bank of Florida Corp","n/a","Gary B. Frese","n/a","Frase & Hansen PA","2018","Attorney","n/a"
+"Business Bank of Florida Corp","n/a","Gary B. Frese","n/a","Frowzar LLP","2018","Attorney","n/a"
+"Business Bank of Florida Corp","Director","John P Genoni","Chairman,"Director"","Florida Business Bank","2018","Developer","n/a"
+"Business Bank of Florida Corp","Director","William A Harr","Director","Florida Business Bank","2018","Physician","n/a"
+"Business Bank of Florida Corp","n/a","William A Harr","n/a","Dr William Harr DPM PA","2018","Physician","n/a"
+"Business Bank of Florida Corp","Director","Thomas L Powers","Director","Florida Business Bank","2018","Retired","n/a"
+"Business Bank of Florida Corp","Director","Susan Thompson","n/a","Florida Business Bank","2018","Real Estate","n/a"
+"Business Bank of Florida Corp","Director","John R. Hopkins","n/a","Florida Business Bank","2018","Retired Accountant","n/a"
+```

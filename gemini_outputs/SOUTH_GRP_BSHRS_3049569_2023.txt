@@ -1,0 +1,13 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares,"Inc."","Director","J. Troy Rahn","Dentist","Dentist","2023","n/a","n/a"
+"South Group Bancshares,"Inc."","Chairman of Board Director","B. Branford Thompson","CEO","Thompson Family Holdings LLC","2023","N/A","n/a"
+"South Group Bancshares,"Inc."","Chairman of Board Director","B. Branford Thompson","CEO","Thompson Forestry Holdings LLC","2023","N/A","n/a"
+"South Group Bancshares,"Inc."","Chairman of Board Director","B. Branford Thompson","CEO","Ford III Investments LLC","2023","N/A","n/a"
+"South Group Bancshares,"Inc."","Director","Dale Dutton","Director","n/a","2023","Tattnall County Tax Commissioner (Retired)","n/a"
+"South Group Bancshares,"Inc."","Director","Edward L. Nelson","Director","n/a","2023","Manufacturing","n/a"
+```

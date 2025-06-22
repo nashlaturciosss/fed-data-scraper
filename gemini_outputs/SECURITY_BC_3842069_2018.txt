@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2018","Joe H. Pugh","Common Stock","40679","10.59%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2018","Earl H. Barr","Common Stock","21030","5.47%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2018","Robert W. Newman","Common Stock","20118","5.24%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Bancorp,"Inc."","Director & President/CEO","Joe H. Pugh","n/a","n/a","2018","n/a","631178"
+"Security Bancorp,"Inc."","Director","Robert W. Newman","Partner","Galligan & Newman Atty","2018","Attorney","631178"
+"Security Bancorp,"Inc."","Director/Secretary","Ray (\"Buzz\") Spivey,"Jr."","President","Cumberland Lumber & Mfg,"Inc."","2018","Cumberland Lumber & Mfg,"Inc."","631178"
+"Security Bancorp,"Inc."","Director","Thomas Foster","Owner","Foster & Foster Realty","2018","Foster & Foster Realty and Auction Company","631178"
+"Security Bancorp,"Inc."","Director/Chairman","Herschel Wells,"Jr."","Owner","Tennessee Warehouse and Dist.","2018","Tennessee Warehouse and Distribution","631178"
+"Security Bancorp,"Inc."","Sr. Vice President","Danny Martin","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","Sr. Vice President","Ken Martin","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","Senior Vice President","Barbara A. Page","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","Sr. Vice President","Sherry Clendenon","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","Chief Financial Officer","Angela Brown","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","Executive Vice President","Michael Griffith","n/a","n/a","2018","Security Federal Savings Bank","631178"
+"Security Bancorp,"Inc."","n/a","Kelly Basham","n/a","n/a","2018","Security Federal Savings Bank","631178"
+```

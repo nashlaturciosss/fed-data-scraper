@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TAG Bancshares,"Inc."","Lookout Mtn,"TN"","2020","C. Lentz Reynolds,"Jr"","n/a","12553","14.16%","n/a"
+"TAG Bancshares,"Inc."","Lookout Mtn,"TN"","2020","Margaret Reynolds","n/a","12808","14.45%","n/a"
+"TAG Bancshares,"Inc."","Trenton,"GA"","2020","Deloris Smyth","n/a","7367","8.31%","n/a"
+"TAG Bancshares,"Inc."","Rising Fawn,"GA"","2020","Dennis Watson","n/a","4697","5.30%","n/a"
+"TAG Bancshares,"Inc."","Chickamauga,"GA"","2020","Eva Suggs","n/a","5000","5.64%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TAG Bancshares,"Inc."","Director","C. Lentz Reynolds,"Jr."","n/a","Citizens Bank & Trust","2020","Retired Dentist","n/a"
+"TAG Bancshares,"Inc."","None","Margaret Reynolds","n/a","None","2020","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Douglas Anderton","n/a","Citizens Bank & Trust","2020","Manager,"Dade Water Co"","n/a"
+"TAG Bancshares,"Inc."","Director","Deloris Smyth","n/a","Citizens Bank & Trust","2020","Retired Business Woman","n/a"
+"TAG Bancshares,"Inc."","Director","Fred Stephens","n/a","Citizens Bank & Trust","2020","Retired Banker","n/a"
+"TAG Bancshares,"Inc."","Director","Dennis Watson","n/a","Citizens Bank & Trust","2020","Attorney","n/a"
+"TAG Bancshares,"Inc."","Director","C. Lentz Reynolds III","n/a","Citizens Bank & Trust","2020","Property Manager","n/a"
+"TAG Bancshares,"Inc."","President/CEO/Director","Chris R. Powell","n/a","Citizens Bank & Trust","2020","Bank President","n/a"
+"TAG Bancshares,"Inc."","Director","Karen Ingle","n/a","Citizens Bank & Trust","2020","Attorney","n/a"
+```

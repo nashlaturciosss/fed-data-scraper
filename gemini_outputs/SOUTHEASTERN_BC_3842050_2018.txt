@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2018","Anthony T Moore","n/a","1177","37.50%","n/a"
+"Southeastern Bancorp,"Inc"","St Petersburg,"FL"","2018","Larry Vickers","n/a","330","10.51%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2018","Barney B Regen","n/a","208","6.63%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2018","Charles K Pruett","n/a","160","5.1%","n/a"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2018","Joe S Corlew","n/a","193","6.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Chairman President and Director","Anthony T Moore","CEO & President","First Federal Bank","2018","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director","C.K. Pruett","n/a","n/a","2018","Contractor","n/a"
+"Southeastern Bancorp,"Inc"","Director","Barney B Regen","Attorney","n/a","2018","Attorney","n/a"
+"Southeastern Bancorp,"Inc"","Director","B.J. Smith","n/a","n/a","2018","Retired Physician","n/a"
+"Southeastern Bancorp,"Inc"","Director","Reid Walker","n/a","n/a","2018","Retired Sales","n/a"
+"Southeastern Bancorp,"Inc"","Director","Larry E Vickers","n/a","n/a","2018","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Secretary","Joe S Corlew","Sr VP & CFO First Federal Bank/Sec","First Service Corp","2018","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director & EVP","Ronald Sleigh","n/a","n/a","2018","Banker","n/a"
+```

@@ -1,0 +1,42 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2019","Stephen H. Cheney","Voting Securities","291164","4.85%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2019","Stephen H. Cheney","Restricted Stock Rights (Deferred Director Comp/Exec Stock Grant)","46682","14%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2019","Richard L. Singletary","Voting Securities","311944","5.19%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2019","Richard L. Singletary","Restricted Stock Rights (Deferred Director Compensation)","39307","11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville National Bank","Director","Charles A Balfour","President","Balfour Timber Company,"Inc."","2019","President","n/a"
+"Thomasville National Bank","President","Charles A Balfour","President","Balfour Pole Company,"LLC"","2019","President","n/a"
+"Thomasville National Bank","President","Charles A Balfour","Chairman","Balfour Land Company","2019","President","n/a"
+"Thomasville National Bank","Director","John Bannister","President","Bannister Electric Co.","2019","President","n/a"
+"Thomasville National Bank","Director","John Bannister","President","K & L Land,"LLC"","2019","President","n/a"
+"Thomasville National Bank","Director","John Bannister"," ","Thomasville Service Center","2019","President","n/a"
+"Thomasville National Bank","Director & EVP","Joel W. Barrett","n/a","n/a","2019","EVP","n/a"
+"Thomasville National Bank","Director & CEO","Stephen H Cheney","Chairman & CEO","n/a","2019","CEO","n/a"
+"Thomasville National Bank","Director","David A. Cone","President","Cone Machinery,"Inc."","2019","President","n/a"
+"Thomasville National Bank","Director","David A. Cone","President","PDK Investments,"Inc."","2019","President","n/a"
+"Thomasville National Bank","Director","Mills Herndon","Owner/Broker","Cumbest Mill,"LLC"","2019","Owner/Broker","n/a"
+"Thomasville National Bank","Director","Mills Herndon","Partner","BLVD Acquisition,"LLC"","2019","Owner/Broker","n/a"
+"Thomasville National Bank","Director & EVP","Charles H. Hodges,"III"","n/a","n/a","2019","President","n/a"
+"Thomasville National Bank","Director","Randall L. Moore","President","Moore & Porter Produce Brokers","2019","President","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","Partner & President","Pine Landings,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","Member","Tallahasse Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","Member","Manassas Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr.""," ","Halleck Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr.""," ","Tallahassee Homes Realty,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","","Tallahassee Homes Residential,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","","Preserve Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","","Dahigren Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","","Pedrick Homes,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Richard L Singletary,"Jr."","","Oak Grove Hammock,"LLC"","2019","Developer/Investor","n/a"
+"Thomasville National Bank","Director","Nathaniel Abrams","President","Abrams Mobile Document Destruction","2019","President","n/a"
+"Thomasville National Bank","Director","Haile McCollum","Owner/Manager","Fontaine Maury,"LL.C"","2019","Owner/Manager","n/a"
+"Thomasville National Bank","Director","Dale R. Powell,"Jr."","President","Senior Life Insurance Co.","2019","President","n/a"
+"Thomasville National Bank","Director","Dale R. Powell,"Jr."","President","P&P Associates,"Inc."","2019","President","n/a"
+"Thomasville National Bank","Director","Clay Sewell","n/a","n/a","2019","Attorney","n/a"
+```

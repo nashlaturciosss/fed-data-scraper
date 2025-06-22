@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2021","Stephen Panepinto","Common Stock","24577","45.2740%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2021","Frances D. Durand","Common Stock","4000","7.3685%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2021","Joseph D. Weldon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bank & Trust Company","Calabasa,"CA"","2021","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2021","M/M J. D. Weldon","Common Stock","2371","4.3677%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bank & Trust Company","Director","Frances D. Durand","Managing Partner","Durand Property LLC","2021","Owner of Durand Property LLC 57%","n/a"
+"Plaquemine Bank & Trust Company","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2021","Retired","n/a"
+"Plaquemine Bank & Trust Company","Director","Kenneth C. Caruso","n/a","KC5,"LLC"","2021","Managing Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Harry J Philips,"Jr."","Partner","Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","2021","Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Leo D Sternfels","President","Service Mortgage Co.","2021","Retired from Arthur J. Gallagher & Co.","n/a"
+"Plaquemine Bank & Trust Company","Director & Chairman/ President/CEO","Stephen Panepinto","n/a","n/a","2021","Director & Chairman/President/CEO","n/a"
+"Plaquemine Bank & Trust Company","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2021","Sr. Vice President,"CFO & Cashier"","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Caroline B. Causin","n/a","n/a","2021","n/a","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Elizabeth Rivet","n/a","n/a","2021","Vice President","n/a"
+"Plaquemine Bank & Trust Company","Assistant Vice President","Rhett Vaughn","n/a","n/a","2021","n/a","n/a"
+```

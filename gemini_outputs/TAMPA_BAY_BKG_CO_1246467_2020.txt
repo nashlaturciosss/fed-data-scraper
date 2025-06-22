@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2020","James L. Ferman,"Jr."","Common Stock","228258","9.384%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2020","WRB Enterprises,"Inc."","Common Stock","228191","9.468%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2020","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","139767","5.746%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2020","A. Gerald Divers","Common Stock","136501","5.604%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company","2020","CEO & President","n/a"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2020","President","n/a"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","CEO","Celestar Corporation","2020","CEO","n/a"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2020","President & CEO","n/a"
+"Tampa Bay Banking Company","Director","Brett D. Divers","Vice President","Mills Paskert Divers","2020","Vice President & Managing Partner","n/a"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2020","CEO","n/a"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2020","President","n/a"
+"Tampa Bay Banking Company","Director","A.D. MacKinnon","CEO","ADM Ventures,"Inc."","2020","CEO","n/a"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","Retired","Seabreeze Holdings,"Inc."","2020","Retired","n/a"
+"Tampa Bay Banking Company","Director and President/CEO","Paul L. Whiting","President/CEO","Seabreeze Holdings,"Inc."","2020","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CAO","William O. West III","Director and President/CEO","Bank of Tampa","2020","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President","Richard L. Junkermann","Executive Vice President","Bank of Tampa","2020","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President","Susan K. Miller","Executive Vice President","Bank of Tampa","2020","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President","T. Corey Neil","President/COO","Bank of Tampa","2020","Banker","n/a"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Senior Vice President","Bank of Tampa","2020","Banker","n/a"
+```

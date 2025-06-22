@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TSB BANCORP,"INC."","Peachtree City,"GA"","2016","Edgar E. Chapman,"Jr."","Common Stock","101","50.2488%","n/a"
+"TSB BANCORP,"INC."","Peachtree City,"GA"","2016","Samuel P. Chapman","Common Stock","25","12.4378%","n/a"
+"TSB BANCORP,"INC."","Wildwood,"MO"","2016","Edgar Wright Chapman","Common Stock","25","12.4378%","n/a"
+"TSB BANCORP,"INC."","Dothan,"AL"","2016","Barbara C. Haas","Common Stock","25","12.4378%","n/a"
+"TSB BANCORP,"INC."","Peachtree City,"GA"","2016","Mary C. Chapman","Common Stock","25","12.4378%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TSB BANCORP,"INC."","Chairman of the Board & President","Edgar E. Chapman,"Jr."","Chairman of the Board","Talbot State Bank","2016","n/a","n/a"
+"TSB BANCORP,"INC."","Director & Vice President","James T. Davidson","n/a","n/a","2016","n/a","n/a"
+"TSB BANCORP,"INC."","Director & Secretary","Kenneth Chapman","Director,"EVP & Secretary"","Talbot State Bank","2016","n/a","n/a"
+"TSB BANCORP,"INC."","Director","Vivian Collier","Director","Talbot State Bank","2016","Retired","n/a"
+"TSB BANCORP,"INC."","Director","Darrell Moore","Director","Talbot State Bank","2016","Retired","n/a"
+"TSB BANCORP,"INC."","n/a","Samuel P. Chapman","n/a","n/a","2016","Real Estate Agent","n/a"
+"TSB BANCORP,"INC."","n/a","Samuel P. Chapman","Director","Talbot State Bank","2016","Real Estate Agent","n/a"
+"TSB BANCORP,"INC."","Director","Nancy T. Miles","Director","Talbot State Bank","2016","Retired","n/a"
+"TSB BANCORP,"INC."","n/a","Edgar Wright Chapman","n/a","n/a","2016","Electrical Engineer","n/a"
+"TSB BANCORP,"INC."","n/a","Edgar Wright Chapman","Director","Talbot State Bank","2016","Electrical Engineer","n/a"
+"TSB BANCORP,"INC."","n/a","Barbara C. Haas","n/a","n/a","2016","Student/Homemaker","n/a"
+"TSB BANCORP,"INC."","n/a","Barbara C. Haas","Director","Talbot State Bank","2016","Student/Homemaker","n/a"
+"TSB BANCORP,"INC."","n/a","Mary C. Chapman","Director","Talbot State Bank","2016","n/a","n/a"
+```

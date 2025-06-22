@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bankshares Corporation","Alma,"GA"","2018","Bennett Family Limited Partnership","n/a","5074","5%","n/a"
+"South Georgia Bankshares Corporation","Alma,"GA"","2018","Lawrence and Joyce Bennett","n/a","14946","16%","n/a"
+"South Georgia Bankshares Corporation","Alma,"GA"","2018","Paul T. Bennett","n/a","24147","27%","n/a"
+"South Georgia Bankshares Corporation","Lyons,"GA"","2018","William N. Clark","n/a","5324","5%","n/a"
+"South Georgia Bankshares Corporation","Lyons,"GA"","2018","R.T. Stanley,"Jr"","n/a","5000","5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bankshares Corporation","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","PINELAND STATE BK","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH BANKING CO","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH FINANCIAL PRO","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAULT BENNETT","CHAIRMAN DIRECTOR","SOUTH BANKING COMPANY","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAULT BENNETT","PRESIDENT & CHAIRMAN OF","PINELAND STATE BANK","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAULT BENNETT","DIRECTOR & SECRETARY OF","SOUTH FINANCIAL PRODUCTS,"INC"","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAULT BENNETT","DIRECTOR OF","THE BANKERS BANK","2018","BANKER","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","BILLY BENTON","DIRECTOR","NONE","2018","RETIRED","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","BEN NEWTON","DIRECTOR","NONE","2018","NEWTON FARMS","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","R.T. STANLEY,"JR."","PARTNER","ONION CITY FARM SUPPLY","2018","STANLEY FARMS","n/a"
+"South Georgia Bankshares Corporation","DIRECTOR","WENDELL H DIXON","CEO","n/a","2018","BANKER","n/a"
+```

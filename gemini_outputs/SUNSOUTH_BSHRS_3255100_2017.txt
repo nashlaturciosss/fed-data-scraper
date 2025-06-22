@@ -1,0 +1,37 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","H. MONTY WEIGEL","Common Stock","9860","24.99%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","J. STEVEN Roy","Common Stock","9800","24.84%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","EDC INVESTMENTS","Common Stock","3000","7.60%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","D. SHANE SINQUEFIELD","Common Stock","2700","6.84%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","CALVIN R TURNER","Common Stock","2600","6.59%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","G. MACK DOVE","Common Stock","2000","5.07%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","SPRING CREEK CAPITAL LLC","Common Stock","2000","5.07%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","JOHN H. WATSON","Common Stock","2000","5.07%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","MICHAEL PREWITT MCCANN","Common Stock","322","6%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","GUY FLETCHER MEDLEY","Common Stock","269","5%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","ESTATE OF ANN S MEDLEY","Common Stock","773","16%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","LANORA A MEDLEY","Common Stock","681","14%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","MICHAEL ALAN MEDLEY","Common Stock","270","5%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"Alabama"","2017","H. MONTY WEIGEL","Common Stock","837","17%","n/a"
+"SunSouth Bancshares,"Inc."","Lebanon,"Tennessee"","2017","FIRST FREEDOM BANK","Common Stock","526","11%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunSouth Bancshares,"Inc."","Director","DAWN W. DUNNING-THEUNE","Director","SunSouth Bank","2017","Homemaker","n/a"
+"SunSouth Bancshares,"Inc."","Director","ROGER PETERSON","Director","SunSouth Bank","2017","n/a","n/a"
+"SunSouth Bancshares,"Inc."","Director and Chairman","J. STEVEN ROY","Director and Chairman","Citizens Southern Bancshares,"Inc."","2017","CFO of Private Trucking Company","n/a"
+"SunSouth Bancshares,"Inc."","Director","J. STEVEN ROY","Director","Citizens State Bank","2017","CFO of Private Trucking Company","n/a"
+"SunSouth Bancshares,"Inc."","Director","J. STEVEN ROY","Chief Financial Officer","AAA Cooper Transportation","2017","CFO of Private Trucking Company","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Holdings,"LLC"","2017","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Phenix City,"LLC"","2017","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Eufalua,"LLC"","2017","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Real Estate Holdings,"LLC"","2017","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","CALVIN R. TURNER,"JR."","Vice President / CFO/Co-Owner","Bob Woodall Air Care Systems,"LLC"","2017","Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares,"Inc."","Director","CALVIN R. TURNER,"JR."","Co-Owner,"Managing Partner"","Ten Four,"LLC"","2017","Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares,"Inc."","Director","CALVIN R. TURNER,"JR."","Owner","Turnfield Properties,"LLC"","2017","Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares,"Inc."","President / CEO Director","H. MONTY WEIGEL","n/a","n/a","2017","n/a","n/a"
+```

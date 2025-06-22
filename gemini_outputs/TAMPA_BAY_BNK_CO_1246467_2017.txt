@@ -1,0 +1,29 @@
+Here are the requested CSV tables:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2017","James L. Ferman,"Jr."","Common Stock","266972","11.272%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2017","WRB Enterprises,"Inc."","Common Stock","228136","9.632%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2017","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","171623","7.246%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2017","A. Gerald Divers","Common Stock","139696","5.898%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company","2017","CEO & President - Ferman Motor Car Company","273336"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","Director","WRB Enterprises,"Inc."","2017","President - WRB Enterprises,"Inc."","273336"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","Director","Celestar Corporation","2017","CEO - Celestar Corporation","273336"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","Director","Clinical Consulting Solutions","2017","President & CEO - Clinical Consulting Solutions","273336"
+"Tampa Bay Banking Company","Director","Brett D. Divers","Director","Mills Paskert Divers","2017","Vice President & Managing Partner - Mills Paskert Divers","273336"
+"Tampa Bay Banking Company","Director","Luis Garcia","Director","Garcia & Ortiz,"PA"","2017","Senior Partner (CPA) - Garcia & Ortiz,"PA"","273336"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","Director","Harrod Properties,"Inc."","2017","CEO - Harrod Properties,"Inc."","273336"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","Director","Sun Stale International Trucks,"LLC"","2017","President - Sun Stale International Trucks,"LLC"","273336"
+"Tampa Bay Banking Company","Director","A.D. MacKinnon","Director","ADM Ventures,"Inc."","2017","CEO - ADM Ventures,"Inc."","273336"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","Director","n/a","2017","Retired","273336"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","Director","Seabreeze Holdings,"Inc."","2017","CEO - Seabreeze Holdings,"Inc."","273336"
+"Tampa Bay Banking Company","President/CEO","William O. West III","Director","TBC Insurance,"Inc."","2017","Banker","273336"
+"Tampa Bay Banking Company","President/CEO","William O. West III","Chairman","Florida Investment Advisors,"Inc."","2017","Banker","273336"
+"Tampa Bay Banking Company","Executive Vice President/CFO","Richard L. Junkermann","Director","Florida Investment Advisors,"Inc."","2017","Banker","273336"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Director","TBC Insurance,"Inc."","2017","Banker","273336"
+"Tampa Bay Banking Company","Vice President","Ronald V. Hernandez","Director","Florida Investment Advisors,"Inc."","2017","Banker","273336"
+```

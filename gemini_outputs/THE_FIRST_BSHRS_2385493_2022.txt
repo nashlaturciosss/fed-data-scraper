@@ -1,0 +1,31 @@
+Here are the CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The First Bancshares,"Inc."","New York,"NY"","2022","BlackRock,"Inc."","Common Stock","2363557","9.84%","n/a"
+"The First Bancshares,"Inc."","McLean,"VA"","2022","FJ Capital Management,"LLC"","Common Stock","1521546","6.33%","n/a"
+"The First Bancshares,"Inc."","Baltimore,"MD"","2022","T. Rowe Price Investment Management,"Inc."","Common Stock","2730357","11.36%","n/a"
+"The First Bancshares,"Inc."","Malvern,"PA"","2022","The Vanguard Group","Common Stock","1238455","5.15%","n/a"
+"The First Bancshares,"Inc."","Arlington,"VA"","2022","EJF Capital,"LLC"","Common Stock","1573065","7.68%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The First Bancshares,"Inc."","Director","Rodney D. Bennett,"Ed."","Director","The First Bank","2022","Former President,"University of Southern Mississippi"","n/a"
+"The First Bancshares,"Inc."","Director","David W. Bomboy,"M.D."","Director","The First Bank","2022","Orthopedic Surgeon","n/a"
+"The First Bancshares,"Inc."","Director","M. Ray ""Hoppy"" Cole,"Jr."","President","The First Bank","2022","President,"CEO","Director and Chm of the Board of The First Bank"","n/a"
+"The First Bancshares,"Inc."","President","M. Ray ""Hoppy"" Cole,"Jr."","CEO","The First Bank","2022","President,"CEO","Director and Chm of the Board of The First Bank"","n/a"
+"The First Bancshares,"Inc."","CEO","M. Ray ""Hoppy"" Cole,"Jr."","Chm of the Board","The First Bank","2022","President,"CEO","Director and Chm of the Board of The First Bank"","n/a"
+"The First Bancshares,"Inc."","Director","E. Ricky Gibson","Chairman of the Board","The First Bank","2022","President and Owner,"N & H Electronics"","n/a"
+"The First Bancshares,"Inc."","Chairman of the Board","E. Ricky Gibson","Director","The First Bank","2022","President and Owner,"N & H Electronics"","n/a"
+"The First Bancshares,"Inc."","Director","Charles R. Lightsey","Director","The First Bank","2022","Social Security Disability Claims Rep.","n/a"
+"The First Bancshares,"Inc."","Director","Fred A. McMurry","Director","The First Bank","2022","President,"Harvard Pest Control"","n/a"
+"The First Bancshares,"Inc."","Director","Thomas E. Mitchell","Director","The First Bank","2022","President,"Stuart Contracting Co.","Inc."","n/a"
+"The First Bancshares,"Inc."","Director","Ted E. Parker","Director","The First Bank","2022","Cattle Farmer","n/a"
+"The First Bancshares,"Inc."","Director","J. Douglas Seidenburg","Director","The First Bank","2022","CPA","n/a"
+"The First Bancshares,"Inc."","Director","Andrew D. Stetelman","Director","The First Bank","2022","London & Stetelman Realtors","n/a"
+"The First Bancshares,"Inc."","Director","Renee Moore","Director","The First Bank","2022","CPA","n/a"
+"The First Bancshares,"Inc."","CFO,"The First Bank"","DeeDee Lowery","n/a","n/a","2022","Petal","n/a"
+"The First Bancshares,"Inc."","Director","Jonathan A. Levy","Director","The First Bank","2022","Redstone Investments","n/a"
+"The First Bancshares,"Inc."","n/a","T. Rowe Price Investment Management,"Inc."","n/a","n/a","2022","Investment Management","n/a"
+```

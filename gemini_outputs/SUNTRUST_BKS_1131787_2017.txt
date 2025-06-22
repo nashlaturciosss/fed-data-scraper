@@ -1,0 +1,39 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunTrust Banks,"Inc."","New York,"NY"","2017","BlackRock,"Inc."","common shares","44576787","9.45%","n/a"
+"SunTrust Banks,"Inc."","Malvern,"PA"","2017","The Vanguard Group","common shares","33140908","7.02%","n/a"
+"SunTrust Banks,"Inc."","Los Angeles,"CA"","2017","Capital World Investors","common shares","29202903","6.19%","n/a"
+"SunTrust Banks,"Inc."","Boston,"MA"","2017","FMR LLC","common shares","28049343","5.94%","n/a"
+"SunTrust Banks,"Inc."","Boston,"MA"","2017","State Street Corporation","common shares","24744732","5.24%","n/a"
+"SunTrust Bank Holding Company","Atlanta,"GA"","2017","SunTrust Banks,"Inc."","common shares","100%","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunTrust Banks,"Inc."","General Auditor","Jorge Arrieta","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Agnes Bundy Scanlan","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Chief Human Resources Officer","Margaret Callihan","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Vice Chairman","Mark A. Chancy","Director","SunTrust Robinson Humphrey,"Inc."","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Anil T. Cheriyan","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Dallas S. Clement","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Co-Chief Operating Officer & Wholesale Segment Executive","Hugh S. Cummins,"III"","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Raymond D. Fortin","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Efficiency & Strategic Partnerships Executive","Thomas E. Freeman","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Paul R. Garcia","Director","Dun & Bradstreet Corporation","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Chief Financial Officer","Aleem Gillani","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","M. Douglas Ivester","n/a","Deer Run Investments,"LLC"","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Susan S. Johnson","Director","Constellation Brands,"Inc."","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Kyle P. Legg","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Chief Risk Officer","Jerome T. Lienhard,"II"","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Donna S. Morea","n/a","Science Applications International Corporation","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","David M. Ratcliffe","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Chairman and Chief Executive Officer","William H. Rogers,"Jr."","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Frank P. Scruggs,"Jr."","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Bruce L. Tanner","n/a","n/a","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Steven C. Voorhees","Director","WestRock Company (WRK)","2017","n/a","n/a"
+"SunTrust Banks,"Inc."","Director","Thomas R. Watjen","Chairman of the Board","Unum Group","2017","Retired President & CEO","n/a"
+"SunTrust Banks,"Inc."","Director","Thomas R. Watjen","Director","Prudential Plc.","2017","Retired President & CEO","n/a"
+"SunTrust Banks,"Inc."","Director","Dr. Phail Wynn,"Jr."","n/a","n/a","2017","n/a","n/a"
+```

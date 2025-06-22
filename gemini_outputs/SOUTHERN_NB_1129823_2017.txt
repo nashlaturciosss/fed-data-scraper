@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","John Tringas","Common Stk","15627","29%","1129823"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","Alex James Tringas","Common Stk","10000","31%","1129823"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","Darren Sneed","Common Stk","5405","11%","1129823"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","Lark Tringas Bostick","Common Stk","4967","10%","1129823"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","Lark Tringas Bostick","Common Stk","4020","8%","1129823"
+"Southern National Banks,"Inc."","Fort Walton Beach,"FL"","2017","Tringas Childrens Trust","Common Stk","2521","5%","1129823"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Banks,"Inc."","Director","Alex Tringas","Director","Seahorse Realty,"Inc."","2017","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","Director","Tringas Theatres,"Inc."","2017","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","Director","Airlark,"Inc."","2017","n/a","n/a"
+"Southern National Banks,"Inc."","Director","Lark Tringas Bostick","Director","Seahorse Realty,"Inc."","2017","n/a","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Cinema,"Incorporated"","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","Director","Automated Teller Systems,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Tringas Theatres,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Seahorse Realty,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","Director","Destin Financial Services,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Chairman & CEO","John Tringas","President","Riverview LLC","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Shareholder","Darren M. Sneed","Managing Member","Athena Fund,"LLC"","2017","Investor","n/a"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","President","BBH Holdings,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","Director","Automated Teller Systems,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","Vice Chairman","J. Larry Beasley,"Sr."","Director","Destin Financial Services,"Inc."","2017","Banking","n/a"
+"Southern National Banks,"Inc."","EVP/CFO","Marklyn E. Wade","n/a","n/a","2017","Banking","n/a"
+```

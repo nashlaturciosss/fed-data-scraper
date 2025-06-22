@@ -1,0 +1,14 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Trust Holding Company,"Inc."","Lenox,"GA"","2019","Benjamin W. Lindsey,"Sr."","n/a","1598400","76.70%","n/a"
+"Trust Holding Company,"Inc."","Dawsonville,"GA"","2019","C. Talmadge Garrison","n/a","174329","8.37%","n/a"
+"Trust Holding Company,"Inc."","Sparks,"GA"","2019","Lamar Betts","n/a","105602","5.07%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Trust Holding Company,"Inc."","Director/Executive Chairman of the Board","Benjamin W. Lindsey,"Sr."","Chairman","Linco Group,"Inc."","2019","None","n/a"
+"Trust Holding Company,"Inc."","Director/Executive Vice Chairman of the Board","C. Talmadge Garrison","n/a","n/a","2019","None","n/a"
+"Trust Holding Company,"Inc."","Director/Secretary","Benjamin W. Lindsey,"Jr."","President","Linco Group,"Inc."","2019","None","n/a"
+```

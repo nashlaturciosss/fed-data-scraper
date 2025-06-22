@@ -1,0 +1,26 @@
+```text
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"REGIONS FINANCIAL CORPORATION","New York,"NY"","2017","BlackRock,"Inc. (and subsidiaries)"","BlackRock,"Inc."","90160202","7.80%","3242838"
+"REGIONS FINANCIAL CORPORATION","Boston,"MA"","2017","State Street Corporation (and subsidiaries):","State Street Corporation","65106339","5.61%","3242838"
+"REGIONS FINANCIAL CORPORATION","Malvern,"PA"","2017","The Vanguard Group,"Inc. (and subsidiaries):"","The Vanguard Group,"Inc."","130460232","11.24%","3242838"
+"REGIONS FINANCIAL CORPORATION","Boston,"MA"","2017","FMR LLC (and subsidiaries)","FMR LLC","66479713","5.5%","3242838"
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"REGIONS BANK","Chairman and CEO","O. B. Grayson Hall,"Jr."","Director","Vulcan Materials Company","2017","n/a","233031"
+"REGIONS BANK","Chairman and CEO","O. B. Grayson Hall,"Jr."","Director","Alabama Power Company","2017","n/a","233031"
+"REGIONS BANK","Vice Chairman","David J. Cooper,"Sr."","Director","Alabama Power Company","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Chief Financial Officer"","David J. Turner,"Jr."","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"General Counsel and Corporate Secretary"","Fournier J. Gale,"III"","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Chief Risk Officer"","C. Matthew Lusco","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Head of Enterprise Services and Consumer Banking"","John B. Owen","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","President","John M. Turner,"Jr."","Director","Regions Insurance Group,"Inc."","2017","n/a","233031"
+"REGIONS BANK","President","John M. Turner,"Jr."","Director","Regions Equipment Finance Corporation;","2017","n/a","233031"
+"REGIONS BANK","President","John M. Turner,"Jr."","Manager","RFC Financial Services Holding LLC","2017","n/a","233031"
+"REGIONS BANK","Head of Corporate Real Estate and Procurement","Brett D. Couch","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Chief Credit Officer"","Barb Godin","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Head of Corporate Responsibility and Community Engagement","C. Keith Herron","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Head of Commercial Banking"","William E. Horton","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Head of Strategic Performance and Alignment"","Ellen S. Jones","n/a","n/a","2017","n/a","233031"
+"REGIONS BANK","Senior Executive Vice President,"Head of Human Resources"","David R. Keenan","n/a","n/a","2017","n/a","233031"
+```

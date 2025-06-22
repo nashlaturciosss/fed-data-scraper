@@ -1,0 +1,19 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 document","following all the specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Union Bancshares,"Incorporated"","Marksville,"Louisiana"","2018","Darrel D. Ryland","common stock","21979","53.76%","144436"
+"Union Bancshares,"Incorporated"","Marksville,"Louisiana"","2018","Richard Layfield","common stock","3477","8.51%","144436"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Union Bancshares,"Incorporated"","President","Darrel D. Ryland","President","Darrell D. Ryland,"A Professional Law Corporation"","2018","Attorney","144436"
+"Union Bancshares,"Incorporated"","Executive Vice President","Richard Layfield","n/a","n/a","2018","Banker","144436"
+"Union Bancshares,"Incorporated"","Director","Brent Scallan","Part owner","Scallan Contractors,"Inc."","2018","Construction contractor","144436"
+"Union Bancshares,"Incorporated"","Director","Kenneth Wilson","Owner","Don's Pharmasave,"Inc."","2018","Pharmacist","144436"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Fabrication,"LLC"","2018","President of steel fabrication company","144436"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Steel Pole,"LLC"","2018","President of steel fabrication company","144436"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran WP Holding,"LLC"","2018","President of steel fabrication company","144436"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Wood Products,"LLC"","2018","President of steel fabrication company","144436"
+```

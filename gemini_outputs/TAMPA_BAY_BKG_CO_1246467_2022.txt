@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"FL"","2022","James L. Ferman,"Jr."","Common Stock","282708","10.607%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2022","WRB Enterprises,"Inc."","Common Stock","235599","8.839%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2022","Brett D. Divers","n/a","168920","6.338%","n/a"
+"Tampa Bay Banking Company","Tampa,"FL"","2022","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","150006","5.628%","n/a"
+"Tampa Bay Banking Company","n/a","2022","None","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company,"Inc."","2022","Chairman","n/a"
+"Tampa Bay Banking Company","Director","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2022","President","n/a"
+"Tampa Bay Banking Company","Director","Gregory J. Celestan","CEO","Celestar Corporation","2022","CEO","n/a"
+"Tampa Bay Banking Company","Director","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2022","President & CEO","n/a"
+"Tampa Bay Banking Company","Director","Brett D. Divers","Vice President","Mills Paskert Divers","2022","Vice President & Managing Partner","n/a"
+"Tampa Bay Banking Company","Director","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2022","CEO","n/a"
+"Tampa Bay Banking Company","Director","Oscar J. Horton","President","Horton Holdings","2022","President","n/a"
+"Tampa Bay Banking Company","Director","Judy A. Mitchell","n/a","n/a","2022","Retired","n/a"
+"Tampa Bay Banking Company","Director","Paul L. Whiting","n/a","n/a","2022","Retired","n/a"
+"Tampa Bay Banking Company","Director; President/CEO","William O. West III","n/a","n/a","2022","Banker","n/a"
+"Tampa Bay Banking Company","Exec Vice President","T. Corey Neil","n/a","n/a","2022","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CAO","Thomas W. Oliver","n/a","n/a","2022","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CFO","Susan K. Miller","n/a","n/a","2022","Banker","n/a"
+"Tampa Bay Banking Company","Sr. Vice President Chief Accounting Officer","Ronald V. Hernandez","n/a","n/a","2022","Banker","n/a"
+```

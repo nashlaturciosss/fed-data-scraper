@@ -1,0 +1,36 @@
+"Here are the two tables in CSV format","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Trinity Bancorp,"Inc."","Elba,"AL"","2018","National Security Company","n/a","130065","7.47%","n/a"
+"Trinity Bancorp,"Inc."","Dothan,"AL"","2018","Donnie W. Dean","n/a","121857","7%","n/a"
+"Trinity Bancorp,"Inc."","Albany,"GA"","2018","Henry H. Barnard,"II"","n/a","88048","5.05%","n/a"
+"Trinity Bancorp,"Inc."","Enterprise,"AL"","2018","Joe Paul Stewart","n/a","76375","4.39%","n/a"
+"Trinity Bancorp,"Inc."","Enterprise,"AL"","2018","Gayle K. Stewart","n/a","68012","3.90%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Trinity Bancorp,"Inc."","President/CEO/Director","J. Robbin Thompson","n/a","JR LLC","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Chairman of the Board of Directors","Carey Slay","n/a","Schmitz & Mitchell,"Inc."","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Vice Chairman of the Board of Directors","Joe Paul Stewart","n/a","KooLook,"LLC"","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Vice Chairman of the Board of Directors","Joe Paul Stewart","n/a","Triangle Properties 1200,"LLC"","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Vice Chairman of the Board of Directors","Joe Paul Stewart","n/a","Baldwin & Stewart Investments","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Secretary of the Board of Directors","Brian McLeod","Secretary","National Security Group,"Inc."","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Brent Beasley","Director","Great Dane Trailers","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Brent Beasley","n/a","BSW Farms","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Brent Beasley","n/a","Green Turtle Tree Farm","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Brent Beasley","n/a","Northstar Trailer Rental","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Bill McLaughin","Director","Digestive Health Associates","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Bill McLaughin","n/a","Quicksilver Land","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Bill McLaughin","n/a","BM 2 Properties","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Bill McLaughin","n/a","McLaughlin Properties,"LLC"","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Bill McLaughin","n/a","Med Park East","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Henry Barnard","Director","Regional Health Group","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Henry Barnard","n/a","Barnard Rentals","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","Terry Duffie","Director","Great Gulf-South Cable Interconnect - DBA Scenic Cable Network & Productions","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","James Etheredge","n/a","C&J Properties,"LLC"","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","James Etheredge","n/a","East LA Consulting","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","Director","John Mitchell","Director","Mitchell Motors Inc.","2018","n/a","n/a"
+"Trinity Bancorp,"Inc."","CFO","Stephanie Walker","n/a","n/a","2018","n/a","n/a"
+```

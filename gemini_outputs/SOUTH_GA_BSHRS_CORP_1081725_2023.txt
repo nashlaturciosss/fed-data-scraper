@@ -1,0 +1,11 @@
+Here are the requested extractions in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bankshares","CEO","Wendell H. Dixon","n/a","n/a","2023","n/a","n/a"
+"South Georgia Bankshares","CFO","Sherrie M Atterholt","n/a","n/a","2023","n/a","n/a"
+```

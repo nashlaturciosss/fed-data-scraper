@@ -1,0 +1,23 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Renny B. Eadie,"III"","Common Stock Held","29100","4.76%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Renny B. Eadie,"III"","Preferred Stock Conversion (If converted)","16665","7.29%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Robert M. Eadie","Common Stock Held","22900","3.75%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Robert M. Eadie","Preferred Stock Conversion (If converted)","8334","5.04%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Garland Kirby","Common Stock Held","31201","5.11%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Garland Kirby","Preferred Stock Conversion (If converted)","8334","6.38%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Robin C. Green","Common Stock Held","666","0.11%","n/a"
+"PSB Bancgroup,"Inc."","Lake City,"FL"","2014","Robin C. Green","Preferred Stock Conversion (If converted)","34125","5.39%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PSB Bancgroup,"Inc."","Pres & Chairman,"Director"","Renny B. Eadie,"III"","Owner","Columbia Ready Mix Concrete,"Inc."","2014","Owner","n/a"
+"PSB Bancgroup,"Inc."","Pres & Chairman,"Director"","Renny B. Eadie,"III"","Owner","Columbia RMC Inc.","2014","Owner","n/a"
+"PSB Bancgroup,"Inc."","Sr. Vice President,"Corporate Secretary","Director","President/CEO"","Robin C. Green","n/a","n/a","2014","President/CEO","n/a"
+"PSB Bancgroup,"Inc."","Director","John W. Burns,"III"","Agent","State Farm Insurance","2014","Insurance Agent","n/a"
+"PSB Bancgroup,"Inc."","Director","Robert M. Eadie","Owner","Lake City Industries,"Inc."","2014","Owner","n/a"
+"PSB Bancgroup,"Inc."","Director","Shilpa U. Mhatre","Office Manager","Psychiatric Assoc of Lake City","2014","Office Manager","n/a"
+```

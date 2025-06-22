@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2015","J. PRESTON CONNER","COMMON STOCK","4004","15.00%","1141816"
+"SARDIS BANKSHARES,"INC."","ST. AUGUSTINE,"FL"","2015","JOE T. CONNER,"JR."","COMMON STOCK","6353","24.00%","1141816"
+"SARDIS BANKSHARES,"INC."","THOMASTON,"GA"","2015","ROSE WARREN","COMMON STOCK","3733","14.00%","1141816"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2015","ANN CLINE","COMMON STOCK","2620","10.10%","1141816"
+"SARDIS BANKSHARES,"INC."","SARDIS,"GA"","2015","SANDRA C. LONG","COMMON STOCK","5320","20.46%","1141816"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SARDIS BANKSHARES,"INC."","Director,"CEO and President"","J. Preston Conner","Director,"CEO"","Southern Bank","2015","Bank Officer","1141816"
+"SARDIS BANKSHARES,"INC."","Director and Executive Vice President","Ralph E. Dickey","Director,"President"","Southern Bank","2015","Bank Officer","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Joe T. Conner,"Jr."","President,"CEO"","Khem-Tech,"Inc."","2015","Sales","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Rose Warren","n/a","n/a","2015","Retired","1141816"
+"SARDIS BANKSHARES,"INC."","Director","Sandra C. Long","Director","Southern Bank","2015","Homemaker","1141816"
+"SARDIS BANKSHARES,"INC."","n/a","Ann Cline","n/a","n/a","2015","Retired","1141816"
+"SARDIS BANKSHARES,"INC."","Director","Lamar Murray","Director","Southern Bank","2015","Physician","1141816"
+"SARDIS BANKSHARES,"INC."","Director","George L. Deloach","Director","Southern Bank","2015","Businessman","1141816"
+"SARDIS BANKSHARES,"INC."","Director","Wayne Dixon","Director","Southern Bank","2015","Businessman","1141816"
+```

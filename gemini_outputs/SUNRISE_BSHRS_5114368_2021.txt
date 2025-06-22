@@ -1,0 +1,39 @@
+Here are the two tables extracted from the document as requested.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunrise Bancshares,"Inc."","Merritt Island,"FL"","2021","Michael H. Erdman","Common Stock","488220","13.51%","3370133"
+"Sunrise Bancshares,"Inc."","Merrimack,"NH"","2021","Frederick W. Tausch","Common Stock","425000","11.76%","3370133"
+"Sunrise Bancshares,"Inc."","Orlando,"FL"","2021","Craig C. Mateer","Common Stock","407770","11.29%","3370133"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunrise Bancshares,"Inc."","President & Director","Barry R. Griffiths","n/a","n/a","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","Executive Vice President,"Director"","Charles B. Lowe,"Jr."","n/a","n/a","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","Executive Vice President,"Director"","M. Craig Crimmings","n/a","n/a","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","Executive Vice President,"Director"","Thomas M. Ravenscroft","Partner","Phillips Ravenscroft Partnership","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","Director","Steven L. Oktela","Owner","SOMOJO Properties LLC","2021","Property Manager","3370133"
+"Sunrise Bancshares,"Inc."","Vice Chairman of the Board","Michael H. Erdman","President","Mike Erdman Motors,"LLC"","2021","Auto Dealer","3370133"
+"Sunrise Bancshares,"Inc."","Vice Chairman of the Board","Michael H. Erdman","President","East Florida Motor Sales Inc.","2021","Auto Dealer","3370133"
+"Sunrise Bancshares,"Inc."","Chairman of the Board Director","William S. Moss","n/a","n/a","2021","Retired Manager","3370133"
+"Sunrise Bancshares,"Inc."","Director","Kevin Paffrath","General Manager","Conoley Citrus Packers Inc.","2021","Agriculture Management & Marketing","3370133"
+"Sunrise Bancshares,"Inc."","Director","Kevin Paffrath","General Manager","Conoley Fruit Harvester,"Inc"","2021","Agriculture Management & Marketing","3370133"
+"Sunrise Bancshares,"Inc."","Director","Kevin Paffrath","Owner/Shareholder","Security Alliance Investment Group","2021","Agriculture Management & Marketing","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","President","Keating & Schlitt,"P.A."","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","President","Town Square Title Company","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","President","Town Square Exhange Corporation","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","Town Square Properties,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","Estes Meadow,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","Eustis Meadows - Lake Myrtle,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","Clear Lake Farm,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","44-44 Properties,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","44-44G,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","PVB Warehouse,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","Clermont Commerce Park,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","John K. Keating","Mgr/Mbr","250 East Colonial,"LLC"","2021","Attorney","3370133"
+"Sunrise Bancshares,"Inc."","Director","Craig C. Mateer","Founder/CEO","CCM Capital Group","2021","Private Investor","3370133"
+"Sunrise Bancshares,"Inc."","Executive Vice President,"Director"","Robert Paul Johnson","n/a","n/a","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","Executive Vice President,"Chief Financial Officer"","Jason Beattie","n/a","n/a","2021","Banker","3370133"
+"Sunrise Bancshares,"Inc."","n/a","Frederick W. Tausch","n/a","n/a","2021","Private Investor","3370133"
+```

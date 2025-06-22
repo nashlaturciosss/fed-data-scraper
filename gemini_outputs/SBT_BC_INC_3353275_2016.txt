@@ -1,0 +1,26 @@
+Here are the requested CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancorp,"Inc"","Yonkers,"NY"","2016","Gem Industries,"Inc."","Common Stock","237135","19.61%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Oliver & Weidner","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","SWW Properties,"Inc"","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Meadow View Properties Inc.","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Washington Street Centre","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director Secretary","James C. Weidner","Sr. Partner","Habersham Medical Park,"Inc."","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","Director","Kenneth Coggins","President/CEO","Funeral Home & Crystal Hill Cemetery","2016","Funeral Director","n/a"
+"SBT Bancorp,"Inc"","Director","Michael B. Hill","President","Clarkesville Auto Parts","2016","Retail Auto Parts","n/a"
+"SBT Bancorp,"Inc"","Director Treasurer","Michael E. Mixon","Owner","Michael E. Mixon Accounting Firm","2016","Certified Public Accountant","n/a"
+"SBT Bancorp,"Inc"","Director Treasurer","Michael E. Mixon","Member/Manager","North East Ga Exchange","2016","Certified Public Accountant","n/a"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Owner/CEO","Holland Investments LLC","2016","Entreprenuer","n/a"
+"SBT Bancorp,"Inc"","Director","Charles M. Holland","Partner","George P. Burdell Associates LLC","2016","Entreprenuer","n/a"
+"SBT Bancorp,"Inc"","Director President & CEO","Tony E. Collins","n/a","Collins Advisory Group","2016","N/A","n/a"
+"SBT Bancorp,"Inc"","Director President & CEO","Tony E. Collins","n/a","Roswell Equity Partners","2016","N/A","n/a"
+"SBT Bancorp,"Inc"","Director","Ernest H. Woods","Managing Member","Ernest H. Woods,"III","LLC"","2016","Attorney","n/a"
+"SBT Bancorp,"Inc"","CFO","Deanna A. Mote","n/a","n/a","2016","N/A","n/a"
+"SBT Bancorp,"Inc"","N/A","Gem Industries,"Inc."","Holding Company","Gem Southeast,"Inc"","2016","Manufacturing: Fabricated Metal Products","n/a"
+```

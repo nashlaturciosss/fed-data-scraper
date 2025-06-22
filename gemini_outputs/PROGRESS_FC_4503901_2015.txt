@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Progress Financial Corporation","n/a","2015","None","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Progress Financial Corporation","Chairman and Director","Charlie Vaughn","Owner/President","Tera Properties","2015","Government Contractor","n/a"
+"Progress Financial Corporation","Chairman and Director","Charlie Vaughn","Owner-Recast Partner","Charger Holdings","2015","Government Contractor","n/a"
+"Progress Financial Corporation","Director,"President and CEO"","David Nast","n/a","n/a","2015","N/A","n/a"
+"Progress Financial Corporation","Vice Chairman and Director","Larry Weaver","Attorney","Wilmer & Lee","2015","Attorney","n/a"
+"Progress Financial Corporation","Secretary and Director","Bhavani Kakani","President","AshaKiran,"A Ray of Hope"","2015","Community Advocate","n/a"
+"Progress Financial Corporation","Director,"Huntsville President","General Banking Executive"","Lee Hoekenschnieder","n/a","n/a","2015","N/A","n/a"
+"Progress Financial Corporation","Committee Chair and Director","Sheila Brown","Founder/CEO","QuantiTech","2015","Government Contractor","n/a"
+"Progress Financial Corporation","Committee Chair and Director","Jim Caudle","Chairman/CEO","United Plating","2015","Manufacturing","n/a"
+"Progress Financial Corporation","Director","Eric Janssen","President and Surgeon","Sportsmed","2015","Surgeon","n/a"
+"Progress Financial Corporation","Director","Phillip ""Trey"" Bentley III","Operator","Pontiac,"Cadillac","Hyundai","& Chevrolet"","2015","Automobile Dealer","n/a"
+"Progress Financial Corporation","Director","Doug Ruggles","CEO","MSCO,"Inc."","2015","Industrial Supplier","n/a"
+```

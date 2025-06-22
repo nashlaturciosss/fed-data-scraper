@@ -1,0 +1,24 @@
+"Here are the two requested CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2023","Joe H. Pugh","Common Stock","42748","11.53%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2023","Hazel Barr","Common Stock","21030","5.67%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2023","Robert W. Newman","Common Stock","20220","5.45%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2023","Herschel Wells,"Jr."","Common Stock","19244","5.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Bancorp,"Inc."","Director & Chairman","Joe H. Pugh","n/a","n/a","2023","N/A","n/a"
+"Security Bancorp,"Inc."","Director","Robert W. Newman","Attorney","Galligan & Newman Atty","2023","Attorney","n/a"
+"Security Bancorp,"Inc."","Director","Ray (\"Buzz\") Spivey,"Jr."","President","Cumberland Lumber & Mfg,"Inc."","2023","Cumberland Lumber & Mfg,"Inc."","n/a"
+"Security Bancorp,"Inc."","Director","Thomas Foster","Owner","Foster & Foster Realty","2023","Foster & Foster Realty and Auction Company","n/a"
+"Security Bancorp,"Inc."","Director/Secretary","Herschel Wells,"Jr."","Director/Secretary","Tennessee Warehouse and Dist.","2023","Tennessee Warehouse and Distribution","n/a"
+"Security Bancorp,"Inc."","Director/President & CEO","Michael Griffith","n/a","n/a","2023","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Danny Martin","Sr. Vice President","n/a","2023","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Lisa Hillis","Sr. Vice President","n/a","2023","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Sherry Clendenon","Sr. Vice President","n/a","2023","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","Chief Financial Officer","Angela Brown","n/a","n/a","2023","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Kelly Basham","Sr. Vice President","n/a","2023","Security Federal Savings Bank","n/a"
+```

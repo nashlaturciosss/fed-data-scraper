@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St Francisville Bancshares,"Inc."","St. Francisville,"USA"","2020","H. Carter Leak III","n/a","73484","36.71","n/a"
+"St Francisville Bancshares,"Inc."","St. Francisville,"USA"","2020","W. Conville Lemoine","n/a","50325","25.16","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St Francisville Bancshares,"Inc."","Director","H. Carter Leak III","n/a","Catalpa Lane,"LLC"","2020","Bank of St Francisville","n/a"
+"St Francisville Bancshares,"Inc."","Director","Michael Hesse","Owner","Hesse & Butterworth LLC","2020","Attorney","n/a"
+"St Francisville Bancshares,"Inc."","Director","Thomas R. Temple,"Jr."","n/a","n/a","2020","Attorney","n/a"
+"St Francisville Bancshares,"Inc."","Director","Mitch Brashier","President","Arthur J Gallagher of LA Inc.","2020","President","n/a"
+"St Francisville Bancshares,"Inc."","Chairman of the Board","W. Conville Lemoine","n/a","n/a","2020","Chairman of the Board Bank of St. Francisville","n/a"
+"St Francisville Bancshares,"Inc."","Director","Susan G. Davis","Owner","Grandmothers Buttons","2020","Owner","n/a"
+"St Francisville Bancshares,"Inc."","Director","Nolan Percy","Owner","Nolan Percy Company","2020","Owner","n/a"
+"St Francisville Bancshares,"Inc."","Exec VP & CFO","James N. Chaffin,"Jr."","n/a","n/a","2020","CFO and Exec Vice President","n/a"
+"St Francisville Bancshares,"Inc."","President & Director","H. Carter Leak,"IV"","n/a","n/a","2020","President","n/a"
+"St Francisville Bancshares,"Inc."","Director","Challie P Daniels","Owner/Manager","Daniel Clinic","2020","Physician","n/a"
+"St Francisville Bancshares,"Inc."","Director","Challie P Daniels","Owner/Manager","CP Daniel Properties LLC","2020","Physician","n/a"
+"St Francisville Bancshares,"Inc."","Director","Scott Sanchez","Owner","Discovery Real Estate and Development LLC","2020","Owner","n/a"
+```

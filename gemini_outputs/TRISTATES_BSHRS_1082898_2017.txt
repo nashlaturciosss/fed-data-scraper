@@ -1,0 +1,28 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2017","Derrell W. Gaddis","Class B","5931.3645","28.7394%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2017","Charles D. Gross","Class B","4127.6845","20.0000%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2017","Jay T. Jones","Class B","3889.6845","18.8468%","n/a"
+"Tri-States Bankshares,"Inc."","Chattanooga,"TN"","2017","Charles & Brenda Poe","Class B","1944.8407","9.4234%","n/a"
+"Tri-States Bankshares,"Inc."","Dalton,"GA"","2017","Carolyn Ellis","Class B","1944.8407","9.4234%","n/a"
+"Tri-States Bankshares,"Inc."","Fort Payne,"AL"","2017","John E. Beck","Class B","1000.0000","4.8453%","n/a"
+"Tri-States Bankshares,"Inc."","Lookout Mtn,"GA"","2017","Aubrey Black","Class B","1000.0000","4.8453%","n/a"
+"Tri-States Bankshares,"Inc."","Trenton,"GA"","2017","Leisa Cagle","Class B","800.0000","3.8763%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Dade","President/Director","Derrell Gaddis","n/a","n/a","2017","Retired","441630"
+"Bank of Dade","Director","Charles D. Gross","n/a","n/a","2017","Self-employed","441630"
+"Bank of Dade","Chairman/Director","Charles D. Gross","n/a","Gross Furniture Center","2017","Self-employed","441630"
+"Bank of Dade","Director","Jay T. Jones","n/a","n/a","2017","Executive VP Bank of Dade","441630"
+"Bank of Dade","Executive VP Bank of Dade","Jay T. Jones","n/a","n/a","2017","Executive VP Bank of Dade","441630"
+"Bank of Dade","Director","Brenda Poe","n/a","n/a","2017","Retired","441630"
+"Bank of Dade","Vice Chairman/Director","Brenda Poe","n/a","n/a","2017","Retired","441630"
+"Bank of Dade","Director","John E Beck","n/a","Fort Payne Gun Works,"LLC"","2017","Self-employed","441630"
+"Bank of Dade","Director","Aubrey Black","n/a","Aubrey Black Const. Inc.","2017","Self-employed","441630"
+"Bank of Dade","Director","Aubrey Black","n/a","Ol'South Fence,"Inc."","2017","Self-employed","441630"
+"Bank of Dade","Vice President","Leisa Cagle","n/a","n/a","2017","McKee Baker","441630"
+"Bank of Dade","Director","Leisa Cagle","n/a","n/a","2017","McKee Baker","441630"
+```

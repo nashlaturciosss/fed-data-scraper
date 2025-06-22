@@ -1,0 +1,29 @@
+"Here are the two tables extracted from the document","formatted as CSV:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2014","Estate of Ferris P Youmans","Common Stock","33085","2.7%","4291527"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2014","Donna Youmans","Common Stock","21559","1.8%","4291527"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2014","Spencer Youmans","Common Stock","5329",".4%","4291527"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2014","Oak Management","Common Stock","20000","1.6%","4291527"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2014","Oak Investments","Common Stock","17339","1.4%","4291527"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Guy H Wilkes,"JR"","n/a","n/a","2014","n/a","4291527"
+"Southern Independent Bancshares,"Inc"","Director & CFO","John D Adams","n/a","n/a","2014","n/a","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","Farmer","2014","Retired Veterinarian","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Owner","Andalusia Dental Group","2014","Dentist","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Charles P Cope","Director","Southern Independent Bank","2014","Retired Insurance Executive","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Harden Enterprises","2014","Entrepreneur","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Norma Hobson","President","Forman Brown Funeral Home","2014","Funeral Director","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","J.M. Jackson Chevrolet","2014","Car Dealer","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Laird Baker & Blackstock","2014","Lawyer","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Pharm-A-Care Pharmacy","2014","Pharmacist","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Gary L Smith","CEO","Power South","2014","CEO","4291527"
+"Southern Independent Bancshares,"Inc"","Director","James H Tillman,"JR"","Owner","Andalusia Eye Clinic","2014","Optometrist","4291527"
+"Southern Independent Bancshares,"Inc"","Director","Estate of Ferris P Youmans","n/a","n/a","2014","Deecased","4291527"
+"Southern Independent Bancshares,"Inc"","n/a","Spencer Youmans","n/a","n/a","2014","Student","4291527"
+"Southern Independent Bancshares,"Inc"","n/a","Donna Youmans","n/a","n/a","2014","House Wife & Private Investor","4291527"
+```

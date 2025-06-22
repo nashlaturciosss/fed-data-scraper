@@ -1,0 +1,27 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2019","Youmans Family Trust","Common Stock","23097","1.68%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2019","Donna Youmans","Common Stock","68704","5.01%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2019","Savannah Youmans-Jones","Common Stock","9359","0.68%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2019","Spencer Youmans","Common Stock","9359","0.68%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2019","Ferris P Youmans","Common Stock","23097","1.68%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Micah J Garner","n/a","n/a","2019","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director & CEO","John D Adams","n/a","n/a","2019","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","n/a","2019","Retired Veterinarian","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Farmer","n/a","2019","Retired Veterinarian","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Owner","Andalusia Dental Group","2019","Dentist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Harden Enterprises","2019","Entrepreneur","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Norman Hobson","President","Forman Brown Funeral Home","2019","Funeral Director","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","J.M. Jackson Chevrolet","2019","Car Dealer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Laird Baker & Blackstock","2019","Lawyer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Pharm-A-Care Pharmacy","2019","Pharmacist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Gary L Smith","CEO","PowerSouth","2019","CEO","n/a"
+"Southern Independent Bancshares,"Inc"","Director","James H Tillman,"JR"","Owner","Andalusia Eye Clinic","2019","Optometrist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Donna Youmans","n/a","n/a","2019","House Wife & Private Investor","n/a"
+```

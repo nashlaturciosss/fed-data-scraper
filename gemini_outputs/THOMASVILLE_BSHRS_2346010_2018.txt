@@ -1,0 +1,38 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2018","Stephen H. Cheney","Voting Securities","293164","4.92%","234 6010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2018","Stephen H. Cheney","Restricted Stock Rights (Deferred Director Comp/Exec Stock Grant)","46264","14%","234 6010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2018","Richard L. Singletary","Voting Securities","310295","5.21%","234 6010"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2018","Richard L. Singletary","Restricted Stock Rights (Deferred Director Compensation)","38810","11%","234 6010"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville Bancshares,"Inc."","Director","Charles A Balfour","President","Balfour Timber Co.,"Inc."","2018","President,"Balfour Timber Company","Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Charles A Balfour","President","Balfour Pole Company,"LLC"","2018","President,"Balfour Timber Company","Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Charles A Balfour","Chairman","Balfour Land Company","2018","President,"Balfour Timber Company","Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","John Bannister","President","Bannister Electric Co.","2018","President Bannister Electric Co.","234 6010"
+"Thomasville Bancshares,"Inc."","Director","John Bannister","President","K & L Land,"LLC"","2018","President Bannister Electric Co.","234 6010"
+"Thomasville Bancshares,"Inc."","Director","John Bannister","President","Thomasville Service Center","2018","President Bannister Electric Co.","234 6010"
+"Thomasville Bancshares,"Inc."","Director & EVP","Joel W. Barrett","n/a","n/a","2018","EVP","234 6010"
+"Thomasville Bancshares,"Inc."","Chairman & CEO","Stephen H Cheney","n/a","n/a","2018","CEO","234 6010"
+"Thomasville Bancshares,"Inc."","Director","David A. Cone","President","Cone Machinery,"Inc."","2018","President Cone Machinery,"Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","David A. Cone","President","PDK Investments,"Inc."","2018","President Cone Machinery,"Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Charles E Hancock","Chairman","DEVHAN Holdings","2018","Orthopedic Surgeon","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Mills Herndon","Owner/Broker","First Thomasville Realty,"Inc."","2018","Owner/Broker First Thomasville Realty,"Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Mills Herndon","Partner","Cumbest Mill,"LLC"","2018","Owner/Broker First Thomasville Realty,"Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Mills Herndon","Partner","BLVD Acquisition,"LLC"","2018","Owner/Broker First Thomasville Realty,"Inc."","234 6010"
+"Thomasville Bancshares,"Inc."","Director & President","Charles H. Hodges,"III"","n/a","n/a","2018","President","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Randall L. Moore","President","Moore & Porter Produce Brokers","2018","President","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Partner & President of","Pine Landing,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Tallahassee Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Manassas Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Halleck Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Tallahassee Homes Realty,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Tallahassee Homes Residential,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Preserve Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Dahlgren Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Pedrick Homes,"LLC"","2018","Developer/Investor","234 6010"
+"Thomasville Bancshares,"Inc."","Director","Richard L Singletary,"Jr."","Member","Oak Grove Hammock,"LLC"","2018","Developer/Investor","234 6010"
+```

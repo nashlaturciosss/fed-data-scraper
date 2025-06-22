@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Bankshares,"Inc."","Statesboro,"GA"","2021","R.A. Dixon Estate","n/a","44122","65.37%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2021","George W. Strickland Jr. Foundation,"Inc."","n/a","4700","6.96%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Bankshares,"Inc."","Director","C Wayne Collins","n/a","n/a","2021","Retired","n/a"
+"Southern Bankshares,"Inc."","Director","Emmett O Daniel","President","Daniel Inc","2021","President","n/a"
+"Southern Bankshares,"Inc."","Director","Middleton A Parker","Vice President","Claxton Bakery Inc","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","Middleton A Parker","Vice President","ADMP Enterprises Inc","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","Paul E Parker","Vice President","Claxton Bakery,"Inc"","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","Paul E Parker","Vice President","ADMP Enterprises Inc","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","William Dale Parker","Vice President","Claxton Bakery,"Inc"","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","William Dale Parker","Vice President","ADMP Enterprises,"Inc"","2021","Vice President","n/a"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Pres","Canoochee Vet Assn","2021","President","n/a"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Pres","MBM-DBA Claxton Hardware","2021","President","n/a"
+"Southern Bankshares,"Inc."","Director","Jerry Lane","n/a","n/a","2021","President","n/a"
+"Southern Bankshares,"Inc."","Director","Tommy Strickland","VP","Onion City Storage","2021","Chairman of the Board","n/a"
+"Southern Bankshares,"Inc."","Director","Tommy Strickland","President","Evans Mngmt Holding Inc","2021","Chairman of the Board","n/a"
+"Southern Bankshares,"Inc."","Director","Tommy Strickland","President","Evans T & T Investments","2021","Chairman of the Board","n/a"
+"Southern Bankshares,"Inc."","CEO","Philip Williams","n/a","n/a","2021","President","n/a"
+"Southern Bankshares,"Inc."","Director","Russ Lanier","CPA","Lanier,"Deal & Proctor"","2021","Executor","n/a"
+```

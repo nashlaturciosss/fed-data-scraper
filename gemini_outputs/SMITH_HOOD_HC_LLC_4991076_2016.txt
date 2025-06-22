@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2016","Marshall T. Reynolds","n/a","1653435","21.7%","n/a"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2016","William K. Hood*","n/a","1303022","17.1%","n/a"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2016","Smith & Hood Holding Company LLC","n/a","798510","10.5%","n/a"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2016","Edgar R. Smith III*","n/a","1326732","17.4%","n/a"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2016","William K. Hood","N/A - LLC","n/a","50.0%","n/a"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2016","Edgar R. Smith III","N/A - LLC","n/a","50.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","First Guaranty Bank","2016","President of Hood Automotive Group","n/a"
+"First Guaranty Bancshares,"Inc."","CEO/President","Alton B. Lewis","CEO/President","First Guaranty Bank","2016","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","CFO,"Treasurer & Secretary"","Eric J. Dosch","Chief Financial Officer","First Guaranty Bank","2016","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Premier Financial Bancorp","2016","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Director","Summit State Bank","2016","n/a","n/a"
+"First Guaranty Bancshares,"Inc."","President","Glenda B. Glover","n/a","Champion Industries,"Inc."","2016","President,"Tennessee State University"","n/a"
+"First Guaranty Bancshares,"Inc."","Director","Edgar R. Smith","Director","First Guaranty Bank","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Smitty's Supply Inc","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Big 4 Trucking","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Big 4 Investments","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Big 4 Classic Cars","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Lion Ventures","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Smith & Hood Investments LLC","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Xeray Systems,"Ine"","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Latch Oil","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Latch Ventures","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Bobbie G's","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Smith-Hoover Investments","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Emerald Partners. LL.C","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","Smith & Hood Holding Company","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","CAM2 International,"LLC"","2016","President and CEO Smitty's Supply Inc.","n/a"
+"First Guaranty Bancshares,"Inc."","n/a","Edgar R. Smith","n/a","CAM2 Holding Company,"LLC"","2016","President and CEO Smitty's Supply Inc.","n/a"
+```

@@ -1,0 +1,21 @@
+"Here are the two CSV tables extracted from the provided document","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Touchmark Bancshares Inc.","Duluth,"GA"","2021","Dr. J.J. Shah","common stock","417079","30.06%","n/a"
+"Touchmark Bancshares Inc.","Duluth,"GA"","2021","Dr. Meena Shah","common stock","458000","11.66%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Touchmark Bancshares Inc.","Director","William D Crosby","Director","n/a","2021","Banking consultant","n/a"
+"Touchmark Bancshares Inc.","Director","Dr. Sudhirkumar Patel","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","EVP,"Chief Financial Officer"","Lynn Barron","EVP,"Chief Financial Officer"","n/a","2021","Chief Financial Officer","n/a"
+"Touchmark Bancshares Inc.","Director","Dr. Mukund C. Raja","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","Director","Dr. Dinesh V. Raju","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","Director","H.P. Rama","Director","n/a","2021","Hotel Executive","n/a"
+"Touchmark Bancshares Inc.","Director,"Chairman","CEO"","Dr. JJ Shah","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","Director","Dr. Mahendra Shah","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","Director","Dr. Meena Shah","Director","n/a","2021","Physician","n/a"
+"Touchmark Bancshares Inc.","Director,"Vice Chair"","Vivian Wong","Director,"Vice Chair"","n/a","2021","Real Estate Development","n/a"
+```

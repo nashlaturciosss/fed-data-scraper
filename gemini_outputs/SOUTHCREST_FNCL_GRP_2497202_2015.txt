@@ -1,0 +1,22 @@
+"Here are the tables extracted from the document in CSV format","following all instructions:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Rancho SanteFe,"CA"","2015","Castle Creek Capital Partners V,"LP"","n/a","505000","7.91%","n/a"
+"SouthCrest Financial Group,"Inc."","Arlington,"VA"","2015","Investment Vehicles Advised by EJF Capital","n/a","414100","6.49%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Joan Cravey","n/a","n/a","2015","N/A","n/a"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","President","Duffey Southeast,"Inc."","2015","Construction Company Owner","n/a"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Owner","Baker Timber Property,"LLC"","2015","Construction Company Owner","n/a"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Attorney","McRae,"Stegall","Peek","Harman","Smith","& Monroe","LLP"","2015","Attorney","n/a"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Director & Secretary","Pinetree Properties","2015","Attorney","n/a"
+"SouthCrest Financial Group,"Inc."","Director","Tony Scavuzzo","Principal","Castle Creek Capital","2015","Investments","n/a"
+"SouthCrest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","Owner","Wyatt Realty Company","2015","Real Estate","n/a"
+"SouthCrest Financial Group,"Inc."","Director,"Vice Chairman"","Harold W. Wyatt,"III"","Member","Wyatt Capital,"LLC"","2015","Real Estate","n/a"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Financial Officer"","David Andrew Borrmann","n/a","n/a","2015","N/A","n/a"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Accounting Officer"","Rebecca Bell","n/a","n/a","2015","N/A","n/a"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Credit Officer"","Russell Holland","n/a","n/a","2015","N/A","n/a"
+```

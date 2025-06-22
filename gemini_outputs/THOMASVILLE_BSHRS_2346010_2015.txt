@@ -1,0 +1,35 @@
+Here are the two CSV tables requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville National Bank","Thomasville,"GA"","2015","Stephen H. Cheney","Voting Securities","300180","5.08%","2346010"
+"Thomasville National Bank","Thomasville,"GA"","2015","Stephen H. Cheney","Restricted Stock Rights (Deferred Director Comp/Exec Stock Grant)","44848","n/a","2346010"
+"Thomasville National Bank","Thomasville,"GA"","2015","Richard L. Singletary","Voting Securities","305490","5.17%","2346010"
+"Thomasville National Bank","Thomasville,"GA"","2015","Richard L. Singletary","Restricted Stock Rights (Deferred Director Compensation)","37124","n/a","2346010"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville National Bank","Director/Vice Chair","Charles A Balfour","President","Balfour Timber Co.,"Inc."","2015","President","2344753"
+"Thomasville National Bank","Director","John Bannister","President","Bannister Electric Co.","2015","President","2344753"
+"Thomasville National Bank","Director","John Bannister","President","K & L Land,"LLC"","2015","President","2344753"
+"Thomasville National Bank","EVP","Joel W. Barrett","n/a","n/a","2015","n/a","2344753"
+"Thomasville National Bank","Director & CEO","Stephen H Cheney","n/a","n/a","2015","CEO","2344753"
+"Thomasville National Bank","Director","David A. Cone","President","Cone Machinery,"Inc."","2015","President","2344753"
+"Thomasville National Bank","Director","David A. Cone","President","PDK Investments,"Inc."","2015","President","2344753"
+"Thomasville National Bank","Director","Charles E Hancock","Chairman","DEVHAN Holdings","2015","Orthopedic Surgeon","2344753"
+"Thomasville National Bank","Director","Mills Herndon","Owner/Broker","First Thomasville Realty,"Inc."","2015","Owner/Broker","2344753"
+"Thomasville National Bank","Director","Mills Herndon","Partner","Cumbest Mill,"LLC"","2015","Owner/Broker","2344753"
+"Thomasville National Bank","Director","Mills Herndon","Partner","BLVD Acquisition,"LLC"","2015","Owner/Broker","2344753"
+"Thomasville National Bank","Director & EVP","Charles H. Hodges,"III"","n/a","n/a","2015","President","2344753"
+"Thomasville National Bank","Director","Harold Jackson","President","Petroleum Products","2015","President","2344753"
+"Thomasville National Bank","Director","Randall L. Moore","President","Moore & Porter Produce Brokers","2015","President","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","Partner & President of","Pine Landing,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","Member","Tallahassee Homes,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Alligator Point Homes,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Manassas Homes,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Halleck Homes,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Tallahassee Homes Realty,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Tallahassee Homes Residential,"LLC"","2015","Developer/Investor","2344753"
+"Thomasville National Bank","Director/Chairman","Richard L Singletary,"Jr."","n/a","Preserve Homes,"LLC"","2015","Developer/Investor","2344753"
+```

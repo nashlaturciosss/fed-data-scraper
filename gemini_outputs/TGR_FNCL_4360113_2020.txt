@@ -1,0 +1,38 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2020","John Rodgers,"LP"","n/a","1355737","7.67%"
+"TGR FINANCIAL,"INC."","New York,"NY"","2020","Endicott Group","n/a","1355737","7.67%"
+"TGR FINANCIAL,"INC."","Atlanta,"GA"","2020","GMT Capital Group","n/a","2673503","15.13%"
+"TGR FINANCIAL,"INC."","New York,"NY"","2020","Lightyear Group","n/a","1552783","8.79%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TGR FINANCIAL,"INC."","Director","Adam D. Compton","Director","iCount Systems LLC","2020","Investment Specialist"
+"TGR FINANCIAL,"INC."","Director","Adam D. Compton","Managing Partner","Petros Partners LLC","2020","Investment Specialist"
+"TGR FINANCIAL,"INC."","Director","Dulce V. Dudley","n/a","Lighthouse Pediatrics of Naples","2020","Partner","n/a"
+"TGR FINANCIAL,"INC."","Chairman","Robert M. Feerick","Chairman","Xymox Technologies,"Inc."","2020","Chairman & CEO","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","W.R. Endicott III","2020","Vice President","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","W.R. Endicott IV","2020","Vice President","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","W.R.E. SPV I LLC","2020","Vice President","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Investor","Endicott SPV I LP","2020","Vice President","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","EGE GP,"LLC"","2020","Vice President","n/a"
+"TGR FINANCIAL,"INC."","Director","John J. Guinee","Managing Partner","Constitution Capital Partners,"LLC"","2020","Managing Partner","n/a"
+"TGR FINANCIAL,"INC."","Director","Michael J. Kerschner","Commissioner","Free I LLC","2020","Commissioner","n/a"
+"TGR FINANCIAL,"INC."","Director","Bradford B. Kopp","Director","Radius Bank","2020","Retired","n/a"
+"TGR FINANCIAL,"INC."","Director","James S. Lindsay","Partner","Dor-J's LLP","2020","Realtor","n/a"
+"TGR FINANCIAL,"INC."","Director","James S. Lindsay","Partner","720 Commons LLC","2020","Realtor","n/a"
+"TGR FINANCIAL,"INC."","Director","Edward J. Mace","Chief Operating Officer","Ribek Corporation","2020","Self Employed","n/a"
+"TGR FINANCIAL,"INC."","Director","Donald W. Major","n/a","n/a","2020","Retired","n/a"
+"TGR FINANCIAL,"INC."","SEVP & Chief Financial Officer","Robert T. Reichert","n/a","n/a","2020","Chief Administrative Officer","n/a"
+"TGR FINANCIAL,"INC."","Director & President","Garrett S. Richter","n/a","n/a","2020","President & Chief Executive Officer","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","ProSource of Oklahoma City","2020","Chairman","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","ProSource of OKC Properties,"LLC"","2020","Chairman","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","Roy Tice Enterprises","2020","Chairman","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","Jokama Wholesale Flooring","2020","Chairman","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","CGT Wholesale Flooring","2020","Chairman","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Tamiami Ford / Tamiami Hyundai","2020","President","n/a"
+"TGR FINANCIAL,"INC."","n/a","GMT Capital Group","n/a","n/a","2020","n/a","n/a"
+```

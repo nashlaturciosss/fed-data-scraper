@@ -1,0 +1,26 @@
+"Here are the two CSV tables extracted from the document","formatted as requested:"
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2018","Dr. J.J. Shah","common stock","908795","28.40%","n/a"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2018","Dr. J.J. Shah","Warrants/options","17122","n/a","n/a"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2018","Dr. Meena Shah","common stock","o","8.72%","n/a"
+"Touchmark Bancshares,"Inc."","Duluth,"Georgia"","2018","Dr. Meena Shah","Warrants/options","5456","n/a","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Touchmark Bancshares,"Inc."","Director","William D Crosby","Director","Bank Organization & Structure,"LLC"","2018","Banking consultant","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Sudhirkumar Patel","Director","n/a","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","EVP,"Chief Financial Officer"","Kellie Pressnall","EVP,"Chief Financial Officer"","n/a","2018","Chief Financial Officer","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mukund C. Raja","Director","Dr. M. Raja & Associates,"Inc."","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Dinesh V. Raju","Director","n/a","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","H.P. Rama","Director","JHM Enterprises Associates","2018","Hotel Executive","n/a"
+"Touchmark Bancshares,"Inc."","Director","H.P. Rama","Director","JHM Enterprises,"Inc."","2018","Hotel Executive","n/a"
+"Touchmark Bancshares,"Inc."","Director,"Chairman","CEO"","Dr. JJ Shah","Director","n/a","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Director","Metro Behavorial Care. LLC","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Director","Yogiraj Family Ltd Partnership","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Mahendra Shah","Director","Yogiraj Management Co","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director","Dr. Meena Shah","Director","n/a","2018","Physician","n/a"
+"Touchmark Bancshares,"Inc."","Director,"Vice Chair"","Vivian Wong","Director,"Vice Chair"","n/a","2018","Real Estate Development","n/a"
+```

@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Promise One Bancorp,"Inc."","Alpharetta,"GA"","2021","James Cho","Common Stock","431250","6.92%","n/a"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2021","Francis D. Kim","Common Stock","406750","6.53%","n/a"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2021","Gina Kim","Common Stock","312000","5.01%","n/a"
+"Promise One Bancorp,"Inc."","Duluth,"GA"","2021","Dohyung Lim","Common Stock","376391","6.04%","n/a"
+"Promise One Bancorp,"Inc."","Englewood,"NJ"","2021","Younsung Kim","Common Stock","727555","11.67%","n/a"
+"Promise One Bancorp,"Inc."","New York,"NY"","2021","Young A. Sohn","Common Stock","316950","5.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Promise One Bancorp,"Inc."","Chairman / Director","James Cho","President","Am-Ko Building Maintenance Inc.","2021","Business Owner","n/a"
+"Promise One Bancorp,"Inc."","Director","Francis D. Kim","President","FJAR Property,"LLC"","2021","Business Owner","n/a"
+"Promise One Bancorp,"Inc."","Director","Yoonsung Kim","CEO","European Optical Corp","2021","Optometrist","n/a"
+"Promise One Bancorp,"Inc."","Director","Jong K. (Jake) Lee","Director","Unlimited PCS","2021","Business Owner","n/a"
+"Promise One Bancorp,"Inc."","Director","Dohyung (Daniel) Lim","President","Twin Peak International","2021","Business Owner","n/a"
+"Promise One Bancorp,"Inc."","Director","Bong U. (Peter) Nam","n/a","n/a","2021","Retired","n/a"
+"Promise One Bancorp,"Inc."","Director","Young A. Sohn","n/a","n/a","2021","Retired","n/a"
+"Promise One Bancorp,"Inc."","CEO & President","DongJun (Sean) Kim","n/a","n/a","2021","n/a","n/a"
+"Promise One Bancorp,"Inc."","EVP & Chief Financial Officer","Tammy Jang","n/a","n/a","2021","n/a","n/a"
+"Promise One Bancorp,"Inc."","EVP & Chief Credit Officer","Soo Song","n/a","n/a","2021","n/a","n/a"
+"Promise One Bancorp,"Inc."","EVP & Chief Operations Administrator","Hyelee Yoon","n/a","n/a","2021","n/a","n/a"
+```

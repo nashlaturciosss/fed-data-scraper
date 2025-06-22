@@ -1,0 +1,21 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"COMMERCIAL BANK","Crawford,"GA"","2018","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","13.02%","n/a"
+"COMMERCIAL BANK","Crawford,"GA"","2018","Bobby D. or Anita B. Cook","Common Stock","7196","10.75%","n/a"
+"COMMERCIAL BANK","Lexington,"GA"","2018","Marion C. Johnson","Common Stock","5452","8.15%","n/a"
+"COMMERCIAL BANK","Athens,"GA"","2018","Robbie B. Paine Living Trust","Common Stock","4716","7.05%","n/a"
+"COMMERCIAL BANK","Maxeys,"GA"","2018","Kathryn R. Cabaniss","Common Stock","3988","5.96%","n/a"
+"COMMERCIAL BANK","Colbert,"GA"","2018","Edwin R. Hart","Common Stock","3563","5.32%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"COMMERCIAL BANK","Director Secretary to Board","William M. Cabaniss","n/a","n/a","2018","Retired","n/a"
+"COMMERCIAL BANK","Lead Director","Bobby D. Cook or Anita B. Cook","Owner","Cook Builders","2018","Home Builder","n/a"
+"COMMERCIAL BANK","Director","Robert C. Johnson","n/a","n/a","2018","Retired","n/a"
+"COMMERCIAL BANK","President and CEO Director","Michael D. Sale","n/a","n/a","2018","Banker","n/a"
+"COMMERCIAL BANK","Director Compliance Officer","Robbie B. Paine Living Trust","n/a","n/a","2018","Banker","n/a"
+"COMMERCIAL BANK","n/a","Charles C. Brooks,"Jr."","Owner","Just-In Motor Company,"LLC"","2018","Car Dealer","n/a"
+"COMMERCIAL BANK","Director","Joseph D. Taylor,"Jr"","Managing Director/Partner","The Avenue Wealth Management Group","2018","Investment Advisor","n/a"
+```

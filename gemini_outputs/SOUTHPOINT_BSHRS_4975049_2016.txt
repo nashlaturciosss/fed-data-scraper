@@ -1,0 +1,24 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2016","J. Stephen Smith*","Common Stock","195450","9.65%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2016","J. Stephen Smith*","Options on Common Stock","60000","2.96%","n/a"
+"SouthPoint Bancshares,"Inc."","Vestavia,"AL"","2016","Charlotte B. Smith*","Common Stock","3005","0.15%","n/a"
+"SouthPoint Bancshares,"Inc."","Chicago,"IL"","2016","Starboard Fund for New Bancs,"LP"","Common Stock","190026","9.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthPoint Bancshares,"Inc."","Director,"Chairman","President & CEO"","J. Stephen Smith*","Director,"Chairman","President & CEO"","SouthPoint Bank","2016","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","n/a","Charlotte B. Smith*","n/a","n/a","2016","n/a","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Robert L. Henderson","Director","SouthPoint Bank","2016","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Director","SouthPoint Bank","2016","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Christopher B. Harmon","Director","Surgical Dermatology Group","2016","Dermatologist","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","VP of Finance","Thompson Tractor Co.,"Inc."","2016","Equipment Dealer","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Thomas H. McGough","Director","SouthPoint Bank","2016","Equipment Dealer","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","SouthPoint Bank","2016","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","Tommie G. Cummings","CPA,"Director"","Kassouf & Company,"P.C."","2016","CPA","n/a"
+"SouthPoint Bancshares,"Inc."","Director","David W. Mims","Director","SouthPoint Bank","2016","Retired","n/a"
+"SouthPoint Bancshares,"Inc."","CFO & Secretary","Robin Trimm","CFO & Secretary","SouthPoint Bank","2016","n/a","n/a"
+```

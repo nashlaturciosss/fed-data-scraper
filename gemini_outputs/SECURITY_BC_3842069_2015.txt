@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2015","Joe H. Pugh","Common Stock","40318","10.46%","3842069"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2015","Robert W. Newman","Common Stock","20118","5.22%","3842069"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Bancorp,"Inc."","Director & President/CEO","Joe H. Pugh","n/a","n/a","2015","n/a","n/a"
+"Security Bancorp,"Inc."","Director & Chairman","Robert W. Newman","Partner","Galligan & Newman Atty","2015","Attorney","n/a"
+"Security Bancorp,"Inc."","Director & Exec Vice President","Larry E. Brown","n/a","n/a","2015","n/a","n/a"
+"Security Bancorp,"Inc."","Director","Ray (""Buzz"") Spivey,"Jr."","President","Cumberland Lumber & Mfg,"Inc."","2015","Cumberland Lumber & Mfg,"Inc."","n/a"
+"Security Bancorp,"Inc."","Director","Thomas Foster","Owner","Foster & Foster Realty","2015","Foster & Foster Realty and Auction Company","n/a"
+"Security Bancorp,"Inc."","Director","Herschel Wells,"Jr."","Owner","Tennessee Warehouse and Dist.","2015","Tennessee Warehouse and Distribution","n/a"
+"Security Bancorp,"Inc."","n/a","Danny Martin","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Ken Martin","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Barbara A. Page","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Sherry Clendenon","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Angela Brown","Chief Financial Officer","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Michael Griffith","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+"Security Bancorp,"Inc."","n/a","Kelly Basham","Sr. Vice President","n/a","2015","Security Federal Savings Bank","n/a"
+```

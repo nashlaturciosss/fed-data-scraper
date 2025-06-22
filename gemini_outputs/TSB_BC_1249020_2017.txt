@@ -1,0 +1,23 @@
+"Here are the two tables in CSV format","based on the provided document."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2017","Edgar E. Chapman,"Jr."","Common Stock","101","50.2488%","1249020"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2017","Samuel P. Chapman","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Wildwood,"MO"","2017","Edgar Wright Chapman","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Dothan,"AL"","2017","Barbara C. Haas","Common Stock","25","12.4378%","1249020"
+"TSB Bancorp,"Inc."","Peachtree City,"GA"","2017","Mary C. Chapman","Common Stock","25","12.4378%","1249020"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TSB Bancorp,"Inc."","Chairman of the Board,"CEO & President"","Edgar E. Chapman,"Jr."","Ex Officio Chairman of the Board","Talbot State Bank","2017","n/a","1249020"
+"TSB Bancorp,"Inc."","Director,"Vice Chairman & Vice President"","James T. Davidson","Director,"Chairman of the Board & CEO"","Talbot State Bank","2017","n/a","1249020"
+"TSB Bancorp,"Inc."","Director & Secretary/Treasurer","Kenneth Chapman","Director & President","Talbot State Bank","2017","Retired","1249020"
+"TSB Bancorp,"Inc."","Director","Darrell Moore","Director","Talbot State Bank","2017","n/a","1249020"
+"TSB Bancorp,"Inc."","n/a","Samuel P. Chapman","n/a","n/a","2017","Real Estate Agent","1249020"
+"TSB Bancorp,"Inc."","Director","Nancy T. Miles","Director","Talbot State Bank","2017","Retired","1249020"
+"TSB Bancorp,"Inc."","n/a","Edgar Wright Chapman","n/a","n/a","2017","Electrical Engineer","1249020"
+"TSB Bancorp,"Inc."","n/a","Barbara C. Haas","n/a","n/a","2017","Student/Homemaker","1249020"
+"TSB Bancorp,"Inc."","Director","Mary C. Chapman","Director","Talbot State Bank","2017","n/a","1249020"
+```

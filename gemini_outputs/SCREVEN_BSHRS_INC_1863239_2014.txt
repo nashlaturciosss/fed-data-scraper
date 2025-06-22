@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2014","MARY H. BLACKBURN","COMMON STOCK","4100","5.42%","n/a"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2014","CHARLES D. REED","COMMON STOCK","5859","7.75%","n/a"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2014","DONALD O. SHEPPARD","COMMON STOCK","4228","5.59%","n/a"
+"Screven Bancshares,"Inc."","Sylvania,"GA"","2014","RUTH B. BAZEMORE","COMMON STOCK","4564","6.03%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Screven Bancshares,"Inc."","Director,"President"","James W. Adam-","n/a","n/a","2014","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","Director,"President"","James W. Adam-","n/a","Farmers and Merchants Bank","2014","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","Director","Mary H. Blackburn","n/a","n/a","2014","Reitred","n/a"
+"Screven Bancshares,"Inc."","Director","Otis M. Chivers","n/a","n/a","2014","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","Otis M. Chivers","n/a","Farmers and Merchants Bank","2014","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2014","Real Estate","n/a"
+"Screven Bancshares,"Inc."","Director","William C. Lord","Owner","Farmers and Merchants Bank","2014","Real Estate","n/a"
+"Screven Bancshares,"Inc."","Director","R.J. Martin,"III"","n/a","n/a","2014","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","R.J. Martin,"III"","n/a","Farmers and Merchants Bank","2014","Retired","n/a"
+"Screven Bancshares,"Inc."","Director","Charles D. Reed","President","David W. Reed Co.","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Charles D. Reed","Partner","Whitehill Farm","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Charles D. Reed","n/a","Farmers and Merchants Bank","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Donald O. Sheppard","President and Shareholder","Sheppard Brothers Gas Co.","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Donald O. Sheppard","President and Shareholder","Sheppards' Livestock","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Donald O. Sheppard","President and Shareholder","Dostan Farms","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","Director","Donald O. Sheppard","n/a","Farmers and Merchants Bank","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","n/a","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","n/a","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","n/a","David P. Boddiford","n/a","Farmers and Merchants Bank","2014","CEO","n/a"
+"Screven Bancshares,"Inc."","n/a","Ruth B. Bazemore","Owner","Professional Insurance Agency","2014","Insurance Broker","n/a"
+"Screven Bancshares,"Inc."","Director,"Executive Vice President"","Hoke S. Reeves,"III"","n/a","n/a","2014","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","Director,"Executive Vice President"","Hoke S. Reeves,"III"","n/a","Farmers and Merchants Bank","2014","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","Director","David Burke","Manager","Koyo Bearings Plant","2014","Plant manager","n/a"
+"Screven Bancshares,"Inc."","Director","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2014","Insurance Co. Certified Public Accountant","n/a"
+"Screven Bancshares,"Inc."","Director","Hoke S. Reeves,"III"","n/a","n/a","2014","Bank Officer","n/a"
+"Screven Bancshares,"Inc."","Director","Hoke S. Reeves,"III"","n/a","Farmers and Merchants Bank","2014","Bank Officer","n/a"
+```

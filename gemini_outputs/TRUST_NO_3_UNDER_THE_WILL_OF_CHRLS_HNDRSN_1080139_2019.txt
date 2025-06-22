@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Henderson Bancshares","Troy,"AL"","2019","Trust 3 Under the Will of Charles Henderson","n/a","204488","51.12%","134437"
+"Henderson Bancshares","Troy,"AL"","2019","Corley Chapman,"Jr.Estate"","n/a","22500","5.63%","134437"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Sherrill E. Crowe","Director: Troy Bank & Trust","Crowco Inc","2019","Real Estate Investments","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Dr. Jack Hawkins,"Jr."","Director: Troy Bank & Trust","n/a","2019","Chancellor,"Troy State University"","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","N. Kenneth Campbell","Director: Troy Bank & Trust","K &W Plastics Inc.","2019","President,"K &W Plastics"","134437"
+"Henderson Bancshares","Vice Chairman & Director,"Henderson Bancshares"","Alex Whaley","President,"Whaley Construction"","Whaley Construction","2019","General Contractor","134437"
+"Henderson Bancshares","Chief Financial Officer,"Henderson Bancshares"","Jeff Bentley","CFO,"EVP Troy Bank & Trust"","n/a","2019","n/a","134437"
+"Henderson Bancshares","Chief Executive Officer & Director,"Henderson Bancshares"","Jeff Kervin","President,"Phelker Investments Inc"","Phelker Investments Inc","2019","n/a","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","W.G. Sellers","Director: Troy Bank & Trust","Sellers,"Inc"","2019","Timber Investments","134437"
+"Henderson Bancshares","Director,"Henderson Bancshares"","Allen C. Jones","Attorney at Law","n/a","2019","Attorney","134437"
+"Henderson Bancshares","n/a","Gayla Kinney","COO,"EVP Troy Bank & Trust"","n/a","2019","n/a","134437"
+"Henderson Bancshares","n/a","William D (Bo) Coppage","EVP,"Loan Officer","Troy Bank & Trust"","n/a","2019","n/a","134437"
+"Henderson Bancshares","n/a","Trust 3 Under the Will of Charles Henderson","n/a","n/a","2019","Trust","134437"
+"Henderson Bancshares","n/a","Tenise Owens","Senior Trust Officer EVP,"Troy Bank & Trust"","n/a","2019","n/a","134437"
+```

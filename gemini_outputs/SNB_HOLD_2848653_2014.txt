@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Friend Bank","Dothan,"Alabama"","2014","Marjorie H. Harris","Common Stock","136","22.59%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","David Lawrence Harris Trust","Common Stock","127","21.10%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","Hope H. Johnson","Common Stock","270","44.85%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","Joseph Johnson","Common Stock","23","3.82%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","J.H.","Common Stock","4","0.66%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","Lawrence H.","Common Stock","4","0.66%","2848653"
+"Friend Bank","Dothan,"Alabama"","2014","James H.","Common Stock","4","0.66%","2848653"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Friend Bank","Director","Marjorie H. Harris","n/a","n/a","2014","n/a","n/a"
+"Friend Bank","Director & Chairman","Hope H. Johnson","Trustee","Malone Trusts","2014","n/a","n/a"
+"Friend Bank","n/a","David Lawrence Harris Trust","n/a","n/a","2014","n/a","n/a"
+"Friend Bank","Director","Judson Brooks","n/a","n/a","2014","n/a","n/a"
+"Friend Bank","Director & Vice CH","Joe Dalton","President","Dalton Drug Co,"Inc."","2014","Director of Pharmacy,"Flowers Hospital"","n/a"
+"Friend Bank","n/a","Joe Dalton","President","Dalton Properties","2014","Director of Pharmacy,"Flowers Hospital"","n/a"
+"Friend Bank","n/a","Joe Dalton","President","Abbeville Pharmacy","2014","Director of Pharmacy,"Flowers Hospital"","n/a"
+"Friend Bank","Director","Paul Hufham","President","Healthwest Dental","2014","Dentist,"Healthwest Dental"","n/a"
+"Friend Bank","Director & Sec","Joseph Johnson","n/a","n/a","2014","n/a","n/a"
+```

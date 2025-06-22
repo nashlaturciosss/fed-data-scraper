@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2018","Estate of Ferris P Youmans","Common Stock","23097","1.70%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2018","Donna Youmans","Common Stock","65884","4.84%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2018","Spencer Youmans","Common Stock","9359","0.687%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Micah J Garner","n/a","n/a","2018","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director & CFO","John D Adams","n/a","n/a","2018","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","n/a","2018","Veterinarian","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Owner","Andalusia Dental Group","2018","Dentist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Harden Enterprises","2018","Entrepreneur","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Norman Hobson","President","Forman Brown Funeral Home","2018","Funeral Director","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","J.M. Jackson Chevrolet","2018","Car Dealer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Laird Baker & Blackstock","2018","Lawyer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Pharm-A-Care Pharmacy","2018","Pharmacist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Gary L Smith","CEO","Power South","2018","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director","James H Tillman,"JR"","Owner","Andalusia Eye Clinic","2018","Optometrist","n/a"
+"Southern Independent Bancshares,"Inc"","n/a","Estate of Ferris P Youmans","n/a","n/a","2018","Deceased","n/a"
+"Southern Independent Bancshares,"Inc"","n/a","Spencer Youmans","n/a","n/a","2018","Police Officer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Donna Youmans","n/a","n/a","2018","House Wife & Private Investor","n/a"
+```

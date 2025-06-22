@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Quantum Capital Corporation","Atlanta,"Georgia"","2018","Infinity Trust","Common Stock","481711","83.90%","n/a"
+"Quantum Capital Corporation","Alpharetta,"Georgia"","2018","Narasimhulu Neelaguru,"M.D"","Common Stock","92326","16.08%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Quantum Capital Corp","n/a","Infinity Trust","n/a","n/a","2018","n/a","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Chairman","Commerce Cardiology","2018","Cardiologist","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Owner","North Georgia Cardiology,"PC"","2018","Cardiologist","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Owner","Sandy Creek Ranch,"LLC"","2018","Cardiologist","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Owner","335 Lake Vista Lane,"LLC"","2018","Cardiologist","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Owner","335 Lake Vista Lane Number Two,"LLC"","2018","Cardiologist","n/a"
+"Quantum Capital Corp","Chairman & CEO","Narasimhulu Neelaguru","Owner","2817 Mabry Road,"NE","LLC"","2018","Cardiologist","n/a"
+"Quantum Capital Corp","President","Bryan Cohen","CEO","Quantum National Bank","2018","n/a","n/a"
+"Quantum Capital Corp","n/a","Brad Day","President","Quantum National Bank","2018","n/a","n/a"
+"Quantum Capital Corp","EVP,"Secretary & CFO"","Dana Litman","EVP,"Secretary","CFO & CRO"","Quantum National Bank","2018","n/a","n/a"
+```

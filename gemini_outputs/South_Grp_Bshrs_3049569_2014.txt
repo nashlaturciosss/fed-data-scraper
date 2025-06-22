@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Group Bancshares","Glennville,"GA"","2014","Michael C. Crummey","Common Stock","19932","9.26%","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Jackie Dasher","Common Stock","13975","6.49%","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Jackie Dasher","Options","1500","n/a","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Jimmy Dubberly","Common Stock","8104","3.76%","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Jimmy Dubberly","Options","7500","n/a","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Bran Thompson","Common Stock","15460","7.18%","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Bran Thompson","Options","7500","n/a","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Edward L. Nelson","Common Stock","17540","8.15%","3049569"
+"South Group Bancshares","Glennville,"GA"","2014","Edward L. Nelson","Options","1500","n/a","3049569"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares","President,"CEO and Director"","Jimmy Dubberly","Director and President CEO","South Georgia","2014","n/a","3049569"
+"South Group Bancshares","Director","J. Troy Rahn","Director","South Georgia","2014","Dentist","3049569"
+"South Group Bancshares","Director","B. Branford Thompson","Director","South Georgia","2014","n/a","3049569"
+"South Group Bancshares","Director","Gregory J. Woolard","Owner","Convenience","2014","Owner of Convenience Stores and Oil Wholesaler","3049569"
+"South Group Bancshares","Director","Clyde M. Woolard,"Jr."","Owner","Convenience","2014","Owner of Convenience Stores and Oil Wholesaler","3049569"
+"South Group Bancshares","Director","B. Branford Thompson","Owner","Coastal Wood Products","2014","n/a","3049569"
+```

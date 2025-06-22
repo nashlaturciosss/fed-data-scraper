@@ -1,0 +1,13 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2022","Mrs. Betty Sikes Exley","n/a","16531","14.73%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2022","William J. Exley,"Jr."","n/a","16531","14.73%","n/a"
+"Southern Bankshares,"Inc."","Claxton,"GA"","2022","Paul and Betty Exley Foundation,"Inc."","n/a","11980","10.68%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Bankshares,"Inc."","CEO & Director","Philip G. Williams","n/a","n/a","2022","n/a","n/a"
+"Southern Bankshares,"Inc."","Treasurer","Valree J. Holton","n/a","n/a","2022","n/a","n/a"
+```

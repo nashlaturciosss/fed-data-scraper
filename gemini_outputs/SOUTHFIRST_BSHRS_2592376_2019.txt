@@ -1,0 +1,17 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthFirst Bancshares","Tuscaloosa,"Al."","2019","Luther S. Pate,"IV"","common stock","70850","10.1%","n/a"
+"SouthFirst Bancshares","Chevy Chase,"Md."","2019","Robert J. Salmon and Mary Anne Salmon","n/a","172851","24.64%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthFirst Bancshares","Director","Sidney Tankersley","n/a","n/a","2019","Manufacturer","n/a"
+"SouthFirst Bancshares","Chairman,"Director"","Allen Gray McMillan","n/a","Brecon Knitting Mills","2019","Manufacturing Textiles","n/a"
+"SouthFirst Bancshares","Director","Ronnie G. Salloway","President","Ronnie Salloway & Co.","2019","Clothing Manufacturer","n/a"
+"SouthFirst Bancshares","Director,"CEO"","Randall L. Fields","n/a","n/a","2019","n/a","n/a"
+"SouthFirst Bancshares","Director","J. Bradley Proctor","Partner","Proctor Vaughn LLC","2019","Attorney","n/a"
+"SouthFirst Bancshares","Director","Rocky W. Jackson","President","RW Jackson & Company PC","2019","CPA-Tax Accountant","n/a"
+"SouthFirst Bancshares","n/a","Luther S. Pate,"IV"","President","Pate Holdings","2019","Developer","n/a"
+```

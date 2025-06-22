@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tampa Bay Banking Company","Tampa,"USA"","2019","James L. Ferman,"Jr."","Common Stock","282591","11.725%","n/a"
+"Tampa Bay Banking Company","Tampa,"USA"","2019","WRB Enterprises,"Inc."","Common Stock","228191","9.468%","n/a"
+"Tampa Bay Banking Company","Tampa,"USA"","2019","The Bank of Tampa Employee Stock Ownership Plan","Common Stock","147007","6.100%","n/a"
+"Tampa Bay Banking Company","Tampa,"USA"","2019","A. Gerald Divers","Common Stock","136327","5.656%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tampa Bay Banking Company","Chairman,"Chairman- The Bank of Tampa"","James L. Ferman,"Jr."","Chairman","Ferman Motor Car Company","2019","CEO & President - Ferman Motor Car Company","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","G. Robert Blanchard,"Jr."","President","WRB Enterprises,"Inc."","2019","President - WRB Enterprises,"Inc."","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Gregory J. Celestan","CEO","Celestar Corporation","2019","CEO - Celestar Corporation","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Cathy M. Collins","President & CEO","Clinical Consulting Solutions","2019","President & CEO - Clinical Consulting Solutions","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Brett D. Divers","Vice President & Managing Partner","Mills Paskert Divers","2019","Vice President & Managing Partner - Mills Paskert Divers","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Gary W. Harrod","CEO","Harrod Properties,"Inc."","2019","CEO - Harrod Properties,"Inc."","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Oscar J. Horton","President","Sun State International Trucks,"LLC"","2019","President - Sun State International Trucks,"LLC"","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","A.D. MacKinnon","CEO","ADM Ventures,"Inc."","2019","CEO - ADM Ventures,"Inc."","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Judy A. Mitchell","Retired","n/a","2019","Retired","n/a"
+"Tampa Bay Banking Company","Director,"Director - The Bank of Tampa"","Paul L. Whiting","CEO","Seabreeze Holdings,"Inc."","2019","CEO - Seabreeze Holdings,"Inc."","n/a"
+"Tampa Bay Banking Company","Director,"President/CEO","Director","President/CEO - Bank of Tampa; Chairman - TBC Insurance","Inc.; Chairman - Florida Investment Advisors","Inc."","William O. West III","Banker","n/a","2019","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CAO,"Executive Vice President - The Bank of Tampa; Director - Florida Investment Advisors","Inc."","Richard L. Junkermann","Banker","n/a","2019","Banker","n/a"
+"Tampa Bay Banking Company","Executive Vice President/CFO,"Executive Vice President - The Bank of Tampa"","Susan K. Miller","Banker","n/a","2019","Banker","n/a"
+"Tampa Bay Banking Company","Vice President Chief Accounting Officer,"Senior Vice President - The Bank of Tampa; Director - TBC Insurance","Inc.; Director - Florida Investment Advisors","Inc."","Ronald V. Hernandez","Banker","n/a","2019","Banker","n/a"
+```

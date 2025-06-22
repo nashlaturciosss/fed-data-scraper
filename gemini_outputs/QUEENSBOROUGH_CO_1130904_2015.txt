@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Queensborough Company","Wadley,"GA"","2015","Estate of Wayne Battle","common shares","75235","5.88%","n/a"
+"The Queensborough Company","Louisville,"GA"","2015","Lillian A. Easterlin","common shares","189610","14.82%","n/a"
+"The Queensborough Company","Louisville,"GA"","2015","William F. Easterlin,"III"","common shares","81328","6.36%","n/a"
+"The Queensborough Company","Wrens,"GA"","2015","Robert Brian Lewis","common shares","76789","6.00%","n/a"
+"The Queensborough Company","n/a","2015","N/A","common shares","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Queensborough Company","n/a","Lillian A. Easterlin","Principal Shareholder","n/a","2015","Retired","n/a"
+"The Queensborough Company","n/a","Louisa Abbot","Superior Ct. Judge","n/a","2015","Director","n/a"
+"The Queensborough Company","n/a","Jeremiah Ashcroft","College President","n/a","2015","Director","n/a"
+"The Queensborough Company","President,"CEO","Director"","W.F. Easterlin,"III"","n/a","Louisville Storage & Loan Co.","2015","Chairman,"CEO","Director"","n/a"
+"The Queensborough Company","Director","Tommy Jones","n/a","Jones,"Jones","Davis and Associates","CPA","PC"","2015","CPA Public Accounting","n/a"
+"The Queensborough Company","Director","Sam S. Pennington","n/a","Pennington Farms,"Inc."","2015","Farmer","n/a"
+"The Queensborough Company","CFO,"VP","Director"","D. Phillips Polhill","Director,"CEO"","Louisville Storage & Loan Co.,"Inc."","2015","n/a","n/a"
+"The Queensborough Company","n/a","Edith W. Pundt","n/a","n/a","2015","Director","n/a"
+"The Queensborough Company","n/a","Julie Evans","n/a","n/a","2015","Corporate Secretary","n/a"
+```

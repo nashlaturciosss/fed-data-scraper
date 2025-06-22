@@ -1,0 +1,24 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided document","formatted according to your specifications:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bank","Glennville,"Georgia"","2015","Michael C. Crummey","Common Stock","16000","7.342%","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Jackie Dasher","Common Stock","13975","6.413%","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Jackie Dasher","Options","1500","n/a","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Jimmy Dubberly","Common Stock","14306","6.565%","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Jimmy Dubberly","Options","7500","n/a","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Bran Thompson","Common Stock","17926","8.226%","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Bran Thompson","Options","7500","n/a","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Edward L. Nelson","Common Stock","15790","7.246%","3049569"
+"South Georgia Bank","Glennville,"Georgia"","2015","Edward L. Nelson","Options","1500","n/a","3049569"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bank","President,"CEO and Director"","Jimmy Dubberly","Chm of Board","South Georgia Bank","2015","n/a","3049569"
+"South Georgia Bank","Director","J. Troy Rahn","Director Emeritus","South Georgia Bank","2015","Dentist","3049569"
+"South Georgia Bank","Director","B. Branford Thompson","CEO and Director","South Georgia Bank","2015","n/a","3049569"
+"South Georgia Bank","Director","B. Branford Thompson","Owner","Coastal Wood Products","2015","n/a","3049569"
+"South Georgia Bank","Director","Dale Dutton","n/a","n/a","2015","Tattnall County Tax Commissioner","3049569"
+"South Georgia Bank","Director","Jackie Dasher","n/a","n/a","2015","Farmer","3049569"
+```

@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2014","Stratton Lewis","n/a","4750","11.60%","3346745"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2014","Mary Jane Loftin","n/a","6750","16.46%","3346745"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2014","Paul & Betty Owensby","n/a","5000","12.20%","3346745"
+"Tombigbee Bancshares,"Inc."","Sweet Water,"AL"","2014","Jack O. Kerby","n/a","3000","7.32%","3346745"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tombigbee Bancshares,"Inc."","Director & Chairman","Stratton F. Lewis. Jr.","President & CEO","Sweet Water State Bank","2014","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","Director & Vice Chairman","Mary Jane Loftin","Sr. Vice President","Sweet Water State Bank","2014","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","n/a","Paul & Betty Owensby","n/a","n/a","2014","Retired","n/a"
+"Tombigbee Bancshares,"Inc."","Director","Jack O. Kerby. Sr.","n/a","n/a","2014","Retired","n/a"
+"Tombigbee Bancshares,"Inc."","Director","James Lewis","Employee","River City Ind","2014","Businessman River City Ind","n/a"
+"Tombigbee Bancshares,"Inc."","Director","Pat Young","Owner","Young Timber Enterprises","2014","Businessman IP Young Enterprises","n/a"
+"Tombigbee Bancshares,"Inc."","Director","A.W. Compton,"Jr."","Owner","Compton Cattle & Store","2014","Businessman Compton Cattle & Store","n/a"
+"Tombigbee Bancshares,"Inc."","Director","S. Ford Lewis,"III"","Executive V Pres.","Sweet Water State Bank","2014","n/a","n/a"
+"Tombigbee Bancshares,"Inc."","Director & Secretary","J. Olen Kerby. Jr.","Senior Executive Vice President","Sweet Water State Bank","2014","n/a","n/a"
+```

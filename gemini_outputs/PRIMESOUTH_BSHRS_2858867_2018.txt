@@ -1,0 +1,21 @@
+"Here are the requested CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PrimeSouth Bank","Tallassee,"AL"","2018","Martha (Bobby) Hardy","common stock","16030","6.40%","209830"
+"PrimeSouth Bank","Birmingham,"AL"","2018","G. David Johnson","common stock","16000","6.39%","209830"
+"PrimeSouth Bank","Birmingham,"AL"","2018","Robert L Pike","common stock","37662","15.03%","209830"
+"PrimeSouth Bank","Birmingham,"AL"","2018","RLP 2012 Children's Trust","common stock","27847","11.11%","209830"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PrimeSouth Bank","Director,"CEO"","David W. Baggett,"Jr."","Director & CEO","PrimeSouth Bank","2018","Banker","209830"
+"PrimeSouth Bank","Director,"Secretary"","Lee S. Greer","Director,"Secretary"","PrimeSouth Bank","2018","CFO/Hospital","209830"
+"PrimeSouth Bank","n/a","Warren Eugene Lawrence","Director","PrimeSouth Bank","2018","Business Owner Grocery Stores","209830"
+"PrimeSouth Bank","CFO","Jodi W. Turner","CFO/COO","PrimeSouth Bank","2018","Banker","209830"
+"PrimeSouth Bank","n/a","Bradley K. Peters","EVP,"Senior Lender"","PrimeSouth Bank","2018","Banker","209830"
+"PrimeSouth Bank","n/a","Scott Swicord","Director","PrimeSouth Bank","2018","Contractor","209830"
+"PrimeSouth Bank","n/a","Robert L Pike","No title - Principal Shareholder Only","n/a","2018","Trucking Company","209830"
+"PrimeSouth Bank","n/a","RLP 2012 Children's Trust","No title - Principal Shareholder Only","n/a","2018","Trust","209830"
+```

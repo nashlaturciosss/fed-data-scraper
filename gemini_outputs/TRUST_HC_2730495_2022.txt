@@ -1,0 +1,16 @@
+Here are the two tables extracted from the document in CSV format as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TRUST HOLDING COMPANY,"INC."","Lenox,"GA"","2022","Benjamin W. Lindsey,"Sr."","n/a","1598400","76.70%","n/a"
+"TRUST HOLDING COMPANY,"INC."","Dawsonville,"GA"","2022","C. Talmadge Garrison,"Sr."","n/a","174329","8.37%","n/a"
+"TRUST HOLDING COMPANY,"INC."","Lenox,"GA"","2022","Benjamin W. Lindsey,"Jr."","n/a","126900","6.09%","n/a"
+"TRUST HOLDING COMPANY,"INC."","Sparks,"GA"","2022","Lamar Betts","n/a","105602","5.07%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TRUST HOLDING COMPANY,"INC."","Director/Executive Chairman of the Board","Benjamin W. Lindsey,"Sr."","Executive Chairman of the Board and Senior Executive Officer","Linco Group,"Inc."","2022","None","n/a"
+"TRUST HOLDING COMPANY,"INC."","Director - The Trust Bank","C. Talmadge Garrison,"Sr."","None","None","2022","None","n/a"
+"TRUST HOLDING COMPANY,"INC."","Executive Vice Chairman of the Board","Benjamin W. Lindsey,"Jr."","Director/Secretary","Linco Group,"Inc."","2022","None","n/a"
+```

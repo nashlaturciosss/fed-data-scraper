@@ -1,0 +1,33 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2019","MARY H. BLACKBURN","COMMON STOCK","4100","5.423%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2019","CHARLES D. REED","COMMON STOCK","5977","7.906%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2019","RUTH B. BAZEMORE","COMMON STOCK","4689","6.200%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Director","James W. Adams","Director","Farmers and Merchants Bank","2019","Retired Banker","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Mary H. Blackburn","n/a","n/a","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Otis M. Chivers","Director","Farmers and Merchants Bank","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Secretary of Board of Directors","Otis M. Chivers","n/a","n/a","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","R. J. Martin,"III"","Chairman of Board of Directors","Farmers and Merchants Bank","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Chairman of Board of Directors","R. J. Martin,"III"","n/a","n/a","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","Director","Farmers and Merchants Bank","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Charles D. Reed","President","David W. Reed,"Co."","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Charles D. Reed","Partner","Whitehill Farm","2019","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","CEO","David P. Boddiford","Director","Farmers and Merchants Bank","2019","n/a","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2019","n/a","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2019","n/a","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Ruth Bazemore","Owner","Professional Insurance Agency","2019","Insurance Broker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Hoke S. Reeves,"III"","Director","Farmers and Merchants Bank","2019","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","President","Hoke S. Reeves,"III"","Director","Farmers and Merchants Bank","2019","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","CEO","Hoke S. Reeves,"III"","Director","Farmers and Merchants Bank","2019","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","David Burke","Manager","Koyo Bearings Plant","2019","Plant Manager","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2019","Certified Public Accountant Insurance Co.","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Andrew J. Clifton","n/a","n/a","2019","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","Officer/Vice President","Andrew J. Clifton","n/a","n/a","2019","Bank Officer","n/a"
+```

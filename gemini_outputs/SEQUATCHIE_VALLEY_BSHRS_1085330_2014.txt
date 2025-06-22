@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2014","L. Thomas Austin","n/a","4475","30.14%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2014","Eunice Barker,"Estate"","n/a","1254","8.45%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2014","Flavius A. Barker","n/a","1499","10.10%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2014","H. Glenn Barker","n/a","2417","16.29%","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Dunlap,"TN"","2014","John V. Barker","n/a","2352","15.85%","1085330"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sequatchie Valley Bancshares,"Inc."","Director & Secretary","L. Thomas Austin","Attorney-At-Law","Austin,"Davis & Mitchell"","2014","Attorney","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","Flavius A. Barker","Partner","Farming Operation","2014","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","Flavius A. Barker","Partner","Sequatchie Associates,"Inc."","2014","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","Flavius A. Barker","Partner","Barker Tractor & Equipment,"LLC."","2014","Retired","1085330"
+"Sequatchie Valley Bancshares,"Inc."","President & Director","H. Glenn Barker","Partner","Sequatchie Assoc.","2014","N/A","1085330"
+"Sequatchie Valley Bancshares,"Inc."","President & Director","H. Glenn Barker","Partner","Farming Operation","2014","N/A","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","John V. Barker","Treasurer","Sequatchie Associates","2014","N/A","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","John V. Barker","Director","Plateau Group","2014","N/A","1085330"
+"Sequatchie Valley Bancshares,"Inc."","Director","John V. Barker","Director","Financial Products & Services","2014","N/A","1085330"
+```

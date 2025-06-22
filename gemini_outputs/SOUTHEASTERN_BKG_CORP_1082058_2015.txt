@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Banking Corporation","Crescent,"GA"","2015","Alyson G. Beasley","common stock","823319","25.94%","n/a"
+"Southeastern Banking Corporation","St. Simons Island,"GA"","2015","William Downey","common stock","182514","5.75%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Banking Corporation","Executive Vice President and Director","Alyson G. Beasley","n/a","n/a","2015","n/a","n/a"
+"Southeastern Banking Corporation","Director","Albert P. Downey","Vice President","Golden Isles Realty Company","2015","Realtor","n/a"
+"Southeastern Banking Corporation","n/a","William Downey","Secretary","Wymberly Development Company,"Inc."","2015","Retired","n/a"
+"Southeastern Banking Corporation","n/a","William Downey","General Partner","DMP Partnership","2015","Retired","n/a"
+"Southeastern Banking Corporation","n/a","William Downey","Manager","Downey Company,"LLC"","2015","Retired","n/a"
+"Southeastern Banking Corporation","n/a","William Downey","General Partner","Downey Family Limited Partnership","2015","Retired","n/a"
+"Southeastern Banking Corporation","Director","Jerry W. Harper","Certified Public Accountant","Schell & Hogan,"LLP"","2015","Certified Public Accountant","n/a"
+"Southeastern Banking Corporation","President and Chief Executive Officer,"Director"","Cornelius P. Holland,"III"","n/a","n/a","2015","N/A","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","President and Director","Toledo Manufacturing Company","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","Secretary,"Treasurer and Director"","Gowen Timber Company,"Inc."","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","Director","Hopkins-Gowen Oil Company","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","Vice President","GTHD","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","Secretary,"Treasurer and Director"","Uptrend,"Inc."","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","Director","Alva J. Hopkins,"III"","President","Forest Landowners Association","2015","Timber Land Management","n/a"
+"Southeastern Banking Corporation","None","John C. Houser","n/a","n/a","2015","N/A","n/a"
+"Southeastern Banking Corporation","Director","Craig Root","President","Vista Outdoor Corp. D/B/A Vista Outdoor Advertising","2015","Outdoor Advertising","n/a"
+"Southeastern Banking Corporation","Director","Craig Root","President","Satilla Planning,"Inc."","2015","Outdoor Advertising","n/a"
+"Southeastern Banking Corporation","Director","Craig Root","Secretary-Treasurer","Satilla Business Services,"Inc."","2015","Outdoor Advertising","n/a"
+"Southeastern Banking Corporation","Treasurer","Donald J. Torbert,"Jr."","n/a","n/a","2015","N/A","n/a"
+"Southeastern Banking Corporation","Director","John E. Zoucks","Chief Operations Officer","Darien Telephone Company","2015","Tele-communications Executive","n/a"
+```

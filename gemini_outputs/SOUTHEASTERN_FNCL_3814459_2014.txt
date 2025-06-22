@@ -1,0 +1,22 @@
+Here are the two CSV tables based on the provided FR Y-6 report:
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Financial,"Inc."","Tuscaloosa,"AL"","2014","Robert W. Poellnitz,"Jr."","n/a","159858","28.081%","3814459"
+"Southeastern Financial,"Inc."","Tuscaloosa,"AL"","2014","Lehman Pendley","n/a","100194","17.601%","3814459"
+"Southeastern Financial,"Inc."","Tuscaloosa,"AL"","2014","H. Chester Boston,"Jr."","n/a","54290","9.537%","3814459"
+"Southeastern Financial,"Inc."","Tuscaloosa,"AL"","2014","Poellnitz Family Trust","n/a","53235","9.352%","3814459"
+"Southeastern Financial,"Inc."","Birmingham,"AL"","2014","D Walburn Revoc Trust","n/a","29448","5.173%","3814459"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Financial,"Inc"","Chairman","Robert W. Poellnitz,"Jr."","Chairman","First Federal Bank","2014","Insurance","3814459"
+"Southeastern Financial,"Inc"","Director,"President"","Charles G. Wolbach,"Jr."","n/a","n/a","2014","Banker","3814459"
+"Southeastern Financial,"Inc"","SR VP","H. Kelley Ouzts","n/a","n/a","2014","Banker","3814459"
+"Southeastern Financial,"Inc"","Director","Robert Earl Stewart","n/a","n/a","2014","College Administrator","3814459"
+"Southeastern Financial,"Inc"","Director","James H. Walburn","n/a","n/a","2014","Retired Physician","3814459"
+"Southeastern Financial,"Inc"","Director","H. Chester Boston,"Jr."","n/a","n/a","2014","Physician","3814459"
+"Southeastern Financial,"Inc"","Director","Lehman Pendley","n/a","n/a","2014","Retired Business Owner","3814459"
+"Southeastern Financial,"Inc"","Director","James E. Shotts","n/a","n/a","2014","Physician","3814459"
+"Southeastern Financial,"Inc"","n/a","William A. Tate","n/a","n/a","2014","Accountant","3814459"
+"Southeastern Financial,"Inc"","n/a","Beckham Palmer","n/a","n/a","2014","Accountant","3814459"
+```

@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Sunstate BancShares,"Inc"","Nassau,"Bahamas"","2021","Burmaian Sofisa Trust","Common Stock","n/a","100%","n/a"
+"Sunstate BancShares,"Inc"","Sao Paulo,"Brazil"","2021","Hilda Burmaian","Common Stock","n/a","50%","n/a"
+"Sunstate BancShares,"Inc"","Sao Paulo,"Brazil"","2021","Alexandre Burmaian","Common Stock","n/a","12.5%","n/a"
+"Sunstate BancShares,"Inc"","Sao Paulo,"Brazil"","2021","Ricardo Burmaian","Common Stock","n/a","12.5%","n/a"
+"Sunstate BancShares,"Inc"","Sao Paulo,"Brazil"","2021","Claudia Regina Burmaian","Common Stock","n/a","12.5%","n/a"
+"Sunstate BancShares,"Inc"","Sao Paulo,"Brazil"","2021","Valeria Burmaian Kissajikian","Common Stock","n/a","12.5%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Sunstate BancShares,"Inc"","Director & Chairman","Alexandre Burmaian","Director & CEO","Banco Sofisa SA","2021","Banker","n/a"
+"Sunstate BancShares,"Inc"","Director & CEO","Lloyd DeVaux","n/a","n/a","2021","Banker","n/a"
+"Sunstate BancShares,"Inc"","Director & CFO","Fabricio C Macastropa","n/a","n/a","2021","Banker","n/a"
+"Sunstate BancShares,"Inc"","Controller","Maria Iglesias","n/a","n/a","2021","Banker","n/a"
+"Sunstate BancShares,"Inc"","Shareholder","Hilda Burmaian","Shareholder","Banco Sofisa SA","2021","Shareholder","n/a"
+```

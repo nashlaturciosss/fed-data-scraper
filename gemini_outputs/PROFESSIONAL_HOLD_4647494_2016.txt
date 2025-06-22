@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Professional Holding Corp.","Boston,"MA"","2016","Bay Boston Capital,"L.P."","Voting Common Stock","339073","9.65%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2016","Mendon Capital Master Fund","Voting Common","264900","7.55%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2016","Mendon Capital QP","Voting Common","39735","1.13%","n/a"
+"Professional Holding Corp.","Rochester,"NY"","2016","Iron Road Multi-Strategy Fund","Voting Common","34438","0.98%","n/a"
+"Professional Holding Corp.","Amsterdam,"Netherlands"","2016","De Linea CSV","Voting Common Stock","339000","9.65%","n/a"
+"Professional Holding Corp.","Columbus,"OH"","2016","David Belford","Voting Common Stock","185500","5.28%","n/a"
+"Professional Holding Corp.","Leola,"PA"","2016","Age & Co For The Benefit of Emerald Banking and Finance Fund","Voting Common Stock","175683","5.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO","Director & Chairman"","Daniel Sheehan","SVP / MD","Walker & Dunlop","2016","Investment Banker","n/a"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO","Director & Chairman"","Daniel Sheehan","SVP / MD","Helmsreich Realty Corp","2016","Investment Banker","n/a"
+"Professional Holding Corp.","Chairman,"Director","and President / CEO","Director & Chairman"","Daniel Sheehan","SVP / MD","Juno Tax,"LLC"","2016","Investment Banker","n/a"
+"Professional Holding Corp.","Director,"Director"","Leslie Adler","Partner","Kabat,"Schertzer","De La Torre","Taraboulus & Co","LLC"","2016","Certified Public Accountant","n/a"
+"Professional Holding Corp.","Director,"Director"","Roland DiGasbarro","Principal & Founder","Windsor Capital Corporation","2016","Commercial Real Estate Investor","n/a"
+"Professional Holding Corp.","Director,"Director"","Carlos Garcia","Managing Partner & CEO","Bay Boston Capital L.P.","2016","Investor","n/a"
+"Professional Holding Corp.","Director,"Director"","Carlos Garcia","Chairman","Caribbean Financial Group","2016","Investor","n/a"
+"Professional Holding Corp.","Director,"Director"","Richard Martens","Managing Partner","Advent Associates","2016","Businessman; Retired Bank Executive","n/a"
+"Professional Holding Corp.","Director,"Director"","Lawrence Schimmel","Chairman","Qualmetrix,"Inc."","2016","Physician","n/a"
+"Professional Holding Corp.","Director,"Director"","Lawrence Schimmel","Managing Member","Allied Health Advisors,"LLC"","2016","Physician","n/a"
+"Professional Holding Corp.","Director,"Director"","Anton Schutz","Director","Bank of the Carolinas","2016","Executive","n/a"
+"Professional Holding Corp.","Director,"Director"","Anton Schutz","President / Director","Mendon Capital Advisors Corp","2016","Executive","n/a"
+"Professional Holding Corp.","Director,"Director"","Stanley Shapiro","Director / Consultant","Superior Vision Services","2016","Executive; Consultant","n/a"
+"Professional Holding Corp.","Director","Abel Iglesias","n/a","n/a","2016","n/a","n/a"
+"Professional Holding Corp.","Executive Vice President / Client Management Group","Daniel Martinez","n/a","n/a","2016","n/a","n/a"
+"Professional Holding Corp.","Executive Vice President & Chief Risk Officer","Larry Goldberg","n/a","n/a","2016","n/a","n/a"
+"Professional Holding Corp.","Executive Vice President & Chief Financial Officer","Mary Benevente","n/a","n/a","2016","n/a","n/a"
+"Professional Holding Corp.","Market Leader - Palm Beach","J Michael Woody","n/a","n/a","2016","n/a","n/a"
+```

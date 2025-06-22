@@ -1,0 +1,38 @@
+Here are the requested CSV tables.
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR FINANCIAL,"INC."","Andover,"MA"","2019","John Rodgers,"LP"","n/a","1355737","7.83%","n/a"
+"TGR FINANCIAL,"INC."","New York,"NY"","2019","Endicott Group","n/a","1355737","7.83%","n/a"
+"TGR FINANCIAL,"INC."","Atlanta,"GA"","2019","GMT Capital Group","n/a","2673503","15.45%","n/a"
+"TGR FINANCIAL,"INC."","New York,"NY"","2019","Lightyear Group","n/a","1552783","8.97%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TGR FINANCIAL,"INC."","Director","Adam D. Compton","Director","First Florida Integrity Bank","2019","Investment Specialist Morgan Stanley","n/a"
+"TGR FINANCIAL,"INC."","Director","Dulce V. Dudley","n/a","Lighthouse Pediatrics of Naples","2019","Partner","n/a"
+"TGR FINANCIAL,"INC."","Chairman & CEO","Robert M. Feerick","Director","Xymox Technologies,"Inc."","2019","Chairman & CEO Horizon Partners,"Ltd"","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","W.R. Endicott III","2019","Vice President Endicott Management Company","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Member","W.R. Endicott IV","2019","Vice President Endicott Management Company","n/a"
+"TGR FINANCIAL,"INC."","Director","J. Michael Gibbons","Investor","Endicott SPV I LP","2019","Vice President Endicott Management Company","n/a"
+"TGR FINANCIAL,"INC."","Director","John J. Guinee","n/a","Constitution Capital Partners,"LLC"","2019","Managing Partner Constitution Capital Partners,"LLC"","n/a"
+"TGR FINANCIAL,"INC."","Director","Michael J. Kerschner","Partner","Free I LLC","2019","Commissioner Seneca County,"Ohio"","n/a"
+"TGR FINANCIAL,"INC."","Director","Bradford B. Kopp","Director","Radius Bank","2019","Retired","n/a"
+"TGR FINANCIAL,"INC."","Director","James S. Lindsay","Partner","Dor-J's LLP","2019","Realtor The Lindsay Company","n/a"
+"TGR FINANCIAL,"INC."","Director","James S. Lindsay","Partner","720 Commons LLC","2019","Realtor The Lindsay Company","n/a"
+"TGR FINANCIAL,"INC."","Director","Edward J. Mace","Chief Operating Officer","Ribek Corporation","2019","Retired Edward J. Mace,"СРА"","n/a"
+"TGR FINANCIAL,"INC."","Director","Donald W. Major","n/a","n/a","2019","Retired","n/a"
+"TGR FINANCIAL,"INC."","SEVP & Chief Admin. Officer","Robert T. Reichert","n/a","n/a","2019","Chief Administrative Officer First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Director & President","Garrett S. Richter","n/a","n/a","2019","President & Chief Executive Officer First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","ProSource of Oklahoma City","2019","Chairman First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","ProSource of OKC Properties,"LLC"","2019","Chairman First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","Roy Tice Enterprises","2019","Chairman First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","Jokama Wholesale Flooring","2019","Chairman First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Chairman & Chief Executive Officer","Gary L. Tice","n/a","CGT Wholesale Flooring","2019","Chairman First Florida Integrity Bank","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Tuff Seal Inc.","2019","President Tamiami Ford / Tamiami Hyundai","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Top Hat Imports LLC","2019","President Tamiami Ford / Tamiami Hyundai","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Coral Harbour Venture,"LLC"","2019","President Tamiami Ford / Tamiami Hyundai","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Tamiami Ford Inc.","2019","President Tamiami Ford / Tamiami Hyundai","n/a"
+"TGR FINANCIAL,"INC."","Director","Robert T. Zellers","n/a","Linwood Venture,"LLC"","2019","President Tamiami Ford / Tamiami Hyundai","n/a"
+"TGR FINANCIAL,"INC."","n/a","GMT Capital Group","n/a","n/a","2019","n/a","n/a"

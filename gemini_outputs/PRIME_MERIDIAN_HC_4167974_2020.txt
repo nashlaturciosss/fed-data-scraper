@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Prime Meridian Holding Company","Blakely,"GA"","2020","Spence Limited,"LP"","Common Stock","176659","5.66%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2020","Sammie D. Dixon,"Jr."","Common Stock","113393","3.58%","n/a"
+"Prime Meridian Holding Company","Tallahassee,"FL"","2020","Sammie D. Dixon,"Jr."","options on Common Stock","52207","1.65%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Prime Meridian Bank","Director","William D. Crona","Director","Prime Meridian Bank","2020","Retired Certified Public Accountant","n/a"
+"Prime Meridian Bank","Vice Chairman,"CEO/President","Director"","Sammie D. Dixon,"Jr."","n/a","Prime Meridian Bank-Vice Chairman,"CEO/Pres."","2020","n/a","n/a"
+"Prime Meridian Bank","Director","Steven L. Evans","Director","Prime Meridian Bank","2020","Retired Business Executive (IBM)","n/a"
+"Prime Meridian Bank","Director","R. Randy Guemple","Director","Prime Meridian Bank","2020","Retired Banker,"Certified Public Accountant"","n/a"
+"Prime Meridian Bank","EVP,"Director"","Chris L. Jensen,"Jr."","Director","Prime Meridian Bank-EVP/Senior Lender","2020","n/a","n/a"
+"Prime Meridian Bank","Director","Kathleen C. Jones","Director","Prime Meridian Bank","2020","Retired Banker","n/a"
+"Prime Meridian Bank","Director","Robert H. Kirby","Partner","Rehab Technologies,"LLC"","2020","Rehab Technologies,"LLC"","n/a"
+"Prime Meridian Bank","Director","Frank L. Langston","Principal","NAI TALCOR","2020","Real Estate","n/a"
+"Prime Meridian Bank","Director","L. Collins Proctor,"Sr."","n/a","kW Control-Holdings,"LLC"","2020","Partner & Chief Operating Officer","n/a"
+"Prime Meridian Bank","Director","Garrison A. Rolle,"M.D."","Surgeon","Tallahassee Orthopedic Clinic","2020","Tallahassee Orthopedic Clinic","n/a"
+"Prime Meridian Bank","Director","Steven D. Smith","Owner","Krispy Kreme Franchises","2020","Krispy Kreme Franchises","n/a"
+"Prime Meridian Bank","Director","Marjorie R. Turnbull","n/a","n/a","2020","Educational Consultant","n/a"
+"Prime Meridian Bank","Director,"Chairman"","Richard A. Weidner","n/a","n/a","2020","Certified Public Accountant","n/a"
+"Prime Meridian Bank","EVP/Chief Risk Officer","Susan Payne Turner","n/a","n/a","2020","n/a","n/a"
+"Prime Meridian Bank","EVP/Chief Information Officer","Monté L. Ward","n/a","n/a","2020","n/a","n/a"
+"Prime Meridian Bank","EVP/Chief Financial Officer","Clint F. Weber","n/a","n/a","2020","n/a","n/a"
+"Prime Meridian Bank","Director","Michael A. Micallef,"Jr."","n/a","n/a","2020","Retired Banker","n/a"
+"Prime Meridian Bank","Director","Kenneth H. Compton","Principal","Compton & Associates","2020","Wealth Management","n/a"
+"Prime Meridian Bank","Director","Kenneth H. Compton","Principal","Boone Ventures,"LLC"","2020","Wealth Management","n/a"
+"Prime Meridian Bank","Director","Kenneth H. Compton","Principal","Restoration Holdings,"LLC"","2020","Wealth Management","n/a"
+"Prime Meridian Bank","Director","Kenneth H. Compton","Principal","Compton Farms","2020","Wealth Management","n/a"
+```

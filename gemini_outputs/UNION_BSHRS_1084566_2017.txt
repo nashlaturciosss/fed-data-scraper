@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Union Bancshares,"Incorporated"","Marksville,"LA"","2017","Darrel D. Ryland","common stock","21979","53.76%","n/a"
+"Union Bancshares,"Incorporated"","Marksville,"LA"","2017","Richard Layfield","common stock","3477","8.51%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Union Bancshares,"Incorporated"","President","Darrel D. Ryland","President","Darrell D. Ryland,"A Professional Law Corporation"","2017","Attorney","n/a"
+"Union Bancshares,"Incorporated"","Executive Vice President","Richard Layfield","n/a","n/a","2017","Banker","n/a"
+"Union Bancshares,"Incorporated"","Director","Brent Scallan","n/a","Scallan Contractors,"Inc."","2017","Construction contractor","n/a"
+"Union Bancshares,"Incorporated"","Director","Lovell J. Mayeux,"Jr."","Owner","Mayeux Family Clinic,"A Medical Corporation"","2017","Physician","n/a"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Fabrication,"LLC"","2017","President of steel fabrication company","n/a"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Steel Pole,"LLC"","2017","President of steel fabrication company","n/a"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran WP Holding,"LLC"","2017","President of steel fabrication company","n/a"
+"Union Bancshares,"Incorporated"","Director","Patrick Bordelon","President","Dis-Tran Wood Products,"LLC"","2017","President of steel fabrication company","n/a"
+```

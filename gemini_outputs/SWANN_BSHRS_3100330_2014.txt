@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Swann BancShares,"Inc."","Roanoke,"AL"","2014","James H Allen","Common Stock","36000","5.31%","n/a"
+"Swann BancShares,"Inc."","Metairie,"LA"","2014","Kathy Brannon","Common Stock","35184","5.19%","n/a"
+"Swann BancShares,"Inc."","Denham Springs,"LA"","2014","Elizabeth R. Dauthier","Common Stock","35433","5.22%","n/a"
+"Swann BancShares,"Inc."","Winder,"GA"","2014","Jane Fischer Trust","Common Stock","48000","7.08%","n/a"
+"Swann BancShares,"Inc."","Roanoke,"AL"","2014","Glenda G. Hale","Common Stock","46060","6.79%","n/a"
+"Swann BancShares,"Inc."","Villa Rica,"GA"","2014","Robert J Hooton,"Jr."","Common Stock","35200","5.19%","n/a"
+"Swann BancShares,"Inc."","Baton Rouge,"LA"","2014","Laura R. Lombardo","Common Stock","35183","5.19%","n/a"
+"Swann BancShares,"Inc."","Wedowee,"AL"","2014","John G. Swann,"Jr."","Common Stock","64880","9.56%","n/a"
+"Swann BancShares,"Inc."","Irving,"TX"","2014","William Leazer","Common Stock","50400","7.43%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Swann BancShares,"Inc."","Director,"Chairman & President"","Mitchell G. Key","n/a","n/a","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director & Vice-President","Charles T. Holmes","n/a","n/a","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","Glenda G. Hale","n/a","n/a","2014","Retired","n/a"
+"Swann BancShares,"Inc."","Director","James W. Fincher","n/a","n/a","2014","Retired Airline Pilot","n/a"
+"Swann BancShares,"Inc."","Director","John H. Harmon","Owner","H&M Drugs,"Inc."","2014","Pharmacist","n/a"
+"Swann BancShares,"Inc."","Director","John H. Harmon","Member","Ava Hills,"LLC"","2014","Pharmacist","n/a"
+"Swann BancShares,"Inc."","Director","Kenneth W. Shelton","n/a","n/a","2014","Retired","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Owner","Southern Home Comfort,"Inc."","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Member","Deer Valley Ranch,"LLC"","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Owner","Colorvision Home Center,"Inc."","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Owner","Four Star Properties,"Inc."","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Member","Allen,"Bishop","& Hilyer","LLP"","2014","n/a","n/a"
+"Swann BancShares,"Inc."","Director","James H. Allen","Owner","Louina,"Inc."","2014","n/a","n/a"
+```

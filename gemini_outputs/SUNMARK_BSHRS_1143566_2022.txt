@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","J. Bradley Collins","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","Jerry L. Faircloth","Common Stock","26983","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","Joe B. Hall","Common Stock","27721","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","David A. Herndon","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","James R. Hollingsworth","Common Stock","23844","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","Robert L. Nash","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","William D. O'Neal","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","T. Michael O'Quinn","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","William C. Outlaw,"III"","Common Stock","33524","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","William C. Outlaw,"IV"","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","Charles H. Peaster,"Jr."","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","David W. Williams","Common Stock","24582","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","Robert F. Williams","Common Stock","25321","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","SunMark ESOP","Common Stock","347360","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","SunMark ESOP","Class A Voting Shares","264587","n/a","n/a"
+"SunMark Bancshares,"Inc."","Hawkinsville,"GA"","2022","SunMark ESOP","Class A Non-Voting Shares","82773","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunMark Bancshares,"Inc."","Vice President","J. Bradley Collins","n/a","n/a","2022","n/a","n/a"
+"SunMark Bancshares,"Inc."","Director","Jerry L. Faircloth","n/a","n/a","2022","President Faircloth Farms,"Inc."","n/a"
+"SunMark Bancshares,"Inc."","Director","Joe B. Hall","n/a","n/a","2022","Owner Hall and Hall Timber Company","n/a"
+"SunMark Bancshares,"Inc."","Director","David A. Herndon","n/a","n/a","2022","President Herndon Chevrolet Buick GMC,"Inc."","n/a"
+"SunMark Bancshares,"Inc."","Director","James R. Hollingsworth","n/a","n/a","2022","President Hollingsworth & Vose Company","n/a"
+"SunMark Bancshares,"Inc."","Director","Robert L. Nash","n/a","n/a","2022","President Robert L. Nash,"P.C."","n/a"
+"SunMark Bancshares,"Inc."","Director","William D. O'Neal","n/a","n/a","2022","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","T. Michael O'Quinn","n/a","n/a","2022","Consultant","n/a"
+"SunMark Bancshares,"Inc."","Director","William C. Outlaw,"III"","n/a","n/a","2022","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","William C. Outlaw,"IV"","n/a","n/a","2022","Certified Public Accountant","n/a"
+"SunMark Bancshares,"Inc."","Director","Charles H. Peaster,"Jr."","n/a","n/a","2022","President Peaster Development Company","n/a"
+"SunMark Bancshares,"Inc."","Director","David W. Williams","n/a","n/a","2022","Retired","n/a"
+"SunMark Bancshares,"Inc."","Director","Robert F. Williams","n/a","n/a","2022","Chairman,"President and CEO"","n/a"
+```

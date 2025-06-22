@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Truxton Corporation","All USA","2014","None","All Common Stock","n/a","n/a","3925005"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Truxton Corporation","Director & Chairman","Charles W. Cook Jr.","Chairman","Truxton Trust Co","2014","n/a","3925005"
+"Truxton Corporation","Director","William F. Blaufuss Jr","n/a","n/a","2014","Retired,"Accountant","Partner KPMG LLP"","3925005"
+"Truxton Corporation","Director","David Brewster Dobie","CEO","Dobie Media","2014","CEO,"Dobie Media","former publisher of Nashville Scene"","3925005"
+"Truxton Corporation","Director","Stanley M. Ezell","n/a","n/a","2014","Retired; President Purity Dairies,"Inc."","3925005"
+"Truxton Corporation","Director","Decosta E. Jenkins","President & CEO","Nashville Electric Service","2014","President & CEO,"Nashville Electric Service"","3925005"
+"Truxton Corporation","Director","Matthew A. King","Managing Partner","FCA Venture Partners","2014","Managing Partner,"FCA Venture Partners"","3925005"
+"Truxton Corporation","Director","Gustavus A Puryear IV","EVP General Counsel","Asurion","2014","EVP General Counsel,"Corrections Corp of America"","3925005"
+"Truxton Corporation","Director","Christopher C. Whitson","Attorney; Partner","Sherrard & Roe,"PLC"","2014","Attorney; Partner Sherrard & Roe,"PLC"","3925005"
+"Truxton Corporation","Director","Christopher C. Whitson","Attorney; Partner","Roe,"PLC"","2014","Attorney; Partner Sherrard & Roe,"PLC"","3925005"
+"Truxton Corporation","Director","Deborah A. McDermott","President","Young Broadcasting LLC","2014","President,"Young Broadcasting LLC"","3925005"
+"Truxton Corporation","CEO","Thomas S. Stumb","President & CEO","Truxton Trust Co","2014","n/a","3925005"
+"Truxton Corporation","Secretary","J. Overton Colton","n/a","n/a","2014","n/a","3925005"
+"Truxton Corporation","n/a","Derrick A. Jones","n/a","n/a","2014","n/a","3925005"
+"Truxton Corporation","n/a","Thomas R. Snyder","n/a","n/a","2014","n/a","3925005"
+"Truxton Corporation","n/a","Andrew L May","n/a","n/a","2014","n/a","3925005"
+"Truxton Corporation","SVP & Controller","Julie M. Marr","n/a","n/a","2014","n/a","3925005"
+```

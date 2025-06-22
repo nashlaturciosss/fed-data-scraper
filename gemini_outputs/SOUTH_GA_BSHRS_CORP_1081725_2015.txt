@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Georgia Bankshares Corporation","ALMA,"GA"","2015","VALENE BENNETT QTIP TRUST","n/a","37882","49.84%","1081725"
+"South Georgia Bankshares Corporation","ALMA,"GA"","2015","BENNETT FAMILY LIMITED PARTNERSHIP","n/a","4374","5.76%","1081725"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","ALMA EXCHANGE BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","PEOPLES STATE BK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","PINELAND STATE BK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","BANKERS DATA SERV","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH BANKING CO","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR DIRECTOR","LAWRENCE BENNETT","DIRECTOR","SOUTH FINANCIAL PRO","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","VICE CHAIRMAN & DIR","ALMA EXCHANGE BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","PRESIDENT","SOUTH BANKING COMPANY","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","VICE CHAIRMAN & DIR","PEOPLES STATE BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","VICE CHAIRMAN & DIR","CITIZENS STATE BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","PRESIDENT & CHAIRMAN","PINELAND STATE BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","PRESIDENT","BANKERS DATA SERVICES,"INC"","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","DIRECTOR & SECRETARY","SOUTH FINANCIAL PRODUCTS,"INC"","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","PRESIDENT DIRECTOR","PAUL T BENNETT","DIRECTOR","THE BANKERS BANK","2015","BANKER","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR","BILLY BENTON","DIRECTOR","n/a","2015","RETIRED","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR","W.M. MCDONALD","DIRECTOR","n/a","2015","RETIRED","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR","BEN NEWTON","DIRECTOR","NEWTON FARMS","2015","NEWTON FARMS","1081725"
+"South Georgia Bankshares Corporation","DIRECTOR","R.T. STANLEY,"JR."","DIRECTOR","ONION CITY FARM SUPPLY","2015","STANLEY FARMS","1081725"
+"South Georgia Bankshares Corporation","n/a","VALENE BENNETT QTIP TRUST","n/a","n/a","2015","n/a","1081725"
+"South Georgia Bankshares Corporation","EVP & DIRECTOR","AL D ROSS","DIRECTOR","BANKERS DATA SERVICES,"INC"","2015","BANKER","1081725"
+```

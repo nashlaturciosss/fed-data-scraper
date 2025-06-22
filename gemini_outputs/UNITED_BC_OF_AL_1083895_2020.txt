@@ -1,0 +1,35 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Monroeville,"Alabama"","2020","L. Walter Crim","Class A Common Stock","20175.49","0.54%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","Richard K. Maxwell","Class A Common Stock","11983","0.32 %","n/a"
+"United Bancorporation of Alabama,"Inc."","Bay Minette,"Alabama"","2020","Michael R. Andreoli","Class A Common Stock","29819.44","0.80%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","Robert R. Jones,"III"","Class A Common Stock","70021.27","1.87%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","Dale M. Ash","Class A Common Stock","22455.10.84","0.60%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","David D. Swift","Class A Common Stock","38804","1.04 %","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","Ricky Smith","Class A Common Stock","13204.82","0.35%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2020","C. Danny Cottrell","Class a Common Stock","7140.67","0.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Director","L. Walter Crim","Owner","Central Farm Supply","2020","Owner"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Owner","Maxwell Construction,"Inc."","2020","Owner"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Owner","West Side Storage Company","2020","Owner"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K. Maxwell","Partner","Triterra Development Co","2020","Owner"
+"United Bancorporation of Alabama,"Inc."","Director","Michael R. Andreoli","President","Robertson,"Andreoli and Covington P.C"","2020","President"
+"United Bancorporation of Alabama,"Inc."","Director,"Vice-Chairman"","Michael R. Andreoli","General Partner","Alcon Properties.","2020","President"
+"United Bancorporation of Alabama,"Inc."","Director,"President","and CEO"","Robert R. Jones,"III"","member","Grampian Investments","2020","None"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","Pepsi-Cola Bottling Company of Atmore","2020","Partner,"VP""
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","South Alabama Vending Company","2020","Partner,"VP""
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","Weeks Bay Mitigation Bank","2020","Partner,"VP""
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner","Wetlands Restorations,"LLC"","2020","Partner,"VP""
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Chairman","Swift Supply,"Inc."","2020","Chairman"
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Partner","Swift Brothers,"LLC"","2020","Chairman"
+"United Bancorporation of Alabama,"Inc."","Director and Chairman","David D. Swift","Managing Partner","Swift Land & Timber,"LLC."","2020","Chairman"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","President and CEO","Smith Tractor Company,"Inc."","2020","President and CEO"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","LTC Care of Jay","2020","President and CEO"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","Smith Family LLC.","2020","President and CEO"
+"United Bancorporation of Alabama,"Inc."","Director","C. Danny Cottrell","Pharmacist,"Co-owner"","Medical Center Pharmacy","2020","Pharmacist"
+```

@@ -1,0 +1,27 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2019","Marshall T. Reynolds","n/a","1764922","18.1%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2019","William K. Hood","n/a","1815479","18.6%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2019","Smith & Hood Holding Company LLC","n/a","966197","9.9%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2019","Edgar R. Smith III","n/a","1908640","19.6%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2019","Smith & Hood Investments LLC","n/a","585817","6.0%","422433"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Director","William K. Hood","Director","First Guaranty Bank","2019","President of Hood Automotive Group","422433"
+"First Guaranty Bancshares,"Inc."","Member","William K. Hood","n/a","Hood Automotive Group","2019","President of Hood Automotive Group","n/a"
+"First Guaranty Bancshares,"Inc."","CEO/President","Alton B. Lewis","CEO/President","First Guaranty Bank","2019","n/a","422433"
+"First Guaranty Bancshares,"Inc."","CFO,"Treasurer & Secretary"","Eric J. Dosch","Chief Financial Officer","First Guaranty Bank","2019","n/a","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","First Guaranty Bank","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Premier Financial Bancorp","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Director","Summit State Bank","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","President & Manager","Harrah & Reynolds Corp","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","Energy Services of America Corp.","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Chairman","Marshall T. Reynolds","Chairman","River City Associates,"Inc."","2019","Chairman of Champion Industries,"Inc."","422433"
+"First Guaranty Bancshares,"Inc."","Director","Jack Rossi","Director","First Guaranty Bank","2019","Certified Public Accountant","422433"
+"First Guaranty Bancshares,"Inc."","Director","Edgar R. Smith III","Director","First Guaranty Bank","2019","President and CEO Smitty's Supply Inc.","422433"
+"Smith & Hood Holding Company,"LLC"","Member","Edgar R. Smith","n/a","Smitty's Supply Inc.","2019","President and CEO Smitty's Supply Inc.","n/a"
+```

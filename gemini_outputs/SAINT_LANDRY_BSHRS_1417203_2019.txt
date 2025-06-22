@@ -1,0 +1,26 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2019","Janys H Schexnayder","n/a","9810","5.12%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2019","Allen T. Tomlinson","n/a","55046","28.73%","n/a"
+"St. Landry Bancshares,"Inc."","Opelousas,"LA"","2019","Robert S. Tomlinson,"Jr."","n/a","42181","22.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St. Landry Bancshares,"Inc."","President,"Chairman","Director"","Michelle R. Poulet","n/a","n/a","2019","n/a","n/a"
+"St. Landry Bancshares,"Inc."","Chief Information Officer,"Director","Managing Member"","Robert S. Tomlinson,"Jr."","n/a","Robert & Marie Tomlinson Family,"LLC"","2019","n/a","n/a"
+"St. Landry Bancshares,"Inc."","Vice Chairman,"Director","Managing Member"","Allen T. Tomlinson","n/a","Tomlinson Realty Co,"LLC"","2019","n/a","n/a"
+"St. Landry Bancshares,"Inc."","Vice Chairman,"Director","Managing Member"","Allen T. Tomlinson","n/a","ATT Realty,"LLC"","2019","n/a","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugene D. Ardoin","Business Owner","n/a","2019","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Eugenia L. Bordelon","Housewife","n/a","2019","Housewife","n/a"
+"St. Landry Bancshares,"Inc."","Director","Daniel H. Buller","Medical Doctor","n/a","2019","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Frank T. Daly,"Jr."","Business Owner","n/a","2019","Retired","n/a"
+"St. Landry Bancshares,"Inc."","Director","Theodore W.H. DeBlanc","Medical Doctor","n/a","2019","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Carolyn G. Jarrell","Educator","n/a","2019","Educator","n/a"
+"St. Landry Bancshares,"Inc."","Director","Thomas P. LaHaye","Medical Doctor","n/a","2019","Physician","n/a"
+"St. Landry Bancshares,"Inc."","Director","Edward Kurtz","Private Investments","n/a","2019","Private Investor","n/a"
+"St. Landry Bancshares,"Inc."","Director","Mary B. Tomlinson","Housewife","n/a","2019","Housewife","n/a"
+"St. Landry Bancshares,"Inc."","Director","Ross S. Tomlinson","n/a","n/a","2019","N/A","n/a"
+```

@@ -1,0 +1,21 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern States Bancshares,"Inc."","Chicago,"Il"","2014","STARBOARD FUND FOR NEW BANCS LP","Common Stock","300000","9.41%","3818381"
+"Southern States Bancshares,"Inc."","Anniston,"AL"","2014","STEPHEN W. WHATLEY","Common Stock","263288","8.22%","3818381"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern States Bancshares,"Inc."","Director","J. Henry Smith","Director","Interstate Sheet Metal Co. Inc.","2014","Interstate Sheet Metal Co. Inc.","n/a"
+"Southern States Bancshares,"Inc."","Director","Robert F. Davie","Director","Davie's School Supply,"Inc."","2014","Davie's School Supply,"Inc."","n/a"
+"Southern States Bancshares,"Inc."","Director","Brent David Hitson","Director","Burr & Forman LLP","2014","Burr & Forman,"LLP"","n/a"
+"Southern States Bancshares,"Inc."","Director","Brian Stacy Holmes","Director","Holmes II Excavation,"Inc"","2014","Holmes II Excavation,"Inc"","n/a"
+"Southern States Bancshares,"Inc."","Director","Jimmy Alan LaFoy","President","LaFoy & Associates,"CPA","PC"","2014","LaFoy & Associates,"CPA","PC"","n/a"
+"Southern States Bancshares,"Inc."","Director","Jay Florey Pumroy","Partner","Wilson,"Dillon","Pumroy & James","LLC"","2014","Wilson,"Dillon","Pumroy & James","LLC"","n/a"
+"Southern States Bancshares,"Inc."","Director","Stephen Woods Whatley","Chairman,"CEO and President"","n/a","2014","n/a","n/a"
+"Southern States Bancshares,"Inc."","Director","Lucinda Cannon","Director","n/a","2014","n/a","n/a"
+"Southern States Bancshares,"Inc."","Director","Henry Turner","Director","n/a","2014","n/a","n/a"
+"Southern States Bancshares,"Inc."","Director","Jon Farmer","Director","n/a","2014","Retired Banker","n/a"
+```

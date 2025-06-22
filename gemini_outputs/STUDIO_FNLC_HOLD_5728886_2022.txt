@@ -1,0 +1,27 @@
+"Here are the two CSV tables","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Studio Financial Holdings,"Inc."","New York,"NY"","2022","Basswood Capital Management","n/a","450000","5.96%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Studio Financial Holdings,"Inc."","Director","Harry LeWayne Allen","Chief Relationship Officer","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Richard Anthony Bynum","Chief Credit Officer","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Chairman,"President & CEO"","Aaron Jackson Dorn","Chairman,"President & CEO"","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Benjamin Edward Mercer","Chief Lending Officer","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","n/a","Monica April Britt","Chief Experience Officer","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","CFO","Lorraine Miller","n/a","n/a","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Lead Director","Howard Clifford Bluver","President & CEO","JDS Financial Group,"LLC"","2022","Lead Director","n/a"
+"Studio Financial Holdings,"Inc."","Director","Ronald Lee Corbin","n/a","n/a","2022","Retired Insurance Executive","n/a"
+"Studio Financial Holdings,"Inc."","Director","Joshua Deutsch","Chairman & CEO","Premier Music Group,"LLC"","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Rodney Allen Essig","Co-Head - Nashville","Creative Artists Agency","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Sara Jane Finley","Corporate Director,"Consultant"","Threshold Corporate Consulting,"LLC"","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","John Russell Gaston","CEO - Nashville","Sony Music Publishing","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Lawson Hugh Hardwick,"III"","Founder,"President & CEO"","Churchill Mortgage Corporation","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Matthew Harris Kisber","Co-Founder & Chairman of the Board","Silicon Ranch Corporation","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Tara Anne Scarlett","President & CEO","Scarlett Family Foundation","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Patricia Glaser Shea","Owner","Shea Advisory Services,"LLC"","2022","n/a","n/a"
+"Studio Financial Holdings,"Inc."","Director","Kent Douglas Wood","Self-Employed","n/a","2022","Self-Employed","n/a"
+```

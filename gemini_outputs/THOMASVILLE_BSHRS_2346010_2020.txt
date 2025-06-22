@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2020","Stephen H. Cheney","Voting Securities","291164","4.83%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2020","Stephen H. Cheney","Restricted Stock Rights (Deferred Director Comp/Exec Stock Grant)","47045","14%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2020","Richard L. Singletary","Voting Securities","312844","5.19%","n/a"
+"Thomasville Bancshares,"Inc."","Thomasville,"GA"","2020","Richard L. Singletary","Restricted Stock Rights (Deferred Director Compensation)","39704","11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Thomasville Bancshares,"Inc."","President","Charles A Balfour","President","Balfour Timber Company,"Inc."","2020","President,"Balfour Timber Company","Inc."","n/a"
+"Thomasville Bancshares,"Inc."","President","John Bannister","President","Bannister Electric Co.","2020","President","n/a
+"Thomasville Bancshares,"Inc."","President","John Bannister","President","K & L Land,"LLC"","2020","President","n/a
+"Thomasville Bancshares,"Inc."","President","John Bannister","President","Thomasville Service Center","2020","President","n/a
+"Thomasville Bancshares,"Inc."","EVP","Joel W. Barrett","n/a","n/a","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","CEO","Stephen H Cheney","n/a","n/a","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","David A. Cone","President","Cone Machinery,"Inc."","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","David A. Cone","President","PDK Investments,"Inc."","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","David A. Cone","President","Sawdust Trail Investments,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Owner/Broker","Mills Herndon","n/a","First Thomasville Realty,"Inc."","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","Charles H. Hodges,"III"","n/a","n/a","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","Randall L. Moore","n/a","Moore & Porter Produce Brokers","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Tallahasse Homes,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Manassas Homes,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Tallahassee Homes Realty,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Tallahassee Homes Residential,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Dahlgren Homes,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Pedrick Homes,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Developer/Investor","Richard L Singletary,"Jr."","n/a","Oak Grove Hammock,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","Nathaniel Abrams","n/a","Abrams Mobile Document Destruction","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Owner/Manager","Haile McCollum","n/a","Fontaine Maury,"LLC"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President/CEO","Dale R. Powell,"Jr."","n/a","Senior Life Insurance Co.","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","Attorney","Clay Sewell","n/a","Glasgow Farms,"LP"","2020","n/a","n/a"
+"Thomasville Bancshares,"Inc."","President","Van Champion","n/a","Childers Construction Co.","2020","n/a","n/a"
+```

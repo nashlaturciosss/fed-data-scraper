@@ -1,0 +1,25 @@
+Here are the two tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2017","MARY H. BLACKBURN","COMMON STOCK","4100","5.42%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2017","CHARLES D. REED","COMMON STOCK","5977","7.91%","n/a"
+"SCREVEN BANCSHARES,"INC."","SYLVANIA,"GA"","2017","RUTH B. BAZEMORE","COMMON STOCK","4689","6.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Director","James W. Adams","n/a","n/a","2017","Retired Banker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Mary H. Blackburn","n/a","n/a","2017","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director/ Secretary of Board of Directors","Otis M. Chivers","n/a","n/a","2017","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","William C. Lord","Owner","William C. Lord Appraisal Co.","2017","Real Estate","n/a"
+"SCREVEN BANCSHARES,"INC."","Director / Chairman of Board of Directors","R. J. Martin,"III"","n/a","n/a","2017","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","President","David W. Reed,"Co."","2017","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Charles D. Reed","Partner","Whitehill Farm","2017","Retired","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Boddiford Farm Services,"Inc."","2017","CEO","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David P. Boddiford","President","Ogeechee Railway Co.,"Inc."","2017","CEO","n/a"
+"SCREVEN BANCSHARES,"INC."","n/a","Ruth Bazemore","Owner","Professional Insurance Agency","2017","Insurance Broker","n/a"
+"SCREVEN BANCSHARES,"INC."","Director/President/ CEO","Hoke S. Reeves,"III"","n/a","n/a","2017","Bank Officer","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","David Burke","Manager","Koyo Bearings Plant","2017","Plant Manager","n/a"
+"SCREVEN BANCSHARES,"INC."","Director","Todd Bazemore","Owner","Todd Bazemore,"CPA"","2017","Certified Public Accountant","n/a"
+```

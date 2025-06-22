@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Renny B. Eadie,"III"","Common Stock Held","29100","4.76%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Renny B. Eadie,"III"","Preferred Stock Conversion (If converted)","16665","7.29%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Robert M. Eadie","Common Stock Held","22900","3.75%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Robert M. Eadie","Preferred Stock Conversion (If converted)","8334","5.04%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Garland Kirby","Common Stock Held","31201","5.11%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Garland Kirby","Preferred Stock Conversion (If converted)","8334","6.38%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Robin C. Green","Common Stock Held","666","0.11%","2650324"
+"PSB BancGroup,"Inc."","Lake City,"FL"","2016","Robin C. Green","Preferred Stock Conversion (If converted)","34125","5.39%","2650324"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PSB Bancgroup,"Inc."","Pres & Chairman Director","Renny B. Eadie,"III"","Chairman & Director","Peoples State Bank","2016","Owner Concrete Materials Co.","2650324"
+"PSB Bancgroup,"Inc."","Pres & Chairman Director","Renny B. Eadie,"III"","n/a","Columbia Ready Mix Concrete,"Inc."","2016","Owner Concrete Materials Co.","2650324"
+"PSB Bancgroup,"Inc."","Sr. Vice President,"Corporate Secretary Director"","Robin C. Green","President/CEO Director","Peoples State Bank","2016","President/CEO Peoples State Bank","2650324"
+"PSB Bancgroup,"Inc."","Director","John W. Burns,"III"","Agent","State Farm Insurance","2016","Insurance Agent","2650324"
+"PSB Bancgroup,"Inc."","Director","Robert M. Eadie","Owner","Lake City Industries,"Inc."","2016","Owner Building Materials Co","2650324"
+```

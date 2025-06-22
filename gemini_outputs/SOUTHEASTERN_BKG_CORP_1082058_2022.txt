@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOUTHEASTERN BANKING CORPORATION","Crescent,"GA"","2022","Alyson G. Beasley","common stock","816509","25.91%","n/a"
+"SOUTHEASTERN BANKING CORPORATION","St. Simons Island,"GA"","2022","Beth Newton Downey","common stock","182514","5.79%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOUTHEASTERN BANKING CORPORATION","Executive Vice President and Director","Alyson G. Beasley","n/a","n/a","2022","n/a","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Executive Vice President,"Chief Operations Officer","Assistant Corporate Secretary and Director"","Alyson G. Beasley","n/a","n/a","2022","n/a","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Albert P. Downey","Vice President","Golden Isles Realty Company","2022","Realtor","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Albert P. Downey","n/a","Downey Company LLC","2022","Realtor","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Albert P. Downey","n/a","Downey Family Limited Partnership","2022","Realtor","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Treasurer","Robert M. Eidson,"Jr."","n/a","n/a","2022","n/a","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","S. Michael Hardy","Real Estate Agent","Michael Hardy Real Estate,"LLC"","2022","Realtor,"Retired Sales and Marketing Executive"","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Michele Henderson","Sole Member","Henderson Law Firm,"LLC"","2022","Attorney","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Michele Henderson","President","Old Dominion Title Insurance Agency,"Inc."","2022","Attorney","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Michele Henderson","Sole Member","Ford Avenue Properties,"LLC"","2022","Attorney","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Cornelius P. Holland III","n/a","n/a","2022","n/a","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Alva J. Hopkins,"III"","President and Director","Toledo Manufacturing Company","2022","Timber Land Management","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Alva J. Hopkins,"III"","Director","Hopkins-Gowen Oil Company","2022","Timber Land Management","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Alva J. Hopkins,"III"","President","Forest Landowner Foundation","2022","Timber Land Management","n/a"
+"SOUTHEASTERN BANKING CORPORATION","n/a","John C. Houser","n/a","n/a","2022","None","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Cedric Z. King","CEO","King's Consulting LLC","2022","Business Consultant","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Cedric Z. King","CEO","King's Laundromat LLC","2022","Business Consultant","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Cedric Z. King","CEO","All The Time Bail Bonds LLC","2022","Business Consultant","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Craig Root","President","Vista Outdoor Corp.","2022","Real Estate","n/a"
+"SOUTHEASTERN BANKING CORPORATION","Director","Craig Root","President","Satilla Planning,"Inc."","2022","Real Estate","n/a"
+"SOUTHEASTERN BANKING CORPORATION","President and Chief Executive Officer,"Director"","Donald \"Jay\" Torbert,"Jr."","n/a","n/a","2022","n/a","n/a"
+```

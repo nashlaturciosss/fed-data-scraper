@@ -1,0 +1,29 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Monroeville,"Alabama"","2014","L. Walter Crim","Class A Common Stock","17911","0.75%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2014","Richard K Maxwell","Class A Common Stock","9349","0.39%","n/a"
+"United Bancorporation of Alabama,"Inc."","Bay Minette,"Alabama"","2014","Michael R. Andreoli","Class A Common Stock","8753","0.37%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2014","Robert R. Jones,"III"","Class A Common Stock","63134","2.64%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2014","Dale M. Ash","n/a","18616","0.78%","n/a"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2014","David D. Swift","Class A Common Stock","53158","2.21%","n/a"
+"United Bancorporation of Alabama,"Inc."","Jay,"Florida"","2014","Ricky Smith","Class A Common Stock","10077","0.42%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bank","Director","L. Walter Crim","Owner","Central Farm Supply","2014","Owner","994435"
+"United Bank","Director","Richard K Maxwell","Owner","Maxwell Construction,"Inc."","2014","Owner","994435"
+"United Bank","Director","Richard K Maxwell","Owner","West Side Storage Company","2014","Owner","994435"
+"United Bank","Director","Richard K Maxwell","Partner","Triterra Development Co.,"LLC"","2014","Owner","994435"
+"United Bank","Vice Chairman","Michael R. Andreoli","Partner","Robertson,"Andreoli and Covington"","2014","Partner","994435"
+"United Bank","President,"and Chief Executive Officer"","Robert R. Jones,"III"","n/a","n/a","2014","None","994435"
+"United Bank","Director","Dale M. Ash","Partner","Pepsi-Cola Bottling Company of Atmore","2014","Partner","994435"
+"United Bank","Director","Dale M. Ash","Controller","South Alabama Vending Company","2014","Partner","994435"
+"United Bank","Director","Dale M. Ash","Partner","Weeks Bank Mitigation Bank.","2014","Partner","994435"
+"United Bank","Chairman","David D. Swift","Vice-President","Swift Lumber,"Inc."","2014","n/a","994435"
+"United Bank","Chairman","David D. Swift","President","Swift Supply,"Inc."","2014","n/a","994435"
+"United Bank","Chairman","David D. Swift","Partner","Palustris Products,"Ltd."","2014","n/a","994435"
+"United Bank","Director","Ricky Smith","President and Chief Executive Officer","Smith Tractor Company,"Inc",","2014","n/a","994435"
+```

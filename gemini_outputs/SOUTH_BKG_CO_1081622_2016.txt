@@ -1,0 +1,32 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"Georgia"","2016","Lawrence Bennett","common shares","209","3.51%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Lawrence Bennett","common shares","266","4.47%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Lawrence Bennett","QTIP Trust","3321","55.81%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Lawrence Bennett","Olivia Bennett,"LLC"","5","0.08%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Lawrence Bennett","Olivia Bennett Estate","242","4.07%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Paul Bennett","common shares","600","10.08%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Paul Bennett","common shares","10","0.17%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Paul Bennett","QTIP Trust","3321","55.81%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Paul Bennett","Olivia Bennett,"LLC"","5","0.08%","1081622"
+"South Banking Company","Alma,"Georgia"","2016","Paul Bennett","Olivia Bennett Estate","242","4.07%","1081622"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director and Chairman","Pineland Bank","2016","Banking","1081622"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director and Secretary","South Financial Products,"Inc."","2016","Banking","1081622"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director,"Chairman and President"","Peoples Bank","2016","Banking","1081622"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","Director,"Chairman and President"","South Georgia Bankshares","2016","Banking","1081622"
+"South Banking Company","Director","Kenneth F. Wade","Director","Pineland Bank","2016","Banking","1081622"
+"South Banking Company","Director","Charlie Stuckey","Director and Executive Vice President","Pineland Bank","2016","Banking","1081622"
+"South Banking Company","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director,"Vice Chairman"","Pineland Bank","2016","Banking","1081622"
+"South Banking Company","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director","Peoples Bank","2016","Banking","1081622"
+"South Banking Company","Director,"Executive Vice President and Secretary"","Lawrence Bennett","Director","South Georgia Bankshares","2016","Banking","1081622"
+"South Banking Company","Director","Al D Ross","Director and President/CEO","Pineland Bank","2016","Banking","1081622"
+"South Banking Company","Director","Stephen Tuten","n/a","n/a","2016","Banking","1081622"
+"South Banking Company","Director & Vice President","Harry Keith Bennett,"Jr."","Director & President","South Financial Products,"Inc."","2016","Banking","1081622"
+"South Banking Company","Director & Vice President","Harry Keith Bennett,"Jr."","Director & Vice President","Pineland Bank","2016","Banking","1081622"
+```

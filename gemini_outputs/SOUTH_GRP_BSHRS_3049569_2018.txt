@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Group Bancshares Inc","Glennville,"GA"","2018","Michael C. Crummey","Common Stock","16000","7.465%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2018","Jackie Dasher","Common Stock","13975","6.521%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2018","Bran Thompson","Common Stock","18786","8.765%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2018","Edward L. Nelson","Common Stock","15790","7.367%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares Inc","Director","J. Troy Rahn","Dentist","n/a","2018","Dentist","n/a"
+"South Group Bancshares Inc","Director","J. Troy Rahn","Dentist","n/a","2018","Dentist","n/a"
+"South Group Bancshares Inc","Chairman of Board","B. Branford Thompson","CEO","Coastal Wood Products","2018","n/a","n/a"
+"South Group Bancshares Inc","Chairman of Board","B. Branford Thompson","CEO","Thompson Family Holdings LLC","2018","n/a","n/a"
+"South Group Bancshares Inc","Director","Dale Dutton","n/a","n/a","2018","Tattnall County Tax Commissioner","n/a"
+"South Group Bancshares Inc","Director","Jackie Dasher","n/a","n/a","2018","Farmer","n/a"
+"South Group Bancshares Inc","Director","Clyde McCall Woolard,"Jr"","Owner","Tattnall Oil","2018","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Tattnall Oil","2018","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Baldinos USA","2018","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Coastal Restaurant Holdings","2018","Business Owner","n/a"
+"South Group Bancshares Inc","President","Steve Kimbrell","n/a","n/a","2018","n/a","n/a"
+"South Group Bancshares Inc","Director","Edward L. Nelson","n/a","n/a","2018","Manufacturing","n/a"
+"South Group Bancshares Inc","Director","Charles Paul Rose Jr","Judge","n/a","2018","Judge","n/a"
+```

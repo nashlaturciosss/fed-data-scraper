@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2017","Stephen Panepinto","Common Stock","24307","44.7766%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2017","Frances D. Durand","Common Stock","4000","7.3685%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2017","Joseph D. Weidon","Common Stock","2897","5.3366%","n/a"
+"Plaquemine Bancshares Corporation","Calabasa,"CA"","2017","Kathleen Weldon","Common Stock","2886","5.3164%","n/a"
+"Plaquemine Bancshares Corporation","Plaquemine,"LA"","2017","M/M J. D. Weldon","Common Stock","2371","4.3677%","n/a"
+"Plaquemine Bancshares Corporation","Plattenville,"LA"","2017","Gretchen Stemfels","Common Stock","2075","3.8224%","n/a"
+"Plaquemine Bancshares Corporation","Plattenville,"LA"","2017","Service Mortgage Company,"Inc."","Common Stock","1333","2.4556%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bancshares Corporation","Director","Frances D. Durand","Managing Partner","Durand Property L.L.C","2017","Owner of Durand Property LLC 99%","n/a"
+"Plaquemine Bancshares Corporation","Director & Secretary","G.W. Banta","President","J.W. Banta Towing","2017","Owner of J.W. Banta Towing,"Inc. 100%"","n/a"
+"Plaquemine Bancshares Corporation","Director & Secretary","G.W. Banta","President","Plaquemine Towing","2017","Owner of J.W. Banta Towing,"Inc. 100%"","n/a"
+"Plaquemine Bancshares Corporation","Director","J. D. Weldon","n/a","n/a","2017","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2017","Retired","n/a"
+"Plaquemine Bancshares Corporation","Director","Kenneth C. Caruso","n/a","KC5,"LLC"","2017","Managing Partner","n/a"
+"Plaquemine Bancshares Corporation","Director","Harry J Philips,"Jr."","n/a","Taylor Porter Brooks and Phillips,"Attomeys-at-Law"","2017","Managing Partner","n/a"
+"Plaquemine Bancshares Corporation","Director","Leo D Stemfels","n/a","Sternfel's Realty","2017","President","n/a"
+"Plaquemine Bancshares Corporation","Director","Leo D Stemfels","n/a","Arthur J. Gallagher & Co.","2017","President","n/a"
+"Plaquemine Bancshares Corporation","Director & Chairman/President/CEO","Stephen Panepinto","n/a","n/a","2017","Director & Chairman/President/CEO","n/a"
+"Plaquemine Bancshares Corporation","Sr. Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2017","Sr. Vice President,"CFO & Cashier"","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Caroline B. Causin","n/a","n/a","2017","Vice President","n/a"
+"Plaquemine Bancshares Corporation","Vice President","Elizabeth Rivet","n/a","n/a","2017","Vice President","n/a"
+"Plaquemine Bancshares Corporation","Assistant Vice President","Rhett Vaughn","n/a","n/a","2017","Assistant Vice President","n/a"
+```

@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Tallassee,"AL"","2017","Martha (Bobby) Hardy","common stock","16030","6.42%","n/a"
+"PrimeSouth Bancshares,"Inc."","Birmingham,"AL"","2017","G. David Johnson","common stock","16000","6.41%","n/a"
+"PrimeSouth Bancshares,"Inc."","Birmingham,"AL"","2017","Robert L Pike","common stock","37662","15.09%","n/a"
+"PrimeSouth Bancshares,"Inc."","Birmingham,"AL"","2017","RLP 2012 Children's Trust","common stock","27847","11.16%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Director,"CEO"","David W. Baggett,"Jr."","Director & CEO","PrimeSouth Bank","2017","Banker","2858867"
+"PrimeSouth Bancshares,"Inc."","Director,"Secretary"","Lee S. Greer","Director,"Secretary"","PrimeSouth Bank","2017","CFO/Hospital","2858867"
+"PrimeSouth Bancshares,"Inc."","n/a","Warren Eugene Lawrence","Director","PrimeSouth Bank","2017","Business Owner Grocery Stores","2858867"
+"PrimeSouth Bancshares,"Inc."","n/a","Jimmy A. Monk","President","PrimeSouth Bank","2017","Banker","2858867"
+"PrimeSouth Bancshares,"Inc."","CFO","Jodi W. Turner","CFO/COO","PrimeSouth Bank","2017","Banker","2858867"
+"PrimeSouth Bancshares,"Inc."","n/a","Bradley K. Peters","EVP,"Senior Lender"","PrimeSouth Bank","2017","Banker","2858867"
+"PrimeSouth Bancshares,"Inc."","Director","Scott Swicord","Director","PrimeSouth Bank","2017","Contractor","2858867"
+"PrimeSouth Bancshares,"Inc."","n/a","Robert L Pike","No title - Principal Shareholder Only","n/a","2017","Trucking Company","2858867"
+"PrimeSouth Bancshares,"Inc."","n/a","RLP 2012 Children's Trust","No title - Principal Shareholder Only","n/a","2017","Trust","2858867"
+```

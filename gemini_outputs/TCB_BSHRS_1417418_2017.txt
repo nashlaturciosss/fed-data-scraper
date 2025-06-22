@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2017","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","13.52%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2017","Bobby D. or Anita B. Cook","Common Stock","7196","11.17%","n/a"
+"TCB Bancshares,"Inc."","Lexington,"GA"","2017","Marion C. Johnson","Common Stock","5452","8.46%","n/a"
+"TCB Bancshares,"Inc."","Athens,"GA"","2017","Robbie B. Paine Living Trust","Common Stock","4166","6.46%","n/a"
+"TCB Bancshares,"Inc."","Maxeys,"GA"","2017","Kathryn R. Cabaniss","Common Stock","3988","6.19%","n/a"
+"TCB Bancshares,"Inc."","Colbert,"GA"","2017","Edwin R. Hart","Common Stock","3563","5.53%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Commercial Bank","Director Secretary to Board","William M. Cabaniss","n/a","n/a","2017","Retired","469737"
+"The Commercial Bank","Director","Bobby D. Cook","Owner","Cook Builders","2017","Home Builder","469737"
+"The Commercial Bank","Director","Robert C. Johnson","n/a","n/a","2017","Retired","469737"
+"The Commercial Bank","Chairman to Board","Michael D. Sale","n/a","n/a","2017","Banker","469737"
+"The Commercial Bank","Director","Robbie B. Paine Living Trust","n/a","n/a","2017","Banker","469737"
+"The Commercial Bank","n/a","Charles C. Brooks,"Jr."","Owner","Just-In Motor Company,"LLC"","2017","Car Dealer","469737"
+"The Commercial Bank","Director","Joseph D. Taylor,"Jr"","Managing Director/Partner","The Avenue Wealth Management Group","2017","Investment Advisor","469737"
+```

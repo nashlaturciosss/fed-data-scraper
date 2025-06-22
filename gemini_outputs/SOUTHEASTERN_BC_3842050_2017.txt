@@ -1,0 +1,20 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2017","Anthony T Moore","n/a","930","34%"
+"Southeastern Bancorp,"Inc"","St Petersburg,"FL"","2017","Larry Vickers","n/a","330","12%"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2017","Barney B Regen","n/a","200","7%"
+"Southeastern Bancorp,"Inc"","Dickson,"TN"","2017","Charles K Pruett","n/a","150","5%"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southeastern Bancorp,"Inc"","Chairman","Anthony T Moore","CEO & President","See Attached List","2017","Banker","n/a"
+"Southeastern Bancorp,"Inc"","President and Director","Anthony T Moore","CEO & President","See Attached List","2017","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Director","C.K. Pruett","n/a","See Attached List","2017","Contractor","n/a"
+"Southeastern Bancorp,"Inc"","Director","Barney B Regen","n/a","See Attached List","2017","Attorney","n/a"
+"Southeastern Bancorp,"Inc"","Director","B.J. Smith","n/a","n/a","2017","Retired Physician","n/a"
+"Southeastern Bancorp,"Inc"","Director","Reid Walker","n/a","n/a","2017","Retired Sales","n/a"
+"Southeastern Bancorp,"Inc"","Director","Larry E Vickers","n/a","See Attached List","2017","Banker","n/a"
+"Southeastern Bancorp,"Inc"","Secretary","Joe Corlew","Sr VP & CFO","Dickson Rebuilders","2017","Banker","n/a"
+```

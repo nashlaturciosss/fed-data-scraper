@@ -1,0 +1,21 @@
+Here are the two tables in CSV format based on the provided documents:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ServisFirst Bancshares,"Inc."","New York,"NY"","2018","BlackRock,"Inc."","Common Stock","6828128","12.8%","n/a"
+"ServisFirst Bancshares,"Inc."","Malvern,"PA"","2018","The Vanguard Group","Common Stock","4649930","8.72%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"ServisFirst Bancshares,"Inc."","President,"Chief Executive Officer and Director"","Thomas A. Broughton III","President,"Chief Executive Officer and Director"","n/a","2018","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Chairman of the Board (retired 12/31/18)","Stanley M. Brock","President of Brock Investment Company","Brock Investment Company","2018","President of Brock Investment Company","n/a"
+"ServisFirst Bancshares,"Inc."","Director","Michael D. Fuller","President of Double Oak Water Reclamation","Double Oak Water Reclamation","2018","President of Double Oak Water Reclamation","n/a"
+"ServisFirst Bancshares,"Inc."","Director","James J. Filler","Private investor","n/a","2018","Private investor","n/a"
+"ServisFirst Bancshares,"Inc."","Director","J. Richard Cashio","n/a","Tassco,"LLC"","2018","Retired - formerly Chief Executive Officer,"Tassco","LLC"","n/a"
+"ServisFirst Bancshares,"Inc."","Director","Hatton C. V. Smith","President of National Accounts,"Royal Cup Coffee"","Royal Cup Coffee","2018","President of National Accounts,"Royal Cup Coffee"","n/a"
+"ServisFirst Bancshares,"Inc."","Executive Vice President,"Chief Financial Officer","Treasurer and Secretary"","William M. Foshee","n/a","n/a","2018","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Executive Vice President and Chief Operating Officer","Clarence C. Pouncey III","n/a","n/a","2018","n/a","n/a"
+"ServisFirst Bancshares,"Inc."","Director","Irma Loya Tuder","Manager of Tuder Investments,"LLC"","Tuder Investments,"LLC"","2018","Manager of Tuder Investments,"LLC"","n/a"
+"ServisFirst Bancshares,"Inc."","n/a","BlackRock,"Inc."","n/a","n/a","2018","n/a","n/a"
+```

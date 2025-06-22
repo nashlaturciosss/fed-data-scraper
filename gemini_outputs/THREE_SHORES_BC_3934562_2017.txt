@@ -1,0 +1,35 @@
+Here are the two tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Three Shores Bancorporation,"Inc."","El Segundo,"CA"","2017","Lovell Minnick Partners,"LLC"","all voting securities","5419557","22.9%","n/a"
+"Three Shores Bancorporation,"Inc."","San Francisco,"CA"","2017","Parthenon Capital,"LLC"","all voting securities","5419557","22.9%","n/a"
+"Three Shores Bancorporation,"Inc."","New York,"NY"","2017","Gapstow Capital Partners","all voting securities","2233192","9.4%","n/a"
+"Three Shores Bancorporation,"Inc."","San Diego,"CA"","2017","Continental Investors Fund,"LLC"","all voting securities","1512869","6.4%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Three Shores Bancorporation,"Inc."","President & CEO & Director","Gideon Haymaker","n/a","n/a","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","President & CEO & Director","Gideon Haymaker","n/a","Seaside National Bank & Trust","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","Chairman & Director","Thomas Yochum","n/a","n/a","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","Chairman & Director","Thomas Yochum","n/a","Seaside National Bank & Trust","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Brian Golson","n/a","n/a","2017","Partner of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Brian Golson","n/a","Seaside National Bank & Trust","2017","Partner of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Brian Golson","Partner","Parthenon Capital","2017","Partner of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","John Cochran","n/a","n/a","2017","Managing Director of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","John Cochran","n/a","Seaside National Bank & Trust","2017","Managing Director of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","John Cochran","Managing Director","Lovell Minnick Partners,"LLC"","2017","Managing Director of Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Richard Walsh","n/a","n/a","2017","Business owner","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Richard Walsh","n/a","Seaside National Bank & Trust","2017","Business owner","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Richard Walsh","President","Knob Hill Group","2017","Business owner","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Thomas O'Shane","n/a","n/a","2017","retired","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Thomas O'Shane","n/a","Seaside National Bank & Trust","2017","retired","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Charles Bailes","n/a","n/a","2017","Retail-Fine Wine & Spirits","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Charles Bailes","n/a","Seaside National Bank & Trust","2017","Retail-Fine Wine & Spirits","n/a"
+"Three Shores Bancorporation,"Inc."","Director","Charles Bailes","President","ABC Fine Wine & Spirits","2017","Retail-Fine Wine & Spirits","n/a"
+"Three Shores Bancorporation,"Inc."","SVP & Chief Financial Officer","Barry Griffiths","n/a","n/a","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","SVP & Chief Financial Officer","Barry Griffiths","n/a","Seaside National Bank & Trust","2017","n/a","n/a"
+"Three Shores Bancorporation,"Inc."","n/a","Parthenon Capital,"LLC"","n/a","n/a","2017","Private Equity Firm","n/a"
+"Three Shores Bancorporation,"Inc."","n/a","Lovell Minnick Partners,"LLC"","n/a","n/a","2017","Private Equity Firm","n/a"
+```

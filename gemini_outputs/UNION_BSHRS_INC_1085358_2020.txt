@@ -1,0 +1,25 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Union Bank Shares Inc.","Pell City,"Alabama"","2020","Thomas Reed Alexander","Common Stock","274306","20.80%","n/a"
+"Union Bank Shares Inc.","Cropwell,"AL"","2020","Reed Alexander","Common Stock","56550","4.29%","n/a"
+"Union Bank Shares Inc.","Cropwell,"Alabama"","2020","SAL for benefit of Thomas Reed Alexander Sr.","Common Stock","42000","3.19%","n/a"
+"Union Bank Shares Inc.","Pell City,"Alabama"","2020","Rex V. Alexander","Common Stock","305864","23.20%","n/a"
+"Union Bank Shares Inc.","Birmingham,"AL"","2020","Rex Alexander","Common Stock","56550","4.29%","n/a"
+"Union Bank Shares Inc.","Pell City,"alabama"","2020","SAL for benefit of Rex V. Alexander","Common Stock","19490","1.48%","n/a"
+"Union Bank Shares Inc.","n/a","2020","Others","Common Stock","563736","42.76%","n/a"
+"Union Bank Shares Inc.","n/a","2020","Reed Alexander","n/a","n/a","n/a","n/a"
+"Union Bank Shares Inc.","n/a","2020","SAL for benefit of Thomas Reed Alexander Sr.","n/a","n/a","n/a","n/a"
+"Union Bank Shares Inc.","n/a","2020","Rex V. Alexander","n/a","n/a","n/a","n/a"
+"Union Bank Shares Inc.","n/a","2020","Rex Alexander","n/a","n/a","n/a","n/a"
+"Union Bank Shares Inc.","n/a","2020","SAL for benefit of Rex V. Alexander","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Union Bank Shares Inc.","President,"Director"","Thomas Reed Alexander","CEO & Director","Union State Bank","2020","Banker","467733"
+"Union Bank Shares Inc.","President,"Director"","Thomas Reed Alexander","Director","Union State Insurance","2020","Banker","467733"
+"Union Bank Shares Inc.","Treasurer,"Director"","Rex V. Alexander","President & Director","Union State Bank","2020","Banker","467733"
+"Union Bank Shares Inc.","Treasurer,"Director"","Rex V. Alexander","Director","Union State Insurance","2020","Banker","467733"
+"Union Bank Shares Inc.","Director","Patrick S. Burnham","Member","Patrick S. (Rick) Burnham Attorney at Law,"LCC."","2020","Attorney","467733"
+"Union Bank Shares Inc.","Director","Patrick S. Burnham","Owner","Patrick S. (Rick) Burnham Attorney at Law,"LCC."","2020","Attorney","467733"
+"Union Bank Shares Inc.","Secretary","Allison Kilgore","Vice President","Union State Bank","2020","Banker","467733"
+```

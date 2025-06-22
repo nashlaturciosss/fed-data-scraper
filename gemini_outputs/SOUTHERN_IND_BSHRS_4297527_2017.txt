@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2017","Ferris P Youmans","Common Stock","41597","3.06%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2017","Donna Youmans","Common Stock","47384","3.48%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2017","Spencer Youmans","Common Stock","5329","39%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Guy H Wilkes,"JR"","n/a","n/a","2017","n/a","3531176"
+"Southern Independent Bancshares,"Inc"","Director & CFO","John D Adams","n/a","n/a","2017","n/a","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","n/a","2017","Retired Veterinarian","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Farmer","n/a","2017","Retired Veterinarian","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Owner","Andalusia Dental Group","2017","Dentist","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Charles P Cope","n/a","n/a","2017","Retired Insurance Executive","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Harden Enterprises","2017","Entrepreneur","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Norman Hobson","President","Forman Brown Funeral Home","2017","Funeral Director","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","J.M. Jackson Chevrolet","2017","Car Dealer","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Laird Baker & Blackstock","2017","Lawyer","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Pharm-A-Care Pharmacy","2017","Pharmacist","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Gary L. Smith","CEO","Power South","2017","CEO","3531176"
+"Southern Independent Bancshares,"Inc"","Director","James II Tillman,"JR"","Owner","Andalusia Eye Clinic","2017","Optometrist","3531176"
+"Southern Independent Bancshares,"Inc"","Director","Ferris P Youmans","n/a","n/a","2017","Deecased","3531176"
+"Southern Independent Bancshares,"Inc"","n/a","Spencer Youmans","n/a","n/a","2017","Police Officer","3531176"
+"Southern Independent Bancshares,"Inc"","n/a","Donna Youmans","n/a","n/a","2017","House Wife & Private Investor","3531176"
+```

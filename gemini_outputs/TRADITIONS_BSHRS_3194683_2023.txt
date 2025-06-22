@@ -1,0 +1,42 @@
+Here are the two tables in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Tim Compton","Common Stock","40054","2.87%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Tim Compton","Options on Common Stock","16150","1.16%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Traditions Bancshares Inc ESOP 335 (Trustee)","ESOP Trustee - Common Stock","173315","12.41%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Kela LePre`","Common Stock","21767","1.56%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Kela LePre`","Options on Common Stock","15410","1.10%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2023","Traditions Bancshares Inc ESOP 335 (Trustee)","ESOP Trustee Common Stock","173315","12.41%","n/a"
+"Traditions Bancshares,"Inc."","Melody Basch","2023","Melody Basch","n/a","23790","1.70%","n/a"
+"Traditions Bancshares,"Inc."","Gary Campbell 49","2023","Gary Campbell","n/a","20175","1.44%","n/a"
+"Traditions Bancshares,"Inc."","Rick Fulmer 337","2023","Rick Fulmer","n/a","6500","0.47%","n/a"
+"Traditions Bancshares,"Inc."","Wayne Robertson","2023","Wayne Robertson","n/a","18171","1.30%","n/a"
+"Traditions Bancshares,"Inc."","Scotty Segroves","2023","Scotty Segroves","n/a","4100","0.29%","n/a"
+"Traditions Bancshares,"Inc."","Jacquelin Spike","2023","Jacquelin Spike","n/a","20463","1.47%","n/a"
+"Traditions Bancshares,"Inc."","Jimmy D. Walker","2023","Jimmy D. Walker","n/a","16300","1.17%","n/a"
+"Traditions Bancshares,"Inc."","Billy Williams","2023","Billy Williams","n/a","43807","3.14%","n/a"
+"Traditions Bancshares,"Inc."","Faith Hammock","2023","Faith Hammock","n/a","26885","1.93%","n/a"
+"Traditions Bancshares,"Inc."","Wayne Widner","2023","Wayne Widner","n/a","20092","1.44%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Traditions Bancshares,"Inc."","Chairman / President / Director,"President / CEO / Director"","Tim Compton","Managing Partner","Partners Development,"LLC"","2023","Other","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Melody Basch","Owner","Basch Brothers,"LLC"","2023","Retired","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Melody Basch","Owner","Basch Rentals,"LLC"","2023","Retired","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Gary Campbell","Self Employed","n/a","2023","Farming","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Rick Fulmer","n/a","n/a","2023","Retired","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Kela LePre","n/a","n/a","2023","Other","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Wayne Robertson","Self Employed","n/a","2023","Farming","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Scotty Segroves","Member","Cullman Crane,"LLC"","2023","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Scotty Segroves","Member","TSC Development,"LLC"","2023","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Scotty Segroves","Member","TSC Equipment,"LLC"","2023","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Jacquelin Spike","Special Education Coordinator","Marshall County Board of Ed.","2023","Education","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Jimmy Walker","Owner","Walker Appraisal Services","2023","Real Estate / Appraiser","n/a"
+"Traditions Bancshares,"Inc."","Director,"Director"","Jimmy Walker","Owner","J&J Renovation","2023","Real Estate / Appraiser","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director,"Director"","Billy Williams","Owner/President","B. Williams Supply Inc","2023","Building Supplies,"Real estate development"","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director,"Director"","Billy Williams","Partner","Shoreline Properties LLC","2023","Building Supplies,"Real estate development"","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director,"Director"","Billy Williams","Owner","Billy Williams Real Estate,"Inc."","2023","Building Supplies,"Real estate development"","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director,"Director"","Billy Williams","Member","Partners Development,"LLC"","2023","Building Supplies,"Real estate development"","n/a"
+```

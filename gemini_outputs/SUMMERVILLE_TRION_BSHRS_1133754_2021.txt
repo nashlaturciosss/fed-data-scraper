@@ -1,0 +1,23 @@
+"Here are the two CSV tables extracted from the document","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2021","Edward Hurley","Common Stock","16572","28.40%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Rome,"Georgia"","2021","William B Hurley Daughters Trust","Common Stock","16550","28.40%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2021","Cynthia Suzanne Hurley Bowman","Common Stock","9900","16.90%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2021","Minor Child","Common Stock","6732","11.60%","n/a"
+"Summerville/Trion Bancshares,"Inc"","Summerville,"Georgia"","2021","Cynthia Suzanne Hurley,"Custodian"","Common Stock","6732","11.60%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Hurley Foods,"Inc"","2021","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Capital Contour,"LLC"","2021","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","CEO","William B Hurley","CEO & Director","Hurley Law Firm,"LLC"","2021","Banker/Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & President","Edward Hurley","Director & Secretary","Hurley Foods,"Inc"","2021","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Secretary","Suzanne Hurley","Director & President","Hurley Foods,"Inc"","2021","Director","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Katherine Hurley","n/a","n/a","2021","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","J Hoyt Williams","n/a","n/a","2021","Retired Merchant","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Christopher Sutton Connelly","n/a","Cook & Connelly","2021","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director & Vice President","William Tutten","n/a","n/a","2021","Banker","n/a"
+```

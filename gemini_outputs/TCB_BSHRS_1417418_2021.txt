@@ -1,0 +1,20 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2021","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","12.68%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2021","Bobby D. or Anita B. Cook Living Trust","Common Stock","7196","10.47%","n/a"
+"TCB Bancshares,"Inc."","Lexington,"GA"","2021","Marion C. Johnson","Common Stock","5452","7.93%","n/a"
+"TCB Bancshares,"Inc."","Athens,"GA"","2021","Robbie B. Paine Living Trust","Common Stock","4766","6.93%","n/a"
+"TCB Bancshares,"Inc."","Maxeys,"GA"","2021","Kathryn R. Cabaniss","Common Stock","3988","5.80%","n/a"
+"TCB Bancshares,"Inc."","Colbert,"GA"","2021","Edwin R. Hart","Common Stock","3563","5.18%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TCB Bancshares,"Inc."","Director,"Secretary to Board"","William M. Cabaniss","Director/Secretary to Board","The Commercial Bank","2021","Retired","n/a"
+"TCB Bancshares,"Inc."","Lead Director","Bobby D. Cook or Anita B. Cook","Director","The Commercial Bank","2021","Retired","n/a"
+"TCB Bancshares,"Inc."","Director","Robert C. Johnson","Director","The Commercial Bank","2021","Retired","n/a"
+"TCB Bancshares,"Inc."","Director,"President and CEO","Chairman to Board"","Michael D. Sale","Director,"President & CEO"","The Commercial Bank","2021","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Robbie B. Paine Living Trust","Director","The Commercial Bank","2021","Retired","n/a"
+"TCB Bancshares,"Inc."","n/a","Charles C. Brooks,"Jr. Entrusted of the Charles C. Brooks","Jr. Living Trust"","n/a","n/a","2021","Retired","n/a"
+"TCB Bancshares,"Inc."","Director","Joseph D. Taylor,"Jr"","Director","The Commercial Bank","2021","Investment Advisor","The Avenue Wealth Management Group"
+"TCB Bancshares,"Inc."","Director","Joseph D. Taylor,"Jr"","Director","The Commercial Bank","2021","Investment Advisor","JBK Investments"
+```

@@ -1,0 +1,37 @@
+Here are the two CSV tables as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Banking Company","Alma,"GA"","2015","Lawrence Bennett","common shares","209","3.51%","1081622"
+"South Banking Company","Alma,"GA"","2015","Lawrence Bennett","common shares","266","4.47%","1081622"
+"South Banking Company","Alma,"GA"","2015","Lawrence Bennett","common shares","3321","55.81%","1081622"
+"South Banking Company","Alma,"GA"","2015","Lawrence Bennett","common shares","5","0.08%","1081622"
+"South Banking Company","Alma,"GA"","2015","Lawrence Bennett","common shares","242","4.07%","1081622"
+"South Banking Company","Alma,"GA"","2015","Paul Bennett","common shares","600","10.08%","1081622"
+"South Banking Company","Alma,"GA"","2015","Paul Bennett","common shares","10","0.17%","1081622"
+"South Banking Company","Alma,"GA"","2015","Paul Bennett","common shares","3321","55.81%","1081622"
+"South Banking Company","Alma,"GA"","2015","Paul Bennett","common shares","5","0.08%","1081622"
+"South Banking Company","Alma,"GA"","2015","Paul Bennett","common shares","242","4.07%","1081622"
+"South Banking Company","Alma,"GA"","2015","Kenneth F. Wade","common shares","89","1.50%","1081622"
+"South Banking Company","Alma,"GA"","2015","Harry Keith Bennett,"Jr."","common shares","56","0.94%","1081622"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Banking Company","Director,"President","and Treasurer"","Paul Bennett","n/a","n/a","2015","Banking","1081622"
+"South Banking Company","Director and Vice Chairman","Paul Bennett","n/a","Alma Exchange Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director,"Chairman and President"","Paul Bennett","n/a","Citizens State Bank","2015","Banking","1081622"
+"South Banking Company","Director,"Chairman and President"","Paul Bennett","n/a","Peoples State Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director,"Chairman","& President"","Paul Bennett","n/a","Pineland State Bank","2015","Banking","1081622"
+"South Banking Company","Director and Secretary","Paul Bennett","n/a","South Financial Products,"Inc."","2015","Banking","1081622"
+"South Banking Company","Director,"Chairman and President"","Paul Bennett","n/a","Peoples Bank","2015","Banking","1081622"
+"South Banking Company","Director and President","Paul Bennett","n/a","South Georgia Bankshares","2015","Banking","1081622"
+"South Banking Company","Director,"Senior Vice President","and Interim CFO/Cashier"","Kenneth F. Wade","n/a","Alma Exchange Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director","Charlie Stuckey","n/a","Peoples State Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director and Executive Vice President","Charlie Stuckey","n/a","Peoples State Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director,"Executive Vice President and Secretary"","Lawrence Bennett","n/a","Peoples Bank","2015","Banking","1081622"
+"South Banking Company","Director","Richard Williams","n/a","Pineland State Bank","2015","Banking","1081622"
+"South Banking Company","Director","Stephen Tuten","n/a","Alma Exchange Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director & Executive Vice President","Stephen Tuten","n/a","Alma Exchange Bank & Trust","2015","Banking","1081622"
+"South Banking Company","Director","Harry Keith Bennett,"Jr."","n/a","Alma Exchange Bank & Trust","2015","Banking.","1081622"
+```

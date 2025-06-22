@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2017","Joe H. Pugh","Common Stock","40676","10.57%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2017","Earl H. Barr","Common Stock","21030","5.46%","n/a"
+"Security Bancorp,"Inc."","McMinnville,"TN"","2017","Robert W. Newman","Common Stock","20118","5.23%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Security Bancorp,"Inc."","Director & President/CEO","Joe H. Pugh","n/a","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","Director","Robert W. Newman","Partner","Galligan & Newman Atty","2017","Attorney","n/a"
+"Security Bancorp,"Inc."","Director","Ray ("Buzz") Spivey,"Jr."","President","Cumberland Lumber & Mfg,"Inc."","2017","Cumberland Lumber & Mfg,"Inc."","n/a"
+"Security Bancorp,"Inc."","Director/Chairman","Thomas Foster","Owner","Foster & Foster Realty","2017","Foster & Foster Realty and Auction Company","n/a"
+"Security Bancorp,"Inc."","Director","Herschel Wells,"Jr."","Owner","Tennessee Warehouse and Dist.","2017","Tennessee Warehouse and Distribution","n/a"
+"Security Bancorp,"Inc."","n/a","Danny Martin","Sr. Vice President","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Ken Martin","Sr. Vice President","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Barbara A. Page","Sr. Vice President","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Sherry Clendenon","Sr. Vice President","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Angela Brown","Chief Financial Officer","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Michael Griffith","Sr. Vice President","n/a","2017","n/a","n/a"
+"Security Bancorp,"Inc."","n/a","Kelly Basham","Sr. Vice President","n/a","2017","n/a","n/a"
+```

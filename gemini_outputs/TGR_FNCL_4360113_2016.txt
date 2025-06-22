@@ -1,0 +1,37 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TGR Financial,"Inc."","Andover,"MA"","2016","John Rodgers,"LP"","n/a","1355737","7.87%","n/a"
+"TGR Financial,"Inc."","Andover,"MA"","2016","John Rodgers,"LP"","n/a","n/a","n/a","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2016","Endicott Group","n/a","1355737","7.87%","n/a"
+"TGR Financial,"Inc."","Atlanta,"GA"","2016","GMT Capital Group","n/a","2678503","15.55%","n/a"
+"TGR Financial,"Inc."","New York,"NY"","2016","Lightyear Group","n/a","1552783","9.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TGR Financial,"Inc."","Director","Adam D. Compton","Director","GMT Capital Corporation","2016","Senior Managing Director/Portfolio Manager","n/a"
+"TGR Financial,"Inc."","Director","Dulce V. Dudley","Partner","Lighthouse Pediatrics of Naples","2016","Partner","n/a"
+"TGR Financial,"Inc."","Director","Robert M. Feerick","Chairman","Xymox Technologies,"Inc."","2016","Chairman & CEO","n/a"
+"TGR Financial,"Inc."","Director","Robert M. Feerick","Director","Gulfshore Insurance","2016","Chairman & CEO","n/a"
+"TGR Financial,"Inc."","Director","J. Michael Gibbons","Vice President","Endicott Management Company","2016","Vice President","n/a"
+"TGR Financial,"Inc."","Director","J. Michael Gibbons","Member","W.R. Endicott III","2016","Vice President","n/a"
+"TGR Financial,"Inc."","Director","J. Michael Gibbons","Member","W.R. Endicott IV","2016","Vice President","n/a"
+"TGR Financial,"Inc."","Director","John J. Guinee","Managing Partner","Constitution capital Partners,"LLC"","2016","Managing Partner","n/a"
+"TGR Financial,"Inc."","Director","Michael J. Kerschner","Commissioner","Seneca County (Ohio","2016","Commissioner,","n/a"
+"TGR Financial,"Inc."","Director","Bradford B. Kopp","Director","Radius Bancorp,"Inc."","2016","Self Employed","n/a"
+"TGR Financial,"Inc."","Director","Bradford B. Kopp","Director","Radius Bank","2016","Self Employed","n/a"
+"TGR Financial,"Inc."","Director","James SoLindsay","Director","Source One Holdings","2016","Realtor","n/a"
+"TGR Financial,"Inc."","Director","Edward J. Mace","Chief Operating Officer","Ribek Corporation","2016","Self Employed","n/a"
+"TGR Financial,"Inc."","Director","Donald W. Major","n/a","n/a","2016","Retired","n/a"
+"TGR Financial,"Inc."","SEVP &
+Chief Admin.
+"Officer"","Robert T. Reichert","n/a","n/a","2016","Chief Administrative Officer","n/a"
+"TGR Financial,"Inc."","Director &
+"President"","Garrett S. Richter","n/a","n/a","2016","President & Chief Executive Officer","n/a"
+"TGR Financial,"Inc."","Chairman &
+Chief Executive
+"Officer"","Gary L. Tice","n/a","n/a","2016","Chairman","n/a"
+"TGR Financial,"Inc."","Director","Robert T. Zellers","Agent","Tamiami Ford & Tamiami Hyundai","2016","Agent","n/a"
+```

@@ -1,0 +1,17 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TOMBIGBEE BANCSHARES. INC","Sweet Water,"AL"","2017","Stratton Lewis,"Jr"","n/a","4750","13.01%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Sweet Water,"AL"","2017","Mary Jane Loftin","n/a","6750","18.50%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Linden,"AL"","2017","Paul & Betty Owensby","n/a","5000","13.70%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Demopolis,"AL"","2017","Estate of Jack O. Kerby,"Sr"","n/a","3000","8.22%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Sweet Water,"Al"","2017","S. Ford Lewis,"III"","n/a","2000","5.48%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Gallion,"Al"","2017","James M. Lewis","n/a","2000","5.48%","n/a"
+"TOMBIGBEE BANCSHARES. INC","Nanafalia,"Al"","2017","A.W. Compton,"Jr"","n/a","2000","5.48%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TOMBIGBEE BANCSHARES. INC","Director & Chairman","Stratton F. Lewis,"Jr."","President & CEO","Sweet Water State Bank","2017","n/a","253730"
+"TOMBIGBEE BANCSHARES. INC","Director & Vice Chairman","Mary Jane Loftin","Sr. Vice President","Sweet Water State Bank","2017","n/a","253730"
+"TOMBIGBEE BANCSHARES. INC","Director","S. Ford Lewis,"III"","Executive V Pres","Sweet Water State Bank","2017","n/a","253730"
+"TOMBIGBEE BANCSHARES. INC","Director & Secretary","J. Olen Kerby,"Jr"","Sr Executive V Pres","Sweet Water State Bank","2017","n/a","253730"
+```

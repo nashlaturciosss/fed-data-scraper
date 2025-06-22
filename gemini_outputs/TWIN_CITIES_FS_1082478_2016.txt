@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2016","Ben Robertson","n/a","89491","16.82","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2016","Joe B. Bruce","n/a","67998","12.78","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2016","Leon Shields","n/a","35000","6.58","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2016","John G. Proffitt","n/a","27813","5.23","n/a"
+"Twin Cities Financial Services,"Inc."","Maryville,"Tennessee"","2016","John W. Clabough,"Jr."","n/a","26928","5.06","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Twin Cities Financial Services,"Inc."","Director","Jerry Dean","Director","n/a","2016","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Bill Clabough","Director","n/a","2016","Exec of Non Profit","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Leann Hicks","Director","n/a","2016","Education","n/a"
+"Twin Cities Financial Services,"Inc."","Vice Chairman Director","John Proffitt","Vice Chairman Director","n/a","2016","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Ben Robertson","Director","n/a","2016","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Leon Shields","Director","n/a","2016","Insurance","n/a"
+"Twin Cities Financial Services,"Inc."","Secretary and Director","Jim Warren","Secretary and Director","n/a","2016","Engineer","n/a"
+"Twin Cities Financial Services,"Inc."","CEO Director","Gaynell Lawson","CEO Director","n/a","2016","Banker","n/a"
+"Twin Cities Financial Services,"Inc."","Chairman and Director","Robert L. Carroll","Chairman and Director","n/a","2016","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","Assis Secretary","G. Alvin Grubb","SEVP/Assi Sec","n/a","2016","Banker","n/a"
+"Twin Cities Financial Services,"Inc."","Director","Joe B. Bruce","n/a","n/a","2016","Retired","n/a"
+"Twin Cities Financial Services,"Inc."","President Director","Michael L. Baker","President Director","n/a","2016","Banker","n/a"
+"Twin Cities Financial Services,"Inc."","n/a","John W. Clabough,"Jr."","n/a","n/a","2016","Retired","n/a"
+```

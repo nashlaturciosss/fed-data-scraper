@@ -1,0 +1,29 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"St. Francisville Bancshares Inc","St. Francisville,"LA"","2023","H. Carter Leak,"IV"","n/a","25534","14.51%","n/a"
+"St. Francisville Bancshares Inc","St. Francisville,"LA"","2023","J. Michael Thompson","n/a","16531","14.73%","n/a"
+"St. Francisville Bancshares Inc","St. Francisville,"LA"","2023","James B Chaffin","n/a","11831","6.72%","n/a"
+"St. Francisville Bancshares Inc","St. Francisville,"LA"","2023","Michael & Patricia Delatte Irrevocable Trust UTA","n/a","11642","6.61%","n/a"
+"St. Francisville Bancshares Inc","St. Francisville,"LA"","2023","Joseph W. Yates,"Jr."","n/a","10986","6.24%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"St. Francisville Bancshares Inc","President & CEO","H. Carter Leak IV","Director","Louisiana Bankers Association,"Inc."","2023","n/a","n/a"
+"St. Francisville Bancshares Inc","CFO,"EVP Operations"","James B. Chaffin","President","Audubon Title Insurance Agency,"LLC"","2023","n/a","n/a"
+"St. Francisville Bancshares Inc","Director","J. Michael Thompson","Owner","Thompson Law Firm,"APLC"","2023","Attorney","n/a"
+"St. Francisville Bancshares Inc","Director","J. Michael Thompson","Director","West Feliciana Development Foundation","2023","Attorney","n/a"
+"St. Francisville Bancshares Inc","Director","J. Michael Thompson","Director","West Feliciana Chamber of Commerce","2023","Attorney","n/a"
+"St. Francisville Bancshares Inc","Director","J. Michael Thompson","Owner","Thompson Properties,"LLC"","2023","Attorney","n/a"
+"St. Francisville Bancshares Inc","Director","Joseph W. Yates,"Jr."","CEO","First Heritage Group","2023","Consultant","n/a"
+"St. Francisville Bancshares Inc","Director","David W. Butler,"Jr."","Owner","Butler & Company,"Inc."","2023","President","n/a"
+"St. Francisville Bancshares Inc","Director","Frank A. Rabalais,"III"","Owner","Rabalais Farms,"Inc."","2023","Owner","n/a"
+"St. Francisville Bancshares Inc","Director","Frank A. Rabalais,"III"","Partner","Rabalais Management Services,"LLC"","2023","Owner","n/a"
+"St. Francisville Bancshares Inc","Director","Harold L. Jeansonne","Owner","Harold L. Jeansonne,"CPA","APAC"","2023","CPA","n/a"
+"St. Francisville Bancshares Inc","Director","Harold L. Jeansonne","President","Jeansonne Properties,"LLC"","2023","CPA","n/a"
+"St. Francisville Bancshares Inc","Director","Hillery G. Spillman,"Jr."","Manager","Spillman Farms,"LLC"","2023","Farmer","n/a"
+"St. Francisville Bancshares Inc","Director","Hillery G. Spillman,"Jr."","Partner"," Spillman & Spillman","2023","Farmer","n/a"
+"St. Francisville Bancshares Inc","Director","Hillery G. Spillman,"Jr."","Partner","Spillman Land Company","2023","Farmer","n/a"
+"St. Francisville Bancshares Inc","Director","John T. Cotton","Owner","Cotton Law Firm,"LLC"","2023","Attorney","n/a"
+```

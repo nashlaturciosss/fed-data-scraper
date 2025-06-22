@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","I William B Hurley","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","J David Bennett","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Kenneth D. Burns","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Alan D. Brown","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Mark L. Edge","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Robert T. Gordon","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Douglas A. Henderson","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Harold D. Murphy","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","James E. Sizemore","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","David A. Smith","n/a","n/a","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","n/a","2023","Jerry L. Ware","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Summerville/Trion Bancshares,"Inc"","CEO","I William B Hurley","n/a","n/a","2023","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","J David Bennett","President","Bennett Trucking Inc.","2023","Owner","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Kenneth D. Burns","President","Burns Industrial Supply Company","2023","Owner","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Alan D. Brown","n/a","n/a","2023","Owner,"Brown Funeral Home"","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Mark L. Edge","n/a","n/a","2023","Owner,"Edge Farms"","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Robert T. Gordon","n/a","n/a","2023","Gordon Oil Company","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Douglas A. Henderson","n/a","n/a","2023","Attorney","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Harold D. Murphy","n/a","n/a","2023","Owner,"Murphy Oil Company"","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","James E. Sizemore","Owner","Chattooga Tire","2023","n/a","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","David A. Smith","n/a","n/a","2023","CPA","n/a"
+"Summerville/Trion Bancshares,"Inc"","Director","Jerry L. Ware","n/a","n/a","2023","Retired Educator","n/a"
+```

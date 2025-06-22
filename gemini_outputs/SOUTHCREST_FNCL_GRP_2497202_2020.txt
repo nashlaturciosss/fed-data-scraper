@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Rancho SanteFe,"CA"","2020","Castle Creek Capital Partners V,"LP"","n/a","505,"000"","8.23%","2497202"
+"SouthCrest Financial Group,"Inc."","Arlington,"VA"","2020","Investment Vehicles Advised by EJF Capital","n/a","467,"095"","7.61%","2497202"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","Owner","Wyatt Realty Company","2020","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director,"Chairman"","Harold W. Wyatt,"III"","Member","Wyatt Capital,"LLC"","2020","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Joan Cravey","n/a","n/a","2020","n/a","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","CEO","Duffey Southeast,"Inc."","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Chairman of the Board","Duffey Southeast Holdings,"Inc."","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Managing Partner","Spring Farm,"LLC"","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","President","Three Rivers Resort,"Inc."","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Director","AGC Georgia","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Board of Governors","AGC America","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Director","Technical College System of Georgia","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Robert D. Baker","Director","W.D. Tripp Foundation","2020","Construction Company Owner","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Attorney","McRae,"Smith","Peek","Harman","& Monroe","LLP"","2020","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Director & Secretary","Pinetree Properties","2020","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Director & Secretary","MSP Partners,"LLC"","2020","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Michael D. McRae","Director & Secretary","Seven Springs,"LLC"","2020","Attorney","2497202"
+"SouthCrest Financial Group,"Inc."","Director,"Vice Chairman"","Tony Scavuzzo","Principal","Castle Creek Capital","2020","Investments","2497202"
+"SouthCrest Financial Group,"Inc."","Director","Daniel G. Broos","Managing Member","Brighton Partners,"LLC"","2020","Private Equity Investment","2497202"
+"SouthCrest Financial Group,"Inc."","Director","George Hovis","President","Hovis Homes,"Inc."","2020","Real Estate","2497202"
+"SouthCrest Financial Group,"Inc."","President and Chief Executive Officer","Brian Schmitt","n/a","n/a","2020","n/a","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Financial Officer"","David Andrew Borrmann","n/a","n/a","2020","n/a","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Accounting Officer"","Rebecca Bell","n/a","n/a","2020","n/a","2497202"
+"SouthCrest Financial Group,"Inc."","Executive VP,"Chief Credit Officer"","Michael R. Washburn","n/a","n/a","2020","n/a","2497202"
+```

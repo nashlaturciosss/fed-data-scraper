@@ -1,0 +1,23 @@
+Here are the requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2020","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","12.77%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2020","Bobby D. or Anita B. Cook","Common Stock","7196","10.55%","n/a"
+"TCB Bancshares,"Inc."","Lexington,"GA"","2020","Marion C. Johnson","Common Stock","5452","7.99%","n/a"
+"TCB Bancshares,"Inc."","Athens,"GA"","2020","Robbie B. Paine Living Trust","Common Stock","4766","6.99%","n/a"
+"TCB Bancshares,"Inc."","Maxeys,"GA"","2020","Kathryn R. Cabaniss","Common Stock","3988","5.85%","n/a"
+"TCB Bancshares,"Inc."","Colbert,"GA"","2020","Edwin R. Hart","Common Stock","3563","5.22%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TCB Bancshares,"Inc."","Director Secretary to Board","William M. Cabaniss","Director/Secretary to Board","n/a","2020","Retired","n/a"
+"TCB Bancshares,"Inc."","Lead Director","Bobby D. Cook or Anita B. Cook","Director","n/a","2020","Retired","n/a"
+"TCB Bancshares,"Inc."","Director","Robert C. Johnson","Director","n/a","2020","Retired","n/a"
+"TCB Bancshares,"Inc."","Director President & CEO","Michael D. Sale","Director Chairman to Board","n/a","2020","Banker","n/a"
+"TCB Bancshares,"Inc."","Director","Robbie B. Paine Living Trust","Director","n/a","2020","Retired","n/a"
+"TCB Bancshares,"Inc."","n/a","Charles C. Brooks,"Jr. Entrusted of the Charles C. Brooks","Jr. Living Trust"","n/a","n/a","2020","Retired","n/a"
+"TCB Bancshares,"Inc."","Director","Joseph D. Taylor,"Jr"","Director","The Avenue Wealth Management Group","2020","Investment Advisor","n/a"
+"TCB Bancshares,"Inc."","Director","Joseph D. Taylor,"Jr"","Director","JBK Investments","2020","Investment Advisor","n/a"
+```

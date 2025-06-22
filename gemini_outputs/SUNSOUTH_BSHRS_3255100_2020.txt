@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","H. MONTY WEIGEL","Common Stock","11226","22.43%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","J. STEVEN Roy","Common Stock","11042","22.07%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","EDC INVESTMENTS","Common Stock","4200","8.39%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","JOHN H. WATSON","Common Stock","3640","7.27%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","CALVIN R TURNER","Common Stock","3419","6.83%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","D. SHANE SINQUEFIELD","Common Stock","2794","5.58%","n/a"
+"SunSouth Bancshares,"Inc."","Dothan,"USA"","2020","G. MACK DOVE","Common Stock","2600","5.20%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SunSouth Bancshares,"Inc."","Director","DAWN W. DUNNING-THEUNE","n/a","Capital Concepts,"Inc."","2020","Homemaker","n/a"
+"SunSouth Bancshares,"Inc."","Director","GREGORY HOFFMAN","CFO","Wiregrass Construction","2020","CFO - Construction Company","n/a"
+"SunSouth Bancshares,"Inc."","Director and Chairman","J. STEVEN ROY","Director and Chairman","Citizens Southern Bancshares,"Inc."","2020","CFO of Private Trucking Company","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Holdings,"LLC"","2020","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Phenix City,"LLC"","2020","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Eufalua,"LLC"","2020","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","D. SHANE SINQUEFIELD","Managing Partner","Flowers Real Estate Holdings,"LLC"","2020","Insurance","n/a"
+"SunSouth Bancshares,"Inc."","Director","CALVIN R. TURNER,"JR."","Vice President / CFO/Co-Owner","Bob Woodall Air Care Systems,"LLC"","2020","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares,"Inc."","Director","CALVIN R. TURNER,"JR."","Vice President / CFO/Co-Owner","Ten Four,"LLC"","2020","Vice President / CFO Co-Owner of HVAC Dealer","n/a"
+"SunSouth Bancshares,"Inc."","President / CEO","H. MONTY WEIGEL","Owner","Turnfield Properties,"LLC"","2020","n/a","n/a"
+```

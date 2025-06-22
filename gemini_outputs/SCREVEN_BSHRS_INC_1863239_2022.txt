@@ -1,0 +1,12 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","Statesboro,"GA"","2022","JAMES C. HAYES,"JR."","Common Stock","8314","7.37%","n/a"
+"SCREVEN BANCSHARES,"INC."","Sylvania,"GA"","2022","HOKE S. REEVES","Common Stock","16531","14.73%","n/a"
+"SCREVEN BANCSHARES,"INC."","Sylvania,"GA"","2022","ESTATE OF R.N. FRANKUM,"JR."","Common Stock","7749","6.88%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SCREVEN BANCSHARES,"INC."","DIRECTOR AND PRESIDENT","HOKE S. REEVES","n/a","n/a","2022","n/a","n/a"
+```

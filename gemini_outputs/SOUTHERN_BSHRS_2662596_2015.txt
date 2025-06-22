@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Bankshares Inc.","Claxton,"GA"","2015","Ralph A. Dixon Estate","n/a","44122","65%","2642596"
+"Southern Bankshares Inc.","Claxton,"GA"","2015","George W. Strickland,"Jr."","n/a","4700","7%","2642596"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Bankshares,"Inc."","Director","W G Boney","n/a","Boney's Drug Store","2015","Retired Owner","452739"
+"Southern Bankshares,"Inc."","Director","C Wayne Collins","n/a","n/a","2015","Retired","452739"
+"Southern Bankshares,"Inc."","President","Emmett O Daniel","n/a","Daniel,"Inc."","2015","President","452739"
+"Southern Bankshares,"Inc."","Vice President","Middleton A Parker","n/a","Claxton Bakery Inc","2015","Vice President","452739"
+"Southern Bankshares,"Inc."","Vice President","Paul E Parker","n/a","Claxton Bakery Inc","2015","Vice President","452739"
+"Southern Bankshares,"Inc."","Vice President","William Dale Parker","n/a","Claxton Bakery Inc","2015","Vice President","452739"
+"Southern Bankshares,"Inc."","Director","Aubrey Strickland","n/a","n/a","2015","Retired","452739"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Pres-Canoochee Vet Assn","n/a","2015","President","452739"
+"Southern Bankshares,"Inc."","Director","Keith E Miller","Sec-Treas-MBM-DBA","n/a","2015","President","452739"
+"Southern Bankshares,"Inc."","Director","Jerry Lane","n/a","n/a","2015","President","452739"
+"Southern Bankshares,"Inc."","Director","Tommy Strickland","Partner,"President"","Evans Concrete,"LLC"","2015","Chairman of the Board","452739"
+"Southern Bankshares,"Inc."","Director","Marshall R. Thigpen,"Jr."","President","Bulloch Outdoor Adv","2015","Retired CPA","452739"
+"Southern Bankshares,"Inc."","Director","Marshall R. Thigpen,"Jr."","President","Dixon Mtr Co.","2015","Retired CPA","452739"
+"Southern Bankshares,"Inc."","CEO","Philip Williams","n/a","n/a","2015","President","452739"
+```

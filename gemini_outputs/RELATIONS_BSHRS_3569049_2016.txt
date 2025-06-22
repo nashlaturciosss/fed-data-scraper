@@ -1,0 +1,23 @@
+"Here are the two CSV tables extracted from the provided document","following all specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Relations Bancshares,"Inc."","Vernon,"AL"","2016","Richard ""Mac"" Mayers","Common Stock","42080","8.199%","3569049"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Relations Bancshares,"Inc."","Chairman & CEO,"Director"","Mark Wilson","n/a","n/a","2016","Banker","3569049"
+"Relations Bancshares,"Inc."","President,"Director"","Tony Sparks","n/a","n/a","2016","Banker","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Owner","Mayers & Co,"PC"","2016","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","n/a","Midsouth Petro Corp","2016","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","n/a","Sipsey River Oil","2016","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","Partner","Titan Capital,"LLC"","2016","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Richard ""Mac"" Mayers","n/a","GM Properties,"LLC"","2016","Accountant","3569049"
+"Relations Bancshares,"Inc."","Director","Ronald K. Harris","President","Delta Transfer","2016","Cross Country Moving & Storage","3569049"
+"Relations Bancshares,"Inc."","Director","Phillip Laird","Owner","Laird & Robertson","2016","Attorney","3569049"
+"Relations Bancshares,"Inc."","Director","Jim Woods","Owner","Jasper Auto Sales","2016","Auto Sales","3569049"
+"Relations Bancshares,"Inc."","Senior Vice President","Walker Wilson","n/a","n/a","2016","Banker","3569049"
+"Relations Bancshares,"Inc."","Chief Operating Officer","Debra Kay Sartain","n/a","n/a","2016","Banker","3569049"
+"Relations Bancshares,"Inc."","Director","Haig Wright","n/a","Byars Wright Insurance","2016","Insurance Broker","3569049"
+```

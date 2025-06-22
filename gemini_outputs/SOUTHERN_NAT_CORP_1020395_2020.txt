@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern National Corporation","Andalusia,"AL"","2020","The U.W.W. Sidney Fuller Family Trust","Common","99998","8.37%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2020","Louisa Mann Baker","Common","70000","5.86%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2020","David McKowen,"Jr"","Common","110500","9.25%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2020","James M. Taylor II Family Trust","Common","75000","6.28%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2020","Charles Roland","Common","150500","12.59%","n/a"
+"Southern National Corporation","Andalusia,"AL"","2020","John Vick","Common","100000","8.37%","n/a"
+"Southern National Corporation","Freeport,"FL"","2020","Thomas E Lane","Common","85000","7.11%","n/a"
+"Southern National Corporation","Destin,"FL"","2020","Rupert E. Phillips","Common","100000","8.37%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern National Corporation","Director,"President"","Charles Roland","n/a","n/a","2020","Farmer","n/a"
+"Southern National Corporation","Director","Kim Roland","n/a","n/a","2020","Retired","n/a"
+"Southern National Corporation","Director","J Mel Fuller","n/a","Builder","2020","Builder Columns & Moldings","n/a"
+"Southern National Corporation","Director","Mark Harper","n/a","President","2020","President,"Harper Electric Const Co"","n/a"
+"Southern National Corporation","Director,"Vice-Chariman of the Board"","David McKowen,"Jr"","n/a","n/a","2020","M.D.,"Retired"","n/a"
+"Southern National Corporation","Director","John Taylor","n/a","VP","2020","VP General Parts,"Inc.","Carquest"","n/a"
+"Southern National Corporation","Director","Riley R.Taylor","n/a","Owner","2020","Owner Taylor Linen Service","n/a"
+"Southern National Corporation","Director,"Chairman of the Board","Chief Executive Officer"","John E Vick","n/a","Owner","2020","Owner,"John Vick & Company"","n/a"
+"Southern National Corporation","Director","Thomas E Lane","n/a","Retired","2020","Retired","n/a"
+"Southern National Corporation","Director,"Secretary"","Louisa M Baker","n/a","Retired","2020","Retired","n/a"
+"Southern National Corporation","Director","Daniel Taylor","n/a","Owner","2020","Owner Medical Clinics","n/a"
+```

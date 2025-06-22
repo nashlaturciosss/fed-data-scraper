@@ -1,0 +1,30 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"South Group Bancshares Inc","Glennville,"GA"","2019","Michael C. Crummey","Common Stock","16000","7.467%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2019","Jackie Dasher","Common Stock","13975","6.522%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2019","Bran Thompson","Common Stock","18886","8.814%","n/a"
+"South Group Bancshares Inc","Glennville,"GA"","2019","Edward L. Nelson","Common Stock","17457","8.147%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"South Group Bancshares Inc","Director","J. Troy Rahn","Dentist","n/a","2019","Dentist","n/a"
+"South Group Bancshares Inc","Director","J. Troy Rahn","Dentist","J. Troy Rahn,"Dentistry"","2019","Dentist","n/a"
+"South Group Bancshares Inc","Chairman of Board","B. Branford Thompson","CEO","Coastal Wood Products","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","B. Branford Thompson","CEO","Coastal Wood Products","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","B. Branford Thompson","President","Thompson Family Holdings LLC","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","B. Branford Thompson","Member","Thompson Forestry Holdings LLC","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","B. Branford Thompson","Member","Ford III Investments LLC","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","Dale Dutton","Director","Dutton Enterprises Inc","2019","Tattnall County Tax Commissioner (Retired)","n/a"
+"South Group Bancshares Inc","Director","Jackie Dasher","Director","n/a","2019","Farmer","n/a"
+"South Group Bancshares Inc","Director","Clyde McCall Woolard,"Jr"","Owner","Tattnall Oil","2019","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Tattnall Oil","2019","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Baldinos USA","2019","Business Owner","n/a"
+"South Group Bancshares Inc","Director","Gregory Jones Woolard","Owner","Coastal Restaurant Holdings","2019","Business Owner","n/a"
+"South Group Bancshares Inc","President","Steve Kimbrell","President","n/a","2019","n/a","n/a"
+"South Group Bancshares Inc","Director","Edward L. Nelson","Director","n/a","2019","Manufacturing","n/a"
+"South Group Bancshares Inc","Director","Charles Paul Rose Jr","Director","n/a","2019","Judge","n/a"
+"South Group Bancshares Inc","Director","John Shuman","Owner","Shuman Farms,"Inc"","2019","Business Owner","n/a"
+"South Group Bancshares Inc","Director","John Shuman","Owner","Shuman Packing LLC","2019","Business Owner","n/a"
+```

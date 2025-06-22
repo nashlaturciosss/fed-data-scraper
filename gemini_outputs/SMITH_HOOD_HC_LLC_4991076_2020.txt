@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Huntington,"WV"","2020","Marshall T. Reynolds","n/a","2240560","23.0%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2020","William K. Hood","n/a","2321919","23.8%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2020","Smith & Hood Holding Company LLC","n/a","2321919","23.8%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2020","Edgar R. Smith III","n/a","2321919","23.8%","422433"
+"First Guaranty Bancshares,"Inc."","Amite,"LA"","2020","Smith & Hood Investments LLC","n/a","2321919","23.8%","422433"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2020","William K. Hood","n/a","n/a","50.0%","n/a"
+"Smith & Hood Holding Company,"LLC"","Amite,"LA"","2020","Edgar R. Smith III","n/a","n/a","50.0%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"First Guaranty Bancshares,"Inc."","Director,"Director","First Guaranty Bank"","William K. Hood","Director","Hood Automotive Group","2020","President of Hood Automotive Group","n/a"
+"First Guaranty Bancshares,"Inc."","CEO/President,"CEO/President","First Guaranty Bank"","Alton B. Lewis","n/a","n/a","2020","CEO/President,"First Guaranty Bancshares","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chief Financial Officer,"Chief Financial Officer","First Guaranty Bank"","Eric J. Dosch","n/a","n/a","2020","Chief Financial Officer,"First Guaranty Bancshares","Inc."","n/a"
+"First Guaranty Bancshares,"Inc."","Chairman,"President & Manager","Harrah & Reynolds Corp","Chairman","Energy Services of America Corp","Chairman","River City Associates","Inc","Chairman","Champion Industries"","Marshall T. Reynolds","Chairman","Energy Services of America Corp","2020","Chairman of Champion Industries,"Inc"","n/a"
+"First Guaranty Bancshares,"Inc."","Director,"Director","First Guaranty Bank"","Jack Rossi","n/a","n/a","2020","Certified Public Accountant Retired","n/a"
+"First Guaranty Bancshares,"Inc."","Director,"Director","First Guaranty Bank"","Edgar R. Smith(1)","Vice-President and CEO","Smitty's Supply Inc","2020","Vice-President and CEO Smitty's Supply Inc","n/a"
+"Smith & Hood Holding Company,"LLC"","Member","William K. Hood*","n/a","Hood Automotive Group","2020","President of Hood Automotive Group","n/a"
+"Smith & Hood Holding Company,"LLC"","Member","Edgar R. Smith","n/a","Smitty's Supply Inc.","2020","President and CEO Smitty's Supply Inc.","n/a"
+```

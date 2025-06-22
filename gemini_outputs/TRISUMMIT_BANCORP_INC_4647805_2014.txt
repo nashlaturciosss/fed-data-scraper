@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"TriSummit Bancorp,"Inc."","Director","W. Douglas Alley,"Jr."","n/a","n/a","2014","Retired Auto Dealer","n/a"
+"TriSummit Bancorp,"Inc."","Director and Vice Chair","Lois A. Clarke","Vice-Chair/Treasurer","The United Company","2014","Vice-Chair/Treasurer,"The United Company"","n/a"
+"TriSummit Bancorp,"Inc."","Director","Sam F. Grigsby,"Jr."","n/a","n/a","2014","Cattle Rancher","n/a"
+"TriSummit Bancorp,"Inc."","Director and Secretary","Richard A. Manahan,"Ed.D."","President/CEO Emeritus","East TN State University Foundation","2014","College Professor","n/a"
+"TriSummit Bancorp,"Inc."","Director and Chairman","C. Mack Patton,"M.D."","n/a","n/a","2014","Retired Urologist","n/a"
+"TriSummit Bancorp,"Inc."","Director,"President and CEO"","R. Lynn Shipley,"Jr."","n/a","n/a","2014","Banker","n/a"
+"TriSummit Bancorp,"Inc."","Director","Brenda White Wright,"Ed.D."","n/a","n/a","2014","Motivational Speaker","n/a"
+"TriSummit Bancorp,"Inc."","Executive Vice President and CFO","George J. Schneider","n/a","n/a","2014","Banker","n/a"
+```

@@ -1,0 +1,38 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2020","Tim Compton","Common Stock","57243","4.69%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2020","Tim Compton","Options on Common Stock","10500","0.86%","n/a"
+"Traditions Bancshares,"Inc."","Hanceville,"AL"","2020","Tim Compton","ESOP Trustee - Common Stock","123897","10.16%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Traditions Bancshares,"Inc."","Director","Melody Basch","Owner","Prestigious Pets,"LLC"","2020","Pet grooming/retail sales","n/a"
+"Traditions Bancshares,"Inc."","Director","Melody Basch","Owner","Basch Brothers,"LLC"","2020","Pet grooming/retail sales","n/a"
+"Traditions Bancshares,"Inc."","Director","Melody Basch","Owner","Basch Rentals,"LLC"","2020","Pet grooming/retail sales","n/a"
+"Traditions Bancshares,"Inc."","Director","Gary Campbell","Farming","Self Employed","2020","Farming","n/a"
+"Traditions Bancshares,"Inc."","Chairman / President / Director","Tim Compton","Managing Partner","Partners Development,"LLC"","2020","Other","n/a"
+"Traditions Bancshares,"Inc."","Director","Rick Fulmer","Mortician","n/a","2020","Mortician","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Partner","Bement-Hammock Enterprises,"Inc."","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Member","Hanceville Nursing & Rehab Ctr,"Inc."","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Partner","Faith Family Farm Partnership,"LTD"","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Partner","Hammock Family Assets,"LLC"","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Owner","Faith Hammock Irrevocable Trust","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Faith Hammock","Owner","Moody Family Interest,"LLC"","2020","Farming & Cattle","n/a"
+"Traditions Bancshares,"Inc."","Director","Wayne Robertson","Self Employed","n/a","2020","Other","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Stockholder","Segroves & Co. P.C.","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Member","Cullman Leasing LLC","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Member","TSC Development,"LLC"","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Member","TSC Equipment,"LLC"","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Member","CS Management","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Scotty Segroves","Member","3550,"LLC"","2020","Finance","n/a"
+"Traditions Bancshares,"Inc."","Director","Jacquelin Spike","Special Education Coordinator","Marshall County Board of Ed.","2020","Education","n/a"
+"Traditions Bancshares,"Inc."","Director","Jimmy Walker","Owner","Walker Appraisal Services","2020","Real Estate / Appraiser","n/a"
+"Traditions Bancshares,"Inc."","Director","Jimmy Walker","Owner","J&J Renovation","2020","Real Estate / Appraiser","n/a"
+"Traditions Bancshares,"Inc."","Director","Wayne Widner","Farming","n/a","2020","Farming","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director","Billy Williams","Owner/President","B. Williams Supply Inc","2020","Excavation","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director","Billy Williams","Partner","Shoreline Properties LLC","2020","Excavation","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director","Billy Williams","Owner","Billy Williams Real Estate,"Inc."","2020","Excavation","n/a"
+"Traditions Bancshares,"Inc."","Secretary / Director","Billy Williams","Member","Partners Development,"LLC"","2020","Excavation","n/a"
+```

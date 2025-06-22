@@ -1,0 +1,26 @@
+Here are the two CSV tables containing the requested information from the FR Y-6 form:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2015","Charles C. Brooks,"Jr. Living Trust"","Common Stock","8714","13.76%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2015","Bobby D. or Anita B. Cook","Common Stock","7196","11.37%","n/a"
+"TCB Bancshares,"Inc."","Lexington,"GA"","2015","Marion C. Johnson","Common Stock","5452","8.61%","n/a"
+"TCB Bancshares,"Inc."","Athens,"GA"","2015","Robbie B. Paine Living Trust","Common Stock","4116","6.50%","n/a"
+"TCB Bancshares,"Inc."","Maxeys,"GA"","2015","Kathryn R. Cabaniss","Common Stock","3988","6.30%","n/a"
+"TCB Bancshares,"Inc."","Colbert,"GA"","2015","Edwin R. Hart","Common Stock","3563","5.63%","n/a"
+"TCB Bancshares,"Inc."","Crawford,"GA"","2015","C. C. Brooks","Common Stock","12138","18.78%","n/a"
+"TCB Bancshares,"Inc."","Winterville,"GA"","2015","James C. Mercer,"Jr."","Common Stock","425","0.67%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Commercial Bank","Director","William M. Cabaniss","n/a","n/a","2015","Retired","469737"
+"The Commercial Bank","Director/Secretary to Board","William M. Cabaniss","n/a","n/a","2015","Retired","469737"
+"The Commercial Bank","Director","Bobby D. Cook or Anita B. Cook","Owner","Cook Builders","2015","Home Builder","469737"
+"The Commercial Bank","Director","Robert C. Johnson","n/a","n/a","2015","Retired","469737"
+"The Commercial Bank","Director President and CEO","Michael D. Sale","n/a","n/a","2015","Banker","469737"
+"The Commercial Bank","Chairman to Board","Michael D. Sale","n/a","n/a","2015","Banker","469737"
+"The Commercial Bank","Director","Robbie B. Paine Living Trust","n/a","n/a","2015","Banker","469737"
+"The Commercial Bank","Compliance Officer","Robbie B. Paine Living Trust","n/a","n/a","2015","Banker","469737"
+"The Commercial Bank","n/a","Charles C. Brooks,"Jr. Entrusted of the Charles C. Brooks","Jr. Living Trust"","Owner","Just-In Motor Company,"LLC"","2015","Car Dealer","469737"
+```

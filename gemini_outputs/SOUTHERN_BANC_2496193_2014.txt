@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2014","Estate of James B. Little. Jr.","Common Stock","41139","5.1%","2496193."
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2014","Gates Little","Common Stock","58193","7.22%","2496193."
+"The Southern Banc Company,"Inc."","Birmingham,"AL"","2014","James B. Little,"III"","Common Stock","115957","14.39%","2496193."
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2014","Directors (4 persons)","Common Stock","117646","14.59%","2496193."
+"The Southern Banc Company,"Inc."","Gadsden,"AL"","2014","The Southern Banc Company,"Inc."","n/a","59980","7.44%","2496193."
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"The Southern Banc Company,"Inc."","Director & President","Gates Little","Director & President","The Southern Bank Company","2014","n/a","n/a"
+"The Southern Banc Company,"Inc."","Director","Thomas Alan Ritchie,"Jr."","CFO","ComplyMD","2014","President of RMI,"Inc."","n/a"
+"The Southern Banc Company,"Inc."","Director","F. Michael Haney","Partner in","Inzer,"Haney","McWhorter","and Haney LLC"","2014","Attorney","n/a"
+"The Southern Banc Company,"Inc."","Director","Thomas F. Dowling,"III"","Director","n/a","2014","Retired Dentist","n/a"
+"The Southern Banc Company,"Inc."","Director","Fred Taylor","Director","Taylor Realty","2014","Owner of Taylor Realty","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","New Capital Partners,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP Management Holding Holdings Inc.","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","New Capital Partners Inc.","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP CAPCO Partners,"Inc."","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP Alabama Fund II LLC","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","New Management Ventures,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Old Realty,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP Texas Fund LLC Series A","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Waveland NCP Alabama Ventures II LLC","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Waveland NCP Ventures,"LP"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Waveland Texas Ventures Management,"LP"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP Texas Fund,"LLC Series B"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Waveland NCP Texas Ventures II,"LP"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Depot Properties,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Fanning Branch Realty,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","Telluride Productions,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","Director","James B Little,"III"","Partner of","NCP Sidecar Investments,"LLC"","2014","Founder of New Capital Partners,"LLC"","n/a"
+"The Southern Banc Company,"Inc."","n/a","Teresa Elkins","Vice President","The Southern Bank Company","2014","N/A","n/a"
+"The Southern Banc Company,"Inc."","Secretary/ Treasurer","Peggy Smith","Secretary/ Treasurer","The Southern Bank Company","2014","N/A","n/a"
+```

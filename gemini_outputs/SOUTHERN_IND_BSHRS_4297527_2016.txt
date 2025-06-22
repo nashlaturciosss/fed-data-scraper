@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2016","Ferris P Youmans","Common Stock","14585","1.07%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2016","Donna Youmans","Common Stock","48059","3.54%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2016","Spencer Youmans","Common Stock","5329",".39%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2016","Oak Management","Common Stock","20000","1.47%","n/a"
+"Southern Independent Bancshares,"Inc"","Opp,"AL"","2016","Oak Investments","Common Stock","17339","1.28%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Southern Independent Bancshares,"Inc"","Director & CEO","Guy H Wilkes,"JR"","Director & CEO","Southern Independent Bank","2016","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director & CFO","John D Adams","Director & CFO","Southern Independent Bank","2016","n/a","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert S Boothe","Sole Proprietor","Southern Independent Bank","2016","Retired Veterinarian","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Robert B Burkhardt","Director","Southern Independent Bank","2016","Dentist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Charles P Cope","Director","Southern Independent Bank","2016","Retired Insurance Executive","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Olan Harden","President","Southern Independent Bank","2016","Entrepreneur","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Norman Hobson","President","Southern Independent Bank","2016","Funeral Director","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Johnnie Jackson III","President","Southern Independent Bank","2016","Car Dealer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Wesley Laird","Partner","Southern Independent Bank","2016","Lawyer","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Charles T Smith","President","Southern Independent Bank","2016","Pharmacist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Gary L Smith","CEO","Southern Independent Bank","2016","CEO","n/a"
+"Southern Independent Bancshares,"Inc"","Director","James H Tillman,"JR"","Owner","Southern Independent Bank","2016","Optometrist","n/a"
+"Southern Independent Bancshares,"Inc"","Director","Ferris P Youmans","Director","Southern Independent Bank","2016","Deecased","n/a"
+"Southern Independent Bancshares,"Inc"","n/a","Spencer Youmans","n/a","Southern Independent Bank","2016","Police Officer","n/a"
+"Southern Independent Bancshares,"Inc"","n/a","Donna Youmans","n/a","n/a","2016","House Wife & Private Investor","n/a"
+```

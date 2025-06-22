@@ -1,0 +1,24 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. J.J. Shah","n/a","419565","n/a","n/a"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. J.J. Shah","n/a","887312","29.2%","n/a"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. J.J. Shah","n/a","1358244","30.35%","n/a"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. Meena Shah","n/a","551400","n/a","n/a"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. Meena Shah","n/a","0","12.32%","n/a"
+"Touchmark Bancshares Inc","Duluth,"Georgia"","2023","Dr. Meena Shah","n/a","567768","12.69%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Touchmark Bancshares Inc","Director","William D Crosby","Banking consultant","n/a","2023","Banking consultant","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Sudhirkumar Patel","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","EVP,"Chief Financial Officer"","Lynn Barron","EVP,"Chief Financial Officer"","n/a","2023","Chief Financial Officer","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Mukund C. Raja","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Dinesh V. Raju","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","Director","H.P. Rama","Hotel Executive","n/a","2023","Hotel Executive","n/a"
+"Touchmark Bancshares Inc","Director,"Chairman","CEO"","Dr. JJ Shah","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Mahendra Shah","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Meena Shah","Physician","n/a","2023","Physician","n/a"
+"Touchmark Bancshares Inc","Director","Dr. Deep Shah","Physician","n/a","2023","Physician","n/a"
+```

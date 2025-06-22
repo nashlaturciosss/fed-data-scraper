@@ -1,0 +1,28 @@
+Here are the two CSV tables extracted from the provided document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2017","Todd Proffitt","n/a","256","57.92%","n/a"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2017","Billy Proffitt","n/a","176","39.82%","n/a"
+"Tennessee State Bancshares,"Inc."","Sevierville,"Tennessee"","2017","Wayne Ayers","n/a","20","7.92%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2017","Lee Reagan Trust,"Ray Lee Reagan and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","n/a","51","11.54%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2017","John Reagan Descendants Trust,"Kay Stephens and Lisa Reagan","Co-Trustees under the Brownlee Reagan and E. Kelley Reagan 2012 Irrevocable Trust"","n/a","51","11.54%","n/a"
+"Tennessee State Bancshares,"Inc."","Gatlinburg,"Tennessee"","2017","Brownlee Reagan and Kelley E. Reagan 2012 Irrevocable Trust,"Kay Stephens and Ray Lee Reagan","Co-Trustees"","n/a","103","23.30%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Tennessee State Bancshares,"Inc."","n/a","Billy Proffitt","President","Smokey Mtn. Foods,"Inc."","2017","Restaurants & Motels","n/a"
+"Tennessee State Bancshares,"Inc."","Secretary Director","Wayne Ayers","Director Owner","n/a","2017","Real Estate","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Richard Todd Proffitt","President Chariman Director","n/a","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Travis McCroskey","Director","Landmark Inn","2017","Motel","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Mitchell H. McCarter","Director Secretary","Parkway Liquor Store","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Charles R. Frost Jr","Director","Motels","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Robert A. Tino","Director","Art Galleries","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Lawrence Andrew Proffitt","Director","n/a","2017","Real Estate","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","J. Scott Gibson","Senior Executive Vice-President","n/a","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Tammie M. Sutton","Executive Vice-President","n/a","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Jennifer Lynn Reinhard","Executive Vice-President","n/a","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","R. Stephen Hagood","Executive Vice-President","n/a","2017","N/A","n/a"
+"Tennessee State Bancshares,"Inc."","n/a","Ray B. Sterling","Executive Vice-President","n/a","2017","N/A","n/a"
+```

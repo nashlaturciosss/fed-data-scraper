@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BANK OF DADE","Flintstone,"GA"","2021","Janice Pilgrim","Class B","2000.0000","9.6907%","441630"
+"BANK OF DADE","Trenton,"GA USA"","2021","Joe Gaddis","Class B","2000.0000","9.6907%","441630"
+"BANK OF DADE","Chattanooga,"TN","USA"","2021","Charles & Brenda Poe","Class B","1944.8423","9.4234%","441630"
+"BANK OF DADE","Dalton,"GA","USA"","2021","Carolyn Ellis","Class B","1944.8423","9.4234%","441630"
+"BANK OF DADE","Trenton,"GA","USA"","2021","Derrell W. Gaddis","Class B","1931.3690","9.3581%","441630"
+"BANK OF DADE","Trenton,"GA","USA"","2021","Charles D. Gross","Class B","1375.8949","6.6666%","441630"
+"BANK OF DADE","Rising Fawn,"GA","USA"","2021","Gary Gross","Class B","1375.8949","6.6666%","441630"
+"BANK OF DADE","Rising Fawn,"GA","USA"","2021","Stan Gross","Class B","1375.8949","6.6666%","441630"
+"BANK OF DADE","Lookout Mtn,"GA","USA"","2021","Aubrey Black","Class B","1200.0000","5.8144%","441630"
+"BANK OF DADE","Rising Fawn,"GA","USA"","2021","Jay Jones,"Jr."","Class B","1000.0000","4.8453%","441630"
+"BANK OF DADE","Ider,"AL","USA"","2021","Angie Brown","Class B","1000.0000","4.8453%","441630"
+"BANK OF DADE","Flat Rock,"AL","USA"","2021","Amy Jones","Class B","1000.0000","4.8453%","441630"
+"BANK OF DADE","Trenton,"GA","USA"","2021","Jay T. Jones,"Sr."","Class B","889.6845","4.3108%","441630"
+"BANK OF DADE","Fort Payne,"AL","USA"","2021","John E. Beck","Class B","800.0000","3.8763%","441630"
+"BANK OF DADE","Trenton,"GA","USA"","2021","Leisa Cagle","Class B","800.0000","3.8763%","441630"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF DADE","Director","Brenda Poe","n/a","n/a","2021","Retired","441630"
+"BANK OF DADE","President/Director","Derrell Gaddis","n/a","n/a","2021","Retired","441630"
+"BANK OF DADE","Director","Gary Gross","n/a","Gross Furniture Center","2021","Self-employed","441630"
+"BANK OF DADE","Chairman/Director","Aubrey Black","n/a","Aubrey Black Const. Inc.","2021","Self-employed","441630"
+"BANK OF DADE","Chairman/Director","Aubrey Black","n/a","Ol' South Fence,"Inc."","2021","Self-employed","441630"
+"BANK OF DADE","Director","Jay T. Jones,"Sr."","n/a","n/a","2021","Executive VP Bank of Dade","441630"
+"BANK OF DADE","Director","John E Beck","n/a","n/a","2021","Retired","441630"
+"BANK OF DADE","Director","Leisa Cagle","n/a","McKee Bakery","2021","Vice President","441630"
+```

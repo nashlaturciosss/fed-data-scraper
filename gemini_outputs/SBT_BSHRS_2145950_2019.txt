@@ -1,0 +1,35 @@
+"Okay","here are the two CSV tables extracted from the document","following all the specified instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SBT Bancshares,"Inc."","Raceland,"LA"","2019","JAMES B. CANTRELLE","common stock","113784","20.00%","n/a"
+"SBT Bancshares,"Inc."","Lafayette,"LA"","2019","HUEY J. CHERAMIE","common stock","113784","20.00%","n/a"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2019","JANICE CHABERT FRAZIER","common stock","56892","10.00%","n/a"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2019","JANICE CHABERT FRAZIER,"AS USUFRUCTUARY","ELDON JOSEPH FRAZIER EXEMPT TESTIMENTARY TRUST NAKED OWNER"","common stock","56892","10.00%","n/a"
+"SBT Bancshares,"Inc."","Grand Isle,"LA"","2019","WALTER H. MAPLES","common stock","113784","20.00%","n/a"
+"SBT Bancshares,"Inc."","Cut Off,"LA"","2019","MATHEW PITRE,"AS TRUSTEE OF THE SBT BANCSHARES","INC. VOTING TRUST"","common stock","113784","20.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","PRESIDENT","CNC RENTALS,"LLC"","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","PRESIDENT","JIMCAN ENTERPRISE,"LLC"","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","PRESIDENT","CCMC,"LLC"","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","OWNER","CANTRELLE CONSTRUCTION,"INC."","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","OWNER","CANTRELLE HEATING & A/C CO","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","PRESIDENT","KAJUN KING,"INC."","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","PRESIDENT","CYPRESS COURT,"INC."","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","MANAGER","JIMMY CANTRELLE LAND CO.,"LLC"","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Secretary"","JAMES B. CANTRELLE","MANAGER","LEONA CANTRELLE LAND CO.,"LLC"","2019","REAL ESTATE (APARTMENTS)","n/a"
+"SBT Bancshares,"Inc."","Director,"Chairman"","HUEY J. CHERAMIE","OWNER","CHERAMIE HOLDINGS,"LLC"","2019","BOAT RENTALS","n/a"
+"SBT Bancshares,"Inc."","Director,"Chairman"","HUEY J. CHERAMIE","OWNER","SWIT GROUP,"LLC"","2019","BOAT RENTALS","n/a"
+"SBT Bancshares,"Inc."","Director,"Chairman"","HUEY J. CHERAMIE","OWNER","GULF ATLANTIC TUGS,"LLC"","2019","BOAT RENTALS","n/a"
+"SBT Bancshares,"Inc."","Director,"Chairman"","HUEY J. CHERAMIE","OWNER","HUEY J. CHERAMIE MARINE,"INC."","2019","BOAT RENTALS","n/a"
+"SBT Bancshares,"Inc."","Director","STUART FAUCHEUX","MEMBER/MANAGER","EXPRESS SUPPLY & STEEL LLC","2019","FEED,"SEED & SUPPLY STORE","OWNER"","n/a"
+"SBT Bancshares,"Inc."","VP SALES & MARKETING","STEVE J. LEFORT","VP SALES & MARKETING","ADRIATIC MARINE,"LLC"","2019","RETIRED","n/a"
+"SBT Bancshares,"Inc."","Director,"President"","MATHEW A. PITRE","MEMBER/MANAGER","PITRE'S FEED AND SEED LLC","2019","RETIRED","n/a"
+"SBT Bancshares,"Inc."","n/a","JANICE CHABERT FRAZIER","n/a","n/a","2019","RETIRED (GROCERY STORE OWNER)","n/a"
+"SBT Bancshares,"Inc."","n/a","JANICE CHABERT FRAZIER,"AS USUFRUCTUARY","ELDON JOSEPH FRAZIER EXEMPT TESTIMENTARY TRUST NAKED OWNER"","n/a","n/a","2019","RETIRED (GROCERY STORE OWNER)","n/a"
+"SBT Bancshares,"Inc."","Director","MATHEW PITRE,"AS TRUSTEE OF THE SBT BANCSHARES","INC. VOTING TRUST"","n/a","n/a","2019","RETIRED (GROCERY STORE OWNER)","n/a"
+"SBT Bancshares,"Inc."","n/a","WALTER MAPLES,"SR"","n/a","n/a","2019","BANKER","n/a"
+```

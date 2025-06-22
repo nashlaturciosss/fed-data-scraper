@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Montgomery,"AL"","2015","David W. Baggett,"Jr."","common stock","17400","7.40%","n/a"
+"PrimeSouth Bancshares,"Inc."","Tallassee,"AL"","2015","Bobby J Hardy","common stock","16030","6.82%","n/a"
+"PrimeSouth Bancshares,"Inc."","Birmingham,"AL"","2015","G. David Johnson","common stock","16000","6.81%","n/a"
+"PrimeSouth Bancshares,"Inc."","Tallassee,"AL"","2015","The Stough Family","common stock","46310","19.70%","n/a"
+"PrimeSouth Bancshares,"Inc."","Tallassee,"AL"","2015","William J. Stough Trust","common stock","46310","19.70%","n/a"
+"PrimeSouth Bancshares,"Inc."","Tallassee,"AL"","2015","Ricky J. Stough","common stock","46310","19.70%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"PrimeSouth Bancshares,"Inc."","Director,"CEO"","David W. Baggett,"Jr."","Director & CEO","PrimeSouth Bank","2015","Banker","209830"
+"PrimeSouth Bancshares,"Inc."","Director,"Secretary"","Lee S. Greer","Director,"Secretary"","PrimeSouth Bank","2015","CFO/Hospital","209830"
+"PrimeSouth Bancshares,"Inc."","n/a","Warren Eugene Lawrence","Owner","SuperFoods","2015","Business Owner Grocery Stores","209830"
+"PrimeSouth Bancshares,"Inc."","n/a","Jimmy A. Monk","President","PrimeSouth Bank","2015","Banker","209830"
+"PrimeSouth Bancshares,"Inc."","Director","Ricky J. Stough","Director","PrimeSouth Bank","2015","n/a","209830"
+"PrimeSouth Bancshares,"Inc."","n/a","Jodi W. Turner","CFO/COO","PrimeSouth Bank","2015","Banker","209830"
+"PrimeSouth Bancshares,"Inc."","n/a","Bradley K. Peters","EVP,"Senior Lender"","PrimeSouth Bank","2015","Banker","209830"
+"PrimeSouth Bancshares,"Inc."","Director","Scott Swicord","Director","PrimeSouth Bank","2015","Contractor","209830"
+```

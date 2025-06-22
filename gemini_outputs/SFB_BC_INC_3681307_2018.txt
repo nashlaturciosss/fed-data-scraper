@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Security Federal Bank Employee Stock Ownership Plan (""ESOP"")","n/a","28383","11.05","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Harriette Hampton Revocable Trust","n/a","26490","10.31","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Bryan D. Cowan Family Trust","n/a","4500","1.75","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Harriette L. Hampton RIRA","n/a","822","0.32","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Peter W. Hampton,"Jr."","n/a","64962","25.29","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Peter W. Hampton,"Jr."","ESOP","2779","1.08","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Carmella F. Price","n/a","9089","3.54","n/a"
+"SFB Bancorp,"Inc."","Elizabethton,"TN"","2018","Carmella F. Price","ESOP","6405","2.49","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SFB Bancorp,"Inc."","Chairman,"President/CEO and Director"","Peter W. Hampton,"Jr."","CEO and Director","n/a","2018","Attorney and CEO of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Frank D. Newman","Director","n/a","2018","Attorney and Director of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Michael L. McKinney","Director","n/a","2018","Contractor and Director of Security Bank","n/a"
+"SFB Bancorp,"Inc."","Director,"President of Security Federal Bank and Director"","Carmella F. Price","President of Security Federal Bank and Director","n/a","2018","President of Security Federal Bank and Director","n/a"
+"SFB Bancorp,"Inc."","Director","Barry Steven Sykes","Director","n/a","2018","Architect and Director of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","CFO,"EVP/CFO of Security Federal Bank"","David LeVeau","EVP/CFO of Security Federal Bank","n/a","2018","n/a","n/a"
+"SFB Bancorp,"Inc."","n/a","Security Federal Bank Employee Stock Ownership Plan","n/a","n/a","2018","n/a","n/a"
+"SFB Bancorp,"Inc."","Director","Harriette Hampton Revocable Trust","Director","n/a","2018","Doctor and Director of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Harriette L Hampton","Director","n/a","2018","Doctor and Director of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Bryan D Cowan Family Trust","Director","n/a","2018","Doctor and Director of Security Federal Bank","n/a"
+"SFB Bancorp,"Inc."","Director","Earl R Booze","Director","n/a","2018","Attorney and Director of Security Federal Bank","n/a"
+```

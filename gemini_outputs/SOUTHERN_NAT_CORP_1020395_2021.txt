@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","The U.W.W. Sidney Fuller Family Trust","Common","99998","8.37%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","Louisa Mann Baker","Common","70000","5.86%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","David McKowen,"Jr"","Common","110500","9.25%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","James M. Taylor II Family Trust","Common","75000","6.28%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","Charles Roland","Common","150500","12.59%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Andalusia,"AL"","2021","John Vick","Common","100000","8.37%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Freeport,"FL"","2021","Thomas E Lane","Common","85000","7.11%","n/a"
+"SOUTHERN NATIONAL CORPORATION","Destin,"FL"","2021","Rupert E. Phillips","Common","100000","8.37%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"SOUTHERN NATIONAL CORPORATION","Director,"President"","Charles Roland","n/a","Charles Roland & Company","2021","Farmer","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","Kim Roland","n/a","n/a","2021","Retired","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","J Mel Fuller","n/a","Melton Classics Inc","2021","Builder Columns & Moldings","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","Mark Harper","President","Harper Electric","2021","President,"Harper Electric Const Co"","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director,"Vice-Chariman of the Board"","David McKowen,"Jr"","n/a","McKowen & Day PC","2021","M.D.,"Retired"","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","John Taylor","n/a","n/a","2021","VP General Parts,"Inc.","Carquest"","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","Riley R. Taylor","President","Taylor Linen Service","2021","Owner,"Taylor Linen Service"","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director,"Chairman of the Board Chief Executive Officer"","John E Vick","Owner","John Vick & Co","2021","Owner,"John Vick & Company"","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","Thomas E Lane","n/a","n/a","2021","Retired","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director,"Secretary"","Louisa M Baker","n/a","n/a","2021","Retired","n/a"
+"SOUTHERN NATIONAL CORPORATION","Director","Daniel Taylor","Owner","Medical Clinics","2021","Owner Medical Clinics","n/a"
+```

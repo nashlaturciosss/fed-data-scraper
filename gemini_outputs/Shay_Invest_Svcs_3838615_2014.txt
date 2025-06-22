@@ -1,0 +1,32 @@
+Here are the two requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Shay Investment Services,"Inc."","Coral Gables,"Florida"","2014","Rodger D. Shay Sr.","n/a","1013","47.9413%","383 8615"
+"Shay Investment Services,"Inc."","Miami,"Florida"","2014","Rodger D. Shay Jr.","n/a","940","44.4865%","383 8615"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Shay Investment Services,"Inc."","chairman","Rodger D. Shay Sr.","Asset Management Funds Chairman and trustee","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","chairman","Rodger D. Shay Sr.","Asset Management Funds Chairman and trustee","Six CSS Corporation","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","chairman","Rodger D. Shay Sr.","Asset Management Funds Chairman and trustee","Credo Holdings LLC","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","chairman","Rodger D. Shay Sr.","Asset Management Funds Chairman and trustee","Mongin Holdings LLC","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","CEO & SFS President","Rodger D. Shay Jr.","Asset Management Funds President & Director,"Asset revitalization Solutions managing member"","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","ABT President & CEO","Danny Strickland","Baton Rouge Symphony Treasurer & board member","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","ABT President & CEO","Danny Strickland","American Heart Association Baton Rouge Chapter board member","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","ABT President & CEO","Danny Strickland","Iberville foundation for Academic Excellence board member.","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","Asset revitalization Solutions Chairman","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","Glennoe Farms manager","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","Glennoe Investment Holdings Manager","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","ME Casa Manager","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","M2 Capital Partners managing member","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SAMI President & CEO","Sean Kelleher","ARS SPV related GP interests","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","Asset revitalization Solutions LLC","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","Glennoe Farms LLC","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","Glennoe Investment Holdings LP","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","ME Casa LLC","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","M2 Capital Partners LLC","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI CFO","John McEntire","ARS SPV related GP interests","n/a","2014","n/a","n/a"
+"Shay Investment Services,"Inc."","SISI Controller & Treasurer","Aaron Rodriguez","Regalo HOA President.","n/a","2014","n/a","n/a"
+```

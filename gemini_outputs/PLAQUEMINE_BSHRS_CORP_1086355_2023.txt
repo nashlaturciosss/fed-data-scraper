@@ -1,0 +1,24 @@
+"Here are the two CSV tables","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2023","Stephen Panepinto","Common Stock","28617","52.7162%","n/a"
+"Plaquemine Bank & Trust Company","Plaquemine,"LA"","2023","Joseph D. Weldon","Common Stock","4082","7.5196%","n/a"
+"Plaquemine Bank & Trust Company","Calabasa,"CA"","2023","Kathleen Weldon","Common Stock","4072","7.5012%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Plaquemine Bank & Trust Company","Director & Vice Chairman","John N. Gum,"Jr."","n/a","n/a","2023","Retired","n/a"
+"Plaquemine Bank & Trust Company","Director","Kenneth C. Caruso","n/a","n/a","2023","Managing Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Harry J Philips,"Jr."","Partner","Taylor Porter Brooks and Phillips,"Attorneys-at-Law"","2023","Partner","n/a"
+"Plaquemine Bank & Trust Company","Director","Leo D Sternfels","President","Service Mortgage Co.","2023","President of Service Mortgage Co.","n/a"
+"Plaquemine Bank & Trust Company","Director","Leo D Sternfels","n/a","Arthur J. Gallagher & Co.","2023","President of Service Mortgage Co.","n/a"
+"Plaquemine Bank & Trust Company","Director","Brian M Aguillard","n/a","n/a","2023","n/a","n/a"
+"Plaquemine Bank & Trust Company","Director","Mark Graffeo","n/a","n/a","2023","Director","n/a"
+"Plaquemine Bank & Trust Company","Director & Chairman/President/CEO","Stephen Panepinto","n/a","n/a","2023","Director & Chairman/CEO","n/a"
+"Plaquemine Bank & Trust Company","Director & President","Jason P. Freyou","n/a","n/a","2023","Director & President","n/a"
+"Plaquemine Bank & Trust Company","Executive Vice President,"CFO & Cashier"","Tabatha D. Tempanaro","n/a","n/a","2023","Executive Vice President,"CFO & Cashier"","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Caroline B. Causin","n/a","n/a","2023","n/a","n/a"
+"Plaquemine Bank & Trust Company","Vice President","Rhett Vaughn","n/a","n/a","2023","Vice President","n/a"
+```
