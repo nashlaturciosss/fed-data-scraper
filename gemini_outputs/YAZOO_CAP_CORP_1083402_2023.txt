@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Yazoo Capital Corporation","Goodman,"MS"","2023","Allen C. Bridgforth,"II"","n/a","n/a","See Confidential Volume","118736"
+"Yazoo Capital Corporation","Yazoo City,"MS"","2023","John Sharp Howie","n/a","n/a","See Confidential Volume","118736"
+"Yazoo Capital Corporation","Yazoo City,"MS"","2023","Philip C. Williams","n/a","n/a","See Confidential Volume","118736"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Yazoo Capital Corporation","President,"CEO & Director"","Benjamin W. Aldridge","n/a","BB Investments MS,"LLC"","2023","n/a","118736"
+"Yazoo Capital Corporation","Director","Allen C. Bridgforth,"II"","n/a","Bridgforth Management,"LLC"","2023","Attorney and manager of family farming and investment interests","118736"
+"Yazoo Capital Corporation","Director","Allen C. Bridgforth,"II"","n/a","May St. Properties,"LLC"","2023","Attorney and manager of family farming and investment interests","118736"
+"Yazoo Capital Corporation","Director","D. Fort Bridgforth","n/a","n/a","2023","Retired farmer","118736"
+"Yazoo Capital Corporation","Director","John Sharp Howie","n/a","Chesterfield Land Company,"LLC"","2023","n/a","118736"
+"Yazoo Capital Corporation","Director","S. G. Norquist,"Jr."","n/a","n/a","2023","Former FDIC bank examiner and retired bank President and CEO","118736"
+"Yazoo Capital Corporation","Director","B. R. Darrington Seward","n/a","BRDS/SWC,"LLC"","2023","Farmer","118736"
+"Yazoo Capital Corporation","Director","B. R. Darrington Seward","n/a","BRDS/MWL,"LLC"","2023","Farmer","118736"
+"Yazoo Capital Corporation","Director","B. R. Darrington Seward","n/a","Potosi Properties,"LLC"","2023","Farmer","118736"
+"Yazoo Capital Corporation","Director","B. R. Darrington Seward","n/a","Old Fields Properties,"LLC"","2023","Farmer","118736"
+"Yazoo Capital Corporation","Chairman & Director","Philip C. Williams","n/a","n/a","2023","n/a","118736"
+"Yazoo Capital Corporation","Secretary","Livvi Ziegler","n/a","n/a","2023","n/a","118736"
+```

@@ -1,0 +1,33 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VERMILION BANCSHARES CORPORATION","Gueydan,"La"","2023","Judy Benolt","n/a","5.0667","7.21%","n/a"
+"VERMILION BANCSHARES CORPORATION","Maurice,"La"","2023","Darren J. Benoit","n/a","1","1.42%","n/a"
+"VERMILION BANCSHARES CORPORATION","Lafayette,"La"","2023","Jamie S. Benoit","n/a","1","1.42%","n/a"
+"VERMILION BANCSHARES CORPORATION","Lafayette,"La"","2023","Blake S. Williams","n/a","4.65","6.62%","n/a"
+"VERMILION BANCSHARES CORPORATION","Abbeville,"La"","2023","James W. Thompson","n/a","4","5.69%","n/a"
+"VERMILION BANCSHARES CORPORATION","Burns,"TN"","2023","Paula Y. Eleazar","n/a","1.9222","2.73%","n/a"
+"VERMILION BANCSHARES CORPORATION","Nashville,"TN"","2023","Paul David Eleazar","n/a","0.9222","1.31%","n/a"
+"VERMILION BANCSHARES CORPORATION","French Settlement,"USA"","2023","Paul Roy Eugene Eleazar Jr","n/a","0.9222","1.31%","n/a"
+"VERMILION BANCSHARES CORPORATION","Youngsville,"La"","2023","Billy Matthews","n/a","3.3333","4.74%","n/a"
+"VERMILION BANCSHARES CORPORATION","Carencro,"La"","2023","Mark Matthews","n/a","1","1.42%","n/a"
+"VERMILION BANCSHARES CORPORATION","Mico,"TX"","2023","Whitney Matthews Jr","n/a","1","1.42%","n/a"
+"VERMILION BANCSHARES CORPORATION","Abbeville,"La"","2023","Whitney J. Matthews","n/a","4.6666","6.64%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2023","Harold J. Marceaux","n/a","1.9112","2.72%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2023","Linda Meaux Marceaux","n/a","0.9555","1.36%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2023","Rita Mae Hebert and Rita Mae Hebert Marceaux Usufructary of Harold John Marceaux","n/a","1.9167","2.73%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR VICE CHARIMAN","LYMAN VINCENT","DIRECTOR","n/a","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR CHAIRMAN","BLAKE S.WILLIAMS","DIRECTOR","n/a","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR PRESIDENT & CEO","JOSEPH COUVILLON","DIRECTOR","n/a","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR SECRETARY-TREASURER","TRAVIS ROUSSEL","DIRECTOR PRESIDENT","LARRY'S SUPER FOODS","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR SECRETARY-TREASURER","TRAVIS ROUSSEL","DIRECTOR PRESIDENT","T&M ROUSSEL PROPERTIES LLC","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR VICE-PRESIDENT","TERRY BROUSSARD","DIRECTOR","BROUSSARD REALTY","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR VICE-PRESIDENT","TERRY BROUSSARD","DIRECTOR","TJB INVESTMENTS LLC","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","PRINCIPAL SECURITIES HOLDER","MATTHEWS FAMILY","n/a","n/a","2023","N/A","n/a"
+"VERMILION BANCSHARES CORPORATION","PRINCIPAL SECURITIES HOLDER","BENOIT FAMILY","n/a","n/a","2023","N/A","n/a"
+```

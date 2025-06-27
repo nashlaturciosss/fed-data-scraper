@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Vinings Bancshares,"Inc."","Mableton,"GA"","2017","Gissendanner,"Kay"","Common Stock","129800","6.75%","n/a"
+"Vinings Bancshares,"Inc."","Powder Springs,"GA"","2017","Makant,"Kenneth L"","Common Stock","82500","4.29%","n/a"
+"Vinings Bancshares,"Inc."","Powder Springs,"GA"","2017","Makant,"Kenneth L"","Options","25000","1.30%","n/a"
+"Vinings Bancshares,"Inc."","Hickory,"NC"","2017","Makant,"Russell & Mindy"","Common Stock","2500",".13%","n/a"
+"Vinings Bancshares,"Inc."","Marietta,"GA"","2017","Puett,"Karen"","Common Stock","2500",".13%","n/a"
+"Vinings Bancshares,"Inc."","Kennesaw,"GA"","2017","Barton,"Todd & Kelly"","Common Stock","6000",".31%","n/a"
+"Vinings Bancshares,"Inc."","Marietta,"GA"","2017","Schulman,"Danny"","Common Stock","50000","2.53%","n/a"
+"Vinings Bancshares,"Inc."","Marietta,"GA"","2017","Schulman,"Danny"","Warrants","50000","2.53%","n/a"
+"Vinings Bancshares,"Inc."","Marietta,"GA"","2017","Schulman,"Alan"","Common Stock","2500",".14%","n/a"
+"Vinings Bancshares,"Inc."","Kennesaw,"GA"","2017","Schulman,"Jonathan"","Common Stock","1000",".05%","n/a"
+"Vinings Bancshares,"Inc."","Atlanta,"GA"","2017","Schulman,"Michael"","Common Stock","1000",".05%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vinings Bancshares,"Inc."","Director","Brown,"Michael"","n/a","n/a","2017","Retired","n/a"
+"Vinings Bancshares,"Inc."","President/CCO Director","Hungerford,"Clark"","n/a","n/a","2017","Banker","n/a"
+"Vinings Bancshares,"Inc."","SEVP/CFO/COO Director","Makant,"Kenneth L."","n/a","n/a","2017","Banker","n/a"
+"Vinings Bancshares,"Inc."","Chairman/CEO Director","Oliver,"J. Dan"","Member","Wheel Estate Partners,"LLC"","2017","Banker","n/a"
+"Vinings Bancshares,"Inc."","Director","Plowman,"Jeffrey"","n/a","n/a","2017","Retired","n/a"
+"Vinings Bancshares,"Inc."","Director","Schulman,"Danny"","Secretary/Treasurer","Cutler & Schulman,"PC"","2017","Attorney","n/a"
+"Vinings Bancshares,"Inc."","Director","Schulman,"Danny"","Manager","Sterling Properties","2017","Attorney","n/a"
+"Vinings Bancshares,"Inc."","Director","Wrigley,"Craig C."","Owner","LF 600,"LLC"","2017","Real Estate Developer","n/a"
+"Vinings Bancshares,"Inc."","Director","Wrigley,"Craig C."","Owner","Palladian Management Company","2017","Real Estate Developer","n/a"
+"Vinings Bancshares,"Inc."","Director","Wrigley,"Craig C."","Owner","Palladian Investments,"LLC"","2017","Real Estate Developer","n/a"
+```

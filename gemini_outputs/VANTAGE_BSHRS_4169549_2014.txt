@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Lowell Galloway","Common Stock","43000","3.45%","4169549"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Lowell Galloway","Common Stock","2354","0.19%","4169549"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Lowell Galloway","Organizer Options (Common)","10000","0.80%","4169549"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Lowell Galloway","Incentive Stock Options (Common)","50000","4.01%","4169549"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Danny J. Thrash","Common Stock","95000","7.63%","4169549"
+"VANTAGE BANCSHARES,"INC."","Albertville,"AL"","2014","Danny J. Thrash","Organizer Options (Common)","10000","0.80%","4169549"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vantage Bank","President/CEO Director","Lowell Galloway","None","n/a","2014","N/A","4169549"
+"Vantage Bank","President/CEO Vantage Bank","Lowell Galloway","None","n/a","2014","N/A","4169549"
+"Vantage Bank","Director","Danny Thrash","President","Danny Thrash Motors,"Inc."","2014","Equipment Sales","4169549"
+"Vantage Bank","Director","Danny Thrash","President","Transcontinental Auto Exchange,"Inc."","2014","Equipment Sales","4169549"
+"Vantage Bank","Director","David Mitchell","President","Mitchell Grocery Corporation","2014","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","David Mitchell","President","Bee Line Express,"Inc."","2014","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","David Mitchell","Vice President","JMBL,"Inc."","2014","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","Laura Casey","None","n/a","2014","Homemaker/Community Volunteer","4169549"
+"Vantage Bank","Director","John Weathers","Owner","Weathers Properties","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","President","United Properties,"LLC"","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","Secretary","Mountain Group,"LLC"","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","Secretary","RP 804,"LLC"","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","President","Downtown Properties,"LLC"","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","Secretary","Mountain Valley Apts.,"LLC"","2014","Real Estate Investments","4169549"
+"Vantage Bank","Director","Frank McDaniel","Vice President","McDaniel Toms Sales,"Inc."","2014","Retired Vending Company Owner","4169549"
+"Vantage Bank","Director","Benny Frazier","President","Bobby's Auto Parts,"Inc."","2014","Retail Auto Parts Sales","4169549"
+"Vantage Bank","Director","Larry Fortenberry","C.E.O.","D&F Equipment Sales,"Inc."","2014","Poultry Processing Systems Sales","4169549"
+"Vantage Bank","Director","Larry Fortenberry","President","Fortenberry Aviation,"LLC"","2014","Poultry Processing Systems Sales","4169549"
+"Vantage Bank","Director","Larry Fortenberry","President","Fortenberry Properties No.3 LLC","2014","Poultry Processing Systems Sales","4169549"
+"Vantage Bank","Director","Larry Fortenberry","President","Albertville Self Storage,"LLC"","2014","Poultry Processing Systems Sales","4169549"
+"Vantage Bank","Director","Larry Fortenberry","President","LDL Enterprises,"LLC"","2014","Poultry Processing Systems Sales","4169549"
+"Vantage Bank","Director","Melvin D. Thornbury","President","Melvin D. Thornbury,"M.D.","P.C."","2014","Physician","4169549"
+"Vantage Bank","Director","Melvin D. Thornbury","President","Sand Mountain OB/GYN Assoc.","2014","Physician","4169549"
+```

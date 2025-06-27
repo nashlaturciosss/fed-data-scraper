@@ -1,0 +1,37 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"West Florida Bank Corporation","Vice Chaiman and CEO","Robert B. McGivney","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","SVP/CFO/Corp. Sec.","Kenneth Bailey","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","SVP/CFO/Corp. Sec.","Kenneth Bailey","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","Director","David Brandon","President","Brandon Construction Company,"Inc."","2022","Construction","n/a"
+"West Florida Bank Corporation","Director","David Brandon","n/a","Flagship Bank","2022","Construction","n/a"
+"West Florida Bank Corporation","Director","Ronald Hockman","Owner","RS Hockman,"Inc."","2022","Real Estate Investor","n/a"
+"West Florida Bank Corporation","Director","Ronald Hockman","n/a","Flagship Bank","2022","Real Estate Investor","n/a"
+"West Florida Bank Corporation","Director","Mark Klein","CEO","Klein & Heuchan,"Inc."","2022","Commercial Real Estate","n/a"
+"West Florida Bank Corporation","Director","Mark Klein","n/a","Flagship Bank","2022","Commercial Real Estate","n/a"
+"West Florida Bank Corporation","Director","Ken Marks","CEO","Capital Automotive Group,"LLC"","2022","Automotive Dealerships","n/a"
+"West Florida Bank Corporation","Director","Ken Marks","n/a","Flagship Bank","2022","Automotive Dealerships","n/a"
+"West Florida Bank Corporation","CEO/Vice Chairman & Director","Robert McGivney","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","CEO/Vice Chairman & Director","Robert McGivney","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","President/Asst. Corp. Sec.","James Nelson","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","President/Asst. Corp. Sec.","James Nelson","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","Director","Joseph Oliveri","President","Oliveri Architects","2022","Architect","n/a"
+"West Florida Bank Corporation","Director","Joseph Oliveri","n/a","Flagship Bank","2022","Architect","n/a"
+"West Florida Bank Corporation","n/a","Nickesh Patel","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","EVP/Retail Director","Nickesh Patel","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","Director","Brent Sembler","Vice Chairman","The Sembler Group","2022","Real Estate","n/a"
+"West Florida Bank Corporation","Director","Brent Sembler","n/a","Flagship Bank","2022","Real Estate","n/a"
+"West Florida Bank Corporation","EVP/Asst. Corp. Sec.","Robert Shaw","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","EVP/Asst. Corp. Sec.","Robert Shaw","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","n/a","Kelly Spica","n/a","n/a","2022","n/a","n/a"
+"West Florida Bank Corporation","EVP/Director of Operations","Kelly Spica","n/a","Flagship Bank","2022","n/a","n/a"
+"West Florida Bank Corporation","Director","Christopher Sprowls","Attorney","Buchanan Ingersoll & Rooney","2022","Attorney","n/a"
+"West Florida Bank Corporation","Director","Christopher Sprowls","n/a","Flagship Bank","2022","Attorney","n/a"
+"West Florida Bank Corporation","Director & Chairman","Paul Wikle","Owner","Wikle Real Estate","2022","Real Estate","n/a"
+"West Florida Bank Corporation","Director & Chairman","Paul Wikle","n/a","Flagship Bank","2022","Real Estate","n/a"
+```

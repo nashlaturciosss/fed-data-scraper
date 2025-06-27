@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCG BANCSHARES,"INC."","Atlanta,"GA"","2020","American Security Insurance Co.","Common Stock","4200","7.54%","n/a"
+"WCG BANCSHARES,"INC."","Thomaston,"GA"","2020","Jesse E. Rogers,"Jr."","Common Stock","14252","25.59%","n/a"
+"WCG BANCSHARES,"INC."","Atlanta,"GA"","2020","Standard Guaranty Insurance Co.","Common Stock","3150","5.66%","n/a"
+"WCG BANCSHARES,"INC."","Atlanta,"GA"","2020","American Bankers Life Insurance Co","Common Stock","3150","5.66%","n/a"
+"WCG BANCSHARES,"INC."","Thomaston,"GA"","2020","Carlene H. Rogers","Common Stock","5753","10.33%","n/a"
+"WCG BANCSHARES,"INC."","St Simons Island,"GA"","2020","Joan Neely","Common Stock","6921","12.43%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCG BANCSHARES,"INC."","President,"Chairman","Director"","Jesse E Rogers,"Jr."","n/a","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","Vice President","Randall Flanagan","n/a","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","VP & Cashier,"Secretary"","Matt Adams","n/a","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","Director","James A Robinson","n/a","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","Director,"Attorney"","Johnnie Caldwell","Attorney","Caldwell & Lowry Law Firm","2020","Attorney","n/a"
+"WCG BANCSHARES,"INC."","Director,"Attorney"","Alan Connell","Attorney","Connell & Wheeler Law Firm","2020","Attorney","n/a"
+"WCG BANCSHARES,"INC."","Director","Jeffery Rogers","n/a","n/a","2020","Retired","n/a"
+"WCG BANCSHARES,"INC."","Director","Kenny Coggins","President","Coggins Funeral Home Inc.","2020","Funeral Director","n/a"
+"WCG BANCSHARES,"INC."","Director","Charles D. Short","Vice President","Commercial Finance","2020","Finance Company","n/a"
+"WCG BANCSHARES,"INC."","n/a","Carlene Rogers","n/a","n/a","2020","Retired","n/a"
+"WCG BANCSHARES,"INC."","n/a","Joan Neely","n/a","n/a","2020","Retired","n/a"
+"WCG BANCSHARES,"INC."","n/a","Sheila Johnson","AVP/Compliance Officer","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","n/a","Mike Streetman","EVP","n/a","2020","n/a","n/a"
+"WCG BANCSHARES,"INC."","n/a","Hunter Scruggs","IT Manager","n/a","2020","n/a","n/a"
+```

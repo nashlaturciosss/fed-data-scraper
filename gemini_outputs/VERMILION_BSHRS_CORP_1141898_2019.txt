@@ -1,0 +1,29 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VERMILION BANCSHARES CORPORATION","Gueydan,"La."","2019","James E. Benoit","n/a","5.0667","7.45%","n/a"
+"VERMILION BANCSHARES CORPORATION","Maurice,"La."","2019","Darren J. Benoit","n/a","1","1.47%","n/a"
+"VERMILION BANCSHARES CORPORATION","Lafayette,"La."","2019","Jamie S. Benoit","n/a","1","1.47%","n/a"
+"VERMILION BANCSHARES CORPORATION","Lafayette,"La."","2019","Blake S. Williams","n/a","4.65","6.84%","n/a"
+"VERMILION BANCSHARES CORPORATION","Abbeville,"La."","2019","James W. Thompson","n/a","4","5.88%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La."","2019","Paul Roy Eleazar","n/a","1.3833","2.03%","n/a"
+"VERMILION BANCSHARES CORPORATION","Burns,"TN"","2019","Paula Y. Eleazar","n/a","1","1.47%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La."","2019","Dorthy Mcgee Eleazar","n/a","1.3833","2.03%","n/a"
+"VERMILION BANCSHARES CORPORATION","Youngsville,"La"","2019","Billy Matthews","n/a","3.3333","4.90%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2019","Nancy Matthews","n/a","3.3333","4.90%","n/a"
+"VERMILION BANCSHARES CORPORATION","Abbeville,"La"","2019","Whitney J. Matthews","n/a","3.3333","4.90%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2019","Harold J. Marceaux","n/a","1.9112","2.81%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2019","Linda Meaux Marceaux","n/a","0.9555","1.42%","n/a"
+"VERMILION BANCSHARES CORPORATION","Kaplan,"La"","2019","Rixby Marceaux,"Jr."","n/a","1.9167","2.82%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR VICE CHAIRMAN","JAMES E.BENOIT","n/a","n/a","2019","n/a","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR CHAIRMAN","PAUL R.ELEAZAR","OWNER","P.R. ELLEAZAR REALESTATE","2019","n/a","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR CHAIRMAN","PAUL R.ELEAZAR","OWNER","ELEAZAR FARM","2019","n/a","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR SECRETARY-TREASURER","LYMAN VINCENT","n/a","n/a","2019","n/a","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR PRESIDENT & CEO","BLAKE S. WILLIAMS","n/a","n/a","2019","n/a","n/a"
+"VERMILION BANCSHARES CORPORATION","DIRECTOR VICE PRESIDENT","JOSEPH COUVILLON","PRESIDENT","n/a","2019","n/a","n/a"
+```

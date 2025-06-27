@@ -1,0 +1,24 @@
+Here are the two CSV tables as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2023","WT ""Tony"" Gibson,"Jr."","voting shares","22440","11.93%","n/a"
+"USAL Bancorp,"Inc."","Naples,"FL"","2023","Gregory A. Smoker","voting shares","13380","7.11%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USAL Bancorp,"Inc."","Director","John T. Main","n/a","Main Drug","2023","Pharmacist","n/a"
+"USAL Bancorp,"Inc."","Chairman of the Board","James L. Bassett","n/a","Beck's Turf","2023","Sod Farm","n/a"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Managing Member","JJL R/E Holdings,"LLC"","2023","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Managing Member","BRMD Investments,"LLC"","2023","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Managing Member","Labo Land & Cattle","2023","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director/President and CEO","Robert R. Ramsey","n/a","n/a","2023","N/A","n/a"
+"USAL Bancorp,"Inc."","Vice-Chairman of the Board","Addie M. Smith","n/a","n/a","2023","Accountant","n/a"
+"USAL Bancorp,"Inc."","Director","Laura D. Grill","President/CEO","EAMC","2023","N/A","n/a"
+"USAL Bancorp,"Inc."","Director","Emory Kyle Kyser,"Jr."","Member","4K Properties,"LLC"","2023","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director","Emory Kyle Kyser,"Jr."","Member","2K Investments,"LLC"","2023","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director","Christopher G. Campbell","Director","Campbell Companies","2023","Investments","n/a"
+"USAL Bancorp,"Inc."","EVP/Secretary","Marsha S. Moffett","EVP/CFO/Secretary","BrenMar Plantation","2023","N/A","n/a"
+"USAL Bancorp,"Inc."","Principal Shareholder","WT ""Tony"" Gibson,"Jr."","Principal Shareholder","Retired Business","2023","Retired Business Owner","n/a"
+```

@@ -1,0 +1,35 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wheeler Bancshares,"Inc."","Chester,"GA"","2018","Hugh G. Lentile,"Jr."","n/a","2533","56.29%","n/a"
+"Wheeler Bancshares,"Inc."","Rentz,"GA"","2018","M.L. & Ruby T. Knight","n/a","772","17.16%","n/a"
+"Wheeler Bancshares,"Inc."","Dublin,"GA"","2018","Tim P. Lentile","n/a","235","5.22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","President","South Construction Co.,"Inc."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Secretary,"Consultant"","United Design,"Inc."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","President","LLT,"Inc."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Shareholder","NC Properties,"Inc."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Partner","Hazel Point Plantation","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Limited Partner","Lentile Family Partnership,"L.P."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Director","Evans Cabinet Corp.","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Partner","ASB,"LLP"","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Director","Farmers Furniture","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Partner","The Pasture,"LLC"","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Chairman of the Board & President","Hugh G. Lentile,"Jr."","Partner","The Blue Lake,"LLC."","2018","Construction","n/a"
+"Wheeler Bancshares,"Inc."","Director & Vice Chairman","M.L. Knight","General Partner","Knight Family,"LLP"","2018","Salesman","n/a"
+"Wheeler Bancshares,"Inc."","Director & Vice Chairman","M.L. Knight","Mayor","City of Rentz","2018","Salesman","n/a"
+"Wheeler Bancshares,"Inc."","Director & Vice Chairman","M.L. Knight","Owner","ONCE Construction Co.","2018","Salesman","n/a"
+"Wheeler Bancshares,"Inc."","Director & Secretary","Tina Knight Kukanza","Owner","Tina Knight Kukanza,"Jd CPA"","2018","Lawyer & CPA","n/a"
+"Wheeler Bancshares,"Inc."","Director & Treasurer","John C. Strickland","Owner","John C Strickland,"CPA"","2018","CPA","n/a"
+"Wheeler Bancshares,"Inc."","Director & Treasurer","John C. Strickland","Member","Four Score,"LLP"","2018","CPA","n/a"
+"Wheeler Bancshares,"Inc."","Director & Treasurer","John C. Strickland","Managing Partner","GLY,"LLP"","2018","CPA","n/a"
+"Wheeler Bancshares,"Inc."","Director & Treasurer","John C. Strickland","Managing Member","House Three,"LLC"","2018","CPA","n/a"
+"Wheeler Bancshares,"Inc."","Director","Linda Lentile Farm","Owner","LBL Farms","2018","Farm Manager","n/a"
+"Wheeler Bancshares,"Inc."","Director","Linda Lentile Farm","Partner","LLT,"Inc."","2018","Farm Manager","n/a"
+"Wheeler Bancshares,"Inc."","Director","Linda Lentile Farm","Limited Partner","Lentile Family Partnership,"L.P."","2018","Farm Manager","n/a"
+"Wheeler Bancshares,"Inc."","Director","Linda Lentile Farm","Partner","The Pasture,"LLC"","2018","Farm Manager","n/a"
+"Wheeler Bancshares,"Inc."","Director","Linda Lentile Farm","Partner","The Blue Lake,"LLC."","2018","Farm Manager","n/a"
+```

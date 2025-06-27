@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"West Florida Bank Corporation","Clearwater,"FL"","2019","O. Ken Marks","Common Stock","192500","5.1%","n/a"
+"West Florida Bank Corporation","Clearwater,"FL"","2019","Gary Lee Holcomb and Margaret Kuo Ranzman","Common Stock","200000","5.9%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"West Florida Bank Corporation","SVP/CFO/Corp. Sec.","Kenneth Bailey","n/a","n/a","2019","N/A","n/a"
+"West Florida Bank Corporation","Director","David Brandon","President","Brandon Construction Company,"Inc."","2019","Construction","n/a"
+"West Florida Bank Corporation","Director","Ronald Hockman","Owner","RS Hockman,"Inc."","2019","Real Estate Investor","n/a"
+"West Florida Bank Corporation","Director","Mark Klein","CEO","Klein & Heuchan,"Inc."","2019","Commercial Real Estate","n/a"
+"West Florida Bank Corporation","Director","Ken Marks","CEO","Capital Automotive Group,"LLC"","2019","Automotive Dealerships","n/a"
+"West Florida Bank Corporation","CEO/Vice Chairman & Director","Robert McGivney","n/a","n/a","2019","N/A","n/a"
+"West Florida Bank Corporation","President/Asst. Corp. Sec.","James Nelson","n/a","n/a","2019","N/A","n/a"
+"West Florida Bank Corporation","Director","Joseph Oliveri","President","Oliveri Architects","2019","Architect","n/a"
+"West Florida Bank Corporation","Director","Brent Sembler","Vice Chairman","The Sembler Group","2019","Real Estate","n/a"
+"West Florida Bank Corporation","EVP/Asst. Corp. Sec.","Robert Shaw","n/a","n/a","2019","N/A","n/a"
+"West Florida Bank Corporation","Director & Chairman","Paul Wikle","Owner","Wikle Real Estate","2019","Real Estate","n/a"
+```

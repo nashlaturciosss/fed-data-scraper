@@ -1,0 +1,23 @@
+"Okay","here are the two CSV tables extracted from the document","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Volunteer State Bank","Nashville,"TN"","2019","Gaylon Lawrence,"Jr."","Common Stock","158","100%","774132"
+"Volunteer State Bank","Portland,"TN"","2019","Larry Collins","n/a","28","17.72%","774132"
+"Volunteer State Bank","Portland,"TN"","2019","Jaska Ann Russell","n/a","22","13.92%","774132"
+"Volunteer State Bank","Portland,"TN"","2019","Tammy Collins","n/a","22","13.92%","774132"
+"Volunteer State Bank","Portland,"TN"","2019","Jeffrey David Collins","n/a","22","13.92%","774132"
+"Volunteer State Bank","Portland,"TN"","2019","Larry Joe Collins,"Jr"","n/a","22","13.92%","774132"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Volunteer State Bank","Board Member Volunteer State Bancshares,"Inc."","Gaylon Lawrence,"Jr."","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Director,"Volunteer State Bancshares"","Matt Ricker","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","President & CEO Volunteer State Bank,"President & CEO Middle Tennessee Insurance Agency","Director of Volunteer State Bank","and Middle Tennessee Insurance Agency."","Matt Ricker","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Director,"Volunteer State Bancshares","Inc."","Jason K. West","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Chief Financial Officer,"Volunteer State Bancshares","Inc."","Dave Wolfe","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Chief Financial Officer & Chief Operations Officer,"Volunteer State Bank"","Dave Wolfe","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Principal Shareholder","Steve Bell","n/a","n/a","2019","n/a","774132"
+"Volunteer State Bank","Director,"Volunteer State Bancshares"","Steve Bell","n/a","n/a","2019","n/a","774132"
+```

@@ -1,0 +1,24 @@
+"Here are the two CSV tables extracted from the document","adhering to all specified instructions."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2016","American Security Insurance Co.","Common Stock","4200","7.56%","n/a"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2016","Jesse E. Rogers,"Jr."","Common Stock","14067","25.33%","n/a"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2016","Standard Guaranty Insurance Co.","Common Stock","3150","5.67%","n/a"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2016","American Bankers Life Insurance Co.","Common Stock","3150","5.67%","n/a"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2016","Carlene H. Rogers","Common Stock","5753","10.36%","n/a"
+"WCG Bancshares,"Inc."","Jersey City,"NJ"","2016","National Financial Services LLC","Common Stock","5421","9.76%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"West Central Georgia Bank","President,"Chairman","Director"","Jesse E Rogers,"Jr."","n/a","n/a","2016","n/a","280138"
+"West Central Georgia Bank","VP Compliance & Operations Officer","Pamela Watkins","n/a","n/a","2016","n/a","280138"
+"West Central Georgia Bank","Director","James A Robinson","n/a","n/a","2016","n/a","280138"
+"West Central Georgia Bank","Director","Johnnie Caldwell","Attorney","Caldwell & Lowry","2016","n/a","280138"
+"West Central Georgia Bank","Director","Alan Connell","Attorney","Connell & Wheeler","2016","n/a","280138"
+"West Central Georgia Bank","Director","Jeffery Rogers","n/a","n/a","2016","Retired","280138"
+"West Central Georgia Bank","Director","Kenny Coggins","President","Coggins Funeral Home,"Inc."","2016","Funeral Director","280138"
+"West Central Georgia Bank","Director","Charles D. Short","Vice President","Commercial Finance","2016","Finance Company","280138"
+"West Central Georgia Bank","Director","Carlene Rogers","n/a","n/a","2016","Retired","280138"
+```

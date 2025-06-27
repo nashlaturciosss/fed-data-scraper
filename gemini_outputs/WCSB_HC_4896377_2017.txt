@@ -1,0 +1,36 @@
+Here are the two requested CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCSB Holding Company,"Inc."","VIENNA,"GA"","2017","JENNIFER P DAVIS","Common Stock","15.00","0.07%","n/a"
+"WCSB Holding Company,"Inc."","VIENNA,"GA"","2017","JOHN N DAVIS","Common Stock","1428.30","6.86%","n/a"
+"WCSB Holding Company,"Inc."","PITTS,"GA"","2017","KAY PEEBLES","Common Stock","510.00","2.45%","n/a"
+"WCSB Holding Company,"Inc."","PITTS,"GA"","2017","LO PEEBLES,"JR."","Common Stock","600.00","2.88%","n/a"
+"WCSB Holding Company,"Inc."","ALEXANDRIA,"VA"","2017","STUART PEEBLES","Common Stock","58.00","0.28%","n/a"
+"WCSB Holding Company,"Inc."","Fitzgerald,"GA 31750"","2017","MICHAEL DURDEN or Myra Durden","Common Stock","1877.27","9.02%","n/a"
+"WCSB Holding Company,"Inc."","MACON,"GA"","2017","DANIEL CLAYTON TURK","Common Stock","132.00","0.63%","n/a"
+"WCSB Holding Company,"Inc."","ATLANTA,"GA"","2017","JAMES TURK - estate","Common Stock","1612.06","7.74%","n/a"
+"WCSB Holding Company,"Inc."","ATLANTA,"GA"","2017","JAMES TURK for Charlene","Common Stock","130.00","0.62%","n/a"
+"WCSB Holding Company,"Inc."","ATLANTA,"GA"","2017","JAMES TURK for James Jr","Common Stock","130.00","0.62%","n/a"
+"WCSB Holding Company,"Inc."","HOMEWOOD,"AL"","2017","KATHERINE E TURK","Common Stock","132.00","0.63%","n/a"
+"WCSB Holding Company,"Inc."","MACON,"GA"","2017","PAUL TURK","Common Stock","1654.57","7.95%","n/a"
+"WCSB Holding Company,"Inc."","GREENSBORO,"SC"","2017","STEPHEN E TURK","Common Stock","132.00","0.63%","n/a"
+"WCSB Holding Company,"Inc."","MACON,"GA"","2017","STIFEL,"Paul Turk IRA"","Common Stock","100.00","0.48%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCSB Holding Company,"Inc."","Chairman of the Board,"Director"","L.O. Peebles,"Jr."","President","Peebles Timber,"Inc."","2017","Timber Dealer","n/a"
+"WCSB Holding Company,"Inc."","Vice-Chairman of the Board,"Director"","L.T. McDonald,"Jr."","Manager","RW Griffin,"LLC"","2017","Fertilizer Plant Manager","n/a"
+"WCSB Holding Company,"Inc."","Director","David Brown","n/a","n/a","2017","Farmer","n/a"
+"WCSB Holding Company,"Inc."","Director & Legal Counsel","John Croley,"Jr."","Attorney","n/a","2017","Sole Practitioner","n/a"
+"WCSB Holding Company,"Inc."","President & CEO & Director","Michael A. Durden","n/a","MTD,"LLC"","2017","President & CEO","n/a"
+"WCSB Holding Company,"Inc."","EVP,"CFO & Director"","Shannon Vickers","n/a","n/a","2017","n/a","n/a"
+"WCSB Holding Company,"Inc."","Director","Gordon Studstill","n/a","n/a","2017","Rural Mail Carrier USPS","n/a"
+"WCSB Holding Company,"Inc."","Director","Shawn Rhodes","Judge/Attorney","n/a","2017","Probate Judge & Magistrate Judge Wilcox County","n/a"
+"WCSB Holding Company,"Inc."","Director","Charles Taylor","Minister","n/a","2017","Minister Englewood Baptist Church","n/a"
+"WCSB Holding Company,"Inc."","None","JOHN N DAVIS","Attorney","n/a","2017","Attorney - Retired","n/a"
+"WCSB Holding Company,"Inc."","N/A","JAMES TURK - estate","n/a","n/a","2017","n/a","n/a"
+"WCSB Holding Company,"Inc."","None","PAUL TURK","Anesthesiologist","n/a","2017","Physician American Anesthesiology of GA","n/a"
+"WCSB Holding Company,"Inc."","Director","RONNIE CONNER","Vice President","n/a","2017","Farmer","n/a"
+```

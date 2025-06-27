@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2022","The Sue Soileau Trust","common stock","907000","39.00%","n/a"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2022","Washington State Banchares,"Inc.","Employee Stock Ownership Trust"","common stock","453000","19.48%","n/a"
+"Washington State Bancshares,"Inc."","Lafayette,"LA"","2022","David Creig Brignac Jr. Trust","common stock","428500","18.42%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Trustee","David Creig Brignac Jr. Trust","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Co-Trustee","The Sue Soileau Trust","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","President","Steven G. Durio,"A Professional Corporation"","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Director","Durio,"Mcgoffin","Stagg & Ackermann","A Professional Corporation"","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Director","Building 16,"LLC"","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Manager","Villa Vista Verde,"LLC"","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Director Secretary","Steven G. Durio","Director","Durio & Broussard LLC","2022","Attorney","n/a"
+"Washington State Bancshares,"Inc."","n/a","Paul A. Durand Jr.","Co-Trustee","The Sue Soileau Trust","2022","Technology","n/a"
+"Washington State Bancshares,"Inc."","Director Chairman","Paul Durand","EVP/ Business Development","HUD Investments","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director Chairman","Paul Durand","EVP/ Business Development","P-DU,"LLC"","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director Chairman","Paul Durand","EVP/ Business Development","ALYCE","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director Chairman","Paul Durand","EVP/ Business Development","Joel Enterprise","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director","Anthony Kip Bertrand","Director,"President","CEO"","Holly's Hobbies,"Inc"","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director","Anthony Kip Bertrand","Director,"President","CEO"","TAD Inc.","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Treasurer/CFO","Susie Rowe","Trustee","WSBI ESOP","2022","Banker","n/a"
+"Washington State Bancshares,"Inc."","Director","Terilyn Cober","Manager/Member","Cober Properties & Consulting","2022","Owner of C&B Pumps and Compressors LLC","n/a"
+"Washington State Bancshares,"Inc."","Director","Ellis Daigle","Manager/Member","Dell Investments","2022","Retired Judicial District Judge","n/a"
+"Washington State Bancshares,"Inc."","Director","Ellis Daigle","Member","Tigerland,"CP"","2022","Retired Judicial District Judge","n/a"
+"Washington State Bancshares,"Inc."","Director","Ellis Daigle","Member","Tigerland Eunice","2022","Retired Judicial District Judge","n/a"
+"Washington State Bancshares,"Inc."","Director","Alonzo Harris","Member","Bellevue Complex,"LLC"","2022","Retired Judicial District Judge","n/a"
+"Washington State Bancshares,"Inc."","Director","Alonzo Harris","Member","Harris Farms & Rentals,"LLC"","2022","Retired Judicial District Judge","n/a"
+"Washington State Bancshares,"Inc."","Director","David Prochaska","Director,"Secretary of the Board"","n/a","2022","Retired Ag Research & Consultant","n/a"
+"Washington State Bancshares,"Inc."","Director","Harold Stelly","Member","Hallie Acres","2022","Owner of Steel Buildings Company","n/a"
+"Washington State Bancshares,"Inc."","Director","Harold Stelly","President","S&S Steel","2022","Owner of Steel Buildings Company","n/a"
+"Washington State Bancshares,"Inc."","Director","Harold Stelly","President","Stelly Enterprise","2022","Owner of Steel Buildings Company","n/a"
+```

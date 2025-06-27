@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"GulfShore Bancshares,"Inc."","Tampa,"Florida"","2015","Validus Holdings,"LLLP"","Common Stock","1768143","32.35%","n/a"
+"GulfShore Bancshares,"Inc."","Apollo Beach,"FL"","2015","Mark E. Levey","common stock","711096","13.01%","n/a"
+"GulfShore Bancshares,"Inc."","Hartland,"WI"","2015","Fortress Partners Banc Ventures I,"LP"","common stock","294447","5.39%","n/a"
+"GulfShore Bancshares,"Inc."","Hartland,"WI"","2015","Fortress Partners Banc Ventures II,"LP"","common stock","294447","5.39%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","CEO,"Chiarman & Founder"","Electrostim Medical Services,"Inc."","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Validus Group LLC","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Carter Validus REIT Investment Management Company,"LLC"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Carter Validus REIT Investment Management Company II,"LLC"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Carter Validus REIT Investment Management Company III,"LLC"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Carter Validus REIT Investment Management Company IV,"LLC"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Strategic Capital/SC Distributors","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","n/a","Carter Validus Advisor 1 & II,"LLC"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Managing Member,"General Partner of Validus Holdings","LLLP"","Mario Garcia,"Jr."","Director","Museum of Science & Industry,"Tampa FL"","2015","Medical device company,"Director"","n/a"
+"GulfShore Bancshares,"Inc."","Director","Marty E. Adams","Managing Partner","Strategic Value Bank Partners,"L.P."","2015","President,"Marty Adams Consulting","LLC"","n/a"
+"GulfShore Bancshares,"Inc."","Director","Jon C. Bruss","Managing Principal and CEO","Fortress Partners Capital Management,"LTD"","2015","Bank investor and advisor","n/a"
+"GulfShore Bancshares,"Inc."","Director","John E. Carter","Vice Chairman","Carter & Associates,"LLC"","2015","Real Estate Investor / Manager","n/a"
+"GulfShore Bancshares,"Inc."","Director","Vincent J. Cassidy","Greater Tampa Chamber of Commerce Board Member / Exec Committee","Majesty Title Services,"LLC"","2015","Title Insurance Company","n/a"
+"GulfShore Bancshares,"Inc."","Director","George A. Guida","Retired banker","n/a","2015","Retired banker","n/a"
+"GulfShore Bancshares,"Inc."","Director","Mark E. Levey","n/a","n/a","2015","Investor","n/a"
+"GulfShore Bancshares,"Inc."","Director","Jonathan A. Levy","Managing Partner","Redstone Investments","2015","Investor","n/a"
+"GulfShore Bancshares,"Inc."","Director","Kenneth M. Pierce","n/a","n/a","2015","Investor","n/a"
+"GulfShore Bancshares,"Inc."","Director","Luciano L. Prida,"Jr."","Partner","Prida,"Guida & Co."","2015","CPA","n/a"
+"GulfShore Bancshares,"Inc."","Chairman","Armando O. Roche","CEO","Roche Family Holdings,"Inc."","2015","Surety & Casualty Company","n/a"
+"GulfShore Bancshares,"Inc."","Director","R. Bob Smith,"III"","CEO","Psychological Assessment Resources","2015","CEO","n/a"
+"GulfShore Bancshares,"Inc."","GulfShore Bank President & CEO","Joseph L. Caballero","Managing Member","CBJC,"LLC"","2015","President & CEO","n/a"
+"GulfShore Bancshares,"Inc."","EVP & COO of GulfShore Bank","Richard A. Mocsari","Board of Trustees Member","Corbett Preparatory School of IDS","2015","Chief Financial Officer","n/a"
+"GulfShore Bancshares,"Inc."","SVP & CCO of GulfShore Bank","Edmund O'Carroll","n/a","n/a","2015","Chief Operating Officer","n/a"
+"GulfShore Bancshares,"Inc."","SVP & CFO of GulfShore Bank","Andrew Peterson","n/a","n/a","2015","Chief Credit Officer","n/a"
+```

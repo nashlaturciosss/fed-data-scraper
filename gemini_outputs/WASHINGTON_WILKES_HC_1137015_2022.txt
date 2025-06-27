@@ -1,0 +1,27 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington/Wilkes Holding Company","Washington,"GA"","2022","Gerald O. Norman,"Jr."","Shares","42679","9.17%","n/a"
+"Washington/Wilkes Holding Company","Washington,"GA"","2022","Carolyn Trantham Northweather","Shares","29354","6.31%","n/a"
+"Washington/Wilkes Holding Company","Sandy Spirngs,"GA"","2022","D. Emory Boyd","Shares","24916","5.35%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington/Wilkes Holding Company","Director,"Executive Vice President"","Debbie M. Barnett","Director","n/a","2021","Executive Vice President,"F&M bank"","n/a"
+"Washington/Wilkes Holding Company","Director","D Emory Boyd Jr","Managing Principal,"EPIC Insurance Brokers"","EPIC Insurance Brokers","2021","Insurance Broker,"EPIC Insurance Brokers"","n/a"
+"Washington/Wilkes Holding Company","Director","James W. Brantley","Director","n/a","2021","Retired","n/a"
+"Washington/Wilkes Holding Company","Director,"Chairman"","L. Dan Coxwell","Director,"Chairman"","n/a","2021","Retired","n/a"
+"Washington/Wilkes Holding Company","Director","Charles J. Fievet","Director","n/a","2021","Retired","n/a"
+"Washington/Wilkes Holding Company","Director","Barry W. Goolsby","Pres. & CEO","Burt Lumber Company,"Inc."","2021","Lumber Manufacturing,"Burt Lumber Company","Inc."","n/a"
+"Washington/Wilkes Holding Company","Director","Robert Ray Hardy","Treasurer and Administrator,"CSRA Private Duty","Inc."","CSRA Private Duty,"Inc."","2021","RN,"Business Owner"","n/a"
+"Washington/Wilkes Holding Company","Director","Robert Ray Hardy","Treasurer and Shareholder,"Oconee Area Home Care Services","Inc."","Oconee Area Home Care Services,"Inc."","2021","RN,"Business Owner"","n/a"
+"Washington/Wilkes Holding Company","Director","Debbie r. Jackson","Pres. & CEO,"W.E. Unlimited","Inc."","W.E. Unlimited,"Inc."","2021","Retail Jeweler,"Tena's Jewelry & Gift Shop"","n/a"
+"Washington/Wilkes Holding Company","Director","Debbie r. Jackson","Pres. & CEO,"Tena's Jewelry & Gift Shop","Inc."","Tena's Jewelry & Gift Shop,"Inc."","2021","Retail Jeweler,"Tena's Jewelry & Gift Shop"","n/a"
+"Washington/Wilkes Holding Company","Director","Bobby Jones","Pres. & CEO","Dixie Wood Products,"INC."","2021","Timber Management,"Dixie Wood"","n/a"
+"Washington/Wilkes Holding Company","Chief Financial Officer","Eli Mullis","Chief Financial Officer","n/a","2021","Chief Financial Officer F&M Bank","n/a"
+"Washington/Wilkes Holding Company","Director,"Pres. & CEO"","Edward B. Pope III","Director,"Pres. & CEO"","n/a","2021","Pres. & CEO F&M Bank","n/a"
+"Washington/Wilkes Holding Company","Director","W. Daniel Sisson Jr","Owner,"Rayle Cattle Farm"","Rayle Cattle Farm","2021","Regional VP,"AT&T"","n/a"
+"Washington/Wilkes Holding Company","Director","David S. Tatum","Director","n/a","2021","Retired","n/a"
+```

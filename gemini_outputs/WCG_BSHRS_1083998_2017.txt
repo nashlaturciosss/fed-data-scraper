@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2017","American Security Insurance Co.","Common Stock","4200","7.54%","n/a"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2017","Jesse E. Rogers,"Jr."","Common Stock","14242","25.57%","n/a"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2017","Standard Guaranty Insurance Co.","Common Stock","3150","5.66%","n/a"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2017","American Bankers Life Insurance Co.","Common Stock","3150","5.66%","n/a"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2017","Carlene H. Rogers","Common Stock","5753","10.33%","n/a"
+"WCG Bancshares,"Inc."","Jersey City,"NJ"","2017","National Financial Services LLC","Common Stock","5421","9.73%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCG Bancshares,"Inc."","President,"Chairman","Director"","Jesse E Rogers,"Jr."","President,"Chairman","Director"","West Central Georgia Bank","2017","n/a","n/a"
+"WCG Bancshares,"Inc."","Vice President","Randall Flanagan","n/a","n/a","2017","n/a","n/a"
+"WCG Bancshares,"Inc."","VP & Cashier","Matt Adams","n/a","n/a","2017","Secretary","n/a"
+"WCG Bancshares,"Inc."","Director","James A Robinson","n/a","West Central Georgia Bank","2017","n/a","n/a"
+"WCG Bancshares,"Inc."","Director","Johnnie Caldwell","Attorney","Caldwell & Irvin Law Firm","2017","Attorney","n/a"
+"WCG Bancshares,"Inc."","Director","Alan Connell","Attorney","Connell & Wheeler Law Firm","2017","Attorney","n/a"
+"WCG Bancshares,"Inc."","Director","Jeffery Rogers","Director","West Central Georgia Bank","2017","Retired","n/a"
+"WCG Bancshares,"Inc."","Director","Kenny Coggins","President,"Coggins Funeral Home Inc."","West Central Georgia Bank","2017","Funeral Director","n/a"
+"WCG Bancshares,"Inc."","Director","Charles D. Short","Vice President","West Central Georgia Bank","2017","Finance Company","n/a"
+```

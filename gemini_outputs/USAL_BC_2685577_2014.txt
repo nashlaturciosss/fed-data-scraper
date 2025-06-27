@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2014","Tony Gibson","Common","22440","11.74973%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AmeriFirst Bank","Chairman of the Board","Alfred F. Cook,"Jr."","Owner","ALBICAMCO","2014","Economic Development Consulting","n/a"
+"Main Drug Store","Vice Chairman of the Board","John T. Main","Pharmacist","Main Drug Store","2014","Pharmacist","n/a"
+"Beck's Turf,"Inc."","Director","James L. Bassett","Director","Beck's Turf,"Inc."","2014","Sod Farm","n/a"
+"Gibson's Home Center","Director","Rebecca D. Gibson","Officer","Gibson's Home Center","2014","Home & Officer Furnishings","n/a"
+"n/a","Director","Greg A. Smoker","Director","n/a","2014","Grocer","n/a"
+"Plant Farm Business","Director","Joe M. Varner,"Jr."","Director","Bonnie Plant Farm Business","2014","Agribusiness","n/a"
+"Alabama Steel Supply","Director","Jerald Labovitz","Owner","Alabama Steel Supply","2014","Steel Company","n/a"
+"Dubose Construction","Director","Flynn R. Dubose","Owner","Dubose Construction","2014","Construction","n/a"
+"n/a","Director/President","Robert R. Ramsey","Director/President","n/a","2014","n/a","n/a"
+"n/a","n/a","Tony Gibson","n/a","n/a","2014","n/a","n/a"
+"n/a","EVP & Secretary","Marsha S. Moffett","n/a","n/a","2014","n/a","n/a"
+```

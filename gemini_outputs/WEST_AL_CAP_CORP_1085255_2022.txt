@@ -1,0 +1,24 @@
+"Here are the two requested CSV tables","extracted from the provided document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","WILLIAM R. FINNEY","n/a","16531","14.73","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","NANCY J. TURNER","n/a","13327","11.88","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","TIMOTHY C. WARD","n/a","12792","11.41","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","THOMAS H. MCDONALD","n/a","7645","6.82","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","LISA G. DARDEN","n/a","6767","6.04","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","RICHARD G. EATON","n/a","5189","4.63","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","TERRI W. JORDAN","n/a","5189","4.63","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","JAMES S. KARRH","n/a","4803","4.28","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","THOMAS L. TERRY","n/a","3230","2.88","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","CINDY T. MOORE","n/a","3118","2.78","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","JERRY W. HEARNSBERGER","n/a","2594","2.31","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","DAVID B. SHINHOLSTER","n/a","2594","2.31","n/a"
+"WEST ALABAMA CAPITAL CORP.","n/a","2023","THOMAS E. STEELE","n/a","2594","2.31","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WEST ALABAMA CAPITAL CORP.","VICE-PRESIDENT","WILLIAM R. FINNEY","n/a","n/a","2023","n/a","n/a"
+"WEST ALABAMA CAPITAL CORP.","SR. VP/CFO","NANCY J. TURNER","n/a","n/a","2023","n/a","n/a"
+```

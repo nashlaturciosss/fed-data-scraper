@@ -1,0 +1,20 @@
+Here are the two CSV tables you requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WAYNE COUNTY BANCSHARES,"INC."","Waynesboro,"TN"","2019","George Gray","n/a","1900","6.18%","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Waynesboro,"TN"","2019","Sibyl Haggard","n/a","7216","23.46%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Sibyl Haggard","Executive Vice President","n/a","2019","n/a","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Larry Haggard","Director","n/a","2019","n/a","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Martin L. Haggard","President","n/a","2019","n/a","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Larry K. Wright","Director","n/a","2019","Retired","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","George G. Gray","Director","George G. Gray","2019","Attorney","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Jason Rich","Director","Mayor- Wayne County,"TN"","2019","Mayor","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Dorothy M. Morris","Director","n/a","2019","Retired","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Frederick G. Ramsey","Director","Frederick G. Ramsey","2019","CPA","n/a"
+"WAYNE COUNTY BANCSHARES,"INC."","Director","Darrell Holt","Director","n/a","2019","n/a","n/a"
+```

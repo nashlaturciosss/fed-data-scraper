@@ -1,0 +1,38 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2014","James E. Stewart,"Jr."","Common Stock","213122","5.43%","1493636"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2014","Moi M. Monroe,"III"","Common Stock","212263","5.41%","1493636"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2014","Terry L. Crosby & Geneva Crosby","Common Stock","215675","5.49%","1493636"
+"WB&T Bankshares,"Inc."","Hahira,"GA"","2014","Ashley Paulk","Common Stock","225592","5.75%","1493636"
+"WB&T Bankshares,"Inc."","Lake Park,"GA."","2014","Larry Dean","Common Stock","249399","6.35%","1493636"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2014","Norman Gibson","Common Stock","245983","6.27%","1493636"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WB&T Bankshares,"Inc."","Director and Chairman","James E. Stewart,"Jr."","President","Stewart Candy Co.","2014","Wholesale Candy Distributor","1493636"
+"WB&T Bankshares,"Inc."","Director and Chairman","James E. Stewart,"Jr."","President","Buck Island Land Co.","2014","Wholesale Candy Distributor","1493636"
+"WB&T Bankshares,"Inc."","Director and Vice-Chairman","D. Lewayne Dalton","Partner","Dalton & Bennett,"CP/"","2014","Accounting","1493636"
+"WB&T Bankshares,"Inc."","Director","Dr. S.W. Clark,"III"","S.William Clark,"MD"","Hilltop FLP","2014","Physician","1493636"
+"WB&T Bankshares,"Inc."","Director","Dr. S.W. Clark,"III"","S.William Clark,"MD"","Clark Eye Clinic","2014","Physician","1493636"
+"WB&T Bankshares,"Inc."","Director","Dr. S.W. Clark,"III"","S.William Clark,"MD"","Evaloria Partners,"LLC"","2014","Physician","1493636"
+"WB&T Bankshares,"Inc."","Director and Secretary","Moi M. Monroe,"III"","n/a","n/a","2014","Banking","1493636"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","President","Gillis Brothers,"Inc."","2014","President Gillis Brothers,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","President","Dounoco Land Co.,"Inc."","2014","President Gillis Brothers,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","Partner","Gillis Brothers Land Co.","2014","President Gillis Brothers,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","n/a","Gillis Investments","2014","President Gillis Brothers,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","David W. Littlefield,"Jr."","President","Littlefield Construction Company","2014","President Littlefield Construction Company","1493636"
+"WB&T Bankshares,"Inc."","Director","David W. Littlefield,"Jr."","Vice President","Littlefield Concrete Co.","2014","President Littlefield Construction Company","1493636"
+"WB&T Bankshares,"Inc."","Director","A. Harris Hines,"Jr."","n/a","n/a","2014","Retired","1493636"
+"WB&T Bankshares,"Inc."","Director","William J. Monroe,"Jr."","General Partner","PMM,"FLP"","2014","Retired","1493636"
+"WB&T Bankshares,"Inc."","Director","Ashley Paulk","President","Valdosta Electric","2014","Owner Ashley Paulk,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","Ashley Paulk","President","Valdosta Technical Systems","2014","Owner Ashley Paulk,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","Larry Dean","President","Standard Contractors,"Inc."","2014","President Standard Contractors,"Inc."","1493636"
+"WB&T Bankshares,"Inc."","Director","William P. Langdale,"III"","Partner","Langdale & Vallotton,"LLP"","2014","Attorney","1493636"
+"WB&T Bankshares,"Inc."","Director","William P. Langdale,"III"","Co-Manager","Honor Ridge Properties,"LLC"","2014","Attorney","1493636"
+"WB&T Bankshares,"Inc."","Director","William P. Langdale,"III"","Vice President","PB Automotive,"Inc."","2014","Attorney","1493636"
+"WB&T Bankshares,"Inc."","President","Ansel P. Clark","n/a","n/a","2014","Banking","1493636"
+"WB&T Bankshares,"Inc."","Chief Financial Officer","Steve Wood","n/a","n/a","2014","Banking","1493636"
+"WB&T Bankshares,"Inc."","Chief Financial Officer","Eli D. Mullis","n/a","n/a","2014","Banking","1493636"
+```

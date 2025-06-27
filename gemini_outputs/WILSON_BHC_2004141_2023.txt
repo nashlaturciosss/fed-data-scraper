@@ -1,0 +1,38 @@
+Here are the tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","JOHN CARLOS MCDEARMAN III","n/a","18774","0.16%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","JACK W. BELL","n/a","194721","1.67%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","J. RANDALL CLEMONS","n/a","171017","1.46%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","JAMES F. COMER","n/a","29174","0.25%","159636"
+"Wilson Bank Holding Company","Murfreesboro,"TN"","2023","WILLIAM P. JORDAN","n/a","49390","0.42%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","JAMES ANTHONY PATTON","n/a","76464","0.65%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","HERBERT ELMER RICHERSON","n/a","80856","0.69%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","MICHAEL G. MAYNARD","n/a","17605","0.15%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2023","CLINTON M. SWAIN","n/a","11548","0.10%","159636"
+"Wilson Bank Holding Company","Old Hickory,"TN"","2023","DEBORAH VARALLO","n/a","106","0.001%","159636"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wilson Bank Holding Company","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","JOHN CARLOS MCDEARMAN III","Director/Treasurer","Kids Battle Diabetes","2023","n/a","159636"
+"Wilson Bank Holding Company","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","JOHN CARLOS MCDEARMAN III","Director","Fellowship of Christian Athletes","2023","n/a","159636"
+"Wilson Bank Holding Company","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","JOHN CARLOS MCDEARMAN III","Board of Trust","Cumberland University","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JACK W. BELL","President/Owner","Jack Bell Builders,"Inc."","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JACK W. BELL","Vice President","E B Builders Inc.","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JACK W. BELL","Chief Manager","Horn Springs Development","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JACK W. BELL","Manager","CHN LLC","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","J. RANDALL CLEMONS","President","Wilson County Promotions,"Inc."","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","J. RANDALL CLEMONS","President","Granville Museum,"Inc."","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JAMES F. COMER","President","Comerica Enterprises,"Inc."","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","JAMES F. COMER","Co-owner","Classic Coaches Inc.","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Partner","Jordan Dairy Farm Partnership","2023","Businessman- Real Estate Investor and farming operation partner","159636"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Director","United Communications","2023","Businessman- Real Estate Investor and farming operation partner","159636"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Director","Middle Tennessee Electric Membership Corp","2023","Businessman- Real Estate Investor and farming operation partner","159636"
+"Wilson Bank Holding Company","Director","JAMES ANTHONY PATTON","Owner","C&T Farms","2023","n/a","159636"
+"Wilson Bank Holding Company","Chairman and Director","HERBERT ELMER RICHERSON","Treasurer","Industrial Development Board of Wilson County","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","MICHAEL G. MAYNARD","n/a","n/a","2023","Retired Chief Manager","159636"
+"Wilson Bank Holding Company","Director","CLINTON M. SWAIN","Co-Owner","Fakes & Hooker,"Inc."","2023","n/a","159636"
+"Wilson Bank Holding Company","Director","DEBORAH VARALLO","President","Varallo Public Relations","2023","n/a","159636"
+```

@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington State Bancshares,"Inc."","Sunset,"LA"","2014","Sue Soileau Brignac","common stock","906.5","50%","n/a"
+"Washington State Bancshares,"Inc."","Sunset,"LA"","2014","Sue Soileau Brignac","common stock","906.5","50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington State Bancshares,"Inc."","President/Treasure & Director","Sue Soileau Brignac","n/a","Alyce Corporation","2014","Banker","311939"
+"Washington State Bancshares,"Inc."","President/Treasure & Director","Sue Soileau Brignac","n/a","Joel Enterprises,"Inc."","2014","Banker","311939"
+"Washington State Bancshares,"Inc."","President/Treasure & Director","Sue Soileau Brignac","n/a","Stanyan Property,"LLC"","2014","Banker","311939"
+"Washington State Bancshares,"Inc."","President/Treasure & Director","Sue Soileau Brignac","n/a","Sunset Bancshares,"Inc."","2014","Banker","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","President","Steven G. Durio,"A Professional Corporation"","2014","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Durio,"Mcgoffin","Stagg & Ackermann","A Professional Corporation"","2014","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Building 16,"LLC"","2014","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Manager","Shu's Place,"LLC"","2014","Attorney","n/a"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Manager","Villa Vista Verde,"LLC"","2014","Attorney","n/a"
+```

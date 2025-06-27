@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2015","William E Phillips","common stock","42750","8.61%","143203."
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2015","M. Carlin Greene","common stock","24807","5.00%","143203."
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Civis Bank","Director","Reed D. Matney","Former President","n/a","2015","Retired Banker","841838"
+"Civis Bank","Director Chairman of Board","William E. Phillips","Director","Phillips & Hale","2015","Attorney","841838"
+"Civis Bank","Director","M. Carlin Greene","Director","n/a","2015","Farmer/Real Estate","841838"
+"Civis Bank","Director","Gary E. Varnell","Director","Rogersville Office Supply","2015","Mgr/Operator Retail Office Products","841838"
+"Civis Bank","Director","Scott F. Collins","Vice President","n/a","2015","Banking","841838"
+"Civis Bank","n/a","Richard K. Yowell","President/CEO","n/a","2015","Banking","841838"
+"Civis Bank","Director","Patrick Moore","Director","n/a","2015","Banking","841838"
+"Civis Bank","Director","William E. Phillips II","Director","Attorney/Phillips & Hale","2015","Attorney","841838"
+```

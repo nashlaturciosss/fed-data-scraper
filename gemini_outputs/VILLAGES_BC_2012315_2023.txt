@@ -1,0 +1,26 @@
+Here are the two CSV tables extracted from the document:
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","Lindsey M. Blaise","n/a","14874","2%","2012315"
+"Villages Bancorporation,"Inc."","Leesburg,"FL"","2023","Michael S. Levine,"MD"","n/a","119","1%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","Mark G. Morse","n/a","152243","20%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","James H. Parr,"Sr"","n/a","953","1%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","Tracy Morse Dadeo","n/a","198476","27%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","Jennifer Parr","n/a","192832","26%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2023","Jeff Skates,"Trustee for Kelsea Morse","Irrevocable Trust"","n/a","87750","11%","2012315"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Villages Bancorporation,"Inc."","President /CEO","Jay Bartholomew","CEO & President","Citizens First Bank","2023","CEO & President Citizens First Bank","2012315"
+"Villages Bancorporation,"Inc."","President Director","Lindsey M. Blaise","President","Citizens First Bank","2023","CEO & President Citizens First Bank","2012315"
+"Villages Bancorporation,"Inc."","Director","C. Dale Borrowman","Director","The Villages Technology Solutions Group","2023","Business Owner/President","2012315"
+"Villages Bancorporation,"Inc."","Director","W. Thomas Brooks","n/a","n/a","2023","Retired - CPA","2012315"
+"Villages Bancorporation,"Inc."","Director","Robert. D. Eddy","n/a","n/a","2023","CPA","2012315"
+"Villages Bancorporation,"Inc."","Director","Stephen T. Kurtz","Director","n/a","2023","CEO,"Retired Citizens First Bank"","2012315"
+"Villages Bancorporation,"Inc."","Director","Michael S. Levine,"MD"","n/a","n/a","2023","Radiologist","2012315"
+"Villages Bancorporation,"Inc."","Director","Kevin W. McDonald","n/a","McDonald & Company Insurance Agency","2023","Business Owner/President","2012315"
+"Villages Bancorporation,"Inc."","Director","Mark G. Morse","President","Holding Co of The Villages,"Inc."","2023","Developer","2012315"
+"Villages Bancorporation,"Inc."","Director","James H. Parr,"Sr"","n/a","n/a","2023","Retired - Investment Broker","2012315"
+"Villages Bancorporation,"Inc."","Director","Steven M. Roy","n/a","n/a","2023","Retired - Attorney","2012315"
+"Villages Bancorporation,"Inc."","Director","Danny Al Schmid","n/a","n/a","2023","Retired - EVP Citizens First Bank","2012315"
+```

@@ -1,0 +1,37 @@
+"Here are the two tables in CSV format","as requested:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"West Alabama Capital Corp.","Carrollton,"AL"","2014","Andrew C. Wade","n/a","88568","19.11%","1085255"
+"West Alabama Capital Corp.","Carrollton,"AL"","2014","Andrew C. Wade","n/a","25635","5.53%","1085255"
+"West Alabama Capital Corp.","Carrollton,"AL"","2014","Wade Family Partnership","n/a","80708","17.41%","1085255"
+"West Alabama Capital Corp.","Carrollton,"AL"","2014","Gerry C. Wade","n/a","25635","5.53%","1085255"
+"West Alabama Capital Corp.","Birmingham,"AL"","2014","Cheryl R. Alford","n/a","25500","5.50%","1085255"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"West Alabama Capital Corp.","President & Director","Andrew C. Wade","Chairman,"Board of Directors"","Perrigin Farms,"LLC"","2014","Chairman West Alabama Bank & Trust","n/a"
+"West Alabama Capital Corp.","Vice President & Director","William R. Finney","Director & President","n/a","2014","President & CEO (West Alabama Bank & Trust)","n/a"
+"West Alabama Capital Corp.","Director","Drew Wade","Director & COO","Marvel Center,"Inc."","2014","COO (West Alabama Bank & Trust)","n/a"
+"West Alabama Capital Corp.","Director","W. O. Kirk","General Partner","Kirk Enterprises","2014","Retired District Judge/Attorney","n/a"
+"West Alabama Capital Corp.","Director","Joe Lewis","JBL Alabama Properties LLC Manager","n/a","2014","Retired","n/a"
+"West Alabama Capital Corp.","Director","Joe Lewis","Joe & Claudia Lewis Properties LLC - Manager","n/a","2014","Retired","n/a"
+"West Alabama Capital Corp.","Director","Drew Linn","Director (West Alabama Bank & Trust)","GRADYCO,"LLC"","2014","Southland International Trucks,"Inc."","n/a"
+"West Alabama Capital Corp.","Director","Drew Linn","Director (West Alabama Bank & Trust)","AGL Properties","2014","Southland International Trucks,"Inc."","n/a"
+"West Alabama Capital Corp.","Director","J. Chris McCool","n/a","n/a","2014","District Attorney","n/a"
+"West Alabama Capital Corp.","Secretary/Treas. and Director","Carol McKinzey","n/a","n/a","2014","Sr. VP/Human Resources Officer WABT","n/a"
+"West Alabama Capital Corp.","Director","George Newman","n/a","n/a","2014","Investment Properties","n/a"
+"West Alabama Capital Corp.","Director","Mark Prater","n/a","n/a","2014","Retired - West Alabama Bank & Trust","n/a"
+"West Alabama Capital Corp.","Director","Hugh Summerville","Owner","Summerville Enterprises,"Inc."","2014","Farmer","n/a"
+"West Alabama Capital Corp.","Director","Charles T. Swann,"Jr."","Partner","Kellann,"LLC"","2014","Regional Executive,"SVP West Alabama Bank & Trust"","n/a"
+"West Alabama Capital Corp.","Director","Charles T. Swann,"Jr."","Partner","Swann,"LLC"","2014","Regional Executive,"SVP West Alabama Bank & Trust"","n/a"
+"West Alabama Capital Corp.","Director","Robert E. Burns","n/a","n/a","2014","Retired Telecom Executive","n/a"
+"West Alabama Capital Corp.","Vice President & CFO","Nancy J. Turner","n/a","n/a","2014","SVP &CFO (West Alabama Bank & Trust)","n/a"
+"West Alabama Capital Corp.","VP & Senior Lending Officer","Karen Black","Senior Lender","n/a","2014","n/a","n/a"
+"West Alabama Capital Corp.","Chief Technology Officer","Marshall Puckett","Chief Technology Officer","n/a","2014","n/a","n/a"
+"West Alabama Capital Corp.","VP & Sr. Lending Officer","Joseph Brad Williams","n/a","GBW,"LLC"","2014","n/a","n/a"
+"West Alabama Capital Corp.","Sr. VP & Loan Officer","Michael Scott Christoff","n/a","n/a","2014","n/a","n/a"
+"West Alabama Capital Corp.","n/a","Wade Family Pts.","n/a","n/a","2014","n/a","n/a"
+"West Alabama Capital Corp.","Director","Jay Parker","n/a","n/a","2014","Physician Family Practice","n/a"
+```

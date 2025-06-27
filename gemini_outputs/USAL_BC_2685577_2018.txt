@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2018","WT ""Tony"" Gibson,"Jr."","Common","22440","11.81%","n/a"
+"USAL Bancorp,"Inc."","Sturgis,"Michigan"","2018","Gregory A. Smoker","Common","10000","5.26%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USAL Bancorp,"Inc."","Chairman of the Board","Alfred F. Cook,"Jr."","Owner","ALBICAMCO","2018","Economic Development Consulting","n/a"
+"USAL Bancorp,"Inc."","Chairman of the Board","Alfred F. Cook,"Jr."","n/a","ALBICAMCO","2018","Economic Development Consulting","n/a"
+"USAL Bancorp,"Inc."","Director","John T. Main","Owner","Main Drug Store","2018","Pharmacist","n/a"
+"USAL Bancorp,"Inc."","Director","James L. Bassett","Owner","Beck's Turf,"Inc."","2018","Sod Farm","n/a"
+"USAL Bancorp,"Inc."","Director","Greg A. Smoker","n/a","n/a","2018","Commercial R/E Investment","n/a"
+"USAL Bancorp,"Inc."","Vice Chairman/Director","Joe M. Varner,"Jr."","Owner","Plant Farm Business","2018","Agribusiness","n/a"
+"USAL Bancorp,"Inc."","Vice Chairman/Director","Joe M. Varner,"Jr."","n/a","Bonnie Plants","2018","Agribusiness","n/a"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Owner","Alabama Steel Supply","2018","Steel Company","n/a"
+"USAL Bancorp,"Inc."","Director","Flynn R. Dubose","Owner","Dubose Construction","2018","Construction","n/a"
+"USAL Bancorp,"Inc."","Director/President and CEO","Robert R. Ramsey","n/a","n/a","2018","n/a","n/a"
+"USAL Bancorp,"Inc."","Director","Addie M. Smith","n/a","n/a","2018","Accountant","n/a"
+"USAL Bancorp,"Inc."","Director","Emory Kyle Kyser,"Jr."","VP","4K Properties. LLC","2018","Real Estate","n/a"
+"USAL Bancorp,"Inc."","Director","Emory Kyle Kyser,"Jr."","VP","2K Investments,"LLC"","2018","Real Estate","n/a"
+"USAL Bancorp,"Inc."","n/a","WT ""Tony"" Gibson","n/a","n/a","2018","n/a","n/a"
+"USAL Bancorp,"Inc."","EVP/CFO/Secretary","Marsha S. Moffett","n/a","n/a","2018","n/a","n/a"
+```

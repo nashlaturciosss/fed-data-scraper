@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WB&T Bankshares,"Inc."","Hahira,"GA"","2020","Ashley Paulk","Common Stock","377573","8.35%","n/a"
+"WB&T Bankshares,"Inc."","Lake Park,"GA"","2020","Larry Dean","Common Stock","361446","7.99%","n/a"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2020","Moi Monroe","Common Stock","372331","8.23%","n/a"
+"WB&T Bankshares,"Inc."","Savannah,"GA"","2020","William J. Monroe,"Jr."","Common Stock","339166","7.50%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WB&T Bankshares,"Inc."","Chairman,"President","and CEO"","Ansel P. Clark","Director","Waycross B&T","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Chairman,"President","and CEO"","Ansel P. Clark","Director","Guardian Bank","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Ansel P. Clark","Director","South Coast B&T","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director and Vice-Chairman","D. Lewayne Dalton","Dalton & Bennett,"CPA Partner"","Dalton & Bennett,"CPA"","2020","Accounting","n/a"
+"WB&T Bankshares,"Inc."","Director","D. Lewayne Dalton","Director / Chairman","Waycross B&T","2020","Accounting","n/a"
+"WB&T Bankshares,"Inc."","Director","D. Lewayne Dalton","Director","South Coast B&T","2020","Accounting","n/a"
+"WB&T Bankshares,"Inc."","Director and Secretary","Moi M. Monroe,"III"","Director and Employee","Waycross B&T","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Larry Dean","President","Standard Contractors,"Inc."","2020","President Standard Contractors,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","Larry Dean","Director / Secretary","Guardian Bank","2020","President Standard Contractors,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","A. Harris Hines,"Jr."","Director","Waycross B&T","2020","Retired","n/a"
+"WB&T Bankshares,"Inc."","Director","Jack C. Kilgore","Director / Chairman","South Coast B&T","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Jack C. Kilgore","Director","Primo Water,"Inc."","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Jack C. Kilgore","Director","PB2 Foods","2020","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","William J. Monroe,"Jr."","Director","Waycross B&T","2020","Retired","n/a"
+"WB&T Bankshares,"Inc."","Director","Ashley Paulk","Director / Chairman","Guardian Bank","2020","Owner Ashley Paulk,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","E. Rees Gibson","Director","Waycross B&T","2020","Retail Furniture Stores","n/a"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","Director / Secretary","Waycross B&T","2020","President","n/a"
+"WB&T Bankshares,"Inc."","Director","David W. Littlefield,"Jr."","Director","Waycross B&T","2020","President","n/a"
+"WB&T Bankshares,"Inc."","Director","James E. Stewart,"III"","Director","Waycross B&T","2020","Chief Executive Officer","n/a"
+"WB&T Bankshares,"Inc."","Director","William P. Langdale,"III"","Director","Guardian Bank","2020","Attorney","n/a"
+"WB&T Bankshares,"Inc."","Executive Vice President","Parrish Clark","CEO","Guardian Bank","2020","Banking","n/a"
+```

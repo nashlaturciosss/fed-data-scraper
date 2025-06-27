@@ -1,0 +1,27 @@
+Here are the two CSV tables as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2014","T.L. Lovett,"Jr."","n/a","9065","8.48%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2014","Leon A. Lovett","n/a","8192","7.66%","1138656"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2014","Mary Jo Fulghum Edenfield","n/a","7200","6.74%","1138656"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2014","Mary Jean Roughton","n/a","7100","6.64%","1138656"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2014","Richard Herschel Lovett","n/a","7083","6.63%","1138656"
+"Wrightsville Bancshares,"Inc."","Nashville,"TN"","2014","James W. Phillips","n/a","6842","6.40%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2014","Herbert Jonson Vickers","n/a","5722","5.35%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2014","Mary Frances Newsome","n/a","5388","5.04%","1138656"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Wrightsville","Director","R. Herschel Lovett","President","Lovett Ins. Agency","2014","Insurance Agent","1138656"
+"Bank of Wrightsville","Director","Leon A. Lovett","n/a","n/a","2014","Rental Property","1138656"
+"Bank of Wrightsville","Chairman of the Board","Leon A. Lovett","n/a","n/a","2014","Rental Property","1138656"
+"Bank of Wrightsville","President/CEO Director","Gerald E. Lewis","n/a","n/a","2014","Bank President","1138656"
+"WBS Financial Services,"Inc."","President/CEO Director","Gerald E. Lewis","n/a","n/a","2014","Bank President","1138656"
+"Bank of Wrightsville","Director","Kenneth L. Vickers","n/a","n/a","2014","None","1138656"
+"Bank of Wrightsville","Sr. Vice President Director","Kenneth L. Vickers","n/a","n/a","2014","None","1138656"
+"Bank of Wrightsville","Director","Jeffrey D. Powell","Owner","Jeff Powell Trucking","2014","Jeff Powell Trucking","1138656"
+"Bank of Wrightsville","Director","Jeffrey D. Powell","Owner","Parker Fish Co.","2014","Jeff Powell Trucking","1138656"
+"Bank of Wrightsville","Director","Lynn L. Shields","n/a","n/a","2014","None","1138656"
+```

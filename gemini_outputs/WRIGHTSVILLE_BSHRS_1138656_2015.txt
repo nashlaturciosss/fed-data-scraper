@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2015","T.L. Lovett,"Jr."","Common Stock","9065","8.48%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2015","Leon A. Lovett","Common Stock","8192","7.66%","1138656"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2015","Mary Jo Fulghum Edenfield","Common Stock","7200","6.74%","1138656"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2015","Mary Jean Roughton","Common Stock","7100","6.64%","1138656"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2015","Richard Herschel Lovett","Common Stock","7083","6.63%","1138656"
+"Wrightsville Bancshares,"Inc."","Nashville,"TN"","2015","James W. Phillips","Common Stock","6842","6.40%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2015","Herbert Jonson Vickers","Common Stock","5722","5.35%","1138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2015","Mary Frances Newsome","Common Stock","5388","5.04%","1138656"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Director","R. Hershel Lovett","President","Lovett Ins. Agency","2015","Insurance Agent","1138656"
+"Wrightsville Bancshares,"Inc."","Director Chairman of the Board","Leon A. Lovett","President","Lovett Rentals Co.","2015","Rental Property","1138656"
+"Wrightsville Bancshares,"Inc."","Director President/CEO","Gerald E. Lewis","n/a","n/a","2015","Bank President","1138656"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Owner","Jeff Powell Trucking","2015","Jeff Powell Trucking","1138656"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Owner","Parker Fish Co.","2015","Jeff Powell Trucking","1138656"
+"Wrightsville Bancshares,"Inc."","Director","Lynn L. Shields","n/a","n/a","2015","None","1138656"
+"Wrightsville Bancshares,"Inc."","Director","Richard V. Everly","n/a","n/a","2015","Bank Executive Vice President/Senior Lending Officer","1138656"
+"Wrightsville Bancshares,"Inc."","Director","Stuart Stanley","n/a","n/a","2015","Farmer","1138656"
+```

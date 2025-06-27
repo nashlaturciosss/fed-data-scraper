@@ -1,0 +1,27 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2018","Lowell Galloway","Common Stock","39500","3.46%","4169549"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2018","Lowell Galloway","Common Stock","51404","4.51%","4169549"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2018","Danny J. Thrash","Common Stock","105633","9.26%","4169549"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vantage Bank","President/CEO Director","Lowell Galloway","President/CEO","Vantage Bank","2018","n/a","4169549"
+"Vantage Bank","Director","Danny Thrasli","President","Danny Thrash Motors,"Inc."","2018","Equipment Sales","4169549"
+"Vantage Bank","Director","Danny Thrasli","President","Transcontinental Auto Exchange,"Inc."","2018","Equipment Sales","4169549"
+"Vantage Bank","Director","David Mitchell","President","Mitchell Grocery Corporation","2018","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","David Mitchell","President","Bee Line Express,"Inc."","2018","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","David Mitchell","Vice President","JMBL,"Inc."","2018","Grocery Wholesale/Retail","4169549"
+"Vantage Bank","Director","Laura Casey","n/a","n/a","2018","Homemaker/Community Volunteer","4169549"
+"Vantage Bank","Director","John Weathers","Co-owner","Weathers Properties,"LLC"","2018","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","President","United Properties,"LLC"","2018","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","Secretary","Mountain Group,"LLC"","2018","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","President","Downtown Properties,"LLC"","2018","Real Estate Investments","4169549"
+"Vantage Bank","Director","John Weathers","Secretary","Mountain Valley Apts.,"LLC"","2018","Real Estate Investments","4169549"
+"Vantage Bank","Director","Frank McDaniel","President","Big Spring Lake,"LLC."","2018","Retired Vending Company Owner/ Golf club management","4169549"
+"Vantage Bank","Director","Benny Frazier","President","Bobby's Auto Parts,"Inc."","2018","Retail Auto Parts Sales","4169549"
+"Vantage Bank","Director","Melvin D. Thombury","President","Melvin D. Thornbury,"M.D.","P.C."","2018","Physician","4169549"
+"Vantage Bank","Director","Melvin D. Thombury","Managing Member","Thornbury Properties,"LLC"","2018","Physician","4169549"
+```

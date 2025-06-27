@@ -1,0 +1,33 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","lla Scott Revocable Trust 6/26/02","Common stock","15400","10.32%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Danny Gist","Common stock","7460","5.00%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Danny Gist","Common stock","11740","7.87%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Jerry James","Common stock","13133","8.80%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Rogers Investments,"LP"","Common stock","65800","44.13%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","James Bret Gist","Common stock","1000","0.67%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","James Bret Gist","Common stock","13700","9.19%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Jason F. Gist","Common stock","1000","0.67%","1493609"
+"Valley Bancshares,"Inc."","Russellville,"AL"","2014","Jason F. Gist","Common stock","12800","8.59%","1493609"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Valley State Bank","Director","James Bret Gist","VP/Gen. Mgr.","G&G Steel Inc.","2014","Vice President","595337"
+"Valley State Bank","Director","James Bret Gist","Member","Road Gear Truck Equipment,"LLC"","2014","Vice President","595337"
+"Valley State Bank","Director","James Bret Gist","Member","Warrior River Steel,"LLC"","2014","Vice President","595337"
+"Valley State Bank","Director","Jason F. Gist","VP/Gen. Mgr.","Franklin Mfg.,"Inc."","2014","Operations Director","595337"
+"Valley State Bank","Director","Jason F. Gist","Managing Member","Road Gear Truck Equipment,"LLC"","2014","Operations Director","595337"
+"Valley State Bank","Director","Jason F. Gist","Member","Warrior River Steel,"LLC"","2014","Operations Director","595337"
+"Valley State Bank","Director","Joe M. Tucker","Owner","Joe M. Tucker,"CPA"","2014","CPA","595337"
+"Valley State Bank","n/a","Ila Scott Rev. Trust 6/26/02","n/a","n/a","2014","Trust","595337"
+"Valley State Bank","n/a","Rogers Investments,"LP"","n/a","n/a","2014","n/a","595337"
+"Valley State Bank","Director Chairman","Robert I. Rogers,"Jr."","n/a","See Attached","2014","Attorney","595337"
+"Valley State Bank","Director","Greg Trapp","President","Fleet Partners","2014","Self-Employed","595337"
+"Valley State Bank","CEO","Jim H. Davis","n/a","n/a","2014","n/a","595337"
+"Valley State Bank","Director President","Robert I. Rogers III","Managing Member","TN Valley Forestry & Wildlife,"LLC"","2014","n/a","595337"
+"Valley State Bank","n/a","Danny Gist","President","General Southern Ind.,"Inc."","2014","Executive","595337"
+"Valley State Bank","n/a","Danny Gist","President","G&G Steel Inc.","2014","Executive","595337"
+"Valley State Bank","n/a","Danny Gist","President","G&G Steel Trucking Inc.","2014","Executive","595337"
+```

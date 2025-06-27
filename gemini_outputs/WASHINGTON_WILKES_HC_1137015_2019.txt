@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F&M Bank","Washington,"GA"","2019","Estate of Gerald O. Norman","Shares","74196","15.53%","n/a"
+"F&M Bank","Jesse D. Northweather,"USA"","2019","Carolyn Trantham Northweather","Shares","29704","6.22%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank","Director","Bobby Jones","Pres. & CEO","Dixie Wood Products,"INC."","2019","Timber Management Dixie Wood Products,"INC."","n/a"
+"F&M Bank","Director","L. Dan Coxwell","None","None","2019","Retired","n/a"
+"F&M Bank","Executive Vice President","Debbie M. Barnett","None","None","2019","Executive Vice President,"F&M bank"","n/a"
+"F&M Bank","Director","Charles J. Fievet","None","None","2019","Retired","n/a"
+"F&M Bank","Director","Barry W. Goolsby","Pres. & CEO","Burt Lumber Company,"Inc."","2019","Lumber Manufacturing,"Burt Lumber Company","Inc."","n/a"
+"F&M Bank","Director","Robert Ray Hardy","Treasurer and Shareholder","Oconee Area Home Care Services,"Inc."","2019","RN,"Business Owner"","n/a"
+"F&M Bank","Director","Debbie r. Jackson","Pres. & CEO","W.E. Unlimited,"Inc."","2019","Retail Jeweler,"Tena's Jewelry & Gift Shop"","n/a"
+"F&M Bank","Director,"Pres. & CEO"","Edward B. Pope III","None","None","2019","Pres. & CEO F&M Bank","n/a"
+"F&M Bank","Director","W. Daniel Sisson Jr","Owner","Rayle Cattle Farm","2019","Regional VP,"AT&T"","n/a"
+"F&M Bank","Director","David S. Tatum","None","None","2019","Retired","n/a"
+```

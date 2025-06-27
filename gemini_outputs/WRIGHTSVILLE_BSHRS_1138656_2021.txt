@@ -1,0 +1,25 @@
+Here are your requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2021","T.L. Lovett,"Jr."","Common Stock","9065","8.44%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2021","Leon A. Lovett","Common Stock","8192","7.63%","n/a"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2021","Mary Jo Fulghum Edenfield","Common Stock","7200","6.70%","n/a"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2021","Mary Jean Roughton","Common Stock","7100","6.61%","n/a"
+"Wrightsville Bancshares,"Inc."","Brentwood,"TN"","2021","James W. Phillips","Common Stock","6842","6.37%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2021","Herbert Johnson Vickers","Common Stock","5722","5.33%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2021","Mary Frances Newsome","Common Stock","5548","5.17%","n/a"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2021","Richard Herschel Lovett Estate","Common Stock","7083","6.60%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Director/Chairman","Jeffrey D. Powell","Director/Chairman","Jeff Powell Trucking","2021","Jeff Powell Trucking","n/a"
+"Wrightsville Bancshares,"Inc."","Director/Chairman","Jeffrey D. Powell","Director/Chairman","Parker Fish Co.","2021","Jeff Powell Trucking","n/a"
+"Wrightsville Bancshares,"Inc."","Director President/CEO","Richard V. Everly","n/a","n/a","2021","Bank President","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Lynn L. Shields","n/a","n/a","2021","None","n/a"
+"Wrightsville Bancshares,"Inc."","Director","James F. Hobby","Owner","Smalley's Animal Hospital","2021","Veterinarian","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Stuart Stanley","n/a","n/a","2021","Farmer","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Joseph C. Sumner","n/a","n/a","2021","Pharmacist","n/a"
+"Wrightsville Bancshares,"Inc."","Director Vice President","Robert Harper","n/a","n/a","2021","Bank Vice President","n/a"
+```

@@ -1,0 +1,31 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Monroeville,"Alabama"","2015","L. Walter Crim","Class A Common Stock","18187","0.76%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2015","Richard K Maxwell","Class A Common Stock","5292","0.22%","1083895"
+"United Bancorporation of Alabama,"Inc."","Bay Minette,"Alabama"","2015","Michael R. Andreoli","Class A Common Stock","4362","0.18%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2015","Robert R. Jones,"III"","Class A Common Stock","63503","2.64%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2015","Dale M. Ash","n/a","18617","0.77%","1083895"
+"United Bancorporation of Alabama,"Inc."","Atmore,"Alabama"","2015","David D. Swift","Class A Common Stock","53158","2.21%","1083895"
+"United Bancorporation of Alabama,"Inc."","Jay,"Florida"","2015","Ricky Smith","Class A Common Stock","10078","0.42%","1083895"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Bancorporation of Alabama,"Inc."","Director","L. Walter Crim","Owner","Central Farm Supply","2015","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","L. Walter Crim","n/a","Central Farm Supply","2015","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K Maxwell","Owner","Maxwell Construction,"Inc."","2015","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K Maxwell","Owner","West Side Storage Company","2015","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Richard K Maxwell","Partner","Triterra Development Co.,"LLC"","2015","Owner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Michael R. Andreoli","Partner","Robertson,"Andreoli and Covington"","2015","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","President","Robert R. Jones,"III"","n/a","n/a","2015","None","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner,"Controller"","Pepsi-Cola Bottling Company of Atmore","2015","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner,"Controller"","South Alabama Vending Company","2015","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Dale M. Ash","Partner,"Controller"","Weeks Bank Mitigation Bank","2015","Partner","1083895"
+"United Bancorporation of Alabama,"Inc."","Chairman","David D. Swift","Vice-President","Swift Lumber,"Inc."","2015","Vice-President","1083895"
+"United Bancorporation of Alabama,"Inc."","Chairman","David D. Swift","President & CEO","Swift Supply,"Inc."","2015","Vice-President","1083895"
+"United Bancorporation of Alabama,"Inc."","Chairman","David D. Swift","Partner","Palustris Products,"Ltd."","2015","Vice-President","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","President and Chief Executive Officer","Smith Tractor Company,"Inc"","2015","President","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","LTC Care of Jay","2015","President","1083895"
+"United Bancorporation of Alabama,"Inc."","Director","Ricky Smith","Partner","Smith Family LLC.","2015","President","1083895"
+```

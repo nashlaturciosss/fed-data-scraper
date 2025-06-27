@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","CHARLES BELL","n/a","117180","1.55%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","JACK W. BELL","n/a","69747","0.92%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","WILLIAM MACKEY BENTLEY","n/a","53841",".71%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","J. RANDALL CLEMONS","n/a","117569","1.55%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","JAMES F. COMER","n/a","18301",".24%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","JERRY L. FRANKLIN","n/a","71246",".94%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","JOHN B. FREEMAN","n/a","31004",".41%","2004141"
+"Wilson Bank Holding Company","Murfreesboro,"TN"","2014","WILLIAM P. JORDAN","n/a","18338",".25%","2004141"
+"Wilson Bank Holding Company","Watertown,"TN"","2014","HAROLD R. PATTON","n/a","48651",".64%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","JAMES ANTHONY PATTON","n/a","23472",".31%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2014","HERBERT ELMER RICHERSON","n/a","55590",".73%","2004141"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wilson Bank Holding Company","Director","CHARLES BELL","Owner","Horn Springs Angus Farm","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","CHARLES BELL","Director","Wilson County Water Authority","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","JACK W. BELL","President/Owner","Jack Bell Builders,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","JACK W. BELL","Chief Manager","Horn Springs Development","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","WILLIAM MACKEY BENTLEY","President/Owner","Bentley's Air Conditioning,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","WILLIAM MACKEY BENTLEY","Director/Secretary","Highland Enterprises,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","WILLIAM MACKEY BENTLEY","Director/Secretary","Mid Tenn Enterprises,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","President,"Chief Executive Officer and Director"","J. RANDALL CLEMONS","Treasurer & Exec Board member","Wilson County Promotions Inc","2014","n/a","2004141"
+"Wilson Bank Holding Company","President,"Chief Executive Officer and Director"","J. RANDALL CLEMONS","President","Granville Museum Inc","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","JAMES F. COMER","Owner/ President","Comerica Enterprises,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","Director","JERRY L. FRANKLIN","Retired Businessman","n/a","2014","Retired Businessman-Ponderosa Restaurants Franchisee until 2008","2004141"
+"Wilson Bank Holding Company","Director","JOHN B. FREEMAN","Chairman","Rolling Acres Farm,"Inc."","2014","Retired Businessman","2004141"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Businessman","Jordan Dairy Farm","2014","Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","","Wright Family Real Estate","2014","Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director","HAROLD R. PATTON","","n/a","2014","Retired,"Manager (until 2001) Wilson County Farmers Co-op (Lebanon","TN)"","2004141"
+"Wilson Bank Holding Company","Director","JAMES ANTHONY PATTON","Director","Remar,"Inc."","2014","n/a","2004141"
+"Wilson Bank Holding Company","Executive Vice President and Director","HERBERT ELMER RICHERSON","Sec/Treasurer","Industrial Development Board of Wilson County","2014","n/a","2004141"
+```

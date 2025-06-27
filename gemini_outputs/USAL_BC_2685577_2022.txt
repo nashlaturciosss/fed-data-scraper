@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2022","WT ""Tony"" Gibson,"Jr."","Common","22440","11.89%","n/a"
+"USAL Bancorp,"Inc."","Palm Beach Gardens,"FL"","2022","Gregory A. Smoker","voting shares","13380","7.09%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AMERIFIRST BANK","Director Emeritus","Alfred F. Cook,"Jr."","Director Emeritus","ALBICAMCO","2023","Economic Development Consulting","n/a"
+"AMERIFIRST BANK","Director","John T. Main","Main Drug Store Owner","n/a","2023","Pharmacist","n/a"
+"AMERIFIRST BANK","Chairman of the Board","James L. Bassett","Chairman of the Board","Beck's Turf,"Inc."","2023","Sod Farm","n/a"
+"AMERIFIRST BANK","Director","Greg A. Smoker","Director","n/a","2023","Commercial R/E Investment","n/a"
+"AMERIFIRST BANK","Director","Jerald Labovitz","Director","Alabama Steel Supply","2023","Steel Company","n/a"
+"USAL BANCORP,"INC."","Director/President and CEO","Robert R. Ramsey","Director/President","n/a","2023","N/A","n/a"
+"USAL BANCORP,"INC."","Vice-Chairman of the Board","Addie M. Smith","Vice-Chairman of the Board","n/a","2023","Accountant","n/a"
+"USAL BANCORP,"INC."","Director","Laura D. Grill","Director","n/a","2023","President/CEO EAMC","n/a"
+"USAL BANCORP,"INC."","Director","Emory Kyle Kyser,"Jr."","Director","Kyser Property Management Co.,"Inc."","2023","Real Estate","n/a"
+"USAL BANCORP,"INC."","Director","Christopher G. Campbell","Director","Campbell Companies","2023","Investments","n/a"
+"USAL BANCORP,"INC."","EVP/Secretary","Marsha S. Moffett","EVP/CFO/Secretary","BrenMar Plantation","2023","N/A","n/a"
+"USAL BANCORP,"INC."","Principal Shareholder","WT ""Tony"" Gibson,"Jr."","Principal Shareholder","Gibson Home Center","2023","Business Owner","n/a"
+```

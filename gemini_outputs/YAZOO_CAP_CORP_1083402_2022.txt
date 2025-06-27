@@ -1,0 +1,11 @@
+Here are the requested tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Yazoo Capital Corporation","Yazoo City,"MS"","2022","Van Ray","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Yazoo Capital Corporation","President/CEO","Van Ray","n/a","n/a","2022","n/a","n/a"
+```

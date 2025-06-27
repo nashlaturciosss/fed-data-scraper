@@ -1,0 +1,22 @@
+Here are the two tables extracted from the document in CSV format:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2019","WT ""Tony"" Gibson,"Jr."","Common","22440","11.81%","n/a"
+"USAL Bancorp,"Inc."","Palm Beach Gardens,"FL"","2019","Gregory A. Smoker","n/a","10000","5.26%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"AMERIFIRST BANK","Chairman of the Board","Alfred F. Cook,"Jr."","Chairman of the Board","ALBICAMCO","2019","Economic Development Consulting","139133"
+"AMERIFIRST BANK","Director","John T. Main","Main Drug Store Owner","Main Drug Store","2019","Pharmacist","139133"
+"AMERIFIRST BANK","Director","James L. Bassett","n/a","Beck's Turf,"Inc."","2019","Sod Farm","139133"
+"n/a","Director","Greg A. Smoker","n/a","n/a","2019","Commercial R/E Investment","n/a"
+"AMERIFIRST BANK","Vice Chairman/Director","Joe M. Varner,"Jr."","Plant Farm Business Owner","Bonnie Plants","2019","Agribusiness","139133"
+"AMERIFIRST BANK","Director","Jerald Labovitz","Owner,"Alabama Steel Supply"","Alabama Steel Supply","2019","Steel Company","139133"
+"n/a","Director/President and CEO","Robert R. Ramsey","n/a","n/a","2019","n/a","n/a"
+"n/a","Director","Addie M. Smith","n/a","n/a","2019","Accountant","n/a"
+"n/a","Director","Emory Kyle Kyser,"Jr."","VP","4K Properties. LLC","2019","Real Estate","n/a"
+"n/a","n/a","WT ""Tony"" Gibson","n/a","2K Investments,"LLC"","2019","n/a","n/a"
+"n/a","EVP/Secretary","Marsha S. Moffett","EVP/CFO/Secretary","n/a","2019","n/a","n/a"
+```

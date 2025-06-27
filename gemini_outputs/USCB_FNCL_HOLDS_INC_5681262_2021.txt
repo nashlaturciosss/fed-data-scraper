@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USCB Financial Holdings Inc","Philadelphia,"PA"","2021","Patriot Financial Partners II,"LP and Patriot Financial Partners Parallel II","LP"","Common A Voting Stock","4485909","22.44%","n/a"
+"USCB Financial Holdings Inc","Philadelphia,"PA"","2021","Patriot Financial Partners II,"LP and Patriot Financial Partners Parallel II","LP"","Options on Common A Voting Stock","11500","0.06%","n/a"
+"USCB Financial Holdings Inc","New York,"NY"","2021","Priam Capital Fund II,"LP"","Common A Voting Stock","4485909","22.44%","n/a"
+"USCB Financial Holdings Inc","New York,"NY"","2021","Priam Capital Fund II,"LP"","Options on Common A Voting Stock","11500","0.06%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USCB Financial Holdings Inc","Chairman & Director","Aida Levitan","Director","U.S. Century Bank","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chairman & Director","Aida Levitan","n/a","The Levitan Group","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Kirk Wycoff","Managing Partner","Patriot Financial Partners,"LP"","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Kirk Wycoff","n/a","See list - Exhibit A","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Howard Feinglass","Managing Partner","Priam Capital","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Howard Feinglass","n/a","Priam Capital Fund I","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Abadin","Partner","Ramon A Abadin,"P.A."","2021","Partner","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Abadin","n/a","Abadin Cook Properties,"LLC"","2021","Partner","n/a"
+"USCB Financial Holdings Inc","Director","Bernardo Fernandez","Chief Executive Officer","Baptist Health Medical Group","2021","Chief Executive Officer","n/a"
+"USCB Financial Holdings Inc","President,"Chief Executive Officer and Director"","Luis de la Aguilera","n/a","n/a","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Financial Officer and Treasurer","Robert Anderson","n/a","n/a","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Credit Officer","Benigno Pazos","n/a","n/a","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Hips I,"LLC"","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Hips II,"LLC"","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Big Investment Group Inc","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director of Sales & Marketing","Martha Guerra-Kattou","n/a","Decroly Learning Center","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Director of Operations & Information Technology","Andres Collazo","n/a","n/a","2021","n/a","n/a"
+"USCB Financial Holdings Inc","Head of Global Banking Division","Oscar Gomez","n/a","n/a","2021","n/a","n/a"
+```

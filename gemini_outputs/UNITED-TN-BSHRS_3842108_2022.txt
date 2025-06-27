@@ -1,0 +1,10 @@
+"Okay","I will extract the data from the document into two CSV tables as requested."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"United Tennessee Bankshares,"Inc."","President","Chris Triplett","n/a","n/a","2022","n/a","n/a"
+```

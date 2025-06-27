@@ -1,0 +1,19 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Zachary Bancshares,"Inc."","Director","John Randall Brian","Director","Bank of Zachary","2022","Real Estate Construction","n/a"
+"Zachary Bancshares,"Inc."","Director","Winston E. Canning","Director","Bank of Zachary","2022","Retired Bank of Zachary-EVP","n/a"
+"Zachary Bancshares,"Inc."","Chairman of ZBI Board","Rodney S. Johnson","Chairman of Bank of Zachary Board","State Farm Insurance Agent","2022","State Farm Insurance Insurance Agent","n/a"
+"Zachary Bancshares,"Inc."","President/Emeritus","Preston L. Kennedy","President/Emeritus","Bank of Zachary","2022","Bank of Zachary","n/a"
+"Zachary Bancshares,"Inc."","Director","Tom Ed McHugh","Director","Bank of Zachary","2022","Retired-La Municipal Assoc Executive Officer","n/a"
+"Zachary Bancshares,"Inc."","Executive VP","Mark S. Marionneaux","President/CEO/Chief Lending Officer","Bank of Zachary","2022","Bank of Zachary President/CEO","n/a"
+"Zachary Bancshares,"Inc."","Director","Harry S. Morris,"Jr."","Director","Bank of Zachary","2022","Retired Bank of Zachary-CEO","n/a"
+"Zachary Bancshares,"Inc."","Director","David M. Thornton","President","Bank of Zachary","2022","Water Treatment Company President","n/a"
+"Zachary Bancshares,"Inc."","Director","David M. Thornton","President","Thornton,"Musso & Bellamin"","2022","Water Treatment Company President","n/a"
+"Zachary Bancshares,"Inc."","Director","Melinda M. White","Director","Bank of Zachary","2022","Retired-Bank of Zachary-VP","n/a"
+"Zachary Bancshares,"Inc."","Treasurer","Russell J. Blanchard","CFO/Cashier","Bank of Zachary","2022","Bank of Zachary CFO/Cashier","n/a"
+```

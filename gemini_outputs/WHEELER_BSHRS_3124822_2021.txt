@@ -1,0 +1,38 @@
+Here are the two CSV tables as requested:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WHEELER BANCSHARES,"INC."","Chester,"GA"","2021","Hugh G. Lentile,"Jr."","n/a","2503","55.62%","n/a"
+"WHEELER BANCSHARES,"INC."","Rentz,"GA"","2021","M.L. & Ruby T. Knight","n/a","772","17.16%","n/a"
+"WHEELER BANCSHARES,"INC."","Dublin,"GA"","2021","Tim P. Lentile","n/a","235","5.22%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","President","South Construction Co.,"Inc."","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Secretary,"Consultant"","United Design,"Inc."","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","President","LLT,"Inc."","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Shareholder","NC Properties,"Inc."","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Partner","Hazel Point Plantation","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Limited Partner","Lentile Family Partnership,"L.P."","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Director","Evans Cabinet Corp.","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Partner","ASB,"LLP"","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Director","Farmers Furniture","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Partner","The Pasture,"LLC"","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Chairman of the Board","Hugh G. Lentile,"Jr."","Partner","The Blue Lake,"LLC"","2021","Construction","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Vice Chairman","M.L. Knight","General Partner","Knight Family,"LLP"","2021","Salesman","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Vice Chairman","M.L. Knight","Mayor","City of Rentz","2021","Salesman","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Vice Chairman","M.L. Knight","Owner","ONCE Construction Co.","2021","Salesman","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Secretary","Tina Knight Kukanza","Owner","Tina Knight Kukanza,"JD CPA"","2021","Lawyer & CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","Owner","John C Strickland,"CPA"","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","Member","Four Score,"LLP"","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","Managing Partner","GLY,"LLP"","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","Managing Member","House Three,"LLC"","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","CEO","Southeastern Apartment Management Corp.","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director & Treasurer","John C. Strickland","Treasurer","Southeastern Medical Management Corp.","2021","CPA","n/a"
+"WHEELER BANCSHARES,"INC."","Director","Linda Lentile","Owner","LBL Farms","2021","Farm Manager","n/a"
+"WHEELER BANCSHARES,"INC."","Director","Linda Lentile","Partner","LLT,"Inc."","2021","Farm Manager","n/a"
+"WHEELER BANCSHARES,"INC."","Director","Linda Lentile","Limited Partner","Lentile Family Partnership,"L.P."","2021","Farm Manager","n/a"
+"WHEELER BANCSHARES,"INC."","Director","Linda Lentile","Partner","The Pasture,"LLC"","2021","Farm Manager","n/a"
+"WHEELER BANCSHARES,"INC."","Director","Linda Lentile","Partner","The Blue Lake,"LLC"","2021","Farm Manager","n/a"
+```

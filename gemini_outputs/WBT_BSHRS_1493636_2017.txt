@@ -1,0 +1,36 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2017","Norman Gibson","Common Stock","255,"548"","5.75%","n/a"
+"WB&T Bankshares,"Inc."","Lake Park,"GA"","2017","Larry Dean","Common Stock","359,"246"","8.08%","n/a"
+"WB&T Bankshares,"Inc."","Hahira,"GA"","2017","Ashley Paulk","Common Stock","375,"373"","8.44%","n/a"
+"WB&T Bankshares,"Inc."","Waycross,"GA"","2017","Moi Monroe","Common Stock","332,"248"","7.47%","n/a"
+"WB&T Bankshares,"Inc."","Savannah,"GA"","2017","William J. Monroe,"Jr."","Common Stock","292,"152"","6.57%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WB&T Bankshares,"Inc."","Chairman","Ansel P. Clark","Director","Waycross B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","President","Ansel P. Clark","Director","Waycross B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","CEO","Ansel P. Clark","Director","Waycross B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Ansel P. Clark","n/a","Guardian Bank","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","CEO","Ansel P. Clark","Director","South Coast B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","D. Lewayne Dalton","Director / Chairman","Waycross B&T","2017","Accounting","n/a"
+"WB&T Bankshares,"Inc."","Vice-Chairman","D. Lewayne Dalton","Partner","Dalton & Bennett,"CPA"","2017","Accounting","n/a"
+"WB&T Bankshares,"Inc."","Director","Moi M. Monroe,"III"","Director","Waycross B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","Secretary","Moi M. Monroe,"III"","Employee","Waycross B&T","2017","Banking","n/a"
+"WB&T Bankshares,"Inc."","Director","Larry Dean","Director / Secretary","Guardian Bank","2017","President Standard Contractors,"Inc."","Standard Contractors,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","A. Harris Hines,"Jr."","Director","Waycross B&T","2017","Retired","n/a"
+"WB&T Bankshares,"Inc."","Director","Jack C. Kilgore","Director/Chairman","South Coast B&T","2017","Banking","Primo Water,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","William J. Monroe,"Jr."","Director","Waycross B&T","2017","Retired","n/a"
+"WB&T Bankshares,"Inc."","Director","Ashley Paulk","Director / Chairman","Guardian Bank","2017","Owner Ashley Paulk,"Inc."","Lowndes County Sheriff","n/a"
+"WB&T Bankshares,"Inc."","Director","E. Rees Gibson","Director","Waycross B&T","2017","Retail Furniture Stores","Gibson-McDonald Furniture Companies","n/a"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","Director / Secretary","Waycross B&T","2017","President Gillis Brothers,"Inc."","Gillis Brothers,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","Director / Secretary","Waycross B&T","2017","President Gillis Brothers,"Inc."","Dounoco Land Co.,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Director","J. Conway Gillis","Director / Secretary","Waycross B&T","2017","President Gillis Brothers,"Inc."","Gillis Investments L.P./General Partner","n/a"
+"WB&T Bankshares,"Inc."","Director","David W. Littlefield,"Jr."","Director","Waycross B&T","2017","President Littlefield Construction Company","Littlefield Construction Company","n/a"
+"WB&T Bankshares,"Inc."","Director","James E. Stewart,"III"","Director","Waycross B&T","2017","Chief Executive Office Stewart Distribution","Stewart Distribution","n/a"
+"WB&T Bankshares,"Inc."","Director","William P. Langdale,"III"","Director","Guardian Bank","2017","Attorney","Langdale & Vallotton,"LLP"","n/a"
+"WB&T Bankshares,"Inc."","Executive Vice President","Steve Wood","President","WB&T Mortgage,"LLC"","2017","Banking","Jacob's Ladder,"Inc."","n/a"
+"WB&T Bankshares,"Inc."","Chief Financial Officer","Eli D. Mullis","n/a","n/a","2017","Banking","n/a","n/a"
+```

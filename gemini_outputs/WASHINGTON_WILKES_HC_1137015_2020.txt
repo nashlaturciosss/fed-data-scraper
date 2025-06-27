@@ -1,0 +1,23 @@
+Here are the two tables in CSV format following your extraction instructions:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F&M Bank","Washington,"GA"","2020","Estate of Gerald O. Norman","Shares","74196","15.53%","n/a"
+"F&M Bank","Washington,"GA"","2020","Carolyn Trantham Northweather","Shares","29704","6.22%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank","Director","Bobby Jones","Pres. & CEO","Dixie Wood Products,"INC."","2020","Timber Management","n/a"
+"F&M Bank","Director","L. Dan Coxwell","n/a","n/a","2020","Retired","n/a"
+"F&M Bank","Executive Vice President","Debbie M. Barnett","n/a","n/a","2020","Executive Vice President,"F&M bank"","n/a"
+"F&M Bank","Director","Charles J. Fievet","n/a","n/a","2020","Retired","n/a"
+"F&M Bank","Director","Barry W. Goolsby","Pres. & CEO","Burt Lumber Company,"Inc."","2020","Lumber Manufacturing,"Burt Lumber Company","Inc."","n/a"
+"F&M Bank","Director","Barry W. Goolsby","Treasurer and Administrator","CSRA Private Duty,"Inc."","2020","Lumber Manufacturing,"Burt Lumber Company","Inc."","n/a"
+"F&M Bank","Director","Robert Ray Hardy","Treasurer and Shareholder","Oconee Area Home Care Services,"Inc."","2020","RN,"Business Owner"","n/a"
+"F&M Bank","Director","Debbie r. Jackson","Pres. & CEO","W.E. Unlimited,"Inc."","2020","Retail Jeweler,"Tena's Jewelry & Gift Shop"","n/a"
+"F&M Bank","Director","Debbie r. Jackson","Pres. & CEO","Tena's Jewelry & Gift Shop,"Inc."","2020","Retail Jeweler,"Tena's Jewelry & Gift Shop"","n/a"
+"F&M Bank","Director,"Pres. & CEO"","Edward B. Pope III","n/a","n/a","2020","Pres. & CEO,"F&M Bank"","n/a"
+"F&M Bank","Director","W. Daniel Sisson Jr","Owner","Rayle Cattle Farm","2020","Regional VP,"AT&T"","n/a"
+"F&M Bank","Director","David S. Tatum","n/a","n/a","2020","Retired","n/a"
+```

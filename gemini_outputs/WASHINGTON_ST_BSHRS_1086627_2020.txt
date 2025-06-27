@@ -1,0 +1,24 @@
+Here are the two tables extracted in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2020","Sue Soileau Durand","common stock","906.5","50%","311939"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2020","Sue Soileau Durand","common stock","453.25","25%","311939"
+"Washington State Bancshares,"Inc."","Lafayette,"LA"","2020","David Creig Brignac Jr. Trust","common stock","453.25","25%","311939"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington State Bancshares,"Inc."","Chairman Emertia","Sue Soileau Durand","Chairman Emerita","Washington State Bank","2020","Retired Banker","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Trustee","David Creig Brignac Jr. Trust","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","President","Alyce Corporation","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","President","Joel Enterprises,"Inc."","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Durio,"Mcgoffin","Stagg & Ackermann","A Professional Corporation"","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Building 16,"LLC"","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Manager","Villa Vista Verde,","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Durio & Broussard LLC","2020","Attorney","311939"
+"Washington State Bancshares,"Inc."","President","Paul Durand","President","HUD Investments","2020","Banker","311939"
+"Washington State Bancshares,"Inc."","Chairman","Paul Durand","Sole Owner","P-DU,"LLC"","2020","Banker","311939"
+"Washington State Bancshares,"Inc."","Director","Anthony Kip Bertrand","Co-Owner","Holly's Hobbies,"Inc."","2020","Banker","311939"
+"Washington State Bancshares,"Inc."","Treasurer/CFO","Susie Rowe","n/a","n/a","2020","Banker","311939"
+```

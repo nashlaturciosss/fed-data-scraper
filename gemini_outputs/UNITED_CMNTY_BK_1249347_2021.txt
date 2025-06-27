@@ -1,0 +1,34 @@
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"UNITED COMMUNITY BANKS,"INC."","New York,"NY"","2021","BlackRock Inc.","n/a","13117339","14.7%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Malvern,"PA"","2021","The Vanguard Group,"Inc."","n/a","10719549","12.0%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Boston,"MA"","2021","State Street Corp","n/a","4646495","5.2%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","New York,"NY"","2021","Schroders PLC","n/a","4492176","5.18%","n/a"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"UNITED COMMUNITY BANKS,"INC."","Director","Jennifer M. Bazante","n/a","n/a","2021","Chief Banking Officer","n/a"
+"UNITED COMMUNITY BANKS,"INC."","President,"Chief Banking Officer"","Jennifer M. Bazante","n/a","TFG Holdings,"LLC"","2021","Chief Banking Officer","n/a"
+"UNITED COMMUNITY BANKS,"INC."","VP,"Director"","Jennifer M. Bazante","n/a","Better Government Committee of United Community Banks,"Inc."","2021","Chief Banking Officer","n/a"
+"UNITED COMMUNITY BANKS,"INC."","VP,"Director"","Jennifer M. Bazante","n/a","Broadstreet Title,"LLC"","2021","Chief Banking Officer","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Robert H. Blalock","n/a","n/a","2021","President & CEO,"Clemson University"","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Richard W. Bradshaw","Freddie Mac Independent Director","Freddie Mac","2021","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Richard W. Bradshaw","Finra - Public Governor","Finra","2021","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Richard W. Bradshaw","Trustee","University of Rochester","2021","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President & Chief Risk Officer","Kenneth L. Daniels","n/a","n/a","2021","n/a","1017939"
+"UNITED COMMUNITY BANKS,"INC."","EVP & Chief Risk Officer","Lance F. Drummond","AvidXchange - Independent Director","AvidXchange","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","EVP & Chief Risk Officer","Lance F. Drummond","n/a","National Association of Corporate Directors","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President & Chief Financial Officer","Robert A. Edwards","n/a","n/a","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Jefferson L. Harralson","n/a","n/a","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","CEO,"Chairman","Director"","H. Lynn Harton","n/a","n/a","2021","n/a","1017939"
+"UNITED COMMUNITY BANKS,"INC."","Director","Melinda Davis Lux","n/a","n/a","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Jennifer K. Mann","n/a","n/a","2021","EVP,"Chief HR Officer","SAS Institute"","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Lead Director","Thomas A. Richlovsky","n/a","n/a","2021","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","David C. Shaver","n/a","n/a","2021","CEO,"Cost Segregation Advisors","LLC"","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President,"Chief Information Officer"","Mark A. Terry","n/a","n/a","2021","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Tim R. Wallis","n/a","n/a","2021","Chief Executive Officer,"President","CEO & Owner","Wallis Printing"","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","Tim R. Wallis","n/a","Georgia Chamber of Commerce","2021","Chief Executive Officer,"President","CEO & Owner","Wallis Printing"","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director","David H. Wilkins","n/a","n/a","2021","Attorney & Partner,"Nelson","Mullins","Riley & Scarborough LLC"","n/a"
+```

@@ -1,0 +1,26 @@
+Here are the two CSV tables as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2022","T.L. Lovett,"Jr."","Common Stock","14205","13.23%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2022","Leon A. Lovett","Common Stock","8192","7.63%","n/a"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2022","Mary Jo Fulghum Edenfield","Common Stock","7200","6.70%","n/a"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2022","Mary Jeanne Roughton","Common Stock","7100","6.61%","n/a"
+"Wrightsville Bancshares,"Inc."","Brentwood,"TN"","2022","James W. Phillips","Common Stock","6842","6.37%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2022","Herbert Johnson Vickers","Common Stock","5722","5.33%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2022","Mary Frances Newsome","Common Stock","5548","5.17%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Director/Chairman","Jeffrey D. Powell","Owner","Jeff Powell Trucking","2022","Jeff Powell Trucking Parker Fish Co.","n/a"
+"Wrightsville Bancshares,"Inc."","Director/Chairman","Jeffrey D. Powell","Owner","Parker Fish Co.","2022","Jeff Powell Trucking Parker Fish Co.","n/a"
+"Wrightsville Bancshares,"Inc."","Director President/CEO","Richard V. Everly","None","None","2022","Bank President","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Lynn L. Shields","None","None","2022","None","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Robert M. Harper","Owner","JRJ Harper Farms,"LLC"","2022","Bank Vice President","n/a"
+"Wrightsville Bancshares,"Inc."","Vice President/Director","Robert M. Harper","Owner","JRJ Harper Farms,"LLC"","2022","Bank Vice President","n/a"
+"Wrightsville Bancshares,"Inc."","Director","James F. Hobby","Owner","Smalley's Animal Hospital","2022","Veterinarian","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Stuart Stanley","None","None","2022","Farmer","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Joseph C. Sumner","None","None","2022","Pharmacist","n/a"
+"Wrightsville Bancshares,"Inc."","None","T.L. Lovett,"Jr."","None","None","2022","None","n/a"
+```

@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Vinings Bancshares,"Inc."","Mableton,"GA"","2019","Gissendanner,"Kay"","Common Stock","129800","6.75%","n/a"
+"Vinings Bancshares,"Inc."","Powder Springs,"GA"","2019","Makant,"Kenneth L"","Common Stock","82500","4.29%","n/a"
+"Vinings Bancshares,"Inc."","Powder Springs,"GA"","2019","Makant,"Kenneth L"","Options","25000","1.30%","n/a"
+"Vinings Bancshares,"Inc."","Hickory,"NC"","2019","Makant,"Russell & Mindy"","Common Stock","2500","0.13%","n/a"
+"Vinings Bancshares,"Inc."","Marietta,"GA"","2019","Puett,"Karen"","Common Stock","2500","0.13%","n/a"
+"Vinings Bancshares,"Inc."","Kennesaw,"GA"","2019","Barton,"Todd & Kelly"","Common Stock","6000","0.31%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vinings Bancshares,"Inc."","Director","Michael Brown","n/a","n/a","2019","Retired","3613559"
+"Vinings Bancshares,"Inc."","President/CCO Director","Clark Hungerford","n/a","n/a","2019","Banker","3613559"
+"Vinings Bancshares,"Inc."","SEVP/CFO/COO Director","Kenneth L. Makant","n/a","n/a","2019","Banker","3613559"
+"Vinings Bancshares,"Inc."","Chairman/CEO Director","J. Dan Oliver","Member","Wheel Estate Partners,"LLC"","2019","Banker","3613559"
+"Vinings Bancshares,"Inc."","Director","Jeffrey Plowman","n/a","n/a","2019","Retired","3613559"
+"Vinings Bancshares,"Inc."","Director","Danny Schulman","Secretary/Treasurer","Cutler & Schulman,"PC"","2019","Attorney","3613559"
+"Vinings Bancshares,"Inc."","Director","Danny Schulman","Manager","Sterling Properties","2019","Attorney","3613559"
+"Vinings Bancshares,"Inc."","Director","Danny Schulman","Manager","Wheel Estate Partners,"LLC"","2019","Attorney","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"President"","Palladian,"Inc."","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"Manager"","Lassiter Falls Properties,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"Manager"","Liberty Holdings,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"Manager"","Palladian Properties,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"Manager"","LF 300-400,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner,"Manager"","LF 600,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner","Craig Wrigley,"Real Estate Broker"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner","Palladian Management Company","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Owner","Palladian Investments,"LLC"","2019","Real Estate Developer","3613559"
+"Vinings Bancshares,"Inc."","Director","Craig C. Wrigley","Sole Proprietor","Craig C. Wrigley,"Architect/Builder"","2019","Real Estate Developer","3613559"
+```

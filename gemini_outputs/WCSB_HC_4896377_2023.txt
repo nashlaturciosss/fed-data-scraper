@@ -1,0 +1,9 @@
+"Here are the two CSV tables","extracted from the document:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCSB HOLDING COMPANY,"INC."","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCSB HOLDING COMPANY,"INC."","CFO","SHANNON VICKERS","n/a","n/a","2023","n/a","n/a"
+```

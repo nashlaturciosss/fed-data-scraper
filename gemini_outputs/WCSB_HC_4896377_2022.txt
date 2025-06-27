@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","C.R.O.W.E. Holdings,"Inc."","common stock","17400","15.49%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","C.R.O.W.E. Holdings,"Inc."","Class A Voting Shares","17400","15.49%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Danny Gray","common stock","16531","14.73%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Danny Gray","Class A Voting Shares","16531","14.73%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","John McKenzie","common stock","11600","10.33%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","John McKenzie","Class A Voting Shares","11600","10.33%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Lee Williams","common stock","8264","7.36%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Lee Williams","Class A Voting Shares","8264","7.36%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Jim Worsham","common stock","7462","6.64%","n/a"
+"WCSB HOLDING COMPANY,"INC."","Rochelle,"GA"","2022","Jim Worsham","Class A Voting Shares","7462","6.64%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCSB HOLDING COMPANY,"INC."","Director","Danny Gray","President","Gray Farms,"Inc."","2022","Farmer","n/a"
+"WCSB HOLDING COMPANY,"INC."","Director","John McKenzie","Physician","Heart of Georgia Eye Clinic","2022","Physician","n/a"
+"WCSB HOLDING COMPANY,"INC."","Director","Jim Worsham","Owner","Big Jim's Septic Tank Service","2022","Small Business Owner","n/a"
+"WCSB HOLDING COMPANY,"INC."","Director","Lee Williams","President","Williams Farms,"Inc."","2022","Farmer","n/a"
+"WCSB HOLDING COMPANY,"INC."","Director","Lee Williams","Owner","Williams Land Company","2022","Farmer","n/a"
+"WCSB HOLDING COMPANY,"INC."","Director","Roger Williams","Co-Owner","Williams Land Company","2022","Consultant","n/a"
+"WCSB HOLDING COMPANY,"INC."","President and CEO","Scott Tankersley","n/a","n/a","2022","n/a","n/a"
+"WCSB HOLDING COMPANY,"INC."","CFO","Shannon Vickers","n/a","n/a","2022","n/a","n/a"
+```

@@ -1,0 +1,24 @@
+Here are the two CSV tables extracted from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Larry Collins","n/a","23","14.56%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Jaska Ann Russell","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Tammy Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Jeffrey David Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Jonathan Ray Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2017","Larry Joe Collins,"Jr."","n/a","22","13.92%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman of the Board,"Director and Chairman of the Executive Committee"","Larry Collins","n/a","Collins Construction Company","2017","Owner Collins Construction Company","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Matt Ricker","n/a","n/a","2017","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","President & CEO Volunteer State Bank,"President & CEO Middle Tennessee Insurance Agency","Director of Volunteer State Bank","Middle Tennessee Insurance Agency","and Guaranty Trust Mortgage Company"","Matt Ricker","n/a","n/a","2017","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Vice Chairman and Director","Jeffrey David Collins","n/a","C & C Construction Company","2017","Partner C & C Construction Company","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chief Financial Officer","Dave Wolfe","n/a","n/a","2017","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jaska Collins Russell","n/a","n/a","2017","Business Owner,"Retail","Food Industry","Employment Services","and industrial warehouse develpoment"","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jonathan Ray Collins","n/a","n/a","2017","Co-Owner/Leaser of Industrial Warehouse development","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Larry Joe Collins","n/a","n/a","2017","Construction Company Owner","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Tammy Collins","n/a","n/a","2017","n/a","n/a"
+```

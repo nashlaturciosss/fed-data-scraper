@@ -1,0 +1,39 @@
+Here are your requested CSV formatted tables.
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","CHARLES BELL","common stock","163146","1.57%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","JACK W. BELL","common stock","96258","0.92%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","J. RANDALL CLEMONS","common stock","162527","1.56%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","JAMES F. COMER","common stock","24920","0.24%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","JERRY L. FRANKLIN","common stock","93597","0.89%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","JOHN B. FREEMAN","common stock","38329","0.36%","n/a"
+"Wilson Bank Holding Company","Gallatin,"TN"","2017","Robert H. Goodall","common stock","9856","0.10%","n/a"
+"Wilson Bank Holding Company","Murfreesboro,"TN"","2017","WILLIAM P. JORDAN","common stock","26215","0.25%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","JAMES ANTHONY PATTON","common stock","29776","0.29%","n/a"
+"Wilson Bank Holding Company","Lebanon,"TN"","2017","HERBERT ELMER RICHERSON","common stock","78642","0.74%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wilson Bank Holding Company","Director","CHARLES BELL","Director","Wilson County Water Authority","2017","Owner Horn Springs Angus Farm","n/a"
+"Wilson Bank Holding Company","Director","JACK W. BELL","President/Owner","Jack Bell Builders,"Inc."","2017","President/Owner- Jack Bell Builders,"Inc. (Lebanon","TN)"","n/a"
+"Wilson Bank Holding Company","Director","JACK W. BELL","Chief Manager","Horn Springs Development","2017","President/Owner- Jack Bell Builders,"Inc. (Lebanon","TN)"","n/a"
+"Wilson Bank Holding Company","Director and Executive Officer","J. RANDALL CLEMONS","President","Wilson County Promotions Inc","2017","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","n/a"
+"Wilson Bank Holding Company","Director and Executive Officer","J. RANDALL CLEMONS","President","Granville Museum Inc","2017","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","n/a"
+"Wilson Bank Holding Company","Director","JAMES F. COMER","Owner/ President","Comerica Enterprises,"Inc."","2017","Owner/ President,"Comerica Enterprises","Inc. (Lebanon","TN)"","n/a"
+"Wilson Bank Holding Company","Director","JAMES F. COMER","Director","Classic Coaches Inc.","2017","Owner/ President,"Comerica Enterprises","Inc. (Lebanon","TN)"","n/a"
+"Wilson Bank Holding Company","Director","JERRY L. FRANKLIN","n/a","n/a","2017","Retired Businessman-Ponderosa Restaurants Franchisee until 2008","n/a"
+"Wilson Bank Holding Company","Director","JOHN B. FREEMAN","President","Rolling Acres Farm,"Inc."","2017","Retired Businessman,"Manager (until 2000) Auto Parts and Service","Inc. (Lebanon","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Berry Hill Partners","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Maple Street Properties","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Owner","Tennessee Investment Partners","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Parthenon Investment Partners","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Tennessee First Investment","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Gallatin Golf","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","Robert H. Goodall","Partner","Dore Mountain","2017","Homebuilder,"President (until 2016) Goodall Homes (Gallatin","TN)"","n/a"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Partner","Jordan Dairy Farm","2017","Businessman- Real Estate Investor and farming operation partner","n/a"
+"Wilson Bank Holding Company","Director","WILLIAM P. JORDAN","Partner","Wright Family Real Estate","2017","Businessman- Real Estate Investor and farming operation partner","n/a"
+"Wilson Bank Holding Company","Director","JAMES ANTHONY PATTON","Director","Remar,"Inc."","2017","Independent Sales Rep-Mid Tenn Technologies. (Lebanon,"TN)"","n/a"
+"Wilson Bank Holding Company","Director","HERBERT ELMER RICHERSON","Treasurer","Industrial Development Board of Wilson County","2017","President - Wilson Bank & Trust (Lebanon,"TN)"","n/a"
+```

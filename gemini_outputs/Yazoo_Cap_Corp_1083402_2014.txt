@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Yazoo Capital Corporation","Yazoo City,"MS"","2014","Philip C. Williams","n/a","n/a","See Confidential Volume","1083402"
+"Yazoo Capital Corporation","Yazoo City,"MS"","2014","John Sharp Howie","n/a","n/a","See Confidential Volume","1083402"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","Allen C. Bridgforth,"I"","n/a","Bridgforth Management LLC","2014","Attorney","1083402"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","Michael J. Curran","n/a","n/a","2014","Planter","1083402"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","John Sharp Howie","President","Chesterfield Land Co. LLC","2014","Planter","1083402"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","Hugh M. Love,"Jr."","Secretary/Treasurer and Director","Rokeby Plantation Inc.","2014","Attorney","1083402"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","Thomas W. Mullen","n/a","n/a","2014","Retired","1083402"
+"Yazoo Capital Corporation","Director,"Director-Bank of Yazoo City"","S. G. Norquist,"Jr."","n/a","n/a","2014","Retired","1083402"
+"Yazoo Capital Corporation","President,"CEO & Director","President. CEO & Director"","Van K. Ray","Secretary and Treasurer","Bophumpa Creek Land Co.","2014","n/a","1083402"
+"Yazoo Capital Corporation","Shareholder,"President-Metro Region","Bank of Yazoo City"","Joel C. Ross","Owner","Bass Plus","2014","n/a","1083402"
+"Yazoo Capital Corporation","Chairman & Director,"Chairman","CFO","Trust Officer","Assistant BSA Officer & Director"","Managing Member","Sharp Place,"LLC."","2014","n/a","1083402"
+"Yazoo Capital Corporation","Chairman & Director,"Chairman","CFO","Trust Officer","Assistant BSA Officer & Director"","Managing Member","Rucher Place,"LLC"","2014","n/a","1083402"
+"Yazoo Capital Corporation","Chairman & Director,"Chairman","CFO","Trust Officer","Assistant BSA Officer & Director"","Managing Member","Fairfield Plantation,"LLC"","2014","n/a","1083402"
+"Yazoo Capital Corporation","Chairman & Director,"Chairman","CFO","Trust Officer","Assistant BSA Officer & Director"","Board Member","Yazoo Country Club","2014","n/a","1083402"
+"Yazoo Capital Corporation","Secretary,"Secretary","EVP","Compliance and BSA Officer Bank of Yazoo City"","Livvi Ziegler","n/a","n/a","2014","n/a","1083402"
+```

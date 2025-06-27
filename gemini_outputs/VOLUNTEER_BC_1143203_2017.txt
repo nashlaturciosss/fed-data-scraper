@@ -1,0 +1,20 @@
+"Okay","I understand. Here are the two CSV tables extracted from the provided FR Y-6 document","following all instructions:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2017","William E Phillips,"voting trustee for the benefit of the Company",""
+pursuant to a stock purchase agreement between the Company
+"and Mr. Ralph Hurley"","common stock","42750","8.61%","n/a"
+"Volunteer Bancorp,"Inc."","Sneedville,"TN"","2017","M. Carlin Greene","common stock","24807","5.00%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Volunteer Bancorp,"Inc."","Director,"Former President"","Reed D. Matney","Director,"Former President"","n/a","2017","Retired Banker","1143203"
+"Volunteer Bancorp,"Inc."","Director,"Chairman of Board"","William E. Phillips","Attorney","Phillips & Hale","2017","Attorney","1143203"
+"Volunteer Bancorp,"Inc."","Director","M. Carlin Greene","n/a","n/a","2017","Farmer/Real Estate","1143203"
+"Volunteer Bancorp,"Inc."","Director","Gary E. Varnell","Manager/Operator,"President"","Rogersville Office Supply","2017","Mgr/Operator Retail Office Products","1143203"
+"Volunteer Bancorp,"Inc."","Director,"Vice President"","Scott F. Collins","n/a","n/a","2017","Banking","1143203"
+"Volunteer Bancorp,"Inc."","President/CEO","Richard K. Yowell","n/a","n/a","2017","Banking","1143203"
+"Volunteer Bancorp,"Inc."","Director","William E. Phillips II","Attorney","Phillips & Hale","2017","Attorney","1143203"
+```

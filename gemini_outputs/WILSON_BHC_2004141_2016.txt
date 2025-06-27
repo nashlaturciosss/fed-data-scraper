@@ -1,0 +1,35 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","CHARLES BELL","common stock","160644","1.56%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","JACK W. BELL","common stock","94781","0.92%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","J. RANDALL CLEMONS","common stock","159629","1.55%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","JAMES F. COMER","common stock","24609",".24%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","JERRY L. FRANKLIN","common stock","93597",".91%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","JOHN B. FREEMAN","common stock","38498",".37%","2004141"
+"Wilson Bank Holding Company","Murfreesboro,"TN"","2016","WILLIAM P. JORDAN","common stock","23000",".22%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","JAMES ANTHONY PATTON","common stock","30219",".29%","2004141"
+"Wilson Bank Holding Company","Lebanon,"TN"","2016","HERBERT ELMER RICHERSON","common stock","77119",".75%","2004141"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","CHARLES BELL","Owner","Horn Springs Angus Farm","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","CHARLES BELL","Director","Wilson County Water Authority","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JACK W. BELL","President/Owner","Jack Bell Builders,"Inc."","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JACK W. BELL","Chief Manager","Horn Springs Development","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JACK W. BELL","Vice President","E B Builders Inc","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JACK W. BELL","Vice President","3 Star Builders","2016","n/a","2004141"
+"Wilson Bank Holding Company","President,"Chief Executive Officer and Director of the Company"","J. RANDALL CLEMONS","Treasurer","Wilson County Promotions Inc","2016","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","2004141"
+"Wilson Bank Holding Company","President,"Chief Executive Officer and Director of the Company"","J. RANDALL CLEMONS","President","Granville Museum Inc","2016","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","2004141"
+"Wilson Bank Holding Company","Chairman and Director of the Company","JAMES F. COMER","Director and President","Classic Coaches Inc.","2016","Owner/ President,"Comerica Enterprises","Inc."","2004141"
+"Wilson Bank Holding Company","Chairman and Director of the Company","JAMES F. COMER","President and Director and Owner","Comerica Enterprises","2016","Owner/ President,"Comerica Enterprises","Inc."","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JERRY L. FRANKLIN","n/a","n/a","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JOHN B. FREEMAN","President","Rolling Acres Farm,"Inc."","2016","n/a","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","WILLIAM P. JORDAN","Partner","Jordan Dairy Farm","2016","Businessman- Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","WILLIAM P. JORDAN","Partner","Wright Family Real Estate","2016","Businessman- Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","WILLIAM P. JORDAN","Director","Rutherford County Commission","2016","Businessman- Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","WILLIAM P. JORDAN","Director","Middle Tennessee Electric Membership Corp","2016","Businessman- Real Estate Investor and farming operation partner","2004141"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust","JAMES ANTHONY PATTON","Director","Remar,"Inc."","2016","Independent Sales Rep-Mid Tenn Technologies.","2004141"
+"Wilson Bank Holding Company","Executive Vice President and Director of the Company","HERBERT ELMER RICHERSON","Treasurer","Industrial Development Board of Wilson County","2016","President – Wilson Bank & Trust","2004141"
+```

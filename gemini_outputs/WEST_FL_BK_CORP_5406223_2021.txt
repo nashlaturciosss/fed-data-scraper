@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"West Florida Bank Corporation","Clearwater,"FL"","2021","O. Ken Marks","Common Stock","341298","n/a","n/a"
+"West Florida Bank Corporation","Clearwater,"FL"","2021","O. Ken Marks","Options","20000","n/a","n/a"
+"West Florida Bank Corporation","Clearwater,"FL"","2021","Gary Lee Holcomb and Margaret Kuo Ranzman","Common Stock","304000","5.5%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"West Florida Bank Corporation","EVP/CFO/Corp. Sec.,"SVP/CFO/Corp. Sec."","Kenneth Bailey","n/a","n/a","2021","n/a","n/a"
+"West Florida Bank Corporation","Director","David Brandon","President","Brandon Construction Company,"Inc."","2021","Construction","n/a"
+"West Florida Bank Corporation","Director","Ronald Hockman","Owner","RS Hockman,"Inc."","2021","Real Estate Investor","n/a"
+"West Florida Bank Corporation","Director,"CEO"","Mark Klein","CEO","Klein & Heuchan,"Inc."","2021","Commercial Real Estate","n/a"
+"West Florida Bank Corporation","Director,"CEO"","Ken Marks","CEO","Capital Automotive Group,"LLC"","2021","Automotive Dealerships","n/a"
+"West Florida Bank Corporation","CEO/Vice Chairman & Director","Robert McGivney","n/a","n/a","2021","n/a","n/a"
+"West Florida Bank Corporation","President/Asst. Corp. Sec.","James Nelson","n/a","n/a","2021","n/a","n/a"
+"West Florida Bank Corporation","Director","Joseph Oliveri","President","Oliveri Architects","2021","Architect","n/a"
+"West Florida Bank Corporation","Director","Brent Sembler","Vice Chairman","The Sembler Group","2021","Real Estate","n/a"
+"West Florida Bank Corporation","EVP/Asst. Corp. Sec.","Robert Shaw","n/a","n/a","2021","n/a","n/a"
+"West Florida Bank Corporation","Director","Christopher Sprowls","n/a","n/a","2021","Attorney","n/a"
+"West Florida Bank Corporation","Director & Chairman","Paul Wikle","Owner","Wikle Real Estate","2021","Real Estate","n/a"
+```

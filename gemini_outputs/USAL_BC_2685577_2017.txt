@@ -1,0 +1,32 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2017","WT ""Tony"" Gibson,"Jr."","Common","22440","11.79","n/a"
+"USAL Bancorp,"Inc."","Union Springs,"AL"","2017","WT GIBSON JR","n/a","22440","11.79","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","GREG SMOKER","n/a","9342","4.91","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","FRANCES C. CHANCEY","n/a","6730","3.54","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","NANCY M. ADAMS","n/a","6510","3.42","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","BERNICE E. TRUSSELL","n/a","6115","3.21","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","LAURA DEAN C WATERS","n/a","5195","2.73","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","CAROLYN W. SMITHERMAN","n/a","4875","2.56","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","GLENDA MCNAIR","n/a","4070","2.14","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","CHARLOTTE V. JINKS","n/a","3955","2.08","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","THE AMELIA PEEK REVOCABLE LIVING TRUST 7-22-99","n/a","3315","1.74","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","COL WILLIAM C. COOK","n/a","3218","1.69","n/a"
+"USAL Bancorp,"Inc."","n/a","2017","JOHN L. RUMPH","n/a","3200","1.68","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USAL Bancorp,"Inc."","Chairman of the Board","Alfred F. Cook,"Jr."","Chairman of the Board","ALBICAMCO","2017","Economic Development Consulting","1391331"
+"USAL Bancorp,"Inc."","Director","John T. Main","n/a","Main Drug Store","2017","Pharmacist","1391331"
+"USAL Bancorp,"Inc."","Director","James L. Bassett","n/a","Beck's Turf,"Inc."","2017","Sod Farm","1391331"
+"USAL Bancorp,"Inc."","Director","Greg A. Smoker","n/a","n/a","2017","Commercial R/E Investment","1391331"
+"USAL Bancorp,"Inc."","Vice Chairman/Director","Joe M. Varner,"Jr."","n/a","Bonnie Plants","2017","Agribusiness","1391331"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","n/a","Alabama Steel Supply","2017","Steel Company","1391331"
+"USAL Bancorp,"Inc."","Director","Flynn R. Dubose","n/a","Dubose Construction","2017","Construction","1391331"
+"USAL Bancorp,"Inc."","Director/President & CEO","Robert R. Ramsey","n/a","n/a","2017","n/a","1391331"
+"USAL Bancorp,"Inc."","Director","Addie M. Smith","n/a","n/a","2017","Accountant","1391331"
+"USAL Bancorp,"Inc."","n/a","WT ""Tony"" Gibson","n/a","n/a","2017","n/a","1391331"
+"USAL Bancorp,"Inc."","EVP/Secretary","Marsha S. Moffett","n/a","n/a","2017","n/a","1391331"
+```

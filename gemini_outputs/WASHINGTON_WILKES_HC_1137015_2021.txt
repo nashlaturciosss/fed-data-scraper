@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F&M Bank","Washington,"GA"","2021","Gerald O. Norman,"Jr."","Shares","49353","10.50%","510330"
+"F&M Bank","Jesse D. Northweather,"JTWROS","USA"","2021","Carolyn Trantham Northweather","Shares","29354","6.25%","510330"
+"F&M Bank","Sandy Spirngs,"GA"","2021","D. Emory Boyd","Shares","24032","5.11%","510330"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"F&M Bank","Director,"Executive Vice President"","Debbie M. Barnett","None","n/a","2021","Executive Vice President,"F&M bank"","510330"
+"F&M Bank","Director","D Emory Boyd Jr","Managing Principal","EPIC Insurance Brokers","2021","Insurance Broker,"EPIC Insurance Brokers"","510330"
+"F&M Bank","Director,"Chairman"","L. Dan Coxwell","None","n/a","2021","Retired","510330"
+"F&M Bank","Director","Charles J. Fievet","None","n/a","2021","Retired","510330"
+"F&M Bank","Director","Barry W. Goolsby","Pres. & CEO","Burt Lumber Company,"Inc."","2021","Lumber Manufacturing,"Burt Lumber Company","Inc."","510330"
+"F&M Bank","Director","Robert Ray Hardy","Treasurer and Shareholder","Oconee Area Home Care Services,"Inc."","2021","RN,"Business Owner"","510330"
+"F&M Bank","Director","Debbie r. Jackson","Pres. & CEO","W.E. Unlimited,"Inc."","2021","Retail Jeweler,"Tena's Jewelry & Gift Shop"","510330"
+"F&M Bank","Director","Debbie r. Jackson","Pres. & CEO","Tena's Jewelry & Gift Shop,"Inc."","2021","Retail Jeweler,"Tena's Jewelry & Gift Shop"","510330"
+"F&M Bank","Director","Bobby Jones","Pres. & CEO","Dixie Wood Products,"INC."","2021","Timber Management,"Dixie Wood Products","INC."","510330"
+"F&M Bank","Shareholder","Gerald O. Norman,"Jr."","None","n/a","2021","Part-Time Courier F&M Bank","510330"
+"F&M Bank","Chief Financial Officer","Eli Mullis","None","n/a","2021","Chief Financial F&M Bank","510330"
+"F&M Bank","Director,"Pres. & CEO"","Edward B. Pope III","None","n/a","2021","Pres. & CEO F&M Bank","510330"
+"F&M Bank","Director","W. Daniel Sisson Jr","Owner","Rayle Cattle Farm","2021","Regional VP,"AT&T"","510330"
+"F&M Bank","Director","David S. Tatum","None","n/a","2021","Retired","510330"
+```

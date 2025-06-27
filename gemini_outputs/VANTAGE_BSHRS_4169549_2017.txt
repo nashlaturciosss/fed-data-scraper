@@ -1,0 +1,34 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Vantage Bank","Albertville,"AL"","2017","Lowell Galloway","Common Stock","46500","4.05%","n/a"
+"Vantage Bank","Albertville,"AL"","2017","Lowell Galloway","Common Stock","51404","4.43%","n/a"
+"Vantage Bank","Albertville,"AL"","2017","Danny J. Thrash","Common Stock","105000","9.04%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vantage Bank","President/CEO,"Director"","Lowell Galloway","President/CEO","Vantage Bank","2017","n/a","n/a"
+"Vantage Bank","Director","Danny Thrash","President","Danny Thrash Motors,"Inc."","2017","Equipment Sales","n/a"
+"Vantage Bank","Director","Danny Thrash","President","Transcontinental Auto Exchange,"Inc."","2017","Equipment Sales","n/a"
+"Vantage Bank","Director","David Mitchell","President","Mitchell Grocery Corporation","2017","Grocery Wholesale/Retail","n/a"
+"Vantage Bank","Director","David Mitchell","President","Bee Line Express,"Inc."","2017","Grocery Wholesale/Retail","n/a"
+"Vantage Bank","Director","David Mitchell","Vice President","JMBI.","2017","Grocery Wholesale/Retail","n/a"
+"Vantage Bank","Director","Laura Casey","Director","Weathers Properties","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","Laura Casey","President","United Properties,"LLC"","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","Laura Casey","Secretary","Mountain Group,"LLC"","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","Laura Casey","Secretary","RP 804,"LLC"","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","Laura Casey","President","Downtown Properties,"LL.C"","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","Laura Casey","Secretary","Mountain Valley Apts.,"LLC"","2017","Homemaker/Community Volunteer","n/a"
+"Vantage Bank","Director","John Weathers","Owner","Weathers Properties","2017","Real Estate Investments","n/a"
+"Vantage Bank","Director","Frank McDaniel","President","Big Spring Lake,"LLC."","2017","Retired Vending Company Owner/Golf club management","n/a"
+"Vantage Bank","Director","Benny Frazier","President","Bobby's Auto Parts,"Inc."","2017","Retail Auto Parts Sales","n/a"
+"Vantage Bank","Director","Larry Fortenberry","C.E.O.","D&F Equipment Sales,"Inc."","2017","Poultry Processing Systems SalesReal Estate Investments","n/a"
+"Vantage Bank","Director","Larry Fortenberry","President","Fortenberry Aviation,"LLC"","2017","Poultry Processing Systems SalesReal Estate Investments","n/a"
+"Vantage Bank","Director","Larry Fortenberry","President","Fortenberry Properties No.3 LLC","2017","Poultry Processing Systems SalesReal Estate Investments","n/a"
+"Vantage Bank","Director","Larry Fortenberry","President","Albertville Self Storage,"LLC"","2017","Poultry Processing Systems SalesReal Estate Investments","n/a"
+"Vantage Bank","Director","Larry Fortenberry","President","LDL Enterprises. LLC","2017","Poultry Processing Systems SalesReal Estate Investments","n/a"
+"Vantage Bank","Director","Melvin D. Thornbury","President","Melvin D. Thornbury,"M.D.","P.C."","2017","Physician","n/a"
+"Vantage Bank","Director","Melvin D. Thornbury","Managing Member","Thornbury Properties. LLC","2017","Physician","n/a"
+```

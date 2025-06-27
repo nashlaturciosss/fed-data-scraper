@@ -1,0 +1,22 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Larry Collins","n/a","28","17.72%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Jaska Ann Russell","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Tammy Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Jeffrey David Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Jonathan Ray Collins","n/a","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"Tennessee"","2014","Larry Joe Collins,"Jr."","n/a","22","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman of the Board,"Director and Chairman of the Executive Committee"","Larry Collins","Owner","Collins Construction Company","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Matt Ricker","n/a","n/a","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Vice Chairman and Director","Jeffrey David Collins","Partner","C & C Construction Company","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chief Financial Officer","Dave Wolfe","n/a","n/a","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Jaska Collins Russell","Business Owner","n/a","2014","Retail,"Food Industry","Employment Services","and industrial warehouse develpoment"","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","n/a","Jonathan Ray Collins","Co-Owner/Leaser","Industrial Warehouse development","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","n/a","Larry Joe Collins","Construction Company Owner","n/a","2014","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","n/a","Tammy Collins","n/a","n/a","2014","n/a","n/a"
+```

@@ -1,0 +1,33 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2016","Lowell Galloway","Common Stock","46500","3.88%","4169549"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2016","Lowell Galloway","Common Stock","58854","4.92%","4169549"
+"Vantage Bancshares,"Inc."","Albertville,"AL"","2016","Danny J. Thrash","Common Stock","105000","8.77%","4169549"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Vantage Bancshares,"Inc."","President/CEO","Lowell Galloway","None","n/a","2016","n/a","4169549"
+"Vantage Bancshares,"Inc."","Director","Danny Thrash","President","Danny Thrash Motors,"Inc."","2016","Equipment Sales","4169549"
+"Vantage Bancshares,"Inc."","Director","Danny Thrash","President","Transcontinental Auto Exchange,"Inc."","2016","Equipment Sales","4169549"
+"Vantage Bancshares,"Inc."","Director","David Mitchell","President","Mitchell Grocery Corporation","2016","Grocery Wholesale/Retail","4169549"
+"Vantage Bancshares,"Inc."","Director","David Mitchell","President","Bee Line Express,"Inc."","2016","Grocery Wholesale/Retail","4169549"
+"Vantage Bancshares,"Inc."","Director","David Mitchell","Vice President","JMBL,"Inc."","2016","Grocery Wholesale/Retail","4169549"
+"Vantage Bancshares,"Inc."","Director","Laura Casey","None","n/a","2016","Homemaker/Community Volunteer","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","Owner","Weathers Properties","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","President","United Properties,"LLC"","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","Secretary","Mountain Group,"LLC"","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","Secretary","RP 804,"LLC"","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","President","Downtown Properties,"LLC"","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","John Weathers","Secretary","Mountain Valley Apts.,"LLC"","2016","Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Frank McDaniel","President","Big Spring Lake,"LLC."","2016","Retired Vending Company Owner/ Golf club management","4169549"
+"Vantage Bancshares,"Inc."","Director","Benny Frazier","President","Bobby's Auto Parts,"Inc."","2016","Retail Auto Parts Sales","4169549"
+"Vantage Bancshares,"Inc."","Director","Larry Fortenberry","C.E.O.","D&F Equipment Sales,"Inc."","2016","Poultry Processing Systems Sales Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Larry Fortenberry","President","Fortenberry Aviation,"LLC"","2016","Poultry Processing Systems Sales Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Larry Fortenberry","President","Fortenberry Properties No.3 LLC","2016","Poultry Processing Systems Sales Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Larry Fortenberry","President","Albertville Self Storage,"LLC"","2016","Poultry Processing Systems Sales Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Larry Fortenberry","President","LDL Enterprises,"LLC"","2016","Poultry Processing Systems Sales Real Estate Investments","4169549"
+"Vantage Bancshares,"Inc."","Director","Melvin D. Thornbury","President","Melvin D. Thornbury,"M.D.","P.C."","2016","Physician","4169549"
+"Vantage Bancshares,"Inc."","Director","Melvin D. Thornbury","President","Sand Mountain OB/GYN Assoc.","2016","Physician","4169549"
+```

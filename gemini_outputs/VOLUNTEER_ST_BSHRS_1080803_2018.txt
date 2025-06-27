@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Larry Collins","Common Stock","23","14.56%","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Jaska Ann Russell","Common Stock","22","13.92%","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Tammy Collins","Common Stock","22","13.92%","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Jeffrey David Collins","Common Stock","22","13.92%","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Jonathan Ray Collins","Common Stock","22","13.92%","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2018","Larry Joe Collins,"Jr."","Common Stock","22","13.92%","1080803"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman of the Board,"Director and Chairman of the Executive Committee"","Larry Collins","n/a","Collins Construction Company","2018","Owner Collins Construction Company,"a sole proprietorship."","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Matt Ricker","n/a","n/a","2018","n/a","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","President & CEO","Matt Ricker","n/a","Middle Tennessee Insurance Agency","2018","n/a","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","President & CEO","Matt Ricker","n/a","Guaranty Trust Mortgage Company","2018","n/a","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Vice Chairman and Director","Jeffrey David Collins","n/a","C & C Construction Company","2018","Partner C & C Construction Company","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman and Director","Jeffrey David Collins","n/a","Guaranty Trust Company","2018","Partner C & C Construction Company","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman and Director","Jeffrey David Collins","n/a","Middle Tennessee Insurance Agency","2018","Partner C & C Construction Company","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chief Financial Officer","Dave Wolfe","n/a","n/a","2018","n/a","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jaska Collins Russell","n/a","n/a","2018","Business Owner,"Retail","Food Industry","Employment Services","and industrial warehouse develpoment"","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Jaska Collins Russell","n/a","n/a","2018","Business Owner,"Retail","Food Industry","Employment Services","and industrial warehouse develpoment"","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jonathan Ray Collins","n/a","n/a","2018","Co-Owner/Leaser of Industrial Warehouse development","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Larry Joe Collins","n/a","n/a","2018","Construction Company Owner","1080803"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Tammy Collins","n/a","n/a","2018","n/a","1080803"
+```

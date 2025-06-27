@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"UNITED COMMUNITY BANKS,"INC."","San Francisco,"CA"","2019","BlackRock Fund Advisors","n/a","11310123","14.30%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Malvern,"PA"","2019","The Vanguard Group,"Inc."","n/a","8332705","10.55%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","n/a","2019","FMR LLC","n/a","4125645","5.22%","n/a"
+"UNITED COMMUNITY BANKS,"INC."","n/a","2019","NONE","n/a","n/a","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"UNITED COMMUNITY BANKS,"INC."","Director\nAudit Committee - Member\nNominating/Corporate Governance Committee - Member\nUnited Community Bank (Charter) - Director\nAudit Committee (Charter) - Member\nNominating/Corporate Governance Committee (Charter) - Member","Robert H. Blalock","n/a","Blalock Insurance Agency","2019","President","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Chief Banking Officer\nChief Banking Officer","Richard W. Bradshaw","n/a","n/a","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nNominating/Corporate Governance Committee - Chair\nExecutive Committee Member\nRisk Committee - Member\nUnited Community Bank (Charter) - Director\nNominating/Corporate Governance Committee (Charter) - Chair\nRisk Committee (Charter) - Member\nExecutive Committee (Charter) - Member","L. Cathy Cox","Dean - School of Law","Mercer University","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nRisk Committee - Chairman\nTalent & Compensation Committee - Member\nAudit Committee - Member\nExecutive Committee - Member\nUnited Community Bank (Charter) - Director\nRisk Committee (Charter) - Chairman\nAudit Committee (Charter) - Member\nExecutive Committee (Charter) - Member\nTalent & Compensation Committee (Charter) - Member","Kenneth L. Daniels","n/a","n/a","2019","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nTalent & Compensation Committee - Member\nNominating/Corporate Governance Committee - Member\nRisk Committee - Member\nExecutive Committee - Member","Lance F. Drummond","Independent Director","Freddie Mac","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President & Chief Risk Officer\nExecutive Vice President & Chief Risk Officer","Robert A. Edwards","n/a","n/a","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President & Chief Financial Officer\nExecutive Vice President & Chief Financial Officer","Jefferson L. Harralson","n/a","n/a","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","President & Chief Executive Officer/Director\nPresident & Chief Executive Officer,"Chairman","Director"","H. Lynn Harton","Board Chair","The Peace Center","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nTalent & Compensation Committee - Chair\nUnited Community Bank (Charter) - Director","Jennifer K. Mann","EVP,"Chief HR Officer"","SAS Institute","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President,"General Counsel & Corporate Secretary\nExecutive Vice President","General Counsel & Corporate Secretary"","Bradley J. Miller","n/a","n/a","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Lead Director\nAudit Committee - Member\nExecutive Committee Member\nRisk Committee - Member\nNominating/Corporate Governance Committee - Member\nUnited Community Bank (Charter) - Lead Director","Thomas A. Richlovsky","Trustee","PM Foundation Inc dba Urban Community School","2019","Retired","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nAudit Committee - Chair\nTalent & Compensation Committee Member","David C. Shaver","Chief Executive Officer","Cost Segregation Advisors,"LLC"","2019","CEO","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Executive Vice President. Chief Information Officer\nExecutive Vice President,"Chief Information Officer"","Mark A. Terry","n/a","n/a","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nTalent & Compensation Committee - Member\nUnited Community Bank (Charter) - Director","Tim R. Wallis","Chief Executive Officer,"President","CEO & Owner"","Wallis Printing","2019","n/a","n/a"
+"UNITED COMMUNITY BANKS,"INC."","Director\nRisk Committee - Member\nUnited Community Bank (Charter) - Director","David H. Wilkins","Attorney & Partner","Nelson,"Mullins","Riley & Scarborough LLC"","2019","n/a","n/a"
+```

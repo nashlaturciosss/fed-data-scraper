@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Zachary","Zachary,"La"","2023","John Randall Brian","n/a","1280","0.76%","860334"
+"Bank of Zachary","Zachary,"La"","2023","Winston E. Canning","n/a","1300","0.77%","860334"
+"Bank of Zachary","Baton Rouge,"La"","2023","Rodney S. Johnson","n/a","3540","2.09%","860334"
+"Bank of Zachary","Baton Rouge,"La"","2023","Preston L. Kennedy","n/a","1000","0.59%","860334"
+"Bank of Zachary","Zachary,"La"","2023","Tom Ed McHugh","n/a","1800","1.06%","860334"
+"Bank of Zachary","Zachary,"LA"","2023","Mark S. Marionneaux","n/a","500","0.30%","860334"
+"Bank of Zachary","Jackson,"La"","2023","Harry S. Morris,"Jr."","n/a","2067","1.22%","860334"
+"Bank of Zachary","Zachary,"La"","2023","David M. Thornton","n/a","1675","0.99%","860334"
+"Bank of Zachary","Jackson,"LA"","2023","Melinda M. White","n/a","506","0.30%","860334"
+"Bank of Zachary","Zachary,"La"","2023","Russell J. Blanchard","n/a","231","0.14%","860334"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","John Randall Brian","n/a","None","2023","Real Estate Construction","n/a"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","Winston E. Canning","n/a","None","2023","Retired Bank of Zachary-EVP 12/31/2011","n/a"
+"Bank of Zachary","Director-ZBI,"Chairman of ZBI Board","Director-Bank of Zachary","Chairman of Bank of Zachary Board"","Rodney S. Johnson","Insurance Agent","State Farm Insurance Agent","2023","State Farm Insurance Insurance Agent","n/a"
+"Bank of Zachary","Director-ZBI,"Vice Chairman","Director-Bank of Zachary","President/Emeritus-Bank of Zachary"","Preston L. Kennedy","n/a","None","2023","Bank of Zachary President/Emeritus","n/a"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","Tom Ed McHugh","n/a","None","2023","Retired-La Municipal Assoc Executive Officer","n/a"
+"Bank of Zachary","Director-ZBI,"President","Director-Bank of Zachary","President/CEO/Chief Lending Officer"","Mark S. Marionneaux","n/a","None","2023","Bank of Zachary President/CEO","n/a"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","Harry S. Morris,"Jr."","n/a","None","2023","Retired Bank of Zachary-CEO 12/31/2011","n/a"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","David M. Thornton","President","Thornton,"Musso & Bellamin"","2023","Water Treatment Company President","n/a"
+"Bank of Zachary","Director-ZBI,"Director-Bank of Zachary"","Melinda M. White","n/a","None","2023","Retired-Bank of Zachary-VP 12/31/2017","n/a"
+"Bank of Zachary","Board Secretary-ZBI,"Treasurer-ZBI","CFO/Cashier","Bank of Zachary"","Russell J. Blanchard","n/a","None","2023","Bank of Zachary CFO/Cashier","n/a"
+```

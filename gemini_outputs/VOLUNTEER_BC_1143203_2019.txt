@@ -1,0 +1,23 @@
+Here are the two tables in CSV format as requested:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2019","William E Phillips,"voting trustee for the benefit of the Company"","n/a","42750","8.66%","n/a"
+"Volunteer Bancorp,"Inc."","Sneedville,"TN"","2019","M. Carlin Greene","n/a","24807","5.03%","n/a"
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2019","Gary E. Varnell","n/a","30320","6.14%","n/a"
+"Volunteer Bancorp,"Inc."","Rogersville,"TN"","2019","William E Phillips,"voting trustee for the benefit of the Company"","n/a","42750","n/a","n/a"
+"Volunteer Bancorp,"Inc."","n/a","2019","William E. or Joyce D. Phillips","n/a","10978","n/a","n/a"
+"Volunteer Bancorp,"Inc."","n/a","2019","William E. Phillips,"individual"","n/a","60","n/a","n/a"
+"Volunteer Bancorp,"Inc."","n/a","2019","William E. Phillips & J.O. Phillips,"Trustees of the Joe H. Wilson Trust"","n/a","12211","n/a","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Volunteer Bancorp Inc.","Director,"Former President"","Reed D. Matney","Director,"Former President"","n/a","2019","Retired Banker","n/a"
+"Volunteer Bancorp Inc.","Director,"Chairman of Board"","William E. Phillips","Attorney","Phillips & Hale","2019","Attorney","n/a"
+"Volunteer Bancorp Inc.","Director","M. Carlin Greene","Director","n/a","2019","Farmer/Real Estate","n/a"
+"Volunteer Bancorp Inc.","Director","Gary E. Varnell","Director,"President"","Rogersville Office Supply","2019","Mgr/Operator Retail Office Products","n/a"
+"Volunteer Bancorp Inc.","Director,"Vice President"","Scott F. Collins","Director","n/a","2019","Banking","n/a"
+"Volunteer Bancorp Inc.","Director,"President/CEO"","Richard K. Yowell","Director","n/a","2019","Banking","n/a"
+"Volunteer Bancorp Inc.","Director","William E. Phillips II","Attorney","Phillips & Hale","2019","Attorney","n/a"
+```

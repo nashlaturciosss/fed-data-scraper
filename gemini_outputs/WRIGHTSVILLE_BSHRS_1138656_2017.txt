@@ -1,0 +1,24 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2017","T.L. Lovett,"Jr."","Common Stock","9565","8.91%","138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2017","Leon A. Lovett","Common Stock","8192","7.63%","138656"
+"Wrightsville Bancshares,"Inc."","USA","2017","Mary Jo Fulghum Edenfield","Common Stock","7200","6.70%","138656"
+"Wrightsville Bancshares,"Inc."","USA","2017","R. Herschel Lovett","Common Stock","7100","6.61%","138656"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2017","Mary Jean Roughton","Common Stock","7100","6.61%","138656"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2017","Richard Herschel Lovett","Common Stock","7083","6.60%","138656"
+"Wrightsville Bancshares,"Inc."","Nashville,"TN"","2017","James W. Phillips","Common Stock","6842","6.37%","138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2017","Herbert Johnson Vickers","Common Stock","5722","5.33%","138656"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2017","Mary Frances Newsome","Common Stock","5388","5.02%","138656"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Director Chairman of the Board","R. Herschel Lovett","Lovett Ins. Agency - President","Lovett Ins. Agency","2017","Insurance Agent","138656"
+"Wrightsville Bancshares,"Inc."","Director President/CEO","Richard V. Everly","n/a","n/a","2017","Bank President","138656"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Jeff Powell Trucking Parker Fish Co. Owner","Jeff Powell Trucking","2017","Jeff Powell Trucking Parker Fish Co.","138656"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Jeff Powell Trucking Parker Fish Co. Owner","Parker Fish Co.","2017","Jeff Powell Trucking Parker Fish Co.","138656"
+"Wrightsville Bancshares,"Inc."","Director","Lynn L. Shields","n/a","n/a","2017","None","138656"
+"Wrightsville Bancshares,"Inc."","Director","James F. Hobby","Smalley's Animal Hospital Owner","Smalley's Animal Hospital","2017","Veterinarian","138656"
+"Wrightsville Bancshares,"Inc."","Director","Stuart Stanley","n/a","n/a","2017","Farmer","138656"
+```

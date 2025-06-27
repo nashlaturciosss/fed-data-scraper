@@ -1,0 +1,41 @@
+Here are the extracted CSV tables from the document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Gerald O. Norman","Common Stock","35024","7.25%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Lois Ann Norman","Common Stock","23800","4.92%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Gerald O. Norman,"Jr"","Common Stock","6700","1.39%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Deborah N. Lewis","Common Stock","2592","0.54%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Deborah N. Lewis and Caleb Michael Free,"JT TEN"","Common Stock","540","0.12%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Deborah N. Lewis and Derek Norman Free,"JT TEN"","Common Stock","540","0.12%","n/a"
+"Washington-Wilkes Holding Company","Dacula,"GA"","2015","Joyce M. Norman","Common Stock","5000","1.04%","n/a"
+"Washington-Wilkes Holding Company","Ashland,"MO"","2015","Carolyn Trantham Northweather","Common Stock","9504","1.97%","n/a"
+"Washington-Wilkes Holding Company","Lohman,"MO"","2015","Damon Adam Northweather","Common Stock","13200","2.73%","n/a"
+"Washington-Wilkes Holding Company","Jefferson City,"MO"","2015","Sean Eric Northweather","Common Stock","13200","2.73%","n/a"
+"Washington-Wilkes Holding Company","Washington,"GA"","2015","Belle W Drinkard Story","Common Stock","6700","1.15%","n/a"
+"Washington-Wilkes Holding Company","Bogart,"GA"","2015","Nancy D Miller","Common Stock","9315","1.60%","n/a"
+"Washington-Wilkes Holding Company","Bogart,"GA"","2015","Olan C Miller","Common Stock","999","0.18%","n/a"
+"Washington-Wilkes Holding Company","Bogart,"GA"","2015","Paul Olan Miller","Common Stock","1159","0.20%","n/a"
+"Washington-Wilkes Holding Company","Watkinsville,"GA"","2015","Elizabeth Ann Miller","Common Stock","1159","0.20%","n/a"
+"Washington-Wilkes Holding Company","Louisville,"KY"","2015","James Murray Miller","Common Stock","1159","0.20%","n/a"
+"Washington-Wilkes Holding Company","LaGrange,"GA"","2015","Gayle D Oliver","Common Stock","10096","1.74%","n/a"
+"Washington-Wilkes Holding Company","LaGrange,"GA"","2015","Phillip N Oliver","Common Stock","999","0.18%","n/a"
+"Washington-Wilkes Holding Company","LaGrange,"GA"","2015","Maria O Soloman","Common Stock","1199","0.21%","n/a"
+"Washington-Wilkes Holding Company","Westminster,"MD"","2015","Tiffany O Cole","Common Stock","1199","0.21%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington-Wilkes Holding Company","Chairman of the Board","Gerald O. Norman","Chairman of the Board","F&M Bank","2015","Retired","n/a"
+"Washington-Wilkes Holding Company","Vice-Chairman of the Board","Bobby Jones","Vice-Chairman of the Board","F&M Bank","2015","Timber Management","n/a"
+"Washington-Wilkes Holding Company","President and CEO","L. Dan Coxwell","Director,"President and CEO"","F&M Bank","2015","President and CEO,"F&M Bank"","n/a"
+"Washington-Wilkes Holding Company","Director,"Executive Vice President"","Debbie M. Barnett","Director,"Executive Vice President"","F&M Bank","2015","Executive Vice President,"F&M Bank"","n/a"
+"Washington-Wilkes Holding Company","Director","David E. Boyd","Director","F&M Bank","2015","Retired","n/a"
+"Washington-Wilkes Holding Company","Director","Charles Joseph Fievet","Director","F&M Bank","2015","Pharmacist,"Fievet Pharmacy"","n/a"
+"Washington-Wilkes Holding Company","Director","Barry W. Goolsby","Director","F&M Bank","2015","Lumber Manufacturing","n/a"
+"Washington-Wilkes Holding Company","Director","Debbie R. Jackson","Director","F&M Bank","2015","Retail Jeweler","n/a"
+"Washington-Wilkes Holding Company","Executive Vice President,"CFO"","Edward B. Pope III","Executive Vice President,"CFO"","F&M Bank","2015","Executive Vice President,"F&M Bank"","n/a"
+"Washington-Wilkes Holding Company","Director","J. Marshall Sherrer","Director","F&M Bank","2015","Retired","n/a"
+"Washington-Wilkes Holding Company","Director","David S. Tatum","Director","F&M Bank","2015","Retired","n/a"
+"Washington-Wilkes Holding Company","Vice-Chairman of the Board","Bobby Jones","President and CEO","Dixie Wood Products,"INC."","2015","Timber Management","n/a"
+```

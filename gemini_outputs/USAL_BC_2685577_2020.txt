@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2020","W T ""Tony"" Gibson,"Jr."","Common","22440","11.89%","n/a"
+"USAL Bancorp,"Inc."","Palm Beach Gardens,"FL"","2020","Gregory A. Smoker","voting","12045","6.38%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USAL Bancorp,"Inc."","Vice-Chairman of the Board","Alfred F. Cook,"Jr."","n/a","ALBICAMCO","2020","Economic Development Consulting"
+"USAL Bancorp,"Inc."","Director","John T. Main","Main Drug Store Owner","Main Drug","2020","Pharmacist"
+"USAL Bancorp,"Inc."","Chairman of the Board","James L. Bassett","Inc. Owner","Beck's Turf","2020","Sod Farm"
+"USAL Bancorp,"Inc."","Director","Greg A. Smoker","n/a","n/a","2020","Commercial Real Estate Investment Professional"
+"USAL Bancorp,"Inc."","Director","Joe M. Varner,"Jr."","Business Owner","Bonnie Plants Grower","2020","Agribusiness"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Owner","Alabama Steel","2020","Steel Company"
+"USAL Bancorp,"Inc."","Director","Addie M. Smith","n/a","n/a","2020","Accountant"
+"USAL Bancorp,"Inc."","Director","Laura D. Grill","n/a","EAMC","2020","President/CEO"
+"USAL Bancorp,"Inc."","Director","Emory Kyle Kyser,"Jr."","VP","4K Properties,"LLC"","2020","Real Estate"
+"USAL Bancorp,"Inc."","Director/President and CEO","Robert R. Ramsey","n/a","n/a","2020","N/A"
+"USAL Bancorp,"Inc."","EVP/Secretary","Marsha S. Moffett","n/a","n/a","2020","N/A"
+```

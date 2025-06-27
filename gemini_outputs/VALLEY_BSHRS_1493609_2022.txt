@@ -1,0 +1,32 @@
+Here are the extracted tables in CSV format:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Robert I. Rogers,"III"","common stock","21173","15.43%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Robert I. Rogers,"III"","Class A Voting Shares","55","0.04%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Robert I. Rogers,"III"","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","William E. Thompson","common stock","16870","12.30%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","William E. Thompson","Class A Voting Shares","55","0.04%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","William E. Thompson","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","David Camp","common stock","12897","9.40%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","David Camp","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Wanda H. Baker","common stock","16086","11.71%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Wanda H. Baker","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Stanley W. Kennedy","common stock","6696","4.87%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Stanley W. Kennedy","Class A Voting Shares","55","0.04%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Stanley W. Kennedy","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Michael Holcomb","common stock","8081","5.88%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Michael Holcomb","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Phillip A. Crunk","common stock","10477","7.62%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Phillip A. Crunk","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Terry L. Bolton","common stock","7282","5.31%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Terry L. Bolton","Class A non-voting shares","262","0.19%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Ronnie D. Hovater","common stock","5208","3.79%","n/a"
+"Valley Bancshares Inc.","Russellville,"AL"","2022","Ronnie D. Hovater","Class A non-voting shares","262","0.19%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Valley Bancshares Inc.","President/CEO/Director","Robert I. Rogers,"III"","n/a","n/a","2022","n/a","n/a"
+"Valley Bancshares Inc.","Vice President/Cashier","Wanda H. Baker","n/a","n/a","2022","n/a","n/a"
+```

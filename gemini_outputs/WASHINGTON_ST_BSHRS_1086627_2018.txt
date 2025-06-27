@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2018","Sue Soileau Durand","common stock","906.5","50%","1086627"
+"Washington State Bancshares,"Inc."","Washington,"LA"","2018","Sue Soileau Durand","n/a","n/a","n/a","1086627"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Washington State Bancshares,"Inc."","President/ Treasurer & Director","Sue Soileau Durand","President & Director","Alyce Corporation","2018","Banker","1086627"
+"Washington State Bancshares,"Inc."","President/ Treasurer & Director","Sue Soileau Durand","President & Director","Joel Enterprises,"Inc."","2018","Banker","1086627"
+"Washington State Bancshares,"Inc."","President/ Treasurer & Director","Sue Soileau Durand","President","Sunset Bancshares,"Inc."","2018","Banker","1086627"
+"Washington State Bancshares,"Inc."","President/ Treasurer & Director","Sue Soileau Durand","Manager & Member","Stanyan","2018","Banker","1086627"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","President","Steven G. Durio,"A"","2018","Attorney","1086627"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Durio,"Mcgoffin",","2018","Attorney","1086627"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Director","Building 16,"LLC"","2018","Attorney","1086627"
+"Washington State Bancshares,"Inc."","Secretary","Steven G. Durio","Manager","Villa Vista Verde,","2018","Attorney","1086627"
+```

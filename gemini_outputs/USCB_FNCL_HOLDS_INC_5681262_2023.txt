@@ -1,0 +1,33 @@
+Here are the extracted CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USCB Financial Holdings Inc","Philadelphia,"PA"","2023","Patriot Financial Partners II,"LP and Patriot Financial Partners Parallel II","LP"","Common A Voting Stock","4485909","22.92%","n/a"
+"USCB Financial Holdings Inc","New York,"NY"","2023","Priam Capital Fund II,"LP"","Common A Voting Stock","4498309","22.98%","n/a"
+"USCB Financial Holdings Inc","New York,"NY"","2023","Endeavour Capital Advisors Inc","Common A Voting Stock","1301840","6.65%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USCB Financial Holdings Inc","Chairman,"President","Chief Executive Officer"","Luis de la Aguilera","Chairman,"President","and Chief Executive Officer"","U.S. Century Bank","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Director","Kirk Wycoff","Managing Partner","Patriot Financial Partners,"LP"","2023","Managing Partner","n/a"
+"USCB Financial Holdings Inc","Director","Kirk Wycoff","n/a","GW Realty,"Inc."","2023","Managing Partner","n/a"
+"USCB Financial Holdings Inc","Director","Howard Feinglass","Managing Partner","Priam Capital","2023","Managing Partner","n/a"
+"USCB Financial Holdings Inc","Director","Aida Levitan","President","The Levitan Group,"Inc"","2023","The Levitan Group,"Inc"","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Abadin","Partner","Ramon A Abadin,"P.A."","2023","Partner","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Abadin","n/a","Abadin Cook Properties,"LLC"","2023","Partner","n/a"
+"USCB Financial Holdings Inc","Director","Bernardo Fernandez","Corporate Physician Executive","Broward Health","2023","Corporate Physician Executive","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Rodriguez","Chairman","Withmy Doc,"Inc"","2023","Chairman","n/a"
+"USCB Financial Holdings Inc","Director","Ramon Rodriguez","n/a","Crombet LLLP","2023","Chairman","n/a"
+"USCB Financial Holdings Inc","Director","Robert Kafafian","Chairman","The Kafafian Group,"Inc"","2023","Chairman Chief Executive Officer","n/a"
+"USCB Financial Holdings Inc","Director","Maria Alonso","Chief Executive Officer","Northeastern University","2023","Chief Executive Officer","n/a"
+"USCB Financial Holdings Inc","Chief Financial Officer","Robert Anderson","n/a","n/a","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Credit Officer","William Turner","n/a","n/a","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Hips I,"LLC"","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Hips II,"LLC"","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Lending Officer","Nicholas Bustle","n/a","Big Investment Group Inc","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Director of Sales & Marketing","Martha Guerra-Kattou","n/a","Decroly Learning Center","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Director of Operations & Information Technology","Andres Collazo","n/a","n/a","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Head of Global Banking Division","Oscar Gomez","n/a","n/a","2023","n/a","n/a"
+"USCB Financial Holdings Inc","Chief Risk Officer","Maricarmen Logrono","n/a","n/a","2023","n/a","n/a"
+```

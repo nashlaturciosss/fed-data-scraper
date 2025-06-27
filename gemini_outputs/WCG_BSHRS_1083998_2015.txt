@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2015","American Security Insurance Co.","Common Stock","4200","7.54%","1083998"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2015","Jesse E. Rogers,"Jr."","Common Stock","14056","25.24%","1083998"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2015","Standard Guaranty Insurance Co.","Common Stock","3150","5.66%","1083998"
+"WCG Bancshares,"Inc."","Atlanta,"GA"","2015","American Bankers Life Insurance Co.","Common Stock","3150","5.66%","1083998"
+"WCG Bancshares,"Inc."","Thomaston,"GA"","2015","Carlene H. Rogers","Common Stock","5753","10.33%","1083998"
+"WCG Bancshares,"Inc."","Jersey City,"NJ"","2015","National Financial Services LLC","Common Stock","5421","9.73%","1083998"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"WCG Bancshares,"Inc."","President,"Chairman","Director"","Jesse E Rogers,"Jr."","n/a","n/a","2015","n/a","1083998"
+"WCG Bancshares,"Inc."","VP Compliance & Operations Officer","Pamela Watkins","n/a","n/a","2015","n/a","1083998"
+"WCG Bancshares,"Inc."","Director","James A Robinson","n/a","n/a","2015","n/a","1083998"
+"WCG Bancshares,"Inc."","Director","Johnnie Caldwell","Attorney","Caldwell & Irvin","2015","Attorney","1083998"
+"WCG Bancshares,"Inc."","Director","Alan Connell","Attorney","Connell & Wheeler","2015","Attorney","1083998"
+"WCG Bancshares,"Inc."","Director","Jeffery Rogers","n/a","n/a","2015","Retired","1083998"
+"WCG Bancshares,"Inc."","Director","Kenny Coggins","President","Coggins Funeral Home Inc.","2015","Funeral Director","1083998"
+"WCG Bancshares,"Inc."","Director","Charles D. Short","Vice President","Commercial Finance","2015","Finance Company","1083998"
+"WCG Bancshares,"Inc."","n/a","Carlene Rogers","n/a","n/a","2015","Retired","1083998"
+```

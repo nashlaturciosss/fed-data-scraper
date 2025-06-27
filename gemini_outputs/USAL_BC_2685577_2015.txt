@@ -1,0 +1,21 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2015","Tony Gibson","common","22440","11.74973%","2685577"
+"USAL Bancorp,"Inc."","Union Springs,"Alabama"","2015","None","n/a","n/a","n/a","2685577"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"USAL Bancorp,"Inc."","Chairman of the Board","Alfred F. Cook,"Jr."","Chairman of the Board","ALBICAMCO","2015","Economic Development Consulting","n/a"
+"USAL Bancorp,"Inc."","Vice Chairman of the Board","John T. Main","Main Drug Store Owner","Main Drug Store","2015","Pharmacist","n/a"
+"USAL Bancorp,"Inc."","Director","James L. Bassett","Director","Beck's Turf,"Inc."","2015","Sod Farm","n/a"
+"USAL Bancorp,"Inc."","Director","Rebecca D. Gibson","Director","Gibson's Home Center","2015","Home & Officer Furnishings","n/a"
+"USAL Bancorp,"Inc."","Director","Greg A. Smoker","Director","n/a","2015","Grocer","n/a"
+"USAL Bancorp,"Inc."","Director","Joe M. Varner,"Jr."","Director","Bonnie Plant Farm Business","2015","Agribusiness","n/a"
+"USAL Bancorp,"Inc."","Director","Jerald Labovitz","Director","Alabama Steel Supply","2015","Steel Company","n/a"
+"USAL Bancorp,"Inc."","Director","Flynn R. Dubose","Owner","Dubose Construction","2015","Construction","n/a"
+"USAL Bancorp,"Inc."","Director/President","Robert R. Ramsey","Director/President","n/a","2015","n/a","n/a"
+"USAL Bancorp,"Inc."","n/a","Tony Gibson","n/a","n/a","2015","n/a","n/a"
+"USAL Bancorp,"Inc."","EVP & Secretary","Marsha S. Moffett","NA","n/a","2015","n/a","n/a"
+```

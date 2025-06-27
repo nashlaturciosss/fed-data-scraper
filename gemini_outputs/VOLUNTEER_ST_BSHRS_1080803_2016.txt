@@ -1,0 +1,23 @@
+Here are the two CSV tables extracted from the document:
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Larry Collins","Common Stock","23","14.56%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Jaska Ann Russell","Common Stock","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Tammy Collins","Common Stock","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Jeffrey David Collins","Common Stock","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Jonathan Ray Collins","Common Stock","22","13.92%","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Portland,"TN"","2016","Larry Joe Collins,"Jr."","Common Stock","22","13.92%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chairman of the Board,"Director"","Larry Collins","n/a","Collins Construction Company","2016","Owner Collins Construction Company","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Director","Matt Ricker","n/a","n/a","2016","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Vice Chairman and Director","Jeffrey David Collins","n/a","C & C Construction Company","2016","Partner C & C Construction Company","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Chief Financial Officer","Dave Wolfe","n/a","n/a","2016","n/a","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jaska Collins Russell","n/a","n/a","2016","Business Owner,"Retail","Food Industry","Employment Services","and industrial warehouse develpoment"","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Jonathan Ray Collins","n/a","n/a","2016","Co-Owner/Leaser of Industrial Warehouse development","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Larry Joe Collins","n/a","n/a","2016","Construction Company Owner","n/a"
+"VOLUNTEER STATE BANCSHARES,"INC."","Principal Shareholder","Tammy Collins","n/a","n/a","2016","n/a","n/a"
+```

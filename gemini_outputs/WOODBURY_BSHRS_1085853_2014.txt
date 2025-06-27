@@ -1,0 +1,15 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Woodbury Bancshares,"Inc."","Woodbury,"GA"","2014","William M. Barnes","n/a","1428","71.40%","n/a"
+"Woodbury Bancshares,"Inc."","Woodbury,"GA"","2014","James Hamlett","n/a","136","6.80%","n/a"
+"Woodbury Bancshares,"Inc."","Jacksonville,"FL"","2014","Sara Lee Ogilvie","n/a","146","7.30%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Woodbury Bancshares,"Inc."","President,"Director"","William M. Barnes","n/a","n/a","2014","n/a","n/a"
+"Woodbury Bancshares,"Inc."","Director","Mike McDaniel","Self-Employed","n/a","2014","Forester Real Estate Agent","n/a"
+"Woodbury Bancshares,"Inc."","Director,"Loan Officer"","Hynes Barnes","Partner","Carroll Farms","2014","Farmer","n/a"
+"Woodbury Bancshares,"Inc."","Director","Michael Akins","Self-Employed","n/a","2014","Pharmacist","n/a"
+```

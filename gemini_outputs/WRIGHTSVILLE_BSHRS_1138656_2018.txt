@@ -1,0 +1,24 @@
+Here are the requested CSV tables:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2018","T.L. Lovett,"Jr."","Common Stock","9065","8.44%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2018","Leon A. Lovett","Common Stock","8192","7.63%","n/a"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2018","Mary Jo Fulghum Edenfield","Common Stock","7200","6.70%","n/a"
+"Wrightsville Bancshares,"Inc."","Sandersville,"GA"","2018","Mary Jean Roughton","Common Stock","7100","6.61%","n/a"
+"Wrightsville Bancshares,"Inc."","Dublin,"GA"","2018","Richard Herschel Lovett","Common Stock","7083","6.60%","n/a"
+"Wrightsville Bancshares,"Inc."","Brentwood,"TN"","2018","James W. Phillips","Common Stock","6842","6.37%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2018","Herbert Johnson Vickers","Common Stock","5722","5.33%","n/a"
+"Wrightsville Bancshares,"Inc."","Wrightsville,"GA"","2018","Mary Frances Newsome","Common Stock","5548","5.17%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wrightsville Bancshares,"Inc."","Director Chairman of the Board","R. Herschel Lovett","Chairman of the Board President","Lovett Ins. Agency","2018","Insurance Agent","n/a"
+"Wrightsville Bancshares,"Inc."","Director President/CEO","Richard V. Everly","n/a","n/a","2018","Bank President","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Owner","Jeff Powell Trucking","2018","Jeff Powell Trucking Parker Fish Co.","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Jeffrey D. Powell","Owner","Parker Fish Co.","2018","Jeff Powell Trucking Parker Fish Co.","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Lynn L. Shields","n/a","n/a","2018","None","n/a"
+"Wrightsville Bancshares,"Inc."","Director","James F. Hobby","Owner","Smalley's Animal Hospital","2018","Veterinarian","n/a"
+"Wrightsville Bancshares,"Inc."","Director","Stuart Stanley","n/a","n/a","2018","Farmer","n/a"
+```

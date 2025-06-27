@@ -1,0 +1,29 @@
+"Okay","I will extract the requested information and format it into two CSV tables."
+```text
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2020","Tracy L. Mathews CFB Trust","Common","198476","27%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2020","Jennifer L. Parr CFB Trust","Common","192832","26%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2020","Mark G. Morse CFB Trust","Common","152243","20%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2020","Kelsea Morse,"Irrevocable Trust"","Common","43875","5%","2012315"
+"Villages Bancorporation,"Inc."","The Villages,"FL"","2020","Whitney Morse,"Irrevocable Trust"","Common","43875","5%","2012315"
+```
+```text
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Villages Bancorporation,"Inc."","Director","Clifton L. Bridges","Director","n/a","2020","Retired - Medical Doctor","2012315"
+"Villages Bancorporation,"Inc."","CEO & President","Lindsey M. Blaise","President","Citizens First Bank","2020","n/a","2012315"
+"Villages Bancorporation,"Inc."","Director","C. Dale Borrowman","n/a","The Villages Technology Solutions Group","2020","Business Owner/President","2012315"
+"Villages Bancorporation,"Inc."","Director","W. Thomas Brooks","n/a","n/a","2020","Retired - CPA","2012315"
+"Villages Bancorporation,"Inc."","Director","Robert D. Eddy","n/a","n/a","2020","CPA,"CFO"","2012315"
+"Villages Bancorporation,"Inc."","Director","Stephen T. Kurtz","CEO","Citizens First Bank","2020","CEO,"Retired Citizens First Bank"","2012315"
+"Villages Bancorporation,"Inc."","Director","Michael S. Levine,"MD"","n/a","Radiology Assoc. of Lake County","2020","Radiologist","2012315"
+"Villages Bancorporation,"Inc."","Director","Kevin W. McDonald","n/a","McDonald & Company Insurance Agency","2020","Business Owner/President","2012315"
+"Villages Bancorporation,"Inc."","Director","Mark G. Morse","President","Holding Co of The Villages,"Inc."","2020","Developer","2012315"
+"Villages Bancorporation,"Inc."","Director","James H. Parr,"Sr"","n/a","Morgan Stanley","2020","Retired - Investment Broker","2012315"
+"Villages Bancorporation,"Inc."","Director","Steven M. Roy","n/a","n/a","2020","Retired - Attorney","2012315"
+"Villages Bancorporation,"Inc."","Director","Danny Al Schmid","n/a","n/a","2020","Retired - EVP Citizens First Bank","2012315"
+"Villages Bancorporation,"Inc."","n/a","Tracy L. Mathews","n/a","Holding Co of The Villages,"Inc."","2020","Developer/Comm Design","2012315"
+"Villages Bancorporation,"Inc."","n/a","Jennifer Parr","n/a","Holding Co of The Villages,"Inc."","2020","Developer/Sales Operations","2012315"
+"Villages Bancorporation,"Inc."","n/a","Jeff Skates","Attorney / Trustee","McLin Burnsed,"PA"","2020","Attorney","2012315"
+```

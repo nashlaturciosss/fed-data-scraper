@@ -1,0 +1,38 @@
+Here are the requested CSV tables extracted from the provided document:
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","JOHN CARLOS MCDEARMAN III","common stock","9621","0.09%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","JACK W. BELL","common stock","100433","0.93%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","J. RANDALL CLEMONS","common stock","167474","1.55%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","JAMES F. COMER","common stock","25278","0.23%","159636"
+"Wilson Bank Holding Company","Murfreesboro,"TN"","2019","WILLIAM P. JORDAN","common stock","34650","0.32%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","JAMES ANTHONY PATTON","common stock","29313","0.27%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","HERBERT ELMER RICHERSON","common stock","79729","0.74%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","MICHAEL G. MAYNARD","common stock","8353","0.08%","159636"
+"Wilson Bank Holding Company","Lebanon,"TN"","2019","CLINTON M. SWAIN","common stock","2179","0.02%","159636"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Wilson Bank Holding Company","President","JOHN CARLOS MCDEARMAN III","President","Wilson Bank & Trust","2019","n/a","159636"
+"Wilson Bank Holding Company","Executive Vice President and Director of the Company","JOHN CARLOS MCDEARMAN III","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","President and Director of Wilson Bank & Trust (subsidiary of the Company)","JOHN CARLOS MCDEARMAN III","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","JACK W. BELL","President/Owner","Jack Bell Builders,"Inc."","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","JACK W. BELL","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Chief Executive Officer and Chairman of Board of Wilson Bank & Trust","J. RANDALL CLEMONS","President","Wilson County Promotions,"Inc."","2019","n/a","159636"
+"Wilson Bank Holding Company","President,"Chief Executive Officer and Director of the Company"","J. RANDALL CLEMONS","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Chief Executive Officer and Chairman of Board of Wilson Bank and Trust (subsidiary of the Company)","J. RANDALL CLEMONS","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Chairman and Director of the Company","JAMES F. COMER","Owner/ President","Comerica Enterprises,"Inc."","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","JAMES F. COMER","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","WILLIAM P. JORDAN","Businessman- Real Estate Investor","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","WILLIAM P. JORDAN","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","JAMES ANTHONY PATTON","Independent Sales Rep","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","JAMES ANTHONY PATTON","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","HERBERT ELMER RICHERSON","Retired President","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","HERBERT ELMER RICHERSON","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","MICHAEL G. MAYNARD","Owner & Chief Manager","Four Star Paving,"LLC"","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","MICHAEL G. MAYNARD","n/a","n/a","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of the Company","CLINTON M. SWAIN","Co-Owner","Fakes & Hooker,"Inc."","2019","n/a","159636"
+"Wilson Bank Holding Company","Director of Wilson Bank & Trust (subsidiary of the Company)","CLINTON M. SWAIN","n/a","n/a","2019","n/a","159636"
+```

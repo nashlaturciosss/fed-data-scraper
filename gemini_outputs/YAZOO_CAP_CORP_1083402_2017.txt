@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"BANK OF YAZOO CITY","Yazoo City,"MS"","2017","Philip C. Williams","n/a","n/a","n/a","118736"
+"BANK OF YAZOO CITY","Yazoo City,"MS"","2017","John Sharp Howie","n/a","n/a","n/a","118736"
+"BANK OF YAZOO CITY","Yazoo City,"MS"","2017","Philip C. Williams","n/a","n/a","n/a","118736"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"BANK OF YAZOO CITY","Director","Allen C. Bridgforth,"II"","Manager","Bridgforth Management LLC","2017","Attorney","118736"
+"BANK OF YAZOO CITY","Director","Allen C. Bridgforth,"II"","Manager","Mitchell Place LP","2017","Attorney","118736"
+"BANK OF YAZOO CITY","Director","Allen C. Bridgforth,"II"","Manager","May St Properties","2017","Attorney","118736"
+"BANK OF YAZOO CITY","Director","Michael J. Curran","n/a","n/a","2017","Planter","118736"
+"BANK OF YAZOO CITY","Director","John Sharp Howie","n/a","Chesterfield Land Co.,"LLC"","2017","Planter","118736"
+"BANK OF YAZOO CITY","Director","Hugh M. Love,"Jr."","n/a","Rokeby Plantation,"Inc."","2017","Attorney","118736"
+"BANK OF YAZOO CITY","Director","Thomas W. Mullen","n/a","n/a","2017","Retired","118736"
+"BANK OF YAZOO CITY","Director","S. G. Norquist,"Jr."","n/a","n/a","2017","Retired","118736"
+"BANK OF YAZOO CITY","President,"CEO & Director"","Van K. Ray","n/a","n/a","2017","N/A","118736"
+"BANK OF YAZOO CITY","Director","B. R. Darrington Seward","Owner","BRDS/SWC,"LLC"","2017","Planter","118736"
+"BANK OF YAZOO CITY","Director","B. R. Darrington Seward","Partner","Potosi Properties,"LLC"","2017","Planter","118736"
+"BANK OF YAZOO CITY","Director","B. R. Darrington Seward","Partner","Old Fields Properties,"LLC"","2017","Planter","118736"
+"BANK OF YAZOO CITY","Chairman,"Trust Officer & Director","Asst BSA Officer"","Philip C. Williams","Managing Member","Sharp Place,"LLC"","2017","N/A","118736"
+"BANK OF YAZOO CITY","Chairman,"Trust Officer & Director","Asst BSA Officer"","Philip C. Williams","Managing Member","Rucker Place,"LLC"","2017","N/A","118736"
+"BANK OF YAZOO CITY","Chairman,"Trust Officer & Director","Asst BSA Officer"","Philip C. Williams","Managing Member","Fairfield Plantation,"LLC"","2017","N/A","118736"
+"BANK OF YAZOO CITY","Secretary,"EVP","BSA Officer"","Livvi Ziegler","n/a","n/a","2017","N/A","118736"
+```

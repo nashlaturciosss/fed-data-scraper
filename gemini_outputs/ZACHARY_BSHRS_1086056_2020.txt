@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of Zachary","Zachary,"LA"","2020","n/a","n/a","n/a","n/a","860334"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Zachary Bancshares,"Inc."","Director","John Randall Brian","n/a","n/a","2020","Real Estate Construction","1086056"
+"Zachary Bancshares,"Inc."","n/a","Winston E. Canning","n/a","n/a","2020","Retired Bank of Zachary-EVP","1086056"
+"Zachary Bancshares,"Inc."","Director Chairman of ZBI Board","Rodney S. Johnson","Insurance Agent","State Farm","2020","State Farm Insurance","1086056"
+"Zachary Bancshares,"Inc."","Vice Chairman","Preston L. Kennedy","President/Emeritus","n/a","2020","Bank of Zachary","1086056"
+"Zachary Bancshares,"Inc."","Director","Tom Ed McHugh","n/a","n/a","2020","Retired-La Municipal Assoc Executive Officer","1086056"
+"Zachary Bancshares,"Inc."","Executive VP","Mark S. Marionneaux","n/a","n/a","2020","Bank of Zachary President/CEO","1086056"
+"Zachary Bancshares,"Inc."","Director","Harry S. Morris,"Jr."","n/a","n/a","2020","Retired Bank of Zachary-CEO","1086056"
+"Zachary Bancshares,"Inc."","Director","David M. Thornton","President","Thornton,"Musso & Bellamin"","2020","Water Treatment Company President","1086056"
+"Zachary Bancshares,"Inc."","Director","Melinda M. White","n/a","n/a","2020","Retired-Bank of Zachary-VP","1086056"
+"Zachary Bancshares,"Inc."","Treasurer","J. Larry Bellard","CFO/Cashier","n/a","2020","Bank of Zachary CFO/Cashier","1086056"
+"Zachary Bancshares,"Inc."","Board Secretary","Russll J. Blanchard","Chief Operations Officer","n/a","2020","Bank of Zachary Chief Operations Officer","1086056"
+```
