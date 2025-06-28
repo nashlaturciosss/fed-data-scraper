@@ -1,0 +1,45 @@
+"Okay","I will extract the requested data from the provided FR Y-6 document and format it into two CSV tables as specified."
+**SECURITIES HOLDERS CSV**
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Altrust Financial Services","Cullman","2016","Terry Neal & Tressa Walker","Common Stock","300237","6.27%",""
+"Altrust Financial Services","Cullman","2016","Cecil Alan & Amy Walker","Common Stock","283229","5.92%",""
+"Altrust Financial Services","Cullman","2016","Timothy Dudley Walker","Common Stock","259360","5.42%",""
+"Altrust Financial Services","Cullman","2016","Altrust Financial Services","Inc. Savings & ESOP Trust","Common Stock","1167831","24.40%",""
+```
+**INSIDERS CSV**
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Altrust Financial Services","Director","Robin Cummings","Director","Director","2015","Banking",""
+"Peoples Bank","CEO","Robin Cummings","Vice Chairman","","","Banking","60330"
+"Altrust Financial Services","Director","George Whit Drake","Director","","2015","Attorney",""
+"Peoples Bank","","George Whit Drake","Director","","","Attorney","60330"
+"Altrust Financial Services","Director","Noel Jasper Estes","Retired","Director","","2015","Retired",""
+"Peoples Bank","","Noel Jasper Estes","Director","","","Retired","60330"
+"Altrust Financial Services","Director","Cecil Alan Walker","Chairman","Director","","2015","Building Supply",""
+"Peoples Bank","","Cecil Alan Walker","Director","","","Building Supply","60330"
+"Altrust Financial Services","Secretary","Terry Neal Walker","Director","","2015","Building Supply",""
+"Peoples Bank","","Terry Neal Walker","Director","","","Building Supply","60330"
+"Altrust Financial Services","Director","Timothy Dudley Walker","Director","","2015","Building Supply",""
+"Peoples Bank","","Timothy Dudley Walker","Director","","","Building Supply","60330"
+"Altrust Financial Services","Director","Brian Clarke Witcher","Director","","2015","Used Car Dealer",""
+"Peoples Bank","","Brian Clarke Witcher","Director","","","Used Car Dealer","60330"
+"Altrust Financial Services","Director","Candace Nail Hooten","EVP","","2015","Banking",""
+"Peoples Bank","","Candace Nail Hooten","Director","","","Banking","60330"
+"Altrust Financial Services","","Craig Estes","Director","","2015","Engineer",""
+"Peoples Bank","","Craig Estes","Director","","","Engineer","60330"
+"Altrust Financial Services","CFO","Lionel Powell","CFO","","","Banking",""
+"Peoples Bank","","Lionel Powell","","","","Banking","60330"
+"Altrust Financial Services","","Timothy Williams","Director","","2015","Banking",""
+"Peoples Bank","","Timothy Williams","President","","","Banking","60330"
+"Altrust Financial Services","","Clayton R Lee","II","Director","","2015","Banking",""
+"Peoples Bank","","Clayton R Lee","II","EVP","","","Banking","60330"
+"Altrust Financial Services","","William Kinney","EVP","","2015","Banking",""
+"Peoples Bank","","William Kinney","EVP","","","Banking","60330"
+"Altrust Financial Services","","","","","","",""
+```
+**Notes:**
+*   RSSD_ID was added from branch table in order to complete the entire dataset.
+*   I've included the specified columns with the extracted data.
+"*   I assumed that if an individual was a director and officer in the bank holding company and/or the subsidiary bank","that both affiliations could be extracted."
+"*   The "Internal Title" column was filled with the title within Altrust Financial Services","and "External Title" with the title at Peoples Bank."

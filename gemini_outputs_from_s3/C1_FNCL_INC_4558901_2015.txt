@@ -1,0 +1,33 @@
+"Okay","I'll process the FR Y-6 form and extract the specified tables into CSV format."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"C1 BANK","SAINT PETERSBURG","2015","CBM Holdings Qualified Family LP","","3447948","21.41%","2362074"
+"C1 BANK","SAINT PETERSBURG","2015","Trevor Burgess","","1266179","7.86%","2362074"
+"C1 BANK","SAINT PETERSBURG","2015","Oakland Investment LLC","","1479025","9.19%","2362074"
+"C1 BANK","SAINT PETERSBURG","2015","Amazonite Limited Family Partnership","","1875616","11.65%","2362074"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"C1 BANK","Director","CBM Holdings Qualified Family LP","Director","","2015","Investor","2362074"
+"C1 BANK","CEO","President & Director","Trevor Burgess","CEO","President & Director","2015","Investor","2362074"
+"C1 BANK","N/A","Oakland Investment LLC","N/A","","","2015","Investor","2362074"
+"C1 BANK","N/A","Amazonite Limited Family Partnership","N/A","","","2015","Investor","2362074"
+"C1 BANK","Director","Brian D. Burghardt","Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","Secretary & Director","Phillip L. Burghardt","Secretary & Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","Director","Robert Glaser","Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","Director","Neil Grossman","Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","Director","Ryan L. Snyder","Director","C1 Bank","2015","Attorney","2362074"
+"C1 BANK","EVP/ Chief Operating Officer","Rita Lowman","","","2015","N/A","2362074"
+"C1 BANK","Director","Duane Moore","Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","EVP","Chief Human Capital Officer & General Counsel","Diane Morton","","","2015","N/A","2362074"
+"C1 BANK","Chairman","Sr. Advisor & Director","William H. Sedgeman","Jr.","Chairman & Sr. Advisor-C1 Bank","2015","N/A","2362074"
+"C1 BANK","Director","Alex Sink","Director","C1 Bank","2015","Investor","2362074"
+"C1 BANK","EVP/ Chief Financial Officer","Cristian A. Melej","EVP/ Chief Financial Officer- C1 Bank","2015","N/A","2362074"
+"C1 BANK","EVP/ Chief Technology Officer","Marcio de Oliveira","EVP/ Chief Technology Officer-C1 Bank","2015","N/A","2362074"
+"C1 BANK","EVP/Chief Risk Officer","James Steiner","EVP/Chief Risk Officer- C1 Bank","2015","N/A","2362074"
+"C1 BANK","EVP/ Senior Lender","Alan G. Randolph","EVP/Senior Lender- C1 Bank","2015","N/A","2362074"
+"C1 BANK","EVP","Retail Lending Executive","Corporate Administration","Dustin Symes","EVP","Retail Lending Executive","Corporate Administration","2015","N/A","2362074"
+"C1 BANK","EVP/ Chief Credit Officer","Jerry Allen","EVP/ Chief Credit Officer- C1 Bank","2015","N/A","2362074"
+```

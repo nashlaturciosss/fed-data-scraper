@@ -1,0 +1,25 @@
+"Okay","I will extract the requested tables in CSV format."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"American Enterprise Bankshares","Jacksonville","2015","Frank Sutton McGehee,"Jr. Trust","ADM Family Ltd.","JAM Family Investment","MRM Family Ltd."","Common","210000","6.87%","3311631"
+"American Enterprise Bankshares","Jacksonville","2015","Mary LaFaye,"Vernon LaFaye Living Trust"","Common","234133","7.66%","3311631"
+"American Enterprise Bankshares","Jacksonville","2015","Carlton H. Spence Amended and Restated Revocable Trust","Common","160000","5.24%","3311631"
+"American Enterprise Bankshares","Jacksonville","2015","V. Hawley Smith,"Jr."","Common","132640","4.31%","3311631"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"American Enterprise Bankshares","Director and President","Bennett Brown","None","American Enterprise Bank","2015","N/A","3311631"
+"American Enterprise Bankshares","Director","Vernon A. LaFaye","VP & Director","Bold City Investments","2015","Certified Public Accountant","3311631"
+"American Enterprise Bankshares","Director","Richard Martin","None","American Enterprise Bank","2015","N/A","3311631"
+"American Enterprise Bankshares","Director","F. Sutton McGehee","Jr.","Chairman and CEO","Mac Papers","Inc","2015","President","3311631"
+"American Enterprise Bankshares","Director","Emil Clayton Lyons","Lyons and Lyons","CPA","Lyons and Lyons","CPA","2015","Certified Public Accountant","3311631"
+"American Enterprise Bankshares","Director","Jim Linn","ERA Davis and Linn Realty","Anne S. Melton","INC. DBA ERA Davis and Linn Realty","2015","Realtor","3311631"
+"American Enterprise Bankshares","Director","Jim England","Retired Chairman and CEO","England","Thims and Miller","2015","Professional Engineer","3311631"
+"American Enterprise Bankshares","Director","Steven Bacalis","President and CEO Tom Nehl Truck Company","Tom Nehl Truck Co","2015","Director","3311631"
+"American Enterprise Bankshares","Director","David E. Kight","Simba Partners","LLC","COO Akida Holdings","LLC","2015","Director","3311631"
+"American Enterprise Bankshares","Director","Jeff Bogan","None","JSB Holdings","2015","Director","3311631"
+"American Enterprise Bankshares","CFO","Secretary","Treasurer","T. Edwin Stinson Jr.","None","American Enterprise Bank","2015","N/A","3311631"
+"American Enterprise Bankshares","Director","Joel Chamberlain","Chamberlain & Assoc. PA","Chamberlain & Assoc. PA","2015","Certified Public Accountant","3311631"
+```

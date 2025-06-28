@@ -1,0 +1,20 @@
+"Okay","I'm ready. Here are the two tables extracted from the provided FR Y-6 document","formatted as CSV and labeled as requested."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ABB Financial Group","Atlanta","2014","Serguei Kouzmine","Common","170000","9.03%",""
+"ABB Financial Group","Atlanta","2014","James R. Henderson","Common","125000","6.64%",""
+"ABB Financial Group","Atlanta","2014","Serguei Kouzmine","Preferred","3000","100.00%",""
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Affinity Bank","Director","Edward J. Cooney","President/Director","Affinity Bank","2014","President/Director",""
+"Affinity Bank","Director","Leeman Bennett","Director","Affinity Bank","2014","NA",""
+"Affinity Bank","Director","Frank A. Clayton","Owner","Clayton Dental","PC","2014","Owner",""
+"Affinity Bank","SVP/CFO","Brandi Pajot","SVP/CFO","Affinity Bank","2014","SVP/CFO",""
+"Affinity Bank","Director","Jeffrey R. Lake","President","Dixie Electric Company","2014","President",""
+"Affinity Bank","Chairman","Robert C. McMahan","Chairman","Affinity Bank","2014","NA",""
+"Affinity Bank","Director","Wayne V. Mitsch","President","Kaiser","Mitsch & Associates","2014","President",""
+"Affinity Bank","EVP/CCO","Clark N. Nelson","EVP/CCO","Affinity Bank","2014","NA",""
+```

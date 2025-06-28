@@ -1,0 +1,22 @@
+"Okay","I'm ready to extract the data into the requested CSV format.  Here are the two tables generated from the provided FR Y-6 form for Alamerica BancCorp","Inc. Fiscal Year Ending 12/31/19."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Alamerica BancCorp","Birmingham","12/31/2019","Donald V. Watkins (c/o Claudia R. Watkins)","common","473089","47.31%",""
+"Alamerica BancCorp","Birmingham","12/31/2019","Clarissa B. Harms","common","115735","11.57%",""
+"Alamerica BancCorp","Birmingham","12/31/2019","Daryl E Harms Irrevocable Trust for Hannah K. Harms","common","33079","3.31%",""
+"Alamerica BancCorp","Birmingham","12/31/2019","Daryl E Harms Irrevocable Trust for Emma E. Harms","common","33079","3.31%",""
+"Alamerica BancCorp","Birmingham","12/31/2019","Lawrence R. Tate","common","179078","17.91%",""
+"Alamerica BancCorp","Montgomery","12/31/2019","Kenneth L. Thomas","common","120496","12.05%",""
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Alamerica Bank","Shareholder","Donald V. Watkins","Entrepreneur","Alamerica BancCorp","12/31/2019","Entrepreneur",""
+"Alamerica Bank","Director & President/CEO","Lawrence R. Tate","Director","Alamerica BancCorp","12/31/2019","N/A",""
+"Alamerica Bank","Shareholder","Clarissa B. Harms","Entrepreneur","Alamerica BancCorp","12/31/2019","Entrepreneur",""
+"Alamerica Bank","Shareholder","Kenneth L. Thomas","Chief Legal Counsel AL State University","Alamerica BancCorp","12/31/2019","N/A",""
+"Alamerica Bank","Chairman of the Board","Mike C. Weaver","Consultant","Alamerica BancCorp","12/31/2019","Consultant",""
+"Alamerica Bank","Director","Jacqueline Anderson Smith","Jefferson County Circuit Clerk","Alamerica BancCorp","12/31/2019","N/A",""
+"Alamerica Bank","Secretary/Treasurer","Kent McGriff","N/A","Alamerica BancCorp","12/31/2019","N/A",""
+```

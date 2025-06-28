@@ -1,0 +1,29 @@
+"Okay","I'm ready to extract the requested tables from the provided FR Y-6 form data and output them in CSV format."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Beauregard Bancshares","Inc.","DeRidder","2017","Bailey Living Trust of 1996,"Victoria B. Bailey","Trustee"","Common Stock","11071","10",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Gary and Betty Blackmon","Common Stock","7731","7",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Carroll A. Green","Common Stock","18072","29",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Marjorie W. Green","Common Stock","10660","",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Brant A. Green","Common Stock","1136","",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Mandy G. Green","Common Stock","1000","",""
+"Beauregard Bancshares","Inc.","Phippsburg","2017","Eleanor Lynn Kay","Common Stock","6551","6",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Stuart S. Kay","Jr.","Common Stock","6654","18",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Judith S. Kay","Common Stock","3910","",""
+"Beauregard Bancshares","Inc.","Dallas","2017","David Shepard Kay","Common Stock","4680","",""
+"Beauregard Bancshares","Inc.","Austin","2017","Geoffrey Scot Kay","Common Stock","4680","",""
+"Beauregard Bancshares","Inc.","DeRidder","2017","Millard E. Morris","Common Stock","5323","5",""
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Beauregard Bancshares","Inc.","Director","Bailey Living Trust of 1996","Director","Beauregard Federal Savings Bank","2017","Victoria M,"Bailey","Trustee Retired Banker"",""
+"Beauregard Bancshares","Inc.","Director","Chairman","President","Carroll A. Green","Director","Chairman President","Beauregard Federal Savings Bank","2017","N/A",""
+"Beauregard Bancshares","Inc.","Director","Principal Shareholder","Judy S. Kay","Director","Principal Shareholder","Beauregard Federal Savings Bank","2017","Retired Teacher",""
+"Beauregard Bancshares","Inc.","Director","Principal Shareholder","Stuary S. Kay,"Jr."","Director","Principal Shareholder","Beauregard Federal Savings Bank","2017","Retired Judge",""
+"Beauregard Bancshares","Inc.","Director","Gary Blackmon","Director","Beauregard Federal Savings Bank","2017","Car Dealership,"Firearms"",""
+"Beauregard Bancshares","Inc.","Director","James David Cain","Director","Beauregard Federal Savings Bank","2017","Retired",""
+"Beauregard Bancshares","Inc.","Director","Brant Green","Director","Beauregard Federal Savings Bank","2017","Self-Employed",""
+"Beauregard Bancshares","Inc.","Director","Rafael Webb Stark","Director","Executive","V.P.","Beauregard Federal Savings Bank","2017","N/A",""
+```

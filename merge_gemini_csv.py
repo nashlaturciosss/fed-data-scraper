@@ -4,8 +4,8 @@ import csv
 
 # === config ===
 INPUT_FOLDER = "gemini_outputs"
-INSIDERS_OUTPUT = "all_insiders.csv"
-SECURITIES_OUTPUT = "all_securities_holders.csv"
+INSIDERS_OUTPUT = "all_insiders_Atlanta.csv"
+SECURITIES_OUTPUT = "all_securities_holders_Atlanta.csv"
 
 # === headers ===
 INSIDERS_HEADER = ["Bank", "Internal Title", "Person", "External Title", "Affiliation", "Fiscal Year","Occupation", "RSSD_ID" ]
@@ -77,3 +77,4 @@ with open(INSIDERS_OUTPUT, "w", newline="", encoding="utf-8") as f:
 
 print(f"\nMerged {len(all_securities)} securities holders and {len(all_insiders)} insiders from {file_counter} files.")
 print(f" Output written to: {SECURITIES_OUTPUT}, {INSIDERS_OUTPUT}")
+ 

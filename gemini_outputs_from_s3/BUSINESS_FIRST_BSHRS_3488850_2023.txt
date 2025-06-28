@@ -1,0 +1,29 @@
+"Okay","here's the extraction of the requested data from the provided FR Y-6 form","formatted as CSV with the specified column names."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Business First Bancshares","New York","2023","The Deposit Trust Company","Common Stock","18275314","71.11%","3488850"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"b1BANK","Director","James J. Buquet,"III"","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Carol M. Calkins","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Ricky D. Day","Director","b1BANK","2023","Forestry","3488850"
+"b1BANK","Director","John Ducrest","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Mark Folse","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Robert Greer","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","J. Vernon Johnson","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Rolfe H. McCollister,"Jr"","Director","b1BANK","2023","Retired","3488850"
+"b1BANK","Director","Andrew D. McLindon","Director","b1BANK","2023","General Contractor","3488850"
+"b1BANK","President,"Chief Executive Officer and Director"","David Melville. III","President,"Chief Executive Officer"","b1BANK","2023","N/A","3488850"
+"b1BANK","Director","Patrick E. Mockler","Director","b1BANK","2023","President of Beverage Distributor","3488850"
+"b1BANK","Director","David Montgomery","Director","b1BANK","2023","Insurance","3488850"
+"b1BANK","Director","Arthur Price","Director","b1BANK","2023","President / CFO of Oil Company","3488850"
+"b1BANK","Director","Aimee Quirk","Director","b1BANK","2023","SVP and Chief Corporate Development Officer for Ochsner Health and Chief Executive Officer of Oshsner Ventures","3488850"
+"b1BANK","Chief Financial Officer,"Treasurer and Principal Financial Officer"","Gregory Robertson","N/A","b1BANK","2023","N/A","3488850"
+"b1BANK","Director","Kenneth Smith","Director","b1BANK","2023","Engineer","3488850"
+"b1BANK","Executive Vice President and General Counsel","Saundra Strong","N/A","b1BANK","2023","N/A","3488850"
+"b1BANK","Director","Keith Tillage","Director","b1BANK","2023","Construction","3488850"
+"b1BANK","Director","Steve White","Director","b1BANK","2023","Executive Management","3488850"
+```

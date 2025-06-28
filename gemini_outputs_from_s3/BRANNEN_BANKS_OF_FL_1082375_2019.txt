@@ -1,0 +1,15 @@
+"OK","here are the two tables you requested in CSV format."
+### SECURITIES HOLDERS CSV
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Brannen Banks of Florida","Inverness","2019","Joseph S. Brannen","Common","6756.09","67.6%",""
+"Brannen Banks of Florida","Inverness","2019","Margaret Brannen Hagar","Common","3243.91","32.4%",""
+```
+### INSIDERS CSV
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Brannen Banks of Florida","Director/Chairman and General Counsel","Joseph S. Brannen","Director/Chairman","Brannen Bank","2019","N/A",""
+"Brannen Banks of Florida","Director","Margaret Brannen Hagar","Director","Brannen Bank","2019","N/A",""
+"Brannen Banks of Florida","EVP","G. Matt Brannen","Director/President","Brannen Bank","2019","N/A",""
+"Brannen Banks of Florida","CFO","Michael T. Fitzpatrick","EVP/CFO","Brannen Bank","2019","N/A",""
+```

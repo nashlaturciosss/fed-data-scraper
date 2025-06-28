@@ -1,0 +1,30 @@
+"Okay","I'm ready to extract the data from the provided document and format it into CSV. Here are the two tables in CSV format","based on the provided FR Y-6 form content:"
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Atlantic Capital Bancshares","Baltimore","2018","T. Rowe Price Associates","Inc.","Common Stock","3702136","14.1%",""
+"Atlantic Capital Bancshares","Chicago","2018","RMB Capital Holdings","LLC","Common Stock","2042358","7.82%",""
+"Atlantic Capital Bancshares","New York","2018","BlackRock","Inc.","Common Stock","1459311","5.6%",""
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+"Atlantic Capital Bank","Director & Chief Executive Officer","Douglas L. Williams","","Holding Company","2018","N/A",""
+"Atlantic Capital Bank","Chief Financial Officer","Patrick T. Oakes","","Holding Company","2018","N/A",""
+"Atlantic Capital Bank","Executive Vice President - General Banking Division","Richard A. Oglesby","Jr.","","Holding Company","2018","N/A",""
+"Atlantic Capital Bank","Director & Chairman","Walter M. Deriso","Jr.","","Holding Company","2018","N/A",""
+"Atlantic Capital Bank","Director","Henchy R. Enden","Equity Analyst","Investment Management","2018","Investment Management",""
+"Atlantic Capital Bank","Director","James H. Graves","Managing Director & Partner","Management Consulting","2018","Management Consulting",""
+"Atlantic Capital Bank","Director","Douglas J. Hertz","President & Chief Executive Officer","Beverage Distribution","2018","Beverage Distribution",""
+"Atlantic Capital Bank","Director","Larry D. Mauldin","Chief Executive Officer","Real Estate Investment & Management","2018","Real Estate Investment & Management",""
+"Atlantic Capital Bank","Director","R. Charles Shufeldt","Senior Advisor","Investment Management","2018","Investment Management",""
+"Atlantic Capital Bank","Director","Lizanne Thomas","Partner-in-Charge of the Southern Region","Attorney","2018","Attorney",""
+"Atlantic Capital Bank","Director","Mariette Edmunds Zakas","Director","Corporate Management","2018","Corporate Management",""
+"Atlantic Capital Bank","Executive Vice President & Chief Financial Officer","Robert Bugbee","","N/A","2018","N/A",""
+"Atlantic Capital Bank","Executive Vice President & Chief Credit Officer","Kurt Shreiner","","N/A","2018","N/A",""
+"Atlantic Capital Bank","Executive Vice President - Corporate Financial Services Division","Gary Fleming","","N/A","2018","N/A",""
+"Atlantic Capital Bank","Executive Vice President & Chief Risk Officer","Annette Rollins","","N/A","2018","N/A",""
+"Atlantic Capital Bank","Executive Vice President & Chief Human Resources Officer","T. Rowe Price Associates","Inc.","","N/A","2018","N/A",""
+"Atlantic Capital Bank","","","RMB Capital Holdings","LLC","","N/A","2018","N/A",""
+"Atlantic Capital Bank","","","BlackRock","Inc.","","N/A","2018","N/A",""
+```

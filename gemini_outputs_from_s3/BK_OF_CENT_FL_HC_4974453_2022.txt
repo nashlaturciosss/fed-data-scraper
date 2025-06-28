@@ -1,0 +1,9 @@
+"Okay","I will extract the requested information and present it in CSV format. Since the document doesn't contain a Securities Holders Table or an Insiders Table","I will create these tables with just the headers."
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","RSSD_ID"
+```
