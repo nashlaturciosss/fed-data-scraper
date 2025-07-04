@@ -35,14 +35,14 @@ for key in pdf_files:
     try:
         url = generate_presigned_url_cli(BUCKET_NAME, key, EXPIRATION_TIME)
         presigned_urls.append(url)
-        print(f"✅ Generated: {url}")
+        print(f" Generated: {url}")
     except Exception as e:
-        print(f"❌ Failed to generate URL for {key}: {e}")
+        print(f" Failed to generate URL for {key}: {e}")
 
 with open('temp_presigned_urls.json', 'w') as f:
     json.dump(presigned_urls, f, indent=2)
 
-print("\n✅ All URLs saved to temp_presigned_urls.json")
+print("\n All URLs saved to temp_presigned_urls.json")
 
 # === Setup Gemini ===
 client = genai.Client(api_key=GENAI_API_KEY)
@@ -111,7 +111,7 @@ for i, url in enumerate(pdf_urls, start=1):
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(cleaned_output)
 
-        print(f"✅ Output saved to: {output_path}")
+        print(f" Output saved to: {output_path}")
         time.sleep(1)
 
     except httpx.HTTPStatusError as e:
@@ -119,12 +119,12 @@ for i, url in enumerate(pdf_urls, start=1):
             print("⚠️ Rate limit hit (HTTP 429). Stopping further requests.")
             break
         else:
-            print(f"❌ HTTP error {e.response.status_code}: {e}")
+            print(f" HTTP error {e.response.status_code}: {e}")
             break
 
     except Exception as e:
-        print(f"❌ Failed to process {url}: {e}")
+        print(f" Failed to process {url}: {e}")
         continue
 
 end_time = time.time()  # 👈 Add this here
-print(f"\n⏱️ Total processing time: {round(end_time - start_time, 2)} seconds")
+print(f"\n Total processing time: {round(end_time - start_time, 2)} seconds")
