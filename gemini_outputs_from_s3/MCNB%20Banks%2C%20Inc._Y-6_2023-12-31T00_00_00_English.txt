@@ -1,0 +1,13 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"MCNB Banks INC","Welch","WV","2023","n/a","99080","9.176%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"MCNB Banks INC","Director","Ronald D. Hassan","Attorney","Hassan Law Office","2023","Attorney/Hassan Law","1","n/a","n/a"
+"MCNB Banks INC","Director & Chairman","William Horne","Owner","Horne Holdings LLC","2023","Owner","2","n/a","100%"
+"MCNB Banks INC","President & CEO","John P. Reed","n/a","n/a","2023","n/a","1","n/a","n/a"
+"MCNB Banks INC","Director","Martha Callaway","Volunteer Coordinat","Welch Community Hospital","2023","Volunteer Coordinator","1","n/a","n/a"
+```

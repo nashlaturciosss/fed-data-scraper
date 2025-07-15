@@ -1,0 +1,29 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"River Valley Bancorporation","Inc.","Director & President","Todd Nicklaus","Partner","Riverside Place","2023","Bank Owner","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & President","Todd Nicklaus","Partner","Desire for Sires","2023","Bank Owner","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & President","Todd Nicklaus","Partner","Oak Ridge","2023","Bank Owner","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & President","Todd Nicklaus","Director","IncredibleBank Foundation","2023","Bank Owner","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & President","Todd Nicklaus","Director","Greenheck Fan Corp","2023","Bank Owner","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & Treasurer","Gregory Nicklaus","Partner","Riverside Place","2023","Bank Owner","n/a","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & Treasurer","Gregory Nicklaus","Partner","Desire for Sires","2023","Bank Owner","n/a","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & Treasurer","Gregory Nicklaus","Partner","Oak Ridge","2023","Bank Owner","n/a","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & Treasurer","Gregory Nicklaus","Director","IncredibleBank Foundation","2023","Bank Owner","n/a","50%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director","Michael Nicklaus","n/a","n/a","2023","College Student","0%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director","Tanner Nicklaus","n/a","n/a","2023","Owner,"Air Crop"","0%","1209426","n/a"
+"River Valley Bancorporation","Inc.","Director & Chairman","Todd Nagel","n/a","n/a","2023","President/ CEO IncredibleBank","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Mark Forbis","Director","Teslar Software","2023","Retired Chief Technology Officer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Mark Forbis","Director","Citizens Bank (Batesville","AR)","2023","Retired Chief Technology Officer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Mark Forbis","Director","Digital Check Corp","2023","Retired Chief Technology Officer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Mark Forbis","Director","InvestorKeep","2023","Retired Chief Technology Officer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Mark Forbis","Director","Allied Payments Network Board","2023","Retired Chief Technology Officer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Gary Stroyny","Director","Weinbrenner Shoe Co.","2023","Retired COO","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director","Gary Stroyny","Director","Greenheck Fan Corp.","2023","Retired COO","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director & Secretary","Stewart Etten","Partner","Ruder Ware","2023","Retired Lawyer","0%","1209426","0%"
+"River Valley Bancorporation","Inc.","Director & Vice Chairman","Glendon Peterson","n/a","n/a","2023","CFO","0%","1209426","0%"
+```

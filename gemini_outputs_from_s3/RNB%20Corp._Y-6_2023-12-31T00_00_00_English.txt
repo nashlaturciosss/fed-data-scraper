@@ -1,0 +1,24 @@
+```csv
+"SECURITIES HOLDERS CSV"
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"RNB Corp.","Terre Haute,"IN"","2023","Trenton Michael Early","Common Stock","28796","6.53%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","Joseph C. Riddell","Common Stock","34584","7.85%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","John E. Eder","Common Stock","13001","2.95%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","Lori L. Riddell","Common Stock","34584","7.85%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","John P. Tilley","Common Stock","33938","7.70%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","Samuel J. and Janet Trout","Common Stock","36638","8.31%","1141478"
+"RNB Corp.","Brazil,"IN"","2023","Carol J. Eder","Common Stock","2285","0.52%","1141478"
+"RNB Corp.","Brownsburg,"IN"","2023","Jonna J. Eder-Duke","Common Stock","4008","0.91%","1141478"
+"RNB Corp.","Brownsburg,"IN"","2023","Joshua K. Duke","Common Stock","312","0.07%","1141478"
+```
+```csv
+"INSIDERS CSV"
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"RNB Corp.","Director & Chairman","John C. Coughanowr","n/a","n/a","2023","Retired","1.57%","1141478","n/a"
+"RNB Corp.","Director","Tanya J. Kessinger","n/a","n/a","2023","CPA","0.86%","1141478","n/a"
+"RNB Corp.","Director & President & CEO","W. Steven Kidwell","n/a","n/a","2023","n/a","1.52%","1141478","n/a"
+"RNB Corp.","Director & Secretary","H. Michael Lawson","n/a","n/a","2023","Retired","0.49%","1141478","n/a"
+"RNB Corp.","Director","Dr. Gary W. Nesty,"OD"","President","SolarBat Enterprises,"Inc."","2023","Optometrist","0.11%","1141478","n/a"
+"RNB Corp.","Director","David O. Thomas","n/a","n/a","2023","Attorney","0.07%","1141478","n/a"
+"RNB Corp.","Director","John P. Tilley","n/a","n/a","2023","Retired","7.70%","1141478","n/a"
+```

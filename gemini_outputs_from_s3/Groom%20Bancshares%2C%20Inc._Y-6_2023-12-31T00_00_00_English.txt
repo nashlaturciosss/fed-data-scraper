@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Groom Bancshares,"Inc."","Panhandie,"Texas"","2023","Sheri S. Urbanczyk","common stock","241.11","1%","n/a"
+"Groom Bancshares,"Inc."","Panhandie,"Texas"","2023","Sheri S. Urbanczyk GST Exempt Trust","common stock","205","9.50%","n/a"
+"Groom Bancshares,"Inc."","Amarillo,"Texas"","2023","Mark & Cenee Graham","Common Stock","198.33","9.19%","n/a"
+"Groom Bancshares,"Inc."","Groom,"Texas"","2023","William N. Stewart","Common Stock","108.33","5.02%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Groom Bancshares,"Inc."","President and Chairman","Dustin Sloan","Director","State National Bank of Groom","2023","Banker","0.28%","n/a","0.00%"
+"Groom Bancshares,"Inc."","President and Chairman","Dustin Sloan","Director","Agri-Credit of Groom,"Inc."","2023","Banker","0.28%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Ken Burger","Owner","DK Land & Cattle,"Inc."","2023","Farmer/Stockman","2.31%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Ken Burger","n/a","Ken R. Burger","2023","Farmer/Stockman","2.31%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Ken Burger","Secretary","ANOROC Oil & Gas Corp.","2023","Farmer/Stockman","2.31%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Ken Burger","Limited Partner","Carson County Gin","2023","Farmer/Stockman","2.31%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Ken Burger","Shareholder","Lonestar Gin LP","2023","Farmer/Stockman","2.31%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Bart Boren","Director","State National Bank of Groom","2023","Oil & Gas","2.97%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Bart Boren","Director","Agri-Credit of Groom,"Inc."","2023","Oil & Gas","2.97%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Secretary and Director","Sheri Urbanczyk","Director","State National Bank of Groom","2023","Investor","1.11%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Secretary and Director","Sheri Urbanczyk","Director","Agri-Credit of Groom,"Inc."","2023","Investor","1.11%","n/a","0.00%"
+"Groom Bancshares,"Inc."","President","Deke Alexander","n/a","State National Bank of Groom","2023","Investments/Banking","2.70%","n/a","0.00%"
+"Groom Bancshares,"Inc."","President","Deke Alexander","n/a","Agri-Credit of Groom,"Inc."","2023","Investments/Banking","2.70%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Lance Ollinger","n/a","State National Bank of Groom","2023","Investments/Banking","4.83%","n/a","0.00%"
+"Groom Bancshares,"Inc."","Director","Lance Ollinger","n/a","Agri-Credit of Groom,"Inc."","2023","Investments/Banking","4.83%","n/a","0.00%"
+```

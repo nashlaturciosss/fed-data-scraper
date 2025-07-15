@@ -1,0 +1,14 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Citizens Bancshares,"Inc."","Director","Janelle Snodgrass","n/a","n/a","2023","Investments",".753","n/a","None"
+"Citizens Bancshares,"Inc."","Director/ President/Chairman","Max Ham","n/a","n/a","2023","Banker","17.793","n/a","None"
+"Citizens Bancshares,"Inc."","Director","Kim Eudy","n/a","n/a","2023","Housewife","36.780","n/a","None"
+"Citizens Bancshares,"Inc."","Director","Chase Ham","n/a","n/a","2023","Banker","42.92","n/a","None"
+"Citizens Bancshares,"Inc."","Director","Kathryn Ham","n/a","n/a","2023","Housewife","0.00","n/a","None"
+"Citizens Bancshares,"Inc."","n/a","Ron Eudy","n/a","CNB Crosbyton","2023","Attorney","n/a","n/a","4.072"
+```

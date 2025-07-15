@@ -1,0 +1,9 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"MARINE BANCSHARES","INC.","PRESIDENT","ADAM WOJTOWICZ","n/a","n/a","2024","n/a","n/a","2734028","n/a"
+```

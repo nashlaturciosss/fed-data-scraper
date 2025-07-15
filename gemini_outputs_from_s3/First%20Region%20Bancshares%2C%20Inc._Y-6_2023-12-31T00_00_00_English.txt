@@ -1,0 +1,36 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","George W. McCall III","n/a","78677","10.53%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","First Sentinel Bank – ESOP","n/a","62640","8.38%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Trustee for the First Sentinel Bank ESOP: George W. McCall III","n/a","141317","18.91%","n/a"
+"First Region Bancshares,"Inc."","Bland,"VA"","2023","Trustee for the First Sentinel Bank ESOP: John C. Thompson","n/a","66440","8.89%","n/a"
+"First Region Bancshares,"Inc."","Tazewell,"VA"","2023","Trustee for the First Sentinel Bank ESOP: Scott C. Cole","n/a","66891","8.95%","n/a"
+"First Region Bancshares,"Inc."","Grundy,"VA"","2023","Trustee for the First Sentinel Bank ESOP: Phillip C. Justice,"Jr."","n/a","83318","11.15%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Kathryn M. Culpepper","n/a","47162","6.31%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Sue Peters,"Trustee"","n/a","21215","2.84%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Cust. For Ava M. Peters"","n/a","543","0.07%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Cust. For Ely Sue Peters"","n/a","543","0.07%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Cust. For Jena S. Peters"","n/a","543","0.07%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Cust. For William Clay Peters"","n/a","543","0.07%","n/a"
+"First Region Bancshares,"Inc."","Richlands","2023","Vera Sue Peters,"Trustee"","n/a","5620","0.75%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Trustee Eric Peters Trust"","n/a","6145","0.82%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Vera Sue Peters,"Trustee William Chadwick Peters Trust"","n/a","5620","0.75%","n/a"
+"First Region Bancshares,"Inc."","Richlands,"VA"","2023","Sue Peters,"Trustee"","n/a","17000","2.27%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First Region Bancshares,"Inc."","Executive Chairman; Chairman of the Board; Director","George W. McCall","Vice President","E. Morgan Farms","2023","n/a","10.53%","n/a","n/a"
+"First Region Bancshares,"Inc."","Executive Chairman; Chairman of the Board; Director","George W. McCall","Manager","Hiram Farms","2023","n/a","10.53%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director/Vice Chairman","A. G. Brewster","Director/Vice Chairman","First Sentinel Bank","2023","Retired Businessman","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","John D. Jessee","n/a","n/a","2023","Vice Pres./CFO","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","President/CEO; Director","John C. Thompson","President","T & T Developers,"Inc."","2023","N/A","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Scott C. Cole","Owner","Olde Virginia Pharmacy","2023","Pharmacist","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Scott C. Cole","President","Dominion Alternative Energy,"LLC"","2023","Pharmacist","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Scott C. Cole","Manager","Spruce Pine Renewables","2023","Pharmacist","Less than 1%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Phillip C. Justice,"Jr."","President","Justice Law Office","2023","Lawyer","2.77%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Phillip C. Justice,"Jr."","President","Contract Leasing","2023","Lawyer","2.77%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","Phillip C. Justice,"Jr."","Secretary/Treasurer","E. Morgan Farms","2023","Lawyer","2.77%","n/a","n/a"
+"First Region Bancshares,"Inc."","Director","John J. Breedlove","n/a","n/a","2023","Retired General Manager","Less than 1%","n/a","n/a"
+```

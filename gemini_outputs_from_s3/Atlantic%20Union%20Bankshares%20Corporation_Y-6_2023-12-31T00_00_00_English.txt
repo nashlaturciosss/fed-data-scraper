@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Atlantic Union Bankshares","New York,"NY"","2023","BlackRock,"Inc."","Common Stock","10703008","14.3%","n/a"
+"Atlantic Union Bankshares","Malvern,"PA"","2023","Vanguard Group Inc.","Common Stock","9290826","12.4%","n/a"
+"Atlantic Union Bankshares","Austin,"TX"","2023","Dimensional Funds Advisor,"L.P."","Common Stock","4917690","6.6%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Atlantic Union Bankshares","Chief Executive Officer","John Asbury","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Patrick E. Corbin","Managing Shareholder","Corbin Company,"P.C."","2023","President","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Frank Russell Ellett","n/a","Excel Truck Group","2023","Managing Shareholder","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Rilla Delorier","n/a","n/a","2023","Director","<1%","n/a","n/a"
+"Atlantic Union Bankshares","President","Paul Engola","Deputy Group President of the Dynetics Group of Leidos Holdings,"Inc."","Leidos","2023","Executive Vice President","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Vice President","Donald R. Kimble,"Jr."","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Patrick J. McCann","Vice Chairman of the Board","n/a","2023","Executive Vice President","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Vice President","Michelle A. O'Hara","n/a","Science Applications International Corporation,"Inc."","2023","Chief Human Resources Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Thomas P. Rohman","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Linda V. Schreiner","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Thomas G. Snead,"Jr."","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Chairman of the Board","Ronald L. Tillett","Managing Director and Head -Mid-Atlantic Public Finance,"Raymond James & Associates","Inc."","Raymond James & Associates,"Inc."","2023","Managing Director","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","Keith L. Wampler","Partner","PBMares,"LLP"","2023","Certified Public Accountant","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Director","F. Blair Wimbush","n/a","n/a","2023","n/a","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Chief Financial Officer","Robert M. Gorman","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","President and Chief Operating Officer","Maria Tedesco","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Rachael R. Lape","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Matt Linderman","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Clare Miller","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Shawn E. O'Brien","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","David V. Ring","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Sherry Williams","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+"Atlantic Union Bankshares","Executive Officer","Douglas F. Wooley","n/a","n/a","2023","Executive Officer","<1%","n/a","n/a"
+```

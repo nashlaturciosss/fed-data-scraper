@@ -1,0 +1,34 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Captex Bancshares,"Inc."","DALLAS,"TEXAS"","2023","CLOVER PARTNERS SSI FUND LP","common stock","550768","15.95%","n/a"
+"Captex Bancshares,"Inc."","NEWTON CENTRE,"MASSACHUSETTS"","2023","BAYBOSTON CAPITAL LP","common stock","372500","10.79%","n/a"
+"Captex Bancshares,"Inc."","HOUSTON,"TEXAS"","2023","CPTX FLP HOLDINGS,"LLC"","common stock","261235","7.57%","n/a"
+"Captex Bancshares,"Inc."","HOUSTON,"TEXAS"","2023","HOUSTON SPECIALTY INSURANCE CO","common stock","197000","5.70%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Captex Bancshares,"Inc."","CHAIRMAN/CEO","GEORGE LEA","n/a","CAPTEX BANCSHARES,"INC"","2023","BANKER","4.19%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","GEORGE LEA","n/a","CAPTEX BANK","2023","BANKER","4.19%","n/a","n/a"
+"Captex Bancshares,"Inc."","PRESIDENT","MIKE THOMAS","n/a","CAPTEX BANCSHARES,"INC."","2023","BANKER","3.98%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","MIKE THOMAS","n/a","CAPTEX BANK","2023","BANKER","3.98%","n/a","n/a"
+"Captex Bancshares,"Inc."","SEC/TREASURER","RICHARD BARAJAS","n/a","CAPTEX BANCSHARES,"INC."","2023","BANKER","3.04%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","RICHARD BARAJAS","n/a","CAPTEX BANK","2023","BANKER","3.04%","n/a","n/a"
+"Captex Bancshares,"Inc."","SHAREHOLDER","KEELY STONE","n/a","CAPTEX BANCSHARES,"INC."","2023","BANKER","0.29%","n/a","n/a"
+"Captex Bancshares,"Inc."","EVP/COO","KEELY STONE","n/a","n/a","2023","BANKER","0.29%","n/a","n/a"
+"Captex Bancshares,"Inc."","SHAREHOLDER","LARRY BENNETT","n/a","CAPTEX BANCSHARES,"INC."","2023","BANKER","0.20%","n/a","n/a"
+"Captex Bancshares,"Inc."","EVP/CFO","LARRY BENNETT","n/a","AGGIEBACK,"LLC"","2023","BANKER","0.20%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","MICHAEL FISCHER","n/a","CAPTEX BANCSHARES,"INC."","2023","PRIVATE EQUITY EXECUTIVE","0.0029%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","MARK WELSH,"IV"","n/a","CAPTEX BANCSHARES,"INC."","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","CEO","MARK WELSH,"IV"","n/a","BEAR GROUP LLC","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","MANAGER","MARK WELSH,"IV"","n/a","BEAR RESERVE LLC","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","MANAGER","MARK WELSH,"IV"","n/a","BEAR MAN CAPITAL LLC","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","MANAGER","MARK WELSH,"IV"","n/a","SENIOR BOOTS LLC","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","ADVISOR","MARK WELSH,"IV"","n/a","VARIABLE CUTTING EDGE AI,"INC DBA TOREN AI"","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","MARK WELSH,"IV"","n/a","VARIABLE VOSBURG WELSH LLC","2023","PRIVATE EQUITY EXECUTIVE","2.42%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","TONY SCHELL","n/a","CAPTEX BANCSHARES,"INC."","2023","PRIVATE EQUITY EXECUTIVE","1.05%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","JAMES CONE","n/a","CAPTEX BANCSHARES,"INC."","2023","MANAGES FAMILY OWNED BUSINESS","2.27%","n/a","n/a"
+"Captex Bancshares,"Inc."","MANAGER","JAMES CONE","n/a","CONE MINERALS,"LLC"","2023","MANAGES FAMILY OWNED BUSINESS","2.27%","n/a","n/a"
+"Captex Bancshares,"Inc."","DIRECTOR","EDWARD H. ELLIS,"JR"","n/a","CAPTEX BANCSHARES,"INC."","2023","RETIRED INSURANCE EXECUTIVE","1.38%","n/a","n/a"
+```

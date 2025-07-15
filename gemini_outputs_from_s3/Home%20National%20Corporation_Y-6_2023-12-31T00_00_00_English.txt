@@ -1,0 +1,17 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Home National Corporation","Bellevue,"WA"","2023","David T. Barker","Common","800","3.59%","1133183"
+"Home National Corporation","Aurora,"CO"","2023","Phillip S. Barker","Common","680","3.05%","1133183"
+"Home National Corporation","Costa Mesa,"CA"","2023","Sharon Dearing","Common","1200","5.39%","1133183"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Home National Corporation","Director","W. Todd Byrd","President/CEO","n/a","2023","Bank President","0.22%","1133183","n/a"
+"Home National Corporation","Vice Chairman,"Director"","Jeff W Welty","Director","n/a","2023","Consultant","0.22%","1133183","n/a"
+"Home National Corporation","Director","Brad Scott","Owner","Brad Scott CPA","2023","CPA","1.37%","1133183","n/a"
+"Home National Corporation","Chairman,"Director"","Michael Thrine","Owner","Thrine Construction","2023","Construction","3.48%","1133183","n/a"
+"Home National Corporation","Vice Chairman","Kent Horlacher","Owner","Horlacher Farms","2023","Farmer","0.45%","1133183","n/a"
+"Home National Corporation","Secretary,"Director"","William Conley","Director","n/a","2023","Rural Electric Cooperative,"President and CEO"","0.45%","1133183","n/a"
+"Home National Corporation","Director","Mathew Hunt","Owner - Funeral Home","n/a","2023","Funeral Director","0.45%","1133183","n/a"
+"Home National Corporation","Director","Anne Patterson","Director","n/a","2023","Attorney","0.22%","1133183","n/a"
+```

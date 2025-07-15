@@ -1,0 +1,32 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Horizon Bancorp","New York","NY","2023","BlackRock Inc.","n/a","6182984","14.02%","n/a"
+"Horizon Bancorp","Malvern","PA","2023","The Vanguard Group","n/a","2239674","5.08%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Horizon Bank","Director","Kevin W. Ahern","Director","Brush Creek Partners,"LP"","2023","Private Equity Investments and Management","0.02%","n/a","0.00%"
+"Horizon Bank","Director","Eric P. Blackhurst","Director","The Dow Chemical Company","2023","Associate General Counsel","0.04%","n/a","0.00%"
+"Horizon Bank","Director","Lawrence E. Burnell","Vice Chairman","White Lodging Services Corp.","2023","Hotel Development & Management","0.09%","n/a","0.00%"
+"Horizon Bank","Ex VP & SOO","Kathie A. DeRuiter","n/a","None","2023","None","0.20%","n/a","0.00%"
+"Horizon Bank","Director
+"Chairman"","Craig M. Dwight","n/a","None","2023","None","1.19%","n/a","0.00%"
+"Horizon Bank","Director","James B. Dworkin","n/a","None","2023","None","0.11%","n/a","0.00%"
+"Horizon Bank","Ex VP & GC","Todd A. Etzler","n/a","Tassinong Properties,"LLC"","2023","Real Estate Investment","0.05%","n/a","0.00%"
+"Horizon Bank","Director","Julie Scheck Freigang","n/a","None","2023","None","0.02%","n/a","0.00%"
+"Horizon Bank","Ex VP & Sr CCO","Lynn M. Kerber","n/a","None","2023","None","0.06%","n/a","0.00%"
+"Horizon Bank","Director","Brian W. Maass","n/a","None","2023","None","0.00%","n/a","0.00%"
+"Horizon Bank","Director","Michelle M. Magnuson","n/a","None","2023","None","0.09%","n/a","0.00%"
+"Horizon Bank","Director","Peter L. Pairitz","President & Member","MC Enterprise Center,"LLC"","2023","Industrial Real Estate","0.51%","n/a","0.00%"
+"Horizon Bank","Director","Peter L. Pairitz","President & Member","MCL Acquisitions,"Inc"","2023","Industrial Real Estate","0.51%","n/a","0.00%"
+"Horizon Bank","Director","Peter L. Pairitz","Member","Dewars,"LLC"","2023","Industrial Real Estate","0.51%","n/a","0.00%"
+"Horizon Bank","Director","Peter L. Pairitz","Member","Dowagiac Creek,"LLC"","2023","Industrial Real Estate","0.51%","n/a","0.00%"
+"Horizon Bank","CEO & President","Thomas M. Prame","n/a","None","2023","None","0.05%","n/a","0.00%"
+"Horizon Bank","Director","Steven W. Reed","n/a","Springline Advisory LLC","2023","None","0.06%","n/a","0.00%"
+"Horizon Bank","Director","Steven W. Reed","n/a","Chadwick Gladstone Farms,"LLC"","2023","None","0.06%","n/a","0.00%"
+"Horizon Bank","Ex VP & CFO","Mark E. Secor","n/a","None","2023","Public Accounting","0.17%","n/a","0.00%"
+"Horizon Bank","Director","Vanessa P. William","n/a","Kelly Services,"Inc and Subsidiari"","2023","Talent Solutions","0.01%","n/a","0.00%"
+"Horizon Bank","None","BlackRock Inc","None","None","2023","None","14.02%","n/a","0.00%"
+```

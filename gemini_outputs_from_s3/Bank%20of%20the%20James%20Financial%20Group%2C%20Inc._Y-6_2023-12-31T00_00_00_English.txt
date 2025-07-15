@@ -1,0 +1,23 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Bank of the James Financial Group,"Inc."","St. Louis,"MO"","2023","Eidelman Virant Capital Inc","Common Stock","231980","5.01%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Bank of the James Financial Group,"Inc."","Director","Lewis C. Addison","n/a","Piedmont Community Health Plan,"Inc."","2023","Health Insurance","0.40%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","John R. Alford,"Jr."","Attorney - Partner","Caskie & Frost,"P.C."","2023","Attorney","0.55%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","William C. Bryant III","President","Counts Realty & Auction Group","2023","Auctioneer,"Appraiser","Realtor"","1.45%","n/a","None"
+"Bank of the James Financial Group,"Inc."","CEO - Bank of the James","Robert R. Chapman III","Director","Pettyjohn,"Wood and White"","2023","n/a","2.64%","n/a","None"
+"Bank of the James Financial Group,"Inc."","CEO - Bank of the James","Robert R. Chapman III","Director,"CEO"","BOTJ Investment Group,"Inc."","2023","n/a","2.64%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","A. Douglas Dalton III","Vice President","English Construction,"Inc."","2023","Construction","0.25%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","James F. Daly","Former President","Daly Seven,"Inc."","2023","Hotel Development and Management","2.82%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","Julie P. Doyle","n/a","n/a","2023","Research & Product Testing (Retired)","0.40%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","Watt R. Foster,"Jr."","President & CEO","Foster Fuels,"Inc."","2023","Wholesale & Retail Fuel Sales","2.77%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","Phillip C. Jamerson","Owner","n/a","2023","Construction","0.34%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","Lydia K. Langley","Owner","n/a","2023","Rental Real Estate","2.20%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director","Augustus A. Petticolas,"Jr."","Dentist","Dr. Augustus A. Petticolas,"Jr. General Dentistry"","2023","Dentist","0.06%","n/a","None"
+"Bank of the James Financial Group,"Inc."","Director & Chairman","Thomas W. Pettyjohn,"Jr."","n/a","n/a","2023","Investment Advisory (Retired)","0.40%","n/a","None"
+"Bank of the James Financial Group,"Inc."","EVP,"CFO","& Sec"","J. Todd Scruggs","Director & Chairman","Pettyjohn,"Wood and White"","2023","N/A","0.73%","n/a","None"
+```

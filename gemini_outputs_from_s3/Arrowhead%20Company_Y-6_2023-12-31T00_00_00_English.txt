@@ -1,0 +1,31 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Arrowhead Company","President & Director","Mary M. Moursund","General Partner","Moursund Limited","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Arrowhead Burbank","Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Arrowhead West Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Moursund insurance Agency","Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Moursund Law Offices","PC","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Southwest Moursund Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Rachlander Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Red-Eyes Stops","Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Mary S Moursund Land & Cattle Company","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Lakeland Investment Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","General Partner","Moursund Limited","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Arrowhead Burbank","inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Arrowhead West Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Moursund Insurance Agency","Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Moursund Law Offices","PC","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Southwest Moursund Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Rachlander Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Red-Eyes Stops","Inc","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Mary S Moursund Land & Cattle Company","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Lakeland Investment Corporation","2023","Attorney","50.00%","n/a","None"
+"Arrowhead Company","Director","Ingrid W Moursund","Vice-President & Director","Arrowhead Land Titles Inc","2023","Attorney","n/a","n/a","None"
+"Arrowhead Company","Secretary","Patsy Lewis","Advisory Director","Arrowhead Bank","2023","Legal Secretary","n/a","n/a","None"
+"Arrowhead Company","Director","Albert W Moursund","IV","Advisory Director","Arrowhead Bank","2023","Rancher","n/a","n/a","None"
+"Arrowhead Company","Director","Autumn Moursund","VCOB","Arrowhead Bank","2023","Banker","n/a","n/a","None"
+```

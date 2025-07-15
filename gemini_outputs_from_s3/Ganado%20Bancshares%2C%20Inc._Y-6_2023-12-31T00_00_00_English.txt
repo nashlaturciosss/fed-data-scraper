@@ -1,0 +1,14 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Ganado Bancshares,"Inc."","Dallas,"Texas"","2023","J. Randy Staff","n/a","184213","87.03%","n/a"
+"Ganado Bancshares,"Inc."","Victoria,"Texas"","2023","Gary F. Cox","n/a","13838","6.54%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Ganado Bancshares,"Inc."","Chairman & President","J. Randy Staff","Chairman & President","Citizens State Bank","2023","None","88.89%","n/a","n/a"
+"Ganado Bancshares,"Inc."","Director","Gary Olson","Owner","Olson Law Group,"PC"","2023","Lawyer","0.22%","n/a","n/a"
+"Ganado Bancshares,"Inc."","Vice president & Director","Gary F. Cox","Director","Citizens State Bank","2023","Medical Doctor","6.68%","n/a","n/a"
+"Ganado Bancshares,"Inc."","n/a","Gary F. Cox","n/a","Morgan-White Oak Ltd.","2023","Medical Doctor","n/a","n/a","n/a"
+"Ganado Bancshares,"Inc."","n/a","Gary F. Cox","n/a","Cox White Oak Mgt.,"LLC"","2023","Medical Doctor","n/a","n/a","n/a"
+"Ganado Bancshares,"Inc."","n/a","Gary F. Cox","n/a","Morgan-White Oak Cattle Co.,"LLC"","2023","Medical Doctor","n/a","n/a","n/a"
+```

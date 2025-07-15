@@ -2,7 +2,7 @@ import os
 import boto3
 
 BUCKET_NAME = 'bank-y6-pdfs'
-LOCAL_PDF_FOLDER = '/Users/nashlaturcios/Desktop/S3BucketTestData'  
+LOCAL_PDF_FOLDER = '/Users/nashlaturcios/Downloads/Y-6_Data'  
 
 s3 = boto3.client('s3')
 

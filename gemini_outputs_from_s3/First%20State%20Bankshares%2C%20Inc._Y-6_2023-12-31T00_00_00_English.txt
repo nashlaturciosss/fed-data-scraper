@@ -1,0 +1,30 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Stinson Gibner","Common Stock","62326","46.20%","1417137"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Lea Ann Gibner-Schrader","Common Stock","40515","30.03%","1417137"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Le Thuy Dao-Gibrer","Common Stock","500","0.37%","1417137"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Mary Alice Gibner","Common Stock","1000","0.74%","1417137"
+"First State Bankshares,"Inc."","Waco,"TX"","2023","Maddee Barbier","Common Stock","757","0.56%","1417137"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Bree Forrester","Common Stock","658","0.49%","1417137"
+"First State Bankshares,"Inc."","Houston,"TX"","2023","Chris Schrader","Common Stock","387","0.29%","1417137"
+"First State Bankshares,"Inc."","Spearman,"TX"","2023","Brian Gillispie","Common Stock","7750","5.74%","1417137"
+"First State Bankshares,"Inc."","Spearman,"TX"","2023","Mike Pearson","Common Stock","8519","6.31%","1417137"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First State Bankshares,"Inc."","Chairman/Director,"Director/President"","Stinson Gibner","President","Palo Duro Alpha,"LLC"","2023","Investor","46.20%","1417137","n/a"
+"First State Bankshares,"Inc."","Chairman/Director,"Director/President"","Stinson Gibner","President","Waikiki Mama,"LLC"","2023","Investor","46.20%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/President","Le Thuy Dao-Gibner","n/a","None","2023","Investor","0.37%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/Vice President","Lea Ann Gibner-Schrader","n/a","None","2023","Investor","30.03%","1417137","n/a"
+"First State Bankshares,"Inc."","n/a","Chris Schrader","n/a","None","2023","Investor","0.29%","1417137","n/a"
+"First State Bankshares,"Inc."","n/a","Bree Forrester","n/a","None","2023","Personal Trainer","0.49%","1417137","n/a"
+"First State Bankshares,"Inc."","n/a","Maddee Barbier","n/a","None","2023","Copy Editor","0.56%","1417137","n/a"
+"First State Bankshares,"Inc."","n/a","Mary Alice Gibner","n/a","None","2023","Retired","0.74%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/Secretary","Marvin Franz","n/a","None","2023","Banker","1.48%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/President","Brian Gillispie","President","Hansford Abstract Co.","2023","Banker","0.00%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/President","Brian Gillispie","President","High Plains Observer","2023","Banker","0.00%","1417137","n/a"
+"First State Bankshares,"Inc."","Director/President","Brian Gillispie","President","CMB Insurance,"LLC"","2023","Banker","0.00%","1417137","n/a"
+"First State Bankshares,"Inc."","n/a","Bankshares,"Inc."","n/a","None","2023","Holding Company","100%","1417137","n/a"
+```

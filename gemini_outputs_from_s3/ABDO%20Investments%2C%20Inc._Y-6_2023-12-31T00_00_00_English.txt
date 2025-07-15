@@ -1,0 +1,22 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"ABDO INVESTMENT,"INC."","Naples,"FL"","2023","Jay M. Abdo","Common","1428","14.286%","n/a"
+"ABDO INVESTMENT,"INC."","St. Paul,"MN"","2023","John N. Abdo","Common","1428","14.286%","n/a"
+"ABDO INVESTMENT,"INC."","Edina,"MN"","2023","James A. Abdo","Common","1428","14.286%","n/a"
+"ABDO INVESTMENT,"INC."","Edina,"MN"","2023","Paul J. Abdo","Common","1428","14.286%","n/a"
+"ABDO INVESTMENT,"INC."","Mankato,"MN"","2023","Melody C. Borth","Common","1428","14.286%","n/a"
+"ABDO INVESTMENT,"INC."","Norwalk,"CT"","2023","Lynne M. Abdo","Common","1428","14.285%","n/a"
+"ABDO INVESTMENT,"INC."","Edina,"MN"","2023","Jill M. Hanson","Common","1428","14.285%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"ABDO INVESTMENT,"INC."","Director,"President"","Jay M. Abdo","President","Rivers Ridge","2023","Retired CPA","14.286%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","John N. Abdo","Partner","Abdo,"LLP"","2023","CPA","14.286%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","James A. Abdo","VP-Sales","Abdo Publishing Co.","2023","VP Sales","14.286%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","Paul J. Abdo","Chief Editor","Abdo Publishing Co.","2023","Chief Editor","14.286%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","Melody C. Borth","Retired","n/a","2023","VP Finance","14.286%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","Lynne M. Abdo","Retired","n/a","2023","Sales-East Coast","14.285%","n/a","None"
+"ABDO INVESTMENT,"INC."","Director","Jill M. Hanson","CEO","Abdo Publishing Co.","2023","CEO","14.285%","n/a","None"
+```

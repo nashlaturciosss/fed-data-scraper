@@ -1,0 +1,26 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Jon L. Black","Common Stock","87","31.75%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Duane Johnson","Common Stock","20","7.30%"
+"Crowell Bancshares,"Inc."","Rancho Cucamonga,"California"","2023","Donna Purcell","Common Stock","18.5","6.75%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Morgan S. Howard III","Common Stock","18.5","6.75%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Patty Simmons","Common Stock","16","5.84%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Betty Moore","Common Stock","22","8.03%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","William Jesse Moore Credit Shelter Trust - Trust S","Common Stock","23","8.39%"
+"Crowell Bancshares,"Inc."","Winters,"TX"","2023","Jonna Busher","Common Stock","11","4.01%"
+"Crowell Bancshares,"Inc."","Holiday,"TX"","2023","Julie Borchardt","Common Stock","11","4.01%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Stacy Henry","Common Stock","12","4.38%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Carolyn Henry","Common Stock","2",".73%"
+"Crowell Bancshares,"Inc."","Crowell,"TX"","2023","Crowell Bancshares,"Inc."","Common Stock","1000","100%"
+"Crowell Bancshares,"Inc."","USA","2023","D B Trust #2","Common Stock","27","9.85%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Crowell Delaware Financial Corporation","Chairman Director","Jon L. Black","n/a","Black Farms","2023","Rancher","","n/a",""
+"Crowell Delaware Financial Corporation","Assistant Sec./Treas. Director","Carolyn Henry","n/a","n/a","2023","Retired Banker","","n/a",""
+"Crowell Delaware Financial Corporation","President/CEO Chairman of the Board Director Loan Officer Security Officer","Stacy Henry","n/a","n/a","2023","Banker","","n/a","100%"
+"Crowell Delaware Financial Corporation","Exec. Vice President Director Cashier CD's,"Savings","Investments Personnel Manager Loan Officer Ccompliance Asst."","Patty Simmons","n/a","n/a","2023","Banker","","n/a",""
+"Crowell Delaware Financial Corporation","n/a","Crowell Bancshares,"Inc."","n/a","n/a","2023","n/a","","n/a",""
+```

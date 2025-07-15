@@ -1,0 +1,20 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Evans Bancshares,"Inc."","Brandenton,"FL"","2023","Paul Martin","n/a","4576","6.68%"
+"Evans Bancshares,"Inc."","Brandenton,"FL"","2023","Pamela J. Martin","n/a","2778","4.06%"
+"Evans Bancshares,"Inc."","Buckingham,"IA"","2023","Burk and Julianne Miehe*","n/a","5336","7.79%"
+"Evans Bancshares,"Inc."","Waverly,"IA"","2023","Dennis M. Hansen","n/a","4467","6.52%"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Evans Bancshares,"Inc."","Director","Mark F. Conway","Corporate Counsel","Western Homes","2023","Corporate Counsel","0.31%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director COB/Pres/Treas of FSSB","Dennis M. Hansen","Member/Manager COB/CEO/Pres of Charlie 25 LLC","Charlie 25 LLC","2023","Chairman/CEO/Pres of First Security State Bank","6.52%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director VP/Sec EVP/Director-FSSB","Timothy J. Mack","Member/Manager BL,"LLC"","BL,"LLC"","2023","Director/EVP/Sec of First Security State Bank","1.82%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director Director-FSSB","Paul L. Martin","Member/Manager P and M Rental LLC","P and M Rental LLC","2023","Retired Recruiter","6.68%","n/a","n/a"
+"Evans Bancshares,"Inc."","None","Pamela J. Martin","None","P and M Rental LLC","2023","Retired Librarian","4.06%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director Director-FSSB","Burk A. Miehe","President and Director of American Pattern CNC Works Inc.,"Member/Manager of American Pattern Storage LLC","President and Director of Black Hawk Systems Tooling Inc.","President and Director of AP Industrial Steel","Inc.","Manager Elizabeth Blake","LLC","President and Director Grindstone Properties","Inc.","Member/Manager Chosin Firearms LLC","Member/Manager 2300 Jones LLC","Member/Manager Centerville Armory LLC","Member/Manager Branden Properties","LLC"","Black Hawk Systems Tooling Inc.,"American Pattern Storage LLC","American Pattern CNC Works Inc.","AP Industrial Steel","Inc.","Grindstone Properties","Inc.","Chosin Firearms LLC","2300 Jones LLC","Centerville Armory LLC","Branden Properties","LLC","AP IronWorks LLC"","2023","President/Director of Amercian Pattern CNC Works Inc.","7.79%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director Director-FSSB","Scott L. Poppens","President of Transportation Insurance and Consultants,"Inc. and Member/Manager of ANP Properties","LLC","Member/Manager Poppens Enterprises","LLC"","ANP Properties LLC","2023","President of Transportation Insurance and Consultants,"Inc."","0.73%","n/a","n/a"
+"Evans Bancshares,"Inc."","Director Director-FSSB","Scott W. Staebell,","President of Town & Country Home Improvement Co,"Inc.","Member - SRS Farms LC","Member/Manager - SAAAL","LLC"","Town & Country","2023","President of Town & Country Home Improvement Co.,"Inc."","0.36%","n/a","n/a"
+```

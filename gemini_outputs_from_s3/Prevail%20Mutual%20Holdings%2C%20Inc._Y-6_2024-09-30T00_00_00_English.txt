@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Prevail Mutual Holdings Inc","Director & Chairman","William Weiland","Director","Prevail Bank","2024","N/A","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director & President/CEO","Nathan Quinnell","Director","Prevail Bank","2024","Banker","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director","Dean Carter","General Manager,"Gaskets","Inc"","Gaskets,"Inc."","2024","Manufacturing Gaskets,"Inc"","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director","Jeannie Deml","President/CEO","Enerquip LLC","2024","Manufacturing Enerquip LLC","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director & Secretary","Gregory Krug","Attorney","Krug Law Office","2024","Attorney","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director","Michael Schaefer","Director","Prevail Bank","2024","N/A","None","n/a","None"
+"Prevail Mutual Holdings Inc","Director","Mark Scheunemann","Owner","Legacy Accounting & Financial Services LLC","2024","CPA","None","n/a","None"
+"Prevail Mutual Holdings Inc","CFO","Randy Zietlow","CFO","Prevail Bank","2024","Banker","None","n/a","None"
+```

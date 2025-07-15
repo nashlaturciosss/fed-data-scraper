@@ -1,0 +1,17 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Queenstown Bancorp","President & CEO","Kevin B. Cashen","n/a","n/a","2023","Queenstown Bank of MD","0.02%","n/a","n/a"
+"Queenstown Bancorp","Director","Amy I. Brandt","n/a","n/a","2023","CPA-Acounting Strategies Group","LLC","0.08%","n/a","n/a"
+"Queenstown Bancorp","Director","Bernard A. Cheezum","Jr.","Director","Willow Construction","LLC","2023","Willow Construction","LLC","0.11%","n/a","n/a"
+"Queenstown Bancorp","Director","James R","Friel","III","Director","The Queenstown Company","2023","Managing of S.E.W. Friel and Friel Lumber","0.04%","n/a","n/a"
+"Queenstown Bancorp","Director","Chad Helfenbein","Director","Fellows","Helfenbein","Newnam Funeral Home","2023","Fellows","Helfenbein","Newnam Funeral Home","0.03%","n/a","n/a"
+"Queenstown Bancorp","Director","Patrick Palmer","Director","Stevens Palmer","LLC","2023","Attorney - Stevens Palmer","LLC","0.06%","n/a","n/a"
+"Queenstown Bancorp","Director","J. Thomas Rhodes","Jr.","Director","Queenstown Bank of MD","2023","Queenstown Bank of MD","1.23%","n/a","n/a"
+"Queenstown Bancorp","Director","Tracy T. Schulz","Director","Fisherman's Inn & Crab Deck","2023","Fisherman's Inn & Crab Deck","2.33%","n/a","n/a"
+"Queenstown Bancorp","CFO","James P. Shaw","CFO","Queenstown Bancorp of MD & Queenstown Bank of MD","2023","Queenstown Bancorp of MD & Queenstown Bank of MD","0.29%","n/a","n/a"
+```

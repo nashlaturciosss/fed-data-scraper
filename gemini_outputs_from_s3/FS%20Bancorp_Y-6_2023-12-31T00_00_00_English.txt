@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"F S Bancorp","Hudson,"IN"","2023","Miles S. Perkins","Common Stock","338327","7.87%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"F S Bancorp","Director","Kevin L. Lambright","President","Sunny Slope Farms Inc.","2023","Business owner","0.90%","1245479","n/a"
+"F S Bancorp","Director","Kevin L. Lambright","Manager","KC Squared Farms LLC","2023","Business owner","0.90%","1245479","n/a"
+"F S Bancorp","Director","Kevin L. Lambright","Manager","Lambright/Yoder Farms LLC","2023","Business owner","0.90%","1245479","n/a"
+"F S Bancorp","Director","Kevin L. Lambright","Manager","Lambright Farms LLC","2023","Business owner","0.90%","1245479","n/a"
+"F S Bancorp","Director","Rodney M. Perkins","President","Perkins Twin Creek Farms Inc.","2023","Farmer","0.37%","1245479","n/a"
+"F S Bancorp","Director","Rodney M. Perkins","Partner","Perkins Bros.","2023","Farmer","0.37%","1245479","n/a"
+"F S Bancorp","Director","Roger Bird","Managing Partner","Bear Associates","2023","Retired Attorney","0.86%","1245479","n/a"
+"F S Bancorp","Director","Jordi Disler","North Market President","Parkview Hospital","2023","Hospital Administrator","0.19%","1245479","n/a"
+"F S Bancorp","Director & Treasurer","Winford Jones","n/a","n/a","2023","Retired Owner Yoders Shipshewana Hardware","0.28%","1245479","n/a"
+"F S Bancorp","Director","Freeman Schlabach","CEO","Rock Run Industries LLC","2023","Owner Rock Run Industries LLC","0.15%","1245479","n/a"
+"F S Bancorp","Director","Freeman Schlabach","CEO","Rock Run Real Estate LLC","2023","Owner Rock Run Industries LLC","0.15%","1245479","n/a"
+"F S Bancorp","Director","Freeman Schlabach","CEO","Rock Run Cabinetry LLC","2023","Owner Rock Run Industries LLC","0.15%","1245479","n/a"
+"F S Bancorp","Director","Freeman Schlabach","CEO","Trailside Steel Solutions LLC","2023","Owner Rock Run Industries LLC","0.15%","1245479","n/a"
+"F S Bancorp","Director & President & CEO","Joseph A. Urbanski","Board Chair","Parkview LaGrange Hospital","2023","CEO/President,"Farmers State Bank"","0.40%","1245479","n/a"
+"F S Bancorp","Director & President & CEO","Joseph A. Urbanski","Board Member","Parkview Health System","2023","CEO/President,"Farmers State Bank"","0.40%","1245479","n/a"
+"F S Bancorp","Secretary & Assistant Treasurer","Stacy Merrifield","Board Member","The Farm Place,"Inc."","2023","Exec. Vice President & CFO Farmers State Bank","0.35%","1245479","n/a"
+"F S Bancorp","Director","Kerry Sprunger","Director","Pretty Prairie Farms","2023","Retired Executive Farmers State Bnk","0.77%","1245479","n/a"
+"F S Bancorp","Director","Kayla Warren","n/a","n/a","2023","University Administrator","0.01%","1245479","n/a"
+```

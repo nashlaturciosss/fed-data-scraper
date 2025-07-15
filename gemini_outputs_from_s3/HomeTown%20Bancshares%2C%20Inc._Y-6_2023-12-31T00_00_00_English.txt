@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Michael J. Gadio,"Jr."","Common Stock","1009","0.299%","n/a"
+"HomeTown Bancshares,"Inc."","Friendswood,"Texas"","2023","Nicolas A. Gaido","Common Stock","11000","3.259%","n/a"
+"HomeTown Bancshares,"Inc."","Friendswood,"Texas"","2023","Christian Gaido","Common Stock","3251","0.963%","n/a"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Kimberly A. Gaido","Common Stock","1734","0.514%","n/a"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Michael J. Gaido,"III"","Common Stock","978","0.290%","n/a"
+"HomeTown Bancshares,"Inc."","Houston,"Texas"","2023","Lynette Gaido","Common Stock","454","0.135%","n/a"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Dorthea Mathews Balentine","Common Stock","6252","1.852%","n/a"
+"HomeTown Bancshares,"Inc."","Dallas,"Texas"","2023","Frances Moody Dahlberg","Common Stock","5778","1.712%","n/a"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Lea Mcleod Mathews","Common Stock","5778","1.712%","n/a"
+"HomeTown Bancshares,"Inc."","League City,"Texas"","2023","Enterprise Capital Partners LP","Common Stock","5778","1.712%","n/a"
+"HomeTown Bancshares,"Inc."","Galveston,"Texas"","2023","Allan W. Mathews","Common Stock","2889","0.856%","n/a"
+"HomeTown Bancshares,"Inc."","League City,"Texas"","2023","E. Vince Mathews,"III"","Common Stock","300","0.089%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"HomeTown Bancshares,"Inc."","President and Director","Allan Rasmussen,"Jr."","President,"CEO and Director"","Home Town Bank,"N.A."","2023","n/a","0.119%","393953","n/a"
+"HomeTown Bancshares,"Inc."","EVP/CFO","Kyle McFatridge","EVP/CFO","Home Town Bank,"N.A."","2023","n/a","0.059%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Dorthea Mathews Balentine","Director","Home Town Bank,"N.A."","2023","Retired / Investments","1.852%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Kent Ballard","Director","Home Town Bank,"N.A."","2023","Real Estate Broker","0.352%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Stacy Dienst","Director","Home Town Bank,"N.A."","2023","Retired ","2.030%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Maurice Estlinbaum","Director","Home Town Bank,"N.A."","2023","Retired","1.540%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Sidney C. Farmer,"III"","Director","Home Town Bank,"N.A."","2023","Executive","0.488%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Michael J. Gaido Jr.","Director","Home Town Bank,"N.A."","2023","Business Owner","0.299%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Nicolas A. Gaido","Director","Home Town Bank,"N.A."","2023","Business Owner","3.259%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","E. Vince Mathews III","Director","Home Town Bank,"N.A."","2023","Attorney","1.801%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","E. Vince Mathews III","Director","Enterprise Capital Partners LP","2023","Attorney","1.801%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Robert L Moody,"Jr."","Director","Home Town Bank,"N.A."","2023","Insurance Executive","1.498%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Moody RLM Jr Interest,"LTD."","Director","Home Town Bank,"N.A."","2023","Insurance Executive","1.498%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","Jimmy Rasmussen","CEO Emeritus","HomeTown Bank,"N.A."","2023","n/a","3.193%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","G. William Rider","Director","Home Town Bank,"N.A."","2023","Attorney","3.519%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","G. William Rider","Director","Rider Family Trust","2023","Attorney","3.519%","393953","n/a"
+"HomeTown Bancshares,"Inc."","Director","G. William Rider","Director","The Rider Family Fund","2023","Attorney","3.519%","393953","n/a"
+```

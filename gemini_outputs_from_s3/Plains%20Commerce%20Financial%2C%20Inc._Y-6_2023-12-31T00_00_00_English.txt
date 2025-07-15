@@ -1,0 +1,27 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Plains Commerce Financial,"Inc."","Watertown,"SD"","2023","Stephen A. Hageman,"Trustee of the Hageman Stock Trust 2019"","n/a","177273","10.90%","n/a"
+"Plains Commerce Financial,"Inc."","Watertown,"SD"","2023","Stephen A. Hageman,"Trustee of the Jerome Hageman Trust 2020"","n/a","311639","19.16%","n/a"
+"Plains Commerce Financial,"Inc."","Aberdeen,"SD"","2023","Randall Robinson,"Trustee of the Cheryl M. Robinson Trust 2012"","n/a","181789","11.18%","n/a"
+"Plains Commerce Financial,"Inc."","Aberdeen,"SD"","2023","Brandi Ivey,"Trustee of the Randall Robinson Trust 2012"","n/a","181789","11.18%","n/a"
+"Plains Commerce Financial,"Inc."","Hoven,"SD"","2023","Gerald P. Brickner,"Trustee of the Sherry Brickner Trust 2021"","n/a","80918","4.97%","n/a"
+"Plains Commerce Financial,"Inc."","Hoven,"SD"","2023","Susanne Klocker,"Trustee of the Jerry Brickner Trust 2021"","n/a","84306","5.18%","n/a"
+"Plains Commerce Financial,"Inc."","Bismarck,"ND"","2023","Gerald P. Brickner,"Trustee of the Judith A. Barondeau Trust 2021"","n/a","78853","4.85%","n/a"
+"Plains Commerce Financial,"Inc."","Bismarck,"ND"","2023","Gerald P. Brickner,"Trustee of the Dwain A. Barondeau Trust 2021"","n/a","78853","4.85%","n/a"
+"Plains Commerce Financial,"Inc."","Brookings,"SD"","2023","Wesley G. Tschetter & Paul W. Tschetter,"Trustees of the Lois Tschetter Legacy Trust"","n/a","120000","7.38%","n/a"
+"Plains Commerce Financial,"Inc."","Sheridan,"WY"","2023","John F. Ritterbusch & Penny Ritterbusch,"Ttees John F. & Penny D. Ritterbusch Trust dtd 8/13/15"","n/a","120000","7.38%","n/a"
+"Plains Commerce Financial,"Inc."","Aberdeen,"SD"","2023","Robert M. Ronayne,"Trustee of the Rob Ronayne Beneficiary Trust 2021"","n/a","100000","6.15%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Plains Commerce Financial,"Inc."","CEO","Stephen A. Hageman","Director","n/a","2023","CEO,"President","Director"","30.06%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Randall Robinson","n/a","n/a","2023","Retired","22.35%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Gerald P. Brickner","n/a","n/a","2023","Retired","19.85%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Robert Ronayne","n/a","n/a","2023","Attorney","6.15%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Cody Hageman","n/a","n/a","2023","Ag Marketing Consultant","0.00%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Wesley Tschetter","n/a","n/a","2023","Retired","14.75%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","Director","Christopher Vinson","CEO Mortgage Divison","n/a","2023","CEO","2.43%","n/a","n/a"
+"Plains Commerce Financial,"Inc."","CFO","Matt Jensen","CFO","n/a","2023","CFO","0.00%","n/a","n/a"
+```

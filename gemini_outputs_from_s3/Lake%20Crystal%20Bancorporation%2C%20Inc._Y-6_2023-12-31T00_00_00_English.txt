@@ -1,0 +1,28 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Matthew W. Lantz","n/a","820.9925","11.2600%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Matthew W. Lantz","n/a","914.1600","12.5378%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Matthew W. Lantz","n/a","1,"735.1525"","23.7978%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Suzette E. Johnson","n/a","1,"710.9700"","23.4661%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","James A. Clark","n/a","2.0000","02700%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Marlys F. Clark QSST Trust","n/a","888.7700","12.1896%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Marlys F. Clark QSST Trust","n/a","890.7700","12.2170%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Mankato,"MN"","2023","Paul D. Collis","n/a","391.5500","5.3701%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Mankato,"MN"","2023","Michael A. Drummer","n/a","583.8300","8.0073%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Madison Lake,"MN"","2023","Jordan A. Smith","n/a","913.6900","12.5313%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Gordon or Mary Kuznia","n/a","454.5200","6.2338%","n/a"
+"Lake Crystal Bancorporation,"Inc."","Lake Crystal,"MN"","2023","Susan Peterson","n/a","462.3100","6.3406%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Lake Crystal Bancorporation,"Inc."","n/a","James A. Clark","n/a","n/a","2023","Retired","890.7700","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","n/a","Suzette E. Johnson","n/a","n/a","2023","Retired","1,"710.9700"","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","Director","Paul D. Collis","n/a","MinnStar Bank National Association","2023","Retired","391.5500","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","Director/Treasurer/Secretary","Mark Monson","n/a","MinnStar Bank National Association","2023","Banker","75.7000","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","n/a","Matthew W. Lantz","Trustee","Frederick L. Lantz Bank Stock Trust","2023","Farmer","1,"735.1525"","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","Director/Vice President","Gordon V. Kuznia","n/a","MinnStar Bank National Association","2023","Retired","454.52","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","Director","Cherie Clark-Stemig","n/a","MinnStar Bank National Association","2023","Teacher","2.0000","n/a","n/a"
+"Lake Crystal Bancorporation,"Inc."","Director","Jordan A. Smith","n/a","MinnStar Bank National Association","2023","Business Owner","913.6900","n/a","n/a"
+```
