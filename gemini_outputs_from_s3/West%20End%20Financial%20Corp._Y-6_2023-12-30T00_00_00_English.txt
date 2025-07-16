@@ -1,0 +1,26 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"West End Financial Corp.","Bessemer","MI","2023","Robert Abelman","common","2765","6.58%","n/a"
+"West End Financial Corp.","Oswago","IL","2023","John Doherty","common","4275","10.18%","n/a"
+"West End Financial Corp.","White Pina","MI","2023","Joseph Hilborn","common","2374","5.65%","n/a"
+"West End Financial Corp.","Rochester","MN","2023","Peter Pairolero","common","2850","6.78%","n/a"
+"West End Financial Corp.","Bessemer","MI","2023","John Stompihar","common","2974","7.08%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"West End Financial Corp.","Director","Robert Abelman","President","Abelman Co.","2023","Retailing","6.58%","n/a","n/a"
+"West End Financial Corp.","Vice President","Robert Abelman","President","Abelman Co.","2023","Retailing","6.58%","n/a","n/a"
+"West End Financial Corp.","Director","Raymond Brown","Owner","General Accounting Services","2023","Accounting","0.59%","n/a","n/a"
+"West End Financial Corp.","Chairman Bd. / Treasurer","Raymond Brown","Owner","General Accounting Services","2023","Accounting","0.59%","n/a","n/a"
+"West End Financial Corp.","Director","John Stempihar","Retired","n/a","2023","Retired","7.08%","n/a","n/a"
+"West End Financial Corp.","Vice President","John Stempihar","Retired","n/a","2023","Retired","7.08%","n/a","n/a"
+"West End Financial Corp.","Director","Mark Stempihar","President","M.E. Stempihar","MD PC","2023","Opthmologist","2.17%","n/a","n/a"
+"West End Financial Corp.","Ass't Treasurer","Mark Stempihar","President","Merk Technology","Inc","2023","Opthmologist","2.17%","n/a","n/a"
+"West End Financial Corp.","Director","Nell J. Beckman","Owner","Beckman Holdings","2023","Banker","2.50%","n/a","n/a"
+"West End Financial Corp.","President","Nell J. Beckman","Owner","Beckman Holdings","2023","Banker","2.50%","n/a","n/a"
+"West End Financial Corp.","Director","John Doherty","None","n/a","2023","Retired - Altorney","10.18%","n/a","n/a"
+"West End Financial Corp.","Director","Todd Johnson","Manager","Steigers Ace Hardware","2023","Retail","0.24%","n/a","n/a"
+"West End Financial Corp.","Vice President","Todd Johnson","Manager","Steigers Ace Hardware","2023","Retail","0.24%","n/a","n/a"
+```

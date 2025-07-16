@@ -1,0 +1,19 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"The Odom AmTex Holdings Trust","Orange,"TX"","2023","The Odom AmTex Holdings Trust","n/a","n/a","100%","n/a"
+"Odom AmTex,"LLC"","Orange,"TX"","2023","Odom AmTex,"LLC"","common shares","944684","89.74%","n/a"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"AMTEX BANCSHARES,"INC."","Co-trustee","Jennie Scalfano","Partner","S. E. Texas Cmptr Assoc.","2023","Construction executive","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Co-trustee","Jennie Scalfano","Partner","S. E. Texas Cmptr Assoc.","2023","Construction executive","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Director","Jennie Scalfano","Director","Pavillion Bank","2023","Construction executive","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Director","Jennie Scalfano","Director","Peoples State Bank","2023","Construction executive","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Co-trustee","Stephen K. Storey","Director","Moore-Odom Wildlife Foundation","2023","Banking","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Co-trustee","Stephen K. Storey","Director","Moore-Odom Wildlife Foundation","2023","Banking","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","Co-trustee","Benjamin C. Thacker","n/a","n/a","2023","Banking","n/a","n/a","n/a"
+"AMTEX BANCSHARES,"INC."","President/CEO/Director","Stephen K. Storey","n/a","n/a","2023","Banking","n/a","n/a","0.63%"
+"AMTEX BANCSHARES,"INC."","CFO/Auditor/Treasurer/Director","Benjamin C. Thacker","n/a","n/a","2023","Banking","n/a","n/a","0.05%"
+```

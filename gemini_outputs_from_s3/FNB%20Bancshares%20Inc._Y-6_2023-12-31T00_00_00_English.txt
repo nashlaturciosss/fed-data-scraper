@@ -1,26 +1,25 @@
 ```csv
-### SECURITIES HOLDERS CSV
+SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"FNB BANCSHARES,"INC."","Rushford,"MN"","2023","August A. Williams","n/a","1630.25","16.30%","n/a"
-"FNB BANCSHARES,"INC."","Eden Prairie,"MN"","2023","Michael H. Jakobe Revocable Trust","n/a","863.35","8.63%","n/a"
-"FNB BANCSHARES,"INC."","Blue Earth,"MN"","2023","Martha Sawyer Revocable Trust","n/a","500.22","5.00%","n/a"
-"FNB BANCSHARES,"INC."","Blue Earth,"MN"","2023","Bruce Hanke","n/a","676.09","6.76%","n/a"
-"FNB BANCSHARES,"INC."","Fairmont,"MN/USA"","2023","William Eckles","n/a","5735.55","57.33%","n/a"
-"FNB BANCSHARES,"INC."","Blue Earth,"MN"","2023","Neil Eckles","n/a","10.00","0.10%","n/a"
+"FNB Bancshares,"Inc."","Rushford,"MN"","2023","August A. Williams","n/a","1630.25","16.30%","n/a"
+"FNB Bancshares,"Inc."","Eden Prairie,"MN"","2023","Michael H. Jakobe Revocable Trust","n/a","863.35","8.63%","n/a"
+"FNB Bancshares,"Inc."","Blue Earth,"MN"","2023","Martha Sawyer Revocable Trust","n/a","500.22","5.00%","n/a"
+"FNB Bancshares,"Inc."","Blue Earth,"MN"","2023","Bruce Hanke","n/a","676.09","6.76%","n/a"
+"FNB Bancshares,"Inc."","Fairmont,"MN"","2023","William Eckles","n/a","5735.55","57.33%","n/a"
+"FNB Bancshares,"Inc."","Blue Earth,"MN"","2023","Neil Eckles","n/a","10.00","0.10%","n/a"
 ```
 ```csv
-### INSIDERS CSV
+INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"FNB BANCSHARES,"INC."","Director","August A. Williams","n/a","n/a","2023","Retired","16.30%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","August A. Williams","n/a","n/a","2023","Retired","16.30%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director/President","William Eckles","n/a","n/a","2023","Businessman","57.329%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Chairman/Director","William Eckles","n/a","First Bank Blue Earth","2023","Businessman","57.329%","n/a","n/a"
-"FNB BANCSHARES,"INC."","President","William Eckles","n/a","Blue Earth Valley Communications,"Inc."","2023","Businessman","57.329%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Secretary/Treasurer/Director","Bruce Hanke","n/a","n/a","2023","Banker","6.76%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","Bruce Hanke","n/a","First Bank Blue Earth","2023","Banker","6.76%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director/Vice President","Michael H. Jakobe","n/a","n/a","2023","Retired","8.63%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","Michael H. Jakobe","n/a","First Bank Blue Earth","2023","Retired","8.63%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","Mike Verdoorn","n/a","n/a","2023","Banker","3.63%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","Mike Verdoorn","n/a","First Bank Blue Earth","2023","Banker","3.63%","n/a","n/a"
-"FNB BANCSHARES,"INC."","Director","Bruce Hanson","n/a","n/a","2023","Retired","2.26%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","August A. Williams","n/a","n/a","2023","Retired","16.30%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director/President","William Eckles","n/a","n/a","2023","Businessman","57.329%","n/a","n/a"
+"FNB Bancshares,"Inc."","Chairman/Director","William Eckles","n/a","First Bank Blue Earth","2023","Businessman","57.329%","n/a","n/a"
+"FNB Bancshares,"Inc."","President","William Eckles","n/a","Blue Earth Valley Communications,"Inc."","2023","Businessman","57.329%","n/a","n/a"
+"FNB Bancshares,"Inc."","Secretary/Treasurer/Director","Bruce Hanke","n/a","n/a","2023","Banker","6.76%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","Bruce Hanke","n/a","First Bank Blue Earth","2023","Banker","6.76%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director/Vice President","Michael H. Jakobe","n/a","n/a","2023","Retired","8.63%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","Michael H. Jakobe","n/a","First Bank Blue Earth","2023","Retired","8.63%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","Mike Verdoorn","n/a","n/a","2023","Banker","3.63%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","Mike Verdoorn","n/a","First Bank Blue Earth","2023","Banker","3.63%","n/a","n/a"
+"FNB Bancshares,"Inc."","Director","Bruce Hanson","n/a","n/a","2023","Retired","2.26%","n/a","n/a"
 ```

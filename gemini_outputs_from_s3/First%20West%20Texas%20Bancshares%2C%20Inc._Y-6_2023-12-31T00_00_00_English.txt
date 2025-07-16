@@ -1,18 +1,18 @@
 ```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"FIRST WEST TEXAS BANCSHARES","MIDLAND","TX","2023","ESTATE OF JAMES LEE DAVIS","n/a","390,"942"","88.49186%","n/a"
-"FIRST WEST TEXAS BANCSHARES","MIDLAND","TX","2023","DAVID L. DAVIS","n/a","37,"391"","8.46366%","n/a"
-"FIRST WEST TEXAS BANCSHARES","MIDLAND","TX","2023","Sandra Maddox as Co-Executor for the ESTATE OF JAMES LEE DAVIS","n/a","390,"942"","88.49186%","n/a"
+"FIRST WEST TEXAS BANCSHARES,"INC"","Midland,"TX"","2023","ESTATE OF JAMES LEE DAVIS","n/a","390,"942"","88.49186%","n/a"
+"FIRST WEST TEXAS BANCSHARES,"INC"","Midland,"TX"","2023","DAVID L. DAVIS","n/a","37,"391"","8.46366%","n/a"
+"FIRST WEST TEXAS BANCSHARES,"INC"","Midland,"TX"","2023","Sandra Maddox as Co-Executor for the ESTATE OF JAMES LEE DAVIS","n/a","390,"942"","88.49186%","n/a"
 ```
 ```csv
-INSIDERS CSV
+### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"FIRST WEST TEXAS BANCSHARES","n/a","Estate of James Lee Davis","n/a","Confidential","2023","n/a","88.49186%","n/a","WEST TEXAS NATIONAL BANK,"
-"FIRST WEST TEXAS BANCSHARES","CHAIRMAN,"DIRECTOR"","DAVID L. DAVIS","CHAIRMAN,"DIRECTOR"","Confidential","2023","ENGINEER","8.46366%","n/a","WEST TEXAS NATIONAL BANK,"
-"FIRST WEST TEXAS BANCSHARES","PRESIDENT,"DIRECTOR"","KEITH MOORE","Vice Chairman,"Director"","Confidential","2023","RETIRED BANKER","0.00453%","n/a","WEST TEXAS NATIONAL BANK,"
-"FIRST WEST TEXAS BANCSHARES","SECRETARY,"DIRECTOR"","RICHARD HATCHETT","Director","Confidential","2023","GAS COMPANY EXECUTIVIE","2.99989%","n/a","WEST TEXAS NATIONAL BANK,"
-"FIRST WEST TEXAS BANCSHARES","n/a","SANDRA MADDOX,","Co-Executor for the ESTATE OF","Confidential","2023","Co-Executor for the ESTATE OF JAMES LEE DAVIS","88.49186%","n/a","WEST TEXAS NATIONAL BANK,"
-"FIRST WEST TEXAS BANCSHARES","VICE PRESIDENT","CHRIS WHIGHAM,","President & CEO","Confidential","2023","BANKER","0.00226%","n/a","n/a"
-"FIRST WEST TEXAS BANCSHARES","CFO OF WTNB","CJ EDGMON,","SVP & CFO","Confidential","2023","BANKER","n/a","n/a","n/a"
+"FIRST WEST TEXAS BANCSHARES,"INC"","N/A","Estate of James Lee Davis","N/A","Confidential","2023","N/A","88.49186%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","CHAIRMAN,"DIRECTOR"","DAVID L. DAVIS","WEST TEXAS NATIONAL BANK CHAIRMAN,"DIRECTOR"","Confidential","2023","ENGINEER","8.46366%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","PRESIDENT,"DIRECTOR"","KEITH MOORE","Vice Chairman,"Director"","Confidential","2023","RETIRED BANKER","0.00453%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","SECRETARY,"DIRECTOR"","RICHARD HATCHETT","Director","Confidential","2023","GAS COMPANY EXECUTIVIE","2.99989%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","Co-Executor for the ESTATE OF","SANDRA MADDOX","N/A","Confidential","2023","N/A","88.49186%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","VICE PRESIDENT","CHRIS WHIGHAM","President & CEO Director","Confidential","2023","BANKER","0.00226%","n/a","N/A"
+"FIRST WEST TEXAS BANCSHARES,"INC"","CFO OF WTNB CFO OF FWTB","CJ EDGMON","SVP & CFO","Confidential","2023","BANKER","n/a","n/a","N/A"
 ```

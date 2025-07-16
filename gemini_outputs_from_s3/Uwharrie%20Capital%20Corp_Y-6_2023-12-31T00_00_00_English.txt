@@ -1,0 +1,37 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Uwharrie Bank","Director","Merlin Amirtharaj","Owner","Bates Law Firm,"PLLC"","2023","Retired; previously,"Associate Vice President of the School of Business and Technology","Stanly Community College","Albemarle","NC"","0.06%","n/a","0%"
+"Uwharrie Bank","Director","Aaron D. Bates","Director","On Point Ventures,"LLC"","2023","Attorney and Owner,"Bates Law Firm","PLLC","Wadesboro","NC"","4.267%","n/a","0%"
+"Uwharrie Bank","Director","Dean M. Bowers","Regional Sales Manager and Co-Owner","Quality Equipment,"LLC"","2023","Regional Sales Manager and Co-Owner,"Quality Equipment","LLC","Albemarle","NC (a John Deere equipment dealership)"","0.12%","n/a","0%"
+"Uwharrie Bank","Director","Dean M. Bowers","Regional Sales Manager and Co-Owner","Bowers Implement Company,"Inc."","2023","Regional Sales Manager and Co-Owner,"Quality Equipment","LLC","Albemarle","NC (a John Deere equipment dealership)"","0.12%","n/a","0%"
+"Uwharrie Bank","Director","James O. Campbell","Vice President and Business Line Executive,"Construction"","AvidXchange,"Inc."","2023","Vice President and Business Line Executive,"Construction","AvidXchange","Inc.","Charlotte","NC","(provider of on-demand accounts payable management and automated payment solutions)"","0.10%","n/a","0%"
+"Uwharrie Bank","Director","James O. Campbell","Member","Belleview Investors,"LLC"","2023","Vice President and Business Line Executive,"Construction","AvidXchange","Inc.","Charlotte","NC","(provider of on-demand accounts payable management and automated payment solutions)"","0.10%","n/a","0%"
+"Uwharrie Bank","Director","Vanessa O. Chambers","n/a","n/a","2023","Community Outreach Advocate and Minister,"New London","NC"","0.03%","n/a","0%"
+"Uwharrie Bank","Director","Tara G. Eudy","President and Treasurer","Carolina Title Company,"Inc."","2023","President and Treasurer,"Carolina Title Company","Inc.","Wadesboro","NC"","0.05%","n/a","0%"
+"Uwharrie Bank","Director","Tara G. Eudy","Member","Redfearn Farm,"LLC"","2023","President and Treasurer,"Carolina Title Company","Inc.","Wadesboro","NC"","0.05%","n/a","0%"
+"Uwharrie Bank","Director","Deidre B. Foster","n/a","n/a","2023","Community and Church Leader,"Charlotte","NC"","0.05%","n/a","0%"
+"Uwharrie Bank","Director","Allen K. Furr","Secretary and Treasurer","PEJA,"Inc. DBA East Albemarle Xpress Lube"","2023","Secretary and Treasurer,"PEJA","Inc. DBA East Albemarle Xpress Lube","Albemarle","NC"","0.13%","n/a","0%"
+"Uwharrie Bank","Director","Allen K. Furr","Member","DAT Mini Investments,"LLC"","2023","Secretary and Treasurer,"PEJA","Inc. DBA East Albemarle Xpress Lube","Albemarle","NC"","0.13%","n/a","0%"
+"Uwharrie Bank","Director","Cynthia B. Hanson","Operations Manager and Member","CK Select LLC","2023","Owner and Operations Manager,"CK Select","LLC","Concord","NC (a real estate company)"","0.02%","n/a","0%"
+"Uwharrie Bank","Director","Matthew R. Hudson","General Manager and Vice President","Hudson Pool Distributors,"Inc."","2023","General Manager and Vice President,"Hudson Pool Distributors","Inc.","Locust","NC"","0.05%","n/a","0%"
+"Uwharrie Bank","Director","Mary N. Klauder","n/a","n/a","2023","Senior Director of Financial Planning & Analysis,"Sonesta International Hotels Corporation","Newton","MA"","0.12%","n/a","0%"
+"Uwharrie Bank","Director","Matthew D. McAulay","Member","Sewickley,"LLC"","2023","Senior Director,"Crown Advisors Charlotte","NC (an executive search firm)"","0.01%","n/a","0%"
+"Uwharrie Bank","Director","Wesley A. Morgan","General Manager","Rolling Hills Gin,"LLC"","2023","General Manager,"Rolling Hills Gin","LLC New London","NC","(a cotton ginning operation)"","0.08%","n/a","0%"
+"Uwharrie Bank","Director","Chris M. Poplin","n/a","n/a","2023","Chief Investment Officer and Chief Operating Officer,"Faison Enterprises","Inc.","Charlotte","NC","(a private real estate investment firm)"","0.12%","n/a","0%"
+"Uwharrie Bank","Director","Frank A. Rankin,"III"","Special Projects Manager","Concord Engineering & Surveying,"Inc. (CESI)"","2023","Special Projects Manager,"Concord Engineering & Surveying","Inc. (CESI)","Concord","NC"","0.69%","n/a","0%"
+"Uwharrie Bank","Director and Chair of Board","Vernon A. Russell","Owner","Vernon A. Russell,"Attorney at Law","PLLC"","2023","Attorney and Owner,"Vernon A. Russell","Attorney at Law","PLLC","Concord","NC"","0.15%","n/a","0%"
+"Uwharrie Bank","Director","Stephen C. Seltzer,"MD"","Chief Executive Officer","Marbu,"Inc."","2023","Chief Executive Officer,"Marbu","Inc.","Albemarle","NC","(a land management company) and President","Seltzer's Inc.","Albemarle","NC","(a land and building management company)"","0.07%","n/a","0%"
+"Uwharrie Bank","Director and Vice Chair of Board","S. Todd Swaringen","Partner","Beane Swaringen & Company,"PLLC"","2023","Certified Public Accountant and Partner,"Beane Swaringen & Company","PLLC Albemarle","NC"","0.05%","n/a","0%"
+"Uwharrie Bank","Chief Financial Officer","Heather H. Almond","n/a","n/a","2023","n/a","0.27%","n/a","0%"
+"Uwharrie Bank","Chief Operations Officer","Jason R. Andrew","n/a","n/a","2023","n/a","0.17%","n/a","0%"
+"Uwharrie Bank","Chief Risk Officer","R. David Beaver,"III"","Member/Investor","DAT Mini Investment,"LLC"","2023","n/a","0.48%","n/a","0%"
+"Uwharrie Bank","Chief Executive Officer & Advisory Director","Roger L. Dick","Investor","One Building At A Time,"LLC"","2023","n/a","1.39%","n/a","0%"
+"Uwharrie Bank","Chief People Officer and Assistant Corporate Secretary","Brooke L. Senter","Treasurer","Custom Doors,"Incorporated"","2023","n/a","0.76%","n/a","0%"
+"Uwharrie Bank","Executive Vice President - Investor Relations and Corporate Secretary","Tamara M. Singletary","Managing Member","Palmerville,"LLC"","2023","n/a","0.65%","n/a","0%"
+"Uwharrie Bank","Chief Marketing Officer and Security Officer","Christy D. Stoner","Chief Executive Officer & President","Uwharrie Investment Advisors,"Inc."","2023","n/a","0.73%","n/a","0%"
+```

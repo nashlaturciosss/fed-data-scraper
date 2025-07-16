@@ -1,0 +1,31 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"Security Holding Company","Kerrville,"TX"","2023","Kay Durst Family 2016 Trust","Common Stock","283.40","3.142006%","n/a"
+"Security Holding Company","Friendswood,"TX"","2023","Kimberly Durst Bonnen","Common Stock","260.00","2.882574","n/a"
+"Security Holding Company","College Station,"TX"","2023","Kristy Durst LeJeune,"Co-Trustee"","Common Stock","260.00","2.882574","n/a"
+"Security Holding Company","Kerrville,"TX"","2023","Kathleen Keller 2016 Trust","Common Stock","500.00","5.543412%","n/a"
+"Security Holding Company","Hye,"TX"","2023","Kathleen Keller","Common Stock","303.40","3.363743%","n/a"
+"Security Holding Company","Fredericksburg,"TX"","2023","Stacy Keller Loth","Common Stock","690.623","7.6568193%","n/a"
+"Security Holding Company","San Angelo,"TX"","2023","Stephaine Keller Igler","Common Stock","690.623","7.6568193%","n/a"
+"Security Holding Company","Fredericksburg,"TX"","2023","Kory Keller","Common Stock","690.623","7.6568193%","n/a"
+"Security Holding Company","Fredericksburg,"TX"","2023","Cynthia Kemp","Common Stock","693.61","7.6899326%","n/a"
+"Security Holding Company","Fredericksburg,"TX"","2023","Brian Kemp","Common Stock","693.61","7.6899326%","n/a"
+"Security Holding Company","Fredericksburg,"TX"","2023","Daniel Kemp","Common Stock","693.61","7.6899326%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Security Holding Company","Principal Securities Holder","Keller,"Kathleen"","n/a","n/a","2023","Homemaker","3.363743%","n/a","n/a"
+"Security Holding Company","Director; Vice President","Keller,"Keith"","Director","Security State Bank & Trust","2023","Retired Contractor","n/a","n/a","n/a"
+"Security Holding Company","Principal Securities Holder","Loth,"Stacy Keller"","n/a","n/a","2023","Housewife","7.656819%","n/a","n/a"
+"Security Holding Company","Principal Securities Holder","Igler,"Stephanie Keller"","Owner","Ransomed Bones,"LLC"","2023","Business Owner","7.656819%","n/a","n/a"
+"Security Holding Company","Secretary; Securities Holder","Keller,"Kory"","President/CEO","Allen Keller Company I LLC","2023","Contractor","7.656819%","n/a","n/a"
+"Security Holding Company","Principal Securities Holder","Kemp,"Cynthia"","Owner","Space Scapes Interiors","2023","Interior Decorator","7.689933%","n/a","n/a"
+"Security Holding Company","Principal Securities Holder","Kemp,"Brian"","Owner","KNB Adventures LLC dba Tres Lunas Resort","2023","EMS Paramedic","7.689933%","n/a","n/a"
+"Security Holding Company","President; Securities Holder","Kemp,"Dan"","Member","3K Aero,"LLC"","2023","Banker","7.689933%","n/a","n/a"
+"Security Holding Company","Director","William H. Cowden Jr.","n/a","n/a","2023","Retired Banker","n/a","n/a","n/a"
+"Security Holding Company","Director","Patrick M. (Mike) Dooley","Owner","Patrick M. (Mike) Dooley Attorney at Law","2023","Attorney","n/a","n/a","n/a"
+"Security Holding Company","Director","Ray Geistweidt","n/a","n/a","2023","Certified Public Accountant","n/a","n/a","n/a"
+"Security Holding Company","Director","Charles Alvarez","President/CEO","Cameron-Brooks","2023","President/CEO","n/a","n/a","n/a"
+```

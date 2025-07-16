@@ -1,0 +1,25 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"The MINT National Bank","Director,"Chairman"","David A. Bubier","Chairman","The Village Learning Center,"Inc."","2023","Banker","16.81%","n/a","n/a"
+"The MINT National Bank","Director","Don N. Le","President","Don N. Le DDS PA","2023","Dental Surgeon","7.90%","n/a","n/a"
+"The MINT National Bank","Director","Don N. Le","President","Maison Blanche Int LLC","2023","Dental Surgeon","7.90%","n/a","n/a"
+"The MINT National Bank","Director","Don N. Le","Partner","Le and Lopez LLC","2023","Dental Surgeon","7.90%","n/a","n/a"
+"The MINT National Bank","Director","Don N. Le","Partner","Lost Forest Tennis Club","2023","Dental Surgeon","7.90%","n/a","n/a"
+"The MINT National Bank","Director","Edward Chiu","President","Echco Construction,"Inc."","2023","Owner - Construction Company","1.68%","n/a","n/a"
+"The MINT National Bank","Director","Jason Cassity","Retired Managing Director","Bank of America Merrill Lynch","2023","Retired Investment Banker","3.41%","n/a","n/a"
+"The MINT National Bank","Director","Michael W. Clapp","Owner","Keller Williams Realty Office","2023","Realtor","0.26%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","President/Owner","Tielke Investments LP","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","President/Owner","Tielke Investments GP LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","President","Homeway Mortgage LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","Secretary/Treasurer","Americrest Capital LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","Secretary/Treasurer","Americrest Legacy LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","President","Silver City Lending LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","Owner","LA Bon Terra LLC","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Reagan Tielke","President","Texas Builders Finance","2023","Mortgage Lender","2.03%","n/a","n/a"
+"The MINT National Bank","Director","Jeffrey Worstell","n/a","None","2023","Banker","0.005%","n/a","n/a"
+```

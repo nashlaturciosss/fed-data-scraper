@@ -1,5 +1,4 @@
 ```csv
-### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Kimble County Bancshares,"Inc."","Junction,"TX"","2023","Dorthy Murr","Common Stock","260","11%","n/a"
 "Kimble County Bancshares,"Inc."","Junction,"TX"","2023","Jon Murr","Common Stock","252","10%","n/a"
@@ -7,6 +6,5 @@
 "Kimble County Bancshares,"Inc."","Abilene,"TX"","2023","Jon K. Neal","Common Stock","270","11%","n/a"
 ```
 ```csv
-### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
 ```

@@ -1,5 +1,4 @@
 ```csv
-### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Peoples Bancorp","Rock Valley,"IA"","2023","Joe D Van Tol**","Common Stock","10280","12.9%","1249646"
 "Peoples Bancorp","Lester,"IA"","2023","Wayne R. Wilke","Common Stock","10000","12.6%","1249646"
@@ -14,22 +13,17 @@
 "Peoples Bancorp","Harrisburg,"SD"","2023","Ryan J Van Tol**","Common Stock","1650","2.1%","1249646"
 ```
 ```csv
-### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Peoples Bancorp","Director,"President"","Joe D Van Tol**","Director,"President"","Peoples Insurance Agency","2023","Retired","12.9%","1249646","n/a"
-"Peoples Bancorp","Director,"President"","Joe D Van Tol**","Chairman of the Board","Peoples Bank","2023","Retired","12.9%","1249646","n/a"
-"Peoples Bancorp","Director","Al Vermeer","CEO","Peoples Bank","2023","Banker","2.3%","1249646","n/a"
-"Peoples Bancorp","n/a","Wayne R. Wilke Credit Shelter Trust.","n/a","n/a","2023","Retired","12.6%","1249646","n/a"
-"Peoples Bancorp","Director,"Treasurer & Secretary"","Lynn Van Beek","CFO","Peoples Bank","2023","Banker","0.9%","1249646","n/a"
-"Peoples Bancorp","Director,"Treasurer & Secretary"","Lynn Van Beek","Director / Cashier","Peoples Insurance Agency","2023","Banker","0.9%","1249646","n/a"
-"Peoples Bancorp","Director,"Treasurer & Secretary"","Lynn Van Beek","Manager","Tri-State Title LLC","2023","Banker","0.9%","1249646","n/a"
+"Peoples Bancorp","Director\nPresident","Joe D Van Tol - Trustee","President","Peoples Insurance Agency","2023","Retired","12.9%","1249646","n/a"
+"Peoples Bancorp","Director","Al Vermeer -Trustee","CEO","Peoples Bank","2023","Banker","2.3%","1249646","n/a"
+"Peoples Bancorp","n/a","Wayne R. Wilke - Trustee","n/a","n/a","2023","Retired","12.6%","1249646","n/a"
+"Peoples Bancorp","Director\nTreasurer &\nSecretary","Lynn Van Beek","CFO","Tri-State Title LLC","2023","Banker","0.9%","1249646","n/a"
 "Peoples Bancorp","n/a","Vernon L. Kooima*","n/a","n/a","2023","Retired","8.4%","1249646","n/a"
 "Peoples Bancorp","n/a","Mryon D. Kooima*","n/a","n/a","2023","Retired","8.4%","1249646","n/a"
-"Peoples Bancorp","n/a","Dale Allen Kooima*","Rock Valley President","Peoples Bank","2023","Banker","1.4%","1249646","n/a"
+"Peoples Bancorp","n/a","Dale Allen Kooima*","n/a","n/a","2023","Banker","1.4%","1249646","n/a"
 "Peoples Bancorp","Treasurer","Todd J Van Tol**","n/a","DVTT Inc.","2023","Small Business Owner","2.1%","1249646","n/a"
-"Peoples Bancorp","n/a","Joe E Van Tol**","President","Valley Machine","2023","Manufacturing Executive","1.6%","1249646","n/a"
+"Peoples Bancorp","n/a","Joe E Van Tol**","President","Valley Machine","2023","Manufacturing\nExecutive","1.6%","1249646","n/a"
 "Peoples Bancorp","n/a","David J Van Tol**","Researcher","Medtronics","2023","Employee","2.1%","1249646","n/a"
 "Peoples Bancorp","n/a","Ryan J Van Tol**","IT Director","Wireless World","2023","Employee","2.1%","1249646","n/a"
-"Peoples Bancorp","n/a","Brad Van Heuvelen","Sr. Wealth Management Vice President","Peoples Bank","2023","Banker","1.6%","1249646","n/a"
-"Peoples Bancorp","n/a","Brad Van Heuvelen","Director","Peoples Insurance Agency","2023","Banker","1.6%","1249646","n/a"
+"Peoples Bancorp","n/a","Brad Van Heuvelen","Sr. Wealth Management\nGroup Officer","Peoples Insurance Agency","2023","Banker","1.6%","1249646","n/a"
 ```

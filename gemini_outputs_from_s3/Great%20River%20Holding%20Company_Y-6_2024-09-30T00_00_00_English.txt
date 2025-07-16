@@ -1,18 +1,18 @@
 ```csv
-### SECURITIES HOLDERS CSV
+SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ```
 ```csv
-### INSIDERS CSV
+INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
 "Great River Holding Company","CEO/Director","Means,"Paul"","None","n/a","2024","Banker","3.29%","n/a","N/A"
-"Great River Holding Company","Director","Landgrebe,"David"","CONF","n/a","2024","Retired Banker","2.19%","n/a","N/A"
-"Great River Holding Company","Board Chairman/Director","Nelson,"Clint J"","CONF","n/a","2024","Realtor","11.05%","n/a","N/A"
+"Great River Holding Company","Director","Landgrebe,"David"","n/a","n/a","2024","Retired Banker","2.19%","n/a","N/A"
+"Great River Holding Company","Board Chairman/Director","Nelson,"Clint J"","n/a","n/a","2024","Realtor","11.05%","n/a","N/A"
 "Great River Holding Company","CFO/Secretary","Nelson,"Dan"","None","n/a","2024","Banker","0%","n/a","None"
-"Great River Holding Company","Director","Fehr,"Brad"","CONF","n/a","2024","Farmer","1.19%","n/a","N/A"
+"Great River Holding Company","Director","Fehr,"Brad"","n/a","n/a","2024","Farmer","1.19%","n/a","N/A"
 "Great River Holding Company","Director","Taylor,"Bart"","Chairman","Cuyuna Regional Medical Center","2024","Banker","2.58%","n/a","None"
-"Great River Holding Company","Director","Etter,"Robert"","CONF","Farmers & Merchant Bank,"Pierz","MN"","2024","Retired Accountant","1.29%","n/a","None"
-"Great River Holding Company","Director","Etter,"Robert"","CONF","Park State Bank,"Duluth"","2024","Retired Accountant","1.29%","n/a","None"
+"Great River Holding Company","Director","Etter,"Robert"","Director","Farmers & Merchant Bank,"Pierz","MN"","2024","Retired Accountant","1.29%","n/a","None"
+"Great River Holding Company","Director","Etter,"Robert"","Director","Park State Bank,"Duluth"","2024","Retired Accountant","1.29%","n/a","None"
 "Great River Holding Company","Director","Brombach,"Theodore"","Partner","XMS Capital Partners","2024","Broker","0.37%","n/a","CONF"
-"Great River Holding Company","Director","Brombach,"Theodore"","Trustee","XAI Octagon Floating Rate & Alternative Income Term Trust","2024","Broker","0.37%","n/a","CONF"
+"Great River Holding Company","Director","Brombach,"Theodore"","Trustee","XAI Octagon Floating Rate & Alternative Income Term Trust (XFLT)","2024","Broker","0.37%","n/a","CONF"
 ```

@@ -1,0 +1,16 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Security State Bank of Warroad","Vice President,"Secretary & Director"","Dinah Heneman","n/a","n/a","2024","Homemaker","4%","n/a","None"
+"Security State Bank of Warroad","President,"Treasurer & Director"","Roderick Heneman","n/a","Security State Insurance Agency","2024","Banker","48%","n/a","None"
+"Security State Bank of Warroad","n/a","Paul Heneman","n/a","n/a","2024","Consultant
+Blackrock
+"Institutional"","24%","n/a","None"
+"Security State Bank of Warroad","Banker","Heather Streiff","n/a","n/a","2024","Security State
+"Bank of Warroad"","24%","n/a","None"
+"Security State Bank of Warroad","Vice President","Aaron Rislov","n/a","n/a","2024","Banker","0%","n/a","None"
+```

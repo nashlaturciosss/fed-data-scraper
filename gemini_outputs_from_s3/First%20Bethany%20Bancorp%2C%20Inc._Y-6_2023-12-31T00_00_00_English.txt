@@ -1,0 +1,18 @@
+```csv
+### SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"First Bethany Bancorp,"Inc."","OKLAHOMA CITY,"OK"","2023","DOROTHY J PIERCE","COMMON STOCK","3639","27.44%","n/a"
+"First Bethany Bancorp,"Inc."","OKLAHOMA CITY,"OK"","2023","VANESSA PIERCE","COMMON STOCK","2153","16.23%","n/a"
+"First Bethany Bancorp,"Inc."","EDMOND,"OK"","2023","JOHN V. GUFFEY","COMMON STOCK","2195","16.55%","n/a"
+```
+```csv
+### INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First Bethany Bancorp,"Inc."","President and Director","Dorothy J. Pierce","","n/a","2023","Management of First Bethany Bancorp,"Inc. and Subsidiaries"","23.54% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Principal Shareholder","Vanessa Pierce","","n/a","2023","Retired Utility Consultant","12.29% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Director","A. Thomas Loy","CEO","MetaFund Corporation","2023","Banker","0.79% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Director","Jane Haskin","","n/a","2023","Banker- Retired",".20% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Director and Treasurer","Priscilla Cude","","n/a","2023","Banker",".01% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Director","Paul Geoffrey Pierce,"M.D."","","n/a","2023","Psychiatrist","1.38% Direct","n/a","None"
+"First Bethany Bancorp,"Inc."","Principal Shareholder","John V. Guffey","","n/a","2023","Sales-Retired","4.52% Direct","n/a","None"
+```

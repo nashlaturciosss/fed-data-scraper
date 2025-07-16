@@ -5,16 +5,9 @@
 ```csv
 ### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"CB Bancshares Corp.","Director","Alan Deines","Managing Director,"Co-Head of Fiduciary Financial Institutions"","Beneficient Company Group LP","2022","Banker","0%","n/a","None"
-"CB Bancshares Corp.","Director","Britt Nichols","Director","Farmers State Bank,"Phillipsburg","Ks."","2022","Attorney/Retired","0%","n/a","None"
-"CB Bancshares Corp.","Chairman,"Director/ President","Director"","Suchitra Padmanabhan","Chairman","KHRC","2022","Banker","0%","n/a","50%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","BC Capital Inc","2022","Business","1,"096 (91%) (Trustee)"","n/a","100%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","BC Capital LLC","2022","Business","1,"096 (91%) (Trustee)"","n/a","100%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","Winding Road LLC","2022","Business","1,"096 (91%) (Trustee)"","n/a","100%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","Yantra Services","2022","Business","1,"096 (91%) (Trustee)"","n/a","55%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","BC Finance LLC","2022","Business","1,"096 (91%) (Trustee)"","n/a","100%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","Netsys Inc","2022","Business","1,"096 (91%) (Trustee)"","n/a","65 5%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","Vitham Capital Partners LLC","2022","Business","1,"096 (91%) (Trustee)"","n/a","50%"
-"CB Bancshares Corp.","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","Netswitch","2022","Business","1,"096 (91%) (Trustee)"","n/a","75%"
-"CB Bancshares Corp.","None/Director","Sanjay Mishra","Professor","University of Kansas","2022","Professor","0","n/a","None"
+"CB Bancshares Corp","Director","Alan Deines","Managing Director,"Co-Head of Fiduciary"","Beneficient Company Group LP","2022","Banker","0","n/a","n/a"
+"CB Bancshares Corp","Director","Britt Nichols","Director","Farmers State Bank","2022","Attorney/Retired","0%","n/a","n/a"
+"CB Bancshares Corp","Chairman,"Director/ President","Director"","Suchitra Padmanabhan","Chairman","KHRC","2022","Banker","0%","n/a","50%"
+"CB Bancshares Corp","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","BC Capital Inc","2022","Business","1,"096 (.91%) (Trustee)"","n/a","100%"
+"CB Bancshares Corp","None/Director","Sanjay Mishra","Professor","University of Kansas","2022","Professor","0","n/a","n/a"
 ```

@@ -99,7 +99,7 @@ PROMPT = (
     "  • 'Occupation' must come ONLY from Item 4(2): Principal Occupation, if other than with holding company.\n"
     " • 'RSSD_ID' must come ONLY from a value that says RSSD_ID or ID_RSSD. Try to find this, it could be in small print. If none are found, return n/a. \n"
     " • 'Percentage of Voting Shares' must come ONLY from a value that says (4)(a) Percentage of Voting Shares in Bank Holding Company. If none are found, return n/a. \n"
-    " • 'Percentage of Voting Shares in Subsidiaries' must come ONLY from a value that says (4)(b) Percentage of Voting Shares in Subsidiaries. If none are found, return n/a. \n"
+    " • 'Percentage of Voting Shares in Subsidiaries' must come ONLY from a value that says (4)(b) Percentage of Voting Shares in Subsidiaries. Do not pull data from List names of other companies (includes partnerships) if 25% or more of voting Subsidiaries). Only pull data from (4)(b) Percentage of Voting Shares in Subsidiaries. If none are found, return n/a. \n"
     " • Do NOT shift fields — each value must appear in the correct column. Do NOT let 'Affiliation' appear in 'Fiscal Year'.\n"
 
     "- GENERAL RULES:\n"

@@ -1,10 +1,12 @@
 ```csv
+SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Home National Corporation","Bellevue,"WA"","2023","David T. Barker","Common","800","3.59%","1133183"
 "Home National Corporation","Aurora,"CO"","2023","Phillip S. Barker","Common","680","3.05%","1133183"
 "Home National Corporation","Costa Mesa,"CA"","2023","Sharon Dearing","Common","1200","5.39%","1133183"
 ```
 ```csv
+INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
 "Home National Corporation","Director","W. Todd Byrd","President/CEO","n/a","2023","Bank President","0.22%","1133183","n/a"
 "Home National Corporation","Vice Chairman,"Director"","Jeff W Welty","Director","n/a","2023","Consultant","0.22%","1133183","n/a"

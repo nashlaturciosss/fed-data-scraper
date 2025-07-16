@@ -1,0 +1,23 @@
+```csv
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+"TCB Corporation","Greenwood,"SC"","2023","Martha H Dunlap Rev Trust","Common Stock","39189","8%","n/a"
+"TCB Corporation","Greenwood,"SC"","2023","Martha H Dunlap Rev Trust","Common Stock","15949","3%","n/a"
+"TCB Corporation","Greenwood,"SC"","2023","R Thornwell Dunlap,"III"","Common Stock","46244","10%","n/a"
+"TCB Corporation","Greenwood,"SC"","2023","Stephen L Davis","Common Stock","45000","9%","n/a"
+"TCB Corporation","Lexington,"SC"","2023","Leslie D Callison","Common Stock","39120","8%","n/a"
+"TCB Corporation","Atlanta,"GA"","2023","Bonner D Sasser","Common Stock","38420","8%","n/a"
+"TCB Corporation","Greenwood,"SC"","2023","G William Thomason","Common Stock","10983","2%","n/a"
+"TCB Corporation","Greenwood,"SC"","2023","G William Thomason","Common Stock","22000","4%","n/a"
+```
+```csv
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"TCB Corporation","Principal Securties Holder","Martha H Dunlap","n/a","n/a","2023","n/a","8%","n/a","n/a"
+"TCB Corporation","Director","George W. Ballentine,"Jr."","President & Dealer Principal","Ballentine Ford","2023","Auto Dealership","1%","n/a","n/a"
+"TCB Corporation","Director","George W. Ballentine,"Jr."","President & Dealer Principal","Greenwood,"SC"","2023","Auto Dealership","1%","n/a","n/a"
+"TCB Corporation","Chariman & CEO","R Thornwell Dunlap,"III"","n/a","Greenwood Country Club","2023","n/a","10%","n/a","n/a"
+"TCB Corporation","Director","Julian J Nexsen,"Jr."","Director","n/a","2023","Retired","1%","n/a","n/a"
+"TCB Corporation","Director","John H Stroud","President & CEO","The O'Dell Corporation","2023","Manufacturing","2%","n/a","n/a"
+"TCB Corporation","Director","Stephen L Davis","Chairman & CEO","Davis & Floyd,"Inc."","2023","Engineering","9%","n/a","n/a"
+"TCB Corporation","Director","Megha Lal","n/a","n/a","2023","n/a","1%","n/a","n/a"
+"TCB Corporation","Director","Wiliam W. McMullan","Retired","n/a","2023","Retired","1%","n/a","n/a"
+```

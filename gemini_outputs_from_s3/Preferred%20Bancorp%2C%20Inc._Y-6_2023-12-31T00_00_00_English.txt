@@ -10,11 +10,11 @@
 ```csv
 ### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Preferred Bancorp,"Inc."","Director/President","Kenneth A Scott","n/a","n/a","2023","Preferred Bank","0.46","2939319","none"
-"Preferred Bancorp,"Inc."","Director","David L Hensiek","n/a","n/a","2023","Retired","12.50","2939319","none"
-"Preferred Bancorp,"Inc."","Director","Everett D Lawrence","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","none"
-"Preferred Bancorp,"Inc."","Director","Kim Spittler","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","none"
-"Preferred Bancorp,"Inc."","Director","Jeffrey Mitchell","n/a","J&K Mitchell,"Inc"","2023","J&K Mitchell,"Inc"","13.77","2939319","none"
-"Preferred Bancorp,"Inc."","VP/Secretary","Phyllis Burress Meek","n/a","n/a","2023","Preferred Bank","0.18","2939319","none"
-"Preferred Bancorp,"Inc."","n/a","Gerald Forsythe","President & CEO","Indeck Energy","2023","Indeck Energy","11.86","2939319","none"
+"Preferred Bancorp,"Inc."","Director/President","Kenneth A Scott","n/a","n/a","2023","Preferred Bank","0.46","2939319","n/a"
+"Preferred Bancorp,"Inc."","Director","David L Hensiek","n/a","n/a","2023","Retired","12.50","2939319","n/a"
+"Preferred Bancorp,"Inc."","Director","Everett D Lawrence","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","n/a"
+"Preferred Bancorp,"Inc."","Director","Kim Spittler","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","n/a"
+"Preferred Bancorp,"Inc."","Director","Jeffrey Mitchell","n/a","J&K Mitchell,"Inc"","2023","J&K Mitchell,"Inc"","13.77","2939319","n/a"
+"Preferred Bancorp,"Inc."","VP/Secretary","Phyllis Burress Meek","n/a","Preferred Bank","2023","Preferred Bank","0.18","2939319","n/a"
+"Preferred Bancorp,"Inc."","n/a","Gerald Forsythe","President & CEO","Indeck Energy","2023","Indeck Energy","11.86","2939319","n/a"
 ```

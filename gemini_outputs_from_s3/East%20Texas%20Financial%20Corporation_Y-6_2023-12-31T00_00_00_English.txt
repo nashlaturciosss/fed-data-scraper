@@ -1,15 +1,15 @@
 ```csv
 SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Long Interests,"LP"","Common Stock","2716","5.386%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Charles E. Long's Estate","Common Stock","9220","18.283%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Larry Thomas Long","Common Stock","9126","18.096%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Larry Thomas Long Trust","Common Stock","9221","18.285%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Lawrence Allan Long Trust","Common Stock","9120","18.084%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Lawrence Allan Long","Common Stock","11256","22.32%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Lauren T. Long","Common Stock","1019","2.021%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Sarah E. Long","Common Stock","100","0.198%","n/a"
-"East Texas Financial Corporation","Kilgore,"USA"","2023","Meredith T. Long","Common Stock","1019","2.021%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Long Interests,"LP"","Common Stock","2716","5.386%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Charles E. Long's Estate","Common Stock","9220","18.283%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Larry Thomas Long","Common Stock","9126","18.096%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Larry Thomas Long Trust","Common Stock","9221","18.285%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Lawrence Allan Long Trust","Common Stock","9120","18.084%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Lawrence Allan Long","Common Stock","11256","22.32%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Lauren T. Long","Common Stock","1019","2.021%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Sarah E. Long","Common Stock","100","0.198%","n/a"
+"East Texas Financial Corporation","Kilgore,"TX"","2023","Meredith T. Long","Common Stock","1019","2.021%","n/a"
 ```
 ```csv
 INSIDERS CSV
@@ -17,9 +17,10 @@ INSIDERS CSV
 "East Texas Financial Corporation","President Director","Larry Thomas Long","Board Chairman Director","Citizens Bank","2023","Oil & Gas Producer","60.004%","n/a","n/a"
 "East Texas Financial Corporation","Director","Sammy D. York","Vice Chairman Director","Citizens Bank","2023","Banker","0.446%","n/a","n/a"
 "East Texas Financial Corporation","Vice President Director","John R. Mills","President & CEO Director","Citizens Bank","2023","Banker","0.297%","n/a","n/a"
-"East Texas Financial Corporation","Director","Lawrence Allan Long","Director","Citizens Bank","2023","Oil & Gas Producer","22.320%","n/a","n/a"
+"East Texas Financial Corporation","Director","Lawrence Allan Long","n/a","Citizens Bank","2023","Oil & Gas Producer","22.320%","n/a","n/a"
 "East Texas Financial Corporation","Director","Melvin K. Jordan","Executive VP/Cashier Director","Citizens Bank","2023","Banker","0.075%","n/a","n/a"
 "East Texas Financial Corporation","Director","Lauren T. Long","Director","Citizens Bank","2023","Marketing Consultant","2.021%","n/a","n/a"
 "East Texas Financial Corporation","Director","Sarah E. Long","Director","Citizens Bank","2023","Business Admin","0.198%","n/a","n/a"
-"East Texas Financial Corporation","Director","Meredith T. Long","Director","Citizens Bank","2023","Managing Consultant","2.021%","n/a","n/a"
+"East Texas Financial Corporation","n/a","Meredith T. Long","Director","Citizens Bank","2023","Managing Consultant","2.021%","n/a","n/a"
+"East Texas Financial Corporation","n/a","Charles E. Long's Estate","n/a","n/a","2023","None","18.283%","n/a","n/a"
 ```

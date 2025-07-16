@@ -1,31 +1,25 @@
 ```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Security Financial Services,"Inc."","Chisholm,"MN"","2023","John P. Wangensteen","Common Stock","2167","5.35%","n/a"
-```
-```csv
-INSIDERS CSV
+### INSIDERS CSV
 "Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Security Financial Services,"Inc."","President,"Director"","Mark T. Gardeski","Treasurer","Bowstring Company","2023","Banking","0.41%","n/a","None"
-"Security Financial Services,"Inc."","President,"Director"","Mark T. Gardeski","Treasurer","Bay City Beach Cabins","2023","Banking","0.41%","n/a","None"
-"Security Financial Services,"Inc."","President,"Director"","Mark T. Gardeski","Chair of Board","Hibbing HRA","2023","Banking","0.41%","n/a","None"
-"Security Financial Services,"Inc."","President,"Director"","Mark T. Gardeski","Board Member","Range Fairview Hospital","2023","Banking","0.41%","n/a","None"
-"Security Financial Services,"Inc."","Director","Dan M. Chisholm","n/a","L&D Mesabi LLC","2023","Retired Business Owner","0.25%","n/a","None"
-"Security Financial Services,"Inc."","Director","Dan M. Chisholm","n/a","LAPD LLC","2023","Retired Business Owner","0.25%","n/a","None"
-"Security Financial Services,"Inc."","Director","Dan M. Chisholm","n/a","LAPD KAIA LLC","2023","Retired Business Owner","0.25%","n/a","None"
-"Security Financial Services,"Inc."","Director","Dan M. Chisholm","n/a","LAPD Lower Hanson LLC","2023","Retired Business Owner","0.25%","n/a","None"
+"Security Financial Services,"Inc."","President and Director","Mark T. Gardeski","Treasurer","Bowstring Company","2023","Banking","0.41%","n/a","None"
+"Security Financial Services,"Inc."","President and Director","Mark T. Gardeski","Treasurer","Bay City Beach Cabins","2023","Banking","0.41%","n/a","None"
+"Security Financial Services,"Inc."","President and Director","Mark T. Gardeski","Treasurer","Hibbing HRA","2023","Banking","0.41%","n/a","None"
+"Security Financial Services,"Inc."","President and Director","Mark T. Gardeski","Treasurer","Board & Range Fairview Hospital","2023","Banking","0.41%","n/a","None"
+"Security Financial Services,"Inc."","Director","Dan M. Chisholm","n/a","n/a","2023","Retired Business Owner","0.25%","n/a","None"
 "Security Financial Services,"Inc."","Director","Michael R. Enich","Owner","Mike Enich Dental,"PLLC"","2023","Dentist","0.67%","n/a","None"
 "Security Financial Services,"Inc."","Director","James M. Erickson","CEO","Max Gray Construction,"Inc."","2023","Contractor","1%","n/a","None"
 "Security Financial Services,"Inc."","Director","James M. Erickson","n/a","JT Camp,"LLC"","2023","Contractor","1%","n/a","None"
 "Security Financial Services,"Inc."","Director","James M. Erickson","n/a","Goat Head Properties,"LLC"","2023","Contractor","1%","n/a","None"
 "Security Financial Services,"Inc."","Director","Thomas D. Jamar","n/a","n/a","2023","Retired Business Owner","0.44%","n/a","None"
 "Security Financial Services,"Inc."","Director","Susan M. Rudberg","n/a","n/a","2023","Retired Physician","0.47%","n/a","None"
-"Security Financial Services,"Inc."","Secretary/Treasurer,"Director"","John R. Ryan,"Jr."","Chairman","Ryan Financial Group LLC","2023","Life Underwriter,"Certified Financial Planner"","0.29%","n/a","None"
-"Security Financial Services,"Inc."","Secretary/Treasurer,"Director"","John R. Ryan,"Jr."","OPS Mgr","Ryan Financial LP","2023","Life Underwriter,"Certified Financial Planner"","0.29%","n/a","None"
-"Security Financial Services,"Inc."","Secretary/Treasurer,"Director"","John R. Ryan,"Jr."","n/a","Daniel O. Burkes Irrevocable Trust & Owen Family Charitable Foundation","2023","Life Underwriter,"Certified Financial Planner"","0.29%","n/a","None"
+"Security Financial Services,"Inc."","Secretary/Treasurer and Board Director","John R. Ryan,"Jr."","Chairman","Ryan Financial Group LLC","2023","Life Underwriter,"Certified Financial Planner"","0.29%","n/a","None"
+"Security Financial Services,"Inc."","Secretary/Treasurer and Board Director","John R. Ryan,"Jr."","n/a","Daniel O. Burkes Irrevocable Trust & Owen Family Charitable Foundation","2023","Life Underwriter,"Certified Financial Planner"","0.29%","n/a","None"
 "Security Financial Services,"Inc."","Director","Karine Woodman","President","24HR Bookkeeper Inc.","2023","Accountant / Entrepreneur","0.17%","n/a","None"
 "Security Financial Services,"Inc."","Director","Karine Woodman","Owner","24 Properties LLC","2023","Accountant / Entrepreneur","0.17%","n/a","None"
-"Security Financial Services,"Inc."","Chief Financial Officer","Spencer Aune","n/a","n/a","2023","N/A","0%","n/a","None"
-"Security Financial Services,"Inc."","Sr. Operations Officer","Jerry A. Wallis","n/a","n/a","2023","N/A","0.53%","n/a","None"
-"Security Financial Services,"Inc."","Chief Financial Officer","Mark Macor","n/a","n/a","2023","N/A","0.33%","n/a","None"
+"Security Financial Services,"Inc."","n/a","Spencer Aune","Chief Financial Officer","n/a","2023","n/a","0%","n/a","None"
+"Security Financial Services,"Inc."","n/a","Jerry A. Wallis","Sr. Operations Officer","n/a","2023","n/a","0.53%","n/a","None"
+"Security Financial Services,"Inc."","n/a","Mark Macor","Chief Financial Officer","n/a","2023","n/a","0.33%","n/a","None"
 ```

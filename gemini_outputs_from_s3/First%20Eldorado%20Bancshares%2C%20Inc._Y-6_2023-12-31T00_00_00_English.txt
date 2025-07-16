@@ -1,0 +1,16 @@
+```csv
+SECURITIES HOLDERS CSV
+"Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
+```
+```csv
+INSIDERS CSV
+"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"FIRST ELDORADO BANCSHARES,"INC"","Director,"Chairman"","HYMAN D. SAUER","Chairman,"Director"","Divide Water Co,"LLC"","2023","n/a","3.73","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","Director","Martha S Oliver","Director","n/a","2023","Homemaker","10.00","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","Director","Shirley J. Joiner","Director","n/a","2023","Homemaker","2.04","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","Treasurer","Angela Redish","n/a","n/a","2023","n/a","n/a","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","President,"Director"","Mason B. Vaughan","President","4V Casitas,"LLC"","2023","n/a","5.83","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","President,"Director"","Mason B. Vaughan","President","Bubs Tub,"LLC"","2023","n/a","5.83","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","Director","Jeanne J. Snelson","n/a","n/a","2023","Homemaker","3.16","n/a","n/a"
+"FIRST ELDORADO BANCSHARES,"INC"","Principal Securities Holder","First Eldorado Bancshares,"Inc."","n/a","n/a","2023","n/a","100","n/a","n/a"
+```
