@@ -1,19 +1,16 @@
-```csv
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "PSB Corporation","Wellsburg,"IA"","2023","PSB Corporation Employee Stock Ownership Plan","n/a","23993","14.74%","1210468"
 "PSB Corporation","Denver,"IA"","2023","Ryan Sheridan,"Trustee *"","n/a","100","0.06%","1210468"
 "PSB Corporation","Wellsburg,"IA"","2023","Eric Olson,"Trustee *"","n/a","15","0.01%","1210468"
-"PSB Corporation","Denver,"IA"","2023","Jamin Wass,"Trustee *"","n/a","0","0.00 %","1210468"
-```
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"PSB Corporation","Director","Mr. Lawrence Stumme","n/a","n/a","2023","Retired","0.02%","1210468","n/a"
-"PSB Corporation","Director","Mr. Tony Doolaard","Director","Peoples Savings Bank,"Wellsburg"","2023","Retired","0.82%","1210468","n/a"
-"PSB Corporation","Director","Mr. Allen V. Jaspers","Director","Peoples Savings Bank,"Wellsburg"","2023","Farmer","0.71%","1210468","n/a"
-"PSB Corporation","Director","Mr. Harris Reiter","Director","Peoples Savings Bank,"Wellsburg"","2023","Farmer","0.72%","1210468","n/a"
-"PSB Corporation","Director","Mr. Seth Schroeder","Director","Peoples Savings Bank,"Wellsburg"","2023","Lawyer","0.02%","1210468","n/a"
-"PSB Corporation","Director","Mr. Jeff Schumacher","Director","n/a","2023","Business CEO","0.06%","1210468","n/a"
-"PSB Corporation","Director,"V.P.","Treasurer and Secretary"","Mr. Eric Olson","n/a","n/a","2023","n/a","0.01%","1210468","n/a"
-"PSB Corporation","President and Chairman","Mr. Ryan Sheridan","n/a","n/a","2023","n/a","0.06%","1210468","n/a"
-"PSB Corporation","Trustee","PSB Corporation Employee Stock Ownership Plan","n/a","n/a","2023","Director","14.62%","1210468","n/a"
-```
+"PSB Corporation","Denver,"IA"","2023","Jamin Wass,"Trustee *"","n/a","0","0.00%","1210468"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"PSB Corporation","Director","Mr. Lawrence Stumme","2023","Retired","0.02%","1210468","n/a"
+"PSB Corporation","Director","Mr. Tony Doolaard","2023","Retired","0.82%","1210468","n/a"
+"PSB Corporation","Director","Mr. Allen V. Jaspers","2023","Farmer","0.71%","1210468","n/a"
+"PSB Corporation","Director","Mr. Harris Reiter","2023","Farmer","0.72%","1210468","n/a"
+"PSB Corporation","Director","Mr. Seth Schroeder","2023","Lawyer","0.02%","1210468","n/a"
+"PSB Corporation","Director","Mr. Jeff Schumacher","2023","Business CEO","0.06%","1210468","n/a"
+"PSB Corporation","Director,"V.P.","Treasurer","Secretary","President","Chairman"","Mr. Eric Olson","2023","n/a","0.01%","1210468","n/a"
+"PSB Corporation","President,"Chairman","Director"","Mr. Ryan Sheridan","2023","n/a","0.06%","1210468","n/a"

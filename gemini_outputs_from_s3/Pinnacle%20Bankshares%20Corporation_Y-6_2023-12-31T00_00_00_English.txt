@@ -1,27 +1,21 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Pinnacle Bankshares Corporation","Greenwich,"CT"","2023","Tontine Financial Partners,"L.P."","Common Stock","214275","9.71%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Pinnacle Bankshares Corporation","Director","Elton W Blackstock,"Jr."","n/a","Blue Ridge Regional Jail","2023","Retired","0.33%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Vivian S Brown","n/a","n/a","2023","Retired","0.19%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Connie C Burnette","Wiley/Wilson","n/a","2023","Engineering Firm HR Manager","0.05%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","James E Burton,"IV"","n/a","Slurry Paver's Inc.","2023","Retired","0.65%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","James E Burton,"IV"","n/a","Burton Designs,"LLC"","2023","Retired","0.65%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","James E Burton,"IV"","n/a","Pavement Consulting Services,"LLC"","2023","Retired","0.65%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Judson H Dalton","n/a","English Construction Company","2023","Construction Project Manager","0.22%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Robert L. Finch,"Jr"","n/a","n/a","2023","Retired","0.47%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Aubrey H (Todd) Hall,"III"","n/a","A & S,"LLC"","2023","President and CEO","1.42%","n/a","n/a"
-"Pinnacle Bankshares Corporation","General Counsel","Robert Hurt","n/a","4C Health Solutions,"Inc."","2023","n/a","0.03%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Robert L.. Johnson,"if"","n/a","n/a","2023","Retired","0.11%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","L. Frank King,"Jr"","n/a","n/a","2023","Retired","0.31%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Vice President,"Secretary","Treasurer and Chief Financial Officer"","Bryan M Lemley","n/a","n/a","2023","N/A","0.47%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director,"Vice-Chairman"","Donald W. Merricks","n/a","n/a","2023","Retired","0.20%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Carroll E Shelton","n/a","n/a","2023","Retired","0.88%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","C Bryan Stott","n/a","n/a","2023","Investment Broker Branch Manager","0.57%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","Michael E. Watson","n/a","Stifel Nicolas","2023","Retired","0.29%","n/a","n/a"
-"Pinnacle Bankshares Corporation","Director","James Watts,"IV","Esq"","n/a","Scott insurance","2023","Controller/Treasurer","0.11%","n/a","n/a"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Pinnacle Bankshares Corporation","Director","Elton W Blackstock,"Jr."","2023","Retired","0.33%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Vivian S Brown","2023","Retired","0.19%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Connie C Burnette","2023","Engineering Firm HR Manager","0.05%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director,"Chairman"","James E Burton,"IV"","2023","Retired","0.65%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Judson H Dalton","2023","Construction Project Manager","0.22%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director,"Chief Executive Officer","Chairman of the Board"","Robert L. Finch,"Jr"","2023","Retired","0.47%","n/a","N/A"
+"Pinnacle Bankshares Corporation","President,"CEO","Director"","Aubrey H (Todd) Hall,"III"","2023","N/A","1.42%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Robert Hurt","2023","General Counsel","0.03%","n/a","NA"
+"Pinnacle Bankshares Corporation","Director","Dr Robert L. Johnson,"Jr"","2023","Retired","0.11%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","L. Frank King,"Jr"","2023","Retired","0.31%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Vice President,"Secretary","Treasurer","Chief Financial Officer","Executive Vice President","Cashier"","Bryan M Lemley","2023","N/A","0.47%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director,"Vice-Chairman"","Donald W. Merricks","2023","Retired","0.20%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Carroll E Shelton","2023","Retired","0.88%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director,"Vice President","Branch Manager"","C Bryan Stott","2023","Investment Broker Branch Manager","0.57%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director","Michael E. Watson","2023","Retired","0.29%","n/a","N/A"
+"Pinnacle Bankshares Corporation","Director,"Vice President"","James O. Watts,"IV","Esq"","2023","Insurance Sales Vice President","0.11%","n/a","N/A"

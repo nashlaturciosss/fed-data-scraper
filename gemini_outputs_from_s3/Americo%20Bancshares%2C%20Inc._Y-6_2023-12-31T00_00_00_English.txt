@@ -1,24 +1,20 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Americo Bancshares,"Inc."","Dallas,"TX"","2023","John M. Moore M.D.","Common Stock","332215","56.90%","n/a"
 "Americo Bancshares,"Inc."","Austin,"TX"","2023","Rebecca A. Phillips","Common Stock","42018","7.20%","n/a"
 "Americo Bancshares,"Inc."","Dallas,"TX"","2023","James T. Moore","Common Stock","30000","5.14%","n/a"
 "Americo Bancshares,"Inc."","Dallas,"TX"","2023","Melissa Thoveson","Common Stock","35144","6.46%","n/a"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Americo Bancshares,"Inc."","Director","Edvin Beasley","n/a","n/a","2023","Private Equity RE","n/a","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","Andrew Meyercord","n/a","n/a","2023","Lawyer","n/a","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","James Todd Moore","President","Kiowa Gas Company","2023","Oil & Gas Manager","5.14%","n/a","n/a"
-"Americo Bancshares,"Inc."","Director & Chairman","John M. Moore,"M.D."","Owner","John M. Moore MD","2023","Physician","56.90%","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","James A Nolen Jr.","Partner","6401 DCC Partnership","2023","CFO Consultant / RE Investor","0.09%","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","Steve McGavock","President","McGavock Inc.","2023","Auto Dealership Management / Partner","0.91%","n/a","n/a"
-"Americo Bancshares,"Inc."","Secretary","Tracy Riddle","n/a","n/a","2023","Banker","n/a","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","Loyd Rinehart","n/a","n/a","2023","n/a","0.09%","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","Robert Shapiro","President","Austin Metal and Iron","2023","RE Investor / Recycling","0.09%","n/a","n/a"
-"Americo Bancshares,"Inc."","Treasurer","Tom Tebo","n/a","n/a","2023","Banker","n/a","n/a","n/a"
-"Americo Bancshares,"Inc."","Vice Chairman & Director","E. Powell Thompson","Beneficiary","E Powell Thompson Exempt Trust","2023","Banker","2.06%","n/a","n/a"
-"Americo Bancshares,"Inc."","Director","Melissa Thoveson","n/a","n/a","2023","N/A","6.46%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Americo Bancshares,"Inc."","Director","Edvin Beasley","2023","Private Equity RE","n/a","n/a","n/a"
+"Americo Bancshares,"Inc."","Director","Andrew Meyercord","2023","Lawyer","n/a","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"President","Managing Partner"","James Todd Moore","2023","Oil & Gas Manager","5.14%","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"Chairman","Owner","Managing Partner","Member","Controlling Party Trust"","John M. Moore,"M.D."","2023","Physician","56.90%","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"Partner","Owner"","James A Nolen Jr.","2023","CFO Consultant / RE Investor","0.09%","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"President","Partner","Dealer","Manager"","Steve McGavock","2023","Auto Dealership Management / Partner","0.91%","n/a","n/a"
+"Americo Bancshares,"Inc."","Secretary,"Sr Exec VP","Chief Administrative Officer"","Tracy Riddle","2023","Banker","n/a","n/a","n/a"
+"Americo Bancshares,"Inc."","Director","Loyd Rinehart","2023","n/a","0.09%","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"President","Partner"","Robert Shapiro","2023","RE Investor / Recycling","0.09%","n/a","n/a"
+"Americo Bancshares,"Inc."","Treasurer,"Sr Exec VP","Chief Financial Officer"","Tom Tebo","2023","Banker","n/a","n/a","n/a"
+"Americo Bancshares,"Inc."","Vice Chairman,"Director","Interim CEO","Beneficiary","Lmt Partner","Member","Controlling Party Trust"","E. Powell Thompson","2023","Banker","2.06%","n/a","n/a"
+"Americo Bancshares,"Inc."","Director,"Controlling Party Trust","General Partner"","Melissa Thoveson","2023","n/a","6.46%","n/a","n/a"

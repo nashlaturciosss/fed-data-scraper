@@ -1,24 +1,13 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Countricorp","Helena,"MT"","2023","Michael E. Grove","common stock","110424","96.34%","n/a"
-"Countricorp","Helena,"MT"","2023","Michael A. Grove","common stock","500",".44%","n/a"
-"Countricorp","Helena,"MT"","2023","Holden Grove","common stock","400",".35%","n/a"
-```
-```csv
+"Countricorp","White Sulphur Springs,"MT"","2023","Michael E. Grove","common stock","110424","96.34%","n/a"
+"Countricorp","White Sulphur Springs,"MT"","2023","Michael A. Grove","common stock","500",".44%","n/a"
+"Countricorp","White Sulphur Springs,"MT"","2023","Holden Grove","common stock","400",".35%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Countricorp","President and Director","Michael E. Grove","Independent Banc Service Co.","Independent Banc Service Co.","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","Administrator","Michael E. Grove","Independent Banc Service Co.","Independent Banc Service Co.","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","President and Director","Michael E. Grove","Springs Insurance","Springs Insurance","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","Administrator","Michael E. Grove","Springs Insurance","Springs Insurance","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","President and Director","Michael E. Grove","Grove Rentals","Grove Rentals","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","Administrator","Michael E. Grove","Grove Rentals","Grove Rentals","2023","N/A","96.34%","n/a","n/a"
-"Countricorp","Director","Stephen J. Schendel","Principal","Schendel & Associates","2023","Consultant","0.09%","n/a","n/a"
-"Countricorp","Treasurer and Director","Daniel P. Grove","Partner","Geodan LLP","2023","C.P.A.","0.09%","n/a","n/a"
-"Countricorp","Treasurer and Director","Daniel P. Grove","Member","Geodan II,"LLC"","2023","C.P.A.","0.09%","n/a","n/a"
-"Countricorp","Treasurer and Director","Daniel P. Grove","Member","Geodan III,"LLC"","2023","C.P.A.","0.09%","n/a","n/a"
-"Countricorp","Vice President and Director","Michael A. Grove","n/a","n/a","2023","N/A",".44%","n/a","n/a"
-"Countricorp","Director","Holden Grove","n/a","n/a","2023","N/A",".35%","n/a","n/a"
-"Countricorp","Secretary","Laura Myers","n/a","n/a","2023","N/A",".09%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Countricorp","President,"Director","Administrator"","Michael E. Grove","2023","N/A","96.34%","n/a","n/a"
+"Countricorp","Director","Stephen J. Schendel","2023","Consultant","0.09%","n/a","n/a"
+"Countricorp","Treasurer,"Director","Administrator"","Daniel P. Grove","2023","C.P.A.",".09%","n/a","n/a"
+"Countricorp","Vice President,"Director"","Michael A. Grove","2023","N/A",".44%","n/a","n/a"
+"Countricorp","Director,"Compliance Analyst"","Holden Grove","2023","N/A",".35%","n/a","n/a"
+"Countricorp","Secretary,"General Counsel","HR Director"","Laura Myers","2023","N/A",".09%","n/a","n/a"

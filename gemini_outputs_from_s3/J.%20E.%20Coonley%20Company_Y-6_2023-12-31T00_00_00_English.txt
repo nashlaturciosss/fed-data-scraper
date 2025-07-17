@@ -1,23 +1,14 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"J. E. Coonley Company","Hampton,"IA"","2023","John E. Coonley","Common Stock","1237.6","42.05%"
-"J. E. Coonley Company","Hampton,"IA"","2023","Joan M. Coonley Irrevocable Trust","Common Stock","1337.45","45.46%"
-"J. E. Coonley Company","Hampton,"IA"","2023","James E. Coonley Irrevocable Trust","Common Stock","183.279","6.23%"
-"J. E. Coonley Company","Hampton,"IA"","2023","John E. Coonley II QSST Trust","Common Stock","92.00","3.13%"
-"J. E. Coonley Company","Hampton,"IA"","2023","Philip J. Coonley QSST Trust","Common Stock","92.00","3.13%"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Coonley Law Firm,"PLLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Hampton Bulldog Properties VIII,"LLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Texas Sun Devil Endeavors,"LLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Hampton Bulldog Properties III,"LLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Hampton Bulldog Properties V,"LLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","Hampton Bulldog Properties VI,"LLC"","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","President","John E. Coonley","Attorney","RBB Ag Land LLC","2023","Attorney","93.74%","1209529","n/a"
-"J. E. Coonley Company","Retired","Joan M. Coonley","Director","United Bank & Trust Company","2023","Retired","n/a","n/a","n/a"
-"J. E. Coonley Company","Certified Public Accountant","Elaine W. Coonley","Director","United Bank & Trust Company","2023","Certified Public Accountant","n/a","n/a","n/a"
-"J. E. Coonley Company","Trustee","Elaine W. Coonley","Shareholder/Pres.","Coonley & Heilskov CPAS,"PC"","2023","Certified Public Accountant","6.26%","n/a","n/a"
-```
+"J.E. Coonley Company","Hampton,"IA"","2023","John E. Coonley","Common Stock","1237.6","42.05%","n/a"
+"J.E. Coonley Company","Hampton,"IA"","2023","Joan M. Coonley Irrevocable Trust","Common Stock","1337.45","45.46%","n/a"
+"J.E. Coonley Company","Hampton,"IA"","2023","James E. Coonley Irrevocable Trust","Common Stock","183.279","6.23%","n/a"
+"J.E. Coonley Company","Hampton,"IA"","2023","John E. Coonley II QSST Trust","Common Stock","92.00","3.13%","n/a"
+"J.E. Coonley Company","Hampton,"IA"","2023","Philip J. Coonley QSST Trust","Common Stock","92.00","3.13%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"J.E. Coonley Company","President,"Director","Sole Member","Mgr","Member","Member/Manager"","John E. Coonley","2023","Attorney","93.74%","n/a","None"
+"J.E. Coonley Company","Director","Joan M. Coonley","2023","Retired","n/a","n/a","n/a"
+"J.E. Coonley Company","Director,"Trustee"","Elaine W. Coonley","2023","Certified Public Accountant","n/a","n/a","n/a"
+"J.E. Coonley Company","Trustee","John E. Coonley II","2023","n/a","n/a","n/a","n/a"
+"J.E. Coonley Company","Trustee","Philip J. Coonley","2023","Financial Analyst","n/a","n/a","n/a"

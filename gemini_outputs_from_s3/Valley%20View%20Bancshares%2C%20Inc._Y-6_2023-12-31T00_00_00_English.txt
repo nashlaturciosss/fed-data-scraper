@@ -1,20 +1,8 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Gregory R. Sherman","n/a","5569807","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Gregory R. Sherman","n/a","230044","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Helene Abrahams","n/a","1704605","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Helene Abrahams","n/a","159191","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Erica Fisher","n/a","2275753","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Erica Fisher","n/a","136745","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Erika R. Feingold","n/a","648496","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","2022","Erika R. Feingold","n/a","138819","n/a","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"VALLEY VIEW BANCSHARES,"INC."","Trustee","Gregory R. Sherman","n/a","n/a","2022","n/a","n/a","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","Helene Abrahams","n/a","n/a","2022","n/a","n/a","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","Erica L. Fisher","n/a","n/a","2022","n/a","n/a","n/a","n/a"
-"VALLEY VIEW BANCSHARES,"INC."","n/a","Erika R. Feingold","n/a","n/a","2022","n/a","n/a","n/a","n/a"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"VALLEY VIEW BANCSHARES INC","n/a","Gregory R. Sherman","2022","n/a","n/a","n/a","n/a"
+"VALLEY VIEW BANCSHARES INC","n/a","Helene Abrahams","2022","n/a","n/a","n/a","n/a"
+"VALLEY VIEW BANCSHARES INC","n/a","Erica L. Fisher","2022","n/a","n/a","n/a","n/a"
+"VALLEY VIEW BANCSHARES INC","n/a","Erika R. Feingold","2022","n/a","n/a","n/a","n/a"

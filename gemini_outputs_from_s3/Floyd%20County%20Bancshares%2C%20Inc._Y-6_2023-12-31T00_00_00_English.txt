@@ -1,24 +1,20 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Floyd County Bancshares,"Inc."","Floydada,"Texas"","2023","Thomas K. Farris,"Jr."","Common Stock","353","17.90969","n/a"
-"Floyd County Bancshares,"Inc."","Dallas,"Texas"","2023","Elizabeth Farris Figari","Common Stock","332","17.104585","n/a"
-"Floyd County Bancshares,"Inc."","Dallas,"Texas"","2023","John C. Farris","Common Stock","332","17.104585","n/a"
-"Floyd County Bancshares,"Inc."","Houston,"Texas"","2023","George R. Farris","Common Stock","345","17.77434","n/a"
-"Floyd County Bancshares,"Inc."","Mill Creek,"Washington"","2023","Lucinda M Garrett","Common Stock","106","5.4611","n/a"
+"Floyd County Bancshares,"Inc."","Floydada,"TX"","2023","Thomas K. Farris,"Jr."","Common Stock","353","17.90969","n/a"
+"Floyd County Bancshares,"Inc."","Dallas,"TX"","2023","Elizabeth Farris Figari","Common Stock","332","17.104585","n/a"
+"Floyd County Bancshares,"Inc."","Dallas,"TX"","2023","John C. Farris","Common Stock","332","17.104585","n/a"
+"Floyd County Bancshares,"Inc."","Houston,"TX"","2023","George R. Farris","Common Stock","345","17.77434","n/a"
+"Floyd County Bancshares,"Inc."","Mill Creek,"WA"","2023","Lucinda M Garrett","Common Stock","106","5.4611","n/a"
 "Floyd County Bancshares,"Inc."","Floydada,"TX"","2023","Thomas K. Farris III","Common Stock","60","3.044","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Floyd County Bancshares,"Inc."","Director & President","Thomas K Farris,"Jr"","Director & chairman","First Texas National Bank","2023","Banker","17.90969","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director& Sec. Treas","David Patterson","n/a","Patterson Farms.","2023","Farmer","1.54595","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director & V-President","George R. Farris","President","Inverness Enterprises,"Inc"","2023","Investor","17.774343","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director","Thomas M Williams","n/a","n/a","2023","Retired Banker","3.09119","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director","Mitchell L. Probasco","n/a","Probasco Flying","2023","Spray Pilot","0.507356","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Principal Shareholder","John C. Farris","Managing Partner","MPACT Financial","2023","Investment Banker","17.104585","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Principal Shareholder","Elizabeth Farris Figari","n/a","n/a","2023","Investor","17.104585","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director","Thomas K. Farris III","Director & CEO","First Texas National Bank","2023","Banker","3.04414","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director","Amanda L. Hinsley","Director & CFO","First Texas National Bank","2023","Banker","0.507356","n/a","n/a"
-"Floyd County Bancshares,"Inc."","Director","Logan D. Bradley","Director & VP Lender","First Texas National Bank","2023","Banker","0.507356","n/a","n/a"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Floyd County Bancshares,"Inc."","Director,"President","Chairman"","Thomas K Farris,"Jr"","2023","Banker","17.90969","n/a","None"
+"Floyd County Bancshares,"Inc."","Director,"Secretary","Treasurer"","David Patterson","2023","Farmer","1.54595","n/a","None"
+"Floyd County Bancshares,"Inc."","Director,"Vice-President"","George R. Farris","2023","Investor","17.774343","n/a","None"
+"Floyd County Bancshares,"Inc."","Director","Thomas M Williams","2023","Retired Banker","3.09119","n/a","None"
+"Floyd County Bancshares,"Inc."","Director","Mitchell L. Probasco","2023","Spray Pilot","0.507356","n/a","None"
+"Floyd County Bancshares,"Inc."","Principal Shareholder","John C. Farris","2023","Investment Banker","17.104585","n/a","None"
+"Floyd County Bancshares,"Inc."","Principal Shareholder","Elizabeth Farris Figari","2023","Investor","17.104585","n/a","None"
+"Floyd County Bancshares,"Inc."","Director,"CEO"","Thomas K. Farris III","2023","Banker","3.04414","n/a","None"
+"Floyd County Bancshares,"Inc."","Director,"CFO"","Amanda L. Hinsley","2023","Banker","0.507356","n/a","None"
+"Floyd County Bancshares,"Inc."","Director,"VP Lender"","Logan D. Bradley","2023","Banker","0.507356","n/a","None"

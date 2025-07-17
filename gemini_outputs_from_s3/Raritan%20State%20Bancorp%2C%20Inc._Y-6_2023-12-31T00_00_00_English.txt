@@ -1,17 +1,13 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"RARITAN STATE BANCORP","Chief Executive Office","Robert B Schleich","Chief Executive Officer","n/a","2023","Banker/ Farmer","0.20%","2267982","None"
-"RARITAN STATE BANCORP","Director","William J Simonson","n/a","n/a","2023","Farmer","2.41%","2267982","None"
-"RARITAN STATE BANCORP","Chairman and Director","Joseph W Krupps","Chairman and Director","n/a","2023","Farmer","0.59%","2267982","None"
-"RARITAN STATE BANCORP","Director","Steven Wisslead","n/a","n/a","2023","Retired Business Owner","3.29%","2267982","None"
-"RARITAN STATE BANCORP","Secretary and Director","Marcum Spears","Vice Chairman and Director","n/a","2023","Attorney","0.95%","2267982","None"
-"RARITAN STATE BANCORP","Director","Monica Torrance","n/a","n/a","2023","Farmer","0.26%","2267982","None"
-"RARITAN STATE BANCORP","Director","Marc Coursey","Director Sr. Lending Officer","n/a","2023","Banker/ Farmer","0.63%","2267982","None"
-"RARITAN STATE BANCORP","Chief Financial Officer","Angela Pollock","Chief Financial Officer","n/a","2023","Banker","0.24%","2267982","None"
-"RARITAN STATE BANCORP","Director","Richard White","n/a","n/a","2023","Accountant","0.15%","2267982","None"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Raritan State Bancorp,"Inc."","Chief Exectuive Office,"Chief Executive Officer"","Robert B Schleich","2023","Banker/Farmer","0.20%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Treasurer,"Director"","William J Simonson","2023","Farmer","2.41%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Chairman,"Director"","Joseph W Krupps","2023","Farmer","0.59%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Director","Steven Wisslead","2023","Retired Business Owner","3.29%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Secretary,"Director","Vice Chairman"","Marcum Spears","2023","Attorney","0.95%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Director","Monica Torrance","2023","Farmer","0.26%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Director,"Sr. Lending Officer"","Marc Coursey","2023","Banker/Farmer","0.63%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Chief Financial Officer","Angela Pollock","2023","Banker","0.24%","2267982","n/a"
+"Raritan State Bancorp,"Inc."","Director","Richard White","2023","Accountant","0.15%","2267982","n/a"

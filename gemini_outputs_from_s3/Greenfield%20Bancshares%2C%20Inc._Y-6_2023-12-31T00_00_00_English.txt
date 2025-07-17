@@ -1,21 +1,15 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Greenfield Bancshares,"Inc."","Wilkinson,"IN"","2023","Stephanie E. White","n/a","6105","5.20%","1205996"
-```
-```csv
+"Greenfield Bancshares,"INC."","Greenfield,"IN"","2023","Stephanie E. White","Voting Securities","6105","5.20%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Greenfield Bancshares,"Inc."","Director","Joseph D. Johnson","Owner","SonCentric,"LLC"","2023","Education Consultant","0.09%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","John M. Kennedy","Chairperson / Director","n/a","2023","Retired Banking","0.43%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","Philip G. Kenney","President of F.A. Wilhelm Construction","F.A. Wilhelm Construction","2023","Construction","2.32%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","Steven V. Long","President/CEO Hancock Regional Hospital","Hancock Regional Hospital","2023","President/CEO Hancock Regional Hospital","0.18%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","James W. Miller","n/a","n/a","2023","Retired Banking","1.53%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","Richard P. Roberts","Vice-Chairperson / Director","n/a","2023","Retired Landscape Architect","0.26%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","Steven A. Smith","n/a","n/a","2023","Retired Insurance Agency Owner and Agent","0.42%","1205996","None"
-"Greenfield Bancshares,"Inc."","Director","Stephanie E. White","President/CEO Pride Investment Partners","Pride Investment Partners","2023","President/CEO Pride Investment Partners","5.20%","1205996","None"
-"Greenfield Bancshares,"Inc."","President / CEO / Director","Michael R. Graf","President/CEO","Greenfield Banking Company","2023","Banking","0.38%","1205996","None"
-"Greenfield Bancshares,"Inc."","Vice-President
-Secretary &
-"Treasurer"","Jenna L. Gannon","Director","GBC Portfolio Management,"Inc."","2023","Banking","0.01%","1205996","None"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Greenfield Bancshares,"INC."","Director,"Owner"","Joseph D. Johnson","2023","Education Consultant","0.09%","n/a","None"
+"Greenfield Bancshares,"INC."","Chairperson,"Director"","John M. Kennedy","2023","Retired Banking","0.43%","n/a","None"
+"Greenfield Bancshares,"INC."","Director,"President"","Philip G. Kenney","2023","Construction","2.32%","n/a","None"
+"Greenfield Bancshares,"INC."","Director,"President/CEO"","Steven V. Long","2023","President/CEO Hancock Regional Hospital","0.18%","n/a","None"
+"Greenfield Bancshares,"INC."","Director","James W. Miller","2023","Retired Banking","1.53%","n/a","None"
+"Greenfield Bancshares,"INC."","Vice-Chairperson,"Director"","Richard P. Roberts","2023","Retired Landscape Architect","0.26%","n/a","None"
+"Greenfield Bancshares,"INC."","Director","Steven A. Smith","2023","Retired Insurance Agency Owner and Agent","0.42%","n/a","None"
+"Greenfield Bancshares,"INC."","Director,"President/CEO"","Stephanie E. White","2023","President/CEO Pride Investment Partners","5.20%","n/a","None"
+"Greenfield Bancshares,"INC."","President,"CEO","Director"","Michael R. Graf","2023","Banking","0.38%","n/a","None"
+"Greenfield Bancshares,"INC."","Vice-President,"Secretary","Treasurer","Cashier","Controller"","Jenna L. Gannon","2023","Banking","0.01%","n/a","None"

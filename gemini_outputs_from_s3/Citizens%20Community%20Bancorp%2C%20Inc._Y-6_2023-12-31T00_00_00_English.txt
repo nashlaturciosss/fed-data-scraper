@@ -1,22 +1,18 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Citizens Community Bancorp Inc.","McLean,"VA"","2023","FJ Capital Management LLC and its principal Martin S. Friedman","Common Stock","1057549","10.13%","n/a"
-"Citizens Community Bancorp Inc.","New York,"NY"","2023","Alliance Bernstein L.P.","Common Stock","999534","9.57%","n/a"
-"Citizens Community Bancorp Inc.","Chicago,"IL"","2023","The Banc Funds Company,"LLC"","Common Stock","851331","8.15%","n/a"
-"Citizens Community Bancorp Inc.","Boston,"MA"","2023","Manulife Investment Management (US) LLC","Common Stock","540120","5.17%","n/a"
-```
-```csv
+"Citizens Community Bancorp,"Inc."","McLean,"VA"","2023","FJ Capital Management LLC and its principal Martin S. Friedman","Common Stock","1057549","10.13%","n/a"
+"Citizens Community Bancorp,"Inc."","New York,"NY"","2023","AllianceBernstein L.P.","Common Stock","999534","9.57%","n/a"
+"Citizens Community Bancorp,"Inc."","Chicago,"IL"","2023","The Banc Funds Company,"LLC"","Common Stock","851331","8.15%","n/a"
+"Citizens Community Bancorp,"Inc."","Boston,"MA"","2023","Manulife Investment Management (US) LLC","Common Stock","540120","5.17%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Citizens Community Bancorp Inc.","President/Chief Executive Officer/Chairman of the Board","Stephen Bianchi","n/a","n/a","2023","N/A","1.16%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Executive Vice President / Chief Financial Officer / Treasurer and Secretary","James Broucek","n/a","n/a","2023","Retired","0.59%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Lead Director","Michael Swenson","Retired President/CEO","Northern States Power Company","2023","President/CEO Northern States Power Company","0.16%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","James Moll","Former CFO and CEO/President of Wells Financial Corp and Wells Federal Bank","n/a","2023","Former CFO and CEO/President of Wells Financial Corp and Wells Federal Bank","0.45%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","Francis Felber","Owner Ag Risk Managers Insurance Agency LLC","Ag Risk Managers Insurance Agency LLC","2023","Owner Ag Risk Managers Insurance Agency LLC","0.34%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","Timothy Olson","n/a","Arrowhead Properties LLC","2023","Developer/Co-owner of Arrowhead Properties LLC.","0.19%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","Kristina Bourget","n/a","n/a","2023","Retired Vice President and General Counsel at Wisconsin Independent Network","0.16%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","Kathleen Skarvan","n/a","n/a","2023","Retired and serve as Board of Directors Chair,"Electromed Inc."","0.07%","n/a","n/a"
-"Citizens Community Bancorp Inc.","Director","Michael Conner","n/a","PESI,"Inc."","2023","Executive Director/Board of Directors PESI,"Inc."","1.52%","n/a","n/a"
-"Citizens Community Bancorp Inc.","n/a","FJ Capital Management LLC and its principal Martin S Friedman","n/a","n/a","2023","N/A","10.13%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Citizens Community Bancorp,"Inc."","President,"CEO","Chief Executive Officer","Chairman of the Board"","Stephen Bianchi","2023","n/a","1.16%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Executive Vice President,"Chief Financial Officer","Treasurer","Secretary"","James Broucek","2023","n/a","0.59%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Lead Director","Michael Swenson","2023","Retired President/CEO Northern States Power Company","0.16%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","James Moll","2023","Former CFO and CEO/President of Wells Financial Corp and Wells Federal Bank","0.45%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","Francis Felber","2023","Owner Ag Risk Managers Insurance Agency LLC","0.34%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","Timothy Olson","2023","Developer/Co-owner of Arrowhead Properties LLC.","0.19%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","Kristina Bourget","2023","Retired Vice President and General Counsel at Wisconsin Independent Network","0.16%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","Kathleen Skarvan","2023","Retired and serve as Board of Directors Chair,"Electromed Inc."","0.07%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","Director","Michael Conner","2023","Executive Director/Board of Directors PESI,"Inc."","1.52%","n/a","n/a"
+"Citizens Community Bancorp,"Inc."","n/a","FJ Capital Management LLC and its principal Martin S Friedman","2023","n/a","10.13%","n/a","n/a"

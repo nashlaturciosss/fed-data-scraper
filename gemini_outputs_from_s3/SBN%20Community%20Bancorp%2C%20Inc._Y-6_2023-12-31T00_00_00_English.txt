@@ -1,15 +1,11 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"SBN Community Bancorp","Inc.","Director","John H. Isselman","n/a","n/a","2023","Retired","32.09%","3089314","NONE"
-"SBN Community Bancorp","Inc.","Director","Christopher Guse","Senior Loan Officer,"State Bank of Newburg"","n/a","2023","n/a","0.29%","3089314","NONE"
-"SBN Community Bancorp","Inc.","President,"Director"","Jonathan B. Isselman","President,"State Bank of Newburg"","n/a","2023","n/a","1.87%","3089314","NONE"
-"SBN Community Bancorp","Inc.","Director","Peter Waldkirch","n/a","n/a","2023","Retired","0.72%","3089314","NONE"
-"SBN Community Bancorp","Inc.","Vice President,"Director"","Scott D. Fisher","Vice President,"State Bank of Newburg"","n/a","2023","n/a","0.14%","3089314","NONE"
-"SBN Community Bancorp","Inc.","Director","Margaret L. Reindl","Risk Manager,"State Bank of Newburg"","n/a","2023","n/a","0.14%","3089314","NONE"
-"SBN Community Bancorp","Inc.","Director","Roy G. Wetzel","n/a","n/a","2023","Contractor","0.14%","3089314","NONE"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"SBN Community Bancorp,"Inc."","Director","John H. Isselman","2023","Retired","32.09%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","Director,"Senior Loan Officer"","Christopher Guse","2023","n/a","0.29%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","President,"Director"","Jonathan B. Isselman","2023","n/a","1.87%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","Director","Peter Waldkirch","2023","Retired","0.72%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","Vice President,"Director"","Scott D. Fisher","2023","n/a","0.14%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","Director,"Risk Manager"","Margaret L. Reindl","2023","n/a","0.14%","n/a","NONE"
+"SBN Community Bancorp,"Inc."","Director","Roy G. Wetzel","2023","Contractor","0.14%","n/a","NONE"

@@ -1,23 +1,9 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"FCT Bancshares","Inc.","Director","Monte R. Hulse,"Trustee for the 2013 Monte Hulse Family Irrevocable Trust I"","n/a","n/a","2023","N/A","25.32","n/a","0"
-"FCT Bancshares","Inc.","Director","Jim L. Turner","Executive","JLT Beverages","2023","Investor","5.84","n/a","0"
-"FCT Bancshares","Inc.","Director","Jim L. Turner","President","FCT Bancshares,"Inc."","2023","Investor","5.84","n/a","0"
-"FCT Bancshares","Inc.","Director","Jim L. Turner","President","First National Bank of Central Texas","2023","Investor","5.84","n/a","0"
-"FCT Bancshares","Inc.","Director","Jim L. Turner","President","JLT Beverages","2023","Investor","5.84","n/a","0"
-"FCT Bancshares","Inc.","Director","Jim L. Turner","President","TCT Holdings,"Inc"","2023","Investor","5.84","n/a","0"
-"FCT Bancshares","Inc.","VP","Randall W. Crawford","n/a","n/a","2023","Retired","1.18","n/a","0"
-"FCT Bancshares","Inc.","Director","D. Joe Barrow","Bank CEO and COB","FCT Bancshares,". Inc."","2023","Bank CEO and COB","0.41","n/a","0"
-"FCT Bancshares","Inc.","Director","D. Joe Barrow","Bank CEO and COB","First National Bank of Central Texas","2023","Bank CEO and COB","0.41","n/a","0"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","NA"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","0"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","NA"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","0"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","NA"
-"FCT Bancshares","Inc.","Director","R. Lance High","n/a","n/a","2023","Investment Advisor","0.29","n/a","0"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"The 2013 Monte Hulse Family Irrevocable Trust I","Trustee,"Director","President"","Monte R. Hulse","2023","N/A","25.32","n/a","0,"0""
+"The 2013 Monte Hulse Family Irrevocable Trust I","Director,"CEO/Pres","President"","Jim L. Turner","2023","Executive-JLT Beverages,"FCT Bancshares","Inc.","First National Bank of Central Texas","JLT Beverages","TCT Holdings","Inc"","5.84","n/a","0,"n/a""
+"The 2013 Monte Hulse Family Irrevocable Trust I","VP,"Director"","Randall W. Crawford","2023","Retired,"First National Bank of Central Texas"","1.18","n/a","0,"0""
+"The 2013 Monte Hulse Family Irrevocable Trust I","Director","D. Joe Barrow","2023","Bank CEO and COB,"FCT Bancshares",". Inc.","First National Bank of Central Texas"","0.41","n/a","0,"NA""
+"The 2013 Monte Hulse Family Irrevocable Trust I","Director","R. Lance High","2023","Investment Advisor,"FCT Bancshares","Inc.","First National Bank of Central Texas"","0.29","n/a","0,"NA""

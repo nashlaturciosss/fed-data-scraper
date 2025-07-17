@@ -1,21 +1,16 @@
-```csv
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Kristi Jo Jacobsen 2013 GST","n/a","89","32.36%","n/a"
-"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Jeanie Ray Thorson 2013 GST","n/a","89","32.36%","n/a"
-"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Barbara Kay Billings 2013 GST","n/a","47","17.09%","n/a"
+"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Kristi Jo Jacobsen 2013 GST Howard J. Rubin,"Trustee"","n/a","89","32.36%","n/a"
+"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Jeanie Ray Thorson 2013 GST Howard J. Rubin,"Trustee"","n/a","89","32.36%","n/a"
+"First LeRoy Bancorporation,"Inc."","Minneapolis,"MN"","2023","Barbara Kay Billings 2013 GST Howard J. Rubin,"Trustee"","n/a","47","17.09%","n/a"
 "First LeRoy Bancorporation,"Inc."","Preston,"MN"","2023","Steve Hadoff","n/a","16","5.82%","n/a"
 "First LeRoy Bancorporation,"Inc."","Grand Meadow,"MN"","2023","Polly Glynn","n/a","14","5.09%","n/a"
 "First LeRoy Bancorporation,"Inc."","n/a","2023","Shares outstanding not listed","n/a","20","7.27%","n/a"
-"First LeRoy Bancorporation,"Inc."","LeRoy,"MN"","2023","Donald Hanson Family Trust","n/a","141","51.28%","n/a"
-```
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"First LeRoy Bancorporation,"Inc."","Chairman of Board and Director","Kristi Jo Jacobsen 2013 GST","n/a","First LeRoy Agency,"Inc."","2023","Banker","32.36%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","Director","Kristi Jo Jacobsen 2013 GST","n/a","First LeRoy Agency,"Inc."","2023","Banker","32.36%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","n/a","Barbara Kay Billings 2013 GST","n/a","First LeRoy Agency,"Inc."","2023","N/A","17.09%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","Secretary/Treasurer and Director","Polly Glynn","n/a","n/a","2023","n/a","5.09%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","Director","Polly Glynn","n/a","n/a","2023","n/a","5.09%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","Director","Steve Hadoff","n/a","n/a","2023","Retired","5.82%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","Director","Steve Hadoff","n/a","n/a","2023","Retired","5.82%","n/a","n/a"
-"First LeRoy Bancorporation,"Inc."","n/a","Jeanie Ray Thorson 2013 GST","n/a","First LeRoy Agency,"Inc."","2023","N/A","32.36%","n/a","n/a"
-```
+"First LeRoy Bancorporation,"Inc."","LeRoy,"MN"","2023","Donald Hanson Family Trust Kristi Jacobsen,"Trustee"","n/a","141","51.28%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First LeRoy Bancorporation,"Inc."","Chairman of Board,"Director"","Kristi Jo Jacobsen 2013 GST Howard J. Rubin,"Trustee"","2023","Banker","32.36%","n/a","n/a"
+"First LeRoy Bancorporation,"Inc."","Partner","Barbara Kay Billings 2013 GST Howard J. Rubin,"Trustee"","2023","n/a","17.09%","n/a","n/a"
+"First LeRoy Bancorporation,"Inc."","Secretary/Treasurer,"Director"","Polly Glynn","2023","n/a","5.09%","n/a","n/a"
+"First LeRoy Bancorporation,"Inc."","Director","Steve Hadoff","2023","Retired","5.82%","n/a","n/a"
+"First LeRoy Bancorporation,"Inc."","Partner","Jeanie Ray Thorson 2013 GST Howard J. Rubin,"Trustee"","2023","n/a","32.36%","n/a","n/a"

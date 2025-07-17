@@ -1,20 +1,14 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Community Financial Corporation","President/CEO & Chairman","Dale Bowers","n/a","n/a","2023","Retired","5,"800/7.04%"","n/a","None"
-"Community Financial Corporation","Director","Steven Grams","n/a","n/a","2023","Banker","1,"650/2.00%"","n/a","None"
-"Community Financial Corporation","Secretary & Director","Robert R. Heers","n/a","n/a","2023","Farmer","3,"000/3.64%"","n/a","None"
-"Community Financial Corporation","Director","Kent C. Kienholz","n/a","n/a","2023","Business Owner","6,"995/8.49%"","n/a","None"
-"Community Financial Corporation","Director","Cory Michaelson","n/a","n/a","2023","Business Owner","3,"403/4.13%"","n/a","None"
-"Community Financial Corporation","Director","Cory Michaelson","Owner","Michaelson Funeral Home","2023","Business Owner","3,"403/4.13%"","n/a","None"
-"Community Financial Corporation","Director","David M Otterson","n/a","n/a","2023","Business Owner","3,"264/3.96%"","n/a","None"
-"Community Financial Corporation","Director","David M Otterson","Owner","Heinz Insurance","2023","Business Owner","3,"264/3.96%"","n/a","None"
-"Community Financial Corporation","Director","Gregg A. Draeger","n/a","n/a","2023","Retired","None","n/a","None"
-"Community Financial Corporation","Director","David E. Olson,"Jr."","n/a","n/a","2023","Director of Finance & Administration","None","n/a","None"
-"Community Financial Corporation","None","Gene D. Michaelson","n/a","n/a","2023","Retired","14,"505/17.60%"","n/a","None"
-"Community Financial Corporation","None","Paul H. Arnfelt","n/a","n/a","2023","Retired","9,"961/12.09%"","n/a","None"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Community Financial Corporation","n/a","Gene D. Michaelson","2023","Retired","17.60%","n/a","None"
+"Community Financial Corporation","n/a","Paul H. Arnfelt","2023","Retired","12.09%","n/a","None"
+"Community Financial Corporation","President/CEO,"Chairman","Director"","Dale Bowers","2023","Retired","7.04%","n/a","None"
+"Community Financial Corporation","Director,"President/CEO"","Steven Grams","2023","Banker","2.00%","n/a","None"
+"Community Financial Corporation","Secretary,"Director"","Robert R. Heers","2023","Farmer","3.64%","n/a","None"
+"Community Financial Corporation","Director","Kent C. Kienholz","2023","Business Owner","8.49%","n/a","None"
+"Community Financial Corporation","Director","Cory Michaelson","2023","Business Owner","4.13%","n/a","None"
+"Community Financial Corporation","Director","David M Otterson","2023","Business Owner","3.96%","n/a","None"
+"Community Financial Corporation","Director","Gregg A. Draeger","2023","Retired","n/a","n/a","None"
+"Community Financial Corporation","Director","David E. Olson,"Jr."","2023","Director of Finance & Administration","n/a","n/a","None"

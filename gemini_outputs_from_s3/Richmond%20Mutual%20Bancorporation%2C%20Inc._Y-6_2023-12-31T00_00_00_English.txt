@@ -1,18 +1,16 @@
-```csv
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Richmond,"IN"","2023","RICHMOND MUTUAL BANCORPORATION,"INC. EMPLOYEE STOCK OWNERSHIP PLAN"","Common Stock","1073452","9.6%","5371947"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Richmond,"IN"","2023","ALLIANCE BERNSTEIN,"LP"","Common Stock","804512","7.2%","5371947"
-```
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Chairman of the Board,"President","& CEO"","Garry D. Kleer","n/a","n/a","2023","N/A","2.27%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Exec. Vice President & CFO","Donald A. Benziger","n/a","n/a","2023","N/A","0.94%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Vice President,"Controller","& Acting CFO"","Bradley M. Glover","n/a","n/a","2023","N/A","0.28%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","President & Chief Operating Officer","Paul J. Witte","n/a","n/a","2023","N/A","0.70%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Division President","Dean W. Weinert","n/a","n/a","2023","N/A","1.33%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Kathryn Girten","n/a","n/a","2023","Retired","0.70%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","E. Michael Blum","n/a","Bullerdicks","2023","Retired","0.53%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","M. Lynn Wetzel","President","Wetzel Automotive Group","2023","Business Owner","0.76%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Jeffrey A. Jackson","Director","Brady Ware & Schoenfeld,"Inc."","2023","Director of Public Accounting Firm","0.78%","5371947","None"
-"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Harold T. Hanley III","Director","n/a","2023","Retired","0.76%","5371947","None"
-```
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Richmond,"Indiana"","2023","Richmond Mutual Bancorporation,"Inc. Employee Stock Ownership Plan*"","Common Stock","1073452","9.6%","5371947"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Nashville,"TN","USA"","2023","Alliance Bernstein,"LP"","Common Stock","804512","7.2%","5371947"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Chairman of the Board,"President","CEO","Director"","Garry D. Kleer","2023","n/a","2.27%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Exec,"Vice President","CFO","Director"","Donald A. Benziger","2023","n/a","0.94%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Acting CFO,"Vice President","Controller","Director"","Bradley M. Glover","2023","n/a","0.28%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","President,"Chief Operating Officer","Director"","Paul J. Witte","2023","n/a","0.70%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Division President","Dean W. Weinert","2023","n/a","1.33%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Kathryn Girten","2023","Retired","0.70%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","E. Michael Blum","2023","Owner of Bullerdicks,"a furniture store"","0.53%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","M. Lynn Wetzel","2023","Business Owner","0.76%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Jeffrey A. Jackson","2023","Director of Public Accounting Firm","0.78%","5371947","None"
+"RICHMOND MUTUAL BANCORPORATION,"INC."","Director","Harold T. Hanley III","2023","Retired","0.76%","5371947","None"

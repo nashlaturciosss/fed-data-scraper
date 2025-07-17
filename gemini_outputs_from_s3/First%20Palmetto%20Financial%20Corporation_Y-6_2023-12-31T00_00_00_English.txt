@@ -1,21 +1,17 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "First Palmetto Financial Corporation","Camden,"SC"","2023","Samuel R. Small","Common Stock","150","14.72%","n/a"
 "First Palmetto Financial Corporation","Camden,"SC"","2023","H. Gibson Tucker","Common Stock","58.8","5.77%","n/a"
 "First Palmetto Financial Corporation","Camden,"SC"","2023","Henry D. Green,"III"","Common Stock","53","5.2%","n/a"
 "First Palmetto Financial Corporation","Bar Harbor,"ME"","2023","M. Lauren Tucker","Common Stock","57","5.59%","n/a"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"First Palmetto Financial Corporation","CEO","Samuel R. Small","n/a","n/a","2023","Banking","14.72%","n/a","n/a"
-"First Palmetto Financial Corporation","Chairman of the Board/CEO/General Counsel/President/Director","Samuel R. Small,"Jr."","n/a","n/a","2023","Banking","3.83%","n/a","n/a"
-"First Palmetto Financial Corporation","SVP/Corporate Secretary/Director","Steve G. Williams,"Jr."","President","John T Stevens Foundation","2023","Banking","3.24%","n/a","n/a"
-"First Palmetto Financial Corporation","SVP/CFO/Treasurer","Thomas C. Anderson,"Jr."","n/a","n/a","2023","Banking",".59%","n/a","n/a"
-"First Palmetto Financial Corporation","Director","Will Johnson","n/a","HSB Law Firm","2023","Attorney",".79%","n/a","n/a"
-"First Palmetto Financial Corporation","Director","M. Lauren Tucker","Director","Tucker Down East Resources","2023","GM","5.59%","n/a","n/a"
-"First Palmetto Financial Corporation","Director","H. Gibson Tucker","Director","n/a","2023","Banking","5.77%","n/a","n/a"
-"First Palmetto Financial Corporation","Director","Susan S. Grumbach","Director","n/a","2023","Nurse Practitioner",".59%","n/a","n/a"
-"First Palmetto Financial Corporation","Director","Henry D. Green,"III"","Director","n/a","2023","CPA","5.2%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First Palmetto Financial Corporation","CEO","Samuel R. Small","2023","Banking","14.72%","n/a","n/a"
+"First Palmetto Financial Corporation","Chairman of Board,"CEO","General Counsel","President","Director"","Samuel R. Small,"Jr."","2023","Banking","3.83%","n/a","n/a"
+"First Palmetto Financial Corporation","SVP,"Corporate Secretary","Director"","Steve G. Williams,"Jr."","2023","Banking","3.24%","n/a","n/a"
+"First Palmetto Financial Corporation","SVP,"CFO","Treasurer"","Thomas C. Anderson,"Jr."","2023","Banking",".59%","n/a","n/a"
+"First Palmetto Financial Corporation","Director","Will Johnson","2023","Attorney",".79%","n/a","n/a"
+"First Palmetto Financial Corporation","Director","M. Lauren Tucker","2023","GM","5.59%","n/a","n/a"
+"First Palmetto Financial Corporation","Director","H. Gibson Tucker","2023","Banking","5.77%","n/a","n/a"
+"First Palmetto Financial Corporation","Director","Susan S. Grumbach","2023","Nurse Practitioner",".59%","n/a","n/a"
+"First Palmetto Financial Corporation","Director","Henry D. Green,"III"","2023","CPA","5.2%","n/a","n/a"

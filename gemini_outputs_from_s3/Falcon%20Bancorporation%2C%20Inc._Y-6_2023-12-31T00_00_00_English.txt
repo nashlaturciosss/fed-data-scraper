@@ -1,14 +1,10 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Beaver Creek Trust-2nd Generation","n/a","13183.50","51.000%","n/a"
-"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Derek Joseph Grubb 2012 Trust","n/a","2696.50","10.431%","n/a"
-"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Jordan Alyssa Grubb 2012 Trust","n/a","2696.50","10.431%","n/a"
-"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Washita Valley Trust","n/a","1500.00","5.803%","n/a"
-"Falcon Bancorporation,"Inc."","Memphis,"TX"","2023","Jimmy Fowler","n/a","1315.00","5.087%","n/a"
-"Falcon Bancorporation,"Inc."","Memphis,"TX"","2023","Kathy Fowler","n/a","1315.00","5.087%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Beaver Creek Trust-2nd Generation Shawn J. Grubb and Kenneth L. Baker,"Co-Trustees"","Common Stock","13183.50","51.000%","n/a"
+"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Derek Joseph Grubb 2012 Trust Shawn J. Grubb and Kenneth L. Baker,"Co-Trustees"","Common Stock","2696.50","10.431%","n/a"
+"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Jordan Alyssa Grubb 2012 Trust Shawn J. Grubb and Kenneth L. Baker,"Co-Trustees"","Common Stock","2696.50","10.431%","n/a"
+"Falcon Bancorporation,"Inc."","Clinton,"OK"","2023","Washita Valley Trust Shawn J. Grubb and Kenneth L. Baker,"Co-Trustees"","Common Stock","1500.00","5.803%","n/a"
+"Falcon Bancorporation,"Inc."","Memphis,"TX"","2023","Jimmy Fowler*","Common Stock","1315.00","5.087%","n/a"
+"Falcon Bancorporation,"Inc."","Memphis,"TX"","2023","Kathy Fowler*","Common Stock","1315.00","5.087%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

@@ -1,10 +1,4 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"WESTERN DAKOTA HOLDING COMPANY","Amarillo,"TX"","2023","John W. Templer","Common Stock","900","90.00%","n/a"
-"WESTERN DAKOTA HOLDING COMPANY","Timber Lake,"SD"","2023","Rusty L. Gebhardt","Common Stock","100","10.00%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

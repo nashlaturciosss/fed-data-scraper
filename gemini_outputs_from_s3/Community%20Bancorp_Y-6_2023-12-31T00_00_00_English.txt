@@ -1,25 +1,16 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Community Bancorp","Royal Center,"IN"","2023","Fred Kennell","n/a","514","6.74%","1210347"
-"Community Bancorp","Logansport,"IN"","2023","Jay Shafer","n/a","480","6.27%","1210347"
-"Community Bancorp","Royal Center,"IN"","2023","Goodrich Trust","n/a","582","7.63%","1210347"
-"Community Bancorp","Royal Center,"IN"","2023","Merle Nice","n/a","417","5.47%","1210347"
-"Community Bancorp","Greenwood,"IN"","2023","Scott Kennell","n/a","70","0.92%","1210347"
-"Community Bancorp","Royal Center,"IN"","2023","Craig Kennell","n/a","18","0.24%","1210347"
-"Community Bancorp","Royal Center,"IN"","2023","David Kennell","n/a","18","0.24%","1210347"
-"Community Bancorp","Royal Center,"IN"","2023","Noel Kennell","n/a","18","0.24%","1210347"
-"Community Bancorp","Ft. Wayne,"IN"","2023","Jill Stuckholz","n/a","18","0.24%","1210347"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Community Bancorp","Chairman","Joseph D. Carlson","CEO","Community State Bank","2023","Banking","0.38","1210347","0"
-"Community Bancorp","Director","Arthur Dragoo","CEO","n/a","2023","Lumber Yard","1.69","1210347","0"
-"Community Bancorp","Director","Scott Kennell","Owner/CEO","n/a","2023","Construction Co. owner","0.92","1210347","0"
-"Community Bancorp","Director","Matthew Rausch","Owner","n/a","2023","Farmer/Trucking","0.13","1210347","0"
-"Community Bancorp","Director","Jason Potthoff","Owner","n/a","2023","CPA/Lawn Care","0.13","1210347","0"
-"Community Bancorp","Vice President","Janet A. Goltry","n/a","n/a","2023","Banking","1.44","1210347","0"
-"Community Bancorp","President","Jesse B. Robinson","Director","n/a","2023","Banking","0.66","1210347","0"
-"Community Bancorp","Ass't Cashier","Pam Schmaltz","n/a","n/a","2023","Banking","0.92","1210347","0"
-```
+"Community Bancorp","Royal Center,"IN"","2024","Fred Kennell","n/a","514","6.74%","1210347"
+"Community Bancorp","Logansport,"IN"","2024","Jay Shafer","n/a","480","6.27%","1210347"
+"Community Bancorp","Royal Center,"IN"","2024","Goodrich Trust","n/a","582","7.63%","1210347"
+"Community Bancorp","Royal Center,"IN"","2024","Merle Nice","n/a","417","5.47%","1210347"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Community Bancorp","Chairman,"CEO"","Joseph D. Carlson","2024","Banking","0.38","1210347","0"
+"Community Bancorp","Director,"CEO"","Arthur Dragoo","2024","Lumber Yard","1.69","1210347","0"
+"Community Bancorp","Director,"Owner","CEO"","Scott Kennell","2024","Construction Co. owner","0.92","1210347","0"
+"Community Bancorp","Director,"Owner"","Matthew Rausch","2024","Farmer/Trucking","0.13","1210347","0"
+"Community Bancorp","Director,"Owner"","Jason Potthoff","2024","CPA/Lawn Care","0.13","1210347","0"
+"Community Bancorp","Vice President","Janet A. Goltry","2024","Banking","1.44","1210347","0"
+"Community Bancorp","Director,"President"","Jesse B. Robinson","2024","Banking","0.66","1210347","0"
+"Community Bancorp","Ass't Cashier","Pam Schmaltz","2024","Banking","0.92","1210347","0"

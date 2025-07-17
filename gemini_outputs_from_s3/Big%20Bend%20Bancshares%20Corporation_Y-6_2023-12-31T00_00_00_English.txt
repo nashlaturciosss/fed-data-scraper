@@ -1,8 +1,18 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"BIG BEND BANCSHARES CORPORATION","Vice-President,"Director","President"","Jose D. Leyva","2023","Banking","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Director","James S. Livingston,"Jr."","2023","Insurance / real estate","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Director","Wert E. Love IV","2023","Banking/ranching","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Chairman,"Investments"","R. Clay Slack II","2023","Investments / banking","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Director","Tom Wood","2023","Ranching","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","n/a","Cynthia Slack Shaw","2023","Investments","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Director,"CEO","President"","W.E. ""Chip"" Love","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Vice-President","Christy B Madrid","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Vice-President","Alma Rosa Baeza","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Vice-President","Lyra P Serrano","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Assistant VP","Elizabeth Villanueva","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Vice-President","Ethel Barriga","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Loan Officer","Cristina Bojorquez","2023","n/a","n/a","n/a","n/a"
+"BIG BEND BANCSHARES CORPORATION","Asst Vice-President","Elizabeth Gutierrez","2023","n/a","n/a","n/a","n/a"

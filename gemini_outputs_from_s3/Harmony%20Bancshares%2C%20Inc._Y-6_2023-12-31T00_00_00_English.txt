@@ -1,12 +1,7 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Harmony Bank","Dallas,"USA"","2023","John J. Carona,"Sr."","Common Stock","10000","100%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Harmony Bank","Chairman / President","John J. Carona,"Sr."","Board Member","Associations,"Inc"","2023","Businessman","100%","n/a","100%"
-"Harmony Bank","Chairman / President","John J. Carona,"Sr."","President","JJC Holdings LLC","2023","Businessman","100%","n/a","100%"
-"Harmony Bank","Vice President/ Secretary","Helen Eden Carona","Board Member","Associations,"Inc."","2023","Businesswoman","n/a","n/a"
-```
+"Harmony Bancshares,"Inc."","Dallas,"TX"","2023","John J. Carona,"Sr."","Common Stock","10000","100%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Harmony Bancshares,"Inc."","Chairman,"President","Board Member"","John J. Carona,"Sr."","2023","Businessman","100%","n/a","100%"
+"Harmony Bancshares,"Inc."","Vice President,"Secretary","Board Member"","Helen Eden Carona","2023","Businesswoman","n/a","n/a","n/a"

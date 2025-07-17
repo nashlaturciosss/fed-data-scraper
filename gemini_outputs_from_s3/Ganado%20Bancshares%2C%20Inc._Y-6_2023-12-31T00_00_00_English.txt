@@ -1,13 +1,9 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Ganado Bancshares,"Inc."","Dallas,"Texas"","2023","J. Randy Staff","Outstanding","184213","87.03%","n/a"
-"Ganado Bancshares,"Inc."","Victoria. Texas","2023","Gary F. Cox","Outstanding","13838","6.54%","n/a"
-```
-```csv
+"Ganado Bancshares,"Inc."","Dallas,"Texas"","2023","J. Randy Staff","n/a","184213","88.89%","n/a"
+"Ganado Bancshares,"Inc."","Victoria,"Texas"","2023","Gary F. Cox","n/a","13838","6.68%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Ganado Bancshares,"Inc."","Chairman & President","J. Randy Staff","Chairman & President","Citizens State Bank","2023","None","88.89%","n/a","n/a"
-"Ganado Bancshares,"Inc."","Director","Gary Olson","Owner","Olson Law Group,"PC"","2023","Lawyer","0.22%","n/a","n/a"
-"Ganado Bancshares,"Inc."","Vice president & Director","Gary F. Cox","Director","Citizens State Bank","2023","Medical Doctor","6.68%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Ganado Bancshares,"Inc."","Chairman,"President"","J. Randy Staff","2023","None","88.89%","n/a","n/a"
+"Ganado Bancshares,"Inc."","Director","Gary Olson","2023","Lawyer","0.22%","n/a","n/a"
+"Ganado Bancshares,"Inc."","Vice president,"Director"","Gary F. Cox","2023","Medical Doctor","6.68%","n/a","n/a"

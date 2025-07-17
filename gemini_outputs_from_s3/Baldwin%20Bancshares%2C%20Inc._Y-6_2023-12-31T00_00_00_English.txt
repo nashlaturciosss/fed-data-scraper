@@ -1,22 +1,14 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"BALDWIN BANCSHARES,"INC."","Baldwin,"WI"","2023","Debra Rasmussen","Common Stock","945","13.39","n/a"
-"BALDWIN BANCSHARES,"INC."","Plateville,"WI"","2023","Duane & Michelle DeYoung","Common Stock","598","8.47","n/a"
-"BALDWIN BANCSHARES,"INC."","Baldwin,"WI"","2023","Terry & Barbara Nelson","Common Stock","454","6.43","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Baldwin Bancshares,"Inc"","Director","Shane R. Bauer","Director","n/a","2023","Banker","n/a","n/a","n/a"
-"Pillar Bank","President/CEO","Shane R. Bauer","Director","n/a","2023","Banker","n/a","n/a","n/a"
-"Pillar Bank","Chairman","Shane R. Bauer","Director","n/a","2023","Banker","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Dane L Rasmussen","n/a","n/a","2023","Retired","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Thomas A Hawley","n/a","n/a","2023","Newspaper Publisher Retired","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Mark S. Willink","n/a","n/a","2023","Music Technician","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Nadena R Rosen","Human Resources Director","Grocery Store Chain","2023","Human Resources","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Jeff Schneider","n/a","n/a","2023","Retired","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Dirk Gasterland,"Jr",","CEO","Coulee Bank","2023","Banker","n/a","n/a","n/a"
-"Baldwin Bancshares,"Inc"","Director","Dirk Gasterland,"Jr",","CEO","Coulee Bank","2023","Banker","n/a","n/a","n/a"
-"Pillar Bank","Director","Dirk Gasterland,"Jr",","CEO","Coulee Bank","2023","Banker","n/a","n/a","n/a"
-```
+"Baldwin Bancshares,"Inc."","Baldwin,"WI"","2023","Debra Rasmussen Irrevocable Trust","Common Stock Held","945","13.39","n/a"
+"Baldwin Bancshares,"Inc."","Plateville,"WI"","2023","Duane & Michelle DeYoung","Common Stock Held","598","8.47","n/a"
+"Baldwin Bancshares,"Inc."","Baldwin,"WI"","2023","Terry & Barbara Nelson Irrevocable Trust","Common Stock Held","454","6.43","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Baldwin Bancshares,"Inc."","Director,"President","CEO","Chairman"","Shane R. Bauer","2023","Banker","None","n/a","None"
+"Baldwin Bancshares,"Inc."","Director","Dane L Rasmussen","2023","Retired","13.39%","n/a","None"
+"Baldwin Bancshares,"Inc."","Director","Thomas A Hawley","2023","Newspaper Publisher Retired","3.58%","n/a","None"
+"Baldwin Bancshares,"Inc."","Director","Mark S. Willink","2023","Music Technician","2.67%","n/a","None"
+"Baldwin Bancshares,"Inc."","Director","Nadena R Rosen","2023","Human Resources","0.43%","n/a","None"
+"Baldwin Bancshares,"Inc.пуск"","Director","Jeff Schneider","2023","Retired","1.78%","n/a","None"
+"Baldwin Bancshares,"Inc."","Director","Dirk Gasterland,"Jr",","2023","Banker","None","n/a","None"

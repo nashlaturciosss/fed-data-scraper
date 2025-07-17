@@ -1,20 +1,16 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Preferred Bancorp,"Inc."","Casey,"IL"","2023","Everett D Lawrence","n/a","57145.33","34.52%","2939319"
-"Preferred Bancorp,"Inc."","Wheeling,"IL"","2023","Gerald Forsythe","n/a","19635","11.86%","2939319"
-"Preferred Bancorp,"Inc."","Casey,"IL"","2023","Jeffrey Mitchell","n/a","22790","13.77%","2939319"
-"Preferred Bancorp,"Inc."","Casey,"IL"","2023","David L Hensiek","n/a","20693","12.50%","2939319"
-"Preferred Bancorp,"Inc."","Casey,"IL"","2023","Kim Y Spittler","n/a","57145.33","34.50%","2939319"
-```
-```csv
+"PREFERRED BANCORP,"INC."","Casey,"IL"","2023","Everett D Lawrence","n/a","57145.33","34.52%","2939319"
+"PREFERRED BANCORP,"INC."","Casey,"IL"","2023","Gerald Forsythe","n/a","19635","11.86%","2939319"
+"PREFERRED BANCORP,"INC."","Casey,"IL"","2023","Jeffrey Mitchell","n/a","22790","13.77%","2939319"
+"PREFERRED BANCORP,"INC."","Casey,"IL"","2023","David L Hensiek","n/a","20693","12.50%","2939319"
+"PREFERRED BANCORP,"INC."","Casey,"IL"","2023","Kim Y Spittler","n/a","57145.33","34.50%","2939319"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Preferred Bancorp,"Inc."","Director/President","Kenneth A Scott","n/a","n/a","2023","Preferred Bank","0.46","2939319","n/a"
-"Preferred Bancorp,"Inc."","Director","David L Hensiek","n/a","n/a","2023","Retired","12.50","2939319","n/a"
-"Preferred Bancorp,"Inc."","Director","Everett D Lawrence","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","n/a"
-"Preferred Bancorp,"Inc."","Director","Kim Spittler","n/a","n/a","2023","Lawrence Gravel","34.52","2939319","n/a"
-"Preferred Bancorp,"Inc."","Director","Jeffrey Mitchell","n/a","J&K Mitchell,"Inc"","2023","J&K Mitchell,"Inc"","13.77","2939319","n/a"
-"Preferred Bancorp,"Inc."","VP/Secretary","Phyllis Burress Meek","n/a","Preferred Bank","2023","Preferred Bank","0.18","2939319","n/a"
-"Preferred Bancorp,"Inc."","n/a","Gerald Forsythe","President & CEO","Indeck Energy","2023","Indeck Energy","11.86","2939319","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"PREFERRED BANCORP,"INC."","Director,"Chairman","President"","Kenneth A Scott","2023","Preferred Bank","0.46","2939319","none"
+"PREFERRED BANCORP,"INC."","Director","David L Hensiek","2023","Retired","12.50","2939319","none"
+"PREFERRED BANCORP,"INC."","Director","Everett D Lawrence","2023","Lawrence Gravel","34.52","2939319","none"
+"PREFERRED BANCORP,"INC."","Director","Kim Spittler","2023","Lawrence Gravel","34.52","2939319","none"
+"PREFERRED BANCORP,"INC."","Director","Jeffrey Mitchell","2023","J&K Mitchell,"Inc"","13.77","2939319","none"
+"PREFERRED BANCORP,"INC."","VP/Secretary","Phyllis Burress Meek","2023","Preferred Bank","0.18","2939319","none"
+"PREFERRED BANCORP,"INC."","President,"CEO"","Gerald Forsythe","2023","Indeck Energy","11.86","2939319","none"

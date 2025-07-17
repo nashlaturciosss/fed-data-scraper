@@ -1,14 +1,4 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","Bosshard Financial Group","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","Mauston Bancorp","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","Clayton Bankshares","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/VP-Legal/Professional Advisor","Clayton Bankshares","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","Farmers State Bank of Hillsboro","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","First National Bank of Bangor","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","President & Director","William Bosshard","Director/President","Forward Hillsboro","2023","Banker","98.13%","n/a","n/a"
-"Dairyland Bank Holding Corporation","Secretary Vice-President Director","Andrew Bosshard","Director","One Community Bank","2023","Attorney","0.37%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

@@ -1,18 +1,13 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Great River Holding Company","CEO/Director","Means,"Paul"","None","n/a","2024","Banker","3.29%","n/a","N/A"
-"Great River Holding Company","Director","Landgrebe,"David"","n/a","n/a","2024","Retired Banker","2.19%","n/a","N/A"
-"Great River Holding Company","Board Chairman/Director","Nelson,"Clint J"","n/a","n/a","2024","Realtor","11.05%","n/a","N/A"
-"Great River Holding Company","CFO/Secretary","Nelson,"Dan"","None","n/a","2024","Banker","0%","n/a","None"
-"Great River Holding Company","Director","Fehr,"Brad"","n/a","n/a","2024","Farmer","1.19%","n/a","N/A"
-"Great River Holding Company","Director","Taylor,"Bart"","Chairman","Cuyuna Regional Medical Center","2024","Banker","2.58%","n/a","None"
-"Great River Holding Company","Director","Etter,"Robert"","Director","Farmers & Merchant Bank,"Pierz","MN"","2024","Retired Accountant","1.29%","n/a","None"
-"Great River Holding Company","Director","Etter,"Robert"","Director","Park State Bank,"Duluth"","2024","Retired Accountant","1.29%","n/a","None"
-"Great River Holding Company","Director","Brombach,"Theodore"","Partner","XMS Capital Partners","2024","Broker","0.37%","n/a","CONF"
-"Great River Holding Company","Director","Brombach,"Theodore"","Trustee","XAI Octagon Floating Rate & Alternative Income Term Trust (XFLT)","2024","Broker","0.37%","n/a","CONF"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Great River Holding Company","CEO,"Director","Board Chairman"","Means,"Paul"","2024","Banker","3.29%","n/a","n/a"
+"Great River Holding Company","Director","Landgrebe,"David"","2024","Retired Banker","2.19%","n/a","n/a"
+"Great River Holding Company","Board Chairman,"Director"","Nelson,"Clint J"","2024","Realtor","11.05%","n/a","n/a"
+"Great River Holding Company","n/a","Carol A Nelson","2024","Investor","0%","n/a","n/a"
+"Great River Holding Company","CFO,"Secretary"","Nelson,"Dan"","2024","Banker","0%","n/a","n/a"
+"Great River Holding Company","Director","Fehr,"Brad"","2024","Farmer","1.19%","n/a","n/a"
+"Great River Holding Company","Director,"Regional President"","Taylor,"Bart"","2024","Banker","2.58%","n/a","n/a"
+"Great River Holding Company","Director","Etter,"Robert"","2024","Retired Accountant","1.29%","n/a","n/a"
+"Great River Holding Company","Director,"Partner","Trustee"","Brombach,"Theodore"","2024","Broker","0.37%","n/a","n/a"

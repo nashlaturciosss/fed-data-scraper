@@ -1,14 +1,4 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"RANDALL BANCSHARES,"INC."","Lake Andes,"South Dakota"","2023","Sally Winter","issued common stock","4590","97.04%","n/a"
-"RANDALL BANCSHARES,"INC."","Lake Andes,"South Dakota"","2023","Jay Petrik","issued common stock","140","2.96%","n/a"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"RANDALL BANCSHARES,"INC."","Chairman of the Board,"President","Director"","Sally Winter","President and Director","LAD,"Inc."","2023","Banker","97.04%","n/a","None"
-"RANDALL BANCSHARES,"INC."","President,"Director"","Sally Winter","President and Director","LAD,"Inc."","2023","Banker","97.04%","n/a","None"
-"RANDALL BANCSHARES,"INC."","Secretary,"Treasurer","Director"","Jay Petrik","None","None","2023","Banker","2.96%","n/a","None"
-"RANDALL BANCSHARES,"INC."","Director","Jay Petrik","None","None","2023","Banker","2.96%","n/a","None"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

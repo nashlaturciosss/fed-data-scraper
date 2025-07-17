@@ -1,13 +1,10 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "MCNB Banks INC","Welch,"WV"","2023","Alpa & Company","n/a","99080","9.176%","n/a"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"MCNB BANKS,"INC."","Director,"Chairman"","Ronald D. Hassan","Attorney","Hassan Law","2023","Attorney/Hassan Law","1","n/a","100%"
-"MCNB BANKS,"INC."","Director,"Chairman"","William Horne","Owner","Horne Holdings LLC","2023","Owner","2","n/a","100%"
-"MCNB BANKS,"INC."","President & CEO,"Director & Secretary & Treasurer"","John P. Reed","n/a","N/A","2023","President & CEO","1","n/a","N/A"
-"MCNB BANKS,"INC."","Director","Martha Callaway","Volunteer Coordinator","Welch Community Hospital","2023","Volunteer Coordinator","1","n/a","N/A"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"MCNB Banks INC","Director,"Chairman"","Ronald D. Hassan","2023","Attorney/Hassan Law","1","n/a","n/a"
+"MCNB Banks INC","Director,"Chairman"","William Horne","2023","Owner","2","n/a","n/a"
+"MCNB Banks INC","President,"CEO","Director","Secretary","Treasurer"","John P. Reed","2023","President & CEO","1","n/a","n/a"
+"MCNB Banks INC","Director","Martha Callaway","2023","Volunteer Coordinator","1","n/a","n/a"
+"MCNB Banks INC","n/a","Alpa & Company","2023","n/a","9.187","n/a","n/a"

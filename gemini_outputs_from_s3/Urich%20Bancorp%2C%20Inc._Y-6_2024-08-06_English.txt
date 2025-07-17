@@ -1,8 +1,14 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Urich Bancorp,"Inc."","n/a","2022","Twila V.Gregg and Richard A. Gregg","n/a","1984","n/a","n/a"
+"Urich Bancorp,"Inc."","n/a","2022","Twila V. Gregg and Richard A. Gregg","n/a","2066","n/a","n/a"
+"Urich Bancorp,"Inc."","n/a","2022","Twila V. Gregg","n/a","50","n/a","n/a"
+"Urich Bancorp,"Inc."","n/a","2022","Jeffrey M. Smith","n/a","28","n/a","n/a"
+"Urich Bancorp,"Inc."","n/a","2022","Jeffrey M. Smith","n/a","27","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Urich Bancorp,"Inc."","Chairman of the Board,"President/CEO","Director"","Twila V. Gregg","2022","n/a","n/a","n/a","n/a"
+"Urich Bancorp,"Inc."","Secretary,"Director"","Richard A. Gregg","2022","n/a","n/a","n/a","n/a"
+"Urich Bancorp,"Inc."","Assistant Secretary,"Director"","Jeffrey M. Smith","2022","n/a","n/a","n/a","n/a"
+"Urich Bancorp,"Inc."","Director","DR Landwehr","2022","n/a","n/a","n/a","n/a"
+"Urich Bancorp,"Inc."","Director","Cynthia Westermann","2022","n/a","n/a","n/a","n/a"

@@ -1,11 +1,6 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"JOHNSON BANCSHARES,"INC."","Chatfield,"MN"","2023","Charles M. Johnson,"Jr."","n/a","8397","100%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"JOHNSON BANCSHARES,"INC."","Chairman/President/Director","Charles M. Johnson,"Jr."","President/Director","First State Bank,"Fountain","MN"","2023","Banker","100.00%","n/a","None"
-"JOHNSON BANCSHARES,"INC."","President/Chairman/Director","Charles M. Johnson,"Jr."","Treasurer","Chatfield Lions Club","2023","Banker","100.00%","n/a","None"
-```
+"Johnson Bancshares,"Inc."","Chatfield,"MN"","2023","Charles M. Johnson,"Jr."","n/a","8397","100%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Johnson Bancshares,"Inc."","Chairman,"President","Director","Treasurer"","Charles M. Johnson,"Jr."","2023","Banker","100.00%","n/a","n/a"

@@ -5,12 +5,12 @@ from urllib.parse import unquote  # used to decode URL-encoded filenames
 
 # === config ===
 INPUT_FOLDER = "gemini_outputs_from_s3"
-INSIDERS_OUTPUT = "all_insiders_s3.csv"
-SECURITIES_OUTPUT = "all_securities_holders_s3.csv"
+INSIDERS_OUTPUT = "simple_all_insiders_s3.csv"
+SECURITIES_OUTPUT = "simple_all_securities_holders_s3.csv"
 
 # === headers ===
 INSIDERS_HEADER = [
-    "Bank", "Internal Title", "Person", "External Title", "Affiliation",
+    "Bank", "Internal Title", "Person", 
     "Fiscal Year", "Occupation", "Percentage of Voting Shares", "RSSD_ID",
     "Percentage of Voting Shares in Subsidiaries", "URL_Bank_Name", "Table Presence"
 ]
@@ -114,7 +114,7 @@ for filename in sorted(os.listdir(INPUT_FOLDER)):
         securities_block, "Bank,Town,Fiscal Year,Owner Name,Stock Class"
     )
     has_insiders = is_valid_data_block(
-        insiders_block, "Bank,Internal Title,Person,External Title"
+        insiders_block, "Bank,Internal Title,Person"
     )
 
     if has_securities:

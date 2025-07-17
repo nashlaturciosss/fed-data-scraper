@@ -1,29 +1,15 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
 "Keystone Bancshares,"Inc."","Cleveland,"OH"","2023","Ben Machovak","Common Shrs","409000","6.16%","n/a"
 "Keystone Bancshares,"Inc."","Austin,"TX"","2023","Todd Routh","Common Shrs","380953","5.74%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Keystone Bancshares,"Inc."","Director / Chairman & CEO","Jeff Wilkinson","n/a","n/a","2023","n/a","1.96%","n/a","None"
-"Keystone Bancshares,"Inc."","President","Bryan St. George","n/a","n/a","2023","n/a","0.40%","n/a","None"
-"Keystone Bancshares,"Inc."","CFO","Christian Zimmerman","n/a","n/a","2023","n/a","0.03%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Myles Sherman","n/a","San Luis Spirits","2023","Business Owner","1.26%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Myles Sherman","n/a","BJAG,"LLC"","2023","Business Owner","1.26%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Myles Sherman","n/a","Equiar,"L.P."","2023","Business Owner","1.26%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Myles Sherman","n/a","Positivus,"LP"","2023","Business Owner","1.26%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Myles Sherman","n/a","FFV,"LLC"","2023","Business Owner","1.26%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Clint Greenleaf","n/a","DRG","2023","Business Owner","0.57%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Clint Greenleaf","n/a","Advantage Media","2023","Business Owner","0.57%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Clint Greenleaf","n/a","Page Publishing","2023","Business Owner","0.57%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Ben Mackovak","n/a","Strategic Value Private Partners,"LLC"","2023","Investor","6.16%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Ben Mackovak","n/a","Strategic Value Advisory Partners LLC","2023","Investor","6.16%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Ben Mackovak","n/a","Strategic Value Bank Partners,"LLC"","2023","Investor","6.16%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Ben Mackovak","n/a","Cavalier Capital LLC","2023","Investor","6.16%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Ben Mackovak","n/a","Cavalier Capital Holdings LLC","2023","Investor","6.16%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Brent Giles","n/a","G3 Group LLC","2023","Business Owner","0.46%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Laura Brady","n/a","Concierge Auctions","2023","Business Owner","0.29%","n/a","None"
-"Keystone Bancshares,"Inc."","Director","Alex Smith","n/a","Brown Advisory","2023","Partner","0.29%","n/a","None"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Keystone Bancshares,"Inc."","Director,"Chairman","CEO"","Jeff Wilkinson","2023","n/a","1.96%","n/a","None"
+"Keystone Bancshares,"Inc."","President","Bryan St. George","2023","n/a","0.40%","n/a","None"
+"Keystone Bancshares,"Inc."","CFO","Christian Zimmerman","2023","n/a","0.03%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Myles Sherman","2023","Business Owner","1.26%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Clint Greenleaf","2023","Business Owner","0.57%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Ben Mackovak","2023","Investor","6.16%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Brent Giles","2023","Business Owner","0.46%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Laura Brady","2023","Business Owner","0.29%","n/a","None"
+"Keystone Bancshares,"Inc."","Director","Alex Smith","2023","Partner","0.29%","n/a","None"

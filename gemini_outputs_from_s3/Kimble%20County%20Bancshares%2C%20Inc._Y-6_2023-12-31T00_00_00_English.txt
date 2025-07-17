@@ -1,10 +1,8 @@
-```csv
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Kimble County Bancshares,"Inc."","Junction,"TX"","2023","Dorthy Murr","Common Stock","260","11%","n/a"
-"Kimble County Bancshares,"Inc."","Junction,"TX"","2023","Jon Murr","Common Stock","252","10%","n/a"
-"Kimble County Bancshares,"Inc."","Georgetown,"TX"","2023","Robert M. Neal Jr.","Common Stock","292","12%","n/a"
-"Kimble County Bancshares,"Inc."","Abilene,"TX"","2023","Jon K. Neal","Common Stock","270","11%","n/a"
-```
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Kimble Country Bancshares","Inc.","Junction,"TX"","2023","Dorthy Murr","Common Stock","260","11%","n/a"
+"Kimble Country Bancshares","Inc.","Junction,"TX"","2023","Jon Murr","Common Stock","252","10%","n/a"
+"Kimble Country Bancshares","Inc.","Georgetown,"TX"","2023","Robert M. Neal Jr.","Common Stock","292","12%","n/a"
+"Kimble Country Bancshares","Inc.","Abilene,"TX"","2023","Jon K. Neal","Common Stock","270","11%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

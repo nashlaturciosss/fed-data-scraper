@@ -1,10 +1,4 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"FM Fincorp","Chairman-CEO","Jeffrey W. Gump","n/a","n/a","2023","n/a","n/a","1135196","n/a"
-"FM Fincorp","Vice President-CFO","Katie Sweeney","n/a","n/a","2023","n/a","n/a","1135196","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

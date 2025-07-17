@@ -1,13 +1,9 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"CB Bancshares Corp","Director","Alan Deines","Managing Director,"Co-Head of Fiduciary"","Beneficient Company Group LP","2022","Banker","0","n/a","n/a"
-"CB Bancshares Corp","Director","Britt Nichols","Director","Farmers State Bank","2022","Attorney/Retired","0%","n/a","n/a"
-"CB Bancshares Corp","Chairman,"Director/ President","Director"","Suchitra Padmanabhan","Chairman","KHRC","2022","Banker","0%","n/a","50%"
-"CB Bancshares Corp","Secretary/Director Chairman/Director","Suresh Ramamurthi","CEO","BC Capital Inc","2022","Business","1,"096 (.91%) (Trustee)"","n/a","100%"
-"CB Bancshares Corp","None/Director","Sanjay Mishra","Professor","University of Kansas","2022","Professor","0","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"CB Bancshares Corp","Director","Alan Deines","2022","Banker","0","n/a","n/a"
+"CB Bancshares Corp","Director","Britt Nichols","2022","Attorney/Retired","0","n/a","n/a"
+"CB Bancshares Corp","Chairman,"Director","President"","Suchitra Padmanabhan","2022","Banker","0","n/a","n/a"
+"CB Bancshares Corp","Secretary,"Director","Chairman"","Suresh Ramamurthi","2022","Business","91","n/a","n/a"
+"CB Bancshares Corp","Director","Sanjay Mishra","2022","Professor","0","n/a","n/a"

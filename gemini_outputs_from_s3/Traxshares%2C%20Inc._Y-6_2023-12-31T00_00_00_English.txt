@@ -1,16 +1,9 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Traxshares,"Inc."","Director / President","Greg Traxler","n/a","n/a","2023","Banker","51.53%","n/a","n/a"
-"Traxshares,"Inc."","President/Chairman","Greg Traxler","n/a","Charlie's Kilkenny Farm,"LLC"","2023","Banker","51.53%","n/a","n/a"
-"Traxshares,"Inc."","President/Chairman","Greg Traxler","n/a","Loans & Lattes LLC","2023","Banker","51.53%","n/a","n/a"
-"Traxshares,"Inc."","Vice President/Director","Margaret Traxler","n/a","n/a","2023","Housewife",".21%","n/a","n/a"
-"Traxshares,"Inc."","Director","Margaret Traxler","n/a","n/a","2023","Housewife",".21%","n/a","n/a"
-"Traxshares,"Inc."","n/a","Mark Traxler","n/a","Charlie's Kilkenny Farm,"LLC"","2023","Psychiatrist","24.58%","n/a","n/a"
-"Traxshares,"Inc."","Secretary/Treasurer/Director","Amber Overn","n/a","n/a","2023","Banker","n/a","n/a","n/a"
-"Traxshares,"Inc."","n/a","Michelle Traxler","n/a","Charlie's Kilkenny Farm,"LLC"","2023","Director of Medical Services","23.16%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Traxshares,"Inc."","Vice President,"Director"","Margaret Traxler","2023","Housewife","0.21%","n/a","n/a"
+"Traxshares,"Inc."","n/a","Mark Traxler","2023","Psychiatrist","24.58%","n/a","n/a"
+"Traxshares,"Inc."","Secretary,"Treasurer","Director"","Amber Overn","2023","Banker","n/a","n/a","n/a"
+"Traxshares,"Inc."","President,"Director","Chairman"","Greg Traxler","2023","Banker","51.53%","n/a","n/a"
+"Traxshares,"Inc."","n/a","Michelle Traxler","2023","Director of Medical Services","23.16%","n/a","n/a"

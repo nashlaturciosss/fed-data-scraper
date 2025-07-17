@@ -1,14 +1,10 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Scott Bancshares,"Inc."","Bethany,"IL"","2023","Sam Scott","n/a","1609","26%","1206425"
-"Scott Bancshares,"Inc."","Bethany,"IL"","2023","Barbara Scott","n/a","132","2%","1206425"
-"Scott Bancshares,"Inc."","Rehoboth Beach,"NE"","2023","Sally Stokes","n/a","586","10%","1206425"
-"Scott Bancshares,"Inc."","Urbana,"II"","2023","Gregory Jeffers","n/a","960.50","16%","1206425"
-"Scott Bancshares,"Inc."","Bethany,"Il"","2023","Tod Jeffers","n/a","756.50","13%","1206425"
-"Scott Bancshares,"Inc."","Mountain View,"Ca"","2023","Ann Wilkinson","n/a","372","6%","1206425"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Scott Bancshares,"Inc."","Bethany,"IL"","2023","Sam Scott","n/a","1609","26%","n/a"
+"Scott Bancshares,"Inc."","Bethany,"IL"","2023","Barbara Scott","n/a","132","2%","n/a"
+"Scott Bancshares,"Inc."","Rehoboth Beach,"NE"","2023","Sally Stokes","n/a","586","10%","n/a"
+"Scott Bancshares,"Inc."","Urbana,"IL"","2023","Gregory Jeffers","n/a","960.50","16%","n/a"
+"Scott Bancshares,"Inc."","Bethany,"IL"","2023","Tod Jeffers","n/a","756.50","13%","n/a"
+"Scott Bancshares,"Inc."","Mountain View,"CA"","2023","Ann Wilkinson","n/a","372","6%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

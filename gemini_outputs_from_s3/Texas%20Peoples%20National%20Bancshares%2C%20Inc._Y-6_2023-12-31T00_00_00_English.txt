@@ -1,22 +1,13 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Deborah A. Abbott","Common Stock","1060321","37.99%","n/a"
-"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Ronald E. Abbott","Common Stock","1060321","37.99%","n/a"
-"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","John W. Miles","Common Stock","939147","33.65%","n/a"
-"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Terry L. Christian","Common Stock","359494","12.88%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Texas Peoples National Bancshares,"Inc."","Principal Securities Holder","Deborah A. Abbott","n/a","n/a","2023","Investor","37.99%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","President/Director,"Director"","John W. Miles","n/a","n/a","2023","Doctor of Dental Surgery,"Retired"","33.65%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Chairman/CEO/Director,"Director"","Terry L. Christian","Ltd. Partner","Wolf Creek Rider,"Ltd."","2023","Banker,"Retired"","12.88%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Chairman/CEO/Director,"Director"","Terry L. Christian","Member","SRT Diversified,"LLC"","2023","Banker,"Retired"","12.88%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Secretary/Treasurer/Director,"President/Director"","T. Bradley Perry","n/a","Paris Service Corp.","2023","Banker","3.70%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Secretary/Treasurer/Director,"President/Director"","T. Bradley Perry","n/a","TPNB Service Corp.","2023","Banker","3.70%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Secretary/Treasurer/Director,"President/Director"","T. Bradley Perry","Member","B & T Perry,"LLC"","2023","Banker","3.70%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Secretary/Treasurer/Director,"President/Director"","T. Bradley Perry","Member","CB Perry Investments,"LLC"","2023","Banker","3.70%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Assistant Secretary-Treasurer,"Executive Vice-President/ COO/CFO/Cashier/ Director"","John Blackwell","Vice-President/Secretary/Treasurer/Director","Paris Service Corp.","2023","Banker","2.77%","n/a","n/a"
-"Texas Peoples National Bancshares,"Inc."","Vice-President/Assistant Secretary-Treasurer,"Executive Vice-President/ COO/CFO/Cashier/ Director"","John Blackwell","Vice-President/Secretary/Treasurer/Director","TPNB Service Corp.","2023","Banker","2.77%","n/a","n/a"
-```
+"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Deborah A. Abbott","Common Stock","1060.321","37.99%","n/a"
+"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","John W. Miles","Common Stock","939.147","33.65%","n/a"
+"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Terry L. Christian","Common Stock","359.494","12.88%","n/a"
+"Texas Peoples National Bancshares,"Inc."","Paris,"Texas"","2023","Ronald E. Abbott","Common Stock","1060.321","37.99%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Texas Peoples National Bancshares,"Inc."","Principal Securities Holder","Deborah A. Abbott","2023","Investor","37.99%","n/a","n/a"
+"Texas Peoples National Bancshares,"Inc."","President,"Director","Administrator"","John W. Miles","2023","Doctor of Dental Surgery,"Retired"","33.65%","n/a","n/a"
+"Texas Peoples National Bancshares,"Inc."","Chairman,"CEO","Director","Administrator"","Terry L. Christian","2023","Banker,"Retired"","12.88%","n/a","n/a"
+"Texas Peoples National Bancshares,"Inc."","Vice-President,"Secretary","Treasurer","Director","President","CEO","Chairman"","T. Bradley Perry","2023","Banker","3.70%","n/a","n/a"
+"Texas Peoples National Bancshares,"Inc."","Vice-President,"Assistant Secretary","Treasurer","Executive Vice-President","COO","CFO","Cashier","Director","Secretary"","John Blackwell Cooper","2023","Banker","2.77%","n/a","n/a"

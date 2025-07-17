@@ -1,17 +1,11 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"CSB FINANCIAL CORPORATION","Miles,"TX"","2023","Charles Ehrig","Common Stock","260","5.22%","n/a"
-"CSB FINANCIAL CORPORATION","Miles,"TX"","2023","Eugene A. Kasberg,"Jr."","Common Stock","355","7.12%","n/a"
-"CSB FINANCIAL CORPORATION","n/a","2023","Stokes Family Interests (listed individually below)","Common Stock","924","18.54%","n/a"
-"CSB FINANCIAL CORPORATION","San Angelo,"TX"","2023","The Stokes Family Trust FBO GDS Gary D. Stokes,"Trustee"","Common Stock","462","9.27%","n/a"
-"CSB FINANCIAL CORPORATION","San Angelo,"TX"","2023","The Stokes Family Trust FBO PDS Patricia D. Stokes,"Trustee"","Common Stock","462","9.27%","n/a"
-"CSB FINANCIAL CORPORATION","n/a","2023","Smithwick Family Interests (listed individually below)","Common Stock","1841","36.94%","n/a"
-"CSB FINANCIAL CORPORATION","San Angelo,"TX"","2023","Billie Smithwick","Common Stock","650","13.04%","n/a"
-"CSB FINANCIAL CORPORATION","San Angelo,"TX"","2023","Lori Smithwick 2013 Trust Billie Smithwick,"Trustee"","Common Stock","431","8.65%","n/a"
-"CSB FINANCIAL CORPORATION","Miles,"TX"","2023","Kyle Smithwick","Common Stock","760","15.25%","n/a"
-```
-```csv
+"CSB Financial Corporation","Miles,"TX"","2023","Charles Ehrig","Common Stock","260","5.22%","n/a"
+"CSB Financial Corporation","Miles,"TX"","2023","Eugene A. Kasberg,"Jr."","Common Stock","355","7.12%","n/a"
+"CSB Financial Corporation","San Angelo,"TX"","2023","The Stokes Family Trust FBO GDS,"Gary D. Stokes","Trustee"","Common Stock","462","9.27%","n/a"
+"CSB Financial Corporation","San Angelo,"TX"","2023","The Stokes Family Trust FBO PDS,"Patricia D. Stokes","Trustee"","Common Stock","462","9.27%","n/a"
+"CSB Financial Corporation","San Angelo,"TX"","2023","Billie Smithwick","Common Stock","650","13.04%","n/a"
+"CSB Financial Corporation","San Angelo,"TX"","2023","Lori Smithwick 2013 Trust,"Billie Smithwick","Trustee"","Common Stock","431","8.65%","n/a"
+"CSB Financial Corporation","Miles,"TX"","2023","Kyle Smithwick","Common Stock","760","15.25%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

@@ -1,27 +1,22 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"First Busey Corporation","New York,"NY"","2023","Blackrock,"Inc."","n/a","4663932","8.44%","n/a"
+"First Busey Corporation","New York,"NY"","2023","Blackrock","Inc.","n/a","4663932","8.44%","n/a"
 "First Busey Corporation","Austin,"TX"","2023","Dimensional Fund Advisors LP","n/a","3278444","5.93%","n/a"
 "First Busey Corporation","Malvern,"PA"","2023","The Vanguard Group","n/a","2943012","5.33%","n/a"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"First Busey Corporation","Director","Samuel P. Banks","Not for Profit Consultant","n/a","2023","Not for Profit Consultant","0.04%","n/a","n/a"
-"First Busey Corporation","Director","George Barr","Attorney,"George Barr & Associates"","n/a","2023","Attorney,"George Barr & Associates"","0.42%","n/a","n/a"
-"First Busey Corporation","Executive Vice President & Chief Risk Officer","Monica L. Bowe","n/a","n/a","2023","n/a","0.07%","n/a","n/a"
-"First Busey Corporation","Director","Stanley J. Bradshaw","Principal,"Bradshaw Capital Management","LLC"","Bradshaw Capital Management,"LLC"","2023","n/a","0.76%","n/a","n/a"
-"First Busey Corporation","Director","Michael D. Cassens","Assistant Professor,"University of Montana"","University of Montana","2023","n/a","0.26%","n/a","n/a"
-"First Busey Corporation","Director,"Busey Bank"","Van A. Dukeman","Chairman,"President & Chief Executive Officer"","FirsTech,"Inc."","2023","n/a","0.73%","n/a","n/a"
-"First Busey Corporation","Director","Karen M. Jensen","President & Chief Executive Officer,"Farnsworth Group","Inc."","Farnsworth Group,"Inc."","2023","n/a","0.08%","n/a","n/a"
-"First Busey Corporation","Executive Vice President & Chief Financial Officer","Jeffrey D. Jones","n/a","n/a","2023","n/a","0.15%","n/a","n/a"
-"First Busey Corporation","Director","Frederic L. Kenney","Attorney and Director,"Christy-Foltz","Inc."","Christy-Foltz,"Inc."","2023","n/a","0.33%","n/a","n/a"
-"First Busey Corporation","Director","Stephen V. King","Founding Partner & Managing Member Prairie Capital,"L.P."","Prairie Capital,"L.P."","2023","n/a","0.34%","n/a","n/a"
-"First Busey Corporation","Vice-Chairman of the Board,"Director","Busey Bank"","Gregory B. Lykins","n/a","n/a","2023","n/a","3.31%","n/a","n/a"
-"First Busey Corporation","Senior Vice President,"Corporate Controller & Principal Accounting Officer"","Scott A. Phillips","n/a","n/a","2023","n/a","0.01%","n/a","n/a"
-"First Busey Corporation","Executive Vice President & General Counsel","John J. Powers","n/a","n/a","2023","n/a","0.22%","n/a","n/a"
-"First Busey Corporation","Executive Vice President & Chief Operating Officer","Amy L. Randolph","n/a","n/a","2023","n/a","0.17%","n/a","n/a"
-"First Busey Corporation","Director","Cassandra R. Sanford","Co-Founder/Chief Executive Officer,"KellyMitchell Group"","KellyMitchell Group","2023","n/a","0.02%","n/a","n/a"
-"First Busey Corporation","Trustee,"First Busey Corporation Employee Stock Ownership Plan"","Busey Bank","n/a","n/a","2023","n/a","0.76%","n/a","n/a"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"First Busey Corporation","Director","Samuel P. Banks","2023","Not for Profit Consultant","0.04%","n/a","n/a"
+"First Busey Corporation","Director","George Barr","2023","Attorney,"George Barr & Associates"","0.42%","n/a","n/a"
+"First Busey Corporation","Executive Vice President,"Chief Risk Officer"","Monica L. Bowe","2023","n/a","0.07%","n/a","n/a"
+"First Busey Corporation","Director","Stanley J. Bradshaw","2023","Principal,"Bradshaw Capital Management","LLC"","0.76%","n/a","n/a"
+"First Busey Corporation","Director","Michael D. Cassens","2023","Assistant Professor,"University of Montana"","0.26%","n/a","n/a"
+"First Busey Corporation","Chairman,"President","Chief Executive Officer","Director"","Van A. Dukeman","2023","n/a","0.73%","n/a","n/a"
+"First Busey Corporation","Director","Karen M. Jensen","2023","President & Chief Executive Officer,"Farnsworth Group","Inc."","0.08%","n/a","n/a"
+"First Busey Corporation","Executive Vice President,"Chief Financial Officer"","Jeffrey D. Jones","2023","n/a","0.15%","n/a","n/a"
+"First Busey Corporation","Director","Frederic L. Kenney","2023","Attorney and Director,"Christy-Foltz","Inc."","0.33%","n/a","n/a"
+"First Busey Corporation","Director","Stephen V. King","2023","Founding Partner & Managing Member Prairie Capital,"L.P."","0.34%","n/a","n/a"
+"First Busey Corporation","Vice-Chairman,"Director"","Gregory B. Lykins","2023","n/a","3.31%","n/a","n/a"
+"First Busey Corporation","Senior Vice President,"Corporate Controller","Principal Accounting Officer"","Scott A. Phillips","2023","n/a","0.01%","n/a","n/a"
+"First Busey Corporation","Executive Vice President,"General Counsel"","John J. Powers","2023","n/a","0.22%","n/a","n/a"
+"First Busey Corporation","Executive Vice President,"Chief Operating Officer"","Amy L. Randolph","2023","n/a","0.17%","n/a","n/a"
+"First Busey Corporation","Director","Cassandra R. Sanford","2023","Co-Founder/Chief Executive Officer,"KellyMitchell Group"","0.02%","n/a","n/a"

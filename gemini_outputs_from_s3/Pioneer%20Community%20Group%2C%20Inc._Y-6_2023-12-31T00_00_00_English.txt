@@ -1,21 +1,15 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Pioneer Community Bank","Director","Kevin Heath Bailey","Kevin H. Bailey DDS","Kevin H. Bailey DDS","2023","Dentist","0.0036%","n/a","n/a"
-"Pioneer Community Bank","Director","M. Randall Dority","n/a","n/a","2023","Retired Public School Teacher","0.0044%","n/a","n/a"
-"Pioneer Community Bank","Director","Tara Elder","Owner","Ashland Consulting Group","2023","Consultant","0.0032%","n/a","n/a"
-"Pioneer Community Bank","Director","Tara Elder","Owner","Tara Elder Business Consultant","2023","Consultant","0.0032%","n/a","n/a"
-"Pioneer Community Bank","Director","Phillip Haga","n/a","n/a","2023","Real Estate Appraiser","0.0028%","n/a","n/a"
-"Pioneer Community Bank","Director","Jeffery A. Miller","n/a","n/a","2023","Executive Director of WV Parkways Authority","0.1400%","n/a","n/a"
-"Pioneer Community Bank","Director","Mary E. Spence","n/a","n/a","2023","Retired Loan Officer","0.0040%","n/a","n/a"
-"Pioneer Community Bank","Director & Chairman","Carl W. Roop","President & Owner","Carl W. Roop Law Office,"PLLC"","2023","Attorney","0.5751%","n/a","n/a"
-"Pioneer Community Bank","Director & Chairman","Carl W. Roop","President & Owner","MJB Rental & Leasing Company","2023","Attorney","0.5751%","n/a","n/a"
-"Pioneer Community Bank","Director & Chairman","Carl W. Roop","President & Owner","I & I Leasing LLC","2023","Attorney","0.5751%","n/a","n/a"
-"Pioneer Community Bank","President & CEO","Gregory S. Shupe","President and Director","n/a","2023","n/a","0.1672%","n/a","n/a"
-"Pioneer Community Bank","Director","Christopher R. Vaught","President & CEO","Vaught Inc.","2023","Consultant","0.1726%","n/a","n/a"
-"Pioneer Community Bank","Principal Shareholder","Phillip Blair Haga","n/a","n/a","2023","Retired","11.3904%","n/a","n/a"
-```
+"Pioneer Community Group,"Inc."","n/a","2023","n/a","n/a","n/a","n/a","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Pioneer Community Group,"Inc."","Director","Kevin Heath Bailey","2023","Dentist","0.0036%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","M. Randall Dority","2023","Retired Public School Teacher","0.0044%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","Tara Elder","2023","Consultant","0.0032%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","Phillip Haga","2023","Real Estate Appraiser","0.0028%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","Jeffery A. Miller","2023","Executive Director of WV Parkways Authority","0.1400%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","Mary E. Spence","2023","Retired Loan Officer","0.0040%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director,"Chairman"","Carl W. Roop","2023","Attorney","0.5751%","n/a","n/a"
+"Pioneer Community Group,"Inc."","President,"CEO","Director"","Gregory S. Shupe","2023","n/a","0.1672%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Director","Christopher R. Vaught","2023","Consultant","0.1726%","n/a","n/a"
+"Pioneer Community Group,"Inc."","Principal Shareholder","Phillip Blair Haga","2023","Retired","11.3904%","n/a","n/a"

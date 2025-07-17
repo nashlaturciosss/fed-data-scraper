@@ -1,48 +1,9 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Goose River Holding Company","Secretary","Ernest Strube","n/a","n/a","2023","Banker","9.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","President,"General Manager"","Arthur Mercantile,"LLC"","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Chairman,"Director"","First Financial Corp.","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Chairman,"Director"","BankNorth","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Partner","Williams Farms","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","President","Arthur Village Apartments,"LLC"","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Managing Partner","Williams Land Holdings LLLP","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Secretary,"Director"","Agri Valley Insurance,"Inc."","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Managing Partner","Williams Capital Partners","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Director","JDA","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","General Partner","JBW Farmland LLLP","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","President,"Director"","James L. Williams","Trustee","Williams 2022 Property Trust","2023","Investor,"Banker"","34.8%","n/a","None"
-"Goose River Holding Company","Director","Kim O. Larson","Vice President,"Director"","Agri Valley Insurance,"Inc"","2023","Retired Banker","None","n/a","None"
-"Goose River Holding Company","Director","Kim O. Larson","n/a","n/a","2023","Retired Banker","None","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","President","First Financial Corp.","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","CEO,"Director"","BankNorth","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Managing Partner","Williams Capital Partners","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Director","Arthur Mercantile,"LLC"","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Managing Partner","Williams Land Holdings,"LLLP"","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Partner","Williams Farms Partnership","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Vice President,"Stockholder"","Agri Valley Insurance,"Inc."","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","CFO","MinnDak Bancshares,"Inc."","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Director","Vantage Bank","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Managing Partner","Williams Mineral Investments,"LLC"","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Trustee","Williams Family 2021 Irrevocable Trust","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Chairman
-"Director"","James L. Williams III","Trustee","Williams Family Goose River Trust","2023","Banker","30.9%","n/a","None"
-"Goose River Holding Company","Secretary,""
-"Director"","Ernest Strube","n/a","n/a","2023","Banker","9.8%","n/a","None"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Goose River Holding Company","President,"Director","Vice Chairman of the Board","General Manager","Chairman","Partner","Managing Partner","Secretary","General Partner","Trustee"","James L. Williams","2023","Investor,"Banker"","34.8%","n/a","n/a"
+"Goose River Holding Company","Vice President,"Director"","Kim O. Larson","2023","Retired Banker","n/a","n/a","n/a"
+"Goose River Holding Company","Treasurer,"Director","Chairman of the Board","President","CEO","Managing Partner","Partner","Vice President","Stockholder","CFO","Trustee"","James L. Williams III","2023","Banker","30.9%","n/a","n/a"
+"Goose River Holding Company","Secretary,"Director","CEO/President"","Ernest Strube","2023","Banker","9.8%","n/a","n/a"
+"Goose River Holding Company","Trustee","Williams Family Goose River Trust","2023","n/a","24.6%","n/a","n/a"

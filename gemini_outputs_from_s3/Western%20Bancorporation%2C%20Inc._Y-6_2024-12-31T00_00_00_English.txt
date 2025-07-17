@@ -1,16 +1,11 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","Stephen H. Lewis","n/a","36872.00","29.38%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","Barbara J. Lewis","n/a","34845.00","27.76%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","Western National Bank ar","n/a","7567.00","6.35%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","William S. Lewis","n/a","7567.00","6.03%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","John S. Lewis","n/a","7567.00","6.03%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","Thomas S. Lewis","n/a","7567.00","6.03%","3271267"
-"Western Bancorporation,"Inc."","Duluth,"Minnesota"","2024","James S. Lewis","n/a","7567.00","6.03%","3271267"
-"Cass Lake Company","Duluth,"Minnesota"","2024","Western Bancorporation,"Inc."","n/a","700.00","100%","n/a"
-```
-```csv
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","Stephen H. Lewis","Common Stock","36872","29.38%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","Barbara J. Lewis","Common Stock","34845","27.76%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","Western National Bank ar","Common Stock","7567","6.35%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","William S. Lewis","Common Stock","7567","6.03%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","John S. Lewis","Common Stock","7567","6.03%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","Thomas S. Lewis","Common Stock","7567","6.03%","n/a"
+"WESTERN BANCORPORATION,"INC."","Duluth,"Minnesota"","2024","James S. Lewis","Common Stock","7567","6.03%","n/a"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"

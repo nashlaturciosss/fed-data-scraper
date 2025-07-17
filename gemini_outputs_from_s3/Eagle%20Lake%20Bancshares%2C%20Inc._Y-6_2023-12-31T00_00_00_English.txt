@@ -1,22 +1,16 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Eagle Lake Bancshares,"Inc."","Director - Senior Chairman","Wm. H. Harrison Jr.","Advisory Director","The First National Bank of Eagle Lake","2023","Retired Banker","6.25%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","n/a","Margo H. Harrison","Principal Securities Holder","n/a","2023","Homemaker","1.31%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director - Chairman","John Gertson","Director","Paddy Farms,"Inc."","2023","Rancher","2.82%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director - Chairman","John Gertson","President","Gertson Farms Partnership","2023","Rancher","2.82%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Russell Thomas,"DO"","Director","The First National Bank of Eagle Lake","2023","Physician","1.10%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","David Webster","Director","The First National Bank of Eagle Lake","2023","Air Conditioning Professional","0.06%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Tom Kelley","Partner","Wiese Crop Insurance","2023","Crop Insurance Sales","0.34%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Tom Kelley","Director","The First National Bank of Eagle Lake","2023","Crop Insurance Sales","0.34%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Phillip Garcia","CEO/President","PRRH,"LP"","2023","General Construction Contractor","0.06%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Jason Consoli","Director","The First National Bank of Eagle Lake","2023","Banker","0.15%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","n/a","Michael Lanier","President","Red Bluff Prairie Hunting Club","2023","n/a","0.28%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Michael R. Mangum","Director","The First National Bank of Eagle Lake","2023","Retired/Oil and Gas Producer","12.72%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Director","Sam Kana","Director","The First National Bank of Eagle Lake","2023","Banker","0.06%","n/a","n/a"
-"Eagle Lake Bancshares,"Inc."","Secretary","Leslie Sedlock","Vice President/Treasurer","The First National Bank of Eagle Lake","2023","Banker","0.06%","n/a","n/a"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Eagle Lake Bancshares,"Inc."","Director,"Senior Chairman","Advisory Director"","Wm. H. Harrison Jr.","2023","Retired Banker","6.25%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Principal Securities Holder","Margo H. Harrison","2023","Homemaker","1.31%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director,"Chairman","President"","John Gertson","2023","Rancher","2.82%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director","Russell Thomas,"DO"","2023","Physician","1.10%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director","David Webster","2023","Air Conditioning Professional","0.06%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director","Tom Kelley","2023","Crop Insurance Sales","0.34%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Shareholder,"Director","CEO","President"","Phillip Garcia","2023","General Construction Contractor","0.06%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director","Jason Consoli","2023","Banker","0.15%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director,"President"","Michael Lanier","2023","Retired/Construction Project Mgr","0.28%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Principal Securities Holder","Michael R. Mangum","2023","Retired/Oil and Gas Producer","12.72%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","Director,"Vice CEO"","Sam Kana","2023","Banker","0.06%","n/a","None"
+"Eagle Lake Bancshares,"Inc."","President,"Treasurer","Secretary","Director","Executive Officer"","Leslie Sedlock","2023","Banker","0.06%","n/a","None"

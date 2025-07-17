@@ -1,32 +1,10 @@
-```csv
-SECURITIES HOLDERS CSV
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-```
-```csv
-INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Arrowhead Company","President & Director","Mary M. Moursund","General Partner","Moursund Limited","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Arrowhead Burbank","Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Arrowhead West Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Moursund Insurance Agency","Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Moursund Law Offices","PC","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Southwest Moursund Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Rachlander Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Red-Eyes Stops","Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Mary S Moursund Land & Cattle Company","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","President & Director","Mary M. Moursund","Director and Executive Officer","Lakeland Investment Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","General Partner","Moursund Limited","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Arrowhead Burkbank","inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Arrowhead West Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Moursund Insurance Agency","Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Moursund Law Offices","PC","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Southwest Moursund Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Rachlander Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Red-Eyes Stops","Inc","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Mary S Moursund Land & Cattle Company","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Vice-President & Director","Will S Moursund","Director and Executive Officer","Lakeland Investment Corporation","2023","Attorney","50.00%","n/a","n/a"
-"Arrowhead Company","Director","Ingrid W Moursund","Vice-President & Director","Arrowhead Land Titles Inc","2023","Attorney","n/a","n/a","n/a"
-"Arrowhead Company","Secretary","Patsy Lewis","Advisory Director","n/a","2023","Legal Secretary","n/a","n/a","n/a"
-"Arrowhead Company","Director","Albert W Moursund","IV","Managing Member","Flying Fox Cattle Co","LLC","2023","Rancher","n/a","n/a","n/a"
-"Arrowhead Company","Director","Autumn Moursund","VCOB","Vice President","Trust Officer","n/a","2023","Banker","n/a","n/a","n/a"
-```
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Arrowhead Company","President,"Director","COB"","Mary M. Moursund","2023","Attorney","50.00%","n/a","n/a"
+"Arrowhead Company","Vice-President,"Director"","Will S Moursund","2023","Attorney","50.00%","n/a","n/a"
+"Arrowhead Company","Director","Ingrid W Moursund","2023","Attorney","n/a","n/a","n/a"
+"Arrowhead Company","Secretary,"Advisory Director","Director"","Patsy Lewis","2023","Legal Secretary","n/a","n/a","n/a"
+"Arrowhead Company","Director,"Advisory Director"","Albert W Moursund,"IV"","2023","Rancher","n/a","n/a","n/a"
+"Arrowhead Company","Director,"VCOB","Vice President","Trust Officer"","Autumn Moursund","2023","Banker","n/a","n/a","n/a"

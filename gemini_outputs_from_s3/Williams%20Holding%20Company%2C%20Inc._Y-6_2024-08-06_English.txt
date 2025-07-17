@@ -1,18 +1,11 @@
-```csv
 ### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Williams Holding Company,"Inc."","HALSTEAD,"KS"","2022","LARRY WILLIAMS (TRUSTEE FOR LARRY K. WILLIAMS REVOCABLE TRUST DATED 6/14/2021)","Common Stock (V)","619.6","53.62%","1064513"
-"Williams Holding Company,"Inc."","SEDGWICK,"KS"","2022","ANNE WILLIAMS","Common Stock (V)","153","13.24%","1064513"
-"Williams Holding Company,"Inc."","HALSTEAD,"KS"","2022","ALEX K. WILLIAMS","Common Stock (V)","153","13.24%","1064513"
-"Williams Holding Company,"Inc."","TULSA,"OK"","2022","JACK WILLIAMS (TRUSTEE FOR THE WILLIAMS LIVING TRUST DATED 2-18-1999)","Common Stock (V)","180.8","15.39%","1064513"
-```
-```csv
+"Williams Holding Company,"Inc."","Halstead,"KS"","2022","LARRY WILLIAMS (TRUSTEE FOR LARRY K. WILLIAMS REVOCABLE TRUST DATED 6/14/2021)","Common Stock (V)","619.6","53.62%","1064513"
+"Williams Holding Company,"Inc."","Sedgwick,"KS"","2022","ANNE WILLIAMS","Common Stock (V)","153","13.24%","1064513"
+"Williams Holding Company,"Inc."","Halstead,"KS"","2022","ALEX K. WILLIAMS","Common Stock (V)","153","13.24%","1064513"
+"Williams Holding Company,"Inc."","Tulsa,"OK"","2022","JACK WILLIAMS (TRUSTEE FOR THE WILLIAMS LIVING TRUST DATED 2-18-1999)","Common Stock (V)","180.8","15.39%","1064513"
 ### INSIDERS CSV
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Williams Holding Company,"Inc."","Director,"President"","Alex K. Williams","n/a","n/a","2022","Banking","13.24%","1064513","n/a"
-"Williams Holding Company,"Inc."","President & Director","Alex K. Williams","n/a","The Halstead Bank","2022","Banking","13.24%","1064513","0.00%"
-"Williams Holding Company,"Inc."","Director,"Vice President","Secretary","and Treasurer"","Anne Williams","n/a","n/a","2022","Banking","13.24%","1064513","n/a"
-"Williams Holding Company,"Inc."","Vice President & Director","Anne Williams","n/a","The Halstead Bank","2022","Banking","13.24%","1064513","0.00%"
-"Williams Holding Company,"Inc."","n/a","Larry K. Williams","n/a","n/a","2022","Retired-Banking","53.62%","1064513","n/a"
-"Williams Holding Company,"Inc."","n/a","Larry K. Williams","n/a","The Halstead Bank","2022","Retired-Banking","53.62%","1064513","0.00%"
-```
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Williams Holding Company,"Inc."","Director,"President"","Alex K. Williams","2022","Banking","13.24%","1064513","0.00%"
+"Williams Holding Company,"Inc."","Director,"Vice President","Secretary","Treasurer"","Anne Williams","2022","Banking","13.24%","1064513","0.00%"
+"Williams Holding Company,"Inc."","n/a","Larry K. Williams","2022","Retired-Banking","53.62%","1064513","0.00%"

@@ -1,18 +1,16 @@
-```csv
+### SECURITIES HOLDERS CSV
 "Bank","Town","Fiscal Year","Owner Name","Stock Class","Number of Shares","Percentage of Ownership","RSSD_ID"
-"Oakwood Bancshares,"Inc."","Dallas,"USA"","2023","Walker Royall","Common Stock","478539","6.71%","n/a"
-"Oakwood Bancshares,"Inc."","Dallas,"USA"","2023","William Hall","Common Stock","488167","6.90%","n/a"
-```
-```csv
-"Bank","Internal Title","Person","External Title","Affiliation","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
-"Oakwood Bank","Director,"Chairman","CEO","President"","Roy J. Salley","n/a","n/a","2023","Banker","2.51%","960560","n/a"
-"Oakwood Bank","Director","Aaron Sherman","Partner","Stillwater Capital Investments,"LLC"","2023","Real Estate Developer","1.03%","960560","n/a"
-"Oakwood Bank","Director","Tom Montgomery","Partner","Montgomery,"Coscia","Greilich LLP"","2023","Accounting & consulting services","2.63%","960560","n/a"
-"Oakwood Bank","Director","Η Walker Royall","President","Briarwood Capital Corp","2023","Real Estate investment & development","6.71%","960560","n/a"
-"Oakwood Bank","Director","Paul D. Westerman","Trustee","Westerman 1999 Family Tust","2023","Trustee of Family Trusts","3.16%","960560","n/a"
-"Oakwood Bank","Director","Mark B. Alegnani","Owner","Alegnani Consulting Group,"Inc."","2023","Accountant","0.65%","960560","n/a"
-"Oakwood Bank","Director","William G. Hall","Partner and Chief Executive Officer","Align Capital","2023","Entrepreneur ownership,"business consulting and private equity"","6.90%","960560","n/a"
-"Oakwood Bank","Director,"EVP","Chief Financial Officer"","Suzanne C. Salls","n/a","n/a","2023","Banker/Accountant","0.97%","960560","n/a"
-"Oakwood Bank","Director","Carla J. Brooks","Senior Management Director","Commerce Street Capital","2023","Senior Managing Director","0.034%","960560","n/a"
-"Oakwood Bank","Director","Michael T. Casey","n/a","n/a","2023","Banker","0.30%","960560","n/a"
-```
+"Oakwood Bancshares,"Inc."","Dallas,"Texas"","2023","Walker Royall","Common Stock","478539","6.71%","n/a"
+"Oakwood Bancshares,"Inc."","Dallas,"Texas"","2023","William Hall","Common Stock","488167","6.90%","n/a"
+### INSIDERS CSV
+"Bank","Internal Title","Person","Fiscal Year","Occupation","Percentage of Voting Shares","RSSD_ID","Percentage of Voting Shares in Subsidiaries"
+"Oakwood Bancshares,"Inc."","Director,"Chairman","CEO","President"","Roy J. Salley","2023","Banker","2.51%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director","Aaron Sherman","2023","Real Estate Developer","1.03%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director","Tom Montgomery","2023","Accounting & consulting services","2.63%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"President"","H Walker Royall","2023","Real Estate investment & development","6.71%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"Trustee"","Paul D. Westerman","2023","Trustee of Family Trusts","3.16%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"Owner"","Mark B. Alegnani","2023","Accountant","0.65%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"Partner and Chief Executive Officer"","William G. Hall","2023","Entrepreneur ownership,"business consulting and private equity"","6.90%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"EVP","Chief Financial Officer"","Suzanne C. Salls","2023","Banker/Accountant","0.97%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director,"Senior Management Director"","Carla J. Brooks","2023","Senior Managing Director","0.034%","n/a","None"
+"Oakwood Bancshares,"Inc."","Director","Michael T. Casey","2023","Banker","0.30%","n/a","None"
